@@ -1,3 +1,4 @@
+import csv
 from typing import *
 from enum import Enum
 
@@ -14,12 +15,20 @@ class Property:
         self.index = index
         self.type = type
         self.description = description
+    
+    @classmethod
+    def from_raw_line(cls, line):
+        blank, index, name, type, desc = line
+        return Property(name, index, CorgisType[type], desc)
 
 class Dataset:
+
+    PREVIEW_LENGTH = 10
+
     def __init__(self, name: str, author: str, version: str, created: str,
                  data_file: str, overview: str, data_source: str,
                  description: str, tags: List[str], image: str,
-                 properties: List[Property]):
+                 properties: List[Property], values: List[Dict]):
         self.name = name
         self.author = author
         self.version = version
@@ -31,3 +40,64 @@ class Dataset:
         self.tags = tags
         self.image = image
         self.properties = properties
+        self.values = values
+    
+    def load_values(self, csv):
+        for line in csv:
+            self.values.append({
+                field.name: field.type.value(value)
+                for field, value in zip(self.properties, line)
+            })
+    
+    def __str__(self):
+        title = self.name+"\n"+(len(self.name)*"=")
+        header = ", ".join([
+            property.name for property in self.properties
+        ])
+        body = "\n".join(", ".join(list(map(str, row.values())))
+                      for row in self.values[:self.PREVIEW_LENGTH])
+        return "{}\n{}\n{}".format(title, header, body)
+        
+    @classmethod
+    def make_safe_name(cls, name):
+        return name.lower().replace(" ", "_")
+    
+    @classmethod
+    def header_from_csv(cls, csv):
+        for line in csv:
+            if not any(line):
+                continue
+            field_name = line[0]
+            if field_name.lower() != 'properties':
+                yield (cls.make_safe_name(field_name),
+                       line[1])
+            else:
+                break
+    
+    @classmethod
+    def fields_from_csv(cls, csv):
+        for line in csv:
+            if not any(line):
+                continue
+            yield Property.from_raw_line(line)
+    
+    @classmethod
+    def from_csv(cls, csv):
+        header = dict(cls.header_from_csv(csv))
+        fields = list(cls.fields_from_csv(list(csv)))
+        return Dataset(**header, properties=fields, values=[])
+
+def load_dataset(dataset_name: str) -> Dataset:
+    source_path = 'source/{name}/{name}'.format(name=dataset_name)
+    
+    meta_path = source_path + '-meta.csv'
+    with open(meta_path, 'r', encoding='utf-8') as metadata_file:
+        metadata_reader = csv.reader(metadata_file)
+        dataset = Dataset.from_csv(metadata_reader)
+    
+    data_path = source_path + '-corgis.csv'
+    with open(data_path, 'r', encoding='utf-8') as dataset_file:
+        dataset_reader = csv.reader(dataset_file)
+        dataset.load_values(dataset_reader)
+    
+    return dataset

@@ -1,0 +1,27 @@
+Name,Police Shootings,,,
+Version,0.0.1,,,
+Author,Dennis Kafura (kafura@vt.edu),,,
+Created,5/31/2019,,,
+Data File,fatal-police-shottings-corgis.csv,,,
+Overview,"The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",,,
+Data Source,https://github.com/washingtonpost/data-police-shootings,,,
+Description,https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html,,,
+Tags,"violence, crime, violent, police, shootings, race, location, time",,,
+Image,Washington-Post-Logo.png,,,
+Properties,Index,Name,Type,Description  
+,,Person.Name,string,"Full name of the individual or ""Unknown"" if not reported"
+,,Person.Age,int,Age in years of the individual or 0 (zero) if not reported
+,,Person.Gender,string,"One of Male, Female, or Unknown"
+,,Person.Race,string,"One of Asian, African American, White, Hispanic, Native American, Other, or Unknown."
+,,Incident.Date.Month,int,Month (1-12) in which the shooting occurred
+,,Incident.Date.Day,int,Day (1-31) in which the shooting occurred
+,,Incident.Date.Year,int,Year (2015-2019) in which the shooting occurred
+,TRUE,Incident.Date.Full,string,Date in which shooting occurred (Year/Month/Day)
+,,Incident.Location.City,string,Name of city in which the shooting occurred
+,TRUE,Incident.Location.State,string,Name of U.S. State in which the shooting occurred
+,,Factors.Armed,string,"Description of any weapon carried by the person (.e., ""gun"", ""knife"", ""unarmed""); value is ""unknown"" if not reported."
+,,Factors.Mental-Illness,boolean,True if factors of mental illness were perceived in the person; False otherwise
+,,Factors.Threat-Level,string,"Threat of person as perceived by police. One of ""attack"", ""undetermined"", or ""other""; value is ""unknown"" if not reported."
+,,Factors.Fleeing,string,"Means by which person was fleeing (e.g., ""Car"", ""Foot"") or ""Not fleeing""; value is ""unknown"" if not reported."
+,,Shooting.Manner,string,"Manner of person's death: one of ""shot"" or ""shot and Tasered""."
+,,Shooting.Body-Camera,boolean,True if police body camera recorded incident; False otherwise.

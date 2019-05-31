@@ -3,11 +3,8 @@ import os
 import importlib
 from typing import *
 
-from tools.dataset import Dataset
+from tools.dataset import load_dataset, Dataset
 from tools.build_report import BuildReport
-
-def load_dataset(dataset_name: str) -> Dataset:
-    pass
     
 def parse_format(format: str) -> List[str]:
     if format.lower() in ('all', '*'):
