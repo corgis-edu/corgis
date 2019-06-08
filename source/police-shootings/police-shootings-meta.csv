@@ -1,14 +1,14 @@
-Name,Police Shootings
-Version,0.0.1
-Author,Dennis Kafura (kafura@vt.edu)
-Created,5/31/2019
-Data File,fatal-police-shottings-corgis.csv
-Overview,"The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. "
-Data Source,https://github.com/washingtonpost/data-police-shootings
-Description,https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html
-Tags,"violence, crime, violent, police, shootings, race, location, time"
-Row,Shootings
-Image,Washington-Post-Logo.png
+Name,Police Shootings,,,
+Version,0.0.1,,,
+Author,Dennis Kafura (kafura@vt.edu),,,
+Created,5/31/2019,,,
+Data File,fatal-police-shottings-corgis.csv,,,
+Overview,"The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",,,
+Data Source,https://github.com/washingtonpost/data-police-shootings,,,
+Description,https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html,,,
+Tags,"violence, crime, violent, police, shootings, race, location, time",,,
+Row,Shootings,,,
+Image,Washington-Post-Logo.png,,,
 Properties,Name,Type,Index,Description  
 ,Person.Name,string,,"Full name of the individual or ""Unknown"" if not reported"
 ,Person.Age,int,,Age in years of the individual or 0 (zero) if not reported
