@@ -5,6 +5,7 @@ from typing import *
 
 from tools.dataset import load_dataset, Dataset
 from tools.build_report import BuildReport
+from tools.config import Config
     
 def parse_format(format: str) -> List[str]:
     if format.lower() in ('all', '*'):
@@ -16,12 +17,12 @@ def parse_format(format: str) -> List[str]:
     
     return formats
     
-def build_dataset(dataset: Dataset, format: str) -> BuildReport:
+def build_dataset(dataset: Dataset, format: str, config: Config) -> BuildReport:
     imported = importlib.import_module("tools.build_formats.build_"+format)
-    build_report = imported.build(dataset)
+    build_report = imported.build(dataset, config)
     return build_report
 
-def build(dataset_name: str, format: str) -> List[BuildReport]:
+def build(dataset_name: str, format: str, config: Config) -> List[BuildReport]:
     '''
     Loads the desired dataset by its name in the specified format.
     
@@ -34,4 +35,4 @@ def build(dataset_name: str, format: str) -> List[BuildReport]:
     dataset = load_dataset(dataset_name)
     formats = parse_format(format)
     for format in formats:
-        yield build_dataset(dataset, format)
+        yield build_dataset(dataset, format, config)

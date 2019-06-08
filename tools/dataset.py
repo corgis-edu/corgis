@@ -28,6 +28,7 @@ class Dataset:
     def __init__(self, name: str, author: str, version: str, created: str,
                  data_file: str, overview: str, data_source: str,
                  description: str, tags: List[str], image: str,
+                 row: str,
                  properties: List[Property], values: List[Dict]):
         self.name = name
         self.author = author
@@ -39,6 +40,7 @@ class Dataset:
         self.description = description
         self.tags = tags
         self.image = image
+        self.row = row
         self.properties = properties
         self.values = values
     
