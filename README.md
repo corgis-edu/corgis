@@ -6,7 +6,9 @@ This repository contains the tool that builds datasets, in addition to the raw a
 
 # Building Datasets
 
+```
 >>> pip install -r requirements.txt
+```
 
 Datasets should be built using Python 3.7. Although the datasets themselves are compatible with a wide range of formats and language versions, building the actual datasets is best done with Python 3.7. This is particularly important for the Python destination format, to ensure that the pickled dictionaries are stored in consistent order - this prevents unnecessary clogging of commit history.
 
@@ -30,4 +32,6 @@ Virginia,12,2,24,35
 
 ## Running Builder
 
+```
 >>> python corgis.py police-shootings python
+```
