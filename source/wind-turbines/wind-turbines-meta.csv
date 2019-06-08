@@ -1,0 +1,24 @@
+Name,Wind Turbines,,,
+Version,0.0.1,,,
+Author,Dennis Kafura,,,
+Created,6/8/2019,,,
+Data File,wind-turbines-corgis.csv,,,
+Overview,"This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",,,
+Data Source,https://www.sciencebase.gov/catalog/item/57bdfd8fe4b03fd6b7df5ff9,,,
+Description,"The Open PV Project is a collaborative effort between government, industry, and the public that continues to compile a database of available public data for photovoltaic (PV) installation data for the United States. Data for the project are voluntarily contributed from a variety of sources including solar incentive programs, utilities, installers, and the general public. This database serves as a web-based resource for users to easily explore and understand the current and past trends of the US PV industry. The data collected is actively maintained by the contributors and are always changing to provide an evolving, up-to-date snapshot of the US solar power market.",,,
+Tags,"energy, wind, power, air, turbine, utility, location, time",,,
+Row,Turbines,,,
+Image,wind-turbines.png,,,
+Properties,Name,Type,Index,Description  
+,Site.State,string,TRUE,"Two letter abbreviation of state where turbine is located (e.g., CA for California)"
+,Site.County,string,,County where the turbine is located.
+,Year,int,TRUE,Year when the turbine's project became operational
+,Turbine.Capacity,int,,Electrical generation capacity of the turbine measured in KW (kilo-watts)
+,Turbine.Hub_Height,float,,Height in meters of the turbine's hub
+,Turbine.Rotor_Diameter,float,,Diameter in meters of the turbine's rotor
+,Turbine.Swept_Area,float,,The area swept on each rotation of the turbine
+,Turbine.Total_Height,float,,"Total height of the turbine, in meters"
+,Project.Capacity,float,,Electrical generation capacity of the turbine measured in MW (mega-watts)
+,Project.Number_Turbines,int,,Number of turbines in this project
+,Site.Latitude,float,,Latitude (decimal degrees - NAD 83 datum) of where turbine is located
+,Site.Longitude,float,,Longitude (decimal degrees - NAD 83 datum)

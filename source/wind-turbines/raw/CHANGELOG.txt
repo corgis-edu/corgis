@@ -1,0 +1,193 @@
+# Changelog
+
+## [2.0.0] - 2019-04-24
+### Added
+- Added USWTDB API resource allowing for programmatic access to the USWTDB (https://eerscmap.usgs.gov/uswtdb/api-doc/).
+- Addition of 1450 turbine records. Additions include:
+	- 1450 new turbines.
+	
+### Removed
+- Removed 561 turbine records. Removals include: 
+	- 517 decommissioned turbines.
+	- 44 duplicate records removed.
+
+### Changed
+- A total of 19,727 attribute changes were made. These include:
+	- 259 "faa_asn" updates.
+	- 2 “t_state” updates.
+	- 46 “t_county” updates.
+	- 46 “t_fips” updates.
+	- 1,423 "p_name" updates.
+	- 73 "p_year" updates.
+	- 1,940 "p_tnum" updates.
+	- 1,156 "p_cap" updates.
+	- 838 "t_manu" updates.
+	- 2,564 "t_model" updates.
+	- 354 "t_cap" updates.
+	- 112 "t_hh" updates.
+	- 1,959 "t_rd" updates.
+	- 1,959 "t_rsa" updates.
+	- 3,277 "t_ttlh" updates.
+	- 2,550 "t_conf_atr" updates.
+	- 426 "t_conf_loc" updates.
+	- 575 "t_img_date" updates.
+	- 2 "t_img_srce" updates.
+	- 85 "xlong" updates.
+	- 81 "ylat" updates.
+	
+## [1.3.0] - 2019-01-07 (due to the partial U.S. federal government shutdown, the USGS was unable to release this update until 2/1/2019)
+### Added
+- Addition of 1091 turbine records. Additions include:
+	- 1025 new turbines.
+	- 66 existing turbines issued new case_id. Replaces old records.
+
+### Removed
+- Removed 827 turbine records. Removals include:
+	- 742 decommissioned turbines.
+	- 3 reclassified as "not a turbine".
+	- 1 residential scale turbines (<= 50 kW) identified and removed.
+	- 66 turbines issued new case_id. Replaced by new records.
+	- 15 duplicate turbines removed.
+
+### Changed
+- A total of 38,536 attribute changes were made. These include:
+	- 5,622 "faa_ors" updates.
+	- 5,971 "faa_asn" updates.
+	- 2 "usgs_pr_id" updates.
+	- 710 "p_name" updates.
+	- 25 "p_year" updates.
+	- 3,153 "p_tnum" updates.
+	- 599 "p_cap" updates.
+	- 3,202 "t_manu" updates.
+	- 3,683 "t_model" updates.
+	- 550 "t_cap" updates.
+	- 503 "t_hh" updates.
+	- 551 "t_rd" updates.
+	- 551 "t_rsa" updates.
+	- 194 "t_ttlh" updates.
+	- 746 "t_conf_atr" updates.
+	- 337 "t_conf_loc" updates.
+	- 6,492 "t_img_date" updates.
+	- 2,882 "t_img_srce" updates.
+	- 1,379 "xlong" updates.
+	- 1,384 "ylat" updates.
+
+## [1.2.0] - 2018-10-01
+### Added
+- Addition of 849 turbine records. Additions include:
+	- 730 new turbines.
+	- 119 existing turbines issued new case_id. Replaces old records.
+
+### Removed
+- Removed 310 turbine records. Removals include:
+	- 128 decommissioned turbines.
+	- 13 reclassified as "not a turbine".
+	- 43 residential scale turbines (<= 50 kW) identified and removed
+	- 119 turbines issued new case_id. Replaced by new records.
+	- 7 duplicate turbines removed.
+
+### Changed
+- A total of 22,628 attribute changes were made. These include:
+	- 242 "faa_ors" updates.
+	- 5,924 "faa_asn" updates.
+	- 5,151 "p_name" updates.
+	- 1,527 "p_year" updates.
+	- 3,351 "p_tnum" updates.
+	- 1,120 "p_cap" updates.
+	- 260 "t_manu" updates.
+	- 679 "t_model" updates.
+	- 372 "t_cap" updates.
+	- 382 "t_hh" updates.
+	- 430 "t_rd" updates.
+	- 432 "t_rsa" updates.
+	- 312 "t_ttlh" updates.
+	- 1,429 "t_conf_atr" updates.
+	- 314 "t_conf_loc" updates.
+	- 495 "t_img_date" updates.
+	- 102 "t_img_srce" updates.
+	- 52 "xlong" updates
+	- 56 "ylat" updates.
+
+## [1.1.0] - 2018-07-05
+### Added
+- Addition of 1081 turbine records. Additions include:
+	-551 new turbines.
+	-530 added due to major retrofits (e.g., rotor / nacelle replacement). Replaces old records.
+
+### Removed
+- Removed 1071 turbine records. Removals include:
+	- 477 decommissioned turbines.
+	- 20 reclassified as "not a turbine".
+	- 44 duplicate turbines removed.
+	- 530 retired due to major retrofits. Replaced by new records.
+
+### Changed
+- A total of 41,254 attribute changes were made. These include:
+	- 25,942 "xlong" updates (moved from 5 to 6 decimal places).
+	- 148 "faa_ors" updates.
+	- 112 "faa_asn" updates.
+	- 75 "usgs_pr_id" updates.
+	- 940 "p_name" updates.
+	- 1,114 "p_year" updates.
+	- 3,305 "p_tnum" updates.
+	- 969 "p_cap" updates.
+	- 400 "t_manu" updates.
+	- 1,206 "t_model" updates.
+	- 404 "t_cap" updates.
+	- 331 "t_hh" updates.
+	- 640 "t_rd" updates.
+	- 636 "t_rsa" updates.
+	- 851 "t_ttlh" updates.
+	- 758 "t_conf_atr" updates.
+	- 1,014 "t_conf_loc" updates.
+	- 1,485 "t_img_date" updates.
+	- 504 "t_img_srce" updates.
+	- 208 "xlong" updates (unrelated to decimal precision).
+	- 212 "ylat" updates.
+
+## [1.0.0] - 2018-04-19
+- First public release of USWTDB. Changelog for 1.0.0 reflects differences between USWTDB and USGS turbine database/windFarm application (2014).
+
+### Added
+- Addition of 14,693 turbine records.
+- Dedicated home, data, partner, and help landing pages.
+- Additional USWTDB fields include "case_id", "faa_asn", "t_fips", "t_img_date".
+- Added end-user web application capabilities including:
+	- Dynamic filtering and turbine statistic computation.
+	- Data-driven styling.
+	- Dynamic project information table.
+	- Enhanced project search (with auto-complete).
+	- Temporal animation controls.
+	- Enhanced navigation (pitch and bearing controls).
+	- Enhanced geocoder (with auto-complete).
+	- Enhanced geolocation controls.
+	- Extended turbine-level pop-up information.
+
+### Changed
+- Migrated legacy windFarm web application platform (Flash to JavaScript).
+- Migrated geospatial service endpoints.
+- USWTDB fields changed include:
+	"unique_id" > "usgs_pr_id",
+	"site_name" > "p_name",
+	"total_turb" > "p_tnum",
+	"on_year_s" > "p_year",
+	"manufac" > "t_manu",
+	"model" > "t_model",
+	"MW_turbine" > "t_cap",
+	"total_cpcy" > "p_cap",
+	"total_ht" > "t_ttlh",
+	"tower_h" > "t_hh",
+	"rotor_dia" > "t_rd",
+	"rotor_s_a" > "t_rsa",
+	"usgs_ydd" > "ylat",
+	"usgs_xdd" > "xlong",
+	"state" > "t_state",
+	"county" > "t_county",
+	"conf_attr" > "t_conf_atr",
+	"conf_loc" > "t_conf_loc",
+	"FAA_ORS" > "faa_ors",
+	"image_name" > "t_img_srce".
+
+### Removed
+- Removed 5,992 turbine records (decommissioned or reclassified as "not a turbine").
+- USWTDB fields removed include "year_range", "on_year_s", "type_tower", "decommiss", "blade_l", "WENDI_name", "EIA_name", "FAA_jdate", "FAA_AGL", "image_year", "comments", "FID".
