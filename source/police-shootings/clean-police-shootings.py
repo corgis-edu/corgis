@@ -40,7 +40,7 @@ with open('raw/police-shootings-data.csv', 'r') as ifile:
             outrow[4] = int(month)
             outrow[5] = int(day)
             outrow[6] = int(year)
-            outrow[7] = "{}/{}/{}".format(year, month, day)
+            outrow[7] = "{}/{:0>2}/{:0>2}".format(year, month, day)
             outrow[8] = str(inrow[8])  # city
             outrow[9] = str(inrow[9])  # state
                 
