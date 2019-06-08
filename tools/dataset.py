@@ -18,7 +18,7 @@ class Property:
     
     @classmethod
     def from_raw_line(cls, line):
-        blank, index, name, type, desc = line
+        blank, name, type, index, desc = line
         return Property(name, index, CorgisType[type], desc)
 
 class Dataset:
