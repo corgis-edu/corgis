@@ -1,0 +1,36 @@
+Name,Hospitals,,,
+Version,1.0.0,,,
+Author,Dennis Kafura,,,
+Created,6/10/2019,,,
+Data File,Hospitals-corgis.csv,,,
+Overview,"To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",,,
+Data Source,https://data.medicare.gov/data/hospital-compare,,,
+Description,"The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.",,,
+Tags,"hospitals, health care, medical, hospital costs, hospital quality",,,
+Row,Hospitals,,,
+Image,hhs-logo.jpeg,,,
+Properties,Name,Type,Index,Description
+,Facility.Name,string,,Name of the hospital
+,Facility.City,string,,City in which the hospital is located
+,Facility.State,string,TRUE,"Two letter capitalized abbreviation of the State in which the hospital is located (e.g., AZ is Arizona)"
+,Facility.Type,string,,"Kind of organization operating the hospital: one of Government, Private, Proprietary, Church, or Unknown "
+,Rating.Overall,int,TRUE,"Overall rating between 1 and 5 stars, with 5 stars being the highest rating; -1 represents no rating."
+,Rating.Mortality,string,,"Above, Same, Below, or Unknown comparison to national hospital mortality "
+,Rating.Safety,string,,"Above, Same, Below, or Unknown comparison to national hospital safety "
+,Rating.Readmission,string,,"Above, Same, Below, or Unknown comparison to national hospital readmission "
+,Rating.Experience,string,,"Above, Same, Below, or Unknown comparison to national hospital patience experience "
+,Rating.Effectiveness,string,,"Above, Same, Below, or Unknown comparison to national hospital effectiveness of care "
+,Rating.Timeliness,string,,"Above, Same, Below, or Unknown comparison to national hospital timeliness of care "
+,Rating.Imaging,string,,"Above, Same, Below, or Unknown comparison to national hospital effective use of imaging "
+,Procedure.Heart Attack.Cost,int,,Average cost of care for heart attacks
+,Procedure.Heart Attack.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks "
+,Procedure.Heart Attack.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for heart attacks "
+,Procedure.Heart Failure.Cost,int,,Average cost of care for heart failure
+,Procedure.Heart Failure.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures "
+,Procedure.Heart Failure.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for heart failures "
+,Procedure.Pneumonia.Cost,int,,Average cost of care for pneumonia
+,Procedure.Pneumonia.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia "
+,Procedure.Pneumonia.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for pneumonia "
+,Procedure.Hip Knee.Cost,int,,Average cost of care for hip or knee conditions
+,Procedure.Hip Knee.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions "
+,Procedure.Hip Knee.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for hip or knee conditions "
