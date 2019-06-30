@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-  
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    </head>
-    <body>
-    TeSt
-    </body>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+    {% include head.html %}
+    <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+    {% include navigation.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
     
 </html>
