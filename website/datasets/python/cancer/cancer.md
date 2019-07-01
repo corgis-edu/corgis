@@ -16,6 +16,8 @@ Information about the rates of cancer deaths in each state is reported. The data
 
 <https://www.socialexplorer.com/explore-tables>
 
+> 
+
 # Explore Structure
 
 <button>Explore</button>
@@ -24,8 +26,8 @@ Information about the rates of cancer deaths in each state is reported. The data
 
 Download all of the following files.
 
-1. [cancer.py](/datasets/python/cancer/cancer.py)
-2. [cancer.data](/datasets/python/cancer/cancer.data)
+1. [cancer.py](../../datasets/python/cancer/cancer.py)
+2. [cancer.data](../../datasets/python/cancer/cancer.data)
 
 # Usage
 

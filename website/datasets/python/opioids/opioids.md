@@ -16,6 +16,8 @@ All opioids are chemically related and interact with opioid receptors on nerve c
 
 <https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates>
 
+> 
+
 # Explore Structure
 
 <button>Explore</button>
@@ -24,8 +26,8 @@ All opioids are chemically related and interact with opioid receptors on nerve c
 
 Download all of the following files.
 
-1. [opioids.py](/datasets/python/opioids/opioids.py)
-2. [opioids.data](/datasets/python/opioids/opioids.data)
+1. [opioids.py](../../datasets/python/opioids/opioids.py)
+2. [opioids.data](../../datasets/python/opioids/opioids.data)
 
 # Usage
 

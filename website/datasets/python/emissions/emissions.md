@@ -26,8 +26,8 @@ The data set allows consumers to directly compare across hospitals performance m
 
 Download all of the following files.
 
-1. [emissions.py](/datasets/python/emissions/emissions.py)
-2. [emissions.data](/datasets/python/emissions/emissions.data)
+1. [emissions.py](../../datasets/python/emissions/emissions.py)
+2. [emissions.data](../../datasets/python/emissions/emissions.data)
 
 # Usage
 

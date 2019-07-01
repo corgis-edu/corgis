@@ -26,8 +26,8 @@ https://www.washingtonpost.com/national/how-the-washington-post-is-examining-pol
 
 Download all of the following files.
 
-1. [police_shootings.py](/datasets/python/police_shootings/police_shootings.py)
-2. [police_shootings.data](/datasets/python/police_shootings/police_shootings.data)
+1. [police_shootings.py](../../datasets/python/police_shootings/police_shootings.py)
+2. [police_shootings.data](../../datasets/python/police_shootings/police_shootings.data)
 
 # Usage
 

@@ -26,8 +26,8 @@ permalink: /python/{{ dataset.name|snake_case }}/
 
 Download all of the following files.
 
-1. [{{ dataset.name|snake_case }}.py](/datasets/python/{{ dataset.name|snake_case }}/{{ dataset.name|snake_case }}.py)
-2. [{{ dataset.name|snake_case }}.data](/datasets/python/{{ dataset.name|snake_case }}/{{ dataset.name|snake_case }}.data)
+1. [{{ dataset.name|snake_case }}.py](../../datasets/python/{{ dataset.name|snake_case }}/{{ dataset.name|snake_case }}.py)
+2. [{{ dataset.name|snake_case }}.data](../../datasets/python/{{ dataset.name|snake_case }}/{{ dataset.name|snake_case }}.data)
 
 # Usage
 

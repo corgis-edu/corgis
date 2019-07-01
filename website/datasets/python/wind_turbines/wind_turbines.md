@@ -12,9 +12,11 @@ permalink: /python/wind_turbines/
 
 # Overview
 
-This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.
+The Open PV Project is a collaborative effort between government, industry, and the public that continues to compile a database of available public data for photovoltaic (PV) installation data for the United States. Data for the project are voluntarily contributed from a variety of sources including solar incentive programs, utilities, installers, and the general public. This database serves as a web-based resource for users to easily explore and understand the current and past trends of the US PV industry. The data collected is actively maintained by the contributors and are always changing to provide an evolving, up-to-date snapshot of the US solar power market.
 
 <https://www.sciencebase.gov/catalog/item/57bdfd8fe4b03fd6b7df5ff9>
+
+> 
 
 # Explore Structure
 
@@ -24,8 +26,8 @@ This dataset provides locations and technical specifications of wind turbines in
 
 Download all of the following files.
 
-1. [wind_turbines.py](/datasets/python/wind_turbines/wind_turbines.py)
-2. [wind_turbines.data](/datasets/python/wind_turbines/wind_turbines.data)
+1. [wind_turbines.py](../../datasets/python/wind_turbines/wind_turbines.py)
+2. [wind_turbines.data](../../datasets/python/wind_turbines/wind_turbines.data)
 
 # Usage
 
