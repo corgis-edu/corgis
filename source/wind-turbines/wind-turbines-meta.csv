@@ -7,6 +7,7 @@ Overview,"This dataset provides locations and technical specifications of wind t
 Data Source,https://www.sciencebase.gov/catalog/item/57bdfd8fe4b03fd6b7df5ff9,,,
 Description,"The Open PV Project is a collaborative effort between government, industry, and the public that continues to compile a database of available public data for photovoltaic (PV) installation data for the United States. Data for the project are voluntarily contributed from a variety of sources including solar incentive programs, utilities, installers, and the general public. This database serves as a web-based resource for users to easily explore and understand the current and past trends of the US PV industry. The data collected is actively maintained by the contributors and are always changing to provide an evolving, up-to-date snapshot of the US solar power market.",,,
 Tags,"energy, wind, power, air, turbine, utility, location, time",,,
+Acknowledgement,,,,
 Row,Turbines,,,
 Image,wind-turbines.png,,,
 Properties,Name,Type,Index,Description  

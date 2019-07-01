@@ -12,9 +12,11 @@ permalink: /python/police_shootings/
 
 # Overview
 
-The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. 
+https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html
 
 <https://github.com/washingtonpost/data-police-shootings>
+
+> 
 
 # Explore Structure
 

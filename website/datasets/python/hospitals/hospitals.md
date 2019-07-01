@@ -12,9 +12,11 @@ permalink: /python/hospitals/
 
 # Overview
 
-To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.
+The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.
 
 <https://data.medicare.gov/data/hospital-compare>
+
+> 
 
 # Explore Structure
 

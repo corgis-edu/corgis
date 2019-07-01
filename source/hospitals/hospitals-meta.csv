@@ -8,6 +8,7 @@ Data Source,https://data.medicare.gov/data/hospital-compare,,,
 Description,"The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.",,,
 Tags,"hospitals, health care, medical, hospital costs, hospital quality",,,
 Row,Hospitals,,,
+Acknowledgement,,,,
 Image,hhs-logo.jpeg,,,
 Properties,Name,Type,Index,Description
 ,Facility.Name,string,,Name of the hospital

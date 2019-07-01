@@ -8,6 +8,7 @@ Data Source,https://github.com/washingtonpost/data-police-shootings,,,
 Description,https://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-united-states/2016/07/07/d9c52238-43ad-11e6-8856-f26de2537a9d_story.html,,,
 Tags,"violence, crime, violent, police, shootings, race, location, time",,,
 Row,Shootings,,,
+Acknowledgement,,,,
 Image,Washington-Post-Logo.png,,,
 Properties,Name,Type,Index,Description  
 ,Person.Name,string,,"Full name of the individual or ""Unknown"" if not reported"
