@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /python/
 ---
 
 <a href="{{ '/' | relative_url }}" class="site-logo" rel="home" title="{{ site.title }}">
@@ -12,16 +12,8 @@ permalink: /
 
 <span class='text-muted'>By Austin Cory Bart, Ryan Whitcomb, Jason Riddle, Omar Saleem, Dr. Eli Tilevich, Dr. Clifford A. Shaffer, Dr. Dennis Kafura</span>
 
-## Languages
+## Aids
 
-### Java
+Records of AIDS related statistics from several countries.
 
-[Java](java.md)
-
-### Python
-
-[Python](languages/python.md)
-
-### Raw Datasets
-
-### Other Types
+*aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un*

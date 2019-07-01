@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
     {% include head.html %}
-    <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
-    {% include skip-links.html %}
+    <body class="layout--{{ page.layout | default: layout.layout }} {{ page.title | slugify }}"
+    >
+    <div class="container">
     {% include navigation.html %}
-    {% include masthead.html %}
 
     {{ content }}
+    </div>
 
     {% include footer.html %}
     {% include scripts.html %}
