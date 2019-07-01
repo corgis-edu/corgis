@@ -31,8 +31,11 @@ def build_python_file(dataset, destination):
     code.dump(destination)
     return destination
     
-def build_html_files(dataset, destination):
-    return []
+def build_website_file(dataset, destination):
+    destination += snake_case(dataset.name)+".md"
+    md = env.get_template('index.md').stream(dataset=dataset)
+    md.dump(destination)
+    return destination
 
 def build(dataset, configuration):
     # Prelude
@@ -45,7 +48,7 @@ def build(dataset, configuration):
     makedirs(destination, exist_ok=True)
     files = [build_python_file(dataset, destination),
              build_data_file(dataset, destination),
-             *build_html_files(dataset, destination)]
+             build_website_file(dataset, destination)]
     print(dataset)
     
     # Wrap up

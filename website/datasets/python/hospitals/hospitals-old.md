@@ -1,8 +1,8 @@
 ---
-permalink: /python/aids/
+permalink: /python/hospitals/
 ---
 
-# Aids Python Library
+# Hospitals Python Library
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
