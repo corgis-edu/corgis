@@ -1,0 +1,25 @@
+Name,Emissions,,,
+Version,1.0.0,,,
+Author,Dennis Kafura,,,
+Created,6/24/2019,,,
+Data File,emissions-corgis.csv,,,
+Overview,The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ,,,
+Data Source,https://edgar.jrc.ec.europa.eu/,,,
+Description,"The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.",,,
+Tags,"hospitals, health care, medical, hospital costs, hospital quality",,,
+Acknowledgement,"Muntean, M., Guizzardi, D., Schaaf, E., Crippa, M., Solazzo, E., Olivier, J.G.J., Vignati, E. Fossil CO2 emissions of all world countries - 2018 Report, EUR 29433 EN, Publications Office of the European Union, Luxembourg, 2018, ISBN 978-92-79-97240-9, doi:10.2760/30158, JRC113738.",,,
+Row,Emissions,,,
+Image,,,,
+Properties,Name,Type,Index,Description
+,Country,string,x,The name of a country
+,Year,int,x,The year of the emissions (1970-2012)
+,Emissions.Type.CO2,float,,The amount of carbon dioxide in kilo tons
+,Emissions.Type.N2O,float,,The amount of nitrous oxide in equivalent kilotons of CO2
+,Emissions.Type.CH4,float,,The amount of methane in equivalent kilotons of CO2
+,Emissions.Sector.Power Industry,float,,Emissions from the power industry; measured in equivalent kilotons of CO2.
+,Emissions.Sector.Buildings,float,,Emissions from the infrastructure of buildings; measured in equivalent kilotons of CO2.
+,Emissions.Sector.Transport,float,,Emissions from means of transportation; measured in equivalent kilotons of CO2.
+,Emissions.Sector.Other Industry,float,,Emissions from the other industrical combustion; measured in equivalent kilotons of CO2.
+,Emissions.Sector.Other sectors,float,,Emissions from various other sectors; measured in equivalent kilotons of CO2.
+,Ratio.Per GDP,float,,"The amount of green house gas emissions per $1,000 of GDP; measured in equivalent kilo tons of CO2."
+,Ratio.Per Capita,float,,The amount of green house gas emissions for each person; measured in equivalent kilo tons of CO2.

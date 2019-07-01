@@ -1,6 +1,7 @@
 import csv
 from typing import *
 from enum import Enum
+import codecs
 
 class CorgisType(Enum):
     string = str
@@ -27,8 +28,8 @@ class Dataset:
 
     def __init__(self, name: str, author: str, version: str, created: str,
                  data_file: str, overview: str, data_source: str,
-                 description: str, tags: List[str], image: str,
-                 row: str,
+                 description: str, tags: List[str], acknowledgement: str,
+                 image: str, row: str,
                  properties: List[Property], values: List[Dict]):
         self.name = name
         self.author = author
@@ -39,6 +40,7 @@ class Dataset:
         self.data_source = data_source
         self.description = description
         self.tags = tags
+        self.acknowledgement = acknowledgement
         self.image = image
         self.row = row
         self.properties = properties
@@ -93,12 +95,12 @@ def load_dataset(dataset_name: str) -> Dataset:
     source_path = 'source/{name}/{name}'.format(name=dataset_name)
     
     meta_path = source_path + '-meta.csv'
-    with open(meta_path, 'r', encoding='utf-8') as metadata_file:
+    with open(meta_path, 'r', encoding='utf-8', errors='replace') as metadata_file:
         metadata_reader = csv.reader(metadata_file)
         dataset = Dataset.from_csv(metadata_reader)
     
     data_path = source_path + '-corgis.csv'
-    with open(data_path, 'r', encoding='utf-8') as dataset_file:
+    with open(data_path, 'r', encoding='utf-8', errors='replace') as dataset_file:
         dataset_reader = csv.reader(dataset_file)
         dataset.load_values(dataset_reader)
     

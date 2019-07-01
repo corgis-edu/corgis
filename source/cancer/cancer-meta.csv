@@ -1,0 +1,88 @@
+Name,cancer,,,
+Version,1.0.0,,,
+Author,Dennis Kafura,,,
+Created,6/27/2019,,,
+Data File,cancer-corgis.csv,,,
+Overview,Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.,,,
+Data Source,https://www.socialexplorer.com/explore-tables,,,
+Description,"Information about the rates of cancer deaths in each state is reported. The data shows the total rate as well as rates based on sex, age, and race. Rates are also shown for three specific kinds of cancer: breast cancer, colorectal cancer, and lung cancer.",,,
+Tags,"cancer, cancer deaths, medical, health",,,
+Acknowledgement,"www.socialexplorer.com, New York City, NY: Social Explorer 2019",,,
+Row,Cancer Reports,  ,,
+Image,cancer-image.jpg,,,
+Properties,Name,Type,Index,Description
+,State,string,x,"The name of a U.S. State (e.g., Virginia)"
+,Total.Rate,float,,"Total Cancer Deaths (Rate per 100,000 Population, 2007-2013) 214.2"
+,Total.Number,float,,Total Cancer Deaths (2007-2013)
+,Total.Population,float,,Cumulative Population (Denominator Total_Cancer deaths total_) 2007-2013
+,Rates.Age.< 18,float,,"Total Cancer Deaths (Under 18 Years, Rate per 100,000 Population, 2007-2013)"
+,Rates.Age.18-45,float,,"Total Cancer Deaths (18 to 44 Years, Rate per 100,000 Population, 2007-2013)"
+,Rates.Age.45-64,float,,"Total Cancer Deaths (45 to 64 Years, Rate per 100,000 Population, 2007-2013)"
+,Rates.Age.> 64,float,,"Total Cancer Deaths (65 Years and Over, Rate per 100,000 Population, 2007-2013)"
+,Rates.Age and Sex.< 18.Female,float,,Female under 18
+,Rates.Age and Sex.< 18.Male,float,,Male   under 18
+,Rates.Age and Sex.18 - 45.Female,float,,Female 18 - 45
+,Rates.Age and Sex.18 - 45.Male,float,,Male   18 - 45
+,Rates.Age and Sex.45 - 64.Female,float,,Female 45 to 64 Years
+,Rates.Age and Sex.45 - 64.Male,float,,Male   45 to 64 Years
+,Rates.Age and Sex.> 64.Female,float,,Female 65 Years and Over
+,Rates.Age and Sex.> 64.Male,float,,Male   65 Years and Over
+,Rates.Race.White,float,,"Total Cancer Deaths (White, Rate per 100,000 Population, 2007-2013)"
+,Rates.Race.White non-Hispanic,float,,"Total Cancer Deaths (White non-Hispanic, Rate per 100,000 Population, 2007-2013)"
+,Rates.Race.Black,float,,"Total Cancer Deaths (Black or African American, Rate per 100,000 Population, 2007-2013)"
+,Rates.Race.Asian,float,,"Total Cancer Deaths (Asian or Pacific Islander, Rate per 100,000 Population, 2007-2013)"
+,Rates.Race.Indigenous,float,,"Total Cancer Deaths (American Indian or Alaska Native, Rate per 100,000 Population, 2007-2013)"
+,Rates.Race and Sex.Female.White,float,,Female: White
+,Rates.Race and Sex.Female.White non-Hispanic,float,,Female: White non-Hispanic
+,Rates.Race and Sex.Female.Black,float,,Female: Black or African American
+,Rates.Race and Sex.Female.Black non-Hispanic,float,,Female: Black or African American non-Hispanic
+,Rates.Race and Sex.Female.Asian,float,,Female: Asian or Pacific Islander
+,Rates.Race and Sex.Female.Indigenous,float,,Female: American Indian or Alaska Native
+,Rates.Race and Sex.Male.White,float,,Male: White
+,Rates.Race and Sex.Male.White non-Hispanic,float,,Male: White non-Hispanic
+,Rates.Race and Sex.Male.Black,float,,Male: Black or African American
+,Rates.Race and Sex.Male.Black non-Hispanic,float,,Male: Black or African American non-Hispanic
+,Rates.Race and Sex.Male.Asian,float,,Male: Asian or Pacific Islander
+,Rates.Race and Sex.Male.Indigenous,float,,Male: American Indian or Alaska Native
+,Rates.Race.Hispanic,float,,Hispanic or Latino
+,Rates.Race and Sex.Female.Hispanic,float,,Female: Hispanic or Latino
+,Rates.Race and Sex.Male.Hispanic,float,,Male: Hispanic or Latino
+,Types.Breast.Total,float,,"Breast Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,Types.Breast.Age.18 - 44,float,,18 to 44 Years
+,Types.Breast.Age.45 - 64,float,,45 to 64 Years
+,Types.Breast.Age.> 64,float,,65 Years and Over
+,Types.Breast.Race.White,float,,White
+,Types.Breast.Race.White non-Hispanic ,float,,White non-Hispanic
+,Types.Breast.Race.Black,float,,Black or African American
+,Types.Breast.Race.Black non-Hispanic,float,,Black or African American non-Hispanic
+,Types.Breast.Race.Asian,float,,Asian or Pacific Islander
+,Types.Breast.Race.Indigenous,float,,American Indian or Alaska Native
+,Types.Breast.Race.Hispanic,float,,Hispanic or Latino
+,Types.Colorectal.Total,float,,"Colorectal Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,Types.Colorectal.Age and Sex.Female.18 - 44,float,,Female 18 to 44 Years
+,Types.Colorectal.Age and Sex.Male.18 - 44,float,,Male 18 to 44 Years
+,Types.Colorectal.Age and Sex.Female.45 - 64,float,,Female 45 to 64 Years
+,Types.Colorectal.Age and Sex.Male.45 - 64,float,,Male 45 to 64 Years
+,Types.Colorectal.Age and Sex.Female.> 64,float,,Female 65 Years and Over
+,Types.Colorectal.Age and Sex.Male.> 64,float,,Male 65 Years and Over
+,Types.Colorectal.Race.White,float,,White
+,Types.Colorectal.Race.White non-Hispanic,float,,White non-Hispanic
+,Types.Colorectal.Race.Black,float,,Black or African American
+,Types.Colorectal.Race.Black non-Hispanic,float,,Black or African American non-Hispanic
+,Types.Colorectal.Race.Asian,float,,Asian or Pacific Islander
+,Types.Colorectal.Race.Indigenous,float,,American Indian or Alaska Native
+,Types.Colorectal.Race.Hispanic,float,,Hispanic or Latino
+,Types.Lung.Total,float,,"Lung Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,Types.Lung.Age and Sex.Female.18 - 44,float,,Female 18 to 44 Years
+,Types.Lung.Age and Sex.Male.18 - 44,float,,Male 18 to 44 Years
+,Types.Lung.Age and Sex.Female.45 - 64,float,,Female 45 to 64 Years
+,Types.Lung.Age and Sex.Male.45 - 64,float,,Male 45 to 64 Years
+,Types.Lung.Age and Sex.Female.> 64,float,,Female 65 Years and Over
+,Types.Lung.Age and Sex.Male.> 64,float,,Male 65 Years and Over
+,Types.Lung.Race.White,float,,White
+,Types.Lung.Race.White non-Hispanic,float,,White non-Hispanic
+,Types.Lung.Race.Black,float,,Black or African American
+,Types.Lung.Race.Black non-Hispanic,float,,Black or African American non-Hispanic
+,Types.Lung.Race.Asian,float,,Asian or Pacific Islander
+,Types.Lung.Race.Indigenous,float,,American Indian or Alaska Native
+,Types.Lung.Race.Hispanic,float,,Hispanic or Latino

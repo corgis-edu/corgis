@@ -1,0 +1,118 @@
+Geo_NAME,State
+,
+,TOTALS 
+SE_T001_004  ,"Total Cancer Deaths (Rate per 100,000 Population, 2007-2013) 214.2"
+SE_NV002_004 ,Total Cancer Deaths (2007-2013)
+SE_NV003_004 ,Cumulative Population (Denominator Total_Cancer deaths total_) 2007-2013
+,
+,RATES 
+,
+,AGE 
+SE_T002_002 ,"Total Cancer Deaths (Under 18 Years, Rate per 100,000 Population, 2007-2013)"
+SE_T002_003 ,"Total Cancer Deaths (18 to 44 Years, Rate per 100,000 Population, 2007-2013)"
+SE_T002_004 ,"Total Cancer Deaths (45 to 64 Years, Rate per 100,000 Population, 2007-2013)"
+SE_T002_005 ,"Total Cancer Deaths (65 Years and Over, Rate per 100,000 Population, 2007-2013)"
+,
+,
+,AGE AND SEX
+SE_T008_002 ,Female under 18
+SE_T008_003 ,Male   under 18
+SE_T008_005,Female 18 - 45
+SE_T008_006 ,Male   18 - 45
+SE_T008_008,Female 45 to 64 Years
+SE_T008_009 ,Male   45 to 64 Years
+SE_T008_011,Female 65 Years and Over
+SE_T008_012 ,Male   65 Years and Over
+,
+,RACE 
+SE_T011_002,"Total Cancer Deaths (White, Rate per 100,000 Population, 2007-2013)"
+SE_T011_003 ,"Total Cancer Deaths (White non-Hispanic, Rate per 100,000 Population, 2007-2013)"
+SE_T011_004,"Total Cancer Deaths (Black or African American, Rate per 100,000 Population, 2007-2013)"
+SE_T011_006,"Total Cancer Deaths (Asian or Pacific Islander, Rate per 100,000 Population, 2007-2013)"
+SE_T011_007 ,"Total Cancer Deaths (American Indian or Alaska Native, Rate per 100,000 Population, 2007-2013)"
+,
+,RACE AND SEX (SE:T12)
+SE_T012_002,Female: White
+SE_T012_003,Female: White non-Hispanic
+SE_T012_004,Female: Black or African American
+SE_T012_005,Female: Black or African American non-Hispanic
+SE_T012_006,Female: Asian or Pacific Islander
+SE_T012_007 ,Female: American Indian or Alaska Native
+SE_T012_009,Male: White
+SE_T012_010,Male: White non-Hispanic
+SE_T012_011,Male: Black or African American
+SE_T012_012,Male: Black or African American non-Hispanic
+SE_T012_013,Male: Asian or Pacific Islander
+SE_T012_014 ,Male: American Indian or Alaska Native
+,
+,
+,HISPANIC (SE:T16) add to race category
+SE_T016_002,Hispanic or Latino
+,
+,
+,HISPANIC AND SEX (SE:T17) add to race and sex category
+SE_T017_002 ,Female: Hispanic or Latino
+SE_T017_005 ,Male: Hispanic or Latino
+,
+,
+,TYPES
+,BREAST CANCER
+,
+,TOTAL
+SE_T018_004 ,"Breast Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,
+,BY AGE
+SE_T019_002,18 to 44 Years
+SE_T019_003,45 to 64 Years
+SE_T019_004 ,65 Years and Over
+,
+,BY RACE
+SE_T022_002,White
+SE_T022_003,White non-Hispanic
+SE_T022_004,Black or African American
+SE_T022_005,Black or African American non-Hispanic
+SE_T022_006,Asian or Pacific Islander
+SE_T022_007,American Indian or Alaska Native
+SE_T023_002,Hispanic or Latino
+,
+,COLORECTAL CANCER
+,TOTAL
+SE_T024_004 ,"Colorectal Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,
+,BY AGE AND SEX
+SE_T028_002,Female 18 to 44 Years
+SE_T028_003 ,Male 18 to 44 Years
+SE_T028_005,Female 45 to 64 Years
+SE_T028_006 ,Male 45 to 64 Years
+SE_T028_008,Female 65 Years and Over
+SE_T028_009 ,Male 65 Years and Over
+,
+,BY RACE
+SE_T031_001,White
+SE_T031_002,White non-Hispanic
+SE_T031_003,Black or African American
+SE_T031_004,Black or African American non-Hispanic
+SE_T031_005,Asian or Pacific Islander
+SE_T031_006 ,American Indian or Alaska Native
+SE_T036_001 ,Hispanic or Latino
+,
+,LUNG CANCER 
+,TOTAL
+SE_T038_004 ,"Lung Cancer Deaths (Rate per 100,000 Population, 2007-2013)"
+,
+,BY AGE AND SEX 
+SE_T042_002,Female 18 to 44 Years
+SE_T042_003 ,Male 18 to 44 Years
+SE_T042_005,Female 45 to 64 Years
+SE_T042_006 ,Male 45 to 64 Years
+SE_T042_008,Female 65 Years and Over
+SE_T042_009 ,Male 65 Years and Over
+,
+,BY RACE
+SE_T045_001,White
+SE_T045_002,White non-Hispanic
+SE_T045_003,Black or African American
+SE_T045_004,Black or African American non-Hispanic
+SE_T045_005,Asian or Pacific Islander
+SE_T045_006 ,American Indian or Alaska Native
+SE_T050_001 ,Hispanic or Latino

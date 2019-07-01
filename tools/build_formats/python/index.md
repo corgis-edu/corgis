@@ -12,9 +12,11 @@ permalink: /python/{{ dataset.name|snake_case }}/
 
 # Overview
 
-{{ dataset.overview }}
+{{ dataset.description|safe }}
 
 <{{ dataset.data_source }}>
+
+> {{ dataset.acknowledgment }}
 
 # Explore Structure
 

@@ -1,0 +1,74 @@
+Name,opioids,,,
+Version,1.0.0,,,
+Author,Dennis Kafura,,,
+Created,6/30/2019,,,
+Data File,opiods-corgis.csv,,,
+Overview,The data set shows the number and rates of deaths due to opioid overdose.,,,
+Data Source,https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates,,,
+Description,"All opioids are chemically related and interact with opioid receptors on nerve cells in the body and brain. Opioid pain relievers  can be misused (taken in a different way or in a larger quantity than prescribed, or taken without a doctor's prescription). Regular use - even as prescribed by a doctor - can lead to dependence and, when misused, opioid pain relievers can lead to addiction, overdose incidents, and deaths. The National Institute on Drug Abuse collects and analyzes data about deaths from opioid abuse. This data set reports on data from 1999-2017.",,,
+Tags,"opioids, drug deaths, heroin, cocaine, drug overdose",,,
+Acknowledgement,,,,
+Row,Opioid Deaths,,,
+Image,opioid-image.png,,,
+Properties,Name,Type,Index,Description
+,Year,int,x,The year for which the data is reported (1999-2017)
+,Number.All,int,,Total number of overdose deaths from all drugs
+,Number.Opiod.Any,int,,Total number of overdose deaths due to any opiod drug
+,Number.Opiod.Prescription,int,,Total number of overdose deaths due to a prescription opiod drug
+,Number.Opiod.Synthetic,int,,Total number of overdose deaths due to a synthetic opiod drug (e.g. fentanyl)
+,Number.Opiod.Heroin,int,,Total number of overdose deaths due to heroin
+,Number.Opiod.Cocaine,int,,Total number of overdose deaths due to cocaine
+,Rate.All.Total,float,,"The rate of overdose deaths due to all drugs per 100,000 people"
+,Rate.All.Sex.Male,float,,"The rate of overdose deaths among mendue to all drugs per 100,000 people"
+,Rate.All.Sex.Female,float,,"The rate of overdose deaths among women due to all drugs per 100,000 people"
+,Rate.All.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to all drugs per 100,000 people"
+,Rate.All.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to all drugs per 100,000 people"
+,Rate.All.Region.Rural,float,,"The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people"
+,Rate.All.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to all drugs per 100,000 people"
+,Rate.All.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons from all drugs per 100,000 people"
+,Rate.All.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to all drugs per 100,000 people"
+,Rate.Opiod.Any.Total,float,,"The rate of overdose deaths due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Sex.Male,float,,"The rate of overdose deaths among men due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Sex.Female,float,,"The rate of overdose deaths among women due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Region.Rural,float,,"The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people"
+,Rate.Opiod.Any.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons due to any opiod drug per 100,000 people"
+,Rate.Opiod.Any.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to any opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Total,float,,"The rate of overdose deaths due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Sex.Male,float,,"The rate of overdose deaths among men due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Sex.Female,float,,"The rate of overdose deaths among women due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Region.Rural,float, ,"The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people"
+,Rate.Opiod.Prescription.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Prescription.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons due to a prescription opiod drug  per 100,000 people"
+,Rate.Opiod.Prescription.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to a prescription opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Total,float,,"The rate of overdose deaths due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Sex.Male,float,,"The rate of overdose deaths among men due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Sex.Female,float,,"The rate of overdose deaths among women due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to a Synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Region.Rural,float, ,"The rate of overdose deaths in non-metropolitan areas due to a synthetic drug per 100,000 people"
+,Rate.Opiod.Synthetic.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Synthetic.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to a synthetic opiod drug per 100,000 people"
+,Rate.Opiod.Heroin.Total,float, ,"The rate of overdose deaths due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Sex.Male,float,,"The rate of overdose deaths among men due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Sex.Female,float,,"The rate of overdose deaths among women due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Region.Rural,float, ,"The rate of overdose deaths in non-metropolitan areas due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons due to heroin per 100,000 people"
+,Rate.Opiod.Heroin.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to heroin per 100,000 people"
+,Rate.Opiod.Cocaine.Total,float,,"The rate of overdose deaths due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Sex.Male,float,,"The rate of overdose deaths among men due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Sex.Female,float,,"The rate of overdose deaths among women due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Region.Large City,float,,"The rate of overdose deaths in large metropolitan areas due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Region.Small City,float,,"The rate of overdose deaths in medium-small metropolitan areas due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Region.Rural,float, ,"The rate of overdose deaths in non-metropolitan areas due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Race.White,float,,"The rate of overdose deaths among White non-Hispanic persons due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Race.Black,float,,"The rate of overdose deaths among Black non-Hispanic persons due to cocaine per 100,000 people"
+,Rate.Opiod.Cocaine.Race.Hispanic,float,,"The rate of overdose deaths among Hispanic persons due to cocaine per 100,000 people"
