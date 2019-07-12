@@ -26,8 +26,8 @@ The data set allows consumers to directly compare across hospitals performance m
 
 Download all of the following files.
 
-1. [hospitals.py](/datasets/python/hospitals/hospitals.py)
-2. [hospitals.data](/datasets/python/hospitals/hospitals.data)
+1. [hospitals.py](../../datasets/python/hospitals/hospitals.py)
+2. [hospitals.data](../../datasets/python/hospitals/hospitals.data)
 
 # Usage
 

@@ -5,6 +5,7 @@ from os import makedirs
 
 from tools.build_report import BuildReport
 from tools.common import snake_case, load_templates
+from tools.tifa import TifaDefinition
 
 env = load_templates('python')
 
@@ -14,20 +15,17 @@ def build_documentation(dataset, destination):
 def build_data_file(dataset, destination):
     destination += snake_case(dataset.name)+".data"
     with open(destination, 'wb') as data_file:
-        pickle.dump(dataset.values, data_file, protocol=2)
+        pickle.dump(dataset.nested_values, data_file, protocol=2)
     return destination
     
 def build_tifa_definitions(dataset):
-    tifa_definitions = []
-    return tifa_definitions
+    return TifaDefinition(dataset.nested_values).result
 
 def build_python_file(dataset, destination):
     destination += snake_case(dataset.name)+".py"
     tifa_definitions = build_tifa_definitions(dataset)
     code = env.get_template('main.py').stream(dataset=dataset,
                                               tifa_definitions=tifa_definitions)
-    #with open(destination, 'wb') as python_file:
-    #    python_file.write(code)
     code.dump(destination)
     return destination
     

@@ -28,65 +28,40 @@ def _tifa_definitions():
             'get_hospitals': {
                 "type": "FunctionType",
                 "name": 'get_hospitals',
-                "returns": {
-                    "type": "ListType", 
-                    "empty": False, 
-                    "subtype": {
-                        "type": "DictType",
-                        "literals": [
-                            {"type": "LiteralStr", "value": "Facility.Name"},
-                            {"type": "LiteralStr", "value": "Facility.City"},
-                            {"type": "LiteralStr", "value": "Facility.State"},
-                            {"type": "LiteralStr", "value": "Facility.Type"},
-                            {"type": "LiteralStr", "value": "Rating.Overall"},
-                            {"type": "LiteralStr", "value": "Rating.Mortality"},
-                            {"type": "LiteralStr", "value": "Rating.Safety"},
-                            {"type": "LiteralStr", "value": "Rating.Readmission"},
-                            {"type": "LiteralStr", "value": "Rating.Experience"},
-                            {"type": "LiteralStr", "value": "Rating.Effectiveness"},
-                            {"type": "LiteralStr", "value": "Rating.Timeliness"},
-                            {"type": "LiteralStr", "value": "Rating.Imaging"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Attack.Cost"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Attack.Quality"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Attack.Value"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Failure.Cost"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Failure.Quality"},
-                            {"type": "LiteralStr", "value": "Procedure.Heart Failure.Value"},
-                            {"type": "LiteralStr", "value": "Procedure.Pneumonia.Cost"},
-                            {"type": "LiteralStr", "value": "Procedure.Pneumonia.Quality"},
-                            {"type": "LiteralStr", "value": "Procedure.Pneumonia.Value"},
-                            {"type": "LiteralStr", "value": "Procedure.Hip Knee.Cost"},
-                            {"type": "LiteralStr", "value": "Procedure.Hip Knee.Quality"},
-                            {"type": "LiteralStr", "value": "Procedure.Hip Knee.Value"},
-                        ],
-                        "values": [
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                        ]
-                    }
-                }
+                "returns": 
+				{"type": "ListType", "subtype": 
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Facility'}, {"type": "LiteralStr", "value": 'Rating'}, {"type": "LiteralStr", "value": 'Procedure'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Type'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'City'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Mortality'}, {"type": "LiteralStr", "value": 'Imaging'}, {"type": "LiteralStr", "value": 'Effectiveness'}, {"type": "LiteralStr", "value": 'Timeliness'}, {"type": "LiteralStr", "value": 'Readmission'}, {"type": "LiteralStr", "value": 'Overall'}, {"type": "LiteralStr", "value": 'Safety'}, {"type": "LiteralStr", "value": 'Experience'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "NumType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Pneumonia'}, {"type": "LiteralStr", "value": 'Hip Knee'}, {"type": "LiteralStr", "value": 'Heart Attack'}, {"type": "LiteralStr", "value": 'Heart Failure'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}], "values": [
+								{"type": "StrType"}, 
+								{"type": "StrType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}], "values": [
+								{"type": "StrType"}, 
+								{"type": "StrType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}], "values": [
+								{"type": "StrType"}, 
+								{"type": "StrType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}], "values": [
+								{"type": "StrType"}, 
+								{"type": "StrType"}, 
+								{"type": "NumType"}]}]}]}}
             },
         }
     }

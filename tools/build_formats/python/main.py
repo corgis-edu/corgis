@@ -28,29 +28,7 @@ def _tifa_definitions():
             'get_{{ dataset.row | snake_case }}': {
                 "type": "FunctionType",
                 "name": 'get_{{ dataset.row | snake_case }}',
-                "returns": {
-                    "type": "ListType", 
-                    "empty": False, 
-                    "subtype": {
-                        "type": "DictType",
-                        "literals": [
-                        {%- for property in dataset.properties %}
-                            {"type": "LiteralStr", "value": "{{ property.name }}"},
-                        {%- endfor %}
-                        ],
-                        "values": [
-                        {%- for property in dataset.properties -%}
-                        {%- if property.type.name in ('int', 'float') %}
-                            {"type": "NumType"},
-                        {%- elif property.type.name == 'string' %}
-                            {"type": "StrType"},
-                        {%- elif property.type.name == 'boolean' %}
-                            {"type": "BoolType"},
-                        {%- endif %}
-                        {%- endfor %}
-                        ]
-                    }
-                }
+                "returns": {{ tifa_definitions }}
             },
         }
     }

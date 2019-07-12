@@ -3,6 +3,8 @@ from typing import *
 from enum import Enum
 import codecs
 
+CORGIS_LEVEL_IDENTIFIER = '.'
+
 class CorgisType(Enum):
     string = str
     int = int
@@ -52,6 +54,7 @@ class Dataset:
                 field.name: field.type.value(value)
                 for field, value in zip(self.properties, line)
             })
+        self.nested_values = self._with_nesting()
     
     def __str__(self):
         title = self.name+"\n"+(len(self.name)*"=")
@@ -90,6 +93,24 @@ class Dataset:
         header = dict(cls.header_from_csv(csv))
         fields = list(cls.fields_from_csv(list(csv)))
         return Dataset(**header, properties=fields, values=[])
+    
+    def _with_nesting(self):
+        '''
+        Produce a new version of the dataset with nested dictionaries.
+        '''
+        result = []
+        for row in self.values:
+            nested_row = {}
+            for key, value in row.items():
+                key_levels = key.split(CORGIS_LEVEL_IDENTIFIER)
+                current_level = nested_row
+                for new_level_key in key_levels[:-1]:
+                    if new_level_key not in current_level:
+                        current_level[new_level_key] = {}
+                    current_level = current_level[new_level_key]
+                current_level[key_levels[-1]] = value
+            result.append(nested_row)
+        return result
 
 def load_dataset(dataset_name: str) -> Dataset:
     source_path = 'source/{name}/{name}'.format(name=dataset_name)
