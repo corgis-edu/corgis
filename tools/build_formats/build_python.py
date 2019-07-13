@@ -1,13 +1,36 @@
 import csv
 import pickle
 import time
+from shutil import copyfile
 from os import makedirs
 
 from tools.build_report import BuildReport
 from tools.common import snake_case, load_templates
+from tools.dataset import CorgisType
 from tools.tifa import TifaDefinition
 
 env = load_templates('python')
+
+LANGUAGE_TYPE_NAMES = {
+    CorgisType.string: 'str',
+    CorgisType.int: 'int',
+    CorgisType.float: 'float',
+    CorgisType.boolean: 'bool',
+    CorgisType.dict: 'dict'
+}
+
+LANGUAGE_TYPE_DESCRIPTIONS = {
+    CorgisType.string: 'String (text)',
+    CorgisType.int: 'Integer (whole number)',
+    CorgisType.float: 'Float (decimal number)',
+    CorgisType.boolean: 'Boolean (True or False)',
+    CorgisType.dict: 'Dictionary'
+}
+
+LANGUAGE_INFO = {    
+    'LANGUAGE_TYPE_NAMES': LANGUAGE_TYPE_NAMES,
+    'LANGUAGE_TYPE_DESCRIPTIONS': LANGUAGE_TYPE_DESCRIPTIONS
+}
 
 def build_documentation(dataset, destination):
     pass
@@ -31,9 +54,14 @@ def build_python_file(dataset, destination):
     
 def build_website_file(dataset, destination):
     destination += snake_case(dataset.name)+".md"
-    md = env.get_template('index.md').stream(dataset=dataset)
+    md = env.get_template('index.md').stream(dataset=dataset, **LANGUAGE_INFO)
     md.dump(destination)
     return destination
+
+def build_image_files(dataset, destination):
+    copyfile(dataset.get_full_path('icon'), destination + dataset.icon)
+    if dataset.icon != dataset.splash:
+        copyfile(dataset.get_full_path('splash'), destination + dataset.splash)
 
 def build(dataset, configuration):
     # Prelude
@@ -46,6 +74,7 @@ def build(dataset, configuration):
     makedirs(destination, exist_ok=True)
     files = [build_python_file(dataset, destination),
              build_data_file(dataset, destination),
+             build_image_files(dataset, destination),
              build_website_file(dataset, destination)]
     print(dataset)
     

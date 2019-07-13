@@ -4,12 +4,14 @@ from enum import Enum
 import codecs
 
 CORGIS_LEVEL_IDENTIFIER = '.'
+SOURCE_PATH = 'source/{dataset}/{filename}'
 
 class CorgisType(Enum):
     string = str
     int = int
     boolean = bool
     float = float
+    dict = dict
 
 class Property:
     def __init__(self, name: str, index: bool, type: CorgisType,
@@ -18,6 +20,25 @@ class Property:
         self.index = index
         self.type = type
         self.description = description
+        self.preview = []
+    
+    def __str__(self):
+        return "<{name}: {type}{indexed}>".format(
+            name = self.name,
+            type = self.type.value.__name__,
+            indexed = ' (index)' if self.index else ''
+        )
+    
+    def __repr__(self):
+        return str(self)
+    
+    def __hash__(self):
+        return hash(self.name)
+    
+    def __eq__(self, other):
+        if not isinstance(other, Property):
+            return False
+        return self.name == other.name
     
     @classmethod
     def from_raw_line(cls, line):
@@ -31,7 +52,7 @@ class Dataset:
     def __init__(self, name: str, author: str, version: str, created: str,
                  data_file: str, overview: str, data_source: str,
                  description: str, tags: List[str], acknowledgement: str,
-                 image: str, row: str,
+                 icon: str, splash: str, row: str, row_explanation: str,
                  properties: List[Property], values: List[Dict]):
         self.name = name
         self.author = author
@@ -43,10 +64,16 @@ class Dataset:
         self.description = description
         self.tags = tags
         self.acknowledgement = acknowledgement
-        self.image = image
+        self.icon = icon
+        self.splash = splash
         self.row = row
+        self.row_explanation = row_explanation
         self.properties = properties
         self.values = values
+    
+    def get_full_path(self, attribute):
+        filename = getattr(self, attribute)
+        return SOURCE_PATH.format(dataset=self.name, filename=filename)
     
     def load_values(self, csv):
         for line in csv:
@@ -54,7 +81,8 @@ class Dataset:
                 field.name: field.type.value(value)
                 for field, value in zip(self.properties, line)
             })
-        self.nested_values = self._with_nesting()
+        self._build_nested_values()
+        self._build_levels_dictionary()
     
     def __str__(self):
         title = self.name+"\n"+(len(self.name)*"=")
@@ -94,11 +122,11 @@ class Dataset:
         fields = list(cls.fields_from_csv(list(csv)))
         return Dataset(**header, properties=fields, values=[])
     
-    def _with_nesting(self):
+    def _build_nested_values(self):
         '''
         Produce a new version of the dataset with nested dictionaries.
         '''
-        result = []
+        self.nested_values = []
         for row in self.values:
             nested_row = {}
             for key, value in row.items():
@@ -109,11 +137,34 @@ class Dataset:
                         current_level[new_level_key] = {}
                     current_level = current_level[new_level_key]
                 current_level[key_levels[-1]] = value
-            result.append(nested_row)
-        return result
+            self.nested_values.append(nested_row)
+    
+    def _build_levels_dictionary(self):
+        self.levels = {'': {}}
+        for property in self.properties:
+            levels = property.name.split(CORGIS_LEVEL_IDENTIFIER)
+            # Root
+            if levels[0] not in self.levels['']:
+                level_dict = Property(levels[0], False, CorgisType.dict, '')
+                self.levels[''][levels[0]] = level_dict
+            # Intermediate levels
+            for index, level in enumerate(levels[:-2]):
+                path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index+1])
+                next_path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index+2])
+                if path not in self.levels:
+                    self.levels[path] = {}
+                level_dict = Property(next_path, False, CorgisType.dict, '')
+                self.levels[path][next_path] = level_dict
+            # Leaf
+            final_path = CORGIS_LEVEL_IDENTIFIER.join(levels[:-1])
+            if final_path not in self.levels:
+                self.levels[final_path] = {}
+            self.levels[final_path][levels[-1]] = property
+        from pprint import pprint
+        pprint(self.levels)
 
-def load_dataset(dataset_name: str) -> Dataset:
-    source_path = 'source/{name}/{name}'.format(name=dataset_name)
+def load_dataset(name: str) -> Dataset:
+    source_path = SOURCE_PATH.format(dataset=name, filename=name)
     
     meta_path = source_path + '-meta.csv'
     with open(meta_path, 'r', encoding='utf-8', errors='replace') as metadata_file:

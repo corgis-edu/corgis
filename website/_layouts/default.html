@@ -3,7 +3,7 @@
     {% include head.html %}
     <body class="layout--{{ page.layout | default: layout.layout }} {{ page.title | slugify }}"
     >
-    <div class="container">
+    <div class="container-fluid">
     {% include navigation.html %}
 
     {{ content }}

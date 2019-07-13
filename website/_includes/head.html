@@ -11,9 +11,68 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     
     {% if site.google_fonts %}
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
     {% endif %}
+    
+    {% if page.style == 'dataset' %}
+    <link rel="stylesheet" href="{{ '/assets/css/pygments.css' | relative_url }}">
+    
+    <style>
+    .ui-dialog-titlebar-close {
+        padding:0 !important;
+    }
+
+    .ui-dialog-titlebar-close:after {
+        content: '';
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        /* Change path to image*/
+        background-image: url({{ '/assets/ui-icons_444444_256x240.png' | relative_url }});
+        background-position: -96px -128px;
+        background-repeat: no-repeat;
+    }
+
+    .ui-dialog table {
+        width: 100%;
+        font-size: 10pt;
+        background: white;
+    }
+    
+    .ui-dialog table code {
+        word-break: normal;
+    }
+    
+    .ui-dialog td {
+        border-bottom: 1px solid #CCC;
+        /*overflow: */
+    }
+    
+    .ui-dialog-content {
+        max-height: 400px;
+        overflow:auto;
+    }
+    
+    .dialog-opener {
+        cursor: pointer;
+    }
+    
+    .ui-widget-header {
+        border: 0px solid black;
+        border-bottom: 1px solid #ccc;
+        background: #cde;
+    }
+    </style>
+    {% endif %}
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+            integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+            crossorigin="anonymous"></script>
 </head>

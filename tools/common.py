@@ -25,13 +25,13 @@ def flat_case(string):
 def kebab_case(string):
     return string.replace(" ", "-").replace("_", "-").lower()
 
-EXPAND = "<span class='glyphicon glyphicon-new-window' aria-hidden='true'></span>"
+EXPAND_ICON = '<span class="fas fa-external-link-alt" aria-hidden="true"></span>'
 def convert_example_value(data, possible_path=""):
     if isinstance(data, dict):
-        return "<a class='dialog-opener' id='{possible_path}'>{{ {E} }}</a>".format(possible_path=possible_path, E=EXPAND)
+        return "<a class='dialog-opener' id='{possible_path}'>{{ {E} }}</a>".format(possible_path=possible_path, E=EXPAND_ICON)
     elif isinstance(data, list):
-        return "<a class='dialog-opener' id='{possible_path}'>[ {E} ]</a>".format(possible_path=possible_path, E=EXPAND)
-    elif isinstance(data, str) or isinstance(data, unicode):
+        return "<a class='dialog-opener' id='{possible_path}'>[ {E} ]</a>".format(possible_path=possible_path, E=EXPAND_ICON)
+    elif isinstance(data, str):
         return "<code>{data}</code>".format(data=wrap_quotes(data))
     else:
         return "<code>{data}</code>".format(data=data)
@@ -69,5 +69,6 @@ def load_templates(format):
     env.filters['tojson'] = json.dumps
     env.filters['sluggify'] = sluggify
     env.filters['wrap_quotes'] = wrap_quotes
+    env.filters['convert_example_value'] = convert_example_value
     
     return env
