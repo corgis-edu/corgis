@@ -54,7 +54,7 @@ class Dataset:
                  description: str, tags: List[str], acknowledgement: str,
                  icon: str, splash: str, row: str, row_explanation: str,
                  properties: List[Property], values: List[Dict]):
-        self.name = name
+        self.name = name.lower()
         self.author = author
         self.version = version
         self.created = created
