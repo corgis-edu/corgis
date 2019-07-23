@@ -24,14 +24,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
     {% if site.google_fonts %}
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=
-
-
-
-
-
-
-                {%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
     {% endif %}
 
     {% if page.style == 'dataset' %}
@@ -85,9 +78,7 @@
         </style>
     {% endif %}
 
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/jquery-3.3.1.min.js' | relative_url }}"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
             integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
             crossorigin="anonymous"></script>
@@ -98,8 +89,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/multiselect.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap-tagsinput.css' | relative_url }}">
 
-
-    <script src="{{ '/assets/js/jquery-3.3.1.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/knockout-3.5.0.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/d3.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/jquery.multi-select.js' | relative_url }}"></script>
