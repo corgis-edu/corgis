@@ -30,37 +30,37 @@ def _tifa_definitions():
                 "name": 'get_hospitals',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Rating'}, {"type": "LiteralStr", "value": 'Facility'}, {"type": "LiteralStr", "value": 'Procedure'}], "values": [
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Readmission'}, {"type": "LiteralStr", "value": 'Timeliness'}, {"type": "LiteralStr", "value": 'Overall'}, {"type": "LiteralStr", "value": 'Experience'}, {"type": "LiteralStr", "value": 'Effectiveness'}, {"type": "LiteralStr", "value": 'Mortality'}, {"type": "LiteralStr", "value": 'Safety'}, {"type": "LiteralStr", "value": 'Imaging'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Facility'}, {"type": "LiteralStr", "value": 'Rating'}, {"type": "LiteralStr", "value": 'Procedure'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'City'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Type'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Overall'}, {"type": "LiteralStr", "value": 'Mortality'}, {"type": "LiteralStr", "value": 'Safety'}, {"type": "LiteralStr", "value": 'Readmission'}, {"type": "LiteralStr", "value": 'Experience'}, {"type": "LiteralStr", "value": 'Effectiveness'}, {"type": "LiteralStr", "value": 'Timeliness'}, {"type": "LiteralStr", "value": 'Imaging'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
-							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Type'}, {"type": "LiteralStr", "value": 'City'}], "values": [
-							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Heart Attack'}, {"type": "LiteralStr", "value": 'Hip Knee'}, {"type": "LiteralStr", "value": 'Pneumonia'}, {"type": "LiteralStr", "value": 'Heart Failure'}], "values": [
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}], "values": [
-								{"type": "StrType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Heart Attack'}, {"type": "LiteralStr", "value": 'Heart Failure'}, {"type": "LiteralStr", "value": 'Pneumonia'}, {"type": "LiteralStr", "value": 'Hip Knee'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}], "values": [
 								{"type": "NumType"}, 
+								{"type": "StrType"}, 
 								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}], "values": [
-								{"type": "StrType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}], "values": [
 								{"type": "NumType"}, 
+								{"type": "StrType"}, 
 								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}], "values": [
-								{"type": "StrType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}], "values": [
 								{"type": "NumType"}, 
+								{"type": "StrType"}, 
 								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Value'}, {"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}], "values": [
-								{"type": "StrType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cost'}, {"type": "LiteralStr", "value": 'Quality'}, {"type": "LiteralStr", "value": 'Value'}], "values": [
 								{"type": "NumType"}, 
+								{"type": "StrType"}, 
 								{"type": "StrType"}]}]}]}}
             },
         }

@@ -1,0 +1,1 @@
+VISUALIZER_DATA_BARS = {{ data }};

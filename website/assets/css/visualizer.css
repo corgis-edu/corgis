@@ -1,0 +1,23 @@
+body {
+  font: 14px sans-serif;
+}
+
+.vertically-align {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.data-viz {
+    height: 100%;
+    position: absolute;
+}
+
+#download-image:focus, #download-image:hover {
+    text-decoration: none;
+}
+
+#download-image:focus img, #download-image:hover img {
+    border: 1px solid lightblue;
+    opacity: .75;
+}

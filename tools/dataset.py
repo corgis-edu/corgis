@@ -6,12 +6,14 @@ import codecs
 CORGIS_LEVEL_IDENTIFIER = '.'
 SOURCE_PATH = 'source/{dataset}/{filename}'
 
+
 class CorgisType(Enum):
     string = str
     int = int
     boolean = bool
     float = float
     dict = dict
+
 
 class Property:
     def __init__(self, name: str, index: bool, type: CorgisType,
@@ -21,32 +23,33 @@ class Property:
         self.type = type
         self.description = description
         self.preview = []
-    
+
     def __str__(self):
         return "<{name}: {type}{indexed}>".format(
-            name = self.name,
-            type = self.type.value.__name__,
-            indexed = ' (index)' if self.index else ''
+            name=self.name,
+            type=self.type.value.__name__,
+            indexed=' (index)' if self.index else ''
         )
-    
+
     def __repr__(self):
         return str(self)
-    
+
     def __hash__(self):
         return hash(self.name)
-    
+
     def __eq__(self, other):
         if not isinstance(other, Property):
             return False
         return self.name == other.name
-    
+
     @classmethod
     def from_raw_line(cls, line):
         blank, name, type, index, desc = line
+        index = index.lower() == "true"
         return Property(name, index, CorgisType[type], desc)
 
-class Dataset:
 
+class Dataset:
     PREVIEW_LENGTH = 10
 
     def __init__(self, name: str, author: str, version: str, created: str,
@@ -70,11 +73,11 @@ class Dataset:
         self.row_explanation = row_explanation
         self.properties = properties
         self.values = values
-    
+
     def get_full_path(self, attribute):
         filename = getattr(self, attribute)
         return SOURCE_PATH.format(dataset=self.name, filename=filename)
-    
+
     def load_values(self, csv):
         for line in csv:
             self.values.append({
@@ -83,20 +86,20 @@ class Dataset:
             })
         self._build_nested_values()
         self._build_levels_dictionary()
-    
+
     def __str__(self):
-        title = self.name+"\n"+(len(self.name)*"=")
+        title = self.name + "\n" + (len(self.name) * "=")
         header = ", ".join([
             property.name for property in self.properties
         ])
         body = "\n".join(", ".join(list(map(str, row.values())))
-                      for row in self.values[:self.PREVIEW_LENGTH])
+                         for row in self.values[:self.PREVIEW_LENGTH])
         return "{}\n{}\n{}".format(title, header, body)
-        
+
     @classmethod
     def make_safe_name(cls, name):
         return name.lower().replace(" ", "_")
-    
+
     @classmethod
     def header_from_csv(cls, csv):
         for line in csv:
@@ -108,24 +111,44 @@ class Dataset:
                        line[1])
             else:
                 break
-    
+
     @classmethod
     def fields_from_csv(cls, csv):
         for line in csv:
             if not any(line):
                 continue
             yield Property.from_raw_line(line)
-    
+
     @classmethod
     def from_csv(cls, csv):
         header = dict(cls.header_from_csv(csv))
         fields = list(cls.fields_from_csv(list(csv)))
         return Dataset(**header, properties=fields, values=[])
-    
+
+    @property
+    def indexes(self):
+        for property in self.properties:
+            if property.index:
+                yield property
+
+    def as_dictionary_of_lists(self):
+        dictionaries = {property.name: {
+            'data': [],
+            'name': property.name,
+            'comment': property.description,
+            'index': property.index,
+            'type': property.type,
+            'pretty': property.name
+        } for property in self.properties}
+        for row in self.values:
+            for key, value in row.items():
+                dictionaries[key]['data'].append(value)
+        return list(dictionaries.values())
+
     def _build_nested_values(self):
-        '''
+        """
         Produce a new version of the dataset with nested dictionaries.
-        '''
+        """
         self.nested_values = []
         for row in self.values:
             nested_row = {}
@@ -138,7 +161,7 @@ class Dataset:
                     current_level = current_level[new_level_key]
                 current_level[key_levels[-1]] = value
             self.nested_values.append(nested_row)
-    
+
     def _build_levels_dictionary(self):
         self.levels = {'': {}}
         for property in self.properties:
@@ -149,8 +172,8 @@ class Dataset:
                 self.levels[''][levels[0]] = level_dict
             # Intermediate levels
             for index, level in enumerate(levels[:-2]):
-                path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index+1])
-                next_path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index+2])
+                path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index + 1])
+                next_path = CORGIS_LEVEL_IDENTIFIER.join(levels[:index + 2])
                 if path not in self.levels:
                     self.levels[path] = {}
                 level_dict = Property(next_path, False, CorgisType.dict, '')
@@ -163,17 +186,18 @@ class Dataset:
         from pprint import pprint
         pprint(self.levels)
 
+
 def load_dataset(name: str) -> Dataset:
     source_path = SOURCE_PATH.format(dataset=name, filename=name)
-    
+
     meta_path = source_path + '-meta.csv'
     with open(meta_path, 'r', encoding='utf-8', errors='replace') as metadata_file:
         metadata_reader = csv.reader(metadata_file)
         dataset = Dataset.from_csv(metadata_reader)
-    
+
     data_path = source_path + '-corgis.csv'
     with open(data_path, 'r', encoding='utf-8', errors='replace') as dataset_file:
         dataset_reader = csv.reader(dataset_file)
         dataset.load_values(dataset_reader)
-    
+
     return dataset
