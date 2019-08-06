@@ -3,7 +3,8 @@
     "documentation": "https://corgis-edu.github.io/corgis/blockpy/index.html",
     "datasets": {
       "hospitals": {
-
+        "short": "Information about hospitals.",
+        "version": "X"
       }
     }
   }
