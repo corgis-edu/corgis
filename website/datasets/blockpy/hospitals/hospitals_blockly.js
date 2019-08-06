@@ -116,7 +116,7 @@ Blockly.Blocks['hospitals_get'] = {
     this.appendDummyInput('SECOND')
         .appendField("filter")
         .appendField(new Blockly.FieldDropdown(hospitals_INDEXES, function(option) {
-                        this.sourceBlock_.updateShape_(option);
+                        this.getSourceBlock().updateShape_(option);
                     }), "INDEX")
     this.updateShape_("(None)");
     this.setInputsInline(false);
@@ -132,6 +132,7 @@ Blockly.Blocks['hospitals_get'] = {
   },
   domToMutation: function(xmlElement) {
     var index = xmlElement.getAttribute('index');
+    this.setFieldValue(index, 'INDEX');
     var index_value = xmlElement.getAttribute('index_value');
     this.updateShape_(index, index_value);
   },
@@ -141,7 +142,6 @@ Blockly.Blocks['hospitals_get'] = {
     if (fieldExists) {
         inputGroup.removeField('INDEX_VALUE');
     }
-    this.setFieldValue(index, 'INDEX');
     if (index != undefined && index != '(None)') {
         inputGroup.appendField(new Blockly.FieldDropdown(hospitals_INDEX_VALUES[index]), 'INDEX_VALUE')
         if (index_value != undefined) {
@@ -170,9 +170,16 @@ Blockly.Python['hospitals_get'] = function(block) {
 BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['hospitals'] = {
     "get": {
         custom: function(node, parent) {
-            return BlockMirrorTextToBlocks.create_block("hospitals_get", null, {},
-                        {}, {}, {"@INDEX": Sk.ffi.remapToJs(node.args[0]),
-                                 "@INDEX_VALUE": Sk.ffi.remapToJs(node.args[1])});
+            if (!node.args || node.args.length < 3 ||
+                !node.args[0] || !node.args[1] || !node.args[2] ||
+                node.args[0]._astname !== "Str" || node.args[1]._astname !== "Str" || node.args[2]._astname !== "Str"
+            ) {
+                throw new Error("Not the right function call.");
+            }
+            return BlockMirrorTextToBlocks.create_block("hospitals_get", null,
+                {"PROPERTY": node.args[0].s.v},
+                {}, {}, {"@INDEX": node.args[1].s.v,
+                    "@INDEX_VALUE": node.args[2].s.v});
         }
     },
 };
