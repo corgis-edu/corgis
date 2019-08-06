@@ -1,4 +1,4 @@
-_IMPORTED_COMPLETE_DATASETS['hospitals'] = Sk.ffi.remapToPy([
+blockpy._IMPORTED_COMPLETE_DATASETS['hospitals'] = Sk.ffi.remapToPy([
   {
     "Facility": {
       "Name": "Southeast Alabama Medical Center",

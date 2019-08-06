@@ -12,7 +12,7 @@ var $builtinmodule = function(name)
         property = property.v;
         index = index.v;
         index_value = index_value.v;
-        var dataset = _IMPORTED_DATASETS[{{ library_name | tojson }}];
+        var dataset = blockpy._IMPORTED_DATASETS[{{ library_name | tojson }}];
         var data = [];
         if (index != '(None)') {
             for (var i = 0; i < dataset[property].data.length; i += 1) {
@@ -32,7 +32,7 @@ var $builtinmodule = function(name)
         if (!({{ library_name | tojson }} in _IMPORTED_COMPLETE_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return _IMPORTED_COMPLETE_DATASETS[{{ library_name | tojson }}];
+            return blockpy._IMPORTED_COMPLETE_DATASETS[{{ library_name | tojson }}];
         }
     });
     {% endfor %}

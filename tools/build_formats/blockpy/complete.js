@@ -1,1 +1,1 @@
-_IMPORTED_COMPLETE_DATASETS['{{ dataset.name }}'] = Sk.ffi.remapToPy({{ dataset.nested_values|tojson(indent=2) }});
+blockpy._IMPORTED_COMPLETE_DATASETS['{{ dataset.name }}'] = Sk.ffi.remapToPy({{ dataset.nested_values|tojson(indent=2) }});

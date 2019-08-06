@@ -1,1 +1,1 @@
-_IMPORTED_DATASETS['{{ dataset.name }}'] = {{ data | tojson(indent=2) }};
+blockpy._IMPORTED_DATASETS['{{ dataset.name }}'] = {{ data | tojson(indent=2) }};
