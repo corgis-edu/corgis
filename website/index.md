@@ -16,11 +16,11 @@ permalink: /
 
 ### Java
 
-[Java](java.md)
+[Java](python/index.md)
 
 ### Python
 
-[Python](languages/python.md)
+[Python](python/index.md)
 
 ### Raw Datasets
 
