@@ -5,8 +5,10 @@ from typing import List, Dict, Any
 from os import makedirs
 
 from tools.build_report import BuildReport
-from tools.common import snake_case, load_templates, build_image_files, build_website_file
+from tools.common import snake_case, load_templates, build_image_files, build_website_file, get_values_grouped_by_index
 from tools.dataset import CorgisType
+
+__version__ = '2.0.0'
 
 env = load_templates('visualizer')
 
@@ -97,27 +99,6 @@ def remove_outliers(dataset):
     return key_name_map
 
 
-# {Index Values => {Property Names => [Values]}}
-GroupedValues = Dict[str, Dict[str, List[Any]]]
-
-
-def get_values_grouped_by_index(values, index) -> GroupedValues:
-    indexed_values = {}
-    for row in values:
-        # Retrieve the index's value for this row
-        index_value = row[index.name]
-        if index_value not in indexed_values:
-            indexed_values[index_value] = {}
-        # Group this data based on that value
-        for property_name, value in row.items():
-            if not isinstance(value, (int, float)):
-                continue
-            if property_name not in indexed_values[index_value]:
-                indexed_values[index_value][property_name] = []
-            indexed_values[index_value][property_name].append(value)
-    return indexed_values
-
-
 def aggregate_statistics(indexed_values):
     aggregated_values = {}
     for index_value, items in indexed_values.items():
@@ -150,9 +131,7 @@ def build_data_files(dataset, destination):
     json_path = name + ".js"
     json_bar_path = name + "_bar.js"
 
-    data = dataset.as_dictionary_of_lists()
-    for data_column in data:
-        data_column['type'] = LANGUAGE_TYPE_NAMES.get(data_column['type'])
+    data = list(dataset.as_dictionary_of_lists(LANGUAGE_TYPE_NAMES).values())
     # TODO: Avoid removing outliers based on list from metadata file?
     data = json.dumps(data, indent=2)
     md = env.get_template('dataset.js').stream(dataset=dataset, data=data)

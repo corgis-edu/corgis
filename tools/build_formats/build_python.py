@@ -7,6 +7,8 @@ from tools.common import snake_case, load_templates, build_image_files, build_we
 from tools.dataset import CorgisType
 from tools.tifa import TifaDefinition
 
+__version__ = '2.0.0'
+
 env = load_templates('python')
 
 LANGUAGE_TYPE_NAMES = {

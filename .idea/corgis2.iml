@@ -13,6 +13,7 @@
         <option value="$MODULE_DIR$/tools/build_formats/templates" />
         <option value="$MODULE_DIR$/tools/build_formats/visualizer" />
         <option value="$MODULE_DIR$/tools/build_formats/python" />
+        <option value="$MODULE_DIR$/tools/build_formats/blockpy" />
       </list>
     </option>
   </component>

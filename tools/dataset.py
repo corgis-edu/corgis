@@ -131,19 +131,19 @@ class Dataset:
             if property.index:
                 yield property
 
-    def as_dictionary_of_lists(self):
+    def as_dictionary_of_lists(self, type_names):
         dictionaries = {property.name: {
             'data': [],
             'name': property.name,
             'comment': property.description,
             'index': property.index,
-            'type': property.type,
+            'type': type_names.get(property.type),
             'pretty': property.name
         } for property in self.properties}
         for row in self.values:
             for key, value in row.items():
                 dictionaries[key]['data'].append(value)
-        return list(dictionaries.values())
+        return dictionaries
 
     def _build_nested_values(self):
         """

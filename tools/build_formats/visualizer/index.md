@@ -9,7 +9,7 @@ extras: visualizer
      alt="{{ dataset.name }} icon"
      role="presentation">
 
-# {{ dataset.name }} Visualizer
+# {{ dataset.name }}|title Visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 

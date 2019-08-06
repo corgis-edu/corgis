@@ -1,6 +1,7 @@
 import json
 import sys, os
 from shutil import copyfile
+from typing import Dict, List, Any
 
 from jinja2 import Environment, FileSystemLoader
 import jinja2_highlight
@@ -78,6 +79,7 @@ def load_templates(format):
     env.filters['sluggify'] = sluggify
     env.filters['wrap_quotes'] = wrap_quotes
     env.filters['convert_example_value'] = convert_example_value
+    env.filters['to_human_readable_type'] = lambda x: x
 
     return env
 
@@ -93,3 +95,24 @@ def build_website_file(dataset, destination, env, language_info):
     md = env.get_template('index.md').stream(dataset=dataset, **language_info)
     md.dump(destination)
     return destination
+
+
+# {Index Values => {Property Names => [Values]}}
+GroupedValues = Dict[str, Dict[str, List[Any]]]
+
+
+def get_values_grouped_by_index(values, index) -> GroupedValues:
+    indexed_values = {}
+    for row in values:
+        # Retrieve the index's value for this row
+        index_value = row[index.name]
+        if index_value not in indexed_values:
+            indexed_values[index_value] = {}
+        # Group this data based on that value
+        for property_name, value in row.items():
+            if not isinstance(value, (int, float)):
+                continue
+            if property_name not in indexed_values[index_value]:
+                indexed_values[index_value][property_name] = []
+            indexed_values[index_value][property_name].append(value)
+    return indexed_values

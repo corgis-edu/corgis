@@ -10,7 +10,7 @@ style: dataset
      alt="{{ dataset.name }} icon"
      role="presentation">
 
-# {{ dataset.name }} Python Library
+# {{ dataset.name|title }} Python Library
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
