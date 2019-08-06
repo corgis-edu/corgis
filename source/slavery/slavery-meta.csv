@@ -1,0 +1,38 @@
+Name,Slavery
+Version,2.0.0
+Author,Ryan Whitcomb <rwhit94@vt.edu>
+Created,5-17-16
+Data File,slavery-corgis.csv
+Overview,"This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset."
+Data Source,"Calomiris, Charles W., and Jonathan Pritchett. 2016. ""Betting on Secession: Quantifying Political Events Surrounding Slavery and the Civil War."" American Economic Review, 106(1): 1-23.
+"
+Description,"This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset. 
+"
+Tags,"slavery, slave, slaves, buyer, seller, origin, history, economics"
+Row,transaction record
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,slavery-icon.png
+Splash,slavery-splash.png
+Properties,Name,Type,Index,Description
+,Buyer.County of Origin,string,,$MISSING_FIELD
+,Buyer.Full Name,string,,$MISSING_FIELD
+,Buyer.Origin,string,,$MISSING_FIELD
+,Buyer.State of Origin,string,True,$MISSING_FIELD
+,Seller.County of Origin,string,,$MISSING_FIELD
+,Seller.Full Name,string,,$MISSING_FIELD
+,Seller.Origin,string,,$MISSING_FIELD
+,Seller.State of Origin,string,,$MISSING_FIELD
+,Slave.Age,float,,$MISSING_FIELD
+,Slave.Gender,string,,$MISSING_FIELD
+,Slave.Name,string,,$MISSING_FIELD
+,Slave.Skin Color,string,,$MISSING_FIELD
+,Transaction.Date,string,,$MISSING_FIELD
+,Transaction.Number of Adult Slaves,int,,$MISSING_FIELD
+,Transaction.Number of Child Slaves,int,,$MISSING_FIELD
+,Transaction.Number of Total Slaves Purchased,int,,$MISSING_FIELD
+,Transaction.Sale Details.Discount Rate,float,,$MISSING_FIELD
+,Transaction.Sale Details.Payment Method,string,,$MISSING_FIELD
+,Transaction.Sale Details.Predicted Interest Rate,float,,$MISSING_FIELD
+,Transaction.Sale Details.Price,float,,$MISSING_FIELD
+,Transaction.Sale Details.Prices Listed,int,,$MISSING_FIELD

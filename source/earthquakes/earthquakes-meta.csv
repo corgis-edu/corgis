@@ -1,0 +1,34 @@
+Name,Earthquakes
+Version,2.0.0
+Author,Ryan Whitcomb
+Created,6/7/2016
+Data File,earthquakes-corgis.csv
+Overview,Records from different earthquake occurences across the world.
+Data Source,http://earthquake.usgs.gov/earthquakes/
+Description,"Earthquake records from around the world collected from the United States Geological Survey.  Important details about the earthquake such as distance, gap, magnitude, depth and significance are included to properly describe the earthquake.  Additionally, data about exact geological coordinates and a relative description of the earthquake's location is included. The earthquakes collected are from the past month.
+"
+Tags,"earthquakes, nature, disaster, magnitude, richter scale, latitude, longitude"
+Row,earthquake
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,earthquakes-icon.png
+Splash,earthquakes-splash.png
+Properties,Name,Type,Index,Description
+,id,string,,$MISSING_FIELD
+,impact.gap,float,,$MISSING_FIELD
+,impact.magnitude,float,,$MISSING_FIELD
+,impact.significance,int,,$MISSING_FIELD
+,location.depth,float,,$MISSING_FIELD
+,location.distance,float,,$MISSING_FIELD
+,location.full,string,,$MISSING_FIELD
+,location.latitude,float,,$MISSING_FIELD
+,location.longitude,float,,$MISSING_FIELD
+,location.name,string,True,$MISSING_FIELD
+,time.day,int,,$MISSING_FIELD
+,time.epoch,int,,$MISSING_FIELD
+,time.full,string,,$MISSING_FIELD
+,time.hour,int,,$MISSING_FIELD
+,time.minute,int,,$MISSING_FIELD
+,time.month,int,,$MISSING_FIELD
+,time.second,int,,$MISSING_FIELD
+,time.year,int,,$MISSING_FIELD

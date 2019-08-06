@@ -1,0 +1,22 @@
+Name,Health
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/1/2015
+Data File,health-corgis.csv
+Overview,This library holds data about reports of diseases in America.
+Data Source,$MISSING_FIELD
+Description,"This library holds data about reports of diseases in America.
+"
+Tags,"health, diseases, infection"
+Row,report
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,health-icon.png
+Splash,health-splash.png
+Properties,Name,Type,Index,Description
+,disease,string,True,$MISSING_FIELD
+,increase,float,,$MISSING_FIELD
+,loc,string,True,$MISSING_FIELD
+,number,int,,$MISSING_FIELD
+,population,int,,$MISSING_FIELD
+,year,int,True,$MISSING_FIELD

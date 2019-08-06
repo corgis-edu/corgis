@@ -1,0 +1,38 @@
+Name,Aids
+Version,2.0.0
+Author,Ryan Whitcomb
+Created,6/16/2016
+Data File,aids-corgis.csv
+Overview,Records of AIDS related statistics from several countries.
+Data Source,http://aidsinfo.unaids.org/
+Description,"The UNAIDS Organization is an entity of the United Nations that looks to reduce the transmission of AIDS and provide resources to those currently affected by the disease.  The following data set contains information on the number of those affected by the disease, new cases of the disease being reported, and AIDS-related deaths for a large set of countries over the course of 1990 - 2015.
+"
+Tags,"aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un"
+Row,report
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,aids-icon.png
+Splash,aids-splash.png
+Properties,Name,Type,Index,Description
+,Country,string,True,The name of the country.
+,Year,int,True,4-digit year
+,Data.AIDS-Related Deaths.AIDS Orphans,int,,Children who have been orphaned from AIDS (parents died of AIDS) below 17 years of age.
+,Data.AIDS-Related Deaths.Adults,int,,All adults (older than 15 years of age) who have died of aids.
+,Data.AIDS-Related Deaths.All Ages,int,,The total number of deaths caused by AIDS in this year.
+,Data.AIDS-Related Deaths.Children,int,,Children who have died of AIDS below 14 years of age.
+,Data.AIDS-Related Deaths.Female Adults,int,,Female adults (older than 15 years of age) who have died of aids.
+,Data.AIDS-Related Deaths.Male Adults,int,,Male adults (older than 15 years of age) who have died of aids.
+,Data.HIV Prevalence.Adults,float,,The percentage of the population of Young Men (15-49 years old) suffering from AIDS in this year.
+,Data.HIV Prevalence.Young Men,float,,The percentage of the population of Young Men (15-24 years old) suffering from AIDS in this year.
+,Data.HIV Prevalence.Young Women,float,,The percentage of the population of Young Women (15-24 years old) suffering from AIDS in this year.
+,Data.New HIV Infections.Adults,int,,The number of reported cases of AIDS in all adults (15+ years old).
+,Data.New HIV Infections.All Ages,int,,The total number of reported cases of AIDS in this year.
+,Data.New HIV Infections.Children,int,,The number of reported cases of AIDS in children (0-14 years old).
+,Data.New HIV Infections.Female Adults,float,,The number of reported cases of AIDS in female adults (15+ years old).
+,Data.New HIV Infections.Incidence Rate Among Adults,float,,The number of reported cases of AIDS in adults (15-49 years old).
+,Data.New HIV Infections.Male Adults,int,,The number of reported cases of AIDS in male adults (15+ years old).
+,Data.People Living with HIV.Adults,int,,The number of Adults (greater than 15 years old) suffering from AIDS in this year.
+,Data.People Living with HIV.Children,int,,The number of Children (less than 15 years old) suffering from AIDS in this year.
+,Data.People Living with HIV.Female Adults,int,,The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.
+,Data.People Living with HIV.Male Adults,int,,The number of Adult Men (greater than 15 years old) suffering from AIDS in this year.
+,Data.People Living with HIV.Total,int,,The total number of people suffering from AIDS in this year.

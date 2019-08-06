@@ -1,0 +1,101 @@
+Name,Energy
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/1/2015
+Data File,energy-corgis.csv
+Overview,"United States Government reports on consumption, production, import, and export of various fuel sources."
+Data Source,http://www.eia.gov/tools/faqs/
+Description,"United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2014. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
+"
+Tags,"energy, renewable, united states, us, nuclear, fossil fuels, power"
+Row,report
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,energy-icon.png
+Splash,energy-splash.png
+Properties,Name,Type,Index,Description
+,State,string,True,The state that this report was made for.
+,Year,int,True,The year that this report was made.
+,Production.Coal,float,,"Coal production in billion BTU. Unfortunately, the other energy sources produced by the United States (including Natural Gas and Petroleum) could not be incorporated."
+,Consumption.Commercial.Coal,float,,Coal consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Distillate Fuel Oil,float,,Distillate fuel oil consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Geothermal,float,,Geothermal energy consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Hydropower,float,,Hydropower consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Kerosene,float,,Kerosene consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Liquefied Petroleum Gases,float,,LPG consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Natural Gas,float,,Natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels) in billion BTU.
+,Consumption.Commercial.Solar,float,,Photovoltaic and solar thermal energy consumed by the commercial sector (except portion included in SOHCB) in billion BTU.
+,Consumption.Commercial.Wind,float,,Wind energy consumed by the commercial sector in billion BTU.
+,Consumption.Commercial.Wood,float,,Wood consumed by the commercial sector in billion BTU.
+,Consumption.Electric Power.Coal,float,,Coal consumed by the electric power sector in billion BTU.
+,Consumption.Electric Power.Distillate Fuel Oil,float,,Distillate fuel oil consumed by the electrical power sector in billion BTU.
+,Consumption.Electric Power.Natural Gas,float,,Natural gas consumed by the electric power sector (including supplemental gaseous fuels) in billion BTU.
+,Consumption.Electric Power.Wood,float,,Wood and waste consumed by the electric power sector in billion BTU.
+,Consumption.Industrial.Coal,float,,Coal consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Distillate Fuel Oil,float,,Distillate fuel oil consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Geothermal,float,,Geothermal energy consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Hydropower,float,,Hydropower consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Kerosene,float,,Kerosene consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Liquefied Petroleum Gases,float,,LPG consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Natural Gas,float,,Natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels) in billion BTU.
+,Consumption.Industrial.Other Petroleum Products,float,,Other petroleum products consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Solar,float,,Photovoltaic and solar thermal energy consumed by the industrial sector (except portion included in SOHCB) in billion BTU.
+,Consumption.Industrial.Wind,float,,Wind energy consumed by the industrial sector in billion BTU.
+,Consumption.Industrial.Wood,float,,"Wood and waste consumed in the industrial sector, total, in billion BTU."
+,Consumption.Refinery.Coal,int,,Coal consumed as refinery fuel in billion BTU.
+,Consumption.Refinery.Distillate Fuel Oil,int,,Distillate fuel oil consumed as refinery fuel in billion BTU.
+,Consumption.Refinery.Liquefied Petroleum Gases,int,,LPG consumed as refinery fuel in billion BTU.
+,Consumption.Refinery.Natural Gas,int,,Natural gas consumed as refinery fuel (including supplemental gaseous fuels) in billion BTU.
+,Consumption.Residential.Coal,float,,Coal consumed by the residential sector in billion BTU.
+,Consumption.Residential.Distillate Fuel Oil,float,,Distillate fuel oil consumed by the residential sector in billion BTU.
+,Consumption.Residential.Geothermal,float,,Geothermal energy consumed by the residential sector in billion BTU.
+,Consumption.Residential.Kerosene,float,,Kerosene consumed by the residential sector in billion BTU.
+,Consumption.Residential.Liquefied Petroleum Gases,float,,LPG consumed by the residential sector in billion BTU.
+,Consumption.Residential.Natural Gas,float,,Natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels) in billion BTU.
+,Consumption.Residential.Wood,float,,Wood consumed by the residential sector in billion BTU.
+,Consumption.Transportation.Coal,float,,Coal consumed by the transportation sector in billion BTU.
+,Consumption.Transportation.Distillate Fuel Oil,float,,Distillate fuel oil consumed by the transportation sector in billion BTU.
+,Consumption.Transportation.Liquefied Petroleum Gases,float,,LPG consumed by the transportation sector in billion BTU.
+,Consumption.Transportation.Natural Gas,float,,Natural gas consumed by the transportation sector in billion BTU.
+,Expenditure.Commercial.Coal,int,,Coal expenditures in the industrial sector in million dollars.
+,Expenditure.Commercial.Distillate Fuel Oil,int,,Distillate fuel oil expenditures in the industrial sector in million dollars.
+,Expenditure.Commercial.Kerosene,int,,Kerosene expenditures in the industrial sector in million dollars.
+,Expenditure.Commercial.Liquefied Petroleum Gases,int,,LPG expenditures in the industrial sector in million dollars.
+,Expenditure.Commercial.Natural Gas,int,,Natural gas expenditures in the industrial sector (including supplemental gaseous fuels) in million dollars.
+,Expenditure.Electric Power.Coal,int,,Coal expenditures in the electric power sector in million dollars.
+,Expenditure.Electric Power.Distillate Fuel Oil,int,,Distillate fuel oil expenditures in the electric power sector in million dollars.
+,Expenditure.Electric Power.Natural Gas,int,,Natural gas expenditures in the electric power sector (including supplemental gaseous fuels) in million dollars.
+,Expenditure.Industrial.Coal,int,,Coal expenditures in the industrial sector in million dollars.
+,Expenditure.Industrial.Distillate Fuel Oil,int,,Distillate fuel oil expenditures in the industrial sector in million dollars.
+,Expenditure.Industrial.Kerosene,int,,Kerosene expenditures in the industrial sector in million dollars.
+,Expenditure.Industrial.Liquefied Petroleum Gases,int,,LPG expenditures in the industrial sector in million dollars.
+,Expenditure.Industrial.Natural Gas,int,,Natural gas expenditures in the industrial sector (including supplemental gaseous fuels) in million dollars.
+,Expenditure.Industrial.Other Petroleum Products,int,,Other petroleum products total expenditures in the industrial sector in million dollars.
+,Expenditure.Residential.Coal,int,,Coal expenditures in the residential sector in million dollars.
+,Expenditure.Residential.Distillate Fuel Oil,int,,Distillate fuel oil expenditures in the residential sector in million dollars.
+,Expenditure.Residential.Kerosene,int,,Kerosene expenditures in the residential sector in million dollars.
+,Expenditure.Residential.Liquefied Petroleum Gases,int,,LPG expenditures in the residential sector in million dollars.
+,Expenditure.Residential.Natural Gas,int,,Natural gas expenditures in the residential sector (including supplemental gaseous fuels) in million dollars.
+,Expenditure.Residential.Wood,int,,Wood expenditures in the residential sector in million dollars.
+,Expenditure.Transportation.Coal,int,,Coal expenditures in the transportation sector in million dollars.
+,Expenditure.Transportation.Distillate Fuel Oil,int,,Distillate fuel oil expenditures in the transportation sector in million dollars.
+,Expenditure.Transportation.Liquefied Petroleum Gases,int,,LPG expenditures in the transportation sector in million dollars.
+,Expenditure.Transportation.Natural Gas,int,,Natural gas expenditures in the transportation sector in million dollars.
+,Price.Commercial.Coal,int,,Coal price in the commercial sector in dollars per million BTU.
+,Price.Commercial.Distillate Fuel Oil,int,,Distillate fuel oil price in the commercial sector in dollars per million BTU.
+,Price.Commercial.Kerosene,int,,Kerosene price in the commercial sector in dollars per million BTU.
+,Price.Commercial.Liquefied Petroleum Gases,int,,LPG price in the commercial sector in dollars per million BTU.
+,Price.Commercial.Natural Gas,int,,Natural gas price in the commercial sector (including supplemental gaseous fuels) in dollars per million BTU.
+,Price.Electric Power.Coal,int,,Coal price in the electric power sector in dollars per million BTU.
+,Price.Electric Power.Distillate Fuel Oil,int,,Distillate fuel oil price in the electric power sector in dollars per million BTU.
+,Price.Electric Power.Natural Gas,int,,Natural gas price in the electric power sector (including supplemental gaseous fuels) in dollars per million BTU.
+,Price.Industrial.Coal,int,,Coal price in the industrial sector in dollars per million BTU.
+,Price.Industrial.Distillate Fuel Oil,int,,Distillate fuel oil price in the industrial sector in dollars per million BTU.
+,Price.Industrial.Kerosene,int,,Kerosene price in the industrial sector in dollars per million BTU.
+,Price.Industrial.Liquefied Petroleum Gases,int,,LPG price in the industrial sector in dollars per million BTU.
+,Price.Industrial.Natural Gas,int,,Natural gas price in the industrial sector (including supplemental gaseous fuels) in dollars per million BTU.
+,Price.Industrial.Other Petroleum Products,int,,Other petroleum products average price in the industrial sector in dollars per million BTU.
+,Price.Transportation.Coal,int,,Coal price in the transportation sector in dollars per million BTU.
+,Price.Transportation.Distillate Fuel Oil,int,,Distillate fuel oil price in the transportation sector in dollars per million BTU.
+,Price.Transportation.Liquefied Petroleum Gases,int,,LPG price in the transportation sector in dollars per million BTU.
+,Price.Transportation.Natural Gas,int,,Natural gas price in the transportation sector in dollars per million BTU.

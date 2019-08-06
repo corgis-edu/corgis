@@ -1,0 +1,27 @@
+Name,Hydropower
+Version,2.0.0
+Author,Ryan Whitcomb
+Created,6/1/2016
+Data File,hydropower-corgis.csv
+Overview,"Records about dams in the United States such as location, dimensions, and project information"
+Data Source,http://www.usbr.gov/power/AssessmentReport/
+Description,"Recent Federal policies and legislation focus on moving the nation towards a cleaner energy economy that includes developing environmentally appropriate renewable energy projects involving solar, wind and waves, geothermal, biofuels, and hydropower.  The 2010 Federal Memorandum of Understanding for Hydropower and the Energy Policy Act of 2005 direct the U.S. Department of Reclamation to evaluate development of new hydropower projects at Federally-owned facilities and upgrade or rehabilitate existing hydropower generation facilities, as a contribution to the nation's clean energy goals.  The following data describes the facilities currently being operated that contribute to nationwide renewable energy strategies.
+"
+Tags,"hydropower, dams, lakes, rivers, waterways, irrigation, human consumption, industrial use, aquaculture, navigability, energy, electricity"
+Row,dam
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,hydropower-icon.png
+Splash,hydropower-splash.png
+Properties,Name,Type,Index,Description
+,Dimensions.Crest Elevation,float,,$MISSING_FIELD
+,Dimensions.Crest Length,float,,$MISSING_FIELD
+,Dimensions.Structural Height,float,,$MISSING_FIELD
+,Identity.Name,string,,$MISSING_FIELD
+,Identity.Watercourse,string,,$MISSING_FIELD
+,Location.County,string,,$MISSING_FIELD
+,Location.Latitude,float,,$MISSING_FIELD
+,Location.Longitude,float,,$MISSING_FIELD
+,Location.State,string,True,$MISSING_FIELD
+,Identity.Project.Organization,string,,$MISSING_FIELD
+,Identity.Project.Year,int,True,$MISSING_FIELD

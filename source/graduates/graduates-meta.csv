@@ -1,0 +1,66 @@
+Name,Graduates
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/1/2015
+Data File,graduates-corgis.csv
+Overview,This library holds data about employment of new graduates by major.
+Data Source,https://www.nsf.gov/statistics/srvyrecentgrads/
+Description,"The data in this library comes from the National Survey of Recent College Graduates.  Included is information about employment numbers, major information, and the earnings of different majors. Many majors were not available before 2010, so their values have been recorded as 0 (note that this may affect the averages shown in the bar charts).
+"
+Tags,"graduation, grads, majors, education, college, university, higher education, jobs, careers"
+Row,grad major
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,graduates-icon.png
+Splash,graduates-splash.png
+Properties,Name,Type,Index,Description
+,Year,int,True,The year that this report was made for.
+,Demographics.Total,int,,The estimated number of people awarded degrees in this major during this year.
+,Education.Major,string,True,The name of the major for these graduated students.
+,Salaries.Highest,float,,The highest recorded salary reported for employed people with this degree during this year.
+,Salaries.Lowest,float,,The lowest recorded salary reported for employed people with this degree during this year.
+,Salaries.Mean,float,,The average (mean) recorded salary reported for employed people with this degree during this year.
+,Salaries.Median,float,,The median recorded salary reported for employed people with this degree during this year.
+,Salaries.Quantity,int,,The number of salaries reported for employed people with this degree during this year.
+,Salaries.Standard Deviation,float,,The standard deviation (which gives the amount of variance) of salaries reported for employed people with this degree during this year.
+,Demographics.Ethnicity.Asians,int,,The estimated number of people identifying as Asian that were awarded degrees in this major during this year.
+,Demographics.Ethnicity.Minorities,int,,"The estimated number of people identifying as a minority (e.g., Black, African American, Native American) that were awarded degrees in this major during this year."
+,Demographics.Ethnicity.Whites,int,,The estimated number of people identifying as White that were awarded degrees in this major during this year.
+,Demographics.Gender.Females,int,,The estimated number of women awarded degrees in this major during this year.
+,Demographics.Gender.Males,int,,The estimated number of women awarded degrees in this major during this year.
+,Education.Degrees.Bachelors,int,,The estimated number of bachelor degrees awarded in this for major during this year.
+,Education.Degrees.Doctorates,int,,The estimated number of doctoral degrees awarded in this for major during this year.
+,Education.Degrees.Masters,int,,The estimated number of Masters awarded in this for major during this year.
+,Education.Degrees.Professionals,int,,The estimated number of professional degrees awarded in this for major during this year.
+,Employment.Employer Type.Business/Industry,int,,"The number of people with a degree in this major during this year who described their Employer Type as ""Business/Industry""."
+,Employment.Employer Type.Educational Institution,int,,"The number of people with a degree in this major during this year who described their Employer Type as an ""Educational Institution""."
+,Employment.Employer Type.Government,int,,"The number of people with a degree in this major during this year who described their Employer Type as ""Government""."
+,Employment.Reason Working Outside Field.Career Change,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because they wanted a career change."
+,Employment.Reason Working Outside Field.Family-related,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of family-related issues."
+,Employment.Reason Working Outside Field.Job Location,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of the job location."
+,Employment.Reason Working Outside Field.No Job Available,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because there was no job available in their field."
+,Employment.Reason Working Outside Field.Other,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of other reasons."
+,Employment.Reason Working Outside Field.Pay/Promotion,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of pay or promotion opportunities."
+,Employment.Reason Working Outside Field.Working Conditions,int,,"The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of working conditions."
+,Employment.Reason for Not Working.Family,int,,"The number of people with a degree in this major during this year, who are not working because of their family."
+,Employment.Reason for Not Working.Layoff,int,,"The number of people with a degree in this major during this year, who are not working because they were laid off."
+,Employment.Reason for Not Working.No Job Available,int,,"The number of people with a degree in this major during this year, who are not working because there was no job available."
+,Employment.Reason for Not Working.No need/want,int,,"The number of people with a degree in this major during this year, who are not working because they either did not need a job and/or did not want a job."
+,Employment.Reason for Not Working.Student,int,,"The number of people with a degree in this major during this year, who are not working because they were still a student."
+,Employment.Status.Employed,int,,"The number of people with a degree in this major during this year, who are employed."
+,Employment.Status.Not in Labor Force,int,,"The number of people with a degree in this major during this year, who are not in the labor force (e.g., retired, students, those taking care of children)."
+,Employment.Status.Unemployed,int,,"The number of people with a degree in this major during this year, who are unemployed."
+,Employment.Work Activity.Accounting/Finance/Contracts,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Accounting, Finance, or Contracts."
+,Employment.Work Activity.Applied Research,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Applied Research."
+,Employment.Work Activity.Basic Research,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Basic Research."
+,Employment.Work Activity.Computer Applications,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Computer Applications."
+,Employment.Work Activity.Design,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Design."
+,Employment.Work Activity.Development,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Development."
+,Employment.Work Activity.Human Resources,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Human Resources."
+,Employment.Work Activity.Managing/Supervising People/Projects,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving managing or supervising either people or projects."
+,Employment.Work Activity.Other,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving something not involved in any of the other categories."
+,Employment.Work Activity.Productions/Operations/Maintenance,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving productions, operations, or maintenance."
+,Employment.Work Activity.Professional Service,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving professional service."
+,Employment.Work Activity.Qualitity/Productivity Management,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving qualitity or productivity management."
+,"Employment.Work Activity.Sales, Purchasing, Marketing",int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving sales, purchasing, or marketing."
+,Employment.Work Activity.Teaching,int,,"The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving teaching."

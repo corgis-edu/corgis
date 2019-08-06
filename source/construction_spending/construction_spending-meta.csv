@@ -1,0 +1,135 @@
+Name,Construction Spending
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,3/20/2016
+Data File,construction_spending-corgis.csv
+Overview,Estimates of the total dollar value of construction work done in the U.S.
+Data Source,http://www.census.gov/construction/c30/c30index.html
+Description,"The Value of Construction Put in Place Survey (VIP) provides monthly estimates of the total dollar value of construction work done in the U.S. The United States Code, Title 13, authorizes this program. The survey covers construction work done each month on new structures or improvements to existing structures for private and public sectors. Data estimates include the cost of labor and materials, cost of architectural and engineering work, overhead costs, interest and taxes paid during construction, and contractor's profits. Data collection and estimation activities begin on the first day after the reference month and continue for about three weeks. Reported data and estimates are for activity taking place during the previous calendar month. The survey has been conducted monthly since 1964. <br><br><b>Why isn't the 'total construction' the sum of the other categories?</b> It is! the trick is that the 'residential' and ""nonresidential"" categories are supposed to be below the 'total construction' level, and the other categories are below those two categories. This example of the data should make it more clear: <a href='http://www.census.gov/construction/c30/pdf/tot.pdf'>http://www.census.gov/construction/c30/pdf/tot.pdf</a>.<br><br>More information about the nature of the construction projects is also <a href='https://www.census.gov/construction/c30/definitions.html'>available.</a>
+"
+Tags,"construction, spending, us, united states, america, government, buildings, residential, non-residential, private, public"
+Row,spending
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,construction_spending-icon.png
+Splash,construction_spending-splash.png
+Properties,Name,Type,Index,Description
+,time.index,int,,$MISSING_FIELD
+,time.month,int,True,$MISSING_FIELD
+,time.month name,string,,$MISSING_FIELD
+,time.period,string,,$MISSING_FIELD
+,time.year,int,True,$MISSING_FIELD
+,annual.combined.amusement and recreation,int,,$MISSING_FIELD
+,annual.combined.commercial,int,,$MISSING_FIELD
+,annual.combined.communication,int,,$MISSING_FIELD
+,annual.combined.conservation and development,int,,$MISSING_FIELD
+,annual.combined.educational,int,,$MISSING_FIELD
+,annual.combined.health care,int,,$MISSING_FIELD
+,annual.combined.highway and street,int,,$MISSING_FIELD
+,annual.combined.lodging,int,,$MISSING_FIELD
+,annual.combined.manufacturing,int,,$MISSING_FIELD
+,annual.combined.nonresidential,int,,$MISSING_FIELD
+,annual.combined.office,int,,$MISSING_FIELD
+,annual.combined.power,int,,$MISSING_FIELD
+,annual.combined.public safety,int,,$MISSING_FIELD
+,annual.combined.religious,int,,$MISSING_FIELD
+,annual.combined.residential,int,,$MISSING_FIELD
+,annual.combined.sewage and waste disposal,int,,$MISSING_FIELD
+,annual.combined.total construction,int,,$MISSING_FIELD
+,annual.combined.transportation,int,,$MISSING_FIELD
+,annual.combined.water supply,int,,$MISSING_FIELD
+,annual.private.amusement and recreation,int,,$MISSING_FIELD
+,annual.private.commercial,int,,$MISSING_FIELD
+,annual.private.communication,int,,$MISSING_FIELD
+,annual.private.conservation and development,int,,$MISSING_FIELD
+,annual.private.educational,int,,$MISSING_FIELD
+,annual.private.health care,int,,$MISSING_FIELD
+,annual.private.highway and street,int,,$MISSING_FIELD
+,annual.private.lodging,int,,$MISSING_FIELD
+,annual.private.manufacturing,int,,$MISSING_FIELD
+,annual.private.nonresidential,int,,$MISSING_FIELD
+,annual.private.office,int,,$MISSING_FIELD
+,annual.private.power,int,,$MISSING_FIELD
+,annual.private.public safety,int,,$MISSING_FIELD
+,annual.private.religious,int,,$MISSING_FIELD
+,annual.private.residential,int,,$MISSING_FIELD
+,annual.private.sewage and waste disposal,int,,$MISSING_FIELD
+,annual.private.total construction,int,,$MISSING_FIELD
+,annual.private.transportation,int,,$MISSING_FIELD
+,annual.private.water supply,int,,$MISSING_FIELD
+,annual.public.amusement and recreation,int,,$MISSING_FIELD
+,annual.public.commercial,int,,$MISSING_FIELD
+,annual.public.communication,int,,$MISSING_FIELD
+,annual.public.conservation and development,int,,$MISSING_FIELD
+,annual.public.educational,int,,$MISSING_FIELD
+,annual.public.health care,int,,$MISSING_FIELD
+,annual.public.highway and street,int,,$MISSING_FIELD
+,annual.public.lodging,int,,$MISSING_FIELD
+,annual.public.manufacturing,int,,$MISSING_FIELD
+,annual.public.nonresidential,int,,$MISSING_FIELD
+,annual.public.office,int,,$MISSING_FIELD
+,annual.public.power,int,,$MISSING_FIELD
+,annual.public.public safety,int,,$MISSING_FIELD
+,annual.public.religious,int,,$MISSING_FIELD
+,annual.public.residential,int,,$MISSING_FIELD
+,annual.public.sewage and waste disposal,int,,$MISSING_FIELD
+,annual.public.total construction,int,,$MISSING_FIELD
+,annual.public.transportation,int,,$MISSING_FIELD
+,annual.public.water supply,int,,$MISSING_FIELD
+,current.combined.amusement and recreation,int,,$MISSING_FIELD
+,current.combined.commercial,int,,$MISSING_FIELD
+,current.combined.communication,int,,$MISSING_FIELD
+,current.combined.conservation and development,int,,$MISSING_FIELD
+,current.combined.educational,int,,$MISSING_FIELD
+,current.combined.health care,int,,$MISSING_FIELD
+,current.combined.highway and street,int,,$MISSING_FIELD
+,current.combined.lodging,int,,$MISSING_FIELD
+,current.combined.manufacturing,int,,$MISSING_FIELD
+,current.combined.nonresidential,int,,$MISSING_FIELD
+,current.combined.office,int,,$MISSING_FIELD
+,current.combined.power,int,,$MISSING_FIELD
+,current.combined.public safety,int,,$MISSING_FIELD
+,current.combined.religious,int,,$MISSING_FIELD
+,current.combined.residential,int,,$MISSING_FIELD
+,current.combined.sewage and waste disposal,int,,$MISSING_FIELD
+,current.combined.total construction,int,,$MISSING_FIELD
+,current.combined.transportation,int,,$MISSING_FIELD
+,current.combined.water supply,int,,$MISSING_FIELD
+,current.private.amusement and recreation,int,,$MISSING_FIELD
+,current.private.commercial,int,,$MISSING_FIELD
+,current.private.communication,int,,$MISSING_FIELD
+,current.private.conservation and development,int,,$MISSING_FIELD
+,current.private.educational,int,,$MISSING_FIELD
+,current.private.health care,int,,$MISSING_FIELD
+,current.private.highway and street,int,,$MISSING_FIELD
+,current.private.lodging,int,,$MISSING_FIELD
+,current.private.manufacturing,int,,$MISSING_FIELD
+,current.private.nonresidential,int,,$MISSING_FIELD
+,current.private.office,int,,$MISSING_FIELD
+,current.private.power,int,,$MISSING_FIELD
+,current.private.public safety,int,,$MISSING_FIELD
+,current.private.religious,int,,$MISSING_FIELD
+,current.private.residential,int,,$MISSING_FIELD
+,current.private.sewage and waste disposal,int,,$MISSING_FIELD
+,current.private.total construction,int,,$MISSING_FIELD
+,current.private.transportation,int,,$MISSING_FIELD
+,current.private.water supply,int,,$MISSING_FIELD
+,current.public.amusement and recreation,int,,$MISSING_FIELD
+,current.public.commercial,int,,$MISSING_FIELD
+,current.public.communication,int,,$MISSING_FIELD
+,current.public.conservation and development,int,,$MISSING_FIELD
+,current.public.educational,int,,$MISSING_FIELD
+,current.public.health care,int,,$MISSING_FIELD
+,current.public.highway and street,int,,$MISSING_FIELD
+,current.public.lodging,int,,$MISSING_FIELD
+,current.public.manufacturing,int,,$MISSING_FIELD
+,current.public.nonresidential,int,,$MISSING_FIELD
+,current.public.office,int,,$MISSING_FIELD
+,current.public.power,int,,$MISSING_FIELD
+,current.public.public safety,int,,$MISSING_FIELD
+,current.public.religious,int,,$MISSING_FIELD
+,current.public.residential,int,,$MISSING_FIELD
+,current.public.sewage and waste disposal,int,,$MISSING_FIELD
+,current.public.total construction,int,,$MISSING_FIELD
+,current.public.transportation,int,,$MISSING_FIELD
+,current.public.water supply,int,,$MISSING_FIELD

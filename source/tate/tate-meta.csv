@@ -1,0 +1,35 @@
+Name,Tate
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/2/2015
+Data File,tate-corgis.csv
+Overview,"This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more."
+Data Source,http://www.tate.org.uk/about/our-work/collection/about-the-collection
+Description,"Tate holds the national collection of British art from 1500 to the present day and international modern and contemporary art. The collection embraces all media, from painting, drawing, sculpture and prints to photography, video and film, installation and performance. This dataset is not ordered in any particular way.
+This dataset has metadata about many pieces from their collection.
+"
+Tags,"artwork, art, sculpture, tate"
+Row,artwork
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,tate-icon.png
+Splash,tate-splash.png
+Properties,Name,Type,Index,Description
+,artist.gender,string,True,$MISSING_FIELD
+,artist.name,string,,$MISSING_FIELD
+,artist.role,string,,$MISSING_FIELD
+,data.medium,string,,$MISSING_FIELD
+,data.thumbnail,string,,$MISSING_FIELD
+,data.title,string,,$MISSING_FIELD
+,data.url,string,,$MISSING_FIELD
+,dimensions.depth,float,,$MISSING_FIELD
+,dimensions.height,float,,$MISSING_FIELD
+,dimensions.width,float,,$MISSING_FIELD
+,metadata.acquisition date,int,,$MISSING_FIELD
+,metadata.creation decade,int,True,$MISSING_FIELD
+,metadata.creation year,int,,$MISSING_FIELD
+,metadata.credit,string,,$MISSING_FIELD
+,artist.birth.location,string,,$MISSING_FIELD
+,artist.birth.year,int,,$MISSING_FIELD
+,artist.death.location,string,,$MISSING_FIELD
+,artist.death.year,int,,$MISSING_FIELD

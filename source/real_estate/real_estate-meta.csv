@@ -1,0 +1,34 @@
+Name,Real Estate
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,2/23/2016
+Data File,real_estate-corgis.csv
+Overview,"Real estate information in the United States, including inventory, building, and customer data."
+Data Source,https://catalog.data.gov/dataset/real-estate-across-the-united-states-rexus-inventory-building
+Description,"Real Estate Across the United States (REXUS) is the primary tool used by PBS to track and manage the government's real property assets and to store inventory data, building data, customer data, and lease information. STAR manages aspects of real property space management, including identification of all building space and daily management of 22,000 assignments for all property to its client Federal agencies. This data set contains PBS building inventory that consists of both owned and leased buildings with active and excess status.
+"
+Tags,"real, estate, buildings, government, building"
+Row,building
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,real_estate-icon.png
+Splash,real_estate-splash.png
+Properties,Name,Type,Index,Description
+,data.date,string,,$MISSING_FIELD
+,data.owned or leased,string,,$MISSING_FIELD
+,data.parking spaces,int,,$MISSING_FIELD
+,data.status,string,,$MISSING_FIELD
+,data.type,string,,$MISSING_FIELD
+,location.congressional district,string,,$MISSING_FIELD
+,location.id,string,,$MISSING_FIELD
+,location.region id,string,,$MISSING_FIELD
+,data.disabilities.ADA Accessible,string,,$MISSING_FIELD
+,data.disabilities.ansi usable,string,,$MISSING_FIELD
+,data.history.status,string,,$MISSING_FIELD
+,data.history.type,string,,$MISSING_FIELD
+,location.address.city,string,,$MISSING_FIELD
+,location.address.county,string,,$MISSING_FIELD
+,location.address.line 1,string,,$MISSING_FIELD
+,location.address.line 2,string,,$MISSING_FIELD
+,location.address.state,string,True,$MISSING_FIELD
+,location.address.zip,string,,$MISSING_FIELD

@@ -1,0 +1,67 @@
+Name,Election
+Version,2.0.0
+Author,Ryan Whitcomb
+Created,6/1/2016
+Data File,election-corgis.csv
+Overview,A breakdown of how each county voted in the 2016 Presidential primaries.
+Data Source,http://www.cnn.com/election/primaries/counties/va/Dem
+Description,"Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.  
+"
+Tags,"politics, election, votes, counties, candidate"
+Row,result
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,election-icon.png
+Splash,election-splash.png
+Properties,Name,Type,Index,Description
+,Location.County,string,,$MISSING_FIELD
+,Location.State,string,,$MISSING_FIELD
+,Location.State Abbreviation,string,,$MISSING_FIELD
+,Vote Data.Ben Carson.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Ben Carson.Party,string,,$MISSING_FIELD
+,Vote Data.Ben Carson.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Bernie Sanders.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Bernie Sanders.Party,string,,$MISSING_FIELD
+,Vote Data.Bernie Sanders.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Carly Fiorina.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Carly Fiorina.Party,string,,$MISSING_FIELD
+,Vote Data.Carly Fiorina.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Chris Christie.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Chris Christie.Party,string,,$MISSING_FIELD
+,Vote Data.Chris Christie.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Donald Trump.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Donald Trump.Party,string,,$MISSING_FIELD
+,Vote Data.Donald Trump.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Hillary Clinton.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Hillary Clinton.Party,string,,$MISSING_FIELD
+,Vote Data.Hillary Clinton.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Jeb Bush.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Jeb Bush.Party,string,,$MISSING_FIELD
+,Vote Data.Jeb Bush.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.John Kasich.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.John Kasich.Party,string,,$MISSING_FIELD
+,Vote Data.John Kasich.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Marco Rubio.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Marco Rubio.Party,string,,$MISSING_FIELD
+,Vote Data.Marco Rubio.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Martin O'Malley.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Martin O'Malley.Party,string,,$MISSING_FIELD
+,Vote Data.Martin O'Malley.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Mike Huckabee.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Mike Huckabee.Party,string,,$MISSING_FIELD
+,Vote Data.Mike Huckabee.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.No Preference.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.No Preference.Party,string,,$MISSING_FIELD
+,Vote Data.No Preference.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Rand Paul.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Rand Paul.Party,string,,$MISSING_FIELD
+,Vote Data.Rand Paul.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Rick Santorum.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Rick Santorum.Party,string,,$MISSING_FIELD
+,Vote Data.Rick Santorum.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Ted Cruz.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Ted Cruz.Party,string,,$MISSING_FIELD
+,Vote Data.Ted Cruz.Percent of Votes,float,,$MISSING_FIELD
+,Vote Data.Uncommitted.Number of Votes,int,,$MISSING_FIELD
+,Vote Data.Uncommitted.Party,string,,$MISSING_FIELD
+,Vote Data.Uncommitted.Percent of Votes,float,,$MISSING_FIELD

@@ -1,0 +1,28 @@
+Name,Broadway
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/1/2015
+Data File,broadway-corgis.csv
+Overview,"This library holds data about Broadway shows, such as tickets sold."
+Data Source,$MISSING_FIELD
+Description,"This library holds data about over Broadway shows, grouped over weeklong periods. Only shows that reported capacity were included, so the dataset stretches back to the 1990s. The dataset is made available by the Broadway League (the national trade association for the Broadway industry), and you can view the data online at http://www.broadwayleague.com/. This dataset 
+"
+Tags,"broadway, musical, theatre, tickets"
+Row,production
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,broadway-icon.png
+Splash,broadway-splash.png
+Properties,Name,Type,Index,Description
+,Date.Day,int,,The day of the month that this performance's week ended on.
+,Date.Full,string,,"The full date representation that this performance's week ended on in ""Month/Day/Year"" format."
+,Date.Month,int,,"The numeric month that this performance's week ended in (1 = January, 2 = February, etc.)."
+,Date.Year,int,True,The year that this week of performances occurred in.
+,Show.Name,string,,The name of the production.
+,Show.Theatre,string,True,The name of the theatre.
+,Show.Type,string,True,"Whether it is a ""Musical"", ""Play"", or ""Special""."
+,Statistics.Attendance,int,,The total number of people who attended performances over the week.
+,Statistics.Capacity,int,,The percentage of the theatre that was filled during that week.
+,Statistics.Gross,int,,"The ""Gross Gross"" of this performance, or how much it made in total across the entire week. Measured in dollars."
+,Statistics.Gross Potential,int,,"The Gross Potential is the maximum amount an engagement can possibly earn based on calculations involving ticket prices, seating capacity, and the number of performances. This number is expressed here as a percentage of what could have been achieved (Gross Gross / Gross Potential). In case the GP could not be calculated, it was replaced with 0%."
+,Statistics.Performances,int,,The number of performances that occurred this week.

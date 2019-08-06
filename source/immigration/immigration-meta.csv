@@ -1,0 +1,30 @@
+Name,Immigration
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,11/1/2015
+Data File,immigration-corgis.csv
+Overview,A dataset about the immigration of foreign nationals to the United States.
+Data Source,http://www.dhs.gov/yearbook-immigration-statistics
+Description,"The Yearbook of Immigration Statistics is a compendium of tables that provides data on foreign nationals who, during a fiscal year, were granted lawful permanent residence (i.e., admitted as immigrants or became legal permanent residents), were admitted into the United States on a temporary basis (e.g., tourists, students, or workers), applied for asylum or refugee status, or were naturalized. The Yearbook also presents data on immigration enforcement actions, including alien apprehensions, removals, and returns. This data ranges from 2005-2014 and covers immigration from many countries.
+"
+Tags,"immigration, naturalization, permanants, united states, us"
+Row,record
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,immigration-icon.png
+Splash,immigration-splash.png
+Properties,Name,Type,Index,Description
+,Country,string,True,"The country that these immigrants came from to USA, or are going to from the USA."
+,Year,int,True,The year that this immigration data comes from.
+,Data.Naturalizations (Birth),int,,"Naturalization is the process by which U.S. citizenship is granted to a foreign citizen or national after he or she fulfills the requirements established by Congress in the Immigration and Nationality Act (INA). This is the number that became naturalized in this year from the associated country. Note that this is not the number of naturally-born citizens, which is a different form of citizenship."
+,Data.Enforcement.Apprehended,int,,The number of aliens who entered without inspection between ports of entry and are apprehended by U.S. Border Patrol (USBP).
+,Data.Enforcement.Criminal,int,,"The number of aliens who were removed from the US for having prior criminal convictions (e.g., immigration-related offenses, dangerous drug crimes, criminal traffic offenses, and assault)."
+,Data.Enforcement.Inadmissable,int,,The number of aliens who were ineligible to receive a visa and ineligible to be admitted to the United States.
+,Data.Enforcement.Non-criminal,int,,The number of aliens who were removed from the US without a prior criminal conviction (but were present in the USA illegaly).
+,Data.Legal permanant residences.Birth,int,,"Lawful permanent residents (LPRs), also known as ""green card"" holders, are non-citizens who are lawfully authorized to live permanently within the United States. This is the number that were from the associated country where they were originally born."
+,Data.Legal permanant residences.Last Residence,int,,"Lawful permanent residents (LPRs), also known as ""green card"" holders, are non-citizens who are lawfully authorized to live permanently within the United States. This is the number that had their last residence in the associated country."
+,Data.Nonimmigrant Admissions.Birth,int,,"Nonimmigrants are foreign nationals granted temporary admission into the United States. The major purposes for which nonimmigrant admission may be authorized include temporary visits for business or pleasure, academic or vocational study, temporary employment, or to act as a representative of a foreign government or international organization, among others. This is the number that were entered this year from the associated country."
+,Data.Nonimmigrant Admissions.Last Residence,int,,"Nonimmigrants are foreign nationals granted temporary admission into the United States. The major purposes for which nonimmigrant admission may be authorized include temporary visits for business or pleasure, academic or vocational study, temporary employment, or to act as a representative of a foreign government or international organization, among others. This is the number that had their last residence in the associated country."
+,Data.Refugees.Affirmative,int,,Refugee status is a form of protection that may be granted to people who meet the definition of refugee and who are of special humanitarian concern to the United States. Refugees are generally people outside of their country who are unable or unwilling to return home because they fear serious harm. This is the number that were granted refugee status from the associated country in this year.
+,Data.Refugees.Arrived,int,,Refugee status is a form of protection that may be granted to people who meet the definition of refugee and who are of special humanitarian concern to the United States. Refugees are generally people outside of their country who are unable or unwilling to return home because they fear serious harm. This is the number that have arrived from the associated country in this year seeking refugee status and asylum.
+,Data.Refugees.Defensive Asylum,int,,"Asylum status is a form of protection available to people who: (1) Meet the definition of refugee, (2) Are already in the United States, and (3) Are seeking admission at a port of entry. This is the number of people who have been granted aslyum in the USA from the associated country in this year."

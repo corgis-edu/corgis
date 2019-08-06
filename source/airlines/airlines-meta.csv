@@ -1,0 +1,41 @@
+Name,Airlines
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,3/27/2015
+Data File,airlines-corgis.csv
+Overview,Information about flight delays in major aiports since 2003.
+Data Source,$MISSING_FIELD
+Description,"This dataset is all about flights in the united states, including information about the number, length, and type of delays. The data is reported for individual months at every major airport for every carrier.
+Additional information is available: <a href=""http://www.rita.dot.gov/bts/help/aviation/html/understanding.html"">http://www.rita.dot.gov/bts/help/aviation/html/understanding.html</a>
+"
+Tags,"airplane, airports, travel, plane, air, flights, delays, national, united states, transportation"
+Row,airports
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,airlines-icon.png
+Splash,airlines-splash.png
+Properties,Name,Type,Index,Description
+,Airport.Code,string,True,"The 3 letter code for this airport, assigned by IATA. For more information, consult this <a href='https://en.wikipedia.org/wiki/List_of_airports_by_IATA_code'>List of Airport Codes</a>."
+,Airport.Name,string,,The full name of this airport.
+,Time.Label,string,True,"The ""year/month"" reported as a string, to make it easier to sort by time periods."
+,Time.Month,int,,"The reported month as a number. 0 is January, 1 is February, etc."
+,Time.Month Name,string,,$MISSING_FIELD
+,Time.Year,int,,The reported year as a 4-digit number.
+,Statistics.# of Delays.Carrier,int,,"The number of delays and cancellations due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.) in this month."
+,Statistics.# of Delays.Late Aircraft,int,,"The number of delays and cancellations caused by a previous flight with the same aircraft arriving late, causing the present flight to depart late in this month."
+,Statistics.# of Delays.National Aviation System,int,,"The number of delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control in this month."
+,Statistics.# of Delays.Security,int,,"Number of delays or cancellations caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas in this month."
+,Statistics.# of Delays.Weather,int,,"Number of delays or cancellations caused by significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane in this month."
+,Statistics.Carriers.Names,string,,The full names of the carriers that reported in.
+,Statistics.Carriers.Total,int,,The number of carriers that reported flight information during this time period and at this location.
+,Statistics.Flights.Cancelled,int,,The number of flights that were cancelled in this month.
+,Statistics.Flights.Delayed,int,,The number of flights that were delayed in this month.
+,Statistics.Flights.Diverted,int,,The number of flights that were diverted in this month.
+,Statistics.Flights.On Time,int,,The number of flights that were on time in this month.
+,Statistics.Flights.Total,int,,The total number of flights in this month.
+,Statistics.Minutes Delayed.Carrier,int,,"The number of minutes delayed due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.) in this month."
+,Statistics.Minutes Delayed.Late Aircraft,int,,"The number of minutes delayed caused by a previous flight with the same aircraft arriving late, causing the present flight to depart late in this month."
+,Statistics.Minutes Delayed.National Aviation System,int,,"The number of minutes delayed attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control in this month."
+,Statistics.Minutes Delayed.Security,int,,"Number of minutes delayed caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas in this month."
+,Statistics.Minutes Delayed.Total,int,,$MISSING_FIELD
+,Statistics.Minutes Delayed.Weather,int,,"Number of of minutes delayed caused by significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane in this month."

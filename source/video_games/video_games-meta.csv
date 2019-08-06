@@ -1,0 +1,55 @@
+Name,Video Games
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,4/13/2017
+Data File,video_games-corgis.csv
+Overview,"This library has data about video games, including their play time and sales."
+Data Source,"Cox, Joe. ""What makes a blockbuster video game? An empirical analysis of US sales data."" Managerial and Decision Economics 35.3 (2014): 189-198.
+"
+Description,"<i>This dataset requires special permission to use.</i><br><br>
+Originally collected by Dr. Joe Cox, this dataset has information about the sales and playtime of over a thousand video games released between 2004 and 2010. The playtime information was collected from crowd-sourced data on ""How Long to Beat"".<br><br>
+Some more information can be found <a href=""https://researchportal.port.ac.uk/portal/en/publications/what-makes-a-blockbuster-video-game(a6d848fe-38ae-4584-8c95-a0f735ec9b4c).html"">here</a>.
+"
+Tags,"video games, games, publishers, console, gaming"
+Row,video game
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,video_games-icon.png
+Splash,video_games-splash.png
+Properties,Name,Type,Index,Description
+,Title,string,,The full title of this game.
+,Features.Handheld?,boolean,,Whether this is a hand-held game.
+,Features.Max Players,int,,The maximum number of players that can play this game.
+,Features.Multiplatform?,boolean,,Whether this game is available on multiple platforms.
+,Features.Online?,boolean,,Whether this game supports online play.
+,Metadata.Genres,string,,The list of genres that this game belongs to.
+,Metadata.Licensed?,boolean,,Whether this game was based off a previously licensed entity.
+,Metadata.Publishers,string,,The list of publishers who created this game
+,Metadata.Sequel?,boolean,,Whether this game is a sequel to another game.
+,Metrics.Review Score,int,,"a typical review score for this game, out of 100."
+,Metrics.Sales,float,,"The total sales made on this game, measured in millions of dollars."
+,Metrics.Used Price,float,,"A typical ""used"" price for this game (i.e. previously returned and sold), measured in dollars. It is unclear where this number originally came from."
+,Release.Console,string,True,"The name of the console that this particular game was released for. Note that the dataset contains multiple copies of the same game, released for different consoles."
+,Release.Rating,string,,"The ESRB rating for this game, either E (for Everyone), T (for Teen), or M (for Mature)."
+,Release.Re-release?,boolean,,Whether this game is a re-release of an earlier one.
+,Release.Year,int,True,The year that this game was released.
+,Length.All PlayStyles.Average,float,,"The mean time that players reported completing the game in any way, in hours. This is the average over all the other categories."
+,Length.All PlayStyles.Leisure,float,,"The slowest time that players reported completing the game in any way, in hours. This is the minimum over all the other categories."
+,Length.All PlayStyles.Median,float,,"The median time that players reported completing the game in any way, in hours. This is the median over all the other categories."
+,Length.All PlayStyles.Polled,int,,The number of players that reported completing the game in any way. This is the count over all the other categories.
+,Length.All PlayStyles.Rushed,float,,"The fastest time that players reported completing the game in any way, in hours. This is the maximum over all the other categories."
+,Length.Completionists.Average,float,,"The mean time that players reported completing everything in the game, in hours."
+,Length.Completionists.Leisure,float,,"The slowest time that players reported completing everything in the game, in hours."
+,Length.Completionists.Median,float,,"The median time that players reported completing everything in the game, in hours."
+,Length.Completionists.Polled,int,,The number of players that reported completing everything in the game.
+,Length.Completionists.Rushed,float,,"The fastest time that players reported completing everything in the game, in hours."
+,Length.Main + Extras.Average,float,,"The mean time that players reported completing the main game and major extra parts of the game, in hours."
+,Length.Main + Extras.Leisure,float,,"The slowest time that players reported completing the main game and major extra parts of the game, in hours."
+,Length.Main + Extras.Median,float,,"The median time that players reported completing the main game and major extra parts of the game, in hours."
+,Length.Main + Extras.Polled,int,,The number of players that reported completing the main game and major extra parts of the game.
+,Length.Main + Extras.Rushed,float,,"The fastest time that players reported completing the main game and major extra parts of the game, in hours."
+,Length.Main Story.Average,float,,"The mean time that players reported completing the main game storyline, in hours."
+,Length.Main Story.Leisure,float,,"The slowest time that players reported completing the main game storyline, in hours."
+,Length.Main Story.Median,float,,"The median time that players reported completing the main game storyline, in hours."
+,Length.Main Story.Polled,int,,The number of players that reported completing the main game storyline.
+,Length.Main Story.Rushed,float,,"The fastest time that players reported completing the main game storyline, in hours."

@@ -1,0 +1,51 @@
+Name,Music
+Version,2.0.0
+Author,Ryan Whitcomb <rwhit94@vt.edu>
+Created,5-18-16
+Data File,music-corgis.csv
+Overview,The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.
+Data Source,"Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere. <br> The Million Song Dataset. In Proceedings of the 12th International Society <br> for Music Information Retrieval Conference (ISMIR 2011), 2011."
+Description,"This library comes from the Million Song Dataset, which used a company called the Echo Nest to derive data points about one million popular contemporary songs.  The Million Song Dataset is a collaboration between the Echo Nest and LabROSA, a laboratory working towards intelligent machine listening.  The project was also funded in part by the National Science Foundation of America (NSF) to provide a large data set to evaluate research related to algorithms on a commercial size while promoting further research into the Music Information Retrieval field.  The data contains standard information about the songs such as artist name, title, and year released.  Additionally, the data contains more advanced information; for example, the length of the song, how many musical bars long the song is, and how long the fade in to the song was.
+"
+Tags,"music, songs, artists, creativity, media"
+Row,music
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,music-icon.png
+Splash,music-splash.png
+Properties,Name,Type,Index,Description
+,artist.familiarity,float,,A measure of 0..1 for how familiar the artist is to listeners.
+,artist.hotttnesss,float,,"A measure of the artists's popularity, when downloaded (in December 2010). Measured on a scale of 0 to 1."
+,artist.id,string,,A unique ID for this artist.
+,artist.latitude,int,,The home location's latitude of this artist.
+,artist.location,int,,Unknown.
+,artist.longitude,int,,The home location's longitude of this artist.
+,artist.name,string,True,The name of the artist.
+,artist.similar,float,,Unknown.
+,artist.terms,string,,The term most associated with this artist.
+,artist.terms_freq,float,,The frequency of this term.
+,release.id,int,,The ID of the release (album) on the service 7digital.com
+,release.name,int,,Unknown value
+,song.artist_mbtags,float,,Unknown field.
+,song.artist_mbtags_count,float,,Number of tags for the artist on mbtags.
+,song.bars_confidence,float,,Confidence value (between 0 and 1) associated with each bar.
+,song.bars_start,float,,"Average start time of each bar, measured in bars."
+,song.beats_confidence,float,,Average confidence interval of the beats.
+,song.beats_start,float,,"Average start time of each beat, measured in beats."
+,song.duration,float,,Duration of the track in seconds.
+,song.end_of_fade_in,float,,"Time of the end of the fade in, at the beginning of the song."
+,song.hotttnesss,float,,"A measure of the song's popularity, when downloaded (in December 2010). Measured on a scale of 0 to 1."
+,song.id,string,,A uniquely identifying number for the song.
+,song.key,float,,Estimation of the key the song is in. Keys can be from 0 to 11.
+,song.key_confidence,float,,Confidence value (between 0 and 1) of the key estimation.
+,song.loudness,float,,General loudness of the track
+,song.mode,int,,Estimation of the mode the song.
+,song.mode_confidence,float,,Confidence value (between 0 and 1) of the mode estimation.
+,song.start_of_fade_out,float,,"Start time of the fade out, in seconds, at the end of the song."
+,song.tatums_confidence,float,,Confidence value (between 0 and 1) associated with each tatum.
+,song.tatums_start,float,,"Average start time of each tatum, measured in tatums."
+,song.tempo,float,,Tempo in BPM.
+,song.time_signature,float,,"Time signature of the song, i.e. usual number of beats per bar."
+,song.time_signature_confidence,float,,Confidence of the time signature estimation
+,song.title,int,,Name of the song.
+,song.year,int,True,"Year when this song was released, according to musicbrainz.org."

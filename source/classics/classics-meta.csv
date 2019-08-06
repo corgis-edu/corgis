@@ -1,0 +1,54 @@
+Name,Classics
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,4/2/2016
+Data File,classics-corgis.csv
+Overview,Records and computed statistics about the top 1000 books on Project Gutenberg.
+Data Source,https://www.gutenberg.org/ebooks/search/?sort_order=downloads
+Description,"Project Gutenberg (PG) is a volunteer effort to digitize and archive cultural works, to 'encourage the creation and distribution of eBooks'. It was founded in 1971 by Michael S. Hart and is the oldest digital library. This dataset is a collection of the top 1000 most popular books on Project Gutenberg, as determined by downloads. Each book has information about its authorship, publication date, congressional classication, and a few other fields. It also has some simple, computed statistics based on common metrics such as sentiment analysis, Flesch Kincaid Reading level, and average sentence length. 
+"
+Tags,"classics, books, texts, text, book, classic, english, shakespeare, literature, novel, language, composition, writing, author, publication, words"
+Row,Book
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,classics-icon.png
+Splash,classics-splash.png
+Properties,Name,Type,Index,Description
+,bibliography.congress classifications,string,,$MISSING_FIELD
+,bibliography.languages,string,,$MISSING_FIELD
+,bibliography.subjects,string,,$MISSING_FIELD
+,bibliography.title,string,,$MISSING_FIELD
+,bibliography.type,string,,$MISSING_FIELD
+,metadata.downloads,int,,"The number of times this book has been downloaded from Project Gutenberg, as of the last update (circa Spring 2016)."
+,metadata.id,int,,"Every book on Project Gutenberg has a unique ID number. You can use this number to check the book on project gutenberg (e.g., book 110 is <a href=""http://www.gutenberg.org/ebooks/110"">http://www.gutenberg.org/ebooks/110</a>)."
+,metadata.rank,int,,"The rank of this book in comparison to other books on Gutenberg, measured by number of downloads. A lower rank indicatest that that book is more popular."
+,metadata.url,string,,$MISSING_FIELD
+,bibliography.author.birth,int,,"The recorded birth year of the author. If their birth year is unknown, it is replaced with ""0""."
+,bibliography.author.death,int,,"The recorded year of the author's death. If their death year is unknown, it is replaced with ""0""."
+,bibliography.author.name,string,True,$MISSING_FIELD
+,bibliography.publication.day,int,,"The day of the month when the book was published. Notice that missing values have been coded as ""0""."
+,bibliography.publication.full,string,,$MISSING_FIELD
+,bibliography.publication.month,int,,"The month of the year when the book was published; 1 corresponds to January, 2 to February, etc. Notice that missing values have been coded as ""0""."
+,bibliography.publication.month name,string,,$MISSING_FIELD
+,bibliography.publication.year,int,,"The year when the book was published according to Project Gutenberg. Keep in mind that this may not be the original publication date of the work, just that particular edition of the work. Notice that missing values have been coded as ""0""."
+,metadata.formats.total,int,,"Project Gutenberg makes books available in a wide variety of file formats, including raw text files, HTML web pages, audio books, etc. This field indicates the number of ways that this book is available."
+,metadata.formats.types,string,,$MISSING_FIELD
+,metrics.difficulty.automated readability index,float,,"The Automated Readability Index is a number indicating the understandability of the text. This number is an approximate US Grade Level needed to comprehend the text, calculated using the characters per word and words per sentences."
+,metrics.difficulty.coleman liau index,float,,"The Coleman Liau Index is a number indicating the understandability of the text. This number is an approximate US Grade Level needed to comprehend the text, calculated using characters instead of syllables, similar to the Automated Readability Index."
+,metrics.difficulty.dale chall readability score,float,,"The Dale Chall Readability Score provides a numeric gauge of the comprehension difficulty that readers come upon when reading a text. It uses a list of 3000 words that groups of fourth-grade American students could reliably understand, considering any word not on that list to be difficult. This number is an approximate US Grade Level needed to comprehend the text."
+,metrics.difficulty.difficult words,int,,"The number of words in the text that are considered ""difficult""; that is, they are not on a list of 3000 words that are considered understandable by fourth-grade American students."
+,metrics.difficulty.flesch kincaid grade,float,,"The ""Flesch-Kincaid Grade Level Formula"" presents a score as a U.S. grade level, making it easier to understand. It uses a similar formula to the Flesch Reading Ease measure."
+,metrics.difficulty.flesch reading ease,float,,"The 'Flesch Reading Ease' uses the sentence length (number of words per sentence) and the number of syllables per word in an equation to calculate the reading ease. Texts with a very high Flesch reading Ease score (about 100) are very easy to read, have short sentences and no words of more than two syllables."
+,metrics.difficulty.gunning fog,float,,The Gunning Fog Index measures the readability of English writing. The index estimates the years of formal education needed to understand the text on a first reading. The formula is calculated using the ratio of words to sentences and the percentage of words that are complex (i.e. have three or more syllables).
+,metrics.difficulty.linsear write formula,float,,"Linsear Write is a readability metric for English text, purportedly developed for the United States Air Force to help them calculate the readability of their technical manuals. It was designed to calculate the United States grade level of a text sample based on sentence length and the number words used that have three or more syllables."
+,metrics.difficulty.smog index,float,,"The SMOG grade is a measure of readability that estimates the years of education needed to understand a piece of writing. SMOG is the acronym derived from ""Simple Measure of Gobbledygook"". Its formula is based on the number of polysyllables (words with three or more syllables) and the number of sentences."
+,metrics.sentiments.polarity,float,,Sentiment analysis attempts to determine the attitude of a speaker or a writer with respect to some topic or the overall contextual polarity of a document. Polarity in particular refers to how positive or negative the author is towards the content.
+,metrics.sentiments.subjectivity,float,,Sentiment analysis attempts to determine the attitude of a speaker or a writer with respect to some topic or the overall contextual polarity of a document. Subjectivity (as opposed to Objectivity) in particular refers to whether the text is opinionated or attempts to stay factual.
+,metrics.statistics.average letter per word,float,,$MISSING_FIELD
+,metrics.statistics.average sentence length,float,,$MISSING_FIELD
+,metrics.statistics.average sentence per word,float,,$MISSING_FIELD
+,metrics.statistics.characters,int,,"Characters are letters and symbols in a text, not the number of people."
+,metrics.statistics.polysyllables,int,,The number of words that have 3 or more syllables.
+,metrics.statistics.sentences,int,,$MISSING_FIELD
+,metrics.statistics.syllables,float,,$MISSING_FIELD
+,metrics.statistics.words,int,,$MISSING_FIELD

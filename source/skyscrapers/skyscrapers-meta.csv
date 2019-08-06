@@ -1,0 +1,57 @@
+Name,Skyscrapers
+Version,2.0.0
+Author,Austin Cory Bart <acbart@vt.edu>
+Created,3/22/2016
+Data File,skyscrapers-corgis.csv
+Overview,Information about tall buildings constructed all over the world.
+Data Source,http://www.skyscrapercenter.com/
+Description,"Collected statistics about the tallest buildings all over the world, including the materials used to develop them, the purpose of the buildings, and more.
+"
+Tags,"buildings, construction, building, skyscrapers, international, tall, height, tower"
+Row,skyscraper
+Row Explanation,$MISSING_FIELD
+Acknowledgement,
+Icon,skyscrapers-icon.png
+Splash,skyscrapers-splash.png
+Properties,Name,Type,Index,Description
+,id,int,,$MISSING_FIELD
+,material,string,True,$MISSING_FIELD
+,name,string,,$MISSING_FIELD
+,location.city,string,True,$MISSING_FIELD
+,location.city_id,int,,$MISSING_FIELD
+,location.country,string,,$MISSING_FIELD
+,location.country id,int,,$MISSING_FIELD
+,location.latitude,int,,$MISSING_FIELD
+,location.longitude,int,,$MISSING_FIELD
+,purposes.abandoned,boolean,,$MISSING_FIELD
+,purposes.air traffic control tower,boolean,,$MISSING_FIELD
+,purposes.belltower,boolean,,$MISSING_FIELD
+,purposes.bridge,boolean,,$MISSING_FIELD
+,purposes.casino,boolean,,$MISSING_FIELD
+,purposes.commercial,boolean,,$MISSING_FIELD
+,purposes.education,boolean,,$MISSING_FIELD
+,purposes.exhibition,boolean,,$MISSING_FIELD
+,purposes.government,boolean,,$MISSING_FIELD
+,purposes.hospital,boolean,,$MISSING_FIELD
+,purposes.hotel,boolean,,$MISSING_FIELD
+,purposes.industrial,boolean,,$MISSING_FIELD
+,purposes.library,boolean,,$MISSING_FIELD
+,purposes.multiple,boolean,,$MISSING_FIELD
+,purposes.museum,boolean,,$MISSING_FIELD
+,purposes.observation,boolean,,$MISSING_FIELD
+,purposes.office,boolean,,$MISSING_FIELD
+,purposes.other,boolean,,$MISSING_FIELD
+,purposes.religious,boolean,,$MISSING_FIELD
+,purposes.residential,boolean,,$MISSING_FIELD
+,purposes.retail,boolean,,$MISSING_FIELD
+,purposes.serviced apartments,boolean,,$MISSING_FIELD
+,purposes.telecommunications,boolean,,$MISSING_FIELD
+,statistics.floors above,int,,$MISSING_FIELD
+,statistics.height,float,,$MISSING_FIELD
+,statistics.number of purposes,int,,$MISSING_FIELD
+,statistics.rank,int,,$MISSING_FIELD
+,status.current,string,,$MISSING_FIELD
+,status.completed.is completed,boolean,,$MISSING_FIELD
+,status.completed.year,int,,$MISSING_FIELD
+,status.started.is started,boolean,,$MISSING_FIELD
+,status.started.year,int,,$MISSING_FIELD
