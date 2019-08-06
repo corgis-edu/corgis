@@ -1,1 +1,10 @@
-{}
+{
+  "blockpy": {
+    "documentation": "https://corgis-edu.github.io/corgis/blockpy/index.html",
+    "datasets": {
+      "hospitals": {
+
+      }
+    }
+  }
+}
