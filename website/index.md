@@ -14,13 +14,13 @@ permalink: /
 
 ## Languages
 
-### Java
+### Visualizer
 
-[Java](python/index.md)
+[Visualizer](visualizer/index.html)
 
 ### Python
 
-[Python](python/index.md)
+[Python](python/index.html)
 
 ### Raw Datasets
 
