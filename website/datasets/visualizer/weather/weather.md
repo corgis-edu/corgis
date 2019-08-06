@@ -218,6 +218,10 @@ DATASET_ROW = "report";
     <hr>
     <span data-bind=""></span>
 
+    <div class='alert alert-warning col-md-6'
+             data-bind="visible: error() !== false, text: error()">
+        </div>
+
     <div class='row' style='height: 400px' id='graph-area'>
         <div id="data-visualization-line" class='data-viz col-md-4'
              data-bind="fadeVisible: selected.chart().id == 'line'"></div>

@@ -141,6 +141,7 @@ function makeVisualizer() {
             'row_explanation': ko.observable(''),
             'bar_dataset': ko.observable({'data': []})
         },
+        "error": ko.observable(false),
         'bars': ko.observableArray([
             {'name': DATASET_NAME, 'data': VISUALIZER_DATA_BARS}
         ]),
@@ -441,6 +442,7 @@ function makeVisualizer() {
 
 
     function changeDataset() {
+        mainModel.error(false);
         var chart = mainModel.selected.chart();
 
         var canvas = chart.canvas;
@@ -503,10 +505,12 @@ function makeVisualizer() {
             if (filter_index != null && filter_value != null) {
                 let indices = filter_index_values().data;
                 ys = [];
+                var key_value;
                 for (let i = 0, length = indices.length; i < length; i = i + 1) {
-                    let key_value = indices[i];
+                    key_value = indices[i];
                     if (typeof key_value === 'string') {
-                        key_value = key_value.replace(',', '')
+                        key_value = key_value.replace(',', '');
+                        filter_value = filter_value.replace(',', '');
                     }
                     if (filter_value === key_value) {
                         ys.push(left[i]);
@@ -520,8 +524,16 @@ function makeVisualizer() {
             });
         }
 
+        if (actualData.length === 0) {
+            mainModel.error("Given this filter, there is no data available.");
+        }
+
         if (chart.id === 'hist') {
-            x.domain([d3.min(ys), d3.max(ys)]);
+            let xMin = d3.min(ys), xMax = d3.max(ys);
+            if (xMin === xMax && mainModel.error() === false) {
+                mainModel.error("Given this filter, there was no variation in the data - histogram will be empty!");
+            }
+            x.domain([xMin, xMax]);
             var bins = parseInt(mainModel.settings.bins()) + 1;
             if (isNaN(bins)) {
                 bins = 10;
@@ -543,12 +555,17 @@ function makeVisualizer() {
                 return Math.abs(d.value);
             })]);
         } else {
-            x.domain(d3.extent(actualData, function (d) {
+            let xBounds = d3.extent(actualData, function (d) {
                 return d.x;
-            }));
-            y.domain(d3.extent(actualData, function (d) {
+            });
+            let yBounds = d3.extent(actualData, function (d) {
                 return d.y;
-            }));
+            })
+            if (yBounds[0] === yBounds[1] && mainModel.error() === false) {
+                mainModel.error("Given this filter, there was no variation in the data - visualization will be empty!");
+            }
+            x.domain(xBounds);
+            y.domain(yBounds);
         }
 
         // bind data
@@ -667,6 +684,7 @@ function makeVisualizer() {
                 });
         }
 
+
         var x_axis_label = mainModel.selected.chart().id === 'bar' ?
             mainModel.selected.category().pretty :
             mainModel.selected.chart().id === 'line' ?
@@ -704,7 +722,7 @@ function makeVisualizer() {
                     var an_index = indexes[j],
                         value = an_index.data[i];
                     if (typeof value === 'string') {
-                        key_value = value.replace(',', '')
+                        key_value = value.replace(',', '');
                     } else {
                         key_value = value;
                     }
