@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0d0cc7cb-05c9-4ef4-91cf-10f78d5671bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/build_formats/visualizer/visualizer_ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_formats/visualizer/visualizer_ui.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/assets/js/visualizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/assets/js/visualizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/build_formats/visualizer/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_formats/visualizer/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +202,8 @@
       <workItem from="1564587091959" duration="563000" />
       <workItem from="1564588270319" duration="13000" />
       <workItem from="1564952771687" duration="17277000" />
-      <workItem from="1565102156564" duration="2141000" />
+      <workItem from="1565102156564" duration="2953000" />
+      <workItem from="1565107290818" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="BlockPy stuff!">
       <created>1565060099266</created>
