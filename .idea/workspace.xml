@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d0cc7cb-05c9-4ef4-91cf-10f78d5671bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/website/_data/blockpy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/_data/visualizer.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/build_formats/visualizer/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_formats/visualizer/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/build_formats/build_visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_formats/build_visualizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,6 +206,7 @@
       <workItem from="1564952771687" duration="17277000" />
       <workItem from="1565102156564" duration="2953000" />
       <workItem from="1565107290818" duration="44000" />
+      <workItem from="1565370949519" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="BlockPy stuff!">
       <created>1565060099266</created>
@@ -212,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565060099266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kill immigration, rebuild broadway.">
+      <created>1565371093396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565371093396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +243,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BlockPy stuff!" />
-    <option name="LAST_COMMIT_MESSAGE" value="BlockPy stuff!" />
+    <MESSAGE value="Kill immigration, rebuild broadway." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kill immigration, rebuild broadway." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/corgis2$corgis_hospitals_python.coverage" NAME="corgis hospitals python Coverage Results" MODIFIED="1563905918500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

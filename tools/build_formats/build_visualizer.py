@@ -147,8 +147,8 @@ def build_data_files(dataset, destination):
             'data': aggregated_values,
             'name': index.name,
             # 'indexes': [k.replace(',', '') for k in indexed_values.keys()],
-            'indexes': list(indexed_values.keys()),
-            'best_indexes': best_indexes,
+            'indexes': [str(k) for k in indexed_values.keys()],
+            'best_indexes': [str(k) for k in best_indexes],
             'pretty': index.name
         })
 
