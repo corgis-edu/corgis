@@ -9,7 +9,9 @@ Description,"Information about the rates of cancer deaths in each state is repor
 Tags,"cancer, cancer deaths, medical, health",,,
 Acknowledgement,"www.socialexplorer.com, New York City, NY: Social Explorer 2019",,,
 Row,Cancer Reports,  ,,
-Image,cancer-image.jpg,,,
+Row Explanation,report on cancer for a specific state/time period/demographic subgroup
+Icon,cancer-icon.png,,,
+Splash,cancer-icon.png,,,
 Properties,Name,Type,Index,Description
 ,State,string,x,"The name of a U.S. State (e.g., Virginia)"
 ,Total.Rate,float,,"Total Cancer Deaths (Rate per 100,000 Population, 2007-2013) 214.2"

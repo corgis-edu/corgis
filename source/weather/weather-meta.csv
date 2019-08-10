@@ -5,8 +5,7 @@ Created,6/13/2016
 Data File,weather-corgis.csv
 Overview,Weekly weather records in 2016 across the U.S.
 Data Source,http://w2.weather.gov/climate/
-Description,"Under the National Oceanic and Atmpospheric Administration, the National Weather Service provides daily weather reports for cities across the county.  This is done through the use of 122 different Weather Forcast Offices throughout the country.  These WFOs are responsible for the daily weather reports for serveral cities throughout their region of coverage.  This data set takes the information from these WFO reports for cities across the country and summarizes it at the weekly level for all of 2016.
-"
+Description,"Under the National Oceanic and Atmospheric Administration, the National Weather Service provides daily weather reports for cities across the county.  This is done through the use of 122 different Weather Forcast Offices throughout the country.  These WFOs are responsible for the daily weather reports for serveral cities throughout their region of coverage.  This data set takes the information from these WFO reports for cities across the country and summarizes it at the weekly level for all of 2016."
 Tags,"weather, rain, snow, sleet, fog, temperature, wind, climate, environment, geology"
 Row,report
 Row Explanation,$MISSING_FIELD
@@ -23,8 +22,8 @@ Properties,Name,Type,Index,Description
 ,Station.Code,string,,The unique code representing this station.
 ,Station.Location,string,True,The exact location of this recording station. Note that the recording station itself might be in a different location than where it sends its data.
 ,Station.State,string,,The state that the reporting station sends its data to. Note that the recording station itself might actually be in a different state.
-,Data.Temperature.Avg Temp,int,,"The average recorded temperature on this week, in degrees Farenheit."
-,Data.Temperature.Max Temp,int,,"The highest recorded temperature on this week, in degrees Farenheit."
-,Data.Temperature.Min Temp,int,,"The lowest recorded temperature on this week, in degrees Farenheit."
+,Data.Temperature.Avg Temp,int,,"The average recorded temperature on this week, in degrees Fahrenheit."
+,Data.Temperature.Max Temp,int,,"The highest recorded temperature on this week, in degrees Fahrenheit."
+,Data.Temperature.Min Temp,int,,"The lowest recorded temperature on this week, in degrees Fahrenheit."
 ,Data.Wind.Direction,int,,"The average wind direction for that week, in degrees."
 ,Data.Wind.Speed,float,,"The average windspeed for that week, in Miles per Hour."

@@ -1,0 +1,23 @@
+<div class="col dataset-card" id="{{ dataset.name }}">
+
+    <img src="{{ dataset.name|snake_case }}/{{ dataset.icon }}"
+         alt="{{ dataset.name|title }}" class="img-thumbnail">
+
+    <h3>{{ dataset.name|title }}</h3>
+
+    <p>{{ dataset.overview|safe }}</p>
+
+    <small>{{ dataset.tags|truncate(64) }}</small>
+
+    <script>
+    searcher.add(
+        {
+            'name': "{{ dataset.name|snake_case }}",
+            'body': {{ dataset.overview|replace('\n', ' ')|replace('\r',' ')|striptags|trim|tojson|safe }},
+            'description': {{ dataset.description|replace('\n', ' ')|striptags|trim|tojson|safe }},
+            'tags': {{ dataset.tags.split(",")|tojson|safe }}
+        }
+    );
+    </script>
+
+</div>

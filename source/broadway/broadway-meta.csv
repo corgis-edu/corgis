@@ -5,8 +5,7 @@ Created,11/1/2015
 Data File,broadway-corgis.csv
 Overview,"This library holds data about Broadway shows, such as tickets sold."
 Data Source,$MISSING_FIELD
-Description,"This library holds data about over Broadway shows, grouped over weeklong periods. Only shows that reported capacity were included, so the dataset stretches back to the 1990s. The dataset is made available by the Broadway League (the national trade association for the Broadway industry), and you can view the data online at http://www.broadwayleague.com/. This dataset 
-"
+Description,"This library holds data about over Broadway shows, grouped over weeklong periods. Only shows that reported capacity were included, so the dataset stretches back to the 1990s. The dataset is made available by the Broadway League (the national trade association for the Broadway industry), and you can view the data online at http://www.broadwayleague.com/."
 Tags,"broadway, musical, theatre, tickets"
 Row,production
 Row Explanation,$MISSING_FIELD

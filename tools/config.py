@@ -7,10 +7,11 @@ import importlib
 class Config:
     DEFAULT_DESTINATION = 'website/datasets/{format}/{dataset}/'
     INDEX_FILENAME = "website/datasets/index.json"
-    BUILDERS = ['python', 'visualizer', 'blockpy']
+    BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser']
 
     def __init__(self, destination: str):
         self.destination = destination
+        self.teaser_destination = "website/_includes/teaser/{dataset}/"
         # TODO: Fix to be flexible path based on arg
         self.index_path = Config.INDEX_FILENAME
         if os.path.isfile(self.index_path):

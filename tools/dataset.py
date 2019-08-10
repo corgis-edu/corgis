@@ -3,6 +3,8 @@ from typing import *
 from enum import Enum
 import codecs
 
+from tools.common import snake_case, sluggify
+
 CORGIS_LEVEL_IDENTIFIER = '.'
 SOURCE_PATH = 'source/{dataset}/{filename}'
 
@@ -76,7 +78,7 @@ class Dataset:
 
     def get_full_path(self, attribute):
         filename = getattr(self, attribute)
-        return SOURCE_PATH.format(dataset=self.name, filename=filename)
+        return SOURCE_PATH.format(dataset=sluggify(self.name), filename=filename)
 
     def load_values(self, csv):
         for line in csv:

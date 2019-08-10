@@ -9,7 +9,9 @@ Description,"The data set allows consumers to directly compare across hospitals 
 Tags,"hospitals, health care, medical, hospital costs, hospital quality",,,
 Acknowledgement,"Muntean, M., Guizzardi, D., Schaaf, E., Crippa, M., Solazzo, E., Olivier, J.G.J., Vignati, E. Fossil CO2 emissions of all world countries - 2018 Report, EUR 29433 EN, Publications Office of the European Union, Luxembourg, 2018, ISBN 978-92-79-97240-9, doi:10.2760/30158, JRC113738.",,,
 Row,Emissions,,,
-Image,,,,
+Row Explanation,gas emission report
+Icon,emissions-icon.png,,,
+Splash,EDGAR-logo.png,,,
 Properties,Name,Type,Index,Description
 ,Country,string,x,The name of a country
 ,Year,int,x,The year of the emissions (1970-2012)

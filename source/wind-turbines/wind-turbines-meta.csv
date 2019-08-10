@@ -9,7 +9,9 @@ Description,"The Open PV Project is a collaborative effort between government, i
 Tags,"energy, wind, power, air, turbine, utility, location, time",,,
 Acknowledgement,,,,
 Row,Turbines,,,
-Image,wind-turbines.png,,,
+Row Explanation,a turbine in the US,
+Icon,wind-turbines.png,,,
+Splash,wind-turbines.png,,,
 Properties,Name,Type,Index,Description  
 ,Site.State,string,TRUE,"Two letter abbreviation of state where turbine is located (e.g., CA for California)"
 ,Site.County,string,,County where the turbine is located.
