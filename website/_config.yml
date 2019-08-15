@@ -10,7 +10,7 @@ permalink:           pretty
 title:               CORGIS Datasets Project
 tagline:             The Collection of Really Great, Interesting, Situated Datasets
 url:                 https://corgis-edu.github.io/
-baseurl:             /
+baseurl:             /corgis/
 logo:                images/logo.png
 
 comments: true
