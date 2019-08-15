@@ -3,17 +3,15 @@ Version,2.0.0
 Author,Ryan Whitcomb <rwhit94>
 Created,5-17-16
 Data File,billionaires-corgis.csv
-Overview,"Information about over 2000 billionaires from around the world.
-"
+Overview,"Information about over 2000 billionaires from around the world."
 Data Source,http://www.iie.com/publications/interstitial.cfm?ResearchID=2917
-Description,"Researchers have compiled a multi-decade database of the super-rich. Building off the Forbes World's Billionaires lists from 1996-2014, scholars at Peterson Institute for International Economics have added a couple dozen more variables about each billionaire - including whether they were self-made or inherited their wealth. (Roughly half of European billionaires and one-third of U.S. billionaires got a significant financial boost from family, the authors estimate.)
-"
+Description,"Researchers have compiled a multi-decade database of the super-rich. Building off the Forbes World's Billionaires lists from 1996-2014, scholars at Peterson Institute for International Economics have added a couple dozen more variables about each billionaire - including whether they were self-made or inherited their wealth. (Roughly half of European billionaires and one-third of U.S. billionaires got a significant financial boost from family, the authors estimate.)"
 Tags,"money, rich, wealthy, people, person, billionaire"
 Row,billionaire
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,billionaires-icon.png
-Splash,billionaires-splash.png
+Splash,billionaires-icon.png
 Properties,Name,Type,Index,Description
 ,name,string,,The name of the billionaire.
 ,rank,int,,The rank of this billionaire compared to the rest of the billionaires reported on. A lower rank means they make more money.

@@ -1,0 +1,39 @@
+Name,Medal of Honor,,,
+Version,2.0.0,,,
+Author,Austin Cory Bart <acbart@vt.edu>,,,
+Created,2/26/2016,,,
+Data File,medal-of-honor-corgis.csv,,,
+Overview,"This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",,,
+Data Source,http://www.cmohs.org/,,,
+Description,"This dataset has records for the awarding of the United States Medal of Honor. The Medal of Honor is the United States of America's highest military honor, awarded for personal acts of valor above and beyond the call of duty. The medal is awarded by the President of the United States in the name of the U.S. Congress to U.S. military personnel only. There are three versions of the medal, one for the Army, one for the Navy, and one for the Air Force.[5] Personnel of the Marine Corps and Coast Guard receive the Navy version.
+The dataset was collected from the official military site, and includes records about how the medal was awarded and characteristics of the recipient. Unfortunately, because of the nature of century-old record keeping, many of the records are incomplete. While a very interesting dataset, it does have some missing data.",,,
+Tags,"us, usa, united states, military, combat, government, army, airforce, marines, navy, fighting, war, award, medal, honor, glory, death",,,
+Row,awardee,,,
+Row Explanation,$MISSING_FIELD,,,
+Acknowledgement,,,,
+Icon,medal-of-honor-icon.png,,,
+Splash,medal-of-honor-icon.png,,,
+Properties,Name,Type,Index,Description
+,death,boolean,,$MISSING_FIELD
+,name,string,,$MISSING_FIELD
+,awarded.General Order number,int,,$MISSING_FIELD
+,awarded.accredited to,string,,$MISSING_FIELD
+,awarded.citation,string,,$MISSING_FIELD
+,awarded.issued,string,,$MISSING_FIELD
+,birth.location name,string,,$MISSING_FIELD
+,metadata.link,string,,$MISSING_FIELD
+,military record.company,string,,$MISSING_FIELD
+,military record.division,string,,$MISSING_FIELD
+,military record.entered service at,string,,$MISSING_FIELD
+,military record.organization,string,,$MISSING_FIELD
+,military record.rank,string,,$MISSING_FIELD
+,awarded.date.day,int,,$MISSING_FIELD
+,awarded.date.full,string,,$MISSING_FIELD
+,awarded.date.month,int,,$MISSING_FIELD
+,awarded.date.year,int,TRUE,$MISSING_FIELD
+,awarded.location.latitude,int,,$MISSING_FIELD
+,awarded.location.longitude,int,,$MISSING_FIELD
+,awarded.location.name,string,,$MISSING_FIELD
+,birth.date.day,int,,$MISSING_FIELD
+,birth.date.month,int,,$MISSING_FIELD
+,birth.date.year,int,,$MISSING_FIELD

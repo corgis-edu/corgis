@@ -12,7 +12,7 @@ Row,report
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,aids-icon.png
-Splash,aids-splash.png
+Splash,aids-icon.png
 Properties,Name,Type,Index,Description
 ,Country,string,True,The name of the country.
 ,Year,int,True,4-digit year

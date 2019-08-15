@@ -12,14 +12,14 @@ Row,music
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,music-icon.png
-Splash,music-splash.png
+Splash,music-icon.png
 Properties,Name,Type,Index,Description
 ,artist.familiarity,float,,A measure of 0..1 for how familiar the artist is to listeners.
 ,artist.hotttnesss,float,,"A measure of the artists's popularity, when downloaded (in December 2010). Measured on a scale of 0 to 1."
 ,artist.id,string,,A unique ID for this artist.
-,artist.latitude,int,,The home location's latitude of this artist.
+,artist.latitude,float,,The home location's latitude of this artist.
 ,artist.location,int,,Unknown.
-,artist.longitude,int,,The home location's longitude of this artist.
+,artist.longitude,float,,The home location's longitude of this artist.
 ,artist.name,string,True,The name of the artist.
 ,artist.similar,float,,Unknown.
 ,artist.terms,string,,The term most associated with this artist.

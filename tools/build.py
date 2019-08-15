@@ -3,7 +3,7 @@ import os
 import importlib
 from typing import *
 
-from tools.dataset import load_dataset, Dataset
+from tools.dataset import get_all_datasets, load_dataset, Dataset
 from tools.build_report import BuildReport
 from tools.config import Config
 
@@ -26,6 +26,7 @@ def parse_format(format: str) -> List[str]:
 def build_dataset(dataset: Dataset, format: str, config: Config) -> BuildReport:
     imported = importlib.import_module("tools.build_formats.build_" + format)
     build_report = imported.build(dataset, config)
+    config.add_entry(format, dataset)
     return build_report
 
 
@@ -40,10 +41,15 @@ def build(dataset_name: str, format: str, config: Config) -> List[BuildReport]:
     Returns:
         List[BuildReport]: Information about the built datasets
     """
-    dataset = load_dataset(dataset_name)
     formats = parse_format(format)
-    for format in formats:
-        yield build_dataset(dataset, format, config)
+    if dataset_name == "*":
+        dataset_names = get_all_datasets()
+    else:
+        dataset_names = [dataset_name]
+    for dataset_name in dataset_names:
+        dataset = load_dataset(dataset_name)
+        for format in formats:
+            yield build_dataset(dataset, format, config)
 
 
 def build_all(config: Config) -> List[BuildReport]:

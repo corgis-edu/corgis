@@ -3,33 +3,31 @@ Version,2.0.0
 Author,Austin Cory Bart <acbart@vt.edu>
 Created,3/11/2016
 Data File,labor-corgis.csv
-Overview,"Employment status of the civilian population by race, sex, and age.
-"
+Overview,"Employment status of the civilian population by race, sex, and age."
 Data Source,http://www.bls.gov/cps/home.htm
-Description,"The Current Population Survey (CPS) is a monthly survey of households conducted by the Bureau of Census for the Bureau of Labor Statistics. It provides a comprehensive body of data on the labor force, employment, unemployment, persons not in the labor force, hours of work, earnings, and other demographic and labor force characteristics.
-"
+Description,"The Current Population Survey (CPS) is a monthly survey of households conducted by the Bureau of Census for the Bureau of Labor Statistics. It provides a comprehensive body of data on the labor force, employment, unemployment, persons not in the labor force, hours of work, earnings, and other demographic and labor force characteristics."
 Tags,"labor, race, age, sex, gender, america, usa, census, employed, unemployed, employability, job, work, civilian, black, white, asian, government"
 Row,result
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,labor-icon.png
-Splash,labor-splash.png
+Splash,labor-icon.png
 Properties,Name,Type,Index,Description
 ,Time.Month,int,,$MISSING_FIELD
 ,Time.Month Name,string,,$MISSING_FIELD
 ,Time.Year,int,True,$MISSING_FIELD
-,Data.Civilian Noninstitutional Population.Asian,int,,$MISSING_FIELD
+,Data.Civilian Noninstitutional Population.Asian,float,,$MISSING_FIELD
 ,Data.Civilian Noninstitutional Population.Black or African American,float,,$MISSING_FIELD
 ,Data.Civilian Noninstitutional Population.White,float,,$MISSING_FIELD
-,Data.Not In Labor Force.Asian,int,,$MISSING_FIELD
+,Data.Not In Labor Force.Asian,float,,$MISSING_FIELD
 ,Data.Not In Labor Force.Black or African American,float,,$MISSING_FIELD
-,Data.Not In Labor Force.White,int,,$MISSING_FIELD
-,Data.Civilian Labor Force.Asian.Counts,int,,$MISSING_FIELD
-,Data.Civilian Labor Force.Asian.Participation Rate,int,,$MISSING_FIELD
-,Data.Employed.Asian.Counts,int,,$MISSING_FIELD
-,Data.Employed.Asian.Unemployment Rate,int,,$MISSING_FIELD
-,Data.Unemployed.Asian.Counts,int,,$MISSING_FIELD
-,Data.Unemployed.Asian.Unemployment Rate,int,,$MISSING_FIELD
+,Data.Not In Labor Force.White,float,,$MISSING_FIELD
+,Data.Civilian Labor Force.Asian.Counts,float,,$MISSING_FIELD
+,Data.Civilian Labor Force.Asian.Participation Rate,float,,$MISSING_FIELD
+,Data.Employed.Asian.Counts,float,,$MISSING_FIELD
+,Data.Employed.Asian.Unemployment Rate,float,,$MISSING_FIELD
+,Data.Unemployed.Asian.Counts,float,,$MISSING_FIELD
+,Data.Unemployed.Asian.Unemployment Rate,float,,$MISSING_FIELD
 ,Data.Civilian Labor Force.Black or African American.Counts.All,float,,$MISSING_FIELD
 ,Data.Civilian Labor Force.Black or African American.Counts.Men,float,,$MISSING_FIELD
 ,Data.Civilian Labor Force.Black or African American.Counts.Women,float,,$MISSING_FIELD

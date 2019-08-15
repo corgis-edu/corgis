@@ -12,7 +12,7 @@ Row,result
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,election-icon.png
-Splash,election-splash.png
+Splash,election-icon.png
 Properties,Name,Type,Index,Description
 ,Location.County,string,,$MISSING_FIELD
 ,Location.State,string,,$MISSING_FIELD

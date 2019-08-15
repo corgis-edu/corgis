@@ -163,7 +163,11 @@ function makeVisualizer() {
                 explanation.push('unit on the y-axis');
         }
         explanation.push("represents");
-        explanation.push(DATASET_ROW_EXPLANATION);
+        if (DATASET_ROW_EXPLANATION !== "$MISSING_FIELD") {
+            explanation.push(DATASET_ROW_EXPLANATION);
+        } else {
+            explanation.push(DATASET_NAME);
+        }
         if (self.selected.filter() !== "none") {
             explanation.push(", where");
             explanation.push("<code>"+self.selected.filter()+"</code>");

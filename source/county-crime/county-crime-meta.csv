@@ -1,0 +1,38 @@
+Name,County Crime,,,
+Version,2.0.0,,,
+Author,Ryan Whitcomb,,,
+Created,6/1/2016,,,
+Data File,county-crime-corgis.csv,,,
+Overview,Records about the crime rates and totals for US counties over time.,,,
+Data Source,http://www.ucrdatatool.gov/Search/Crime/Local/JurisbyJurisStepTwo.cfm,,,
+Description,"From the Unified Crime Reporting Statistics and  under the collaboration of the U.S. Department of Justice and the Federal Bureau of Investigation information crime statistics are available for public review.  The following data set has information on the crime rates and totals for counties across the United States for a wide range of years.  The crime reports are divided into two main categories: property and violent crime.  Property crime refers to burglary, larceny, and motor related crime while violent crime refers to assault, murder, rape, and robbery.
+",,,
+Tags,"crime, burglary, larceny, motor, property, violent, assault, murder, rape, robbery",,,
+Row,report,,,
+Row Explanation,$MISSING_FIELD,,,
+Acknowledgement,,,,
+Icon,county-crime-icon.png,,,
+Splash,county-crime-icon.png,,,
+Properties,Name,Type,Index,Description
+,Department,string,TRUE,The long name of the police department that this report was made for.
+,State,string,,The long name of the state that this report was made for.
+,Year,int,TRUE,The year that this report was made in.
+,Data.Population,int,,The number of people living in this state at the time the report was created.
+,Data.Rates.Property.All,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects all of the Property-related crimes, including burglaries, larcenies, and motor crimes."
+,Data.Rates.Property.Burglary,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of burglaries, or entry into a building illegally with intent to commit a crime, especially theft."
+,Data.Rates.Property.Larceny,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of burglaries, or theft of personal property."
+,Data.Rates.Property.Motor,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where a motor vehicle was stolen."
+,Data.Rates.Violent.All,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects all of the Violent crimes, including assaults, murders, rapes, and robberies."
+,Data.Rates.Violent.Assault,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone made an attempt to initiate harmful or offensive contact with a person, or made a threat to do so."
+,Data.Rates.Violent.Murder,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone committed the unlawful killing of another human being without justification."
+,Data.Rates.Violent.Rape,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone committed rape. The FBI UCR definition of rape, before 2013, is the carnal knowledge of a female forcibly and against her will."
+,Data.Rates.Violent.Robbery,float,,"Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone took or attempted to take anything of value by force or threat of force or by putting the victim in fear."
+,Data.Totals.Property.All,int,,"This property reflects all of the Property-related crimes, including burglaries, larcenies, and motor crimes."
+,Data.Totals.Property.Burglary,int,,"This property reflects the number of burglaries, or entry into a building illegally with intent to commit a crime, especially theft."
+,Data.Totals.Property.Larceny,int,,"This property reflects the number of burglaries, or theft of personal property."
+,Data.Totals.Property.Motor,float,,This property reflects the number of crimes where a motor vehicle was stolen.
+,Data.Totals.Violent.All,int,,"This property reflects all of the Violent crimes, including assaults, murders, rapes, and robberies."
+,Data.Totals.Violent.Assault,int,,"This property reflects the number of crimes where someone made an attempt to initiate harmful or offensive contact with a person, or made a threat to do so."
+,Data.Totals.Violent.Murder,int,,This property reflects the number of crimes where someone committed the unlawful killing of another human being without justification.
+,Data.Totals.Violent.Rape,int,,"This property reflects the number of crimes where someone committed rape. The FBI UCR definition of rape, before 2013, is the carnal knowledge of a female forcibly and against her will."
+,Data.Totals.Violent.Robbery,int,,This property reflects the number of crimes where someone took or attempted to take anything of value by force or threat of force or by putting the victim in fear.

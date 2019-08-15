@@ -5,7 +5,7 @@ extras: visualizer
 ---
 
 <img class="img-thumbnail float-right"
-     src="../../datasets/visualizer/{{ dataset.name|snake_case }}/{{ dataset.splash }}"
+     src="/images/datasets/{{ dataset.splash }}"
      alt="{{ dataset.name }} icon"
      role="presentation">
 
@@ -21,7 +21,9 @@ extras: visualizer
 
 {{ dataset.description|safe }}
 
+{% if dataset.data_source and dataset.data_source != "$MISSING_FIELD" %}
 <{{ dataset.data_source }}>
+{% endif %}
 
 {% if dataset.acknowledgment %}
 > {{ dataset.acknowledgment }}

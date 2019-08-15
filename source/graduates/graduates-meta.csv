@@ -12,7 +12,7 @@ Row,grad major
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,graduates-icon.png
-Splash,graduates-splash.png
+Splash,graduates-icon.png
 Properties,Name,Type,Index,Description
 ,Year,int,True,The year that this report was made for.
 ,Demographics.Total,int,,The estimated number of people awarded degrees in this major during this year.

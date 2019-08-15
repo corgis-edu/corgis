@@ -1,11 +1,11 @@
 import statistics
 import time
 import json
-from typing import List, Dict, Any
 from os import makedirs
 
 from tools.build_report import BuildReport
-from tools.common import snake_case, load_templates, build_image_files, build_website_file, get_values_grouped_by_index
+from tools.case_modifiers import snake_case
+from tools.common import load_templates, build_image_files, build_website_file, get_values_grouped_by_index
 from tools.dataset import CorgisType
 
 __version__ = '2.0.0'
@@ -37,6 +37,7 @@ LIMIT_BEST_INDEXES = 10
 
 
 def remove_outliers(dataset):
+    """ TODO: Decide if we want to continue to remove outliers at this phase """
     bad_indexes = set()
     bad_keys = set()
     DEVIATIONS = 3
@@ -169,10 +170,9 @@ def build(dataset, configuration):
                                                    format='visualizer')
     makedirs(destination, exist_ok=True)
     files = [*build_data_files(dataset, destination),
-             build_image_files(dataset, destination),
+             build_image_files(dataset, configuration),
              build_website_file(dataset, destination, env, LANGUAGE_INFO)]
-    print(dataset)
 
     # Wrap up
     duration = time.time() - start
-    return BuildReport(dataset, 'visualizer', duration, files)
+    return BuildReport(dataset, 'visualizer', duration, files, 'success')

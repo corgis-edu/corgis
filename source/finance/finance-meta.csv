@@ -12,7 +12,7 @@ Row,record
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,finance-icon.png
-Splash,finance-splash.png
+Splash,finance-icon.png
 Properties,Name,Type,Index,Description
 ,State,string,True,"The state that this report was made for (full name, not the two letter abbreviation)."
 ,Year,int,True,The year that this report was made for.

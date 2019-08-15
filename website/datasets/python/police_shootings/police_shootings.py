@@ -28,49 +28,31 @@ def _tifa_definitions():
             'get_shootings': {
                 "type": "FunctionType",
                 "name": 'get_shootings',
-                "returns": {
-                    "type": "ListType", 
-                    "empty": False, 
-                    "subtype": {
-                        "type": "DictType",
-                        "literals": [
-                            {"type": "LiteralStr", "value": "Person.Name"},
-                            {"type": "LiteralStr", "value": "Person.Age"},
-                            {"type": "LiteralStr", "value": "Person.Gender"},
-                            {"type": "LiteralStr", "value": "Person.Race"},
-                            {"type": "LiteralStr", "value": "Incident.Date.Month"},
-                            {"type": "LiteralStr", "value": "Incident.Date.Day"},
-                            {"type": "LiteralStr", "value": "Incident.Date.Year"},
-                            {"type": "LiteralStr", "value": "Incident.Date.Full"},
-                            {"type": "LiteralStr", "value": "Incident.Location.City"},
-                            {"type": "LiteralStr", "value": "Incident.Location.State"},
-                            {"type": "LiteralStr", "value": "Factors.Armed"},
-                            {"type": "LiteralStr", "value": "Factors.Mental-Illness"},
-                            {"type": "LiteralStr", "value": "Factors.Threat-Level"},
-                            {"type": "LiteralStr", "value": "Factors.Fleeing"},
-                            {"type": "LiteralStr", "value": "Shooting.Manner"},
-                            {"type": "LiteralStr", "value": "Shooting.Body-Camera"},
-                        ],
-                        "values": [
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "BoolType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "BoolType"},
-                        ]
-                    }
-                }
+                "returns": 
+				{"type": "ListType", "subtype": 
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Person'}, {"type": "LiteralStr", "value": 'Incident'}, {"type": "LiteralStr", "value": 'Factors'}, {"type": "LiteralStr", "value": 'Shooting'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Age'}, {"type": "LiteralStr", "value": 'Gender'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "NumType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Date'}, {"type": "LiteralStr", "value": 'Location'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Month'}, {"type": "LiteralStr", "value": 'Day'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Full'}], "values": [
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "StrType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'City'}, {"type": "LiteralStr", "value": 'State'}], "values": [
+								{"type": "StrType"}, 
+								{"type": "StrType"}]}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Armed'}, {"type": "LiteralStr", "value": 'Mental-Illness'}, {"type": "LiteralStr", "value": 'Threat-Level'}, {"type": "LiteralStr", "value": 'Fleeing'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "NumType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Manner'}, {"type": "LiteralStr", "value": 'Body-Camera'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "NumType"}]}]}}
             },
         }
     }

@@ -1,0 +1,41 @@
+Name,Global Development,,,
+Version,2.0.0,,,
+Author,Ryan Whitcomb,,,
+Created,6/28/2016,,,
+Data File,global-development-corgis.csv,,,
+Overview,Reports of country's development over time,,,
+Data Source,https://ndb.nal.usda.gov/,,,
+Description,"The following data contains records collected on different countries and geographic locations from 1980 - 2013 from the World Bank.  Included is different data about urban development, agriculture and rural development, health, and infrastructure.   
+",,,
+Tags,"world, countries, development, health, population, urban, rural, agriculture, infrastructure",,,
+Row,report,,,
+Row Explanation,$MISSING_FIELD,,,
+Acknowledgement,,,,
+Icon,global-development-icon.png,,,
+Splash,global-development-splash.png,,,
+Properties,Name,Type,Index,Description
+,Country,string,TRUE,$MISSING_FIELD
+,Year,int,TRUE,$MISSING_FIELD
+,Data.Health.Birth Rate,float,,$MISSING_FIELD
+,Data.Health.Death Rate,float,,$MISSING_FIELD
+,Data.Health.Fertility Rate,float,,$MISSING_FIELD
+,"Data.Health.Life Expectancy at Birth, Female",float,,$MISSING_FIELD
+,"Data.Health.Life Expectancy at Birth, Male",float,,$MISSING_FIELD
+,"Data.Health.Life Expectancy at Birth, Total",float,,$MISSING_FIELD
+,Data.Health.Population Growth,float,,$MISSING_FIELD
+,Data.Health.Total Population,float,,$MISSING_FIELD
+,Data.Infrastructure.Mobile Cellular Subscriptions,float,,$MISSING_FIELD
+,Data.Infrastructure.Mobile Cellular Subscriptions per 100 People,float,,$MISSING_FIELD
+,Data.Infrastructure.Telephone Lines,float,,$MISSING_FIELD
+,Data.Infrastructure.Telephone Lines per 100 People,float,,$MISSING_FIELD
+,Data.Rural Development.Agricultural Land,float,,$MISSING_FIELD
+,Data.Rural Development.Agricultural Land Percent,float,,$MISSING_FIELD
+,Data.Rural Development.Arable Land,float,,$MISSING_FIELD
+,Data.Rural Development.Arable Land Percent,float,,$MISSING_FIELD
+,Data.Rural Development.Land Area,float,,$MISSING_FIELD
+,Data.Rural Development.Rural Population,int,,$MISSING_FIELD
+,Data.Rural Development.Rural Population Growth,float,,$MISSING_FIELD
+,Data.Rural Development.Surface Area,float,,$MISSING_FIELD
+,Data.Urban Development.Population Density,float,,$MISSING_FIELD
+,Data.Urban Development.Urban Population Percent,float,,$MISSING_FIELD
+,Data.Urban Development.Urban Population Percent Growth,float,,$MISSING_FIELD

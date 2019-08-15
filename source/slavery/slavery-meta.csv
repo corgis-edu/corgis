@@ -4,16 +4,14 @@ Author,Ryan Whitcomb <rwhit94@vt.edu>
 Created,5-17-16
 Data File,slavery-corgis.csv
 Overview,"This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset."
-Data Source,"Calomiris, Charles W., and Jonathan Pritchett. 2016. ""Betting on Secession: Quantifying Political Events Surrounding Slavery and the Civil War."" American Economic Review, 106(1): 1-23.
-"
-Description,"This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset. 
-"
+Data Source,"Calomiris, Charles W., and Jonathan Pritchett. 2016. ""Betting on Secession: Quantifying Political Events Surrounding Slavery and the Civil War."" American Economic Review, 106(1): 1-23."
+Description,"This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset."
 Tags,"slavery, slave, slaves, buyer, seller, origin, history, economics"
 Row,transaction record
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,slavery-icon.png
-Splash,slavery-splash.png
+Splash,slavery-icon.png
 Properties,Name,Type,Index,Description
 ,Buyer.County of Origin,string,,$MISSING_FIELD
 ,Buyer.Full Name,string,,$MISSING_FIELD

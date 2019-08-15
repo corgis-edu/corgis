@@ -28,41 +28,25 @@ def _tifa_definitions():
             'get_emissions': {
                 "type": "FunctionType",
                 "name": 'get_emissions',
-                "returns": {
-                    "type": "ListType", 
-                    "empty": False, 
-                    "subtype": {
-                        "type": "DictType",
-                        "literals": [
-                            {"type": "LiteralStr", "value": "Country"},
-                            {"type": "LiteralStr", "value": "Year"},
-                            {"type": "LiteralStr", "value": "Emissions.Type.CO2"},
-                            {"type": "LiteralStr", "value": "Emissions.Type.N2O"},
-                            {"type": "LiteralStr", "value": "Emissions.Type.CH4"},
-                            {"type": "LiteralStr", "value": "Emissions.Sector.Power Industry"},
-                            {"type": "LiteralStr", "value": "Emissions.Sector.Buildings"},
-                            {"type": "LiteralStr", "value": "Emissions.Sector.Transport"},
-                            {"type": "LiteralStr", "value": "Emissions.Sector.Other Industry"},
-                            {"type": "LiteralStr", "value": "Emissions.Sector.Other sectors"},
-                            {"type": "LiteralStr", "value": "Ratio.Per GDP"},
-                            {"type": "LiteralStr", "value": "Ratio.Per Capita"},
-                        ],
-                        "values": [
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                        ]
-                    }
-                }
+                "returns": 
+				{"type": "ListType", "subtype": 
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Country'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Emissions'}, {"type": "LiteralStr", "value": 'Ratio'}], "values": [
+						{"type": "StrType"}, 
+						{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Type'}, {"type": "LiteralStr", "value": 'Sector'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'CO2'}, {"type": "LiteralStr", "value": 'N2O'}, {"type": "LiteralStr", "value": 'CH4'}], "values": [
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Power Industry'}, {"type": "LiteralStr", "value": 'Buildings'}, {"type": "LiteralStr", "value": 'Transport'}, {"type": "LiteralStr", "value": 'Other Industry'}, {"type": "LiteralStr", "value": 'Other sectors'}], "values": [
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}]}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Per GDP'}, {"type": "LiteralStr", "value": 'Per Capita'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}]}}
             },
         }
     }

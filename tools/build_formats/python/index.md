@@ -6,7 +6,7 @@ style: dataset
 {% import 'dataset_page_components.html' as macros with context  %}
 
 <img class="img-thumbnail float-right"
-     src="../../datasets/python/{{ dataset.name|snake_case }}/{{ dataset.splash }}"
+     src="/images/datasets/{{ dataset.splash }}"
      alt="{{ dataset.name }} icon"
      role="presentation">
 
@@ -22,7 +22,9 @@ style: dataset
 
 {{ dataset.description|safe }}
 
+{% if dataset.data_source and dataset.data_source != "$MISSING_FIELD" %}
 <{{ dataset.data_source }}>
+{% endif %}
 
 {% if dataset.acknowledgment %}
 > {{ dataset.acknowledgment }}

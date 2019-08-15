@@ -6,27 +6,9 @@ from typing import Dict, List, Any
 from jinja2 import Environment, FileSystemLoader
 import jinja2_highlight
 
-
-def snake_case(string):
-    return string.replace(" ", "_").lower()
-
-
-def camel_case_caps(string):
-    return ''.join(x for x in string.title() if not x.isspace())
-
-
-def camel_case(string):
-    s = camel_case_caps(string)
-    return s[0].lower() + s[1:] if s else ""
-
-
-def flat_case(string):
-    return string.replace(" ", "").replace("_", "").lower()
-
-
-def kebab_case(string):
-    return string.replace(" ", "-").replace("_", "-").lower()
-
+from tools.case_modifiers import camel_case_caps, snake_case, camel_case, kebab_case, flat_case, sluggify
+from tools.config import Config
+from tools.dataset import Dataset
 
 EXPAND_ICON = '<span class="fas fa-external-link-alt" aria-hidden="true"></span>'
 
@@ -54,13 +36,6 @@ def wrap_quotes(data):
     return pretty
 
 
-def sluggify(astr):
-    return (astr.replace('.', '-').replace("[", "__")
-            .replace("]", "__").replace(" ", "-")
-            .replace("#", "_").replace("/", "_")
-            .replace("'", "_"))
-
-
 def load_templates(format):
     base_directory = os.path.dirname(os.path.realpath(__file__))
     format_templates = os.path.join(base_directory, 'build_formats', format)
@@ -84,10 +59,10 @@ def load_templates(format):
     return env
 
 
-def build_image_files(dataset, destination):
-    copyfile(dataset.get_full_path('icon'), destination + dataset.icon)
+def build_image_files(dataset: Dataset, config: Config):
+    copyfile(dataset.get_full_path('icon'), config.image_destination + dataset.icon)
     if dataset.icon != dataset.splash:
-        copyfile(dataset.get_full_path('splash'), destination + dataset.splash)
+        copyfile(dataset.get_full_path('splash'), config.image_destination + dataset.splash)
 
 
 def build_website_file(dataset, destination, env, language_info):

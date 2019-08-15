@@ -28,41 +28,24 @@ def _tifa_definitions():
             'get_turbines': {
                 "type": "FunctionType",
                 "name": 'get_turbines',
-                "returns": {
-                    "type": "ListType", 
-                    "empty": False, 
-                    "subtype": {
-                        "type": "DictType",
-                        "literals": [
-                            {"type": "LiteralStr", "value": "Site.State"},
-                            {"type": "LiteralStr", "value": "Site.County"},
-                            {"type": "LiteralStr", "value": "Year"},
-                            {"type": "LiteralStr", "value": "Turbine.Capacity"},
-                            {"type": "LiteralStr", "value": "Turbine.Hub_Height"},
-                            {"type": "LiteralStr", "value": "Turbine.Rotor_Diameter"},
-                            {"type": "LiteralStr", "value": "Turbine.Swept_Area"},
-                            {"type": "LiteralStr", "value": "Turbine.Total_Height"},
-                            {"type": "LiteralStr", "value": "Project.Capacity"},
-                            {"type": "LiteralStr", "value": "Project.Number_Turbines"},
-                            {"type": "LiteralStr", "value": "Site.Latitude"},
-                            {"type": "LiteralStr", "value": "Site.Longitude"},
-                        ],
-                        "values": [
-                            {"type": "StrType"},
-                            {"type": "StrType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                            {"type": "NumType"},
-                        ]
-                    }
-                }
+                "returns": 
+				{"type": "ListType", "subtype": 
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Site'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Turbine'}, {"type": "LiteralStr", "value": 'Project'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'Latitude'}, {"type": "LiteralStr", "value": 'Longitude'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Capacity'}, {"type": "LiteralStr", "value": 'Hub_Height'}, {"type": "LiteralStr", "value": 'Rotor_Diameter'}, {"type": "LiteralStr", "value": 'Swept_Area'}, {"type": "LiteralStr", "value": 'Total_Height'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Capacity'}, {"type": "LiteralStr", "value": 'Number_Turbines'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}]}}
             },
         }
     }

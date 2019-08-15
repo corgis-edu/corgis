@@ -5,14 +5,13 @@ Created,11/1/2015
 Data File,health-corgis.csv
 Overview,This library holds data about reports of diseases in America.
 Data Source,$MISSING_FIELD
-Description,"This library holds data about reports of diseases in America.
-"
+Description,"This library holds data about reports of diseases in America."
 Tags,"health, diseases, infection"
 Row,report
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,health-icon.png
-Splash,health-splash.png
+Splash,health-icon.png
 Properties,Name,Type,Index,Description
 ,disease,string,True,$MISSING_FIELD
 ,increase,float,,$MISSING_FIELD

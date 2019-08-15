@@ -4,7 +4,7 @@ style: dataset
 ---
 
 <img class="img-thumbnail float-right"
-     src="../../datasets/blockpy/hospitals/hhs-logo.jpg"
+     src="/images/datasets/hhs-logo.jpg"
      alt="hospitals icon"
      role="presentation">
 
@@ -20,7 +20,9 @@ style: dataset
 
 The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.
 
+
 <https://data.medicare.gov/data/hospital-compare>
+
 
 
 

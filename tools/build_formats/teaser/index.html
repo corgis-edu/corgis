@@ -1,11 +1,20 @@
-<div class="col dataset-card" id="{{ dataset.name }}">
+<div class="col-4 ml-md-auto dataset-card" id="{{ dataset.name }}">
 
-    <img src="{{ dataset.name|snake_case }}/{{ dataset.icon }}"
-         alt="{{ dataset.name|title }}" class="img-thumbnail">
+    <a href="{{ dataset.name|snake_case }}/" class="dataset-link  float-left">
 
+    <img src="/images/datasets/{{ dataset.icon }}"
+         alt="{{ dataset.name|title }}" class="img-thumbnail m-2">
+
+    </a>
+
+    <a href="{{ dataset.name|snake_case }}/" class="dataset-link">
     <h3>{{ dataset.name|title }}</h3>
+    </a>
 
-    <p>{{ dataset.overview|safe }}</p>
+    <p>
+        {{ dataset.overview|safe }}
+        <a href="{{ dataset.name|snake_case }}/" class="dataset-link"><em>View</em></a>
+    </p>
 
     <small>{{ dataset.tags|truncate(64) }}</small>
 
@@ -19,5 +28,7 @@
         }
     );
     </script>
+
+
 
 </div>

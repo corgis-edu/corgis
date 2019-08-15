@@ -167516,7 +167516,7 @@ VISUALIZER_DATA = [
       21
     ],
     "name": "Data.Temperature.Avg Temp",
-    "comment": "The average recorded temperature on this week, in degrees Farenheit.",
+    "comment": "The average recorded temperature on this week, in degrees Fahrenheit.",
     "index": false,
     "type": "number",
     "pretty": "Data.Temperature.Avg Temp"
@@ -184268,7 +184268,7 @@ VISUALIZER_DATA = [
       34
     ],
     "name": "Data.Temperature.Max Temp",
-    "comment": "The highest recorded temperature on this week, in degrees Farenheit.",
+    "comment": "The highest recorded temperature on this week, in degrees Fahrenheit.",
     "index": false,
     "type": "number",
     "pretty": "Data.Temperature.Max Temp"
@@ -201020,7 +201020,7 @@ VISUALIZER_DATA = [
       8
     ],
     "name": "Data.Temperature.Min Temp",
-    "comment": "The lowest recorded temperature on this week, in degrees Farenheit.",
+    "comment": "The lowest recorded temperature on this week, in degrees Fahrenheit.",
     "index": false,
     "type": "number",
     "pretty": "Data.Temperature.Min Temp"

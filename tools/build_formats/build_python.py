@@ -3,7 +3,8 @@ import time
 from os import makedirs
 
 from tools.build_report import BuildReport
-from tools.common import snake_case, load_templates, build_image_files, build_website_file
+from tools.case_modifiers import snake_case
+from tools.common import load_templates, build_image_files, build_website_file
 from tools.dataset import CorgisType
 from tools.tifa import TifaDefinition
 
@@ -66,10 +67,9 @@ def build(dataset, configuration):
     makedirs(destination, exist_ok=True)
     files = [build_python_file(dataset, destination),
              build_data_file(dataset, destination),
-             build_image_files(dataset, destination),
+             build_image_files(dataset, configuration),
              build_website_file(dataset, destination, env, LANGUAGE_INFO)]
-    print(dataset)
 
     # Wrap up
     duration = time.time() - start
-    return BuildReport(dataset, 'python', duration, files)
+    return BuildReport(dataset, 'python', duration, files, 'success')

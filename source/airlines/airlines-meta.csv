@@ -6,11 +6,10 @@ Data File,airlines-corgis.csv
 Overview,Information about flight delays in major aiports since 2003.
 Data Source,$MISSING_FIELD
 Description,"This dataset is all about flights in the united states, including information about the number, length, and type of delays. The data is reported for individual months at every major airport for every carrier.
-Additional information is available: <a href=""http://www.rita.dot.gov/bts/help/aviation/html/understanding.html"">http://www.rita.dot.gov/bts/help/aviation/html/understanding.html</a>
-"
+Additional information is available: <a href=""http://www.rita.dot.gov/bts/help/aviation/html/understanding.html"">http://www.rita.dot.gov/bts/help/aviation/html/understanding.html</a>"
 Tags,"airplane, airports, travel, plane, air, flights, delays, national, united states, transportation"
 Row,airports
-Row Explanation,$MISSING_FIELD
+Row Explanation,a report from an airport aggregated over each month since 2003
 Acknowledgement,
 Icon,airlines-icon.png
 Splash,airlines-splash.png

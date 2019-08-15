@@ -1,0 +1,115 @@
+Name,School Scores,,,
+Version,2.0.0,,,
+Author,Austin Cory Bart <acbart@vt.edu>,,,
+Created,10/24/2016,,,
+Data File,school-scores-corgis.csv,,,
+Overview,"SAT scores for students across the United States, organized by year and state.",,,
+Data Source,<a href='https://nces.ed.gov/ccd/aboutCCD.asp'>https://nces.ed.gov/ccd/aboutCCD.asp</a>,,,
+Description,"SAT Scores from across the country
+",,,
+Tags,"school, education, K-12, kindergarten, learning, teaching, sat",,,
+Row,record,,,
+Row Explanation,$MISSING_FIELD,,,
+Acknowledgement,,,,
+Icon,school-scores-icon.png,,,
+Splash,school-scores-splash.png,,,
+Properties,Name,Type,Index,Description
+,Year,int,TRUE,The year of this report.
+,State.Code,string,,The two-letter abbreviation of the state for thsi report.
+,State.Name,string,TRUE,The full name of the state for this report.
+,Total.Math,int,,The average Math score of students in this state during this year.
+,Total.Test-takers,int,,The number of test-takers in this state during this year.
+,Total.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year."
+,Academic Subjects.Arts/Music.Average GPA,float,,"The average GPA of all students in this state during this year in Arts/Music. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.Arts/Music.Average Years,float,,The average number of years that a student has studied Arts/Music when they took the exam.
+,Academic Subjects.English.Average GPA,float,,"The average GPA of all students in this state during this year in English. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.English.Average Years,float,,The average number of years that a student has studied English when they took the exam.
+,Academic Subjects.Foreign Languages.Average GPA,float,,"The average GPA of all students in this state during this year in Foreign Languages. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.Foreign Languages.Average Years,float,,The average number of years that a student has studied Foreign Languages when they took the exam.
+,Academic Subjects.Mathematics.Average GPA,float,,"The average GPA of all students in this state during this year in Math. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.Mathematics.Average Years,float,,The average number of years that a student has studied Math when they took the exam.
+,Academic Subjects.Natural Sciences.Average GPA,float,,"The average GPA of all students in this state during this year in the Natural Sciences. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.Natural Sciences.Average Years,float,,The average number of years that a student has studied the Natural Sciences when they took the exam.
+,Academic Subjects.Social Sciences/History.Average GPA,float,,"The average GPA of all students in this state during this year in Social Sciences and History. Note that this is just the GPA within the subject, not across all academic subjects."
+,Academic Subjects.Social Sciences/History.Average Years,float,,The average number of years that a student has studied Social Sciences and History when they took the exam.
+,Family Income.Between 20-40k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 20-40k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 20-40k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,Family Income.Between 40-60k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 40-60k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 40-60k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,Family Income.Between 60-80k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 60-80k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 60-80k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,Family Income.Between 80-100k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 80-100k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.Between 80-100k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,Family Income.Less than 20k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.Less than 20k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.Less than 20k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,Family Income.More than 100k.Math,int,,The average Math score of students in this state during this year who reported that their family income was in this bracket.
+,Family Income.More than 100k.Test-takers,int,,The number of test-takers in this state during this year who reported that their family income was in this bracket.
+,Family Income.More than 100k.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported that their family income was in this bracket."
+,GPA.A minus.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.A minus.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.A minus.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.A plus.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.A plus.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.A plus.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.A.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.A.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.A.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.B.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.B.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.B.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.C.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.C.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.C.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.D or lower.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.D or lower.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.D or lower.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,GPA.No response.Math,int,,The average Math score of students in this state during this year who reported this for their high school grade point average.
+,GPA.No response.Test-takers,int,,The number of test-takers in this state during this year who reported this for their high school grade point average.
+,GPA.No response.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who reported this for their high school grade point average."
+,Gender.Female.Math,int,,The average Math score of students in this state during this year who identified as Female.
+,Gender.Female.Test-takers,int,,The number of test-takers in this state during this year who identified as Female.
+,Gender.Female.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who identified as Female."
+,Gender.Male.Math,int,,The average Math score of students in this state during this year who identified as Male.
+,Gender.Male.Test-takers,int,,The number of test-takers in this state during this year who identified as Male.
+,Gender.Male.Verbal,int,,"The average Verbal (Reading, not Writing) score of students in this state during this year who identified as Male."
+,Score Ranges.Between 200 to 300.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 200 to 300.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 200 to 300.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 200 to 300.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 200 to 300.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 200 to 300.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."
+,Score Ranges.Between 300 to 400.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 300 to 400.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 300 to 400.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 300 to 400.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 300 to 400.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 300 to 400.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."
+,Score Ranges.Between 400 to 500.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 400 to 500.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 400 to 500.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 400 to 500.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 400 to 500.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 400 to 500.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."
+,Score Ranges.Between 500 to 600.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 500 to 600.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 500 to 600.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 500 to 600.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 500 to 600.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 500 to 600.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."
+,Score Ranges.Between 600 to 700.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 600 to 700.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 600 to 700.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 600 to 700.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 600 to 700.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 600 to 700.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."
+,Score Ranges.Between 700 to 800.Math.Females,int,,The number of students in this score range for Math who identified as Female in this state during this year.
+,Score Ranges.Between 700 to 800.Math.Males,int,,The number of students in this score range for Math who identified as Male in this state during this year.
+,Score Ranges.Between 700 to 800.Math.Total,int,,The number of students in this score range for Math in this state during this year.
+,Score Ranges.Between 700 to 800.Verbal.Females,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year."
+,Score Ranges.Between 700 to 800.Verbal.Males,int,,"The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year."
+,Score Ranges.Between 700 to 800.Verbal.Total,int,,"The number of students in this score range for Verbal (Reading, not Writing) in this state during this year."

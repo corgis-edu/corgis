@@ -1,0 +1,68 @@
+Name,County Demographics,,,
+Version,2.0.0,,,
+Author,Ryan Whitcomb,,,
+Created,6/1/2016,,,
+Data File,county-demographics-corgis.csv,,,
+Overview,Demographic information for counties in the United States.,,,
+Data Source,http://www.census.gov/quickfacts/table/PST045215/00,,,
+Description,"The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics.
+",,,
+Tags,"demographics, population, age, ethnicity, race, language, education, foreign, households, income, employment, unemployment, sales, land area, counties",,,
+Row,report,,,
+Row Explanation,$MISSING_FIELD,,,
+Acknowledgement,,,,
+Icon,county-demographics-icon.png,,,
+Splash,county-demographics-icon.png,,,
+Properties,Name,Type,Index,Description
+,County,string,,$MISSING_FIELD
+,State,string,TRUE,$MISSING_FIELD
+,Age.Percent 65 and Older,float,,$MISSING_FIELD
+,Age.Percent Under 18 Years,float,,$MISSING_FIELD
+,Age.Percent Under 5 Years,float,,$MISSING_FIELD
+,Education.Bachelor's Degree or Higher,float,,$MISSING_FIELD
+,Education.High School or Higher,float,,$MISSING_FIELD
+,Employment.Nonemployer Establishments,int,,$MISSING_FIELD
+,Employment.Private Non-farm Employment,int,,$MISSING_FIELD
+,Employment.Private Non-farm Employment Percent Change,float,,$MISSING_FIELD
+,Employment.Private Non-farm Establishments,int,,$MISSING_FIELD
+,Ethnicities.American Indian and Alaska Native Alone,float,,$MISSING_FIELD
+,Ethnicities.Asian Alone,float,,$MISSING_FIELD
+,Ethnicities.Black Alone,float,,$MISSING_FIELD
+,Ethnicities.Hispanic or Latino,float,,$MISSING_FIELD
+,Ethnicities.Native Hawaiian and Other Pacific Islander Alone,float,,$MISSING_FIELD
+,Ethnicities.Two or More Races,float,,$MISSING_FIELD
+,Ethnicities.White Alone,float,,$MISSING_FIELD
+,"Ethnicities.White Alone, not Hispanic or Latino",float,,$MISSING_FIELD
+,Housing.Homeownership Rate,float,,$MISSING_FIELD
+,Housing.Households,int,,$MISSING_FIELD
+,Housing.Housing Units,int,,$MISSING_FIELD
+,Housing.Median Value of Owner-Occupied Units,int,,$MISSING_FIELD
+,Housing.Persons per Household,float,,$MISSING_FIELD
+,Housing.Units in Multi-Unit Structures,float,,$MISSING_FIELD
+,Income.Median Houseold Income,int,,$MISSING_FIELD
+,Income.Per Capita Income,int,,$MISSING_FIELD
+,Income.Persons Below Poverty Level,float,,$MISSING_FIELD
+,Miscellaneous.Building Permits,int,,$MISSING_FIELD
+,Miscellaneous.Foreign Born,float,,$MISSING_FIELD
+,Miscellaneous.Land Area,float,,$MISSING_FIELD
+,Miscellaneous.Language Other than English at Home,float,,$MISSING_FIELD
+,Miscellaneous.Living in Same House +1 Years,float,,$MISSING_FIELD
+,Miscellaneous.Manufacturers Shipments,int,,$MISSING_FIELD
+,Miscellaneous.Mean Travel Time to Work,float,,$MISSING_FIELD
+,Miscellaneous.Percent Female,float,,$MISSING_FIELD
+,Miscellaneous.Veterans,int,,$MISSING_FIELD
+,Population.2010 Population,int,,$MISSING_FIELD
+,Population.2014 Population,int,,$MISSING_FIELD
+,Population.Population Percent Change,float,,$MISSING_FIELD
+,Population.Population per Square Mile,float,,$MISSING_FIELD
+,Sales.Accommodation and Food Services Sales,int,,$MISSING_FIELD
+,Sales.Merchant Wholesaler Sales,int,,$MISSING_FIELD
+,Sales.Retail Sales,int,,$MISSING_FIELD
+,Sales.Retail Sales per Capita,int,,$MISSING_FIELD
+,Employment.Firms.American Indian-Owned,float,,$MISSING_FIELD
+,Employment.Firms.Asian-Owned,float,,$MISSING_FIELD
+,Employment.Firms.Black-Owned,float,,$MISSING_FIELD
+,Employment.Firms.Hispanic-Owned,float,,$MISSING_FIELD
+,Employment.Firms.Native Hawaiian and Other Pacific Islander-Owned,float,,$MISSING_FIELD
+,Employment.Firms.Total,int,,$MISSING_FIELD
+,Employment.Firms.Women-Owned,float,,$MISSING_FIELD

@@ -4,7 +4,7 @@ style: dataset
 ---
 
 <img class="img-thumbnail float-right"
-     src="../../datasets/blockpy/broadway/broadway-splash.png"
+     src="/images/datasets/broadway-splash.png"
      alt="broadway icon"
      role="presentation">
 
@@ -18,10 +18,9 @@ style: dataset
 
 # Overview
 
-This library holds data about over Broadway shows, grouped over weeklong periods. Only shows that reported capacity were included, so the dataset stretches back to the 1990s. The dataset is made available by the Broadway League (the national trade association for the Broadway industry), and you can view the data online at http://www.broadwayleague.com/. This dataset 
+This library holds data about over Broadway shows, grouped over weeklong periods. Only shows that reported capacity were included, so the dataset stretches back to the 1990s. The dataset is made available by the Broadway League (the national trade association for the Broadway industry), and you can view the data online at http://www.broadwayleague.com/.
 
 
-<$MISSING_FIELD>
 
 
 

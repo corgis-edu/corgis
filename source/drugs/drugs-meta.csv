@@ -12,7 +12,7 @@ Row,report
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,drugs-icon.png
-Splash,drugs-splash.png
+Splash,drugs-icon.png
 Properties,Name,Type,Index,Description
 ,State,string,True,The state that this report was created for.
 ,Year,int,True,The year that this report was created for.

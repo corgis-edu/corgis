@@ -3,9 +3,8 @@ import time
 from os import makedirs
 
 from tools.build_report import BuildReport
-from tools.common import snake_case, load_templates, build_image_files, build_website_file, sluggify
-from tools.dataset import CorgisType
-from tools.tifa import TifaDefinition
+from tools.case_modifiers import sluggify
+from tools.common import load_templates, build_image_files
 
 __version__ = '2.0.0'
 
@@ -29,10 +28,9 @@ def build(dataset, configuration):
     dataset_name = sluggify(dataset.name)
     destination = configuration.teaser_destination.format(dataset=dataset_name)
     makedirs(destination, exist_ok=True)
-    files = [build_image_files(dataset, destination),
+    files = [build_image_files(dataset, configuration),
              build_teaser_file(dataset, destination, env)]
-    print(dataset)
 
     # Wrap up
     duration = time.time() - start
-    return BuildReport(dataset, 'python', duration, files)
+    return BuildReport(dataset, 'python', duration, files, 'success')

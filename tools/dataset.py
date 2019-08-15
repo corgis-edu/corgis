@@ -1,12 +1,22 @@
+import os
 import csv
 from typing import *
 from enum import Enum
 import codecs
 
-from tools.common import snake_case, sluggify
+from tools.case_modifiers import snake_case, sluggify
 
 CORGIS_LEVEL_IDENTIFIER = '.'
-SOURCE_PATH = 'source/{dataset}/{filename}'
+SOURCE_ROOT = 'source/'
+SOURCE_PATH = SOURCE_ROOT + '{dataset}/{filename}'
+
+
+def get_all_datasets():
+    for name in os.listdir(SOURCE_ROOT):
+        source_path = SOURCE_PATH.format(dataset=name, filename=name)
+        meta_path = source_path + '-meta.csv'
+        if os.path.exists(meta_path):
+            yield name
 
 
 class CorgisType(Enum):
@@ -82,10 +92,18 @@ class Dataset:
 
     def load_values(self, csv):
         for line in csv:
-            self.values.append({
-                field.name: field.type.value(value)
-                for field, value in zip(self.properties, line)
-            })
+            row = {}
+            try:
+                for i, (field, value) in enumerate(zip(self.properties, line)):
+                    row[field.name] = field.type.value(value)
+            except ValueError:
+                raise ValueError("Invalid conversion of {value} to {type} for {field} (column {i})".format(
+                    value=value,
+                    type=field.type,
+                    field=field,
+                    i=i
+                ))
+            self.values.append(row)
         self._build_nested_values()
         self._build_levels_dictionary()
 
@@ -185,8 +203,8 @@ class Dataset:
             if final_path not in self.levels:
                 self.levels[final_path] = {}
             self.levels[final_path][levels[-1]] = property
-        from pprint import pprint
-        pprint(self.levels)
+        #from pprint import pprint
+        #pprint(self.levels)
 
 
 def load_dataset(name: str) -> Dataset:

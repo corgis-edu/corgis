@@ -16,7 +16,7 @@ Row,report
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,injuries-icon.png
-Splash,injuries-splash.png
+Splash,injuries-icon.png
 Properties,Name,Type,Index,Description
 ,year,int,True,$MISSING_FIELD
 ,address.city,string,,$MISSING_FIELD

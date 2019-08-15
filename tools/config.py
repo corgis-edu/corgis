@@ -4,13 +4,18 @@ import os
 import json
 import importlib
 
+from tools.case_modifiers import sluggify
+
+
 class Config:
+    BUILDER_INDEX_FILE = 'website/_data/{format}.csv'
     DEFAULT_DESTINATION = 'website/datasets/{format}/{dataset}/'
     INDEX_FILENAME = "website/datasets/index.json"
     BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser']
 
     def __init__(self, destination: str):
         self.destination = destination
+        self.image_destination = "website/images/datasets/"
         self.teaser_destination = "website/_includes/teaser/{dataset}/"
         # TODO: Fix to be flexible path based on arg
         self.index_path = Config.INDEX_FILENAME
@@ -61,3 +66,17 @@ class Config:
             imported = importlib.import_module("tools.build_formats.build_" + builder)
             found[builder] = imported.__version__
         return found
+
+    def add_entry(self, builder_format, dataset):
+        new_name = sluggify(dataset.name)
+        builder_list_path = self.BUILDER_INDEX_FILE.format(format=builder_format)
+        with open(builder_list_path, 'r+') as build_list_file:
+            for line in build_list_file:
+                if new_name == line.strip():
+                    break
+            else:
+                #print("", file=build_list_file)
+                print(new_name, file=build_list_file)
+
+
+

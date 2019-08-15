@@ -12,7 +12,7 @@ Row,skyscraper
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,skyscrapers-icon.png
-Splash,skyscrapers-splash.png
+Splash,skyscrapers-icon.png
 Properties,Name,Type,Index,Description
 ,id,int,,$MISSING_FIELD
 ,material,string,True,$MISSING_FIELD
@@ -21,8 +21,8 @@ Properties,Name,Type,Index,Description
 ,location.city_id,int,,$MISSING_FIELD
 ,location.country,string,,$MISSING_FIELD
 ,location.country id,int,,$MISSING_FIELD
-,location.latitude,int,,$MISSING_FIELD
-,location.longitude,int,,$MISSING_FIELD
+,location.latitude,float,,$MISSING_FIELD
+,location.longitude,float,,$MISSING_FIELD
 ,purposes.abandoned,boolean,,$MISSING_FIELD
 ,purposes.air traffic control tower,boolean,,$MISSING_FIELD
 ,purposes.belltower,boolean,,$MISSING_FIELD

@@ -12,7 +12,7 @@ Row,car
 Row Explanation,$MISSING_FIELD
 Acknowledgement,
 Icon,cars-icon.png
-Splash,cars-splash.png
+Splash,cars-icon.png
 Properties,Name,Type,Index,Description
 ,Dimensions.Height,int,,"Unknown values are stored as 0. Unfortunately, many cars do not report this data."
 ,Dimensions.Length,int,,"Unknown values are stored as 0. Unfortunately, many cars do not report this data."

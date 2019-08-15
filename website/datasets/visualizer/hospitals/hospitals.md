@@ -5,11 +5,11 @@ extras: visualizer
 ---
 
 <img class="img-thumbnail float-right"
-     src="../../datasets/visualizer/hospitals/hhs-logo.jpg"
+     src="/images/datasets/hhs-logo.jpg"
      alt="hospitals icon"
      role="presentation">
 
-# hospitals Visualizer
+# Hospitals Visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
@@ -21,7 +21,9 @@ extras: visualizer
 
 The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.
 
+
 <https://data.medicare.gov/data/hospital-compare>
+
 
 
 
@@ -216,6 +218,10 @@ DATASET_ROW = "Hospitals";
 
     <hr>
     <span data-bind=""></span>
+
+    <div class='alert alert-warning col-md-6'
+             data-bind="visible: error() !== false, text: error()">
+        </div>
 
     <div class='row' style='height: 400px' id='graph-area'>
         <div id="data-visualization-line" class='data-viz col-md-4'

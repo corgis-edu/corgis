@@ -17,3 +17,23 @@
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}
 {%- endif -%}
+
+
+{%- if page.searchable %}
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $("#search-bar").on('input propertychange', function() {
+            let needle = $(this).val();
+            if (needle === "") {
+                $(".dataset-card").show();
+            } else {
+                let results = searcher.search(needle);
+                $(".dataset-card").hide();
+                results.forEach(function (data) {
+                    $("#"+data.ref).show();
+                });
+            }
+        });
+    });
+    </script>
+{% endif %}

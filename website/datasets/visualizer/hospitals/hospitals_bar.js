@@ -1960,20 +1960,20 @@ VISUALIZER_DATA_BARS = [
     },
     "name": "Rating.Overall",
     "indexes": [
-      2,
-      1,
-      3,
-      4,
-      -1,
-      5
+      "2",
+      "1",
+      "3",
+      "4",
+      "-1",
+      "5"
     ],
     "best_indexes": [
-      3,
-      4,
-      -1,
-      2,
-      5,
-      1
+      "3",
+      "4",
+      "-1",
+      "2",
+      "5",
+      "1"
     ],
     "pretty": "Rating.Overall"
   }
