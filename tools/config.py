@@ -12,6 +12,7 @@ def get_index_metadata(location_data):
     dataset = load_dataset_metadata(location_data['meta'])
     return {
         "name": dataset.name,
+        "title": dataset.name.title(),
         "overview": dataset.overview,
         "version": dataset.version
     }
@@ -23,7 +24,10 @@ class Config:
     INDEX_FILENAME = "website/datasets/index.json"
     BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser']
 
-    def __init__(self, destination: str, force_rebuild_index: bool = False):
+    def __init__(self, destination: str, force_rebuild_index: bool = False, skip_list: List[str] = None):
+        if skip_list is None:
+            skip_list = []
+        self.skip_list = skip_list
         self.destination = destination
         self.image_destination = "website/images/datasets/"
         self.teaser_destination = "website/_includes/teaser/{dataset}/"
@@ -44,7 +48,8 @@ class Config:
         }
         for builder in builders:
             index[builder] = {name: get_index_metadata(location_data)
-                              for name, location_data in sources.items()}
+                              for name, location_data in sources.items()
+                              if name not in self.skip_list}
         return index
 
     def load_index(self) -> dict:
