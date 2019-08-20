@@ -144,6 +144,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['video_games'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - video games'] = '<category name="Data - video games" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - video games'] = '<category name="Data - Video Games" colour="45">'+
                     '<block type="video_games_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -300,6 +300,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['state_fragility'] 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state fragility'] = '<category name="Data - state fragility" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state fragility'] = '<category name="Data - State Fragility" colour="45">'+
                     '<block type="state_fragility_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

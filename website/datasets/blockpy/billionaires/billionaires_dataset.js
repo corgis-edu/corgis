@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['billionaires'] = {
+
+blockpy._IMPORTED_DATASETS["billionaires"] = {
   "name": {
     "data": [
       "Bill Gates",

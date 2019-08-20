@@ -224,6 +224,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['state_crime'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state crime'] = '<category name="Data - state crime" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state crime'] = '<category name="Data - State Crime" colour="45">'+
                     '<block type="state_crime_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

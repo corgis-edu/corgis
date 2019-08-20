@@ -303,6 +303,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['airlines'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - airlines'] = '<category name="Data - airlines" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - airlines'] = '<category name="Data - Airlines" colour="45">'+
                     '<block type="airlines_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

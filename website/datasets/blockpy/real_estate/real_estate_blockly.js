@@ -168,6 +168,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['real_estate'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - real estate'] = '<category name="Data - real estate" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - real estate'] = '<category name="Data - Real Estate" colour="45">'+
                     '<block type="real_estate_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

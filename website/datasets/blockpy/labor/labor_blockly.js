@@ -189,6 +189,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['labor'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - labor'] = '<category name="Data - labor" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - labor'] = '<category name="Data - Labor" colour="45">'+
                     '<block type="labor_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

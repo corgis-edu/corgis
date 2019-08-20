@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['state fragility'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Afghanistan",
     "Year": 1995,

@@ -200,6 +200,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['broadway'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - broadway'] = '<category name="Data - broadway" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - broadway'] = '<category name="Data - Broadway" colour="45">'+
                     '<block type="broadway_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

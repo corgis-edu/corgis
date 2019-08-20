@@ -318,6 +318,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['finance'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - finance'] = '<category name="Data - finance" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - finance'] = '<category name="Data - Finance" colour="45">'+
                     '<block type="finance_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

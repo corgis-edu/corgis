@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['real estate'] = {
+
+blockpy._IMPORTED_DATASETS["real_estate"] = {
   "data.date": {
     "data": [
       "1-Jan-33",

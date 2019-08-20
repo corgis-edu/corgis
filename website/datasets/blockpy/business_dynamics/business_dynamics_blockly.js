@@ -211,6 +211,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['business_dynamics'
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - business dynamics'] = '<category name="Data - business dynamics" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - business dynamics'] = '<category name="Data - Business Dynamics" colour="45">'+
                     '<block type="business_dynamics_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

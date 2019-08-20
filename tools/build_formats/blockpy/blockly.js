@@ -101,6 +101,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['{{ library_name }}
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - {{ dataset.name }}'] = '<category name="Data - {{ dataset.name }}" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - {{ dataset.name }}'] = '<category name="Data - {{ dataset.name.title() }}" colour="45">'+
                     '<block type="{{ library_name }}_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

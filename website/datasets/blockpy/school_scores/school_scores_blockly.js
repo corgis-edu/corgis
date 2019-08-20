@@ -261,6 +261,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['school_scores'] = 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - school scores'] = '<category name="Data - school scores" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - school scores'] = '<category name="Data - School Scores" colour="45">'+
                     '<block type="school_scores_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

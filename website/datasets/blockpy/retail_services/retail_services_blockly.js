@@ -332,6 +332,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['retail_services'] 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - retail services'] = '<category name="Data - retail services" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - retail services'] = '<category name="Data - Retail Services" colour="45">'+
                     '<block type="retail_services_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

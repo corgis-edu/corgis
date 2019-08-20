@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['construction permits'] = {
+
+blockpy._IMPORTED_DATASETS["construction_permits"] = {
   "Name": {
     "data": [
       "Mississippi",

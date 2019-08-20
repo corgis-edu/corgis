@@ -166,6 +166,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['tate'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - tate'] = '<category name="Data - tate" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - tate'] = '<category name="Data - Tate" colour="45">'+
                     '<block type="tate_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

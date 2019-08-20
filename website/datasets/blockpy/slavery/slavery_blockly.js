@@ -143,6 +143,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['slavery'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - slavery'] = '<category name="Data - slavery" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - slavery'] = '<category name="Data - Slavery" colour="45">'+
                     '<block type="slavery_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

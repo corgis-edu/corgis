@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['state crime'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
   {
     "State": "Alabama",
     "Year": 1960,

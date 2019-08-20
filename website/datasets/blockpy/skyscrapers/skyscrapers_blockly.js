@@ -307,6 +307,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['skyscrapers'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - skyscrapers'] = '<category name="Data - skyscrapers" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - skyscrapers'] = '<category name="Data - Skyscrapers" colour="45">'+
                     '<block type="skyscrapers_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

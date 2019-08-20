@@ -176,6 +176,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['food_access'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - food access'] = '<category name="Data - food access" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - food access'] = '<category name="Data - Food Access" colour="45">'+
                     '<block type="food_access_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

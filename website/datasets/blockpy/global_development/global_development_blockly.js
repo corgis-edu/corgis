@@ -366,6 +366,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['global_development
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - global development'] = '<category name="Data - global development" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - global development'] = '<category name="Data - Global Development" colour="45">'+
                     '<block type="global_development_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

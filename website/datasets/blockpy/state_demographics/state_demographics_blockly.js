@@ -197,6 +197,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['state_demographics
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state demographics'] = '<category name="Data - state demographics" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - state demographics'] = '<category name="Data - State Demographics" colour="45">'+
                     '<block type="state_demographics_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

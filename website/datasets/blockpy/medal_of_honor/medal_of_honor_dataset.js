@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['medal of honor'] = {
+
+blockpy._IMPORTED_DATASETS["medal_of_honor"] = {
   "death": {
     "data": [
       true,

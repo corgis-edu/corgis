@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['police shootings'] = {
+
+blockpy._IMPORTED_DATASETS["police_shootings"] = {
   "Person.Name": {
     "data": [
       "Tim Elliot",

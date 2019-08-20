@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['slavery'] = {
+
+blockpy._IMPORTED_DATASETS["slavery"] = {
   "Buyer.County of Origin": {
     "data": [
       "Unknown",

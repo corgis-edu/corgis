@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['police shootings'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["police_shootings"] = Sk.ffi.remapToPy([
   {
     "Person": {
       "Name": "Tim Elliot",

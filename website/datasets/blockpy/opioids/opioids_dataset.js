@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['opioids'] = {
+
+blockpy._IMPORTED_DATASETS["opioids"] = {
   "Year": {
     "data": [
       1999,

@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['school scores'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["school_scores"] = Sk.ffi.remapToPy([
   {
     "Year": 2005,
     "State": {

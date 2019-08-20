@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['global development'] = {
+
+blockpy._IMPORTED_DATASETS["global_development"] = {
   "Country": {
     "data": [
       "Canada",

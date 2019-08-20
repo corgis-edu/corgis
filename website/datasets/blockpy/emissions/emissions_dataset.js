@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['emissions'] = {
+
+blockpy._IMPORTED_DATASETS["emissions"] = {
   "Country": {
     "data": [
       "Afghanistan",

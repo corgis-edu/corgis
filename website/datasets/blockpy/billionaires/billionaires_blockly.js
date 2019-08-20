@@ -196,6 +196,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['billionaires'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - billionaires'] = '<category name="Data - billionaires" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - billionaires'] = '<category name="Data - Billionaires" colour="45">'+
                     '<block type="billionaires_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -151,6 +151,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['opioids'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - opioids'] = '<category name="Data - opioids" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - opioids'] = '<category name="Data - Opioids" colour="45">'+
                     '<block type="opioids_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

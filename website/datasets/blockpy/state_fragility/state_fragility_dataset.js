@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['state fragility'] = {
+
+blockpy._IMPORTED_DATASETS["state_fragility"] = {
   "Country": {
     "data": [
       "Afghanistan",

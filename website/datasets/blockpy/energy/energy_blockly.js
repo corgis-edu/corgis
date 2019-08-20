@@ -289,6 +289,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['energy'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - energy'] = '<category name="Data - energy" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - energy'] = '<category name="Data - Energy" colour="45">'+
                     '<block type="energy_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

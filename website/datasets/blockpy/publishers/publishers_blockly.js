@@ -434,6 +434,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['publishers'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - publishers'] = '<category name="Data - publishers" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - publishers'] = '<category name="Data - Publishers" colour="45">'+
                     '<block type="publishers_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

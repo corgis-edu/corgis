@@ -185,6 +185,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['wind_turbines'] = 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - wind turbines'] = '<category name="Data - wind turbines" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - wind turbines'] = '<category name="Data - Wind Turbines" colour="45">'+
                     '<block type="wind_turbines_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

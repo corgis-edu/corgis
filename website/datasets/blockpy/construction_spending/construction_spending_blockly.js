@@ -244,6 +244,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['construction_spend
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - construction spending'] = '<category name="Data - construction spending" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - construction spending'] = '<category name="Data - Construction Spending" colour="45">'+
                     '<block type="construction_spending_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

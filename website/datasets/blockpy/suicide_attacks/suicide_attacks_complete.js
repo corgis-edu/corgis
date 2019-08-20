@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['suicide attacks'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["suicide_attacks"] = Sk.ffi.remapToPy([
   {
     "groups": "Lebanese National Resistance Front,Armed Struggle Group",
     "attacker": {

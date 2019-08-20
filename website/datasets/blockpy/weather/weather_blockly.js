@@ -483,6 +483,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['weather'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - weather'] = '<category name="Data - weather" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - weather'] = '<category name="Data - Weather" colour="45">'+
                     '<block type="weather_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

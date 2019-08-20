@@ -4614,6 +4614,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['music'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - music'] = '<category name="Data - music" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - music'] = '<category name="Data - Music" colour="45">'+
                     '<block type="music_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -141,6 +141,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['election'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - election'] = '<category name="Data - election" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - election'] = '<category name="Data - Election" colour="45">'+
                     '<block type="election_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

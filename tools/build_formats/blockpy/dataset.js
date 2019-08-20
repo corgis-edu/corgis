@@ -1,1 +1,2 @@
-blockpy._IMPORTED_DATASETS['{{ dataset.name }}'] = {{ data | tojson(indent=2) }};
+{% set library_name = dataset.name | snake_case %}
+blockpy._IMPORTED_DATASETS[{{ library_name|tojson }}] = {{ data | tojson(indent=2) }};

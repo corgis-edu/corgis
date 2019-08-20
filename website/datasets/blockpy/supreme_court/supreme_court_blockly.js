@@ -263,6 +263,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['supreme_court'] = 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - supreme court'] = '<category name="Data - supreme court" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - supreme court'] = '<category name="Data - Supreme Court" colour="45">'+
                     '<block type="supreme_court_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

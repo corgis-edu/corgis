@@ -211,6 +211,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['hydropower'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - hydropower'] = '<category name="Data - hydropower" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - hydropower'] = '<category name="Data - Hydropower" colour="45">'+
                     '<block type="hydropower_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['state demographics'] = {
+
+blockpy._IMPORTED_DATASETS["state_demographics"] = {
   "State": {
     "data": [
       "United States",

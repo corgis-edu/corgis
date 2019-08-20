@@ -230,6 +230,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['earthquakes'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - earthquakes'] = '<category name="Data - earthquakes" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - earthquakes'] = '<category name="Data - Earthquakes" colour="45">'+
                     '<block type="earthquakes_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -191,6 +191,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['medal_of_honor'] =
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - medal of honor'] = '<category name="Data - medal of honor" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - medal of honor'] = '<category name="Data - Medal Of Honor" colour="45">'+
                     '<block type="medal_of_honor_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

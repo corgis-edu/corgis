@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['construction spending'] = {
+
+blockpy._IMPORTED_DATASETS["construction_spending"] = {
   "time.index": {
     "data": [
       1,

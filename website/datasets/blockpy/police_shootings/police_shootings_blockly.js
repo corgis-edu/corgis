@@ -1645,6 +1645,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['police_shootings']
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - police shootings'] = '<category name="Data - police shootings" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - police shootings'] = '<category name="Data - Police Shootings" colour="45">'+
                     '<block type="police_shootings_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

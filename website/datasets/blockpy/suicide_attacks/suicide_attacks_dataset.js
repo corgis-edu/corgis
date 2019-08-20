@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['suicide attacks'] = {
+
+blockpy._IMPORTED_DATASETS["suicide_attacks"] = {
   "groups": {
     "data": [
       "Lebanese National Resistance Front,Armed Struggle Group",

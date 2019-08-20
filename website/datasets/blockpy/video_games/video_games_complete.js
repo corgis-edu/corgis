@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['video games'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Mario 64 DS",
     "Features": {

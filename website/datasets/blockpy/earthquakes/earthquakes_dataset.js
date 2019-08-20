@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['earthquakes'] = {
+
+blockpy._IMPORTED_DATASETS["earthquakes"] = {
   "id": {
     "data": [
       "nc72666881",

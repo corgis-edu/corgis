@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['video games'] = {
+
+blockpy._IMPORTED_DATASETS["video_games"] = {
   "Title": {
     "data": [
       "Super Mario 64 DS",

@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['emissions'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["emissions"] = Sk.ffi.remapToPy([
   {
     "Country": "Afghanistan",
     "Year": 1970,

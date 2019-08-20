@@ -196,6 +196,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['suicide_attacks'] 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - suicide attacks'] = '<category name="Data - suicide attacks" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - suicide attacks'] = '<category name="Data - Suicide Attacks" colour="45">'+
                     '<block type="suicide_attacks_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

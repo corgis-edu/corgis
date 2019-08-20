@@ -174,6 +174,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['construction_permi
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - construction permits'] = '<category name="Data - construction permits" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - construction permits'] = '<category name="Data - Construction Permits" colour="45">'+
                     '<block type="construction_permits_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

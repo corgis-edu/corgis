@@ -1,4 +1,5 @@
-blockpy._IMPORTED_DATASETS['classics'] = {
+
+blockpy._IMPORTED_DATASETS["classics"] = {
   "bibliography.congress classifications": {
     "data": [
       "PR",

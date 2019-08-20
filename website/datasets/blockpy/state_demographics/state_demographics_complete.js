@@ -1,4 +1,5 @@
-blockpy._IMPORTED_COMPLETE_DATASETS['state demographics'] = Sk.ffi.remapToPy([
+
+blockpy._IMPORTED_COMPLETE_DATASETS["state_demographics"] = Sk.ffi.remapToPy([
   {
     "State": "United States",
     "Age": {

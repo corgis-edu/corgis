@@ -687,6 +687,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['classics'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - classics'] = '<category name="Data - classics" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - classics'] = '<category name="Data - Classics" colour="45">'+
                     '<block type="classics_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -102,6 +102,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['emissions'] = {
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - emissions'] = '<category name="Data - emissions" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - emissions'] = '<category name="Data - Emissions" colour="45">'+
                     '<block type="emissions_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';
