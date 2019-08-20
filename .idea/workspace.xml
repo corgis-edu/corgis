@@ -3,51 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0d0cc7cb-05c9-4ef4-91cf-10f78d5671bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/airlines/airlines.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/airlines/airlines.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/billionaires/billionaires.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/billionaires/billionaires.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/broadway/broadway.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/broadway/broadway.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/business-dynamics/business-dynamics.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/business-dynamics/business-dynamics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/cancer/cancer.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/cancer/cancer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/cars/cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/cars/cars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/classics/classics.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/classics/classics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/construction-permits/construction-permits.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/construction-permits/construction-permits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/construction-spending/construction-spending.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/construction-spending/construction-spending.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/county-crime/county-crime.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/county-crime/county-crime.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/county-demographics/county-demographics.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/county-demographics/county-demographics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/drugs/drugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/drugs/drugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/earthquakes/earthquakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/earthquakes/earthquakes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/election/election.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/election/election.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/emissions/emissions.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/emissions/emissions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/energy/energy.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/energy/energy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/finance/finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/finance/finance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/food-access/food-access.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/food-access/food-access.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/food/food.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/food/food.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/global-development/global-development.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/global-development/global-development.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/graduates/graduates.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/graduates/graduates.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/health/health.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/health/health.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/hospitals/hospitals.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/hospitals/hospitals.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/hydropower/hydropower.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/hydropower/hydropower.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/injuries/injuries.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/injuries/injuries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/labor/labor.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/labor/labor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/medal-of-honor/medal-of-honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/medal-of-honor/medal-of-honor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/music/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/music/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/opioids/opioids.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/opioids/opioids.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/police-shootings/police-shootings.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/police-shootings/police-shootings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/publishers/publishers.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/publishers/publishers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/real-estate/real-estate.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/real-estate/real-estate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/retail-services/retail-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/retail-services/retail-services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/school-scores/school-scores.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/school-scores/school-scores.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/skyscrapers/skyscrapers.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/skyscrapers/skyscrapers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/slavery/slavery.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/slavery/slavery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/state-crime/state-crime.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/state-crime/state-crime.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/state-demographics/state-demographics.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/state-demographics/state-demographics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/state-fragility/state-fragility.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/state-fragility/state-fragility.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/suicide-attacks/suicide-attacks.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/suicide-attacks/suicide-attacks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/supreme-court/supreme-court.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/supreme-court/supreme-court.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/tate/tate.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/tate/tate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/video-games/video-games.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/video-games/video-games.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/weather/weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/weather/weather.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/_includes/teaser/wind-turbines/wind-turbines.html" beforeDir="false" afterPath="$PROJECT_DIR$/website/_includes/teaser/wind-turbines/wind-turbines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/county-crime/county-crime-corgis.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/county-crime/county-crime-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/county-crime/county-crime-meta.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/_data/blockpy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/website/_data/blockpy.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/_data/python.csv" beforeDir="false" afterPath="$PROJECT_DIR$/website/_data/python.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/_data/teaser.csv" beforeDir="false" afterPath="$PROJECT_DIR$/website/_data/teaser.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +215,8 @@
       <workItem from="1565370949519" duration="3999000" />
       <workItem from="1565384414652" duration="8570000" />
       <workItem from="1565795036649" duration="4830000" />
-      <workItem from="1565873499169" duration="13757000" />
+      <workItem from="1565873499169" duration="13959000" />
+      <workItem from="1566311193580" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="BlockPy stuff!">
       <created>1565060099266</created>
