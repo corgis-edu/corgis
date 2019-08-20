@@ -207,13 +207,16 @@ class Dataset:
         #pprint(self.levels)
 
 
+def load_dataset_metadata(meta_path):
+    with open(meta_path, 'r', encoding='utf-8', errors='replace') as metadata_file:
+        metadata_reader = csv.reader(metadata_file)
+        return Dataset.from_csv(metadata_reader)
+
 def load_dataset(name: str) -> Dataset:
     source_path = SOURCE_PATH.format(dataset=name, filename=name)
 
     meta_path = source_path + '-meta.csv'
-    with open(meta_path, 'r', encoding='utf-8', errors='replace') as metadata_file:
-        metadata_reader = csv.reader(metadata_file)
-        dataset = Dataset.from_csv(metadata_reader)
+    dataset = load_dataset_metadata(meta_path)
 
     data_path = source_path + '-corgis.csv'
     with open(data_path, 'r', encoding='utf-8', errors='replace') as dataset_file:

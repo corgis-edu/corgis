@@ -5,6 +5,16 @@ import json
 import importlib
 
 from tools.case_modifiers import sluggify
+from tools.dataset import load_dataset_metadata
+
+
+def get_index_metadata(location_data):
+    dataset = load_dataset_metadata(location_data['meta'])
+    return {
+        "name": dataset.name,
+        "overview": dataset.overview,
+        "version": dataset.version
+    }
 
 
 class Config:
@@ -13,13 +23,13 @@ class Config:
     INDEX_FILENAME = "website/datasets/index.json"
     BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser']
 
-    def __init__(self, destination: str):
+    def __init__(self, destination: str, force_rebuild_index: bool = False):
         self.destination = destination
         self.image_destination = "website/images/datasets/"
         self.teaser_destination = "website/_includes/teaser/{dataset}/"
         # TODO: Fix to be flexible path based on arg
         self.index_path = Config.INDEX_FILENAME
-        if os.path.isfile(self.index_path):
+        if os.path.isfile(self.index_path) and not force_rebuild_index:
             self.index = self.load_index()
         else:
             self.index = self.create_index()
@@ -33,7 +43,8 @@ class Config:
             "_builders": builders
         }
         for builder in builders:
-            index[builder] = {name: "" for name, location_data in sources.items()}
+            index[builder] = {name: get_index_metadata(location_data)
+                              for name, location_data in sources.items()}
         return index
 
     def load_index(self) -> dict:
@@ -75,8 +86,5 @@ class Config:
                 if new_name == line.strip():
                     break
             else:
-                #print("", file=build_list_file)
+                # print("", file=build_list_file)
                 print(new_name, file=build_list_file)
-
-
-
