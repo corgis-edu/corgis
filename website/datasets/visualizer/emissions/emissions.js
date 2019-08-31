@@ -8391,7 +8391,7 @@ VISUALIZER_DATA = [
     ],
     "name": "Country",
     "comment": "The name of a country",
-    "index": false,
+    "index": true,
     "type": "string",
     "pretty": "Country"
   },
@@ -16785,7 +16785,7 @@ VISUALIZER_DATA = [
     ],
     "name": "Year",
     "comment": "The year of the emissions (1970-2012)",
-    "index": false,
+    "index": true,
     "type": "number",
     "pretty": "Year"
   },

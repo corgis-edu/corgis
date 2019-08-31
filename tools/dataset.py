@@ -57,7 +57,7 @@ class Property:
     @classmethod
     def from_raw_line(cls, line):
         blank, name, type, index, desc = line
-        index = index.lower() == "true"
+        index = index.lower() in ("true", "x")
         return Property(name, index, CorgisType[type], desc)
 
 
