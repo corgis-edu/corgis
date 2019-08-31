@@ -516,7 +516,9 @@ function makeVisualizer() {
                         key_value = key_value.replace(',', '');
                         filter_value = filter_value.replace(',', '');
                     }
-                    if (filter_value === key_value) {
+                    // acbart: Yes, we actually do want == instead ===
+                    //         This simplifies the filtering, since they might be different types
+                    if (filter_value == key_value) {
                         ys.push(left[i]);
                     }
                 }
