@@ -53,6 +53,12 @@ def build_python_file(dataset, destination):
     code.dump(destination)
     return destination
 
+def build_setup_file(dataset, destination):
+    destination += "setup.py"
+    code = env.get_template('setup.py').stream(dataset=dataset)
+    code.dump(destination)
+    return destination
+
 
 
 
@@ -66,6 +72,7 @@ def build(dataset, configuration):
                                                    format='python')
     makedirs(destination, exist_ok=True)
     files = [build_python_file(dataset, destination),
+             build_setup_file(dataset, destination),
              build_data_file(dataset, destination),
              build_image_files(dataset, configuration),
              build_website_file(dataset, destination, env, LANGUAGE_INFO)]
