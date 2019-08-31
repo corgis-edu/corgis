@@ -493,7 +493,7 @@ function makeVisualizer() {
                 ys = [];
                 xs = [];
                 for (let i = 0, length = indices.length; i < length; i = i + 1) {
-                    if (filter_value === indices[i]) {
+                    if (filter_value == indices[i]) {
                         xs.push(left[i]);
                         ys.push(right[i]);
                     }
