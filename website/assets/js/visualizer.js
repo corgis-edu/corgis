@@ -695,7 +695,7 @@ function makeVisualizer() {
             mainModel.selected.category().pretty :
             mainModel.selected.chart().id === 'line' ?
                 //(mainModel.selected.dataset().order) :
-                (mainModel.selected.dataset().order !== "" ? mainModel.selected.dataset().order :
+                (mainModel.selected.dataset().order ? mainModel.selected.dataset().order :
                     (mainModel.selected.bar_dataset().data.filter(function (cur) {
                         return cur.name !== mainModel.selected.filter()
                     }).reduce(function (pre, cur) {
@@ -734,7 +734,7 @@ function makeVisualizer() {
                     }
                     if (an_index.name !== filter_index) {
                         a_tick.push(value);
-                    } else if (key_value !== filter_value) {
+                    } else if (key_value != filter_value) {
                         keep = false;
                     }
                 }
