@@ -8399,7 +8399,7 @@ VISUALIZER_DATA = [
       "ci37672360"
     ],
     "name": "id",
-    "comment": "$MISSING_FIELD",
+    "comment": "The unique name for this earthquake.",
     "index": false,
     "type": "string",
     "pretty": "id"
@@ -109236,7 +109236,7 @@ VISUALIZER_DATA = [
     ],
     "name": "time.full",
     "comment": "The full date/time representation for when this earthquake occurred.",
-    "index": false,
+    "index": true,
     "type": "string",
     "pretty": "time.full"
   },
