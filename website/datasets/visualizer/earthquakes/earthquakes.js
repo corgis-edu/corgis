@@ -109236,7 +109236,7 @@ VISUALIZER_DATA = [
     ],
     "name": "time.full",
     "comment": "The full date/time representation for when this earthquake occurred.",
-    "index": true,
+    "index": false,
     "type": "string",
     "pretty": "time.full"
   },
@@ -134445,7 +134445,7 @@ VISUALIZER_DATA = [
     ],
     "name": "time.month",
     "comment": "The month that this earthquake occurred.",
-    "index": false,
+    "index": true,
     "type": "number",
     "pretty": "time.month"
   },
