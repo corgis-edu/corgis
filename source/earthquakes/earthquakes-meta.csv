@@ -15,20 +15,20 @@ Icon,earthquakes-icon.png
 Splash,earthquakes-splash.png
 Properties,Name,Type,Index,Description
 ,id,string,,$MISSING_FIELD
-,impact.gap,float,,$MISSING_FIELD
-,impact.magnitude,float,,$MISSING_FIELD
-,impact.significance,int,,$MISSING_FIELD
-,location.depth,float,,$MISSING_FIELD
-,location.distance,float,,$MISSING_FIELD
-,location.full,string,,$MISSING_FIELD
-,location.latitude,float,,$MISSING_FIELD
-,location.longitude,float,,$MISSING_FIELD
-,location.name,string,True,$MISSING_FIELD
-,time.day,int,,$MISSING_FIELD
-,time.epoch,int,,$MISSING_FIELD
-,time.full,string,,$MISSING_FIELD
-,time.hour,int,,$MISSING_FIELD
-,time.minute,int,,$MISSING_FIELD
-,time.month,int,,$MISSING_FIELD
-,time.second,int,,$MISSING_FIELD
-,time.year,int,,$MISSING_FIELD
+,impact.gap,float,,"In general, the smaller this number, the more reliable is the calculated horizontal position of the earthquake. Specifically, this means the largest azimuthal gap between azimuthally adjacent stations (in degrees). Earthquake locations in which the azimuthal gap exceeds 180 degrees typically have large location and depth uncertainties. Ranges from 0 to 180."
+,impact.magnitude,float,,"Earthquake magnitude is a measure of the size of an earthquake at its source. It is a logarithmic measure. At the same distance from the earthquake, the amplitude of the seismic waves from which the magnitude is determined are approximately 10 times as large during a magnitude 5 earthquake as during a magnitude 4 earthquake. The total amount of energy released by the earthquake usually goes up by a larger factor; for many commonly used magnitude types, the total energy of an average earthquake goes up by a factor of approximately 32 for each unit increase in magnitude. Typically ranges from -1 (very tiny) to 10 (incredibly powerful)."
+,impact.significance,int,,"A number describing how significant the event is. Larger numbers indicate a more significant event. This value is determined on a number of factors, including magnitude, maximum MMI, felt reports, and estimated impact. Ranges from 0 to 1000."
+,location.depth,float,,"Depth of the event in kilometers."
+,location.distance,float,,"The rough distance that this earthquake occurred away from the reporting station, measured in degrees between. 1 degree is approximately 111.2 kilometers. In general, the smaller this number, the more reliable is the calculated depth of the earthquake. In general, this number is between 0.4-7.1."
+,location.full,string,,"The full name of this location."
+,location.latitude,float,,"Decimal degrees latitude (up and down on the globe). Negative values for southern latitudes. Ranges from -90 to 90."
+,location.longitude,float,,"Decimal degrees longitude (east and west on the globe). Negative values for western latitudes. Ranges from -180 to 180."
+,location.name,string,True,"A best guess for the name of the state (or country, in some cases) that this earthquake was reported in."
+,time.day,int,,"Day of the month for this earthquake."
+,time.epoch,int,,"A number that represents the time that this earthquake occurred. Epoch's are the number of seconds since a particular date (January 1st, 1970), and are a convenient way to store date/times."
+,time.full,string,,"The full date/time representation for when this earthquake occurred."
+,time.hour,int,,"The hour that this earthquake occurred."
+,time.minute,int,,"The minute that this earthquake occurred."
+,time.month,int,,"The month that this earthquake occurred."
+,time.second,int,,"The second that this earthquake occurred."
+,time.year,int,,"The year that this earthquake occurred."

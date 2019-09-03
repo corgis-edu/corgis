@@ -16802,7 +16802,7 @@ VISUALIZER_DATA = [
       99.0
     ],
     "name": "impact.gap",
-    "comment": "$MISSING_FIELD",
+    "comment": "In general, the smaller this number, the more reliable is the calculated horizontal position of the earthquake. Specifically, this means the largest azimuthal gap between azimuthally adjacent stations (in degrees). Earthquake locations in which the azimuthal gap exceeds 180 degrees typically have large location and depth uncertainties. Ranges from 0 to 180.",
     "index": false,
     "type": "number",
     "pretty": "impact.gap"
@@ -25205,7 +25205,7 @@ VISUALIZER_DATA = [
       0.89
     ],
     "name": "impact.magnitude",
-    "comment": "$MISSING_FIELD",
+    "comment": "Earthquake magnitude is a measure of the size of an earthquake at its source. It is a logarithmic measure. At the same distance from the earthquake, the amplitude of the seismic waves from which the magnitude is determined are approximately 10 times as large during a magnitude 5 earthquake as during a magnitude 4 earthquake. The total amount of energy released by the earthquake usually goes up by a larger factor; for many commonly used magnitude types, the total energy of an average earthquake goes up by a factor of approximately 32 for each unit increase in magnitude. Typically ranges from -1 (very tiny) to 10 (incredibly powerful).",
     "index": false,
     "type": "number",
     "pretty": "impact.magnitude"
@@ -33608,7 +33608,7 @@ VISUALIZER_DATA = [
       12
     ],
     "name": "impact.significance",
-    "comment": "$MISSING_FIELD",
+    "comment": "A number describing how significant the event is. Larger numbers indicate a more significant event. This value is determined on a number of factors, including magnitude, maximum MMI, felt reports, and estimated impact. Ranges from 0 to 1000.",
     "index": false,
     "type": "number",
     "pretty": "impact.significance"
@@ -42011,7 +42011,7 @@ VISUALIZER_DATA = [
       8.29
     ],
     "name": "location.depth",
-    "comment": "$MISSING_FIELD",
+    "comment": "Depth of the event in kilometers.",
     "index": false,
     "type": "number",
     "pretty": "location.depth"
@@ -50414,7 +50414,7 @@ VISUALIZER_DATA = [
       0.02562
     ],
     "name": "location.distance",
-    "comment": "$MISSING_FIELD",
+    "comment": "The rough distance that this earthquake occurred away from the reporting station, measured in degrees between. 1 degree is approximately 111.2 kilometers. In general, the smaller this number, the more reliable is the calculated depth of the earthquake. In general, this number is between 0.4-7.1.",
     "index": false,
     "type": "number",
     "pretty": "location.distance"
@@ -58817,7 +58817,7 @@ VISUALIZER_DATA = [
       "14km NE of Yucaipa, CA"
     ],
     "name": "location.full",
-    "comment": "$MISSING_FIELD",
+    "comment": "The full name of this location.",
     "index": false,
     "type": "string",
     "pretty": "location.full"
@@ -67220,7 +67220,7 @@ VISUALIZER_DATA = [
       34.1191667
     ],
     "name": "location.latitude",
-    "comment": "$MISSING_FIELD",
+    "comment": "Decimal degrees latitude (up and down on the globe). Negative values for southern latitudes. Ranges from -90 to 90.",
     "index": false,
     "type": "number",
     "pretty": "location.latitude"
@@ -75623,7 +75623,7 @@ VISUALIZER_DATA = [
       -116.9336667
     ],
     "name": "location.longitude",
-    "comment": "$MISSING_FIELD",
+    "comment": "Decimal degrees longitude (east and west on the globe). Negative values for western latitudes. Ranges from -180 to 180.",
     "index": false,
     "type": "number",
     "pretty": "location.longitude"
@@ -84026,7 +84026,7 @@ VISUALIZER_DATA = [
       "California"
     ],
     "name": "location.name",
-    "comment": "$MISSING_FIELD",
+    "comment": "A best guess for the name of the state (or country, in some cases) that this earthquake was reported in.",
     "index": true,
     "type": "string",
     "pretty": "location.name"
@@ -92429,7 +92429,7 @@ VISUALIZER_DATA = [
       25
     ],
     "name": "time.day",
-    "comment": "$MISSING_FIELD",
+    "comment": "Day of the month for this earthquake.",
     "index": false,
     "type": "number",
     "pretty": "time.day"
@@ -100832,7 +100832,7 @@ VISUALIZER_DATA = [
       1472183881830
     ],
     "name": "time.epoch",
-    "comment": "$MISSING_FIELD",
+    "comment": "A number that represents the time that this earthquake occurred. Epoch's are the number of seconds since a particular date (January 1st, 1970), and are a convenient way to store date/times.",
     "index": false,
     "type": "number",
     "pretty": "time.epoch"
@@ -109235,7 +109235,7 @@ VISUALIZER_DATA = [
       "2016-08-25 23:58:01"
     ],
     "name": "time.full",
-    "comment": "$MISSING_FIELD",
+    "comment": "The full date/time representation for when this earthquake occurred.",
     "index": false,
     "type": "string",
     "pretty": "time.full"
@@ -117638,7 +117638,7 @@ VISUALIZER_DATA = [
       23
     ],
     "name": "time.hour",
-    "comment": "$MISSING_FIELD",
+    "comment": "The hour that this earthquake occurred.",
     "index": false,
     "type": "number",
     "pretty": "time.hour"
@@ -126041,7 +126041,7 @@ VISUALIZER_DATA = [
       58
     ],
     "name": "time.minute",
-    "comment": "$MISSING_FIELD",
+    "comment": "The minute that this earthquake occurred.",
     "index": false,
     "type": "number",
     "pretty": "time.minute"
@@ -134444,7 +134444,7 @@ VISUALIZER_DATA = [
       8
     ],
     "name": "time.month",
-    "comment": "$MISSING_FIELD",
+    "comment": "The month that this earthquake occurred.",
     "index": false,
     "type": "number",
     "pretty": "time.month"
@@ -142847,7 +142847,7 @@ VISUALIZER_DATA = [
       1
     ],
     "name": "time.second",
-    "comment": "$MISSING_FIELD",
+    "comment": "The second that this earthquake occurred.",
     "index": false,
     "type": "number",
     "pretty": "time.second"
@@ -151250,7 +151250,7 @@ VISUALIZER_DATA = [
       2016
     ],
     "name": "time.year",
-    "comment": "$MISSING_FIELD",
+    "comment": "The year that this earthquake occurred.",
     "index": false,
     "type": "number",
     "pretty": "time.year"

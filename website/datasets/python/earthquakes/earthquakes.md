@@ -195,7 +195,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>In general, the smaller this number, the more reliable is the calculated horizontal position of the earthquake. Specifically, this means the largest azimuthal gap between azimuthally adjacent stations (in degrees). Earthquake locations in which the azimuthal gap exceeds 180 degrees typically have large location and depth uncertainties. Ranges from 0 to 180.</td> </tr>
         
         <tr> <td><code>"magnitude"</code></td> 
              <td><span data-toggle="tooltip"
@@ -207,7 +207,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Earthquake magnitude is a measure of the size of an earthquake at its source. It is a logarithmic measure. At the same distance from the earthquake, the amplitude of the seismic waves from which the magnitude is determined are approximately 10 times as large during a magnitude 5 earthquake as during a magnitude 4 earthquake. The total amount of energy released by the earthquake usually goes up by a larger factor; for many commonly used magnitude types, the total energy of an average earthquake goes up by a factor of approximately 32 for each unit increase in magnitude. Typically ranges from -1 (very tiny) to 10 (incredibly powerful).</td> </tr>
         
         <tr> <td><code>"significance"</code></td> 
              <td><span data-toggle="tooltip"
@@ -219,7 +219,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>A number describing how significant the event is. Larger numbers indicate a more significant event. This value is determined on a number of factors, including magnitude, maximum MMI, felt reports, and estimated impact. Ranges from 0 to 1000.</td> </tr>
         
     </table>
 </div>
@@ -276,7 +276,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Depth of the event in kilometers.</td> </tr>
         
         <tr> <td><code>"distance"</code></td> 
              <td><span data-toggle="tooltip"
@@ -288,7 +288,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The rough distance that this earthquake occurred away from the reporting station, measured in degrees between. 1 degree is approximately 111.2 kilometers. In general, the smaller this number, the more reliable is the calculated depth of the earthquake. In general, this number is between 0.4-7.1.</td> </tr>
         
         <tr> <td><code>"full"</code></td> 
              <td><span data-toggle="tooltip"
@@ -300,7 +300,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The full name of this location.</td> </tr>
         
         <tr> <td><code>"latitude"</code></td> 
              <td><span data-toggle="tooltip"
@@ -312,7 +312,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Decimal degrees latitude (up and down on the globe). Negative values for southern latitudes. Ranges from -90 to 90.</td> </tr>
         
         <tr> <td><code>"longitude"</code></td> 
              <td><span data-toggle="tooltip"
@@ -324,7 +324,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Decimal degrees longitude (east and west on the globe). Negative values for western latitudes. Ranges from -180 to 180.</td> </tr>
         
         <tr> <td><code>"name"</code></td> 
              <td><span data-toggle="tooltip"
@@ -336,7 +336,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>A best guess for the name of the state (or country, in some cases) that this earthquake was reported in.</td> </tr>
         
     </table>
 </div>
@@ -417,7 +417,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Day of the month for this earthquake.</td> </tr>
         
         <tr> <td><code>"epoch"</code></td> 
              <td><span data-toggle="tooltip"
@@ -429,7 +429,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>A number that represents the time that this earthquake occurred. Epoch's are the number of seconds since a particular date (January 1st, 1970), and are a convenient way to store date/times.</td> </tr>
         
         <tr> <td><code>"full"</code></td> 
              <td><span data-toggle="tooltip"
@@ -441,7 +441,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The full date/time representation for when this earthquake occurred.</td> </tr>
         
         <tr> <td><code>"hour"</code></td> 
              <td><span data-toggle="tooltip"
@@ -453,7 +453,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The hour that this earthquake occurred.</td> </tr>
         
         <tr> <td><code>"minute"</code></td> 
              <td><span data-toggle="tooltip"
@@ -465,7 +465,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The minute that this earthquake occurred.</td> </tr>
         
         <tr> <td><code>"month"</code></td> 
              <td><span data-toggle="tooltip"
@@ -477,7 +477,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The month that this earthquake occurred.</td> </tr>
         
         <tr> <td><code>"second"</code></td> 
              <td><span data-toggle="tooltip"
@@ -489,7 +489,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The second that this earthquake occurred.</td> </tr>
         
         <tr> <td><code>"year"</code></td> 
              <td><span data-toggle="tooltip"
@@ -501,7 +501,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The year that this earthquake occurred.</td> </tr>
         
     </table>
 </div>
