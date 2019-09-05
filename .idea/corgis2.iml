@@ -16,6 +16,8 @@
         <option value="$MODULE_DIR$/tools/build_formats/visualizer" />
         <option value="$MODULE_DIR$/tools/build_formats/python" />
         <option value="$MODULE_DIR$/tools/build_formats/blockpy" />
+        <option value="$MODULE_DIR$/tools/build_formats/csv" />
+        <option value="$MODULE_DIR$/tools/build_formats/teaser" />
       </list>
     </option>
   </component>

@@ -45,7 +45,7 @@ This library holds data about over Broadway shows, grouped over weeklong periods
     <td>Date.Full</td>
     <td>String</td> 
     <td>The full date representation that this performance's week ended on in "Month/Day/Year" format.</td>
-    <td><code>"08/26/1990"</code></td>
+    <td><code>"8/26/1990"</code></td>
 </tr>
 
 <tr>

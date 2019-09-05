@@ -180,7 +180,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"08/26/1990"</code>
+                <code>"8/26/1990"</code>
              
                 
              </td> 
