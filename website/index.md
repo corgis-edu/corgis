@@ -21,13 +21,13 @@ permalink: /
 <div class="row">
 {% for builder in site.data.builders %}
 <div class="col border rounded m-2">
-    <a href="{{ builder.link }}">
+    <a href="{{ builder.link }}/">
     <img class="img-fluid" src="images/icons/{{ builder.icon }}.png" alt="{{ builder.name }}">
     </a>
       <h5 class="">{{ builder.name}}</h5>
       <p class="">
         {{ builder.description }}<br>
-        <a href="{{ builder.link }}"><small>View</small></a>
+        <a href="{{ builder.link }}/"><small>View</small></a>
       </p>
 </div>
 {% endfor %}
