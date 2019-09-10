@@ -24,7 +24,7 @@ blockpy._IMPORTED_DATASETS["opioids"] = {
     ],
     "name": "Year",
     "comment": "The year for which the data is reported (1999-2017)",
-    "index": false,
+    "index": true,
     "type": "Integer",
     "pretty": "Year"
   },

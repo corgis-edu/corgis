@@ -8390,7 +8390,7 @@ blockpy._IMPORTED_DATASETS["emissions"] = {
     ],
     "name": "Country",
     "comment": "The name of a country",
-    "index": false,
+    "index": true,
     "type": "String",
     "pretty": "Country"
   },
@@ -16784,7 +16784,7 @@ blockpy._IMPORTED_DATASETS["emissions"] = {
     ],
     "name": "Year",
     "comment": "The year of the emissions (1970-2012)",
-    "index": false,
+    "index": true,
     "type": "Integer",
     "pretty": "Year"
   },

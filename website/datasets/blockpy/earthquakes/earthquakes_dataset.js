@@ -8398,7 +8398,7 @@ blockpy._IMPORTED_DATASETS["earthquakes"] = {
       "ci37672360"
     ],
     "name": "id",
-    "comment": "$MISSING_FIELD",
+    "comment": "The unique name for this earthquake.",
     "index": false,
     "type": "String",
     "pretty": "id"
@@ -134444,7 +134444,7 @@ blockpy._IMPORTED_DATASETS["earthquakes"] = {
     ],
     "name": "time.month",
     "comment": "The month that this earthquake occurred.",
-    "index": false,
+    "index": true,
     "type": "Integer",
     "pretty": "time.month"
   },

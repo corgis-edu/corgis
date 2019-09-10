@@ -36,7 +36,7 @@ var $builtinmodule = function(name)
                 "name": 'get',
                 "returns": {
                     "type": "ListType",
-                    "empty": False,
+                    "empty": false,
                     "subtype": {"type": "NumType"}
                 }
             },

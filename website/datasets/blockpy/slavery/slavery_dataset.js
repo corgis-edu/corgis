@@ -12648,7 +12648,7 @@ blockpy._IMPORTED_DATASETS["slavery"] = {
       "Davis & Jackson Unknown",
       "Nicolas Bastanzi",
       "Cecilia M. Reeve",
-      "Communalit\ufffd des Religieuses Unknown",
+      "Communalit? des Religieuses Unknown",
       "Otto Henry Karstendic",
       "Joseph Holz",
       "Maeleine Alma Dubuc",

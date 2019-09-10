@@ -56,7 +56,7 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
     ],
     "name": "State",
     "comment": "The name of a U.S. State (e.g., Virginia)",
-    "index": false,
+    "index": true,
     "type": "String",
     "pretty": "State"
   },

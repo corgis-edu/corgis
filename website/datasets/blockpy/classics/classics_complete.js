@@ -1397,7 +1397,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "en",
       "subjects": "Paris (France) -- Fiction,Ex-convicts -- Fiction,Epic literature,Orphans -- Fiction,Historical fiction",
-      "title": "Les Mis\ufffdrables",
+      "title": "Les Mis\u00e9rables",
       "type": "Text",
       "author": {
         "birth": 1802,
@@ -1918,7 +1918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PR",
       "languages": "en",
-      "subjects": "Revenge -- Fiction,Psychological fiction,Foundlings -- Fiction,Heathcliff (Fictitious character : Bront\ufffd) -- Fiction,Triangles (Interpersonal relations) -- Fiction,Rural families -- Fiction,Domestic fiction,Rejection (Psychology) -- Fiction,Yorkshire (England) -- Fiction,Love stories",
+      "subjects": "Revenge -- Fiction,Psychological fiction,Foundlings -- Fiction,Heathcliff (Fictitious character : Bront\u00eb) -- Fiction,Triangles (Interpersonal relations) -- Fiction,Rural families -- Fiction,Domestic fiction,Rejection (Psychology) -- Fiction,Yorkshire (England) -- Fiction,Love stories",
       "title": "Wuthering Heights",
       "type": "Text",
       "author": {
@@ -2034,7 +2034,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PQ",
       "languages": "en",
-      "subjects": "Adventure stories;Revenge -- Fiction;France -- History -- 19th century -- Fiction;Pirates -- Fiction;Historical fiction;Prisoners -- Fiction;Dant\ufffds, Edmond (Fictitious character) -- Fiction",
+      "subjects": "Adventure stories;Revenge -- Fiction;France -- History -- 19th century -- Fiction;Pirates -- Fiction;Historical fiction;Prisoners -- Fiction;Dant\u00e8s, Edmond (Fictitious character) -- Fiction",
       "title": "The Count of Monte Cristo, Illustrated",
       "type": "Text",
       "author": {
@@ -2557,7 +2557,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "en",
       "subjects": "French essays -- Translations into English",
-      "title": "Essays of Michel de Montaigne \ufffd Complete",
+      "title": "Essays of Michel de Montaigne \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 1533,
@@ -4123,7 +4123,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PT",
       "languages": "de",
       "subjects": "Erotic stories, German",
-      "title": "Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erz\ufffdhlt",
+      "title": "Josefine Mutzenbacher: oder Die Geschichte einer Wienerischen Dirne von ihr selbst erz\u00e4hlt",
       "type": "Text",
       "author": {
         "birth": 1869,
@@ -4355,7 +4355,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "JK",
       "languages": "en",
       "subjects": "United States -- Social conditions,Democracy -- United States,United States -- Politics and government",
-      "title": "Democracy in America \ufffd Volume 1",
+      "title": "Democracy in America \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1805,
@@ -6443,7 +6443,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fantasy fiction;American fiction -- 19th century;Horror tales, American;Poe, Edgar Allan, 1809-1849",
-      "title": "The Works of Edgar Allan Poe \ufffd Volume 1",
+      "title": "The Works of Edgar Allan Poe \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1809,
@@ -7429,7 +7429,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fantasy fiction;American fiction -- 19th century;Horror tales, American;Short stories",
-      "title": "The Works of Edgar Allan Poe \ufffd Volume 2",
+      "title": "The Works of Edgar Allan Poe \u2014 Volume 2",
       "type": "Text",
       "author": {
         "birth": 1809,
@@ -9285,7 +9285,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "ND",
       "languages": "en",
       "subjects": "Leonardo, da Vinci, 1452-1519 -- Notebooks, sketchbooks, etc.",
-      "title": "The Notebooks of Leonardo Da Vinci \ufffd Complete",
+      "title": "The Notebooks of Leonardo Da Vinci \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 1452,
@@ -10039,7 +10039,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "en",
       "subjects": "Epic poetry, Italian -- Translations into English;Italian poetry -- To 1400 -- Translations into English;Hell -- Poetry",
-      "title": "The vision of hell.: By Dante Alighieri.; Translated by Rev. Henry Francis Cary, M.A.; and illustrated with the seventy-five designs of Gustave Dor\ufffd.",
+      "title": "The vision of hell.: By Dante Alighieri.; Translated by Rev. Henry Francis Cary, M.A.; and illustrated with the seventy-five designs of Gustave Dor\u00e9.",
       "type": "Text",
       "author": {
         "birth": 1265,
@@ -12823,7 +12823,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "B",
       "languages": "en",
       "subjects": "Apologetics,Philosophy",
-      "title": "Pascal's Pens\ufffdes",
+      "title": "Pascal's Pens\u00e9es",
       "type": "Text",
       "author": {
         "birth": 1623,
@@ -12997,7 +12997,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PA",
       "languages": "en",
       "subjects": "Rome -- Fiction;Satire, Latin -- Translations into English",
-      "title": "The Satyricon \ufffd Complete",
+      "title": "The Satyricon \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 20,
@@ -13171,7 +13171,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "U",
       "languages": "en",
       "subjects": "Military art and science,War",
-      "title": "On War \ufffd Volume 1",
+      "title": "On War \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1780,
@@ -13229,7 +13229,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "en",
       "subjects": "Rousseau, Jean-Jacques, 1712-1778;Authors, French -- 18th century -- Biography",
-      "title": "The Confessions of Jean Jacques Rousseau \ufffd Complete",
+      "title": "The Confessions of Jean Jacques Rousseau \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 1712,
@@ -15317,7 +15317,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PC",
       "languages": "pt",
       "subjects": "Portuguese language -- Dictionaries",
-      "title": "Novo dicion\ufffdrio da l\ufffdngua portuguesa",
+      "title": "Novo dicion\u00e1rio da l\u00edngua portuguesa",
       "type": "Text",
       "author": {
         "birth": 1846,
@@ -15780,8 +15780,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "DS",
       "languages": "en",
-      "subjects": "Rizal, Jos\ufffd, 1861-1896",
-      "title": "Lineage, Life and Labors of Jos\ufffd Rizal, Philippine Patriot",
+      "subjects": "Rizal, Jos\u00e9, 1861-1896",
+      "title": "Lineage, Life and Labors of Jos\u00e9 Rizal, Philippine Patriot",
       "type": "Text",
       "author": {
         "birth": 1872,
@@ -16593,7 +16593,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "enm",
       "subjects": "Christian pilgrims and pilgrimages -- Poetry",
-      "title": "Chaucer's Works, Volume 4 (of 7) \ufffd The Canterbury Tales",
+      "title": "Chaucer's Works, Volume 4 (of 7) \u2014 The Canterbury Tales",
       "type": "Text",
       "author": {
         "birth": 1342,
@@ -17231,7 +17231,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "DG",
       "languages": "en",
       "subjects": "Rome -- History -- Empire, 30 B.C.-476 A.D.;Byzantine Empire -- History -- To 527",
-      "title": "History of the Decline and Fall of the Roman Empire \ufffd Volume 1",
+      "title": "History of the Decline and Fall of the Roman Empire \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1737,
@@ -18565,7 +18565,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PT",
       "languages": "de",
       "subjects": "German poetry;Magicians -- Drama;Legends -- Germany -- Drama;Faust, -approximately 1540 -- Drama",
-      "title": "Faust: Der Trag\ufffddie erster Teil",
+      "title": "Faust: Der Trag\u00f6die erster Teil",
       "type": "Text",
       "author": {
         "birth": 1749,
@@ -19261,7 +19261,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "N",
       "languages": "en",
       "subjects": "Bible -- Illustrations",
-      "title": "The Dor\ufffd Bible Gallery, Complete: Containing One Hundred Superb Illustrations, and a Page of Explanatory Letter-press Facing Each",
+      "title": "The Dor\u00e9 Bible Gallery, Complete: Containing One Hundred Superb Illustrations, and a Page of Explanatory Letter-press Facing Each",
       "type": "Text",
       "author": {
         "birth": 0,
@@ -20189,7 +20189,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "JK",
       "languages": "en",
       "subjects": "United States -- Social conditions,Democracy -- United States,United States -- Politics and government",
-      "title": "Democracy in America \ufffd Volume 2",
+      "title": "Democracy in America \u2014 Volume 2",
       "type": "Text",
       "author": {
         "birth": 1805,
@@ -21175,7 +21175,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fantasy fiction;American fiction -- 19th century;Horror tales, American",
-      "title": "The Works of Edgar Allan Poe \ufffd Volume 3",
+      "title": "The Works of Edgar Allan Poe \u2014 Volume 3",
       "type": "Text",
       "author": {
         "birth": 1809,
@@ -22392,7 +22392,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "DS,PL",
       "languages": "tl",
-      "subjects": "Rizal, Jos\ufffd, 1861-1896 -- Correspondence",
+      "subjects": "Rizal, Jos\u00e9, 1861-1896 -- Correspondence",
       "title": "Ang Liham ni Dr. Jose Rizal sa mga Kadalagahan sa Malolos, Bulakan",
       "type": "Text",
       "author": {
@@ -23959,7 +23959,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "BL,JC",
       "languages": "en",
       "subjects": "Rationalism,Philosophy and religion,Political science",
-      "title": "The Writings of Thomas Paine \ufffd Volume 4 (1794-1796): The Age of Reason",
+      "title": "The Writings of Thomas Paine \u2014 Volume 4 (1794-1796): The Age of Reason",
       "type": "Text",
       "author": {
         "birth": 1737,
@@ -24307,7 +24307,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PA,D",
       "languages": "en",
       "subjects": "History, Ancient;Greece -- History -- To 146 B.C.",
-      "title": "The History of Herodotus \ufffd Volume 1",
+      "title": "The History of Herodotus \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": -484,
@@ -26221,7 +26221,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "en",
       "subjects": "English poetry -- 18th century,English poetry -- 19th century",
-      "title": "The Poetical Works of William Wordsworth \ufffd Volume 3",
+      "title": "The Poetical Works of William Wordsworth \u2014 Volume 3",
       "type": "Text",
       "author": {
         "birth": 1770,
@@ -27497,7 +27497,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "B",
       "languages": "de",
       "subjects": "Philosophy, German;Superman (Philosophical concept)",
-      "title": "Also sprach Zarathustra: Ein Buch f\ufffdr Alle und Keinen",
+      "title": "Also sprach Zarathustra: Ein Buch f\u00fcr Alle und Keinen",
       "type": "Text",
       "author": {
         "birth": 1844,
@@ -27729,7 +27729,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fantasy fiction;American fiction -- 19th century;Horror tales, American;American poetry",
-      "title": "The Works of Edgar Allan Poe \ufffd Volume 5",
+      "title": "The Works of Edgar Allan Poe \u2014 Volume 5",
       "type": "Text",
       "author": {
         "birth": 1809,
@@ -28483,7 +28483,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fathers and daughters -- Fiction;Americans -- Italy -- Fiction;Married women -- Fiction;Italy -- Fiction;Triangles (Interpersonal relations) -- Fiction;Psychological fiction;Inheritance and succession -- Fiction;Archer, Isabel (Fictitious character) -- Fiction;Love stories",
-      "title": "The Portrait of a Lady \ufffd Volume 1",
+      "title": "The Portrait of a Lady \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1843,
@@ -29991,7 +29991,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "G",
       "languages": "en",
       "subjects": "Voyages and travels;Polo, Marco, 1254-1323?;Mongols -- History;Asia -- Description and travel -- Early works to 1800",
-      "title": "The Travels of Marco Polo \ufffd Volume 1",
+      "title": "The Travels of Marco Polo \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 0,
@@ -30455,7 +30455,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PK",
       "languages": "en",
       "subjects": "Rama (Hindu deity) -- Poetry;Epic poetry, Sanskrit -- Translations into English;Folklore -- India",
-      "title": "The R\ufffdm\ufffdyan of V\ufffdlm\ufffdki, translated into English verse",
+      "title": "The R\u00e1m\u00e1yan of V\u00e1lm\u00edki, translated into English verse",
       "type": "Text",
       "author": {
         "birth": 0,
@@ -31209,7 +31209,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Prose poems",
-      "title": "Tender Buttons: Objects\ufffdFood\ufffdRooms",
+      "title": "Tender Buttons: Objects\u2014Food\u2014Rooms",
       "type": "Text",
       "author": {
         "birth": 1874,
@@ -32485,7 +32485,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "DC",
       "languages": "en",
       "subjects": "Private secretaries -- France -- Biography;Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries;Napoleon I, Emperor of the French, 1769-1821;Bourrienne, Louis Antoine Fauvelet de, 1769-1834;Napoleon I, Emperor of the French, 1769-1821 -- Relations with private secretaries",
-      "title": "Memoirs of Napoleon Bonaparte \ufffd Complete",
+      "title": "Memoirs of Napoleon Bonaparte \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 1769,
@@ -33529,7 +33529,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PJ",
       "languages": "en",
       "subjects": "Tales -- Arab countries,Fairy tales",
-      "title": "The Book of the Thousand Nights and a Night \ufffd Volume 01",
+      "title": "The Book of the Thousand Nights and a Night \u2014 Volume 01",
       "type": "Text",
       "author": {
         "birth": 0,
@@ -34863,7 +34863,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PT",
       "languages": "de",
       "subjects": "Fairy tales -- Denmark",
-      "title": "M\ufffdrchen f\ufffdr Kinder",
+      "title": "M\u00e4rchen f\u00fcr Kinder",
       "type": "Text",
       "author": {
         "birth": 1805,
@@ -35385,7 +35385,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "en",
       "subjects": "Salome (Biblical figure) -- Drama,Tragedies",
-      "title": "Salom\ufffd: A Tragedy in One Act",
+      "title": "Salom\u00e9: A Tragedy in One Act",
       "type": "Text",
       "author": {
         "birth": 1854,
@@ -36023,7 +36023,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PS",
       "languages": "en",
       "subjects": "Fantasy fiction;American fiction -- 19th century;Horror tales, American;Short stories",
-      "title": "The Works of Edgar Allan Poe \ufffd Volume 4",
+      "title": "The Works of Edgar Allan Poe \u2014 Volume 4",
       "type": "Text",
       "author": {
         "birth": 1809,
@@ -36486,8 +36486,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "D501",
       "languages": "de",
-      "subjects": "J\ufffdnger, Ernst, 1895-1998;Soldiers -- Germany -- Diaries;World War, 1914-1918 -- Personal narratives, German",
-      "title": "In Stahlgewittern, aus dem Tagebuch eines Sto\ufffdtruppf\ufffdhrers",
+      "subjects": "J\u00fcnger, Ernst, 1895-1998;Soldiers -- Germany -- Diaries;World War, 1914-1918 -- Personal narratives, German",
+      "title": "In Stahlgewittern, aus dem Tagebuch eines Sto\u00dftruppf\u00fchrers",
       "type": "Text",
       "author": {
         "birth": 1895,
@@ -39329,7 +39329,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "ML",
       "languages": "en",
       "subjects": "Composers -- Austria -- Correspondence;Mozart, Wolfgang Amadeus, 1756-1791 -- Correspondence",
-      "title": "The Letters of Wolfgang Amadeus Mozart \ufffd Volume 01",
+      "title": "The Letters of Wolfgang Amadeus Mozart \u2014 Volume 01",
       "type": "Text",
       "author": {
         "birth": 1756,
@@ -39502,7 +39502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PQ",
       "languages": "en",
-      "subjects": "Arthurian romances;Tales, Medieval;Romances -- Translations into English;Chr\ufffdtien, de Troyes, active 12th century",
+      "subjects": "Arthurian romances;Tales, Medieval;Romances -- Translations into English;Chr\u00e9tien, de Troyes, active 12th century",
       "title": "Four Arthurian Romances",
       "type": "Text",
       "author": {
@@ -40373,7 +40373,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "fr",
       "subjects": "Paris (France) -- Fiction,Ex-convicts -- Fiction,Epic literature,Orphans -- Fiction,Historical fiction",
-      "title": "Les mis\ufffdrables Tome I: Fantine",
+      "title": "Les mis\u00e9rables Tome I: Fantine",
       "type": "Text",
       "author": {
         "birth": 1802,
@@ -41069,7 +41069,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "E456",
       "languages": "en",
       "subjects": "United States. Army -- Biography;United States -- History -- Civil War, 1861-1865 -- Campaigns;Sherman, William T. (William Tecumseh), 1820-1891;United States -- History -- Civil War, 1861-1865 -- Personal narratives;Generals -- United States -- Biography",
-      "title": "Memoirs of General William T. Sherman \ufffd Complete",
+      "title": "Memoirs of General William T. Sherman \u2014 Complete",
       "type": "Text",
       "author": {
         "birth": 1820,
@@ -41707,7 +41707,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PQ",
       "languages": "en",
       "subjects": "Erotic stories;France -- History -- 15th century -- Fiction;Rais, Gilles de, 1404-1440 -- Fiction;Satanism -- Fiction;Paranormal fiction",
-      "title": "L\ufffd-bas",
+      "title": "L\u00e0-bas",
       "type": "Text",
       "author": {
         "birth": 1848,
@@ -43215,7 +43215,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PT",
       "languages": "de",
       "subjects": "",
-      "title": "Bahnw\ufffdrter Thiel",
+      "title": "Bahnw\u00e4rter Thiel",
       "type": "Text",
       "author": {
         "birth": 1862,
@@ -45361,7 +45361,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PA",
       "languages": "en",
       "subjects": "Rome -- Fiction;Satire, Latin -- Translations into English",
-      "title": "The Satyricon \ufffd Volume 02: Dinner of Trimalchio",
+      "title": "The Satyricon \u2014 Volume 02: Dinner of Trimalchio",
       "type": "Text",
       "author": {
         "birth": 20,
@@ -45767,7 +45767,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "en",
       "subjects": "English drama;Historical drama;Timur, 1336-1405 -- Drama;Tragedies",
-      "title": "Tamburlaine the Great \ufffd Part 1",
+      "title": "Tamburlaine the Great \u2014 Part 1",
       "type": "Text",
       "author": {
         "birth": 1564,
@@ -46115,7 +46115,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "en",
       "subjects": "Conduct of life -- Fiction,Humorous stories,Germany -- Fiction,Satire,Clothing and dress -- Fiction,Philosophers -- Fiction,Didactic fiction",
-      "title": "Sartor Resartus: The Life and Opinions of Herr Teufelsdr\ufffdckh",
+      "title": "Sartor Resartus: The Life and Opinions of Herr Teufelsdr\u00f6ckh",
       "type": "Text",
       "author": {
         "birth": 1795,
@@ -48492,7 +48492,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PA",
       "languages": "en",
-      "subjects": "Abelard, Peter, 1079-1142 -- Correspondence;Love-letters;Authors, Latin (Medieval and modern) -- France -- Correspondence;H\ufffdlo\ufffdse, approximately 1095-1163 or 1164 -- Correspondence",
+      "subjects": "Abelard, Peter, 1079-1142 -- Correspondence;Love-letters;Authors, Latin (Medieval and modern) -- France -- Correspondence;H\u00e9lo\u00efse, approximately 1095-1163 or 1164 -- Correspondence",
       "title": "Letters of Abelard and Heloise: To which is prefix'd a particular account of their lives, amours, and misfortunes",
       "type": "Text",
       "author": {
@@ -50175,7 +50175,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PR",
       "languages": "en",
       "subjects": "Psychological fiction,Epistolary fiction,England -- Fiction,Young women -- Crimes against -- Fiction,Conflict of generations -- Fiction,Rape victims -- Fiction,Kidnapping victims -- Fiction",
-      "title": "Clarissa Harlowe; or the history of a young lady \ufffd Volume 1",
+      "title": "Clarissa Harlowe; or the history of a young lady \u2014 Volume 1",
       "type": "Text",
       "author": {
         "birth": 1689,
@@ -50349,7 +50349,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "",
       "languages": "fr",
       "subjects": "",
-      "title": "La chanson des vieux \ufffdpoux",
+      "title": "La chanson des vieux \u00e9poux",
       "type": "Text",
       "author": {
         "birth": 1850,
@@ -50581,7 +50581,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "JC",
       "languages": "en",
       "subjects": "Great Britain -- Politics and government -- 1760-1820;France -- History -- Revolution, 1789-1799 -- Causes;Burke, Edmund, 1729-1797. Reflections on the revolution in France;Political science",
-      "title": "The Writings of Thomas Paine \ufffd Volume 2 (1779-1792): The Rights of Man",
+      "title": "The Writings of Thomas Paine \u2014 Volume 2 (1779-1792): The Rights of Man",
       "type": "Text",
       "author": {
         "birth": 1737,
@@ -51566,7 +51566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "ML",
       "languages": "en",
-      "subjects": "Paganini, Nicol\ufffd, 1782-1840;Violinists -- Biography",
+      "subjects": "Paganini, Nicol\u00f2, 1782-1840;Violinists -- Biography",
       "title": "Nicolo Paganini: His Life and Work",
       "type": "Text",
       "author": {
@@ -51624,7 +51624,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PQ",
       "languages": "en",
-      "subjects": "Moli\ufffdre, 1622-1673 -- Translations into English;Hypochondria -- Drama;Comedies",
+      "subjects": "Moli\u00e8re, 1622-1673 -- Translations into English;Hypochondria -- Drama;Comedies",
       "title": "The Imaginary Invalid",
       "type": "Text",
       "author": {
@@ -53655,7 +53655,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "PT",
       "languages": "de",
       "subjects": "Unrequited love -- Fiction,Young men -- Germany -- Fiction,Germany -- Social life and customs -- Fiction",
-      "title": "Die Leiden des jungen Werther \ufffd Band 1",
+      "title": "Die Leiden des jungen Werther \u2014 Band 1",
       "type": "Text",
       "author": {
         "birth": 1749,
@@ -55394,7 +55394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
     "bibliography": {
       "congress classifications": "PQ",
       "languages": "fr",
-      "subjects": "Adventure stories;Revenge -- Fiction;France -- History -- 19th century -- Fiction;Pirates -- Fiction;Historical fiction;Prisoners -- Fiction;Dant\ufffds, Edmond (Fictitious character) -- Fiction",
+      "subjects": "Adventure stories;Revenge -- Fiction;France -- History -- 19th century -- Fiction;Pirates -- Fiction;Historical fiction;Prisoners -- Fiction;Dant\u00e8s, Edmond (Fictitious character) -- Fiction",
       "title": "Le comte de Monte-Cristo, Tome I",
       "type": "Text",
       "author": {
@@ -57889,7 +57889,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["classics"] = Sk.ffi.remapToPy([
       "congress classifications": "",
       "languages": "en",
       "subjects": "",
-      "title": "A Garden Diary: September 1899\ufffdSeptember 1900",
+      "title": "A Garden Diary: September 1899\u2014September 1900",
       "type": "Text",
       "author": {
         "birth": 1845,

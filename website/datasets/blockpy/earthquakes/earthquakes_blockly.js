@@ -3,7 +3,8 @@
 var earthquakes_INDEXES = [
     ["(None)", "(None)"],
     
-    ["location.name", "location.name"] 
+    ["location.name", "location.name"] ,
+    ["time.month", "time.month"] 
 ];
 
 var earthquakes_INDEX_VALUES = {
@@ -129,6 +130,11 @@ var earthquakes_INDEX_VALUES = {
         ["Western Indian-Antarctic Ridge", "Western Indian-Antarctic Ridge"] ,
         ["Western Xizang", "Western Xizang"] ,
         ["Wyoming", "Wyoming"] 
+    ],
+    "time.month": [
+        
+        ["7", "7"] ,
+        ["8", "8"] 
     ]
 }
 

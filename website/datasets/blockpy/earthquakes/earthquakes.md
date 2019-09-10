@@ -40,7 +40,7 @@ Earthquake records from around the world collected from the United States Geolog
 <tr>
     <td>id</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The unique name for this earthquake.</td>
     <td><code>"nc72666881"</code></td>
 </tr>
 
