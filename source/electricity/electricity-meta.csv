@@ -1,0 +1,53 @@
+Name,electricity,,,
+Version,1.0.0,,,
+Author,Dennis Kafura,,,
+Created,7/14/2019,,,
+Data File,electricity-corgis.csv,,,
+Overview,"This data set describes over 2000 U.S. electric utilities. Reported data for 2017 includes electrical generation, distribution, revenues, and customers.",,,
+Data Source,https://www.eia.gov/electricity/data/eia861/,,,
+Description,"The U.S. Energy Information Adminstration collects and curates self-reported information from energy utilities about energy production and usage in the United States. This data set contains information from over 2,000 U.S. utilities in 2017. The information includes sources of energy, its uses in different economic sectors, and the revenues obtained from the sale of electrical energy.",,,
+Tags,"elctricity,electric power, utilities, utility revenues",,,
+Acknowledgement,Image from: http://www.freepngclipart.com/free-png/76684-electric-power-transmission-high-electricity-overhead-voltage,,,
+row,utility,,,
+Row Explanation,Generation and distribution properties for a single utility, ,,
+Icon,power-line-icon.png,,,
+Splash,power-line-icon.png,,,
+Properties,Name,Type,Index,Description
+,Utility.Number,int,,Unique identifier for the utility.
+,Utility.Name,string,,Utility Name
+,Utility.State,string,x,"A two letter abbreviation for the name of the state (e.g., CA for California)"
+,Utility.Type,string,,"Business type (e.g, Municipal, Private, �)"
+,Demand.Summer Peak,float,,Peak demand in the summer measured in megawatts
+,Demand.Winter Peak,float,,Peak demand in the winter measured in megawatts
+,Sources.Generation,float,,Net generation of power measured in megawatt hours
+,Sources.Purchased,float,,Power purchased from other electric utilities measured in megawatt hours
+,Sources.Other,float,,"Power obtained from other sources (e.g., exchanged with other utilities) measured in megawatt hours"
+,Sources.Total,float,,Total power from all sources measured in megawatt hours
+,Uses.Retail,float,,Power sold on the retail market measured in megawatt hours
+,Uses.Resale,float,,Power sold to other utilities for resale measured in megawatt hours
+,Uses.No Charge,float,,Power furnished without charge measured in megawatt hours
+,Uses.Consumed,float,,Power consumed by the utility itself measured in megawatt hours
+,Uses.Losses,float,,Power losses of all kinds measured in megawatt hours
+,Uses.Total,float,,Total power used for all purposes measured in megawatt hours
+,Revenues.Retail,float,,Revenue from retail power sales measured in thousands of US dolllars
+,Revenue.Delivery,float,,Revenue from customers who delivered power measured in thousands of US dollars
+,Revenue.Resale,float,,Revenue from sale of power to other utilities for resale measured in thousands of US dollars
+,Revenue.Adjustments,float,,Revnue from credits or other adjustments measured in thousands of US dollars
+,Revenue.Transmission,float,,Revenue from transmission of power measured in thousands of US dollars
+,Revenue.Other,float,,Revenue of all other kinds measured in thousands of US dollars
+,Revenue.Total,float,,Total revenue from all sources measured in thousands of US dollars
+,Retail.Residential.Revenue,float,,Revenue from retail sales to residential customers measured in thousands of US dollars
+,Retail.Residential.Sales,float,,Power delivered to residential customers measured in meagawatt hours
+,Retail.Residential.Customers,float,,Number of residential customers
+,Retail.Commercial.Revenue,float,,Revenue from retail sales to commerical customers measured in thousands of US dollars
+,Retail.Commercial.Sales,float,,Power delivered to commercial customers measured in meagawatt hours
+,Retail.Commercial.Customers,float,,Number of commercial customers
+,Retail.Industrial.Revenue,float,,Revenue from retail sales to industrial customers measured in thousands of US dollars
+,Retail.Industrial.Sales,float,,Power delivered to industrial customers measured in meagawatt hours
+,Retail.Industrial.Customers,float,,Number of industrial customers
+,Retail.Transportation.Revenue,float,,Revenue from retail sales to transportation customers measured in thousands of US dollars
+,Retail.Transportation.Sales,float,,Power delivered to transportation customers measured in meagawatt hours
+,Retail.Transportation.Customers,float,,Number of transportation customers
+,Retail.Total.Revenue,float,,Total revenue from all retail customers measured in thousands of US dollars
+,Retail.Total.Sales,float,,Total power delivered to all retail customers measured in megawatt hours
+,Retail.Total.Customers,float,,Total number of retail customers

@@ -5,8 +5,7 @@ Created,6/1/2016
 Data File,election-corgis.csv
 Overview,A breakdown of how each county voted in the 2016 Presidential primaries.
 Data Source,http://www.cnn.com/election/primaries/counties/va/Dem
-Description,"Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.  
-"
+Description,"Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented."
 Tags,"politics, election, votes, counties, candidate"
 Row,result
 Row Explanation,$MISSING_FIELD
