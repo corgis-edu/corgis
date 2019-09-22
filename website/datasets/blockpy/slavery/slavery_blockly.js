@@ -101,14 +101,19 @@ Blockly.Blocks['slavery_get'] = {
     if (fieldExists) {
         inputGroup.removeField('INDEX_VALUE');
     }
-    if (index != undefined && index != '(None)') {
-        inputGroup.appendField(new Blockly.FieldDropdown(slavery_INDEX_VALUES[index]), 'INDEX_VALUE')
-        if (index_value != undefined) {
-            this.setFieldValue(index_value, 'INDEX_VALUE');
-        } else {
-            this.setFieldValue(slavery_INDEX_VALUES[index][0][0], 'INDEX_VALUE');
+    try {
+        if (index != undefined && index != '(None)') {
+            inputGroup.appendField(new Blockly.FieldDropdown(slavery_INDEX_VALUES[index]), 'INDEX_VALUE')
+            if (index_value != undefined) {
+                this.setFieldValue(index_value, 'INDEX_VALUE');
+            } else {
+                this.setFieldValue(slavery_INDEX_VALUES[index][0][0], 'INDEX_VALUE');
+            }
         }
-    }    
+    } catch (e) {
+        inputGroup.appendField(new Blockly.FieldLabel("Reset to fix the blocks"));
+        console.error(e);
+    }
   }
 };
 Blockly.Python['slavery_get'] = function(block) {

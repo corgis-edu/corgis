@@ -182,14 +182,19 @@ Blockly.Blocks['state_crime_get'] = {
     if (fieldExists) {
         inputGroup.removeField('INDEX_VALUE');
     }
-    if (index != undefined && index != '(None)') {
-        inputGroup.appendField(new Blockly.FieldDropdown(state_crime_INDEX_VALUES[index]), 'INDEX_VALUE')
-        if (index_value != undefined) {
-            this.setFieldValue(index_value, 'INDEX_VALUE');
-        } else {
-            this.setFieldValue(state_crime_INDEX_VALUES[index][0][0], 'INDEX_VALUE');
+    try {
+        if (index != undefined && index != '(None)') {
+            inputGroup.appendField(new Blockly.FieldDropdown(state_crime_INDEX_VALUES[index]), 'INDEX_VALUE')
+            if (index_value != undefined) {
+                this.setFieldValue(index_value, 'INDEX_VALUE');
+            } else {
+                this.setFieldValue(state_crime_INDEX_VALUES[index][0][0], 'INDEX_VALUE');
+            }
         }
-    }    
+    } catch (e) {
+        inputGroup.appendField(new Blockly.FieldLabel("Reset to fix the blocks"));
+        console.error(e);
+    }
   }
 };
 Blockly.Python['state_crime_get'] = function(block) {
