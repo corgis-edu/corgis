@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_score = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_score", arguments, 0, 0);
-        if (!("state_fragility" in blockpy._IMPORTED_DATASETS)) {
+        if (!("state_fragility" in blockpy._IMPORTED_COMPLETE_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["state_fragility"]);
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"]);
         }
     });
     

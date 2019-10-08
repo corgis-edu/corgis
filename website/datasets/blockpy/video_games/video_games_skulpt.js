@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_video_game = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_video_game", arguments, 0, 0);
-        if (!("video_games" in blockpy._IMPORTED_DATASETS)) {
+        if (!("video_games" in blockpy._IMPORTED_COMPLETE_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["video_games"]);
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_COMPLETE_DATASETS["video_games"]);
         }
     });
     

@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_dam = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_dam", arguments, 0, 0);
-        if (!("hydropower" in blockpy._IMPORTED_DATASETS)) {
+        if (!("hydropower" in blockpy._IMPORTED_COMPLETE_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["hydropower"]);
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_COMPLETE_DATASETS["hydropower"]);
         }
     });
     

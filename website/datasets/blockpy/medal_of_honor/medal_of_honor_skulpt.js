@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_awardee = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_awardee", arguments, 0, 0);
-        if (!("medal_of_honor" in blockpy._IMPORTED_DATASETS)) {
+        if (!("medal_of_honor" in blockpy._IMPORTED_COMPLETE_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["medal_of_honor"]);
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"]);
         }
     });
     
