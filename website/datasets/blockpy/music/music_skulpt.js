@@ -25,8 +25,15 @@ var $builtinmodule = function(name)
         }
         return Sk.ffi.remapToPy(data);
     });
-    
-    
+
+    mod.get_music = new Sk.builtin.func(function() {
+        Sk.builtin.pyCheckArgs("get_music", arguments, 0, 0);
+        if (!("music" in _IMPORTED_COMPLETE_DATASETS)) {
+            alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
+        } else {
+            return blockpy._IMPORTED_COMPLETE_DATASETS["music"];
+        }
+    });
     
     mod._tifa_definitions = new Sk.builtin.func(function() {
         return Sk.ffi.remapToPy({"type": "ModuleType",

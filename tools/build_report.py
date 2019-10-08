@@ -1,6 +1,5 @@
 from typing import *
 
-
 class BuildReport:
     def __init__(self, dataset: str, format: str, time: float,
                  created_files: List[str], result: str):

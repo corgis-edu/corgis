@@ -25,8 +25,15 @@ var $builtinmodule = function(name)
         }
         return Sk.ffi.remapToPy(data);
     });
-    
-    
+
+    mod.get_video_game = new Sk.builtin.func(function() {
+        Sk.builtin.pyCheckArgs("get_video_game", arguments, 0, 0);
+        if (!("video_games" in _IMPORTED_COMPLETE_DATASETS)) {
+            alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
+        } else {
+            return blockpy._IMPORTED_COMPLETE_DATASETS["video_games"];
+        }
+    });
     
     mod._tifa_definitions = new Sk.builtin.func(function() {
         return Sk.ffi.remapToPy({"type": "ModuleType",

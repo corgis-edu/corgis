@@ -25,8 +25,15 @@ var $builtinmodule = function(name)
         }
         return Sk.ffi.remapToPy(data);
     });
-    
-    
+
+    mod.get_book = new Sk.builtin.func(function() {
+        Sk.builtin.pyCheckArgs("get_book", arguments, 0, 0);
+        if (!("classics" in _IMPORTED_COMPLETE_DATASETS)) {
+            alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
+        } else {
+            return blockpy._IMPORTED_COMPLETE_DATASETS["classics"];
+        }
+    });
     
     mod._tifa_definitions = new Sk.builtin.func(function() {
         return Sk.ffi.remapToPy({"type": "ModuleType",
