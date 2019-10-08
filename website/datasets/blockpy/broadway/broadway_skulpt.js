@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_production = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_production", arguments, 0, 0);
-        if (!("broadway" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("broadway" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["broadway"];
+            return blockpy._IMPORTED_DATASETS["broadway"];
         }
     });
     

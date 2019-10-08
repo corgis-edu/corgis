@@ -4,8 +4,6 @@
     <list default="true" id="0d0cc7cb-05c9-4ef4-91cf-10f78d5671bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tools/build_formats/blockpy/skulpt.js" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_formats/blockpy/skulpt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/build_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/build_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/datasets/blockpy/aids/aids_skulpt.js" beforeDir="false" afterPath="$PROJECT_DIR$/website/datasets/blockpy/aids/aids_skulpt.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +230,7 @@
       <workItem from="1569333008729" duration="347000" />
       <workItem from="1569334302886" duration="132000" />
       <workItem from="1569943946847" duration="1461000" />
-      <workItem from="1570557637781" duration="876000" />
+      <workItem from="1570557637781" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="BlockPy stuff!">
       <created>1565060099266</created>

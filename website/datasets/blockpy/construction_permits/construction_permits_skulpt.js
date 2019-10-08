@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_permit = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_permit", arguments, 0, 0);
-        if (!("construction_permits" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("construction_permits" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["construction_permits"];
+            return blockpy._IMPORTED_DATASETS["construction_permits"];
         }
     });
     

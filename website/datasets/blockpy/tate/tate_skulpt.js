@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_artwork = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_artwork", arguments, 0, 0);
-        if (!("tate" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("tate" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["tate"];
+            return blockpy._IMPORTED_DATASETS["tate"];
         }
     });
     

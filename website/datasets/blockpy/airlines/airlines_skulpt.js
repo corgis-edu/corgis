@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_airports = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_airports", arguments, 0, 0);
-        if (!("airlines" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("airlines" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["airlines"];
+            return blockpy._IMPORTED_DATASETS["airlines"];
         }
     });
     

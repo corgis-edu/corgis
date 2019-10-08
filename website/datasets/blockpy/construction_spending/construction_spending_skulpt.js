@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_spending = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_spending", arguments, 0, 0);
-        if (!("construction_spending" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("construction_spending" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["construction_spending"];
+            return blockpy._IMPORTED_DATASETS["construction_spending"];
         }
     });
     

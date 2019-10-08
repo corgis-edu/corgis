@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_earthquake = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_earthquake", arguments, 0, 0);
-        if (!("earthquakes" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("earthquakes" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["earthquakes"];
+            return blockpy._IMPORTED_DATASETS["earthquakes"];
         }
     });
     

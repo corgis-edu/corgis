@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_turbines = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_turbines", arguments, 0, 0);
-        if (!("wind_turbines" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("wind_turbines" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["wind_turbines"];
+            return blockpy._IMPORTED_DATASETS["wind_turbines"];
         }
     });
     

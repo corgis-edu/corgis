@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_book = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_book", arguments, 0, 0);
-        if (!("publishers" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("publishers" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["publishers"];
+            return blockpy._IMPORTED_DATASETS["publishers"];
         }
     });
     

@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_skyscraper = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_skyscraper", arguments, 0, 0);
-        if (!("skyscrapers" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("skyscrapers" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["skyscrapers"];
+            return blockpy._IMPORTED_DATASETS["skyscrapers"];
         }
     });
     

@@ -28,10 +28,10 @@ var $builtinmodule = function(name)
 
     mod.get_record = new Sk.builtin.func(function() {
         Sk.builtin.pyCheckArgs("get_record", arguments, 0, 0);
-        if (!("food_access" in _IMPORTED_COMPLETE_DATASETS)) {
+        if (!("food_access" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_COMPLETE_DATASETS["food_access"];
+            return blockpy._IMPORTED_DATASETS["food_access"];
         }
     });
     
