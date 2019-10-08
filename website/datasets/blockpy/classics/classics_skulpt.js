@@ -31,7 +31,7 @@ var $builtinmodule = function(name)
         if (!("classics" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_DATASETS["classics"];
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["classics"]);
         }
     });
     

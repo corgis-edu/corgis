@@ -31,7 +31,7 @@ var $builtinmodule = function(name)
         if (!("construction_permits" in blockpy._IMPORTED_DATASETS)) {
             alert("This library has not finished loading yet. Please wait about 10 seconds and try again.")
         } else {
-            return blockpy._IMPORTED_DATASETS["construction_permits"];
+            return Sk.ffi.remapToPy(blockpy._IMPORTED_DATASETS["construction_permits"]);
         }
     });
     
