@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Facility"</code></td> 
+        <tr> <td><code>"Facility"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rating"</code></td> 
+        <tr> <td><code>"Rating"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Procedure"</code></td> 
+        <tr> <td><code>"Procedure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -164,7 +164,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -176,7 +176,7 @@ $(document).ready(function() {
              </td> 
              <td>Name of the hospital</td> </tr>
         
-        <tr> <td><code>"City"</code></td> 
+        <tr> <td><code>"City"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -188,7 +188,7 @@ $(document).ready(function() {
              </td> 
              <td>City in which the hospital is located</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -200,7 +200,7 @@ $(document).ready(function() {
              </td> 
              <td>Two letter capitalized abbreviation of the State in which the hospital is located (e.g., AZ is Arizona)</td> </tr>
         
-        <tr> <td><code>"Type"</code></td> 
+        <tr> <td><code>"Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -265,7 +265,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Overall"</code></td> 
+        <tr> <td><code>"Overall"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -277,7 +277,7 @@ $(document).ready(function() {
              </td> 
              <td>Overall rating between 1 and 5 stars, with 5 stars being the highest rating; -1 represents no rating.</td> </tr>
         
-        <tr> <td><code>"Mortality"</code></td> 
+        <tr> <td><code>"Mortality"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -289,7 +289,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital mortality </td> </tr>
         
-        <tr> <td><code>"Safety"</code></td> 
+        <tr> <td><code>"Safety"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -301,7 +301,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital safety </td> </tr>
         
-        <tr> <td><code>"Readmission"</code></td> 
+        <tr> <td><code>"Readmission"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -313,7 +313,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital readmission </td> </tr>
         
-        <tr> <td><code>"Experience"</code></td> 
+        <tr> <td><code>"Experience"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -325,7 +325,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital patience experience </td> </tr>
         
-        <tr> <td><code>"Effectiveness"</code></td> 
+        <tr> <td><code>"Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -337,7 +337,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital effectiveness of care </td> </tr>
         
-        <tr> <td><code>"Timeliness"</code></td> 
+        <tr> <td><code>"Timeliness"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -349,7 +349,7 @@ $(document).ready(function() {
              </td> 
              <td>Above, Same, Below, or Unknown comparison to national hospital timeliness of care </td> </tr>
         
-        <tr> <td><code>"Imaging"</code></td> 
+        <tr> <td><code>"Imaging"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -446,7 +446,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Procedure.Heart Attack"</code></td> 
+        <tr> <td><code>"Heart Attack"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -458,7 +458,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Procedure.Heart Failure"</code></td> 
+        <tr> <td><code>"Heart Failure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -470,7 +470,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Procedure.Pneumonia"</code></td> 
+        <tr> <td><code>"Pneumonia"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -482,7 +482,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Procedure.Hip Knee"</code></td> 
+        <tr> <td><code>"Hip Knee"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -547,7 +547,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Cost"</code></td> 
+        <tr> <td><code>"Cost"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -559,7 +559,7 @@ $(document).ready(function() {
              </td> 
              <td>Average cost of care for heart attacks</td> </tr>
         
-        <tr> <td><code>"Quality"</code></td> 
+        <tr> <td><code>"Quality"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -571,7 +571,7 @@ $(document).ready(function() {
              </td> 
              <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks </td> </tr>
         
-        <tr> <td><code>"Value"</code></td> 
+        <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -628,7 +628,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Cost"</code></td> 
+        <tr> <td><code>"Cost"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -640,7 +640,7 @@ $(document).ready(function() {
              </td> 
              <td>Average cost of care for heart failure</td> </tr>
         
-        <tr> <td><code>"Quality"</code></td> 
+        <tr> <td><code>"Quality"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -652,7 +652,7 @@ $(document).ready(function() {
              </td> 
              <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures </td> </tr>
         
-        <tr> <td><code>"Value"</code></td> 
+        <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -709,7 +709,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Cost"</code></td> 
+        <tr> <td><code>"Cost"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -721,7 +721,7 @@ $(document).ready(function() {
              </td> 
              <td>Average cost of care for pneumonia</td> </tr>
         
-        <tr> <td><code>"Quality"</code></td> 
+        <tr> <td><code>"Quality"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -733,7 +733,7 @@ $(document).ready(function() {
              </td> 
              <td>Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia </td> </tr>
         
-        <tr> <td><code>"Value"</code></td> 
+        <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -790,7 +790,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Cost"</code></td> 
+        <tr> <td><code>"Cost"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -802,7 +802,7 @@ $(document).ready(function() {
              </td> 
              <td>Average cost of care for hip or knee conditions</td> </tr>
         
-        <tr> <td><code>"Quality"</code></td> 
+        <tr> <td><code>"Quality"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -814,7 +814,7 @@ $(document).ready(function() {
              </td> 
              <td>Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions </td> </tr>
         
-        <tr> <td><code>"Value"</code></td> 
+        <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 

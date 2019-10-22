@@ -20,8 +20,7 @@ style: dataset
 
 # Overview
 
-Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.  
-
+Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.
 
 
 <http://www.cnn.com/election/primaries/counties/va/Dem>
@@ -84,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Location"</code></td> 
+        <tr> <td><code>"Location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -96,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data"</code></td> 
+        <tr> <td><code>"Vote Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -145,7 +144,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"County"</code></td> 
+        <tr> <td><code>"County"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -157,7 +156,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -169,7 +168,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"State Abbreviation"</code></td> 
+        <tr> <td><code>"State Abbreviation"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -226,7 +225,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Vote Data.Ben Carson"</code></td> 
+        <tr> <td><code>"Ben Carson"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -238,7 +237,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Bernie Sanders"</code></td> 
+        <tr> <td><code>"Bernie Sanders"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -250,7 +249,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Carly Fiorina"</code></td> 
+        <tr> <td><code>"Carly Fiorina"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -262,7 +261,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Chris Christie"</code></td> 
+        <tr> <td><code>"Chris Christie"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -274,7 +273,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Donald Trump"</code></td> 
+        <tr> <td><code>"Donald Trump"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -286,7 +285,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Hillary Clinton"</code></td> 
+        <tr> <td><code>"Hillary Clinton"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -298,7 +297,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Jeb Bush"</code></td> 
+        <tr> <td><code>"Jeb Bush"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -310,7 +309,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.John Kasich"</code></td> 
+        <tr> <td><code>"John Kasich"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -322,7 +321,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Marco Rubio"</code></td> 
+        <tr> <td><code>"Marco Rubio"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -334,7 +333,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Martin O'Malley"</code></td> 
+        <tr> <td><code>"Martin O'Malley"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -346,7 +345,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Mike Huckabee"</code></td> 
+        <tr> <td><code>"Mike Huckabee"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -358,7 +357,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.No Preference"</code></td> 
+        <tr> <td><code>"No Preference"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -370,7 +369,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Rand Paul"</code></td> 
+        <tr> <td><code>"Rand Paul"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -382,7 +381,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Rick Santorum"</code></td> 
+        <tr> <td><code>"Rick Santorum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -394,7 +393,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Ted Cruz"</code></td> 
+        <tr> <td><code>"Ted Cruz"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -406,7 +405,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Vote Data.Uncommitted"</code></td> 
+        <tr> <td><code>"Uncommitted"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -567,7 +566,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -579,7 +578,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -591,7 +590,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -648,7 +647,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -660,7 +659,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -672,7 +671,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -729,7 +728,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -741,7 +740,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -753,7 +752,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -810,7 +809,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -822,7 +821,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -834,7 +833,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -891,7 +890,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -903,7 +902,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -915,7 +914,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -972,7 +971,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -984,7 +983,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -996,7 +995,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1053,7 +1052,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1065,7 +1064,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1077,7 +1076,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1134,7 +1133,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1146,7 +1145,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1158,7 +1157,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1215,7 +1214,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1227,7 +1226,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1239,7 +1238,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1296,7 +1295,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1308,7 +1307,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1320,7 +1319,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1377,7 +1376,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1389,7 +1388,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1401,7 +1400,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1458,7 +1457,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1470,7 +1469,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1482,7 +1481,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1539,7 +1538,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1551,7 +1550,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1563,7 +1562,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1620,7 +1619,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1632,7 +1631,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1644,7 +1643,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1701,7 +1700,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1713,7 +1712,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1725,7 +1724,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1782,7 +1781,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number of Votes"</code></td> 
+        <tr> <td><code>"Number of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1794,7 +1793,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Party"</code></td> 
+        <tr> <td><code>"Party"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -1806,7 +1805,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Percent of Votes"</code></td> 
+        <tr> <td><code>"Percent of Votes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

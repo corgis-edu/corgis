@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"artist"</code></td> 
+        <tr> <td><code>"artist"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"release"</code></td> 
+        <tr> <td><code>"release"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"song"</code></td> 
+        <tr> <td><code>"song"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -165,7 +165,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"familiarity"</code></td> 
+        <tr> <td><code>"familiarity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -177,7 +177,7 @@ $(document).ready(function() {
              </td> 
              <td>A measure of 0..1 for how familiar the artist is to listeners.</td> </tr>
         
-        <tr> <td><code>"hotttnesss"</code></td> 
+        <tr> <td><code>"hotttnesss"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -189,7 +189,7 @@ $(document).ready(function() {
              </td> 
              <td>A measure of the artists's popularity, when downloaded (in December 2010). Measured on a scale of 0 to 1.</td> </tr>
         
-        <tr> <td><code>"id"</code></td> 
+        <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -201,7 +201,7 @@ $(document).ready(function() {
              </td> 
              <td>A unique ID for this artist.</td> </tr>
         
-        <tr> <td><code>"latitude"</code></td> 
+        <tr> <td><code>"latitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -213,7 +213,7 @@ $(document).ready(function() {
              </td> 
              <td>The home location's latitude of this artist.</td> </tr>
         
-        <tr> <td><code>"location"</code></td> 
+        <tr> <td><code>"location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -225,7 +225,7 @@ $(document).ready(function() {
              </td> 
              <td>Unknown.</td> </tr>
         
-        <tr> <td><code>"longitude"</code></td> 
+        <tr> <td><code>"longitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -237,7 +237,7 @@ $(document).ready(function() {
              </td> 
              <td>The home location's longitude of this artist.</td> </tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -249,7 +249,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the artist.</td> </tr>
         
-        <tr> <td><code>"similar"</code></td> 
+        <tr> <td><code>"similar"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -261,7 +261,7 @@ $(document).ready(function() {
              </td> 
              <td>Unknown.</td> </tr>
         
-        <tr> <td><code>"terms"</code></td> 
+        <tr> <td><code>"terms"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -273,7 +273,7 @@ $(document).ready(function() {
              </td> 
              <td>The term most associated with this artist.</td> </tr>
         
-        <tr> <td><code>"terms_freq"</code></td> 
+        <tr> <td><code>"terms_freq"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -386,7 +386,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"id"</code></td> 
+        <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -398,7 +398,7 @@ $(document).ready(function() {
              </td> 
              <td>The ID of the release (album) on the service 7digital.com</td> </tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"artist_mbtags"</code></td> 
+        <tr> <td><code>"artist_mbtags"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>Unknown field.</td> </tr>
         
-        <tr> <td><code>"artist_mbtags_count"</code></td> 
+        <tr> <td><code>"artist_mbtags_count"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -471,7 +471,7 @@ $(document).ready(function() {
              </td> 
              <td>Number of tags for the artist on mbtags.</td> </tr>
         
-        <tr> <td><code>"bars_confidence"</code></td> 
+        <tr> <td><code>"bars_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -483,7 +483,7 @@ $(document).ready(function() {
              </td> 
              <td>Confidence value (between 0 and 1) associated with each bar.</td> </tr>
         
-        <tr> <td><code>"bars_start"</code></td> 
+        <tr> <td><code>"bars_start"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -495,7 +495,7 @@ $(document).ready(function() {
              </td> 
              <td>Average start time of each bar, measured in bars.</td> </tr>
         
-        <tr> <td><code>"beats_confidence"</code></td> 
+        <tr> <td><code>"beats_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -507,7 +507,7 @@ $(document).ready(function() {
              </td> 
              <td>Average confidence interval of the beats.</td> </tr>
         
-        <tr> <td><code>"beats_start"</code></td> 
+        <tr> <td><code>"beats_start"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -519,7 +519,7 @@ $(document).ready(function() {
              </td> 
              <td>Average start time of each beat, measured in beats.</td> </tr>
         
-        <tr> <td><code>"duration"</code></td> 
+        <tr> <td><code>"duration"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -531,7 +531,7 @@ $(document).ready(function() {
              </td> 
              <td>Duration of the track in seconds.</td> </tr>
         
-        <tr> <td><code>"end_of_fade_in"</code></td> 
+        <tr> <td><code>"end_of_fade_in"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -543,7 +543,7 @@ $(document).ready(function() {
              </td> 
              <td>Time of the end of the fade in, at the beginning of the song.</td> </tr>
         
-        <tr> <td><code>"hotttnesss"</code></td> 
+        <tr> <td><code>"hotttnesss"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -555,7 +555,7 @@ $(document).ready(function() {
              </td> 
              <td>A measure of the song's popularity, when downloaded (in December 2010). Measured on a scale of 0 to 1.</td> </tr>
         
-        <tr> <td><code>"id"</code></td> 
+        <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -567,7 +567,7 @@ $(document).ready(function() {
              </td> 
              <td>A uniquely identifying number for the song.</td> </tr>
         
-        <tr> <td><code>"key"</code></td> 
+        <tr> <td><code>"key"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -579,7 +579,7 @@ $(document).ready(function() {
              </td> 
              <td>Estimation of the key the song is in. Keys can be from 0 to 11.</td> </tr>
         
-        <tr> <td><code>"key_confidence"</code></td> 
+        <tr> <td><code>"key_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -591,7 +591,7 @@ $(document).ready(function() {
              </td> 
              <td>Confidence value (between 0 and 1) of the key estimation.</td> </tr>
         
-        <tr> <td><code>"loudness"</code></td> 
+        <tr> <td><code>"loudness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -603,7 +603,7 @@ $(document).ready(function() {
              </td> 
              <td>General loudness of the track</td> </tr>
         
-        <tr> <td><code>"mode"</code></td> 
+        <tr> <td><code>"mode"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -615,7 +615,7 @@ $(document).ready(function() {
              </td> 
              <td>Estimation of the mode the song.</td> </tr>
         
-        <tr> <td><code>"mode_confidence"</code></td> 
+        <tr> <td><code>"mode_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -627,7 +627,7 @@ $(document).ready(function() {
              </td> 
              <td>Confidence value (between 0 and 1) of the mode estimation.</td> </tr>
         
-        <tr> <td><code>"start_of_fade_out"</code></td> 
+        <tr> <td><code>"start_of_fade_out"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -639,7 +639,7 @@ $(document).ready(function() {
              </td> 
              <td>Start time of the fade out, in seconds, at the end of the song.</td> </tr>
         
-        <tr> <td><code>"tatums_confidence"</code></td> 
+        <tr> <td><code>"tatums_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -651,7 +651,7 @@ $(document).ready(function() {
              </td> 
              <td>Confidence value (between 0 and 1) associated with each tatum.</td> </tr>
         
-        <tr> <td><code>"tatums_start"</code></td> 
+        <tr> <td><code>"tatums_start"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -663,7 +663,7 @@ $(document).ready(function() {
              </td> 
              <td>Average start time of each tatum, measured in tatums.</td> </tr>
         
-        <tr> <td><code>"tempo"</code></td> 
+        <tr> <td><code>"tempo"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -675,7 +675,7 @@ $(document).ready(function() {
              </td> 
              <td>Tempo in BPM.</td> </tr>
         
-        <tr> <td><code>"time_signature"</code></td> 
+        <tr> <td><code>"time_signature"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -687,7 +687,7 @@ $(document).ready(function() {
              </td> 
              <td>Time signature of the song, i.e. usual number of beats per bar.</td> </tr>
         
-        <tr> <td><code>"time_signature_confidence"</code></td> 
+        <tr> <td><code>"time_signature_confidence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -699,7 +699,7 @@ $(document).ready(function() {
              </td> 
              <td>Confidence of the time signature estimation</td> </tr>
         
-        <tr> <td><code>"title"</code></td> 
+        <tr> <td><code>"title"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -711,7 +711,7 @@ $(document).ready(function() {
              </td> 
              <td>Name of the song.</td> </tr>
         
-        <tr> <td><code>"year"</code></td> 
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

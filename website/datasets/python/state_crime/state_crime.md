@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The long name of the state that this report was made for.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that this report was made in.</td> </tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -165,7 +165,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Population"</code></td> 
+        <tr> <td><code>"Population"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -177,7 +177,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people living in this state at the time the report was created.</td> </tr>
         
-        <tr> <td><code>"Data.Rates"</code></td> 
+        <tr> <td><code>"Rates"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -189,7 +189,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Totals"</code></td> 
+        <tr> <td><code>"Totals"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -246,7 +246,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Data.Rates.Property"</code></td> 
+        <tr> <td><code>"Property"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -258,7 +258,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Rates.Violent"</code></td> 
+        <tr> <td><code>"Violent"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -307,7 +307,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -319,7 +319,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects all of the Property-related crimes, including burglaries, larcenies, and motor crimes.</td> </tr>
         
-        <tr> <td><code>"Burglary"</code></td> 
+        <tr> <td><code>"Burglary"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -331,7 +331,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects the number of burglaries, or entry into a building illegally with intent to commit a crime, especially theft.</td> </tr>
         
-        <tr> <td><code>"Larceny"</code></td> 
+        <tr> <td><code>"Larceny"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -343,7 +343,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects the number of burglaries, or theft of personal property.</td> </tr>
         
-        <tr> <td><code>"Motor"</code></td> 
+        <tr> <td><code>"Motor"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -408,7 +408,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -420,7 +420,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects all of the Violent crimes, including assaults, murders, rapes, and robberies.</td> </tr>
         
-        <tr> <td><code>"Assault"</code></td> 
+        <tr> <td><code>"Assault"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -432,7 +432,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone made an attempt to initiate harmful or offensive contact with a person, or made a threat to do so.</td> </tr>
         
-        <tr> <td><code>"Murder"</code></td> 
+        <tr> <td><code>"Murder"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -444,7 +444,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone committed the unlawful killing of another human being without justification.</td> </tr>
         
-        <tr> <td><code>"Rape"</code></td> 
+        <tr> <td><code>"Rape"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -456,7 +456,7 @@ $(document).ready(function() {
              </td> 
              <td>Rates are the number of reported offenses per 100,000 population. This property reflects the number of crimes where someone committed rape. The FBI UCR definition of rape, before 2013, is the carnal knowledge of a female forcibly and against her will.</td> </tr>
         
-        <tr> <td><code>"Robbery"</code></td> 
+        <tr> <td><code>"Robbery"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -529,7 +529,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Data.Totals.Property"</code></td> 
+        <tr> <td><code>"Property"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -541,7 +541,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Totals.Violent"</code></td> 
+        <tr> <td><code>"Violent"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -590,7 +590,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -602,7 +602,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects all of the Property-related crimes, including burglaries, larcenies, and motor crimes.</td> </tr>
         
-        <tr> <td><code>"Burglary"</code></td> 
+        <tr> <td><code>"Burglary"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -614,7 +614,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects the number of burglaries, or entry into a building illegally with intent to commit a crime, especially theft.</td> </tr>
         
-        <tr> <td><code>"Larceny"</code></td> 
+        <tr> <td><code>"Larceny"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -626,7 +626,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects the number of burglaries, or theft of personal property.</td> </tr>
         
-        <tr> <td><code>"Motor"</code></td> 
+        <tr> <td><code>"Motor"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -691,7 +691,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -703,7 +703,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects all of the Violent crimes, including assaults, murders, rapes, and robberies.</td> </tr>
         
-        <tr> <td><code>"Assault"</code></td> 
+        <tr> <td><code>"Assault"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -715,7 +715,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects the number of crimes where someone made an attempt to initiate harmful or offensive contact with a person, or made a threat to do so.</td> </tr>
         
-        <tr> <td><code>"Murder"</code></td> 
+        <tr> <td><code>"Murder"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -727,7 +727,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects the number of crimes where someone committed the unlawful killing of another human being without justification.</td> </tr>
         
-        <tr> <td><code>"Rape"</code></td> 
+        <tr> <td><code>"Rape"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -739,7 +739,7 @@ $(document).ready(function() {
              </td> 
              <td>This property reflects the number of crimes where someone committed rape. The FBI UCR definition of rape, before 2013, is the carnal knowledge of a female forcibly and against her will.</td> </tr>
         
-        <tr> <td><code>"Robbery"</code></td> 
+        <tr> <td><code>"Robbery"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

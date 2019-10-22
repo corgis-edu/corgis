@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Country"</code></td> 
+        <tr> <td><code>"Country"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Metrics"</code></td> 
+        <tr> <td><code>"Metrics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -164,7 +164,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State Fragility Index"</code></td> 
+        <tr> <td><code>"State Fragility Index"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -176,7 +176,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Metrics.Effectiveness"</code></td> 
+        <tr> <td><code>"Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -188,7 +188,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Metrics.Legitimacy"</code></td> 
+        <tr> <td><code>"Legitimacy"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -245,7 +245,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Economic Effectiveness"</code></td> 
+        <tr> <td><code>"Economic Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -257,7 +257,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Effectiveness Score"</code></td> 
+        <tr> <td><code>"Effectiveness Score"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -269,7 +269,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Political Effectiveness"</code></td> 
+        <tr> <td><code>"Political Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -281,7 +281,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Security Effectiveness"</code></td> 
+        <tr> <td><code>"Security Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -293,7 +293,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Social Effectiveness"</code></td> 
+        <tr> <td><code>"Social Effectiveness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -366,7 +366,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Economic Legitimacy"</code></td> 
+        <tr> <td><code>"Economic Legitimacy"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -378,7 +378,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Legitimacy Score"</code></td> 
+        <tr> <td><code>"Legitimacy Score"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -390,7 +390,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Political Legitimacy"</code></td> 
+        <tr> <td><code>"Political Legitimacy"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -402,7 +402,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Security Legitimacy"</code></td> 
+        <tr> <td><code>"Security Legitimacy"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -414,7 +414,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Social Legitimacy"</code></td> 
+        <tr> <td><code>"Social Legitimacy"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

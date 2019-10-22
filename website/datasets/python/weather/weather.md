@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Date"</code></td> 
+        <tr> <td><code>"Date"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Station"</code></td> 
+        <tr> <td><code>"Station"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -164,7 +164,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Precipitation"</code></td> 
+        <tr> <td><code>"Precipitation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -176,7 +176,7 @@ $(document).ready(function() {
              </td> 
              <td>The average amount of rain, in inches.</td> </tr>
         
-        <tr> <td><code>"Data.Temperature"</code></td> 
+        <tr> <td><code>"Temperature"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -188,7 +188,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Wind"</code></td> 
+        <tr> <td><code>"Wind"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -245,7 +245,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Full"</code></td> 
+        <tr> <td><code>"Full"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -257,7 +257,7 @@ $(document).ready(function() {
              </td> 
              <td>A full string representation of the date this report was made.</td> </tr>
         
-        <tr> <td><code>"Month"</code></td> 
+        <tr> <td><code>"Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -269,7 +269,7 @@ $(document).ready(function() {
              </td> 
              <td>The month of the year that this report was made.</td> </tr>
         
-        <tr> <td><code>"Week of"</code></td> 
+        <tr> <td><code>"Week of"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -281,7 +281,7 @@ $(document).ready(function() {
              </td> 
              <td>The first day of the week that this report was made.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -346,7 +346,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"City"</code></td> 
+        <tr> <td><code>"City"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -358,7 +358,7 @@ $(document).ready(function() {
              </td> 
              <td>The city that the reporting station sends its data to. Note that the recording station itself might actually be in a different city.</td> </tr>
         
-        <tr> <td><code>"Code"</code></td> 
+        <tr> <td><code>"Code"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -370,7 +370,7 @@ $(document).ready(function() {
              </td> 
              <td>The unique code representing this station.</td> </tr>
         
-        <tr> <td><code>"Location"</code></td> 
+        <tr> <td><code>"Location"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -382,7 +382,7 @@ $(document).ready(function() {
              </td> 
              <td>The exact location of this recording station. Note that the recording station itself might be in a different location than where it sends its data.</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Avg Temp"</code></td> 
+        <tr> <td><code>"Avg Temp"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>The average recorded temperature on this week, in degrees Fahrenheit.</td> </tr>
         
-        <tr> <td><code>"Max Temp"</code></td> 
+        <tr> <td><code>"Max Temp"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -471,7 +471,7 @@ $(document).ready(function() {
              </td> 
              <td>The highest recorded temperature on this week, in degrees Fahrenheit.</td> </tr>
         
-        <tr> <td><code>"Min Temp"</code></td> 
+        <tr> <td><code>"Min Temp"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -528,7 +528,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Direction"</code></td> 
+        <tr> <td><code>"Direction"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -540,7 +540,7 @@ $(document).ready(function() {
              </td> 
              <td>The average wind direction for that week, in degrees.</td> </tr>
         
-        <tr> <td><code>"Speed"</code></td> 
+        <tr> <td><code>"Speed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

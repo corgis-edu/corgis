@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of a U.S. State (e.g., Virginia)</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates"</code></td> 
+        <tr> <td><code>"Rates"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types"</code></td> 
+        <tr> <td><code>"Types"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -184,7 +184,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rate"</code></td> 
+        <tr> <td><code>"Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -196,7 +196,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (Rate per 100,000 Population, 2007-2013) 214.2</td> </tr>
         
-        <tr> <td><code>"Number"</code></td> 
+        <tr> <td><code>"Number"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -208,7 +208,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (2007-2013)</td> </tr>
         
-        <tr> <td><code>"Population"</code></td> 
+        <tr> <td><code>"Population"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -265,7 +265,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Age"</code></td> 
+        <tr> <td><code>"Age"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -277,7 +277,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Age and Sex"</code></td> 
+        <tr> <td><code>"Age and Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -289,7 +289,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -301,7 +301,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Race and Sex"</code></td> 
+        <tr> <td><code>"Race and Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -366,7 +366,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"< 18"</code></td> 
+        <tr> <td><code>"< 18"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -378,7 +378,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (Under 18 Years, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"18-45"</code></td> 
+        <tr> <td><code>"18-45"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -390,7 +390,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (18 to 44 Years, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"45-64"</code></td> 
+        <tr> <td><code>"45-64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -402,7 +402,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (45 to 64 Years, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -467,7 +467,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Age and Sex.< 18"</code></td> 
+        <tr> <td><code>"< 18"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -479,7 +479,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Age and Sex.18 - 45"</code></td> 
+        <tr> <td><code>"18 - 45"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -491,7 +491,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Age and Sex.45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -503,7 +503,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Age and Sex.> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -568,7 +568,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -580,7 +580,7 @@ $(document).ready(function() {
              </td> 
              <td>Female under 18</td> </tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -629,7 +629,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -641,7 +641,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 18 - 45</td> </tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -690,7 +690,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -702,7 +702,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -751,7 +751,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -763,7 +763,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 65 Years and Over</td> </tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -812,7 +812,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -824,7 +824,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (White, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic"</code></td> 
+        <tr> <td><code>"White non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -836,7 +836,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (White non-Hispanic, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -848,7 +848,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (Black or African American, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -860,7 +860,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (Asian or Pacific Islander, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -872,7 +872,7 @@ $(document).ready(function() {
              </td> 
              <td>Total Cancer Deaths (American Indian or Alaska Native, Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -953,7 +953,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Race and Sex.Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -965,7 +965,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Race and Sex.Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1014,7 +1014,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1026,7 +1026,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: White</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic"</code></td> 
+        <tr> <td><code>"White non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1038,7 +1038,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: White non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1050,7 +1050,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: Black or African American</td> </tr>
         
-        <tr> <td><code>"Black non-Hispanic"</code></td> 
+        <tr> <td><code>"Black non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1062,7 +1062,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: Black or African American non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1074,7 +1074,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: Asian or Pacific Islander</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1086,7 +1086,7 @@ $(document).ready(function() {
              </td> 
              <td>Female: American Indian or Alaska Native</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1175,7 +1175,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1187,7 +1187,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: White</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic"</code></td> 
+        <tr> <td><code>"White non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1199,7 +1199,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: White non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1211,7 +1211,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: Black or African American</td> </tr>
         
-        <tr> <td><code>"Black non-Hispanic"</code></td> 
+        <tr> <td><code>"Black non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1223,7 +1223,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: Black or African American non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1235,7 +1235,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: Asian or Pacific Islander</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1247,7 +1247,7 @@ $(document).ready(function() {
              </td> 
              <td>Male: American Indian or Alaska Native</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1336,7 +1336,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Types.Breast"</code></td> 
+        <tr> <td><code>"Breast"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1348,7 +1348,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Colorectal"</code></td> 
+        <tr> <td><code>"Colorectal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1360,7 +1360,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Lung"</code></td> 
+        <tr> <td><code>"Lung"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1417,7 +1417,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1429,7 +1429,7 @@ $(document).ready(function() {
              </td> 
              <td>Breast Cancer Deaths (Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Types.Breast.Age"</code></td> 
+        <tr> <td><code>"Age"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1441,7 +1441,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Breast.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1498,7 +1498,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"18 - 44"</code></td> 
+        <tr> <td><code>"18 - 44"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1510,7 +1510,7 @@ $(document).ready(function() {
              </td> 
              <td>18 to 44 Years</td> </tr>
         
-        <tr> <td><code>"45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1522,7 +1522,7 @@ $(document).ready(function() {
              </td> 
              <td>45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1579,7 +1579,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1591,7 +1591,7 @@ $(document).ready(function() {
              </td> 
              <td>White</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic "</code></td> 
+        <tr> <td><code>"White non-Hispanic "</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1603,7 +1603,7 @@ $(document).ready(function() {
              </td> 
              <td>White non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1615,7 +1615,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American</td> </tr>
         
-        <tr> <td><code>"Black non-Hispanic"</code></td> 
+        <tr> <td><code>"Black non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1627,7 +1627,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1639,7 +1639,7 @@ $(document).ready(function() {
              </td> 
              <td>Asian or Pacific Islander</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1651,7 +1651,7 @@ $(document).ready(function() {
              </td> 
              <td>American Indian or Alaska Native</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1740,7 +1740,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1752,7 +1752,7 @@ $(document).ready(function() {
              </td> 
              <td>Colorectal Cancer Deaths (Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Types.Colorectal.Age and Sex"</code></td> 
+        <tr> <td><code>"Age and Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1764,7 +1764,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Colorectal.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1821,7 +1821,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Types.Colorectal.Age and Sex.Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1833,7 +1833,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Colorectal.Age and Sex.Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1882,7 +1882,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"18 - 44"</code></td> 
+        <tr> <td><code>"18 - 44"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1894,7 +1894,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 18 to 44 Years</td> </tr>
         
-        <tr> <td><code>"45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1906,7 +1906,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1963,7 +1963,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"18 - 44"</code></td> 
+        <tr> <td><code>"18 - 44"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1975,7 +1975,7 @@ $(document).ready(function() {
              </td> 
              <td>Male 18 to 44 Years</td> </tr>
         
-        <tr> <td><code>"45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1987,7 +1987,7 @@ $(document).ready(function() {
              </td> 
              <td>Male 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2044,7 +2044,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2056,7 +2056,7 @@ $(document).ready(function() {
              </td> 
              <td>White</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic"</code></td> 
+        <tr> <td><code>"White non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2068,7 +2068,7 @@ $(document).ready(function() {
              </td> 
              <td>White non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2080,7 +2080,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American</td> </tr>
         
-        <tr> <td><code>"Black non-Hispanic"</code></td> 
+        <tr> <td><code>"Black non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2092,7 +2092,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2104,7 +2104,7 @@ $(document).ready(function() {
              </td> 
              <td>Asian or Pacific Islander</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2116,7 +2116,7 @@ $(document).ready(function() {
              </td> 
              <td>American Indian or Alaska Native</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2205,7 +2205,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2217,7 +2217,7 @@ $(document).ready(function() {
              </td> 
              <td>Lung Cancer Deaths (Rate per 100,000 Population, 2007-2013)</td> </tr>
         
-        <tr> <td><code>"Types.Lung.Age and Sex"</code></td> 
+        <tr> <td><code>"Age and Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2229,7 +2229,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Lung.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2286,7 +2286,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Types.Lung.Age and Sex.Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2298,7 +2298,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Types.Lung.Age and Sex.Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2347,7 +2347,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"18 - 44"</code></td> 
+        <tr> <td><code>"18 - 44"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2359,7 +2359,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 18 to 44 Years</td> </tr>
         
-        <tr> <td><code>"45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2371,7 +2371,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2428,7 +2428,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"18 - 44"</code></td> 
+        <tr> <td><code>"18 - 44"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2440,7 +2440,7 @@ $(document).ready(function() {
              </td> 
              <td>Male 18 to 44 Years</td> </tr>
         
-        <tr> <td><code>"45 - 64"</code></td> 
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2452,7 +2452,7 @@ $(document).ready(function() {
              </td> 
              <td>Male 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"> 64"</code></td> 
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2509,7 +2509,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2521,7 +2521,7 @@ $(document).ready(function() {
              </td> 
              <td>White</td> </tr>
         
-        <tr> <td><code>"White non-Hispanic"</code></td> 
+        <tr> <td><code>"White non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2533,7 +2533,7 @@ $(document).ready(function() {
              </td> 
              <td>White non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2545,7 +2545,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American</td> </tr>
         
-        <tr> <td><code>"Black non-Hispanic"</code></td> 
+        <tr> <td><code>"Black non-Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2557,7 +2557,7 @@ $(document).ready(function() {
              </td> 
              <td>Black or African American non-Hispanic</td> </tr>
         
-        <tr> <td><code>"Asian"</code></td> 
+        <tr> <td><code>"Asian"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2569,7 +2569,7 @@ $(document).ready(function() {
              </td> 
              <td>Asian or Pacific Islander</td> </tr>
         
-        <tr> <td><code>"Indigenous"</code></td> 
+        <tr> <td><code>"Indigenous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2581,7 +2581,7 @@ $(document).ready(function() {
              </td> 
              <td>American Indian or Alaska Native</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The state that this report was created for.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that this report was created for.</td> </tr>
         
-        <tr> <td><code>"Population"</code></td> 
+        <tr> <td><code>"Population"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates"</code></td> 
+        <tr> <td><code>"Rates"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -132,7 +132,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals"</code></td> 
+        <tr> <td><code>"Totals"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -205,7 +205,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -217,7 +217,7 @@ $(document).ready(function() {
              </td> 
              <td>Estimated population for this age group (12 to 17 year olds) in this year from US Census data for this state.</td> </tr>
         
-        <tr> <td><code>"12-20"</code></td> 
+        <tr> <td><code>"12-20"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -229,7 +229,7 @@ $(document).ready(function() {
              </td> 
              <td>Estimated population for this age group (12 to 20 year olds) in this year from US Census data for this state.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -241,7 +241,7 @@ $(document).ready(function() {
              </td> 
              <td>Estimated population for this age group (18 to 25 year olds) in this year from US Census data for this state.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -306,7 +306,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Pain Relievers Abuse Past Year"</code></td> 
+        <tr> <td><code>"Pain Relievers Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -318,7 +318,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol"</code></td> 
+        <tr> <td><code>"Alcohol"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -330,7 +330,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs"</code></td> 
+        <tr> <td><code>"Illicit Drugs"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -342,7 +342,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Marijuana"</code></td> 
+        <tr> <td><code>"Marijuana"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -354,7 +354,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Tobacco"</code></td> 
+        <tr> <td><code>"Tobacco"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -427,7 +427,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -439,7 +439,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used pain-relievers in the past year for non-medical purposes, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -451,7 +451,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used pain-relievers in the past year for non-medical purposes, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -508,7 +508,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Totals.Pain Relievers Abuse Past Year"</code></td> 
+        <tr> <td><code>"Pain Relievers Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -520,7 +520,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol"</code></td> 
+        <tr> <td><code>"Alcohol"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -532,7 +532,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs"</code></td> 
+        <tr> <td><code>"Illicit Drugs"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -544,7 +544,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Marijuana"</code></td> 
+        <tr> <td><code>"Marijuana"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -556,7 +556,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Tobacco"</code></td> 
+        <tr> <td><code>"Tobacco"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -629,7 +629,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -641,7 +641,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used pain-relievers in the past year for non-medical purposes, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -653,7 +653,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used pain-relievers in the past year for non-medical purposes, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -710,7 +710,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Alcohol.Abuse Past Year"</code></td> 
+        <tr> <td><code>"Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -722,7 +722,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.Binge Past Month"</code></td> 
+        <tr> <td><code>"Binge Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -734,7 +734,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.Dependence Past Year"</code></td> 
+        <tr> <td><code>"Dependence Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -746,7 +746,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.In Minors"</code></td> 
+        <tr> <td><code>"In Minors"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -758,7 +758,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.Need Treatment Past Year"</code></td> 
+        <tr> <td><code>"Need Treatment Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -770,7 +770,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -782,7 +782,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Alcohol.Use Past Month"</code></td> 
+        <tr> <td><code>"Use Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -871,7 +871,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -883,7 +883,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on or abused alcohol in the past year among this age group. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -895,7 +895,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on or abused alcohol in the past year among this age group. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -952,7 +952,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -964,7 +964,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has binged on alcohol in the past month among this age group. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -976,7 +976,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has binged on alcohol in the past month among this age group. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1033,7 +1033,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1045,7 +1045,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on alcohol in the past year among this age group. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1057,7 +1057,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on alcohol in the past year among this age group. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1114,7 +1114,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Abuse"</code></td> 
+        <tr> <td><code>"Abuse"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1126,7 +1126,7 @@ $(document).ready(function() {
              </td> 
              <td>The percentage of the population of minors (12-20 years old) who have binged alcohol in the past month. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"Use"</code></td> 
+        <tr> <td><code>"Use"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1175,7 +1175,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1187,7 +1187,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has needs but has not recieved treatment for alcohol use in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for alcohol, but not receiving treatment for an alcohol problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1199,7 +1199,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has needs but has not recieved treatment for alcohol use in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for alcohol, but not receiving treatment for an alcohol problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1256,7 +1256,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1268,7 +1268,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives of great risk in having five or more drinks of an alcoholic beverage once or twice a week, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1280,7 +1280,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives of great risk in having five or more drinks of an alcoholic beverage once or twice a week, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1337,7 +1337,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1349,7 +1349,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used alcohol in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1361,7 +1361,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used alcohol in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1418,7 +1418,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.Abuse Past Year"</code></td> 
+        <tr> <td><code>"Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1430,7 +1430,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.All Except Marijuana Used Past Month"</code></td> 
+        <tr> <td><code>"All Except Marijuana Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1442,7 +1442,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.Cocaine Used Past Year"</code></td> 
+        <tr> <td><code>"Cocaine Used Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1454,7 +1454,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.Dependence Past Year"</code></td> 
+        <tr> <td><code>"Dependence Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1466,7 +1466,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.Need Treatment Past Year"</code></td> 
+        <tr> <td><code>"Need Treatment Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1478,7 +1478,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Illicit Drugs.Used Past Month"</code></td> 
+        <tr> <td><code>"Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1559,7 +1559,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1571,7 +1571,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on or abuse illicit drugs in the past year. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1583,7 +1583,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on or abuse illicit drugs in the past year. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1640,7 +1640,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1652,7 +1652,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used illicit drugs (except Marijuana) in the past month among this age group. Illicit Drugs Other Than Marijuana include cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1664,7 +1664,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used illicit drugs (except Marijuana) in the past month among this age group. Illicit Drugs Other Than Marijuana include cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1721,7 +1721,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1733,7 +1733,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Cocaine in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1745,7 +1745,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Cocaine in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1802,7 +1802,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1814,7 +1814,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on illicit drugs in the past year in this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used non-medically. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1826,7 +1826,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has a dependence on illicit drugs in the past year in this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used non-medically. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1883,7 +1883,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1895,7 +1895,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that needs but has not received treatment for illicit drugs in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for illicit drugs, but not receiving treatment for an illicit drug problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers). Illicit Drugs include marijuana/hashish, cocaine (including crack), inhalants, hallucinogens, heroin, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1907,7 +1907,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that needs but has not received treatment for illicit drugs in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for illicit drugs, but not receiving treatment for an illicit drug problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers). Illicit Drugs include marijuana/hashish, cocaine (including crack), inhalants, hallucinogens, heroin, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1964,7 +1964,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1976,7 +1976,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used illicit drugs in the past month among this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1988,7 +1988,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used illicit drugs in the past month among this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2045,7 +2045,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Marijuana.New Users"</code></td> 
+        <tr> <td><code>"New Users"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2057,7 +2057,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Marijuana.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2069,7 +2069,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Marijuana.Used Past Month"</code></td> 
+        <tr> <td><code>"Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2081,7 +2081,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Marijuana.Used Past Year"</code></td> 
+        <tr> <td><code>"Used Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2146,7 +2146,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2158,7 +2158,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2170,7 +2170,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2227,7 +2227,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2239,7 +2239,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives great risk in Smoking Marijuana once a month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2251,7 +2251,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives great risk in Smoking Marijuana once a month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2308,7 +2308,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2320,7 +2320,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Marijuana in the past month among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2332,7 +2332,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Marijuana in the past month among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2389,7 +2389,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2401,7 +2401,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2413,7 +2413,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2470,7 +2470,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rates.Tobacco.Cigarette Past Month"</code></td> 
+        <tr> <td><code>"Cigarette Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2482,7 +2482,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Tobacco.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2494,7 +2494,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rates.Tobacco.Use Past Month"</code></td> 
+        <tr> <td><code>"Use Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2551,7 +2551,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2563,7 +2563,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2575,7 +2575,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2632,7 +2632,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2644,7 +2644,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives great risk in smoking one or more packs of cigarettes per day, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2656,7 +2656,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that perceives great risk in smoking one or more packs of cigarettes per day, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2713,7 +2713,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2725,7 +2725,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2737,7 +2737,7 @@ $(document).ready(function() {
              </td> 
              <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2794,7 +2794,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Totals.Alcohol.Abuse Past Year"</code></td> 
+        <tr> <td><code>"Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2806,7 +2806,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.Binge Past Month"</code></td> 
+        <tr> <td><code>"Binge Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2818,7 +2818,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.Dependence Past Year"</code></td> 
+        <tr> <td><code>"Dependence Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2830,7 +2830,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.In Minors"</code></td> 
+        <tr> <td><code>"In Minors"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2842,7 +2842,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.Need Treatment Past Year"</code></td> 
+        <tr> <td><code>"Need Treatment Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2854,7 +2854,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2866,7 +2866,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Alcohol.Use Past Month"</code></td> 
+        <tr> <td><code>"Use Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2955,7 +2955,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2967,7 +2967,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on or abused alcohol in the past year among this age group. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2979,7 +2979,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on or abused alcohol in the past year among this age group. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3036,7 +3036,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3048,7 +3048,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have binged on alcohol in the past month among this age group. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3060,7 +3060,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have binged on alcohol in the past month among this age group. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3117,7 +3117,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3129,7 +3129,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on alcohol in the past year among this age group. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3141,7 +3141,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on alcohol in the past year among this age group. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3198,7 +3198,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Abuse"</code></td> 
+        <tr> <td><code>"Abuse"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3210,7 +3210,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of minors (12-20 years old) who have binged alcohol in the past month. Binge Alcohol Use is defined as drinking five or more drinks on the same occasion (i.e., at the same time or within a couple of hours of each other) on at least 1 day in the past 30 days.</td> </tr>
         
-        <tr> <td><code>"Use"</code></td> 
+        <tr> <td><code>"Use"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3259,7 +3259,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3271,7 +3271,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have needs but has not recieved treatment for alcohol use in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for alcohol, but not receiving treatment for an alcohol problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3283,7 +3283,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have needs but has not recieved treatment for alcohol use in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for alcohol, but not receiving treatment for an alcohol problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3340,7 +3340,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3352,7 +3352,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive of great risk in having five or more drinks of an alcoholic beverage once or twice a week, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3364,7 +3364,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive of great risk in having five or more drinks of an alcoholic beverage once or twice a week, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3421,7 +3421,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3433,7 +3433,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used alcohol in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3445,7 +3445,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used alcohol in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3502,7 +3502,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.Abuse Past Year"</code></td> 
+        <tr> <td><code>"Abuse Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3514,7 +3514,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.All Except Marijuana Used Past Month"</code></td> 
+        <tr> <td><code>"All Except Marijuana Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3526,7 +3526,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.Cocaine Used Past Year"</code></td> 
+        <tr> <td><code>"Cocaine Used Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3538,7 +3538,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.Dependence Past Year"</code></td> 
+        <tr> <td><code>"Dependence Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3550,7 +3550,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.Need Treatment Past Year"</code></td> 
+        <tr> <td><code>"Need Treatment Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3562,7 +3562,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Illicit Drugs.Used Past Month"</code></td> 
+        <tr> <td><code>"Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3643,7 +3643,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3655,7 +3655,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on or abuse illicit drugs in the past year. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3667,7 +3667,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on or abuse illicit drugs in the past year. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically. Dependence or abuse is based on definitions found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3724,7 +3724,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3736,7 +3736,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used illicit drugs (except Marijuana) in the past month among this age group. Illicit Drugs Other Than Marijuana include cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3748,7 +3748,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used illicit drugs (except Marijuana) in the past month among this age group. Illicit Drugs Other Than Marijuana include cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3805,7 +3805,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3817,7 +3817,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Cocaine in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3829,7 +3829,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Cocaine in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3886,7 +3886,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3898,7 +3898,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on illicit drugs in the past year in this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used non-medically. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3910,7 +3910,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have a dependence on illicit drugs in the past year in this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used non-medically. Dependence is based on the definition found in the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3967,7 +3967,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3979,7 +3979,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that need but has not received treatment for illicit drugs in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for illicit drugs, but not receiving treatment for an illicit drug problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers). Illicit Drugs include marijuana/hashish, cocaine (including crack), inhalants, hallucinogens, heroin, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3991,7 +3991,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that need but has not received treatment for illicit drugs in the past year among this age group. Needing But Not Receiving Treatment refers to respondents classified as needing treatment for illicit drugs, but not receiving treatment for an illicit drug problem at a specialty facility (i.e., drug and alcohol rehabilitation facilities [inpatient or outpatient], hospitals [inpatient only], and mental health centers). Illicit Drugs include marijuana/hashish, cocaine (including crack), inhalants, hallucinogens, heroin, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4048,7 +4048,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4060,7 +4060,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used illicit drugs in the past month among this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4072,7 +4072,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used illicit drugs in the past month among this age group. Illicit Drugs include marijuana/hashish, cocaine (including crack), heroin, hallucinogens, inhalants, or prescription-type psychotherapeutics used nonmedically.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4129,7 +4129,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Totals.Marijuana.New Users"</code></td> 
+        <tr> <td><code>"New Users"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4141,7 +4141,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Marijuana.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4153,7 +4153,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Marijuana.Used Past Month"</code></td> 
+        <tr> <td><code>"Used Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4165,7 +4165,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Marijuana.Used Past Year"</code></td> 
+        <tr> <td><code>"Used Past Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4230,7 +4230,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4242,7 +4242,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have started using Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4254,7 +4254,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have started using Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4311,7 +4311,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4323,7 +4323,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive great risk in Smoking Marijuana once a month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4335,7 +4335,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive great risk in Smoking Marijuana once a month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4392,7 +4392,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4404,7 +4404,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Marijuana in the past month among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4416,7 +4416,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Marijuana in the past month among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4473,7 +4473,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4485,7 +4485,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4497,7 +4497,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Marijuana in the past year among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4554,7 +4554,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Totals.Tobacco.Cigarette Past Month"</code></td> 
+        <tr> <td><code>"Cigarette Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4566,7 +4566,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Tobacco.Perceptions of Risk"</code></td> 
+        <tr> <td><code>"Perceptions of Risk"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4578,7 +4578,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Totals.Tobacco.Use Past Month"</code></td> 
+        <tr> <td><code>"Use Past Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -4635,7 +4635,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4647,7 +4647,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Cigarettes in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4659,7 +4659,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Cigarettes in the past month, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4716,7 +4716,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4728,7 +4728,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive great risk in smoking one or more packs of cigarettes per day, among this age group.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4740,7 +4740,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that perceive great risk in smoking one or more packs of cigarettes per day, among this age group.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4797,7 +4797,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"12-17"</code></td> 
+        <tr> <td><code>"12-17"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4809,7 +4809,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
-        <tr> <td><code>"18-25"</code></td> 
+        <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -4821,7 +4821,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people (in thousands) that have used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
-        <tr> <td><code>"26+"</code></td> 
+        <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

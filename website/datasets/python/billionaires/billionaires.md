@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the billionaire.</td> </tr>
         
-        <tr> <td><code>"rank"</code></td> 
+        <tr> <td><code>"rank"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td>The rank of this billionaire compared to the rest of the billionaires reported on. A lower rank means they make more money.</td> </tr>
         
-        <tr> <td><code>"year"</code></td> 
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that data about this billionaire was collected.</td> </tr>
         
-        <tr> <td><code>"company"</code></td> 
+        <tr> <td><code>"company"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -131,7 +131,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"demographics"</code></td> 
+        <tr> <td><code>"demographics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -143,7 +143,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"location"</code></td> 
+        <tr> <td><code>"location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -155,7 +155,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"wealth"</code></td> 
+        <tr> <td><code>"wealth"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -244,7 +244,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"founded"</code></td> 
+        <tr> <td><code>"founded"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -256,7 +256,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that the company was founded.</td> </tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -268,7 +268,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the company.</td> </tr>
         
-        <tr> <td><code>"relationship"</code></td> 
+        <tr> <td><code>"relationship"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -280,7 +280,7 @@ $(document).ready(function() {
              </td> 
              <td>The billionaires relationship to the company.</td> </tr>
         
-        <tr> <td><code>"sector"</code></td> 
+        <tr> <td><code>"sector"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -292,7 +292,7 @@ $(document).ready(function() {
              </td> 
              <td>The sector of the business, or what segment of the economy they fit into.</td> </tr>
         
-        <tr> <td><code>"type"</code></td> 
+        <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -365,7 +365,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"age"</code></td> 
+        <tr> <td><code>"age"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -377,7 +377,7 @@ $(document).ready(function() {
              </td> 
              <td>The current age of the billionaire. Ages that are represented as -1 stand for ages that were not available in the data that was collected.</td> </tr>
         
-        <tr> <td><code>"gender"</code></td> 
+        <tr> <td><code>"gender"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -426,7 +426,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"citizenship"</code></td> 
+        <tr> <td><code>"citizenship"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -438,7 +438,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the country that this billionaire has citizenship with.</td> </tr>
         
-        <tr> <td><code>"country code"</code></td> 
+        <tr> <td><code>"country code"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -450,7 +450,7 @@ $(document).ready(function() {
              </td> 
              <td>the 3-letter country code of the country where this billionaire has citizenship.</td> </tr>
         
-        <tr> <td><code>"gdp"</code></td> 
+        <tr> <td><code>"gdp"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -462,7 +462,7 @@ $(document).ready(function() {
              </td> 
              <td>The "Gross Domestic Product" of the country where the billionaire has citizenship. This is one of the primary indicators used to gauge the health of a country's economy. It represents the total dollar value of all goods and services produced over a specific time period; you can think of it as the size of the economy.</td> </tr>
         
-        <tr> <td><code>"region"</code></td> 
+        <tr> <td><code>"region"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -527,7 +527,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"type"</code></td> 
+        <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -539,7 +539,7 @@ $(document).ready(function() {
              </td> 
              <td>The type of billionaire that they are.</td> </tr>
         
-        <tr> <td><code>"worth in billions"</code></td> 
+        <tr> <td><code>"worth in billions"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -551,7 +551,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of billion of dollars that this billionaire is worth.</td> </tr>
         
-        <tr> <td><code>"wealth.how"</code></td> 
+        <tr> <td><code>"how"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -608,7 +608,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"category"</code></td> 
+        <tr> <td><code>"category"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -620,7 +620,7 @@ $(document).ready(function() {
              </td> 
              <td>A category representing where their money came from.</td> </tr>
         
-        <tr> <td><code>"from emerging"</code></td> 
+        <tr> <td><code>"from emerging"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -632,7 +632,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether the money came from emerging markets.</td> </tr>
         
-        <tr> <td><code>"industry"</code></td> 
+        <tr> <td><code>"industry"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -644,7 +644,7 @@ $(document).ready(function() {
              </td> 
              <td>The specific industry this billionaire profitted from.</td> </tr>
         
-        <tr> <td><code>"inherited"</code></td> 
+        <tr> <td><code>"inherited"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -656,7 +656,7 @@ $(document).ready(function() {
              </td> 
              <td>The way that this money was inherited (or not inherited). Inheritance can come from a spouse, the father, or from multiple generations within a family (either 3, 4, or 5+).</td> </tr>
         
-        <tr> <td><code>"was founder"</code></td> 
+        <tr> <td><code>"was founder"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -668,7 +668,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether the billionaire was the founder of their company.</td> </tr>
         
-        <tr> <td><code>"was political"</code></td> 
+        <tr> <td><code>"was political"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 

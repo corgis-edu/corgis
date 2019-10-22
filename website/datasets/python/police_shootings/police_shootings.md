@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Person"</code></td> 
+        <tr> <td><code>"Person"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Incident"</code></td> 
+        <tr> <td><code>"Incident"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Factors"</code></td> 
+        <tr> <td><code>"Factors"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Shooting"</code></td> 
+        <tr> <td><code>"Shooting"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -184,7 +184,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -196,7 +196,7 @@ $(document).ready(function() {
              </td> 
              <td>Full name of the individual or "Unknown" if not reported</td> </tr>
         
-        <tr> <td><code>"Age"</code></td> 
+        <tr> <td><code>"Age"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -208,7 +208,7 @@ $(document).ready(function() {
              </td> 
              <td>Age in years of the individual or 0 (zero) if not reported</td> </tr>
         
-        <tr> <td><code>"Gender"</code></td> 
+        <tr> <td><code>"Gender"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -220,7 +220,7 @@ $(document).ready(function() {
              </td> 
              <td>One of Male, Female, or Unknown</td> </tr>
         
-        <tr> <td><code>"Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -285,7 +285,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Incident.Date"</code></td> 
+        <tr> <td><code>"Date"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -297,7 +297,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Incident.Location"</code></td> 
+        <tr> <td><code>"Location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -346,7 +346,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Month"</code></td> 
+        <tr> <td><code>"Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -358,7 +358,7 @@ $(document).ready(function() {
              </td> 
              <td>Month (1-12) in which the shooting occurred</td> </tr>
         
-        <tr> <td><code>"Day"</code></td> 
+        <tr> <td><code>"Day"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -370,7 +370,7 @@ $(document).ready(function() {
              </td> 
              <td>Day (1-31) in which the shooting occurred</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -382,7 +382,7 @@ $(document).ready(function() {
              </td> 
              <td>Year (2015-2019) in which the shooting occurred</td> </tr>
         
-        <tr> <td><code>"Full"</code></td> 
+        <tr> <td><code>"Full"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"City"</code></td> 
+        <tr> <td><code>"City"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>Name of city in which the shooting occurred</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -508,7 +508,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Armed"</code></td> 
+        <tr> <td><code>"Armed"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -520,7 +520,7 @@ $(document).ready(function() {
              </td> 
              <td>Description of any weapon carried by the person (.e., "gun", "knife", "unarmed"); value is "unknown" if not reported.</td> </tr>
         
-        <tr> <td><code>"Mental-Illness"</code></td> 
+        <tr> <td><code>"Mental-Illness"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -532,7 +532,7 @@ $(document).ready(function() {
              </td> 
              <td>True if factors of mental illness were perceived in the person; False otherwise</td> </tr>
         
-        <tr> <td><code>"Threat-Level"</code></td> 
+        <tr> <td><code>"Threat-Level"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -544,7 +544,7 @@ $(document).ready(function() {
              </td> 
              <td>Threat of person as perceived by police. One of "attack", "undetermined", or "other"; value is "unknown" if not reported.</td> </tr>
         
-        <tr> <td><code>"Fleeing"</code></td> 
+        <tr> <td><code>"Fleeing"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -609,7 +609,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Manner"</code></td> 
+        <tr> <td><code>"Manner"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -621,7 +621,7 @@ $(document).ready(function() {
              </td> 
              <td>Manner of person's death: one of "shot" or "shot and Tasered".</td> </tr>
         
-        <tr> <td><code>"Body-Camera"</code></td> 
+        <tr> <td><code>"Body-Camera"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 

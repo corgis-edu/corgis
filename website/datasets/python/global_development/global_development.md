@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Country"</code></td> 
+        <tr> <td><code>"Country"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -165,7 +165,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Data.Health"</code></td> 
+        <tr> <td><code>"Health"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -177,7 +177,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Infrastructure"</code></td> 
+        <tr> <td><code>"Infrastructure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -189,7 +189,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Rural Development"</code></td> 
+        <tr> <td><code>"Rural Development"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -201,7 +201,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Urban Development"</code></td> 
+        <tr> <td><code>"Urban Development"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -266,7 +266,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Birth Rate"</code></td> 
+        <tr> <td><code>"Birth Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -278,7 +278,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Death Rate"</code></td> 
+        <tr> <td><code>"Death Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -290,7 +290,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Fertility Rate"</code></td> 
+        <tr> <td><code>"Fertility Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -302,7 +302,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Life Expectancy at Birth, Female"</code></td> 
+        <tr> <td><code>"Life Expectancy at Birth, Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -314,7 +314,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Life Expectancy at Birth, Male"</code></td> 
+        <tr> <td><code>"Life Expectancy at Birth, Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Life Expectancy at Birth, Total"</code></td> 
+        <tr> <td><code>"Life Expectancy at Birth, Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -338,7 +338,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Population Growth"</code></td> 
+        <tr> <td><code>"Population Growth"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -350,7 +350,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Total Population"</code></td> 
+        <tr> <td><code>"Total Population"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Mobile Cellular Subscriptions"</code></td> 
+        <tr> <td><code>"Mobile Cellular Subscriptions"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Mobile Cellular Subscriptions per 100 People"</code></td> 
+        <tr> <td><code>"Mobile Cellular Subscriptions per 100 People"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -471,7 +471,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Telephone Lines"</code></td> 
+        <tr> <td><code>"Telephone Lines"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -483,7 +483,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Telephone Lines per 100 People"</code></td> 
+        <tr> <td><code>"Telephone Lines per 100 People"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -548,7 +548,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Agricultural Land"</code></td> 
+        <tr> <td><code>"Agricultural Land"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -560,7 +560,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Agricultural Land Percent"</code></td> 
+        <tr> <td><code>"Agricultural Land Percent"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -572,7 +572,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Arable Land"</code></td> 
+        <tr> <td><code>"Arable Land"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -584,7 +584,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Arable Land Percent"</code></td> 
+        <tr> <td><code>"Arable Land Percent"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -596,7 +596,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Land Area"</code></td> 
+        <tr> <td><code>"Land Area"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -608,7 +608,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Rural Population"</code></td> 
+        <tr> <td><code>"Rural Population"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -620,7 +620,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Rural Population Growth"</code></td> 
+        <tr> <td><code>"Rural Population Growth"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -632,7 +632,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Surface Area"</code></td> 
+        <tr> <td><code>"Surface Area"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -729,7 +729,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Population Density"</code></td> 
+        <tr> <td><code>"Population Density"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -741,7 +741,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Urban Population Percent"</code></td> 
+        <tr> <td><code>"Urban Population Percent"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -753,7 +753,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Urban Population Percent Growth"</code></td> 
+        <tr> <td><code>"Urban Population Percent Growth"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

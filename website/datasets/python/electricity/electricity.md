@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Utility"</code></td> 
+        <tr> <td><code>"Utility"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Demand"</code></td> 
+        <tr> <td><code>"Demand"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Sources"</code></td> 
+        <tr> <td><code>"Sources"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Uses"</code></td> 
+        <tr> <td><code>"Uses"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -131,7 +131,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Revenues"</code></td> 
+        <tr> <td><code>"Revenues"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -143,7 +143,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -155,7 +155,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Retail"</code></td> 
+        <tr> <td><code>"Retail"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -244,7 +244,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Number"</code></td> 
+        <tr> <td><code>"Number"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -256,7 +256,7 @@ $(document).ready(function() {
              </td> 
              <td>Unique identifier for the utility.</td> </tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -268,7 +268,7 @@ $(document).ready(function() {
              </td> 
              <td>Utility Name</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -280,7 +280,7 @@ $(document).ready(function() {
              </td> 
              <td>A two letter abbreviation for the name of the state (e.g., CA for California)</td> </tr>
         
-        <tr> <td><code>"Type"</code></td> 
+        <tr> <td><code>"Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -345,7 +345,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Summer Peak"</code></td> 
+        <tr> <td><code>"Summer Peak"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -357,7 +357,7 @@ $(document).ready(function() {
              </td> 
              <td>Peak demand in the summer measured in megawatts</td> </tr>
         
-        <tr> <td><code>"Winter Peak"</code></td> 
+        <tr> <td><code>"Winter Peak"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -406,7 +406,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Generation"</code></td> 
+        <tr> <td><code>"Generation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -418,7 +418,7 @@ $(document).ready(function() {
              </td> 
              <td>Net generation of power measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Purchased"</code></td> 
+        <tr> <td><code>"Purchased"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -430,7 +430,7 @@ $(document).ready(function() {
              </td> 
              <td>Power purchased from other electric utilities measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Other"</code></td> 
+        <tr> <td><code>"Other"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -442,7 +442,7 @@ $(document).ready(function() {
              </td> 
              <td>Power obtained from other sources (e.g., exchanged with other utilities) measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -507,7 +507,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Retail"</code></td> 
+        <tr> <td><code>"Retail"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -519,7 +519,7 @@ $(document).ready(function() {
              </td> 
              <td>Power sold on the retail market measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Resale"</code></td> 
+        <tr> <td><code>"Resale"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -531,7 +531,7 @@ $(document).ready(function() {
              </td> 
              <td>Power sold to other utilities for resale measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"No Charge"</code></td> 
+        <tr> <td><code>"No Charge"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -543,7 +543,7 @@ $(document).ready(function() {
              </td> 
              <td>Power furnished without charge measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Consumed"</code></td> 
+        <tr> <td><code>"Consumed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -555,7 +555,7 @@ $(document).ready(function() {
              </td> 
              <td>Power consumed by the utility itself measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Losses"</code></td> 
+        <tr> <td><code>"Losses"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -567,7 +567,7 @@ $(document).ready(function() {
              </td> 
              <td>Power losses of all kinds measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -648,7 +648,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Retail"</code></td> 
+        <tr> <td><code>"Retail"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -689,7 +689,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Delivery"</code></td> 
+        <tr> <td><code>"Delivery"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -701,7 +701,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from customers who delivered power measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Resale"</code></td> 
+        <tr> <td><code>"Resale"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -713,7 +713,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from sale of power to other utilities for resale measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Adjustments"</code></td> 
+        <tr> <td><code>"Adjustments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -725,7 +725,7 @@ $(document).ready(function() {
              </td> 
              <td>Revnue from credits or other adjustments measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Transmission"</code></td> 
+        <tr> <td><code>"Transmission"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -737,7 +737,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from transmission of power measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Other"</code></td> 
+        <tr> <td><code>"Other"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -749,7 +749,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue of all other kinds measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -830,7 +830,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Retail.Residential"</code></td> 
+        <tr> <td><code>"Residential"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -842,7 +842,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Retail.Commercial"</code></td> 
+        <tr> <td><code>"Commercial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -854,7 +854,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Retail.Industrial"</code></td> 
+        <tr> <td><code>"Industrial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -866,7 +866,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Retail.Transportation"</code></td> 
+        <tr> <td><code>"Transportation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -878,7 +878,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Retail.Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -951,7 +951,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -963,7 +963,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from retail sales to residential customers measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -975,7 +975,7 @@ $(document).ready(function() {
              </td> 
              <td>Power delivered to residential customers measured in meagawatt hours</td> </tr>
         
-        <tr> <td><code>"Customers"</code></td> 
+        <tr> <td><code>"Customers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1032,7 +1032,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1044,7 +1044,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from retail sales to commerical customers measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1056,7 +1056,7 @@ $(document).ready(function() {
              </td> 
              <td>Power delivered to commercial customers measured in meagawatt hours</td> </tr>
         
-        <tr> <td><code>"Customers"</code></td> 
+        <tr> <td><code>"Customers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1113,7 +1113,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1125,7 +1125,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from retail sales to industrial customers measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1137,7 +1137,7 @@ $(document).ready(function() {
              </td> 
              <td>Power delivered to industrial customers measured in meagawatt hours</td> </tr>
         
-        <tr> <td><code>"Customers"</code></td> 
+        <tr> <td><code>"Customers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1194,7 +1194,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1206,7 +1206,7 @@ $(document).ready(function() {
              </td> 
              <td>Revenue from retail sales to transportation customers measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1218,7 +1218,7 @@ $(document).ready(function() {
              </td> 
              <td>Power delivered to transportation customers measured in meagawatt hours</td> </tr>
         
-        <tr> <td><code>"Customers"</code></td> 
+        <tr> <td><code>"Customers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1275,7 +1275,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Revenue"</code></td> 
+        <tr> <td><code>"Revenue"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1287,7 +1287,7 @@ $(document).ready(function() {
              </td> 
              <td>Total revenue from all retail customers measured in thousands of US dollars</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1299,7 +1299,7 @@ $(document).ready(function() {
              </td> 
              <td>Total power delivered to all retail customers measured in megawatt hours</td> </tr>
         
-        <tr> <td><code>"Customers"</code></td> 
+        <tr> <td><code>"Customers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

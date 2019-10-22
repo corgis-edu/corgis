@@ -81,7 +81,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Date"</code></td> 
+        <tr> <td><code>"Date"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -93,7 +93,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Show"</code></td> 
+        <tr> <td><code>"Show"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -105,7 +105,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Statistics"</code></td> 
+        <tr> <td><code>"Statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -162,7 +162,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Day"</code></td> 
+        <tr> <td><code>"Day"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -174,7 +174,7 @@ $(document).ready(function() {
              </td> 
              <td>The day of the month that this performance's week ended on.</td> </tr>
         
-        <tr> <td><code>"Full"</code></td> 
+        <tr> <td><code>"Full"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -186,7 +186,7 @@ $(document).ready(function() {
              </td> 
              <td>The full date representation that this performance's week ended on in "Month/Day/Year" format.</td> </tr>
         
-        <tr> <td><code>"Month"</code></td> 
+        <tr> <td><code>"Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -198,7 +198,7 @@ $(document).ready(function() {
              </td> 
              <td>The numeric month that this performance's week ended in (1 = January, 2 = February, etc.).</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -263,7 +263,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -275,7 +275,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the production.</td> </tr>
         
-        <tr> <td><code>"Theatre"</code></td> 
+        <tr> <td><code>"Theatre"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -287,7 +287,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the theatre.</td> </tr>
         
-        <tr> <td><code>"Type"</code></td> 
+        <tr> <td><code>"Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -344,7 +344,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Attendance"</code></td> 
+        <tr> <td><code>"Attendance"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -356,7 +356,7 @@ $(document).ready(function() {
              </td> 
              <td>The total number of people who attended performances over the week.</td> </tr>
         
-        <tr> <td><code>"Capacity"</code></td> 
+        <tr> <td><code>"Capacity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -368,7 +368,7 @@ $(document).ready(function() {
              </td> 
              <td>The percentage of the theatre that was filled during that week.</td> </tr>
         
-        <tr> <td><code>"Gross"</code></td> 
+        <tr> <td><code>"Gross"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -380,7 +380,7 @@ $(document).ready(function() {
              </td> 
              <td>The "Gross Gross" of this performance, or how much it made in total across the entire week. Measured in dollars.</td> </tr>
         
-        <tr> <td><code>"Gross Potential"</code></td> 
+        <tr> <td><code>"Gross Potential"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -392,7 +392,7 @@ $(document).ready(function() {
              </td> 
              <td>The Gross Potential is the maximum amount an engagement can possibly earn based on calculations involving ticket prices, seating capacity, and the number of performances. This number is expressed here as a percentage of what could have been achieved (Gross Gross / Gross Potential). In case the GP could not be calculated, it was replaced with 0%.</td> </tr>
         
-        <tr> <td><code>"Performances"</code></td> 
+        <tr> <td><code>"Performances"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

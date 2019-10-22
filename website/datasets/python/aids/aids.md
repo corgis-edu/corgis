@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Country"</code></td> 
+        <tr> <td><code>"Country"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the country.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>4-digit year</td> </tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -165,7 +165,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Data.AIDS-Related Deaths"</code></td> 
+        <tr> <td><code>"AIDS-Related Deaths"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -177,7 +177,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.HIV Prevalence"</code></td> 
+        <tr> <td><code>"HIV Prevalence"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -189,7 +189,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.New HIV Infections"</code></td> 
+        <tr> <td><code>"New HIV Infections"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -201,7 +201,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.People Living with HIV"</code></td> 
+        <tr> <td><code>"People Living with HIV"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -266,7 +266,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"AIDS Orphans"</code></td> 
+        <tr> <td><code>"AIDS Orphans"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -278,7 +278,7 @@ $(document).ready(function() {
              </td> 
              <td>Children who have been orphaned from AIDS (parents died of AIDS) below 17 years of age.</td> </tr>
         
-        <tr> <td><code>"Adults"</code></td> 
+        <tr> <td><code>"Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -290,7 +290,7 @@ $(document).ready(function() {
              </td> 
              <td>All adults (older than 15 years of age) who have died of aids.</td> </tr>
         
-        <tr> <td><code>"All Ages"</code></td> 
+        <tr> <td><code>"All Ages"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -302,7 +302,7 @@ $(document).ready(function() {
              </td> 
              <td>The total number of deaths caused by AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Children"</code></td> 
+        <tr> <td><code>"Children"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -314,7 +314,7 @@ $(document).ready(function() {
              </td> 
              <td>Children who have died of AIDS below 14 years of age.</td> </tr>
         
-        <tr> <td><code>"Female Adults"</code></td> 
+        <tr> <td><code>"Female Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
              </td> 
              <td>Female adults (older than 15 years of age) who have died of aids.</td> </tr>
         
-        <tr> <td><code>"Male Adults"</code></td> 
+        <tr> <td><code>"Male Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -407,7 +407,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Adults"</code></td> 
+        <tr> <td><code>"Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -419,7 +419,7 @@ $(document).ready(function() {
              </td> 
              <td>The percentage of the population of Young Men (15-49 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Young Men"</code></td> 
+        <tr> <td><code>"Young Men"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -431,7 +431,7 @@ $(document).ready(function() {
              </td> 
              <td>The percentage of the population of Young Men (15-24 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Young Women"</code></td> 
+        <tr> <td><code>"Young Women"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -488,7 +488,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Adults"</code></td> 
+        <tr> <td><code>"Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -500,7 +500,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of reported cases of AIDS in all adults (15+ years old).</td> </tr>
         
-        <tr> <td><code>"All Ages"</code></td> 
+        <tr> <td><code>"All Ages"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -512,7 +512,7 @@ $(document).ready(function() {
              </td> 
              <td>The total number of reported cases of AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Children"</code></td> 
+        <tr> <td><code>"Children"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -524,7 +524,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of reported cases of AIDS in children (0-14 years old).</td> </tr>
         
-        <tr> <td><code>"Female Adults"</code></td> 
+        <tr> <td><code>"Female Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -536,7 +536,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of reported cases of AIDS in female adults (15+ years old).</td> </tr>
         
-        <tr> <td><code>"Incidence Rate Among Adults"</code></td> 
+        <tr> <td><code>"Incidence Rate Among Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -548,7 +548,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of reported cases of AIDS in adults (15-49 years old).</td> </tr>
         
-        <tr> <td><code>"Male Adults"</code></td> 
+        <tr> <td><code>"Male Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -629,7 +629,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Adults"</code></td> 
+        <tr> <td><code>"Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -641,7 +641,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of Adults (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Children"</code></td> 
+        <tr> <td><code>"Children"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -653,7 +653,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of Children (less than 15 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Female Adults"</code></td> 
+        <tr> <td><code>"Female Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -665,7 +665,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Male Adults"</code></td> 
+        <tr> <td><code>"Male Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -677,7 +677,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of Adult Men (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

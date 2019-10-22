@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The state that this report was made for.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that this report was made.</td> </tr>
         
-        <tr> <td><code>"Production"</code></td> 
+        <tr> <td><code>"Production"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption"</code></td> 
+        <tr> <td><code>"Consumption"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -132,7 +132,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Expenditure"</code></td> 
+        <tr> <td><code>"Expenditure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -144,7 +144,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Price"</code></td> 
+        <tr> <td><code>"Price"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -225,7 +225,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -266,7 +266,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Consumption.Commercial"</code></td> 
+        <tr> <td><code>"Commercial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -278,7 +278,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption.Electric Power"</code></td> 
+        <tr> <td><code>"Electric Power"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -290,7 +290,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption.Industrial"</code></td> 
+        <tr> <td><code>"Industrial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -302,7 +302,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption.Refinery"</code></td> 
+        <tr> <td><code>"Refinery"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -314,7 +314,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption.Residential"</code></td> 
+        <tr> <td><code>"Residential"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Consumption.Transportation"</code></td> 
+        <tr> <td><code>"Transportation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -407,7 +407,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -419,7 +419,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -431,7 +431,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Geothermal"</code></td> 
+        <tr> <td><code>"Geothermal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -443,7 +443,7 @@ $(document).ready(function() {
              </td> 
              <td>Geothermal energy consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Hydropower"</code></td> 
+        <tr> <td><code>"Hydropower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -455,7 +455,7 @@ $(document).ready(function() {
              </td> 
              <td>Hydropower consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -467,7 +467,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -479,7 +479,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -491,7 +491,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Solar"</code></td> 
+        <tr> <td><code>"Solar"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -503,7 +503,7 @@ $(document).ready(function() {
              </td> 
              <td>Photovoltaic and solar thermal energy consumed by the commercial sector (except portion included in SOHCB) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wind"</code></td> 
+        <tr> <td><code>"Wind"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -515,7 +515,7 @@ $(document).ready(function() {
              </td> 
              <td>Wind energy consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wood"</code></td> 
+        <tr> <td><code>"Wood"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -628,7 +628,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -640,7 +640,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed by the electric power sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -652,7 +652,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed by the electrical power sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -664,7 +664,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas consumed by the electric power sector (including supplemental gaseous fuels) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wood"</code></td> 
+        <tr> <td><code>"Wood"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -729,7 +729,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -741,7 +741,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -753,7 +753,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Geothermal"</code></td> 
+        <tr> <td><code>"Geothermal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -765,7 +765,7 @@ $(document).ready(function() {
              </td> 
              <td>Geothermal energy consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Hydropower"</code></td> 
+        <tr> <td><code>"Hydropower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -777,7 +777,7 @@ $(document).ready(function() {
              </td> 
              <td>Hydropower consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -789,7 +789,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -801,7 +801,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -813,7 +813,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Other Petroleum Products"</code></td> 
+        <tr> <td><code>"Other Petroleum Products"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -825,7 +825,7 @@ $(document).ready(function() {
              </td> 
              <td>Other petroleum products consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Solar"</code></td> 
+        <tr> <td><code>"Solar"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -837,7 +837,7 @@ $(document).ready(function() {
              </td> 
              <td>Photovoltaic and solar thermal energy consumed by the industrial sector (except portion included in SOHCB) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wind"</code></td> 
+        <tr> <td><code>"Wind"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -849,7 +849,7 @@ $(document).ready(function() {
              </td> 
              <td>Wind energy consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wood"</code></td> 
+        <tr> <td><code>"Wood"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -970,7 +970,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -982,7 +982,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed as refinery fuel in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -994,7 +994,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed as refinery fuel in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1006,7 +1006,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG consumed as refinery fuel in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1071,7 +1071,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1083,7 +1083,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1095,7 +1095,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Geothermal"</code></td> 
+        <tr> <td><code>"Geothermal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1107,7 +1107,7 @@ $(document).ready(function() {
              </td> 
              <td>Geothermal energy consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1119,7 +1119,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1131,7 +1131,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1143,7 +1143,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels) in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Wood"</code></td> 
+        <tr> <td><code>"Wood"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1232,7 +1232,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1244,7 +1244,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal consumed by the transportation sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1256,7 +1256,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed by the transportation sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1268,7 +1268,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG consumed by the transportation sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1333,7 +1333,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Expenditure.Commercial"</code></td> 
+        <tr> <td><code>"Commercial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1345,7 +1345,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Expenditure.Electric Power"</code></td> 
+        <tr> <td><code>"Electric Power"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1357,7 +1357,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Expenditure.Industrial"</code></td> 
+        <tr> <td><code>"Industrial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1369,7 +1369,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Expenditure.Residential"</code></td> 
+        <tr> <td><code>"Residential"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1381,7 +1381,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Expenditure.Transportation"</code></td> 
+        <tr> <td><code>"Transportation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1454,7 +1454,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1466,7 +1466,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1478,7 +1478,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1490,7 +1490,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1502,7 +1502,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1575,7 +1575,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1587,7 +1587,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal expenditures in the electric power sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1599,7 +1599,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the electric power sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1656,7 +1656,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1668,7 +1668,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1680,7 +1680,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1692,7 +1692,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1704,7 +1704,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1716,7 +1716,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas expenditures in the industrial sector (including supplemental gaseous fuels) in million dollars.</td> </tr>
         
-        <tr> <td><code>"Other Petroleum Products"</code></td> 
+        <tr> <td><code>"Other Petroleum Products"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1797,7 +1797,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1809,7 +1809,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal expenditures in the residential sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1821,7 +1821,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the residential sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1833,7 +1833,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene expenditures in the residential sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1845,7 +1845,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG expenditures in the residential sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1857,7 +1857,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas expenditures in the residential sector (including supplemental gaseous fuels) in million dollars.</td> </tr>
         
-        <tr> <td><code>"Wood"</code></td> 
+        <tr> <td><code>"Wood"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1938,7 +1938,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1950,7 +1950,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal expenditures in the transportation sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1962,7 +1962,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the transportation sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1974,7 +1974,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG expenditures in the transportation sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2039,7 +2039,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Price.Commercial"</code></td> 
+        <tr> <td><code>"Commercial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2051,7 +2051,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Price.Electric Power"</code></td> 
+        <tr> <td><code>"Electric Power"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2063,7 +2063,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Price.Industrial"</code></td> 
+        <tr> <td><code>"Industrial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2075,7 +2075,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Price.Transportation"</code></td> 
+        <tr> <td><code>"Transportation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2140,7 +2140,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2152,7 +2152,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal price in the commercial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2164,7 +2164,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil price in the commercial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2176,7 +2176,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene price in the commercial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2188,7 +2188,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG price in the commercial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2261,7 +2261,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2273,7 +2273,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal price in the electric power sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2285,7 +2285,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil price in the electric power sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2342,7 +2342,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2354,7 +2354,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal price in the industrial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2366,7 +2366,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil price in the industrial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Kerosene"</code></td> 
+        <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2378,7 +2378,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene price in the industrial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2390,7 +2390,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG price in the industrial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2402,7 +2402,7 @@ $(document).ready(function() {
              </td> 
              <td>Natural gas price in the industrial sector (including supplemental gaseous fuels) in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Other Petroleum Products"</code></td> 
+        <tr> <td><code>"Other Petroleum Products"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2483,7 +2483,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Coal"</code></td> 
+        <tr> <td><code>"Coal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2495,7 +2495,7 @@ $(document).ready(function() {
              </td> 
              <td>Coal price in the transportation sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Distillate Fuel Oil"</code></td> 
+        <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2507,7 +2507,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil price in the transportation sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td> 
+        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2519,7 +2519,7 @@ $(document).ready(function() {
              </td> 
              <td>LPG price in the transportation sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Natural Gas"</code></td> 
+        <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that this report was made for.</td> </tr>
         
-        <tr> <td><code>"Demographics"</code></td> 
+        <tr> <td><code>"Demographics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Education"</code></td> 
+        <tr> <td><code>"Education"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Salaries"</code></td> 
+        <tr> <td><code>"Salaries"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -132,7 +132,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Employment"</code></td> 
+        <tr> <td><code>"Employment"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -205,7 +205,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -217,7 +217,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people awarded degrees in this major during this year.</td> </tr>
         
-        <tr> <td><code>"Demographics.Ethnicity"</code></td> 
+        <tr> <td><code>"Ethnicity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -229,7 +229,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Demographics.Gender"</code></td> 
+        <tr> <td><code>"Gender"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -286,7 +286,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Major"</code></td> 
+        <tr> <td><code>"Major"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -298,7 +298,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the major for these graduated students.</td> </tr>
         
-        <tr> <td><code>"Education.Degrees"</code></td> 
+        <tr> <td><code>"Degrees"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -347,7 +347,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Highest"</code></td> 
+        <tr> <td><code>"Highest"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -359,7 +359,7 @@ $(document).ready(function() {
              </td> 
              <td>The highest recorded salary reported for employed people with this degree during this year.</td> </tr>
         
-        <tr> <td><code>"Lowest"</code></td> 
+        <tr> <td><code>"Lowest"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -371,7 +371,7 @@ $(document).ready(function() {
              </td> 
              <td>The lowest recorded salary reported for employed people with this degree during this year.</td> </tr>
         
-        <tr> <td><code>"Mean"</code></td> 
+        <tr> <td><code>"Mean"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -383,7 +383,7 @@ $(document).ready(function() {
              </td> 
              <td>The average (mean) recorded salary reported for employed people with this degree during this year.</td> </tr>
         
-        <tr> <td><code>"Median"</code></td> 
+        <tr> <td><code>"Median"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -395,7 +395,7 @@ $(document).ready(function() {
              </td> 
              <td>The median recorded salary reported for employed people with this degree during this year.</td> </tr>
         
-        <tr> <td><code>"Quantity"</code></td> 
+        <tr> <td><code>"Quantity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -407,7 +407,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of salaries reported for employed people with this degree during this year.</td> </tr>
         
-        <tr> <td><code>"Standard Deviation"</code></td> 
+        <tr> <td><code>"Standard Deviation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -488,7 +488,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Asians"</code></td> 
+        <tr> <td><code>"Asians"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -500,7 +500,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people identifying as Asian that were awarded degrees in this major during this year.</td> </tr>
         
-        <tr> <td><code>"Minorities"</code></td> 
+        <tr> <td><code>"Minorities"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -512,7 +512,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of people identifying as a minority (e.g., Black, African American, Native American) that were awarded degrees in this major during this year.</td> </tr>
         
-        <tr> <td><code>"Whites"</code></td> 
+        <tr> <td><code>"Whites"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -569,7 +569,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -581,7 +581,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of women awarded degrees in this major during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -630,7 +630,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Bachelors"</code></td> 
+        <tr> <td><code>"Bachelors"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -642,7 +642,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of bachelor degrees awarded in this for major during this year.</td> </tr>
         
-        <tr> <td><code>"Doctorates"</code></td> 
+        <tr> <td><code>"Doctorates"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -654,7 +654,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of doctoral degrees awarded in this for major during this year.</td> </tr>
         
-        <tr> <td><code>"Masters"</code></td> 
+        <tr> <td><code>"Masters"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -666,7 +666,7 @@ $(document).ready(function() {
              </td> 
              <td>The estimated number of Masters awarded in this for major during this year.</td> </tr>
         
-        <tr> <td><code>"Professionals"</code></td> 
+        <tr> <td><code>"Professionals"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -731,7 +731,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Employment.Employer Type"</code></td> 
+        <tr> <td><code>"Employer Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -743,7 +743,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Employment.Reason Working Outside Field"</code></td> 
+        <tr> <td><code>"Reason Working Outside Field"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -755,7 +755,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Employment.Reason for Not Working"</code></td> 
+        <tr> <td><code>"Reason for Not Working"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -767,7 +767,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Employment.Status"</code></td> 
+        <tr> <td><code>"Status"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -779,7 +779,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Employment.Work Activity"</code></td> 
+        <tr> <td><code>"Work Activity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -852,7 +852,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Business/Industry"</code></td> 
+        <tr> <td><code>"Business/Industry"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -864,7 +864,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year who described their Employer Type as "Business/Industry".</td> </tr>
         
-        <tr> <td><code>"Educational Institution"</code></td> 
+        <tr> <td><code>"Educational Institution"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -876,7 +876,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year who described their Employer Type as an "Educational Institution".</td> </tr>
         
-        <tr> <td><code>"Government"</code></td> 
+        <tr> <td><code>"Government"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -933,7 +933,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Career Change"</code></td> 
+        <tr> <td><code>"Career Change"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -945,7 +945,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because they wanted a career change.</td> </tr>
         
-        <tr> <td><code>"Family-related"</code></td> 
+        <tr> <td><code>"Family-related"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -957,7 +957,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of family-related issues.</td> </tr>
         
-        <tr> <td><code>"Job Location"</code></td> 
+        <tr> <td><code>"Job Location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -969,7 +969,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of the job location.</td> </tr>
         
-        <tr> <td><code>"No Job Available"</code></td> 
+        <tr> <td><code>"No Job Available"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -981,7 +981,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because there was no job available in their field.</td> </tr>
         
-        <tr> <td><code>"Other"</code></td> 
+        <tr> <td><code>"Other"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -993,7 +993,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of other reasons.</td> </tr>
         
-        <tr> <td><code>"Pay/Promotion"</code></td> 
+        <tr> <td><code>"Pay/Promotion"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1005,7 +1005,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are working outside of the field associated with their major, and who did so because of pay or promotion opportunities.</td> </tr>
         
-        <tr> <td><code>"Working Conditions"</code></td> 
+        <tr> <td><code>"Working Conditions"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1094,7 +1094,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Family"</code></td> 
+        <tr> <td><code>"Family"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1106,7 +1106,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are not working because of their family.</td> </tr>
         
-        <tr> <td><code>"Layoff"</code></td> 
+        <tr> <td><code>"Layoff"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1118,7 +1118,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are not working because they were laid off.</td> </tr>
         
-        <tr> <td><code>"No Job Available"</code></td> 
+        <tr> <td><code>"No Job Available"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1130,7 +1130,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are not working because there was no job available.</td> </tr>
         
-        <tr> <td><code>"No need/want"</code></td> 
+        <tr> <td><code>"No need/want"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1142,7 +1142,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are not working because they either did not need a job and/or did not want a job.</td> </tr>
         
-        <tr> <td><code>"Student"</code></td> 
+        <tr> <td><code>"Student"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1215,7 +1215,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Employed"</code></td> 
+        <tr> <td><code>"Employed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1227,7 +1227,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are employed.</td> </tr>
         
-        <tr> <td><code>"Not in Labor Force"</code></td> 
+        <tr> <td><code>"Not in Labor Force"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1239,7 +1239,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who are not in the labor force (e.g., retired, students, those taking care of children).</td> </tr>
         
-        <tr> <td><code>"Unemployed"</code></td> 
+        <tr> <td><code>"Unemployed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1296,7 +1296,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Accounting/Finance/Contracts"</code></td> 
+        <tr> <td><code>"Accounting/Finance/Contracts"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1308,7 +1308,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Accounting, Finance, or Contracts.</td> </tr>
         
-        <tr> <td><code>"Applied Research"</code></td> 
+        <tr> <td><code>"Applied Research"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1320,7 +1320,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Applied Research.</td> </tr>
         
-        <tr> <td><code>"Basic Research"</code></td> 
+        <tr> <td><code>"Basic Research"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1332,7 +1332,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Basic Research.</td> </tr>
         
-        <tr> <td><code>"Computer Applications"</code></td> 
+        <tr> <td><code>"Computer Applications"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1344,7 +1344,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Computer Applications.</td> </tr>
         
-        <tr> <td><code>"Design"</code></td> 
+        <tr> <td><code>"Design"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1356,7 +1356,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Design.</td> </tr>
         
-        <tr> <td><code>"Development"</code></td> 
+        <tr> <td><code>"Development"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1368,7 +1368,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Development.</td> </tr>
         
-        <tr> <td><code>"Human Resources"</code></td> 
+        <tr> <td><code>"Human Resources"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1380,7 +1380,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving Human Resources.</td> </tr>
         
-        <tr> <td><code>"Managing/Supervising People/Projects"</code></td> 
+        <tr> <td><code>"Managing/Supervising People/Projects"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1392,7 +1392,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving managing or supervising either people or projects.</td> </tr>
         
-        <tr> <td><code>"Other"</code></td> 
+        <tr> <td><code>"Other"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1404,7 +1404,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving something not involved in any of the other categories.</td> </tr>
         
-        <tr> <td><code>"Productions/Operations/Maintenance"</code></td> 
+        <tr> <td><code>"Productions/Operations/Maintenance"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1416,7 +1416,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving productions, operations, or maintenance.</td> </tr>
         
-        <tr> <td><code>"Professional Service"</code></td> 
+        <tr> <td><code>"Professional Service"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1428,7 +1428,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving professional service.</td> </tr>
         
-        <tr> <td><code>"Qualitity/Productivity Management"</code></td> 
+        <tr> <td><code>"Qualitity/Productivity Management"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1440,7 +1440,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving qualitity or productivity management.</td> </tr>
         
-        <tr> <td><code>"Sales, Purchasing, Marketing"</code></td> 
+        <tr> <td><code>"Sales, Purchasing, Marketing"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1452,7 +1452,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of people with a degree in this major during this year, who describe their primary work activity (more than 10% of their time) as involving sales, purchasing, or marketing.</td> </tr>
         
-        <tr> <td><code>"Teaching"</code></td> 
+        <tr> <td><code>"Teaching"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

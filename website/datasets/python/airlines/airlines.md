@@ -82,7 +82,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Airport"</code></td> 
+        <tr> <td><code>"Airport"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -94,7 +94,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Time"</code></td> 
+        <tr> <td><code>"Time"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -106,7 +106,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Statistics"</code></td> 
+        <tr> <td><code>"Statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -163,7 +163,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Code"</code></td> 
+        <tr> <td><code>"Code"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -175,7 +175,7 @@ $(document).ready(function() {
              </td> 
              <td>The 3 letter code for this airport, assigned by IATA. For more information, consult this <a href='https://en.wikipedia.org/wiki/List_of_airports_by_IATA_code'>List of Airport Codes</a>.</td> </tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -224,7 +224,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Label"</code></td> 
+        <tr> <td><code>"Label"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -236,7 +236,7 @@ $(document).ready(function() {
              </td> 
              <td>The "year/month" reported as a string, to make it easier to sort by time periods.</td> </tr>
         
-        <tr> <td><code>"Month"</code></td> 
+        <tr> <td><code>"Month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -248,7 +248,7 @@ $(document).ready(function() {
              </td> 
              <td>The reported month as a number. 0 is January, 1 is February, etc.</td> </tr>
         
-        <tr> <td><code>"Month Name"</code></td> 
+        <tr> <td><code>"Month Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -260,7 +260,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -325,7 +325,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Statistics.# of Delays"</code></td> 
+        <tr> <td><code>"# of Delays"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -337,7 +337,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Statistics.Carriers"</code></td> 
+        <tr> <td><code>"Carriers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -349,7 +349,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Statistics.Flights"</code></td> 
+        <tr> <td><code>"Flights"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -361,7 +361,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Statistics.Minutes Delayed"</code></td> 
+        <tr> <td><code>"Minutes Delayed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -426,7 +426,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Carrier"</code></td> 
+        <tr> <td><code>"Carrier"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -438,7 +438,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of delays and cancellations due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.) in this month.</td> </tr>
         
-        <tr> <td><code>"Late Aircraft"</code></td> 
+        <tr> <td><code>"Late Aircraft"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -450,7 +450,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of delays and cancellations caused by a previous flight with the same aircraft arriving late, causing the present flight to depart late in this month.</td> </tr>
         
-        <tr> <td><code>"National Aviation System"</code></td> 
+        <tr> <td><code>"National Aviation System"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -462,7 +462,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control in this month.</td> </tr>
         
-        <tr> <td><code>"Security"</code></td> 
+        <tr> <td><code>"Security"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -474,7 +474,7 @@ $(document).ready(function() {
              </td> 
              <td>Number of delays or cancellations caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas in this month.</td> </tr>
         
-        <tr> <td><code>"Weather"</code></td> 
+        <tr> <td><code>"Weather"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -547,7 +547,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Names"</code></td> 
+        <tr> <td><code>"Names"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -559,7 +559,7 @@ $(document).ready(function() {
              </td> 
              <td>The full names of the carriers that reported in.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -608,7 +608,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Cancelled"</code></td> 
+        <tr> <td><code>"Cancelled"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -620,7 +620,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of flights that were cancelled in this month.</td> </tr>
         
-        <tr> <td><code>"Delayed"</code></td> 
+        <tr> <td><code>"Delayed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -632,7 +632,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of flights that were delayed in this month.</td> </tr>
         
-        <tr> <td><code>"Diverted"</code></td> 
+        <tr> <td><code>"Diverted"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -644,7 +644,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of flights that were diverted in this month.</td> </tr>
         
-        <tr> <td><code>"On Time"</code></td> 
+        <tr> <td><code>"On Time"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -656,7 +656,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of flights that were on time in this month.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -729,7 +729,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Carrier"</code></td> 
+        <tr> <td><code>"Carrier"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -741,7 +741,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of minutes delayed due to circumstances within the airline's control (e.g. maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.) in this month.</td> </tr>
         
-        <tr> <td><code>"Late Aircraft"</code></td> 
+        <tr> <td><code>"Late Aircraft"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -753,7 +753,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of minutes delayed caused by a previous flight with the same aircraft arriving late, causing the present flight to depart late in this month.</td> </tr>
         
-        <tr> <td><code>"National Aviation System"</code></td> 
+        <tr> <td><code>"National Aviation System"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -765,7 +765,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of minutes delayed attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control in this month.</td> </tr>
         
-        <tr> <td><code>"Security"</code></td> 
+        <tr> <td><code>"Security"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -777,7 +777,7 @@ $(document).ready(function() {
              </td> 
              <td>Number of minutes delayed caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas in this month.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -789,7 +789,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"Weather"</code></td> 
+        <tr> <td><code>"Weather"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"id"</code></td> 
+        <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"material"</code></td> 
+        <tr> <td><code>"material"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"location"</code></td> 
+        <tr> <td><code>"location"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -132,7 +132,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"purposes"</code></td> 
+        <tr> <td><code>"purposes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -144,7 +144,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"statistics"</code></td> 
+        <tr> <td><code>"statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -156,7 +156,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"status"</code></td> 
+        <tr> <td><code>"status"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -245,7 +245,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"city"</code></td> 
+        <tr> <td><code>"city"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -257,7 +257,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"city_id"</code></td> 
+        <tr> <td><code>"city_id"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -269,7 +269,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"country"</code></td> 
+        <tr> <td><code>"country"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -281,7 +281,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"country id"</code></td> 
+        <tr> <td><code>"country id"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -293,7 +293,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"latitude"</code></td> 
+        <tr> <td><code>"latitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -305,7 +305,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"longitude"</code></td> 
+        <tr> <td><code>"longitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -386,7 +386,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"abandoned"</code></td> 
+        <tr> <td><code>"abandoned"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -398,7 +398,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"air traffic control tower"</code></td> 
+        <tr> <td><code>"air traffic control tower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -410,7 +410,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"belltower"</code></td> 
+        <tr> <td><code>"belltower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -422,7 +422,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"bridge"</code></td> 
+        <tr> <td><code>"bridge"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -434,7 +434,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"casino"</code></td> 
+        <tr> <td><code>"casino"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -446,7 +446,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"commercial"</code></td> 
+        <tr> <td><code>"commercial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -458,7 +458,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"education"</code></td> 
+        <tr> <td><code>"education"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -470,7 +470,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"exhibition"</code></td> 
+        <tr> <td><code>"exhibition"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -482,7 +482,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"government"</code></td> 
+        <tr> <td><code>"government"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -494,7 +494,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"hospital"</code></td> 
+        <tr> <td><code>"hospital"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -506,7 +506,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"hotel"</code></td> 
+        <tr> <td><code>"hotel"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -518,7 +518,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"industrial"</code></td> 
+        <tr> <td><code>"industrial"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -530,7 +530,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"library"</code></td> 
+        <tr> <td><code>"library"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -542,7 +542,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"multiple"</code></td> 
+        <tr> <td><code>"multiple"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -554,7 +554,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"museum"</code></td> 
+        <tr> <td><code>"museum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -566,7 +566,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"observation"</code></td> 
+        <tr> <td><code>"observation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -578,7 +578,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"office"</code></td> 
+        <tr> <td><code>"office"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -590,7 +590,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"other"</code></td> 
+        <tr> <td><code>"other"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -602,7 +602,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"religious"</code></td> 
+        <tr> <td><code>"religious"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -614,7 +614,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"residential"</code></td> 
+        <tr> <td><code>"residential"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -626,7 +626,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"retail"</code></td> 
+        <tr> <td><code>"retail"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -638,7 +638,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"serviced apartments"</code></td> 
+        <tr> <td><code>"serviced apartments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -650,7 +650,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"telecommunications"</code></td> 
+        <tr> <td><code>"telecommunications"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -867,7 +867,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"floors above"</code></td> 
+        <tr> <td><code>"floors above"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -879,7 +879,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"height"</code></td> 
+        <tr> <td><code>"height"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -891,7 +891,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"number of purposes"</code></td> 
+        <tr> <td><code>"number of purposes"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -903,7 +903,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"rank"</code></td> 
+        <tr> <td><code>"rank"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -968,7 +968,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"current"</code></td> 
+        <tr> <td><code>"current"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -980,7 +980,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"status.completed"</code></td> 
+        <tr> <td><code>"completed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -992,7 +992,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"status.started"</code></td> 
+        <tr> <td><code>"started"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1049,7 +1049,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"is completed"</code></td> 
+        <tr> <td><code>"is completed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -1061,7 +1061,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"year"</code></td> 
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1110,7 +1110,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"is started"</code></td> 
+        <tr> <td><code>"is started"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -1122,7 +1122,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"year"</code></td> 
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

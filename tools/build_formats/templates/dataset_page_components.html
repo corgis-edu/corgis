@@ -49,7 +49,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         {% for short_name, property in properties.items() %}
-        <tr> <td><code>{{ short_name|wrap_quotes }}</code></td> 
+        <tr> <td><code>{{ (short_name.split('.')[-1])|wrap_quotes }}</code></td>
              <td><span data-toggle="tooltip"
                        title='{{ LANGUAGE_TYPE_DESCRIPTIONS[property.type] }}'>
                        {{ LANGUAGE_TYPE_NAMES[property.type] }}</span></td> 

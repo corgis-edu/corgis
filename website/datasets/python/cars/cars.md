@@ -82,7 +82,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Dimensions"</code></td> 
+        <tr> <td><code>"Dimensions"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -94,7 +94,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Engine Information"</code></td> 
+        <tr> <td><code>"Engine Information"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -106,7 +106,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Fuel Information"</code></td> 
+        <tr> <td><code>"Fuel Information"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -118,7 +118,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Identification"</code></td> 
+        <tr> <td><code>"Identification"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -183,7 +183,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Height"</code></td> 
+        <tr> <td><code>"Height"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -195,7 +195,7 @@ $(document).ready(function() {
              </td> 
              <td>Unknown values are stored as 0. Unfortunately, many cars do not report this data.</td> </tr>
         
-        <tr> <td><code>"Length"</code></td> 
+        <tr> <td><code>"Length"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -207,7 +207,7 @@ $(document).ready(function() {
              </td> 
              <td>Unknown values are stored as 0. Unfortunately, many cars do not report this data.</td> </tr>
         
-        <tr> <td><code>"Width"</code></td> 
+        <tr> <td><code>"Width"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -264,7 +264,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Driveline"</code></td> 
+        <tr> <td><code>"Driveline"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -276,7 +276,7 @@ $(document).ready(function() {
              </td> 
              <td>A string representing whether this is "Rear-wheel drive", "Front-wheel drive", or "All-wheel drive".</td> </tr>
         
-        <tr> <td><code>"Engine Type"</code></td> 
+        <tr> <td><code>"Engine Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -288,7 +288,7 @@ $(document).ready(function() {
              </td> 
              <td>How many cylinders are in this engine. Most cars are either a 6-cylinder or an 8-cylinder.</td> </tr>
         
-        <tr> <td><code>"Hybrid"</code></td> 
+        <tr> <td><code>"Hybrid"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -300,7 +300,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this is a hybrid engine or not - that is, if it uses both an internal combustion engine and an electric motor.</td> </tr>
         
-        <tr> <td><code>"Number of Forward Gears"</code></td> 
+        <tr> <td><code>"Number of Forward Gears"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -312,7 +312,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of forward gears. If no information is available, it is coded as 0.</td> </tr>
         
-        <tr> <td><code>"Transmission"</code></td> 
+        <tr> <td><code>"Transmission"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -324,7 +324,7 @@ $(document).ready(function() {
              </td> 
              <td>The full name of this type of transmission, based on its Classification and number of forward gears.</td> </tr>
         
-        <tr> <td><code>"Engine Information.Engine Statistics"</code></td> 
+        <tr> <td><code>"Engine Statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -405,7 +405,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"City mpg"</code></td> 
+        <tr> <td><code>"City mpg"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -417,7 +417,7 @@ $(document).ready(function() {
              </td> 
              <td>The miles-per-gallon this car gets on average in cities.</td> </tr>
         
-        <tr> <td><code>"Fuel Type"</code></td> 
+        <tr> <td><code>"Fuel Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -429,7 +429,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this car takes "Gasoline", "Diesel fuel", "Electricity", "Compressed natural gas", or "E85" (a term that refers to high-level ethanol-gasoline blends containing 51%-83% ethanol). If it is unknown, it is left blank.</td> </tr>
         
-        <tr> <td><code>"Highway mpg"</code></td> 
+        <tr> <td><code>"Highway mpg"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -486,7 +486,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Classification"</code></td> 
+        <tr> <td><code>"Classification"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -498,7 +498,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this is a "Manual transmission" or an "Automatic transmission". If it is unknown, it is left blank.</td> </tr>
         
-        <tr> <td><code>"ID"</code></td> 
+        <tr> <td><code>"ID"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -510,7 +510,7 @@ $(document).ready(function() {
              </td> 
              <td>A unique ID for this particular car, using the year, make, model, and transmission type.</td> </tr>
         
-        <tr> <td><code>"Make"</code></td> 
+        <tr> <td><code>"Make"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -522,7 +522,7 @@ $(document).ready(function() {
              </td> 
              <td>The maker for this car.</td> </tr>
         
-        <tr> <td><code>"Model Year"</code></td> 
+        <tr> <td><code>"Model Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -534,7 +534,7 @@ $(document).ready(function() {
              </td> 
              <td>The specific name/year for this car.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -607,7 +607,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Horsepower"</code></td> 
+        <tr> <td><code>"Horsepower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -619,7 +619,7 @@ $(document).ready(function() {
              </td> 
              <td>A measure of the engine's power. A unit of power equal to 550 foot-pounds per second (745.7 watts).</td> </tr>
         
-        <tr> <td><code>"Torque"</code></td> 
+        <tr> <td><code>"Torque"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

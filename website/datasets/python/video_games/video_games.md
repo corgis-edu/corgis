@@ -85,7 +85,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Title"</code></td> 
+        <tr> <td><code>"Title"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -97,7 +97,7 @@ $(document).ready(function() {
              </td> 
              <td>The full title of this game.</td> </tr>
         
-        <tr> <td><code>"Features"</code></td> 
+        <tr> <td><code>"Features"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -109,7 +109,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Metadata"</code></td> 
+        <tr> <td><code>"Metadata"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -121,7 +121,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Metrics"</code></td> 
+        <tr> <td><code>"Metrics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -133,7 +133,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Release"</code></td> 
+        <tr> <td><code>"Release"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -145,7 +145,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Length"</code></td> 
+        <tr> <td><code>"Length"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -226,7 +226,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Handheld?"</code></td> 
+        <tr> <td><code>"Handheld?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -238,7 +238,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this is a hand-held game.</td> </tr>
         
-        <tr> <td><code>"Max Players"</code></td> 
+        <tr> <td><code>"Max Players"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -250,7 +250,7 @@ $(document).ready(function() {
              </td> 
              <td>The maximum number of players that can play this game.</td> </tr>
         
-        <tr> <td><code>"Multiplatform?"</code></td> 
+        <tr> <td><code>"Multiplatform?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -262,7 +262,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this game is available on multiple platforms.</td> </tr>
         
-        <tr> <td><code>"Online?"</code></td> 
+        <tr> <td><code>"Online?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -327,7 +327,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Genres"</code></td> 
+        <tr> <td><code>"Genres"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -339,7 +339,7 @@ $(document).ready(function() {
              </td> 
              <td>The list of genres that this game belongs to.</td> </tr>
         
-        <tr> <td><code>"Licensed?"</code></td> 
+        <tr> <td><code>"Licensed?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -351,7 +351,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this game was based off a previously licensed entity.</td> </tr>
         
-        <tr> <td><code>"Publishers"</code></td> 
+        <tr> <td><code>"Publishers"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -363,7 +363,7 @@ $(document).ready(function() {
              </td> 
              <td>The list of publishers who created this game</td> </tr>
         
-        <tr> <td><code>"Sequel?"</code></td> 
+        <tr> <td><code>"Sequel?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -428,7 +428,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Review Score"</code></td> 
+        <tr> <td><code>"Review Score"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -440,7 +440,7 @@ $(document).ready(function() {
              </td> 
              <td>a typical review score for this game, out of 100.</td> </tr>
         
-        <tr> <td><code>"Sales"</code></td> 
+        <tr> <td><code>"Sales"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -452,7 +452,7 @@ $(document).ready(function() {
              </td> 
              <td>The total sales made on this game, measured in millions of dollars.</td> </tr>
         
-        <tr> <td><code>"Used Price"</code></td> 
+        <tr> <td><code>"Used Price"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -509,7 +509,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Console"</code></td> 
+        <tr> <td><code>"Console"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -521,7 +521,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of the console that this particular game was released for. Note that the dataset contains multiple copies of the same game, released for different consoles.</td> </tr>
         
-        <tr> <td><code>"Rating"</code></td> 
+        <tr> <td><code>"Rating"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -533,7 +533,7 @@ $(document).ready(function() {
              </td> 
              <td>The ESRB rating for this game, either E (for Everyone), T (for Teen), or M (for Mature).</td> </tr>
         
-        <tr> <td><code>"Re-release?"</code></td> 
+        <tr> <td><code>"Re-release?"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -545,7 +545,7 @@ $(document).ready(function() {
              </td> 
              <td>Whether this game is a re-release of an earlier one.</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -610,7 +610,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Length.All PlayStyles"</code></td> 
+        <tr> <td><code>"All PlayStyles"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -622,7 +622,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Length.Completionists"</code></td> 
+        <tr> <td><code>"Completionists"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -634,7 +634,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Length.Main + Extras"</code></td> 
+        <tr> <td><code>"Main + Extras"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -646,7 +646,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Length.Main Story"</code></td> 
+        <tr> <td><code>"Main Story"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -711,7 +711,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average"</code></td> 
+        <tr> <td><code>"Average"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -723,7 +723,7 @@ $(document).ready(function() {
              </td> 
              <td>The mean time that players reported completing the game in any way, in hours. This is the average over all the other categories.</td> </tr>
         
-        <tr> <td><code>"Leisure"</code></td> 
+        <tr> <td><code>"Leisure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -735,7 +735,7 @@ $(document).ready(function() {
              </td> 
              <td>The slowest time that players reported completing the game in any way, in hours. This is the minimum over all the other categories.</td> </tr>
         
-        <tr> <td><code>"Median"</code></td> 
+        <tr> <td><code>"Median"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -747,7 +747,7 @@ $(document).ready(function() {
              </td> 
              <td>The median time that players reported completing the game in any way, in hours. This is the median over all the other categories.</td> </tr>
         
-        <tr> <td><code>"Polled"</code></td> 
+        <tr> <td><code>"Polled"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -759,7 +759,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of players that reported completing the game in any way. This is the count over all the other categories.</td> </tr>
         
-        <tr> <td><code>"Rushed"</code></td> 
+        <tr> <td><code>"Rushed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -832,7 +832,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average"</code></td> 
+        <tr> <td><code>"Average"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -844,7 +844,7 @@ $(document).ready(function() {
              </td> 
              <td>The mean time that players reported completing everything in the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Leisure"</code></td> 
+        <tr> <td><code>"Leisure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -856,7 +856,7 @@ $(document).ready(function() {
              </td> 
              <td>The slowest time that players reported completing everything in the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Median"</code></td> 
+        <tr> <td><code>"Median"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -868,7 +868,7 @@ $(document).ready(function() {
              </td> 
              <td>The median time that players reported completing everything in the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Polled"</code></td> 
+        <tr> <td><code>"Polled"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -880,7 +880,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of players that reported completing everything in the game.</td> </tr>
         
-        <tr> <td><code>"Rushed"</code></td> 
+        <tr> <td><code>"Rushed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -953,7 +953,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average"</code></td> 
+        <tr> <td><code>"Average"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -965,7 +965,7 @@ $(document).ready(function() {
              </td> 
              <td>The mean time that players reported completing the main game and major extra parts of the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Leisure"</code></td> 
+        <tr> <td><code>"Leisure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -977,7 +977,7 @@ $(document).ready(function() {
              </td> 
              <td>The slowest time that players reported completing the main game and major extra parts of the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Median"</code></td> 
+        <tr> <td><code>"Median"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -989,7 +989,7 @@ $(document).ready(function() {
              </td> 
              <td>The median time that players reported completing the main game and major extra parts of the game, in hours.</td> </tr>
         
-        <tr> <td><code>"Polled"</code></td> 
+        <tr> <td><code>"Polled"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1001,7 +1001,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of players that reported completing the main game and major extra parts of the game.</td> </tr>
         
-        <tr> <td><code>"Rushed"</code></td> 
+        <tr> <td><code>"Rushed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1074,7 +1074,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average"</code></td> 
+        <tr> <td><code>"Average"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1086,7 +1086,7 @@ $(document).ready(function() {
              </td> 
              <td>The mean time that players reported completing the main game storyline, in hours.</td> </tr>
         
-        <tr> <td><code>"Leisure"</code></td> 
+        <tr> <td><code>"Leisure"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1098,7 +1098,7 @@ $(document).ready(function() {
              </td> 
              <td>The slowest time that players reported completing the main game storyline, in hours.</td> </tr>
         
-        <tr> <td><code>"Median"</code></td> 
+        <tr> <td><code>"Median"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1110,7 +1110,7 @@ $(document).ready(function() {
              </td> 
              <td>The median time that players reported completing the main game storyline, in hours.</td> </tr>
         
-        <tr> <td><code>"Polled"</code></td> 
+        <tr> <td><code>"Polled"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1122,7 +1122,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of players that reported completing the main game storyline.</td> </tr>
         
-        <tr> <td><code>"Rushed"</code></td> 
+        <tr> <td><code>"Rushed"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

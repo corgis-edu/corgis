@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"bibliography"</code></td> 
+        <tr> <td><code>"bibliography"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"metadata"</code></td> 
+        <tr> <td><code>"metadata"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"metrics"</code></td> 
+        <tr> <td><code>"metrics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -165,7 +165,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"congress classifications"</code></td> 
+        <tr> <td><code>"congress classifications"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -177,7 +177,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"languages"</code></td> 
+        <tr> <td><code>"languages"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -189,7 +189,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"subjects"</code></td> 
+        <tr> <td><code>"subjects"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -201,7 +201,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"title"</code></td> 
+        <tr> <td><code>"title"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -213,7 +213,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"type"</code></td> 
+        <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -225,7 +225,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"bibliography.author"</code></td> 
+        <tr> <td><code>"author"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -237,7 +237,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"bibliography.publication"</code></td> 
+        <tr> <td><code>"publication"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"downloads"</code></td> 
+        <tr> <td><code>"downloads"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -338,7 +338,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of times this book has been downloaded from Project Gutenberg, as of the last update (circa Spring 2016).</td> </tr>
         
-        <tr> <td><code>"id"</code></td> 
+        <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -350,7 +350,7 @@ $(document).ready(function() {
              </td> 
              <td>Every book on Project Gutenberg has a unique ID number. You can use this number to check the book on project gutenberg (e.g., book 110 is <a href="http://www.gutenberg.org/ebooks/110">http://www.gutenberg.org/ebooks/110</a>).</td> </tr>
         
-        <tr> <td><code>"rank"</code></td> 
+        <tr> <td><code>"rank"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -362,7 +362,7 @@ $(document).ready(function() {
              </td> 
              <td>The rank of this book in comparison to other books on Gutenberg, measured by number of downloads. A lower rank indicatest that that book is more popular.</td> </tr>
         
-        <tr> <td><code>"url"</code></td> 
+        <tr> <td><code>"url"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -374,7 +374,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"metadata.formats"</code></td> 
+        <tr> <td><code>"formats"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"birth"</code></td> 
+        <tr> <td><code>"birth"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>The recorded birth year of the author. If their birth year is unknown, it is replaced with "0".</td> </tr>
         
-        <tr> <td><code>"death"</code></td> 
+        <tr> <td><code>"death"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -471,7 +471,7 @@ $(document).ready(function() {
              </td> 
              <td>The recorded year of the author's death. If their death year is unknown, it is replaced with "0".</td> </tr>
         
-        <tr> <td><code>"name"</code></td> 
+        <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -528,7 +528,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"day"</code></td> 
+        <tr> <td><code>"day"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -540,7 +540,7 @@ $(document).ready(function() {
              </td> 
              <td>The day of the month when the book was published. Notice that missing values have been coded as "0".</td> </tr>
         
-        <tr> <td><code>"full"</code></td> 
+        <tr> <td><code>"full"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -552,7 +552,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"month"</code></td> 
+        <tr> <td><code>"month"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -564,7 +564,7 @@ $(document).ready(function() {
              </td> 
              <td>The month of the year when the book was published; 1 corresponds to January, 2 to February, etc. Notice that missing values have been coded as "0".</td> </tr>
         
-        <tr> <td><code>"month name"</code></td> 
+        <tr> <td><code>"month name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -576,7 +576,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"year"</code></td> 
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -649,7 +649,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"total"</code></td> 
+        <tr> <td><code>"total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -661,7 +661,7 @@ $(document).ready(function() {
              </td> 
              <td>Project Gutenberg makes books available in a wide variety of file formats, including raw text files, HTML web pages, audio books, etc. This field indicates the number of ways that this book is available.</td> </tr>
         
-        <tr> <td><code>"types"</code></td> 
+        <tr> <td><code>"types"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -710,7 +710,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"metrics.difficulty"</code></td> 
+        <tr> <td><code>"difficulty"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -722,7 +722,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"metrics.sentiments"</code></td> 
+        <tr> <td><code>"sentiments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -734,7 +734,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"metrics.statistics"</code></td> 
+        <tr> <td><code>"statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -791,7 +791,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"automated readability index"</code></td> 
+        <tr> <td><code>"automated readability index"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -803,7 +803,7 @@ $(document).ready(function() {
              </td> 
              <td>The Automated Readability Index is a number indicating the understandability of the text. This number is an approximate US Grade Level needed to comprehend the text, calculated using the characters per word and words per sentences.</td> </tr>
         
-        <tr> <td><code>"coleman liau index"</code></td> 
+        <tr> <td><code>"coleman liau index"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -815,7 +815,7 @@ $(document).ready(function() {
              </td> 
              <td>The Coleman Liau Index is a number indicating the understandability of the text. This number is an approximate US Grade Level needed to comprehend the text, calculated using characters instead of syllables, similar to the Automated Readability Index.</td> </tr>
         
-        <tr> <td><code>"dale chall readability score"</code></td> 
+        <tr> <td><code>"dale chall readability score"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -827,7 +827,7 @@ $(document).ready(function() {
              </td> 
              <td>The Dale Chall Readability Score provides a numeric gauge of the comprehension difficulty that readers come upon when reading a text. It uses a list of 3000 words that groups of fourth-grade American students could reliably understand, considering any word not on that list to be difficult. This number is an approximate US Grade Level needed to comprehend the text.</td> </tr>
         
-        <tr> <td><code>"difficult words"</code></td> 
+        <tr> <td><code>"difficult words"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -839,7 +839,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of words in the text that are considered "difficult"; that is, they are not on a list of 3000 words that are considered understandable by fourth-grade American students.</td> </tr>
         
-        <tr> <td><code>"flesch kincaid grade"</code></td> 
+        <tr> <td><code>"flesch kincaid grade"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -851,7 +851,7 @@ $(document).ready(function() {
              </td> 
              <td>The "Flesch-Kincaid Grade Level Formula" presents a score as a U.S. grade level, making it easier to understand. It uses a similar formula to the Flesch Reading Ease measure.</td> </tr>
         
-        <tr> <td><code>"flesch reading ease"</code></td> 
+        <tr> <td><code>"flesch reading ease"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -863,7 +863,7 @@ $(document).ready(function() {
              </td> 
              <td>The 'Flesch Reading Ease' uses the sentence length (number of words per sentence) and the number of syllables per word in an equation to calculate the reading ease. Texts with a very high Flesch reading Ease score (about 100) are very easy to read, have short sentences and no words of more than two syllables.</td> </tr>
         
-        <tr> <td><code>"gunning fog"</code></td> 
+        <tr> <td><code>"gunning fog"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -875,7 +875,7 @@ $(document).ready(function() {
              </td> 
              <td>The Gunning Fog Index measures the readability of English writing. The index estimates the years of formal education needed to understand the text on a first reading. The formula is calculated using the ratio of words to sentences and the percentage of words that are complex (i.e. have three or more syllables).</td> </tr>
         
-        <tr> <td><code>"linsear write formula"</code></td> 
+        <tr> <td><code>"linsear write formula"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -887,7 +887,7 @@ $(document).ready(function() {
              </td> 
              <td>Linsear Write is a readability metric for English text, purportedly developed for the United States Air Force to help them calculate the readability of their technical manuals. It was designed to calculate the United States grade level of a text sample based on sentence length and the number words used that have three or more syllables.</td> </tr>
         
-        <tr> <td><code>"smog index"</code></td> 
+        <tr> <td><code>"smog index"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -992,7 +992,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"polarity"</code></td> 
+        <tr> <td><code>"polarity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1004,7 +1004,7 @@ $(document).ready(function() {
              </td> 
              <td>Sentiment analysis attempts to determine the attitude of a speaker or a writer with respect to some topic or the overall contextual polarity of a document. Polarity in particular refers to how positive or negative the author is towards the content.</td> </tr>
         
-        <tr> <td><code>"subjectivity"</code></td> 
+        <tr> <td><code>"subjectivity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1053,7 +1053,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"average letter per word"</code></td> 
+        <tr> <td><code>"average letter per word"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1065,7 +1065,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"average sentence length"</code></td> 
+        <tr> <td><code>"average sentence length"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1077,7 +1077,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"average sentence per word"</code></td> 
+        <tr> <td><code>"average sentence per word"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1089,7 +1089,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"characters"</code></td> 
+        <tr> <td><code>"characters"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1101,7 +1101,7 @@ $(document).ready(function() {
              </td> 
              <td>Characters are letters and symbols in a text, not the number of people.</td> </tr>
         
-        <tr> <td><code>"polysyllables"</code></td> 
+        <tr> <td><code>"polysyllables"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1113,7 +1113,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of words that have 3 or more syllables.</td> </tr>
         
-        <tr> <td><code>"sentences"</code></td> 
+        <tr> <td><code>"sentences"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1125,7 +1125,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"syllables"</code></td> 
+        <tr> <td><code>"syllables"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1137,7 +1137,7 @@ $(document).ready(function() {
              </td> 
              <td>$MISSING_FIELD</td> </tr>
         
-        <tr> <td><code>"words"</code></td> 
+        <tr> <td><code>"words"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

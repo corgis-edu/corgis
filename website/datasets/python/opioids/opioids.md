@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td>The year for which the data is reported (1999-2017)</td> </tr>
         
-        <tr> <td><code>"Number"</code></td> 
+        <tr> <td><code>"Number"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate"</code></td> 
+        <tr> <td><code>"Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -164,7 +164,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -176,7 +176,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of overdose deaths from all drugs</td> </tr>
         
-        <tr> <td><code>"Number.Opioid"</code></td> 
+        <tr> <td><code>"Opioid"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -225,7 +225,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Any"</code></td> 
+        <tr> <td><code>"Any"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -237,7 +237,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of overdose deaths due to any Opioid drug</td> </tr>
         
-        <tr> <td><code>"Prescription"</code></td> 
+        <tr> <td><code>"Prescription"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -249,7 +249,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of overdose deaths due to a prescription Opioid drug</td> </tr>
         
-        <tr> <td><code>"Synthetic"</code></td> 
+        <tr> <td><code>"Synthetic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -261,7 +261,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of overdose deaths due to a synthetic Opioid drug (e.g. fentanyl)</td> </tr>
         
-        <tr> <td><code>"Heroin"</code></td> 
+        <tr> <td><code>"Heroin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -273,7 +273,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of overdose deaths due to heroin</td> </tr>
         
-        <tr> <td><code>"Cocaine"</code></td> 
+        <tr> <td><code>"Cocaine"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -346,7 +346,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rate.All"</code></td> 
+        <tr> <td><code>"All"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -358,7 +358,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid"</code></td> 
+        <tr> <td><code>"Opioid"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -407,7 +407,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -419,7 +419,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.All.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -431,7 +431,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.All.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -443,7 +443,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.All.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -508,7 +508,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -520,7 +520,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among mendue to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -569,7 +569,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -581,7 +581,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -593,7 +593,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -650,7 +650,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -662,7 +662,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -674,7 +674,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons from all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -731,7 +731,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Rate.Opioid.Any"</code></td> 
+        <tr> <td><code>"Any"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -743,7 +743,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Prescription"</code></td> 
+        <tr> <td><code>"Prescription"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -755,7 +755,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Synthetic"</code></td> 
+        <tr> <td><code>"Synthetic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -767,7 +767,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Heroin"</code></td> 
+        <tr> <td><code>"Heroin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -779,7 +779,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Cocaine"</code></td> 
+        <tr> <td><code>"Cocaine"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -852,7 +852,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -864,7 +864,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Any.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -876,7 +876,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Any.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -888,7 +888,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Any.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -953,7 +953,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -965,7 +965,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among men due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1014,7 +1014,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1026,7 +1026,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1038,7 +1038,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1095,7 +1095,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1107,7 +1107,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1119,7 +1119,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1176,7 +1176,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1188,7 +1188,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Prescription.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1200,7 +1200,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Prescription.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1212,7 +1212,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Prescription.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1277,7 +1277,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1289,7 +1289,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among men due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1338,7 +1338,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1350,7 +1350,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1362,7 +1362,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1419,7 +1419,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1431,7 +1431,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1443,7 +1443,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons due to a prescription Opioid drug  per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1500,7 +1500,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1512,7 +1512,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Synthetic.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1524,7 +1524,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Synthetic.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1536,7 +1536,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Synthetic.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1601,7 +1601,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1613,7 +1613,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among men due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1662,7 +1662,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1674,7 +1674,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1686,7 +1686,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to a Synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1743,7 +1743,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1755,7 +1755,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1767,7 +1767,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1824,7 +1824,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1836,7 +1836,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Heroin.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1848,7 +1848,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Heroin.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1860,7 +1860,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Heroin.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1925,7 +1925,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1937,7 +1937,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among men due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1986,7 +1986,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1998,7 +1998,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2010,7 +2010,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2067,7 +2067,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2079,7 +2079,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2091,7 +2091,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2148,7 +2148,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2160,7 +2160,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Cocaine.Sex"</code></td> 
+        <tr> <td><code>"Sex"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2172,7 +2172,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Cocaine.Region"</code></td> 
+        <tr> <td><code>"Region"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2184,7 +2184,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Rate.Opioid.Cocaine.Race"</code></td> 
+        <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2249,7 +2249,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2261,7 +2261,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among men due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2310,7 +2310,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Large City"</code></td> 
+        <tr> <td><code>"Large City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2322,7 +2322,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in large metropolitan areas due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Small City"</code></td> 
+        <tr> <td><code>"Small City"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2334,7 +2334,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths in medium-small metropolitan areas due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Rural"</code></td> 
+        <tr> <td><code>"Rural"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2391,7 +2391,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"White"</code></td> 
+        <tr> <td><code>"White"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2403,7 +2403,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among White non-Hispanic persons due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Black"</code></td> 
+        <tr> <td><code>"Black"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2415,7 +2415,7 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Hispanic"</code></td> 
+        <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

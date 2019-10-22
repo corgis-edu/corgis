@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The year of this report.</td> </tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects"</code></td> 
+        <tr> <td><code>"Academic Subjects"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -132,7 +132,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income"</code></td> 
+        <tr> <td><code>"Family Income"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -144,7 +144,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA"</code></td> 
+        <tr> <td><code>"GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -156,7 +156,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Gender"</code></td> 
+        <tr> <td><code>"Gender"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -168,7 +168,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges"</code></td> 
+        <tr> <td><code>"Score Ranges"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -265,7 +265,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Code"</code></td> 
+        <tr> <td><code>"Code"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -277,7 +277,7 @@ $(document).ready(function() {
              </td> 
              <td>The two-letter abbreviation of the state for thsi report.</td> </tr>
         
-        <tr> <td><code>"Name"</code></td> 
+        <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -338,7 +338,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -350,7 +350,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -407,7 +407,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Academic Subjects.Arts/Music"</code></td> 
+        <tr> <td><code>"Arts/Music"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -419,7 +419,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects.English"</code></td> 
+        <tr> <td><code>"English"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -431,7 +431,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects.Foreign Languages"</code></td> 
+        <tr> <td><code>"Foreign Languages"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -443,7 +443,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects.Mathematics"</code></td> 
+        <tr> <td><code>"Mathematics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -455,7 +455,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects.Natural Sciences"</code></td> 
+        <tr> <td><code>"Natural Sciences"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -467,7 +467,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Academic Subjects.Social Sciences/History"</code></td> 
+        <tr> <td><code>"Social Sciences/History"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -548,7 +548,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -560,7 +560,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in Arts/Music. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -609,7 +609,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -621,7 +621,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in English. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -670,7 +670,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -682,7 +682,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in Foreign Languages. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -731,7 +731,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -743,7 +743,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in Math. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -792,7 +792,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -804,7 +804,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in the Natural Sciences. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -853,7 +853,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Average GPA"</code></td> 
+        <tr> <td><code>"Average GPA"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -865,7 +865,7 @@ $(document).ready(function() {
              </td> 
              <td>The average GPA of all students in this state during this year in Social Sciences and History. Note that this is just the GPA within the subject, not across all academic subjects.</td> </tr>
         
-        <tr> <td><code>"Average Years"</code></td> 
+        <tr> <td><code>"Average Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -914,7 +914,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Family Income.Between 20-40k"</code></td> 
+        <tr> <td><code>"Between 20-40k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -926,7 +926,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income.Between 40-60k"</code></td> 
+        <tr> <td><code>"Between 40-60k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -938,7 +938,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income.Between 60-80k"</code></td> 
+        <tr> <td><code>"Between 60-80k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -950,7 +950,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income.Between 80-100k"</code></td> 
+        <tr> <td><code>"Between 80-100k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -962,7 +962,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income.Less than 20k"</code></td> 
+        <tr> <td><code>"Less than 20k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -974,7 +974,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Family Income.More than 100k"</code></td> 
+        <tr> <td><code>"More than 100k"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1055,7 +1055,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1067,7 +1067,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1079,7 +1079,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1136,7 +1136,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1148,7 +1148,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1160,7 +1160,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1217,7 +1217,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1229,7 +1229,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1241,7 +1241,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1298,7 +1298,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1310,7 +1310,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1322,7 +1322,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1379,7 +1379,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1391,7 +1391,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1403,7 +1403,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1460,7 +1460,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1472,7 +1472,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1484,7 +1484,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported that their family income was in this bracket.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1541,7 +1541,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"GPA.A minus"</code></td> 
+        <tr> <td><code>"A minus"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1553,7 +1553,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.A plus"</code></td> 
+        <tr> <td><code>"A plus"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1565,7 +1565,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.A"</code></td> 
+        <tr> <td><code>"A"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1577,7 +1577,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.B"</code></td> 
+        <tr> <td><code>"B"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1589,7 +1589,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.C"</code></td> 
+        <tr> <td><code>"C"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1601,7 +1601,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.D or lower"</code></td> 
+        <tr> <td><code>"D or lower"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1613,7 +1613,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"GPA.No response"</code></td> 
+        <tr> <td><code>"No response"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -1702,7 +1702,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1714,7 +1714,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1726,7 +1726,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1783,7 +1783,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1795,7 +1795,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1807,7 +1807,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1864,7 +1864,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1876,7 +1876,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1888,7 +1888,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1945,7 +1945,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1957,7 +1957,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1969,7 +1969,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2026,7 +2026,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2038,7 +2038,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2050,7 +2050,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2107,7 +2107,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2119,7 +2119,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2131,7 +2131,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2188,7 +2188,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2200,7 +2200,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2212,7 +2212,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who reported this for their high school grade point average.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2269,7 +2269,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Gender.Female"</code></td> 
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2281,7 +2281,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Gender.Male"</code></td> 
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2330,7 +2330,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2342,7 +2342,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who identified as Female.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2354,7 +2354,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who identified as Female.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2411,7 +2411,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2423,7 +2423,7 @@ $(document).ready(function() {
              </td> 
              <td>The average Math score of students in this state during this year who identified as Male.</td> </tr>
         
-        <tr> <td><code>"Test-takers"</code></td> 
+        <tr> <td><code>"Test-takers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2435,7 +2435,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of test-takers in this state during this year who identified as Male.</td> </tr>
         
-        <tr> <td><code>"Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2492,7 +2492,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 200 to 300"</code></td> 
+        <tr> <td><code>"Between 200 to 300"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2504,7 +2504,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 300 to 400"</code></td> 
+        <tr> <td><code>"Between 300 to 400"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2516,7 +2516,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 400 to 500"</code></td> 
+        <tr> <td><code>"Between 400 to 500"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2528,7 +2528,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 500 to 600"</code></td> 
+        <tr> <td><code>"Between 500 to 600"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2540,7 +2540,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 600 to 700"</code></td> 
+        <tr> <td><code>"Between 600 to 700"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2552,7 +2552,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 700 to 800"</code></td> 
+        <tr> <td><code>"Between 700 to 800"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2633,7 +2633,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 200 to 300.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2645,7 +2645,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 200 to 300.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2694,7 +2694,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2706,7 +2706,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2718,7 +2718,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2775,7 +2775,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2787,7 +2787,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2799,7 +2799,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2856,7 +2856,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 300 to 400.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2868,7 +2868,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 300 to 400.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -2917,7 +2917,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2929,7 +2929,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2941,7 +2941,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -2998,7 +2998,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3010,7 +3010,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3022,7 +3022,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3079,7 +3079,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 400 to 500.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3091,7 +3091,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 400 to 500.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3140,7 +3140,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3152,7 +3152,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3164,7 +3164,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3221,7 +3221,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3233,7 +3233,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3245,7 +3245,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3302,7 +3302,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 500 to 600.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3314,7 +3314,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 500 to 600.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3363,7 +3363,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3375,7 +3375,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3387,7 +3387,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3444,7 +3444,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3456,7 +3456,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3468,7 +3468,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3525,7 +3525,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 600 to 700.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3537,7 +3537,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 600 to 700.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3586,7 +3586,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3598,7 +3598,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3610,7 +3610,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3667,7 +3667,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3679,7 +3679,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3691,7 +3691,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3748,7 +3748,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Score Ranges.Between 700 to 800.Math"</code></td> 
+        <tr> <td><code>"Math"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3760,7 +3760,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Score Ranges.Between 700 to 800.Verbal"</code></td> 
+        <tr> <td><code>"Verbal"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -3809,7 +3809,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3821,7 +3821,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3833,7 +3833,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Math who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3890,7 +3890,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Females"</code></td> 
+        <tr> <td><code>"Females"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3902,7 +3902,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Female in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Males"</code></td> 
+        <tr> <td><code>"Males"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -3914,7 +3914,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of students in this score range for Verbal (Reading, not Writing) who identified as Male in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td> 
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

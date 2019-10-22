@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Site"</code></td> 
+        <tr> <td><code>"Site"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td>Year when the turbine's project became operational</td> </tr>
         
-        <tr> <td><code>"Turbine"</code></td> 
+        <tr> <td><code>"Turbine"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Project"</code></td> 
+        <tr> <td><code>"Project"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -184,7 +184,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -196,7 +196,7 @@ $(document).ready(function() {
              </td> 
              <td>Two letter abbreviation of state where turbine is located (e.g., CA for California)</td> </tr>
         
-        <tr> <td><code>"County"</code></td> 
+        <tr> <td><code>"County"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -208,7 +208,7 @@ $(document).ready(function() {
              </td> 
              <td>County where the turbine is located.</td> </tr>
         
-        <tr> <td><code>"Latitude"</code></td> 
+        <tr> <td><code>"Latitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -220,7 +220,7 @@ $(document).ready(function() {
              </td> 
              <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td> </tr>
         
-        <tr> <td><code>"Longitude"</code></td> 
+        <tr> <td><code>"Longitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -285,7 +285,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Capacity"</code></td> 
+        <tr> <td><code>"Capacity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -297,7 +297,7 @@ $(document).ready(function() {
              </td> 
              <td>Electrical generation capacity of the turbine measured in KW (kilo-watts)</td> </tr>
         
-        <tr> <td><code>"Hub_Height"</code></td> 
+        <tr> <td><code>"Hub_Height"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -309,7 +309,7 @@ $(document).ready(function() {
              </td> 
              <td>Height in meters of the turbine's hub</td> </tr>
         
-        <tr> <td><code>"Rotor_Diameter"</code></td> 
+        <tr> <td><code>"Rotor_Diameter"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -321,7 +321,7 @@ $(document).ready(function() {
              </td> 
              <td>Diameter in meters of the turbine's rotor</td> </tr>
         
-        <tr> <td><code>"Swept_Area"</code></td> 
+        <tr> <td><code>"Swept_Area"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -333,7 +333,7 @@ $(document).ready(function() {
              </td> 
              <td>The area swept on each rotation of the turbine</td> </tr>
         
-        <tr> <td><code>"Total_Height"</code></td> 
+        <tr> <td><code>"Total_Height"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -406,7 +406,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Capacity"</code></td> 
+        <tr> <td><code>"Capacity"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -418,7 +418,7 @@ $(document).ready(function() {
              </td> 
              <td>Electrical generation capacity of the turbine measured in MW (mega-watts)</td> </tr>
         
-        <tr> <td><code>"Number_Turbines"</code></td> 
+        <tr> <td><code>"Number_Turbines"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 

@@ -87,7 +87,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"State"</code></td> 
+        <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -99,7 +99,7 @@ $(document).ready(function() {
              </td> 
              <td>The state that this report was made for (full name, not the two letter abbreviation).</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -111,7 +111,7 @@ $(document).ready(function() {
              </td> 
              <td>The year that this report was made for.</td> </tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -168,7 +168,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"DHS Denominator"</code></td> 
+        <tr> <td><code>"DHS Denominator"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -180,7 +180,7 @@ $(document).ready(function() {
              </td> 
              <td>The Davis-Haltiwanger-Schuh (DHS) denominator is the two-period trailing moving average of employment, intended to prevent transitory shocks from distorting net growth. In other words, this value roughly represents the employment for the area, but is resistant to sudden, spiking growth.</td> </tr>
         
-        <tr> <td><code>"Number of Firms"</code></td> 
+        <tr> <td><code>"Number of Firms"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -192,7 +192,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of firms in this state during this year.</td> </tr>
         
-        <tr> <td><code>"Data.Calculated"</code></td> 
+        <tr> <td><code>"Calculated"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -204,7 +204,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Establishments"</code></td> 
+        <tr> <td><code>"Establishments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -216,7 +216,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Firm Exits"</code></td> 
+        <tr> <td><code>"Firm Exits"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -228,7 +228,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Job Creation"</code></td> 
+        <tr> <td><code>"Job Creation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -240,7 +240,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Job Destruction"</code></td> 
+        <tr> <td><code>"Job Destruction"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -329,7 +329,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Net Job Creation"</code></td> 
+        <tr> <td><code>"Net Job Creation"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -341,7 +341,7 @@ $(document).ready(function() {
              </td> 
              <td>The sum of the Job Creation Rate minus the Job Destruction Rate.</td> </tr>
         
-        <tr> <td><code>"Net Job Creation Rate"</code></td> 
+        <tr> <td><code>"Net Job Creation Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -353,7 +353,7 @@ $(document).ready(function() {
              </td> 
              <td>The sum of the Job Creation Rate and the Job Destruction Rate, minus the Net Job Creation Rate.</td> </tr>
         
-        <tr> <td><code>"Reallocation Rate"</code></td> 
+        <tr> <td><code>"Reallocation Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -410,7 +410,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Entered"</code></td> 
+        <tr> <td><code>"Entered"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -422,7 +422,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of establishments that entered during this time. Entering occurs when an establishment did not exist in the previous year.</td> </tr>
         
-        <tr> <td><code>"Entered Rate"</code></td> 
+        <tr> <td><code>"Entered Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -434,7 +434,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of establishments that entered during this time divided by the number of establishments. Entering occurs when an establishment did not exist in the previous year.</td> </tr>
         
-        <tr> <td><code>"Exited"</code></td> 
+        <tr> <td><code>"Exited"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -446,7 +446,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of establishments that exited during this time. Exiting occurs when an establishment has positive employment in the previous year and zero this year.</td> </tr>
         
-        <tr> <td><code>"Exited Rate"</code></td> 
+        <tr> <td><code>"Exited Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -458,7 +458,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of establishments that exited during this time divided by the number of establishments. Exiting occurs when an establishment has positive employment in the previous year and zero this year.</td> </tr>
         
-        <tr> <td><code>"Physical Locations"</code></td> 
+        <tr> <td><code>"Physical Locations"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -531,7 +531,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Count"</code></td> 
+        <tr> <td><code>"Count"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -543,7 +543,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of firms that exited this year.</td> </tr>
         
-        <tr> <td><code>"Establishment Exit"</code></td> 
+        <tr> <td><code>"Establishment Exit"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -555,7 +555,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of establishments exited because of firm deaths.</td> </tr>
         
-        <tr> <td><code>"Job Destruction"</code></td> 
+        <tr> <td><code>"Job Destruction"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -612,7 +612,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Births"</code></td> 
+        <tr> <td><code>"Births"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -624,7 +624,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were created because of firm births in the past year.</td> </tr>
         
-        <tr> <td><code>"Continuers"</code></td> 
+        <tr> <td><code>"Continuers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -636,7 +636,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs at continuing establishments that were created in the last yaer.</td> </tr>
         
-        <tr> <td><code>"Count"</code></td> 
+        <tr> <td><code>"Count"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -648,7 +648,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were created in the last year.</td> </tr>
         
-        <tr> <td><code>"Rate"</code></td> 
+        <tr> <td><code>"Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -660,7 +660,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were created in the last year divided by the DHS denominator. The result is the rate at which jobs have been created.</td> </tr>
         
-        <tr> <td><code>"Rate/Births"</code></td> 
+        <tr> <td><code>"Rate/Births"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -733,7 +733,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Continuers"</code></td> 
+        <tr> <td><code>"Continuers"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -745,7 +745,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs at continuing establishments that were destroyed in the last year.</td> </tr>
         
-        <tr> <td><code>"Count"</code></td> 
+        <tr> <td><code>"Count"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -757,7 +757,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were destroyed in the last year.</td> </tr>
         
-        <tr> <td><code>"Deaths"</code></td> 
+        <tr> <td><code>"Deaths"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -769,7 +769,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were destroyed because of firm deaths that were destroyed in the last year.</td> </tr>
         
-        <tr> <td><code>"Rate"</code></td> 
+        <tr> <td><code>"Rate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -781,7 +781,7 @@ $(document).ready(function() {
              </td> 
              <td>The number of jobs that were destroyed in the last year divided by the DHS denominator. The result is the rate at which jobs have been destroyed.</td> </tr>
         
-        <tr> <td><code>"Rate/Deaths"</code></td> 
+        <tr> <td><code>"Rate/Deaths"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

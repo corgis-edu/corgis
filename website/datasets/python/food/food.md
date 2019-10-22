@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Category"</code></td> 
+        <tr> <td><code>"Category"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -96,7 +96,7 @@ $(document).ready(function() {
              </td> 
              <td>The general category of food that this item belongs to.</td> </tr>
         
-        <tr> <td><code>"Description"</code></td> 
+        <tr> <td><code>"Description"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -108,7 +108,7 @@ $(document).ready(function() {
              </td> 
              <td>A full description of this food item, including its category and some sub categories.</td> </tr>
         
-        <tr> <td><code>"Nutrient Data Bank Number"</code></td> 
+        <tr> <td><code>"Nutrient Data Bank Number"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -120,7 +120,7 @@ $(document).ready(function() {
              </td> 
              <td>A unique ID for this food item.</td> </tr>
         
-        <tr> <td><code>"Data"</code></td> 
+        <tr> <td><code>"Data"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -185,7 +185,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Alpha Carotene"</code></td> 
+        <tr> <td><code>"Alpha Carotene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -197,7 +197,7 @@ $(document).ready(function() {
              </td> 
              <td>Alpha Carotene is a form of carotene with a Beta-ionone ring at one end and an Alpha-ionone ring at the opposite end. It is the second most common form of carotene. Alpha Carotene is common in yellow-orange and dark-green vegetables. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Ash"</code></td> 
+        <tr> <td><code>"Ash"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -209,7 +209,7 @@ $(document).ready(function() {
              </td> 
              <td>Ash or mineral content is the portion of the food or any organic material that remains after it is burned at very high temperatures. The ash constituents include potassium, sodium, calcium and magnesium, which are present in larger amounts as well as smaller quantities of aluminum, iron, copper, manganese or zinc, arsenic, iodine, fluorine and other elements present in traces. Ash content represents the total mineral content in foods. Although minerals represent a small proportion of dry matter, often less than 7% of the total, they play an important role from a physicochemical, technological and nutritional point of view. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Beta Carotene"</code></td> 
+        <tr> <td><code>"Beta Carotene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -221,7 +221,7 @@ $(document).ready(function() {
              </td> 
              <td>An organic, strongly colored red-orange pigment abundant in plants and fruits. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Beta Cryptoxanthin"</code></td> 
+        <tr> <td><code>"Beta Cryptoxanthin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -233,7 +233,7 @@ $(document).ready(function() {
              </td> 
              <td>Cryptoxanthin is a natural carotenoid pigment. It has been isolated from a variety of sources including the petals and flowers of plants in the genus Physalis, orange rind, papaya, egg yolk, butter, apples, and bovine blood serum. In the human body, cryptoxanthin is converted to vitamin A (retinol) and is, therefore, considered a provitamin A. As with other carotenoids, cryptoxanthin is an antioxidant and may help prevent free radical damage to cells and DNA, as well as stimulate the repair of oxidative damage to DNA. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Carbohydrate"</code></td> 
+        <tr> <td><code>"Carbohydrate"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -245,7 +245,7 @@ $(document).ready(function() {
              </td> 
              <td>In food science and in many informal contexts, the term carbohydrate often means any food that is particularly rich in the complex carbohydrate starch (such as cereals, bread and pasta) or simple carbohydrates, such as sugar (found in candy, jams, and desserts). Carbohydrates are found in wide variety of foods. The important sources are cereals (wheat, maize, rice), potatoes, sugarcane, fruits, table sugar(sucrose), bread, milk, etc. Starch and sugar are the important carbohydrates in our diet. Starch is abundant in potatoes, maize, rice and other cereals. Sugar appears in our diet mainly as sucrose(table sugar) which is added to drinks and many prepared foods such as jam, biscuits and cakes. Glucose and fructose are found naturally in many fruits and some vegetables. Glycogen is carbohydrate found in the liver and muscles (as animal source). Cellulose in the cell wall of all plant tissue is a carbohydrate. It is important in our diet as fibre which helps to maintain a healthy digestive system. Measured in grams (g) by difference.</td> </tr>
         
-        <tr> <td><code>"Cholesterol"</code></td> 
+        <tr> <td><code>"Cholesterol"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -257,7 +257,7 @@ $(document).ready(function() {
              </td> 
              <td>An organic molecule that is a sterol (or modified steroid), a type of lipid molecule, and is biosynthesized by all animal cells, because it is an essential structural component of all animal cell membranes; essential to maintain both membrane structural integrity and fluidity. Cholesterol enables animal cells to dispense with a cell wall (to protect membrane integrity and cell viability), thereby allowing animal cells to change shape and animals to move (unlike bacteria and plant cells, which are restricted by their cell walls). Since all animal cells manufacture cholesterol, all animal-based foods contain cholesterol in varying amounts. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Choline"</code></td> 
+        <tr> <td><code>"Choline"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -269,7 +269,7 @@ $(document).ready(function() {
              </td> 
              <td>A water-soluble vitamin. Humans make choline in the liver. Whether dietary or supplemental choline is beneficial or harmful to humans is undefined. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Fiber"</code></td> 
+        <tr> <td><code>"Fiber"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -281,7 +281,7 @@ $(document).ready(function() {
              </td> 
              <td>Dietary fiber or roughage is the indigestible portion of food derived from plants. It has two main components: soluble fiber and insoluble fiber. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Kilocalories"</code></td> 
+        <tr> <td><code>"Kilocalories"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -293,7 +293,7 @@ $(document).ready(function() {
              </td> 
              <td>The total number of kilocalories in this food item. A kilocalorie is a unit of energy of 1000 calories (equal to 1 large calorie).</td> </tr>
         
-        <tr> <td><code>"Lutein and Zeaxanthin"</code></td> 
+        <tr> <td><code>"Lutein and Zeaxanthin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -305,7 +305,7 @@ $(document).ready(function() {
              </td> 
              <td>Lutein is synthesized only by plants and like other xanthophylls is found in high quantities in green leafy vegetables such as spinach, kale and yellow carrots. Zeaxanthin is one of the most common carotenoid alcohols found in nature. It is important in the xanthophyll cycle. Synthesized in plants and some micro-organisms, it is the pigment that gives paprika (made from bell peppers), corn, saffron, wolfberries, and many other plants and microbes their characteristic color. This combined quantity of these two compounds is measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Lycopene"</code></td> 
+        <tr> <td><code>"Lycopene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -317,7 +317,7 @@ $(document).ready(function() {
              </td> 
              <td>Lycopene is a bright red carotene and carotenoid pigment and phytochemical found in tomatoes and other red fruits and vegetables, such as red carrots, watermelons, gac, and papayas, although not in strawberries, or cherries. Although lycopene is chemically a carotene, it has no vitamin A activity. Foods that are not red may also contain lycopene, such as asparagus and parsley. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Manganese"</code></td> 
+        <tr> <td><code>"Manganese"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -329,7 +329,7 @@ $(document).ready(function() {
              </td> 
              <td>Manganese is a chemical element with symbol Mn and atomic number 25. In biology, manganese(II) ions function as cofactors for a large variety of enzymes with many functions. Manganese enzymes are particularly essential in detoxification of superoxide free radicals in organisms that must deal with elemental oxygen. Manganese also functions in the oxygen-evolving complex of photosynthetic plants. The element is a required trace mineral for all known living organisms but is a neurotoxin. In larger amounts, and apparently with far greater effectiveness through inhalation, it can cause a poisoning in mammals with neurological damage that is sometimes irreversible. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Niacin"</code></td> 
+        <tr> <td><code>"Niacin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -341,7 +341,7 @@ $(document).ready(function() {
              </td> 
              <td>Also known as vitamin B3 and nicotinic acid, is an organic compound with the formula C6H5NO 2 and, depending on the definition used, one of the 20 to 80 essential human nutrients. Measured in miligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Pantothenic Acid"</code></td> 
+        <tr> <td><code>"Pantothenic Acid"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -353,7 +353,7 @@ $(document).ready(function() {
              </td> 
              <td>Pantothenic acid, also called vitamin B5 (a B vitamin), is a water-soluble vitamin. Pantothenic acid is an essential nutrient. Animals require pantothenic acid to synthesize coenzyme-A (CoA), as well as to synthesize and metabolize proteins, carbohydrates, and fats. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Protein"</code></td> 
+        <tr> <td><code>"Protein"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -365,7 +365,7 @@ $(document).ready(function() {
              </td> 
              <td>Proteins are essential nutrients for the human body. They are one of the building blocks of body tissue, and can also serve as a fuel source. As a fuel, proteins provide as much energy density as carbohydrates: 4 kcal (17 kJ) per gram; in contrast, lipids provide 9 kcal (37 kJ) per gram. There are nine essential amino acids which humans must obtain from their diet in order to prevent protein-energy malnutrition and resulting death. Humans need the essential amino acids in certain ratios. Dietary sources of protein include both animals and plants: meats, dairy products, fish and eggs as well as grains, legumes and nuts. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Refuse Percentage"</code></td> 
+        <tr> <td><code>"Refuse Percentage"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -377,7 +377,7 @@ $(document).ready(function() {
              </td> 
              <td>The percentage of the food item that is inedible and should be treated as refuse. Given as a decimal percentage.</td> </tr>
         
-        <tr> <td><code>"Retinol"</code></td> 
+        <tr> <td><code>"Retinol"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -389,7 +389,7 @@ $(document).ready(function() {
              </td> 
              <td>Retinol, also known as Vitamin A1, is a vitamin found in food and used as a dietary supplement. As a supplement it is used to treat and prevent vitamin A deficiency. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Riboflavin"</code></td> 
+        <tr> <td><code>"Riboflavin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -401,7 +401,7 @@ $(document).ready(function() {
              </td> 
              <td>Riboflavin, also known as vitamin B2, is a vitamin found in food and used as a dietary supplement. It is nearly always well tolerated. Normal doses are safe during pregnancy. Riboflavin is in the vitamin B group. It is required by the body for cellular respiration. Food sources include eggs, green vegetables, milk, and meat. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Selenium"</code></td> 
+        <tr> <td><code>"Selenium"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -413,7 +413,7 @@ $(document).ready(function() {
              </td> 
              <td>Selenium is a chemical element with symbol Se and atomic number 34. Selenium salts are toxic in large amounts, but trace amounts are necessary for cellular function in many organisms, including all animals. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Sugar Total"</code></td> 
+        <tr> <td><code>"Sugar Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -425,7 +425,7 @@ $(document).ready(function() {
              </td> 
              <td>Sugar is the generalized name for sweet, short-chain, soluble carbohydrates, many of which are used in food. They are composed of carbon, hydrogen, and oxygen. There are various types of sugar derived from different sources. Simple sugars are called monosaccharides and include glucose (also known as dextrose), fructose, and galactose. The table or granulated sugar most customarily used as food is sucrose, a disaccharide. (In the body, sucrose hydrolyses into fructose and glucose.) Other disaccharides include maltose and lactose. Longer chains of sugars are called oligosaccharides. Chemically-different substances may also have a sweet taste, but are not classified as sugars. Some are used as lower-calorie food substitutes for sugar, described as artificial sweeteners. Measure in grams (g).</td> </tr>
         
-        <tr> <td><code>"Thiamin"</code></td> 
+        <tr> <td><code>"Thiamin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -437,7 +437,7 @@ $(document).ready(function() {
              </td> 
              <td>Thiamin (or thiamine) is one of the water-soluble B vitamins. It is also known as vitamin B1. Thiamin is naturally present in some foods, added to some food products, and available as a dietary supplement. This vitamin plays a critical role in energy metabolism and, therefore, in the growth, development, and function of cells. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Water"</code></td> 
+        <tr> <td><code>"Water"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -449,7 +449,7 @@ $(document).ready(function() {
              </td> 
              <td>The amount of water in the food. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Data.Fat"</code></td> 
+        <tr> <td><code>"Fat"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -461,7 +461,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Household Weights"</code></td> 
+        <tr> <td><code>"Household Weights"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -473,7 +473,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Major Minerals"</code></td> 
+        <tr> <td><code>"Major Minerals"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -485,7 +485,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Data.Vitamins"</code></td> 
+        <tr> <td><code>"Vitamins"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -726,7 +726,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Monosaturated Fat"</code></td> 
+        <tr> <td><code>"Monosaturated Fat"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -738,7 +738,7 @@ $(document).ready(function() {
              </td> 
              <td>Fatty acids that have one double bond in the fatty acid chain with all of the remainder carbon atoms being single-bonded. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Polysaturated Fat"</code></td> 
+        <tr> <td><code>"Polysaturated Fat"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -750,7 +750,7 @@ $(document).ready(function() {
              </td> 
              <td>Lipids in which the constituent hydrocarbon chain possesses two or more carbon-carbon double bonds. Polyunsaturated fat can be found mostly in nuts, seeds, fish, algae, leafy greens, and krill. "Unsaturated" refers to the fact that the molecules contain less than the maximum amount of hydrogen (if there were no double bonds). Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Saturated Fat"</code></td> 
+        <tr> <td><code>"Saturated Fat"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -762,7 +762,7 @@ $(document).ready(function() {
              </td> 
              <td>A saturated fat is a type of fat in which the fatty acids all have single bonds. Measured in grams (g).</td> </tr>
         
-        <tr> <td><code>"Total Lipid"</code></td> 
+        <tr> <td><code>"Total Lipid"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -827,7 +827,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"1st Household Weight"</code></td> 
+        <tr> <td><code>"1st Household Weight"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -839,7 +839,7 @@ $(document).ready(function() {
              </td> 
              <td>An estimate of the household measure of the food item. Weights are given for edible material without refuse. This can be used to calculate the nutrient value of the food.</td> </tr>
         
-        <tr> <td><code>"1st Household Weight Description"</code></td> 
+        <tr> <td><code>"1st Household Weight Description"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -851,7 +851,7 @@ $(document).ready(function() {
              </td> 
              <td>A string representing the units of measurements in the first household weight.</td> </tr>
         
-        <tr> <td><code>"2nd Household Weight"</code></td> 
+        <tr> <td><code>"2nd Household Weight"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -863,7 +863,7 @@ $(document).ready(function() {
              </td> 
              <td>Another estimate of the household measure of the food item. Weights are given for edible material without refuse. This can be used to calculate the nutrient value of the food.</td> </tr>
         
-        <tr> <td><code>"2nd Household Weight Description"</code></td> 
+        <tr> <td><code>"2nd Household Weight Description"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -928,7 +928,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Calcium"</code></td> 
+        <tr> <td><code>"Calcium"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -940,7 +940,7 @@ $(document).ready(function() {
              </td> 
              <td>Calcium is a mineral needed to build and maintain strong bones and teeth. It is also very important for other physical functions, such as muscle control and blood circulation. Calcium is not made in the body - it must be absorbed from food. To effectively absorb calcium from food, Vitamin D is needed. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Copper"</code></td> 
+        <tr> <td><code>"Copper"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -952,7 +952,7 @@ $(document).ready(function() {
              </td> 
              <td>Copper is an essential trace element that is vital to the health of all living things (humans, plants, animals, and microorganisms). In humans, copper is essential to the proper functioning of organs and metabolic processes. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Iron"</code></td> 
+        <tr> <td><code>"Iron"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -964,7 +964,7 @@ $(document).ready(function() {
              </td> 
              <td>Iron is a mineral that is naturally present in many foods, added to some food products, and available as a dietary supplement. Dietary iron has two main forms: heme and nonheme. Plants and iron-fortified foods contain nonheme iron only, whereas meat, seafood, and poultry contain both heme and nonheme iron. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Magnesium"</code></td> 
+        <tr> <td><code>"Magnesium"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -976,7 +976,7 @@ $(document).ready(function() {
              </td> 
              <td>Magnesium is an essential mineral for human nutrition. Magnesium is needed for more than 300 biochemical reactions in the body. It helps to maintain normal nerve and muscle function, supports a healthy immune system, keeps the heart beat steady, and helps bones remain strong. It also helps regulate blood glucose levels and aid in the production of energy and protein. There is ongoing research into the role of magnesium in preventing and managing disorders such as high blood pressure, heart disease, and diabetes. However, taking magnesium supplements is not currently recommended. Diets high in protein, calcium, or vitamin D will increase the need for magnesium. Most dietary magnesium comes from vegetables, such as dark green, leafy vegetables. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Phosphorus"</code></td> 
+        <tr> <td><code>"Phosphorus"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -988,7 +988,7 @@ $(document).ready(function() {
              </td> 
              <td>Phosphorus is an essential macromineral, included in almost all foods. Phosphorus is the second most abundant mineral nutrient in the body, after calcium. This mineral is part of all cells, especially cell membranes, and is essential to bone strength, because it's the main structural component of bones and teeth, as calcium phosphate. Phosphorus is also an important element in energy production. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Potassium"</code></td> 
+        <tr> <td><code>"Potassium"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1000,7 +1000,7 @@ $(document).ready(function() {
              </td> 
              <td>Potassium is a mineral and electrolyte that helps nerves to function and muscles to contract, among many other tasks. Potassium sources include leafy greens, fruit from vines, root vegetables, and citrus fruits. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Sodium"</code></td> 
+        <tr> <td><code>"Sodium"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1012,7 +1012,7 @@ $(document).ready(function() {
              </td> 
              <td>Salt, also known as sodium chloride, is about 40 percent sodium and 60 percent chloride. It adds flavor to food and is also used as a preservative, binder, and stabilizer. The human body needs a very small amount of sodium - the primary element we get from salt - to conduct nerve impulses, contract and relax muscles, and maintain the proper balance of water and minerals. But too much sodium in the diet can lead to high blood pressure, heart disease, and stroke. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Zinc"</code></td> 
+        <tr> <td><code>"Zinc"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1109,7 +1109,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Vitamin A - IU"</code></td> 
+        <tr> <td><code>"Vitamin A - IU"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1121,7 +1121,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin A is a fat soluble vitamin that is also a powerful antioxidant. Vitamin A plays a critical role in maintaining healthy vision, neurological function, healthy skin, and more. Measured in International Units.</td> </tr>
         
-        <tr> <td><code>"Vitamin A - RAE"</code></td> 
+        <tr> <td><code>"Vitamin A - RAE"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -1133,7 +1133,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin A is a fat soluble vitamin that is also a powerful antioxidant. Vitamin A plays a critical role in maintaining healthy vision, neurological function, healthy skin, and more. Measured in retinol activity equivalents (micrograms, or mcg).</td> </tr>
         
-        <tr> <td><code>"Vitamin B12"</code></td> 
+        <tr> <td><code>"Vitamin B12"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1145,7 +1145,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin B12, also called cobalamin, is a water-soluble vitamin that has a key role in the normal functioning of the brain and nervous system, and the formation of red blood cells. It is one of eight B vitamins. It is involved in the metabolism of every cell of the human body, especially affecting DNA synthesis, fatty acid and amino acid metabolism. No fungi, plants, nor animals (including humans) are capable of producing vitamin B12. Only bacteria and archaea have the enzymes needed for its synthesis. Proved sources of B12 are animal products (meat, fish, dairy products) and supplements. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Vitamin B6"</code></td> 
+        <tr> <td><code>"Vitamin B6"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1157,7 +1157,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin B6 is involved in many aspects of macronutrient metabolism, neurotransmitter synthesis, histamine synthesis, hemoglobin synthesis and function, and gene expression. Vitamin B6 is widely distributed in foods in both its free and bound forms. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Vitamin C"</code></td> 
+        <tr> <td><code>"Vitamin C"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1169,7 +1169,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin C, also known as ascorbic acid and L-ascorbic acid, is a vitamin found in food and used as a dietary supplement. Foods that contain vitamin C include citrus fruit, tomatoes, and potatoes. Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Vitamin E"</code></td> 
+        <tr> <td><code>"Vitamin E"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1181,7 +1181,7 @@ $(document).ready(function() {
              </td> 
              <td>Vitamin E refers to a group of compounds that include both tocopherols and tocotrienols, usually found in various oils (corn oil, soybean oil, wheat germ oil). Measured in milligrams (mg).</td> </tr>
         
-        <tr> <td><code>"Vitamin K"</code></td> 
+        <tr> <td><code>"Vitamin K"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 

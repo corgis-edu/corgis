@@ -83,7 +83,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Country"</code></td> 
+        <tr> <td><code>"Country"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -95,7 +95,7 @@ $(document).ready(function() {
              </td> 
              <td>The name of a country</td> </tr>
         
-        <tr> <td><code>"Year"</code></td> 
+        <tr> <td><code>"Year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -107,7 +107,7 @@ $(document).ready(function() {
              </td> 
              <td>The year of the emissions (1970-2012)</td> </tr>
         
-        <tr> <td><code>"Emissions"</code></td> 
+        <tr> <td><code>"Emissions"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -119,7 +119,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Ratio"</code></td> 
+        <tr> <td><code>"Ratio"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -184,7 +184,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Emissions.Type"</code></td> 
+        <tr> <td><code>"Type"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -196,7 +196,7 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Emissions.Sector"</code></td> 
+        <tr> <td><code>"Sector"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
@@ -245,7 +245,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"CO2"</code></td> 
+        <tr> <td><code>"CO2"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -257,7 +257,7 @@ $(document).ready(function() {
              </td> 
              <td>The amount of carbon dioxide in kilo tons</td> </tr>
         
-        <tr> <td><code>"N2O"</code></td> 
+        <tr> <td><code>"N2O"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -269,7 +269,7 @@ $(document).ready(function() {
              </td> 
              <td>The amount of nitrous oxide in equivalent kilotons of CO2</td> </tr>
         
-        <tr> <td><code>"CH4"</code></td> 
+        <tr> <td><code>"CH4"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -326,7 +326,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Power Industry"</code></td> 
+        <tr> <td><code>"Power Industry"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -338,7 +338,7 @@ $(document).ready(function() {
              </td> 
              <td>Emissions from the power industry; measured in equivalent kilotons of CO2.</td> </tr>
         
-        <tr> <td><code>"Buildings"</code></td> 
+        <tr> <td><code>"Buildings"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -350,7 +350,7 @@ $(document).ready(function() {
              </td> 
              <td>Emissions from the infrastructure of buildings; measured in equivalent kilotons of CO2.</td> </tr>
         
-        <tr> <td><code>"Transport"</code></td> 
+        <tr> <td><code>"Transport"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -362,7 +362,7 @@ $(document).ready(function() {
              </td> 
              <td>Emissions from means of transportation; measured in equivalent kilotons of CO2.</td> </tr>
         
-        <tr> <td><code>"Other Industry"</code></td> 
+        <tr> <td><code>"Other Industry"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -374,7 +374,7 @@ $(document).ready(function() {
              </td> 
              <td>Emissions from the other industrical combustion; measured in equivalent kilotons of CO2.</td> </tr>
         
-        <tr> <td><code>"Other sectors"</code></td> 
+        <tr> <td><code>"Other sectors"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -447,7 +447,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Per GDP"</code></td> 
+        <tr> <td><code>"Per GDP"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -459,7 +459,7 @@ $(document).ready(function() {
              </td> 
              <td>The amount of green house gas emissions per $1,000 of GDP; measured in equivalent kilo tons of CO2.</td> </tr>
         
-        <tr> <td><code>"Per Capita"</code></td> 
+        <tr> <td><code>"Per Capita"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
