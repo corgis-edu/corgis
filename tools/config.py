@@ -22,7 +22,7 @@ class Config:
     BUILDER_INDEX_FILE = 'website/_data/{format}.csv'
     DEFAULT_DESTINATION = 'website/datasets/{format}/{dataset}/'
     INDEX_FILENAME = "website/datasets/index.json"
-    BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser']
+    BUILDERS = ['python', 'visualizer', 'blockpy', 'teaser', 'json', 'csv']
 
     def __init__(self, destination: str, force_rebuild_index: bool = False, skip_list: List[str] = None):
         if skip_list is None:
