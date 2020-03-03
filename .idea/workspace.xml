@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d0cc7cb-05c9-4ef4-91cf-10f78d5671bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/datasets/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/website/datasets/index.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,11 +199,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.corgis hospitals visualizer" />
+      <item itemvalue="Python.corgis weather visualizer" />
+      <item itemvalue="Python.corgis weather json" />
       <item itemvalue="Python.corgis hospitals blockpy" />
       <item itemvalue="Python.corgis hospitals python" />
-      <item itemvalue="Python.corgis hospitals visualizer" />
-      <item itemvalue="Python.corgis weather json" />
-      <item itemvalue="Python.corgis weather visualizer" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -249,7 +248,7 @@
       <workItem from="1570557637781" duration="4227000" />
       <workItem from="1571778974627" duration="2289000" />
       <workItem from="1573388611843" duration="2967000" />
-      <workItem from="1583213053082" duration="461000" />
+      <workItem from="1583213053082" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="BlockPy stuff!">
       <created>1565060099266</created>
