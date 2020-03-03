@@ -906,6 +906,12 @@
             "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
             "version": "2.0.0"
         },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2017 includes electrical generation, distribution, revenues, and customers.",
+            "version": "1.0.0"
+        },
         "emissions": {
             "name": "emissions",
             "title": "Emissions",
