@@ -1,0 +1,25 @@
+Name,Covid,,,
+Version,1.0.0,,,
+Author,Dennis Kafura and Melanie Sutphin,,,
+Created,11/14/2020,,,
+Data File,covid-corgis.csv,,,
+Overview,"Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC’s standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",,,
+Data Source,https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data,,,
+Description,"The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",,,
+Tags,"Covid, Covid-19, pandemic, infection, world health",,,
+Acknowledgement,"European Center for Disease Prevention and Control, EU Open Data Portal",,,
+Row Explanation,Reports of Covid infection cases and deaths in a country on a given date.,,,
+Row,report,,,
+Icon,covid-corgis-image.png,,,
+Splash,covid-corgis-image.png,,,
+Properties,Name,Type,Index,Description
+,Date.Day,int,,The day of the month for this report
+,Date.Month,int,,The month of the year for this report
+,Date.Year,int,,The year of this report
+,Data.Cases,int,,Number of new cases reported
+,Data.Deaths,int,,Number of new deaths reported
+,Location.Country,string,x,"Name of country for this report (e.g., ""United_States_of_America"")"
+,Location.Code,string,x,"Three letter country code (e.g., :USA"")"
+,Data.Population,int,,Population of the country in 2019
+,Location.Continent,string,,"Continent of country (e.g., ""Asia"", ""Europe"", ""America"")"
+,Data.Rate,float,,Cumulative number of cases reported for 14 days per 100000 people

@@ -90,6 +90,19 @@ def get_report():
         with open(_Constants._DATABASE_NAME, 'rb') as _:
             _Constants._DATASET = _pickle.load(_)
     return _Constants._DATASET
+    
+def chain_get(item, keys):
+    for key in keys.split("."):
+        item = item[key]
+    return item
+
+def get(property, index, index_value):
+    all_data = get_report()
+    if index != "(None)":
+        return [chain_get(row, property) for row in all_data
+                if chain_get(row, index) == index_value]
+    else:
+        return [chain_get(row, property) for row in all_data]
 
 if __name__ == '__main__':
     from pprint import pprint as _pprint
@@ -101,3 +114,9 @@ if __name__ == '__main__':
     result = get_report()
     print("Time taken: {}".format(_default_timer() - start_time))
     _pprint(result[0])
+    
+    print(">>> get('Data.Precipitation', '(None)', None)")
+    print(get('Data.Precipitation', '(None)', None))
+    
+    print('>>> get("Data.Precipitation","Station.Location","Blacksburg, VA")')
+    print(get("Data.Precipitation","Station.Location","Blacksburg, VA"))
