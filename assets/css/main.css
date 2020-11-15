@@ -1,0 +1,12 @@
+.site-logo {
+    float: right;
+}
+
+.dataset-card img {
+    max-width: 128px;
+}
+
+.dataset-linked h3 {
+    color: black;
+    text-decoration: none;
+}

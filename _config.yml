@@ -1,0 +1,25 @@
+# Syntax highlighting
+highlighter:         rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               CORGIS Datasets Project
+tagline:             The Collection of Really Great, Interesting, Situated Datasets
+url:                 https://corgis-edu.github.io/
+baseurl:             /
+logo:                images/logo.png
+
+comments: true
+
+description: Github Pages for CORGIS Datasets Project
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed

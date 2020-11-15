@@ -1,0 +1,106 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {% if site.owner.google.verify %}
+        <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
+    {% if site.owner.bing-verify %}
+        <meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="
+
+
+
+
+
+
+            {{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.md', '' | absolute_url }}">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+    {% if site.google_fonts %}
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
+    {% endif %}
+
+    {% if page.style == 'dataset' %}
+        <link rel="stylesheet" href="{{ '/assets/css/pygments.css' | relative_url }}">
+
+        <style>
+            .ui-dialog-titlebar-close {
+                padding: 0 !important;
+            }
+
+            .ui-dialog-titlebar-close:after {
+                content: '';
+                width: 20px;
+                height: 20px;
+                display: inline-block;
+                /* Change path to image*/
+                background-image: url({{ '/assets/ui-icons_444444_256x240.png' | relative_url }});
+                background-position: -96px -128px;
+                background-repeat: no-repeat;
+            }
+
+            .ui-dialog table {
+                width: 100%;
+                font-size: 10pt;
+                background: white;
+            }
+
+            .ui-dialog table code {
+                word-break: normal;
+            }
+
+            .ui-dialog td {
+                border-bottom: 1px solid #CCC;
+                /*overflow: */
+            }
+
+            .ui-dialog-content {
+                max-height: 400px;
+                overflow: auto;
+            }
+
+            .dialog-opener {
+                cursor: pointer;
+            }
+
+            .ui-widget-header {
+                border: 0px solid black;
+                border-bottom: 1px solid #ccc;
+                background: #cde;
+            }
+        </style>
+    {% endif %}
+
+    <script src="{{ '/assets/js/jquery-3.3.1.min.js' | relative_url }}"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+            integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-debug.js"
+            integrity="sha256-M5ZomNNnrnEB2WjSbnty5GWGqq6UuAAVNnWECisgEis=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="{{ '/assets/css/multiselect.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/bootstrap-tagsinput.css' | relative_url }}">
+
+    <script src="{{ '/assets/js/knockout-3.5.0.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/d3.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/jquery.multi-select.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/bootstrap-tagsinput.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/typeahead.bundle.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/jquery.quicksearch.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/jquery.multi-select.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/lunr.js' | relative_url }}"></script>
+
+    {% if page.extras != None %}
+        <link rel="stylesheet" href="{{ '/assets/css/'|append: page.extras|append: '.css' | relative_url }}">
+        <script src="{{ '/assets/js/'|append: page.extras |append: '.js' | relative_url }}"></script>
+    {% endif %}
+
+</head>

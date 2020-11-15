@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+    {% include head.html %}
+    <body class="layout--{{ page.layout | default: layout.layout }} {{ page.title | slugify }}"
+    >
+    <div class="container-fluid">
+    {% include navigation.html %}
+
+    {{ content }}
+    </div>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+    
+</html>
