@@ -32,6 +32,12 @@ jobs:
       - name: Run a one-line script
         run: |
           pip install -r requirements.txt
-          ls
-          python3 ./corgis.py "*" "all"
+          python3 ./corgis.py "*" python,visualizer,json,csv,blockpy,teaser
           echo "Finished up"
+      # Push back changes to website
+      - name: Commit report
+        run: |
+          git config --global user.name 'Github Bot'
+          git config --global user.email 'githubbot@users.noreply.github.com'
+          git commit -am "Rebuilt all datasets"
+          git push
