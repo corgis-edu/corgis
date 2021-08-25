@@ -57,7 +57,7 @@ VISUALIZER_DATA = [
     ],
     "name": "State",
     "comment": "The name of a U.S. State (e.g., Virginia)",
-    "index": false,
+    "index": true,
     "type": "string",
     "pretty": "State"
   },

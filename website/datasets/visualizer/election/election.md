@@ -19,8 +19,7 @@ extras: visualizer
 
 # Overview
 
-Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.  
-
+Data about the results was collected from CNN's 2016 election center.  Each county has the breakdown of how many votes each candidate recieved in that county and what percentage of the total vote from that county that the candidate recieved.  The candidate's political party is also represented.
 
 
 <http://www.cnn.com/election/primaries/counties/va/Dem>
