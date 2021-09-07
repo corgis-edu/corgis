@@ -15,7 +15,7 @@ style: dataset
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/16/2016</span><br>
+<span class='text-muted'>Version 3.0.0, created 8/31/2021</span><br>
 <span class='text-muted'>Tags: aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un</span>
 
 # Overview
@@ -272,7 +272,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>44</code>
+                <code>100</code>
              
                 
              </td> 
@@ -284,7 +284,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>8</code>
+                <code>100</code>
              
                 
              </td> 
@@ -296,7 +296,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>10</code>
+                <code>100</code>
              
                 
              </td> 
@@ -308,7 +308,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>1</code>
+                <code>100</code>
              
                 
              </td> 
@@ -320,7 +320,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>2</code>
+                <code>100</code>
              
                 
              </td> 
@@ -332,7 +332,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>7</code>
+                <code>100</code>
              
                 
              </td> 
@@ -413,7 +413,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.0061</code>
+                <code>0.1</code>
              
                 
              </td> 
@@ -425,7 +425,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.003</code>
+                <code>0.1</code>
              
                 
              </td> 
@@ -437,7 +437,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.0019</code>
+                <code>0.1</code>
              
                 
              </td> 
@@ -484,65 +484,17 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Data-New-HIV-Infections' title='Dictionary (6 keys)'>
+<div id='explore-Data-New-HIV-Infections' title='Dictionary (7 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Adults"</code></td>
+        <tr> <td><code>"Young Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>91</code>
-             
-                
-             </td> 
-             <td>The number of reported cases of AIDS in all adults (15+ years old).</td> </tr>
-        
-        <tr> <td><code>"All Ages"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>94</code>
-             
-                
-             </td> 
-             <td>The total number of reported cases of AIDS in this year.</td> </tr>
-        
-        <tr> <td><code>"Children"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>4</code>
-             
-                
-             </td> 
-             <td>The number of reported cases of AIDS in children (0-14 years old).</td> </tr>
-        
-        <tr> <td><code>"Female Adults"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>22.0</code>
-             
-                
-             </td> 
-             <td>The number of reported cases of AIDS in female adults (15+ years old).</td> </tr>
-        
-        <tr> <td><code>"Incidence Rate Among Adults"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.0017</code>
+                <code>100</code>
              
                 
              </td> 
@@ -554,14 +506,76 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>69</code>
+                <code>100</code>
              
                 
              </td> 
              <td>The number of reported cases of AIDS in male adults (15+ years old).</td> </tr>
         
+        <tr> <td><code>"Female Adults"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>100</code>
+             
+                
+             </td> 
+             <td>The number of reported cases of AIDS in female adults (15+ years old).</td> </tr>
+        
+        <tr> <td><code>"Children"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>100</code>
+             
+                
+             </td> 
+             <td>The number of reported cases of AIDS in children (0-14 years old).</td> </tr>
+        
+        <tr> <td><code>"All Ages"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>100</code>
+             
+                
+             </td> 
+             <td>The total number of reported cases of AIDS in this year.</td> </tr>
+        
+        <tr> <td><code>"Adults"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>100</code>
+             
+                
+             </td> 
+             <td>The number of reported cases of AIDS in all adults (15+ years old).</td> </tr>
+        
+        <tr> <td><code>"Incidence Rate Among Adults"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>0.01</code>
+             
+                
+             </td> 
+             <td>Incidence rate for HIV incidence per 1000 population in all adults (15+ years old)</td> </tr>
+        
     </table>
 </div>
+
+    
 
     
 
@@ -586,20 +600,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Data-New-HIV-Infections-Adults").click(function() {
-        $( "#explore-Data-New-HIV-Infections-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-New-HIV-Infections-Young-Adults").click(function() {
+        $( "#explore-Data-New-HIV-Infections-Young-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Data-New-HIV-Infections-All-Ages").click(function() {
-        $( "#explore-Data-New-HIV-Infections-All-Ages" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-New-HIV-Infections-Children").click(function() {
-        $( "#explore-Data-New-HIV-Infections-Children" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-New-HIV-Infections-Male-Adults").click(function() {
+        $( "#explore-Data-New-HIV-Infections-Male-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -610,14 +618,26 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-New-HIV-Infections-Incidence-Rate-Among-Adults").click(function() {
-        $( "#explore-Data-New-HIV-Infections-Incidence-Rate-Among-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-New-HIV-Infections-Children").click(function() {
+        $( "#explore-Data-New-HIV-Infections-Children" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Data-New-HIV-Infections-Male-Adults").click(function() {
-        $( "#explore-Data-New-HIV-Infections-Male-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-New-HIV-Infections-All-Ages").click(function() {
+        $( "#explore-Data-New-HIV-Infections-All-Ages" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Data-New-HIV-Infections-Adults").click(function() {
+        $( "#explore-Data-New-HIV-Infections-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Data-New-HIV-Infections-Incidence-Rate-Among-Adults").click(function() {
+        $( "#explore-Data-New-HIV-Infections-Incidence-Rate-Among-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -629,41 +649,17 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Adults"</code></td>
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>354</code>
+                <code>500</code>
              
                 
              </td> 
-             <td>The number of Adults (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
-        
-        <tr> <td><code>"Children"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>7</code>
-             
-                
-             </td> 
-             <td>The number of Children (less than 15 years old) suffering from AIDS in this year.</td> </tr>
-        
-        <tr> <td><code>"Female Adults"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>82</code>
-             
-                
-             </td> 
-             <td>The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
+             <td>The total number of people suffering from AIDS in this year.</td> </tr>
         
         <tr> <td><code>"Male Adults"</code></td>
              <td><span data-toggle="tooltip"
@@ -671,23 +667,47 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>273</code>
+                <code>500</code>
              
                 
              </td> 
              <td>The number of Adult Men (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
         
-        <tr> <td><code>"Total"</code></td>
+        <tr> <td><code>"Female Adults"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>361</code>
+                <code>100</code>
              
                 
              </td> 
-             <td>The total number of people suffering from AIDS in this year.</td> </tr>
+             <td>The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
+        
+        <tr> <td><code>"Children"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>100</code>
+             
+                
+             </td> 
+             <td>The number of Children (less than 15 years old) suffering from AIDS in this year.</td> </tr>
+        
+        <tr> <td><code>"Adults"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>500</code>
+             
+                
+             </td> 
+             <td>The number of Adults (greater than 15 years old) suffering from AIDS in this year.</td> </tr>
         
     </table>
 </div>
@@ -713,20 +733,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Data-People-Living-with-HIV-Adults").click(function() {
-        $( "#explore-Data-People-Living-with-HIV-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-People-Living-with-HIV-Children").click(function() {
-        $( "#explore-Data-People-Living-with-HIV-Children" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-People-Living-with-HIV-Female-Adults").click(function() {
-        $( "#explore-Data-People-Living-with-HIV-Female-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-People-Living-with-HIV-Total").click(function() {
+        $( "#explore-Data-People-Living-with-HIV-Total" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -737,8 +745,20 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-People-Living-with-HIV-Total").click(function() {
-        $( "#explore-Data-People-Living-with-HIV-Total" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-People-Living-with-HIV-Female-Adults").click(function() {
+        $( "#explore-Data-People-Living-with-HIV-Female-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Data-People-Living-with-HIV-Children").click(function() {
+        $( "#explore-Data-People-Living-with-HIV-Children" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Data-People-Living-with-HIV-Adults").click(function() {
+        $( "#explore-Data-People-Living-with-HIV-Adults" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
