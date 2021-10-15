@@ -14,7 +14,7 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
 <span class='text-muted'>Version 3.0.0, created 8/31/2021</span><br>
 <span class='text-muted'>Tags: aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un</span>
 
@@ -31,7 +31,7 @@ The UNAIDS Organization is an entity of the United Nations that looks to reduce 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *AIDS information for each country at each year*.
 
 
 

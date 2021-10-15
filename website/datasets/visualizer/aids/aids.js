@@ -1,5 +1,5 @@
 DATASET_ROW = "report";
-DATASET_ROW_EXPLANATION = "$MISSING_FIELD";
+DATASET_ROW_EXPLANATION = "AIDS information for each country at each year";
 VISUALIZER_DATA = [
   {
     "data": [
