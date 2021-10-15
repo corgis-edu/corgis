@@ -67,14 +67,15 @@ var $builtinmodule = function(name)
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Adults'}, {"type": "LiteralStr", "value": 'All Ages'}, {"type": "LiteralStr", "value": 'Children'}, {"type": "LiteralStr", "value": 'Female Adults'}, {"type": "LiteralStr", "value": 'Incidence Rate Among Adults'}, {"type": "LiteralStr", "value": 'Male Adults'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Young Adults'}, {"type": "LiteralStr", "value": 'Male Adults'}, {"type": "LiteralStr", "value": 'Female Adults'}, {"type": "LiteralStr", "value": 'Children'}, {"type": "LiteralStr", "value": 'All Ages'}, {"type": "LiteralStr", "value": 'Adults'}, {"type": "LiteralStr", "value": 'Incidence Rate Among Adults'}], "values": [
+								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Adults'}, {"type": "LiteralStr", "value": 'Children'}, {"type": "LiteralStr", "value": 'Female Adults'}, {"type": "LiteralStr", "value": 'Male Adults'}, {"type": "LiteralStr", "value": 'Total'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Male Adults'}, {"type": "LiteralStr", "value": 'Female Adults'}, {"type": "LiteralStr", "value": 'Children'}, {"type": "LiteralStr", "value": 'Adults'}], "values": [
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 

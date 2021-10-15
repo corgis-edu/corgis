@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/16/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 8/31/2021</span><br>
 <span class='text-muted'>Tags: aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un</span>
 
 # Overview
@@ -61,140 +61,147 @@ Download the following file:
     <td>Data.AIDS-Related Deaths.AIDS Orphans</td>
     <td>Integer</td> 
     <td>Children who have been orphaned from AIDS (parents died of AIDS) below 17 years of age.</td>
-    <td><code>44</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.AIDS-Related Deaths.Adults</td>
     <td>Integer</td> 
     <td>All adults (older than 15 years of age) who have died of aids.</td>
-    <td><code>8</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.AIDS-Related Deaths.All Ages</td>
     <td>Integer</td> 
     <td>The total number of deaths caused by AIDS in this year.</td>
-    <td><code>10</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.AIDS-Related Deaths.Children</td>
     <td>Integer</td> 
     <td>Children who have died of AIDS below 14 years of age.</td>
-    <td><code>1</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.AIDS-Related Deaths.Female Adults</td>
     <td>Integer</td> 
     <td>Female adults (older than 15 years of age) who have died of aids.</td>
-    <td><code>2</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.AIDS-Related Deaths.Male Adults</td>
     <td>Integer</td> 
     <td>Male adults (older than 15 years of age) who have died of aids.</td>
-    <td><code>7</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.HIV Prevalence.Adults</td>
     <td>Float</td> 
     <td>The percentage of the population of Young Men (15-49 years old) suffering from AIDS in this year.</td>
-    <td><code>0.0061</code></td>
+    <td><code>0.1</code></td>
 </tr>
 
 <tr>
     <td>Data.HIV Prevalence.Young Men</td>
     <td>Float</td> 
     <td>The percentage of the population of Young Men (15-24 years old) suffering from AIDS in this year.</td>
-    <td><code>0.003</code></td>
+    <td><code>0.1</code></td>
 </tr>
 
 <tr>
     <td>Data.HIV Prevalence.Young Women</td>
     <td>Float</td> 
     <td>The percentage of the population of Young Women (15-24 years old) suffering from AIDS in this year.</td>
-    <td><code>0.0019</code></td>
+    <td><code>0.1</code></td>
 </tr>
 
 <tr>
-    <td>Data.New HIV Infections.Adults</td>
+    <td>Data.New HIV Infections.Young Adults</td>
     <td>Integer</td> 
-    <td>The number of reported cases of AIDS in all adults (15+ years old).</td>
-    <td><code>91</code></td>
-</tr>
-
-<tr>
-    <td>Data.New HIV Infections.All Ages</td>
-    <td>Integer</td> 
-    <td>The total number of reported cases of AIDS in this year.</td>
-    <td><code>94</code></td>
-</tr>
-
-<tr>
-    <td>Data.New HIV Infections.Children</td>
-    <td>Integer</td> 
-    <td>The number of reported cases of AIDS in children (0-14 years old).</td>
-    <td><code>4</code></td>
-</tr>
-
-<tr>
-    <td>Data.New HIV Infections.Female Adults</td>
-    <td>Float</td> 
-    <td>The number of reported cases of AIDS in female adults (15+ years old).</td>
-    <td><code>22.0</code></td>
-</tr>
-
-<tr>
-    <td>Data.New HIV Infections.Incidence Rate Among Adults</td>
-    <td>Float</td> 
     <td>The number of reported cases of AIDS in adults (15-49 years old).</td>
-    <td><code>0.0017</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
     <td>Data.New HIV Infections.Male Adults</td>
     <td>Integer</td> 
     <td>The number of reported cases of AIDS in male adults (15+ years old).</td>
-    <td><code>69</code></td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
-    <td>Data.People Living with HIV.Adults</td>
+    <td>Data.New HIV Infections.Female Adults</td>
     <td>Integer</td> 
-    <td>The number of Adults (greater than 15 years old) suffering from AIDS in this year.</td>
-    <td><code>354</code></td>
+    <td>The number of reported cases of AIDS in female adults (15+ years old).</td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
-    <td>Data.People Living with HIV.Children</td>
+    <td>Data.New HIV Infections.Children</td>
     <td>Integer</td> 
-    <td>The number of Children (less than 15 years old) suffering from AIDS in this year.</td>
-    <td><code>7</code></td>
+    <td>The number of reported cases of AIDS in children (0-14 years old).</td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
-    <td>Data.People Living with HIV.Female Adults</td>
+    <td>Data.New HIV Infections.All Ages</td>
     <td>Integer</td> 
-    <td>The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.</td>
-    <td><code>82</code></td>
+    <td>The total number of reported cases of AIDS in this year.</td>
+    <td><code>100</code></td>
 </tr>
 
 <tr>
-    <td>Data.People Living with HIV.Male Adults</td>
+    <td>Data.New HIV Infections.Adults</td>
     <td>Integer</td> 
-    <td>The number of Adult Men (greater than 15 years old) suffering from AIDS in this year.</td>
-    <td><code>273</code></td>
+    <td>The number of reported cases of AIDS in all adults (15+ years old).</td>
+    <td><code>100</code></td>
+</tr>
+
+<tr>
+    <td>Data.New HIV Infections.Incidence Rate Among Adults</td>
+    <td>Float</td> 
+    <td>Incidence rate for HIV incidence per 1000 population in all adults (15+ years old)</td>
+    <td><code>0.01</code></td>
 </tr>
 
 <tr>
     <td>Data.People Living with HIV.Total</td>
     <td>Integer</td> 
     <td>The total number of people suffering from AIDS in this year.</td>
-    <td><code>361</code></td>
+    <td><code>500</code></td>
+</tr>
+
+<tr>
+    <td>Data.People Living with HIV.Male Adults</td>
+    <td>Integer</td> 
+    <td>The number of Adult Men (greater than 15 years old) suffering from AIDS in this year.</td>
+    <td><code>500</code></td>
+</tr>
+
+<tr>
+    <td>Data.People Living with HIV.Female Adults</td>
+    <td>Integer</td> 
+    <td>The number of Adult Women (greater than 15 years old) suffering from AIDS in this year.</td>
+    <td><code>100</code></td>
+</tr>
+
+<tr>
+    <td>Data.People Living with HIV.Children</td>
+    <td>Integer</td> 
+    <td>The number of Children (less than 15 years old) suffering from AIDS in this year.</td>
+    <td><code>100</code></td>
+</tr>
+
+<tr>
+    <td>Data.People Living with HIV.Adults</td>
+    <td>Integer</td> 
+    <td>The number of Adults (greater than 15 years old) suffering from AIDS in this year.</td>
+    <td><code>500</code></td>
 </tr>
 
 </table>

@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/16/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 8/31/2021</span><br>
 <span class='text-muted'>Tags: aids, death, disease, hiv, orphans, health, countries, world, gender, united nations, un</span>
 
 # Overview

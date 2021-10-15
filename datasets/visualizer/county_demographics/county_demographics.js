@@ -1805,7 +1805,7 @@ VISUALIZER_DATA = [
       "Colfax County",
       "Curry County",
       "De Baca County",
-      "Do\ufffda Ana County",
+      "Do\u00b1a Ana County",
       "Eddy County",
       "Grant County",
       "Guadalupe County",
