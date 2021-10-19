@@ -1,0 +1,86 @@
+Table 2u. New Privately Owned Housing Units Authorized
+          Unadjusted Units for Regions, Divisions, and States
+ 
+          November  2018
+                                                                        Num of
+                                                                        Struc-
+                                                                         tures
+                                                                          With
+                                                      3 and 4 5 Units  5 Units
+                            Total  1 Unit   2 Units     Units or More  or More
+ 
+ 
+United States              100999    60886     1742     1339    37032     1330
+ 
+Northeast                    9450     4218      220      261     4751      201
+  New England                2177     1319       62       53      743       43
+    Connecticut               354      266       10        0       78       10
+    Maine                     335      311       14       10        0        0
+    Massachusetts            1023      461       32       21      509       25
+    New Hampshire             232      143        4       22       63        4
+    Rhode Island               80       78        2        0        0        0
+    Vermont                   153       60        0        0       93        4
+ 
+  Middle Atlantic            7273     2899      158      208     4008      158
+    New Jersey               2058      885       60       52     1061       69
+    New York                 3575      787       66       35     2687       68
+    Pennsylvania             1640     1227       32      121      260       21
+ 
+Midwest                     13880     8474      264      132     5010      202
+  East North Central D       8437     5195      164      116     2962      134
+    Illinois                 2494      756       36       60     1642       46
+    Indiana                  1552     1362       30        3      157       11
+    Michigan                 1353     1083       30        7      233       23
+    Ohio                     1870     1265       20       42      543       40
+    Wisconsin                1168      729       48        4      387       14
+ 
+  West North Central D       5443     3279      100       16     2048       68
+    Iowa                      759      565        0        6      188        6
+    Kansas                    499      355       18        3      123        3
+    Minnesota                1787      999        4        0      784       29
+    Missouri                 1357      735       72        4      546       14
+    Nebraska                  740      347        2        0      391       15
+    North Dakota              111       93        2        0       16        1
+    South Dakota              190      185        2        3        0        0
+ 
+South                       52198    33716      610      448    17424      489
+  South Atlantic            29365    18626      246      150    10343      293
+    Delaware                  548      485        4        7       52        5
+    District of Columbia      662        3        2        0      657        3
+    Florida                 12159     7239      112       65     4743      124
+    Georgia                  4924     2832       34       16     2042       41
+    Maryland                 1477      912        4        0      561       16
+    North Carolina           4571     3505       78       31      957       53
+    South Carolina           2718     2193        6        0      519       25
+    Virginia                 2073     1285        6       31      751       14
+    West Virginia             233      172        0        0       61       12
+ 
+  East South Central D       5078     3980       48       61      989       39
+    Alabama                  1111      984       12        6      109        7
+    Kentucky                  792      546       24        3      219       17
+    Mississippi               496      436        4        3       53        7
+    Tennessee                2679     2014        8       49      608        8
+ 
+  West South Central D      17755    11110      316      237     6092      157
+    Arkansas                  759      542       54       91       72        6
+    Louisiana                 983      944       16        3       20        3
+    Oklahoma                  748      718       22        3        5        1
+    Texas                   15265     8906      224      140     5995      147
+ 
+West                        25471    14478      648      498     9847      438
+  Mountain                  11589     7802      300      205     3282      130
+    Arizona                  2563     2053       36        9      465       18
+    Colorado                 3649     2107       30       68     1444       28
+    Idaho                    1138      936       12       43      147       19
+    Montana                   240      178       22       26       14        2
+    Nevada                   1632      906       14        0      712       38
+    New Mexico                324      304        0        3       17        3
+    Utah                     1910     1207      184       44      475       21
+    Wyoming                   133      111        2       12        8        1
+ 
+  Pacific                   13882     6676      348      293     6565      308
+    Alaska                    106       79       10        4       13        2
+    California               7741     4078      170      128     3365      175
+    Hawaii                    270      196        0        0       74        2
+    Oregon                   1824      749       24       15     1036       56
+    Washington               3941     1574      144      146     2077       73
