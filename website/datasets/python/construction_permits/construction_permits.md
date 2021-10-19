@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 4/2/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 10/18/2021</span><br>
 <span class='text-muted'>Tags: construction, permits, us, united states, america, government, buildings, private, units, valuation, housing</span>
 
 # Overview
@@ -24,14 +24,14 @@ This dataset provides data on the number and valuation of new housing units auth
 
 
 
-<https://www.census.gov/construction/bps/about_the_surveys/>
+<https://www.census.gov/construction/bps/statemonthly.html>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Reports of new housing units authorized by building permits in a state on a given month*.
 
 
 
@@ -94,7 +94,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>State</td> </tr>
         
         <tr> <td><code>"Number of Permits"</code></td>
              <td><span data-toggle="tooltip"
@@ -195,7 +195,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Tne number of new privately owned housing unit authorized for current month  for 1 unit</td> </tr>
         
         <tr> <td><code>"2 units"</code></td>
              <td><span data-toggle="tooltip"
@@ -207,7 +207,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Tne number of new privately owned housing unit authorized for current month  for 2 units</td> </tr>
         
         <tr> <td><code>"3-4 units"</code></td>
              <td><span data-toggle="tooltip"
@@ -219,7 +219,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Tne number of new privately owned housing unit authorized for current month  for 3-4 units</td> </tr>
         
         <tr> <td><code>"5+ units"</code></td>
              <td><span data-toggle="tooltip"
@@ -231,7 +231,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Tne number of new privately owned housing unit authorized for current month  for more than 5 units</td> </tr>
         
     </table>
 </div>
@@ -292,11 +292,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"2003/06"</code>
+                <code>"Jun.03"</code>
              
                 
              </td> 
-             <td>The full representation of the time period for this report. The format is "Year/month".</td> </tr>
+             <td>The full representation of the time period for this report. The format is "Month.Year".</td> </tr>
         
         <tr> <td><code>"month"</code></td>
              <td><span data-toggle="tooltip"
@@ -308,7 +308,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Month</td> </tr>
         
         <tr> <td><code>"month name"</code></td>
              <td><span data-toggle="tooltip"
@@ -320,7 +320,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Month name</td> </tr>
         
         <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
@@ -332,7 +332,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>4-digit year</td> </tr>
         
     </table>
 </div>
@@ -397,7 +397,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated value of the residential structure from the permit official for 1 unit</td> </tr>
         
         <tr> <td><code>"2 units"</code></td>
              <td><span data-toggle="tooltip"
@@ -409,7 +409,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated value of the residential structure from the permit official for 2 units</td> </tr>
         
         <tr> <td><code>"3-4 units"</code></td>
              <td><span data-toggle="tooltip"
@@ -421,7 +421,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated value of the residential structure from the permit official for 3-4 units</td> </tr>
         
         <tr> <td><code>"5+ units"</code></td>
              <td><span data-toggle="tooltip"
@@ -433,7 +433,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated value of the residential structure from the permit official for more than 5 units</td> </tr>
         
     </table>
 </div>
