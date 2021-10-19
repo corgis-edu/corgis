@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/26/2017</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/1/2021</span><br>
 <span class='text-muted'>Tags: government, united states, us, usa, business, businesses, firms, establishments, jobs, census</span>
 
 # Overview
@@ -26,7 +26,7 @@ extras: visualizer
 
 
 
-<https://www.census.gov/data/developers/data-sets/business-dynamics.html>
+<https://www.census.gov/data/tables/time-series/econ/bds/bds-tables.html>
 
 
 

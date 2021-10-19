@@ -3,3082 +3,3082 @@ VISUALIZER_DATA_BARS = [
     "data": {
       "Number of Permits.1 unit": {
         "Mississippi": {
-          "count": 139,
-          "sum": 85307,
-          "average": 613.7194244604317,
-          "average w/o zero": 613.7194244604317
+          "count": 211,
+          "sum": 125883,
+          "average": 596.6018957345972,
+          "average w/o zero": 596.6018957345972
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 119639,
-          "average": 860.7122302158274,
-          "average w/o zero": 860.7122302158274
+          "count": 211,
+          "sum": 180106,
+          "average": 853.5829383886256,
+          "average w/o zero": 853.5829383886256
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 174360,
-          "average": 1254.388489208633,
-          "average w/o zero": 1254.388489208633
+          "count": 211,
+          "sum": 259546,
+          "average": 1230.0758293838862,
+          "average w/o zero": 1230.0758293838862
         },
         "Illinois": {
-          "count": 139,
-          "sum": 250959,
-          "average": 1805.4604316546763,
-          "average w/o zero": 1805.4604316546763
+          "count": 211,
+          "sum": 312194,
+          "average": 1479.5924170616113,
+          "average w/o zero": 1479.5924170616113
         },
         "Georgia": {
-          "count": 139,
-          "sum": 487718,
-          "average": 3508.7625899280574,
-          "average w/o zero": 3508.7625899280574
+          "count": 211,
+          "sum": 723146,
+          "average": 3427.2322274881517,
+          "average w/o zero": 3427.2322274881517
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 75158,
-          "average": 540.705035971223,
-          "average w/o zero": 540.705035971223
+          "count": 211,
+          "sum": 118647,
+          "average": 562.3080568720379,
+          "average w/o zero": 562.3080568720379
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 80231,
-          "average": 577.2014388489208,
-          "average w/o zero": 577.2014388489208
+          "count": 211,
+          "sum": 105567,
+          "average": 500.3175355450237,
+          "average w/o zero": 500.3175355450237
         },
         "Indiana": {
-          "count": 139,
-          "sum": 203827,
-          "average": 1466.3812949640287,
-          "average w/o zero": 1466.3812949640287
+          "count": 211,
+          "sum": 296656,
+          "average": 1405.952606635071,
+          "average w/o zero": 1405.952606635071
         },
         "Maryland": {
-          "count": 139,
-          "sum": 158369,
-          "average": 1139.3453237410072,
-          "average w/o zero": 1139.3453237410072
+          "count": 211,
+          "sum": 230164,
+          "average": 1090.824644549763,
+          "average w/o zero": 1090.824644549763
         },
         "Texas": {
-          "count": 139,
-          "sum": 1199053,
-          "average": 8626.280575539568,
-          "average w/o zero": 8626.280575539568
+          "count": 211,
+          "sum": 1929772,
+          "average": 9145.838862559242,
+          "average w/o zero": 9145.838862559242
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 21886,
-          "average": 157.45323741007195,
-          "average w/o zero": 157.45323741007195
+          "count": 211,
+          "sum": 31121,
+          "average": 147.49289099526067,
+          "average w/o zero": 147.49289099526067
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 258884,
-          "average": 1862.474820143885,
-          "average w/o zero": 1862.474820143885
+          "count": 211,
+          "sum": 426526,
+          "average": 2021.4502369668246,
+          "average w/o zero": 2021.4502369668246
         },
         "Iowa": {
-          "count": 139,
-          "sum": 95889,
-          "average": 689.8489208633093,
-          "average w/o zero": 689.8489208633093
+          "count": 211,
+          "sum": 145585,
+          "average": 689.9763033175356,
+          "average w/o zero": 689.9763033175356
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 168152,
-          "average": 1209.726618705036,
-          "average w/o zero": 1209.726618705036
+          "count": 211,
+          "sum": 236125,
+          "average": 1119.0758293838862,
+          "average w/o zero": 1119.0758293838862
         },
         "Arizona": {
-          "count": 139,
-          "sum": 389397,
-          "average": 2801.4172661870502,
-          "average w/o zero": 2801.4172661870502
+          "count": 211,
+          "sum": 569491,
+          "average": 2699.009478672986,
+          "average w/o zero": 2699.009478672986
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 164228,
-          "average": 1181.4964028776978,
-          "average w/o zero": 1181.4964028776978
+          "count": 211,
+          "sum": 248952,
+          "average": 1179.867298578199,
+          "average w/o zero": 1179.867298578199
         },
         "Michigan": {
-          "count": 139,
-          "sum": 222748,
-          "average": 1602.5035971223022,
-          "average w/o zero": 1602.5035971223022
+          "count": 211,
+          "sum": 315494,
+          "average": 1495.2322274881517,
+          "average w/o zero": 1495.2322274881517
         },
         "Kansas": {
-          "count": 139,
-          "sum": 73681,
-          "average": 530.0791366906475,
-          "average w/o zero": 530.0791366906475
+          "count": 211,
+          "sum": 105837,
+          "average": 501.5971563981043,
+          "average w/o zero": 501.5971563981043
         },
         "Utah": {
-          "count": 139,
-          "sum": 155069,
-          "average": 1115.6043165467627,
-          "average w/o zero": 1115.6043165467627
+          "count": 211,
+          "sum": 258679,
+          "average": 1225.9668246445497,
+          "average w/o zero": 1225.9668246445497
         },
         "Virginia": {
-          "count": 139,
-          "sum": 320959,
-          "average": 2309.0575539568345,
-          "average w/o zero": 2309.0575539568345
+          "count": 211,
+          "sum": 451619,
+          "average": 2140.3744075829386,
+          "average w/o zero": 2140.3744075829386
         },
         "Oregon": {
-          "count": 139,
-          "sum": 141042,
-          "average": 1014.6906474820144,
-          "average w/o zero": 1014.6906474820144
+          "count": 211,
+          "sum": 202598,
+          "average": 960.1800947867299,
+          "average w/o zero": 960.1800947867299
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 52414,
-          "average": 377.0791366906475,
-          "average w/o zero": 377.0791366906475
+          "count": 197,
+          "sum": 64923,
+          "average": 329.55837563451774,
+          "average w/o zero": 329.55837563451774
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 2770,
-          "average": 19.928057553956833,
-          "average w/o zero": 20.36764705882353
+          "count": 211,
+          "sum": 4118,
+          "average": 19.51658767772512,
+          "average w/o zero": 19.798076923076923
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 39017,
-          "average": 280.6978417266187,
-          "average w/o zero": 280.6978417266187
+          "count": 211,
+          "sum": 53934,
+          "average": 255.61137440758293,
+          "average w/o zero": 255.61137440758293
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 94429,
-          "average": 679.3453237410072,
-          "average w/o zero": 679.3453237410072
+          "count": 211,
+          "sum": 135683,
+          "average": 643.0473933649289,
+          "average w/o zero": 643.0473933649289
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 33126,
-          "average": 238.31654676258992,
-          "average w/o zero": 238.31654676258992
+          "count": 211,
+          "sum": 46866,
+          "average": 222.11374407582937,
+          "average w/o zero": 222.11374407582937
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 281700,
-          "average": 2026.6187050359713,
-          "average w/o zero": 2026.6187050359713
+          "count": 211,
+          "sum": 456198,
+          "average": 2162.0758293838862,
+          "average w/o zero": 2162.0758293838862
         },
         "Vermont": {
-          "count": 139,
-          "sum": 17373,
-          "average": 124.98561151079137,
-          "average w/o zero": 124.98561151079137
+          "count": 211,
+          "sum": 24158,
+          "average": 114.49289099526067,
+          "average w/o zero": 114.49289099526067
         },
         "Delaware": {
-          "count": 139,
-          "sum": 49519,
-          "average": 356.2517985611511,
-          "average w/o zero": 356.2517985611511
+          "count": 211,
+          "sum": 82067,
+          "average": 388.9431279620853,
+          "average w/o zero": 388.9431279620853
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 32482,
-          "average": 233.68345323741008,
-          "average w/o zero": 233.68345323741008
+          "count": 211,
+          "sum": 46235,
+          "average": 219.12322274881515,
+          "average w/o zero": 219.12322274881515
         },
         "California": {
-          "count": 139,
-          "sum": 752594,
-          "average": 5414.345323741008,
-          "average w/o zero": 5414.345323741008
+          "count": 211,
+          "sum": 1086546,
+          "average": 5149.5071090047395,
+          "average w/o zero": 5149.5071090047395
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 266481,
-          "average": 1917.1294964028777,
-          "average w/o zero": 1917.1294964028777
+          "count": 211,
+          "sum": 358653,
+          "average": 1699.777251184834,
+          "average w/o zero": 1699.777251184834
         },
         "Florida": {
-          "count": 139,
-          "sum": 980112,
-          "average": 7051.1654676258995,
-          "average w/o zero": 7051.1654676258995
+          "count": 211,
+          "sum": 1512152,
+          "average": 7166.597156398104,
+          "average w/o zero": 7166.597156398104
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 109191,
-          "average": 785.5467625899281,
-          "average w/o zero": 785.5467625899281
+          "count": 211,
+          "sum": 157740,
+          "average": 747.5829383886256,
+          "average w/o zero": 747.5829383886256
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 13306,
-          "average": 95.72661870503597,
-          "average w/o zero": 95.72661870503597
+          "count": 211,
+          "sum": 18879,
+          "average": 89.4739336492891,
+          "average w/o zero": 89.4739336492891
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 68611,
-          "average": 493.6043165467626,
-          "average w/o zero": 493.6043165467626
+          "count": 211,
+          "sum": 99894,
+          "average": 473.4312796208531,
+          "average w/o zero": 473.4312796208531
         },
         "Missouri": {
-          "count": 139,
-          "sum": 142397,
-          "average": 1024.4388489208634,
-          "average w/o zero": 1024.4388489208634
+          "count": 211,
+          "sum": 207191,
+          "average": 981.9478672985782,
+          "average w/o zero": 981.9478672985782
         },
         "Ohio": {
-          "count": 139,
-          "sum": 254789,
-          "average": 1833.0143884892086,
-          "average w/o zero": 1833.0143884892086
+          "count": 211,
+          "sum": 349262,
+          "average": 1655.2701421800948,
+          "average w/o zero": 1655.2701421800948
         },
         "Alabama": {
-          "count": 139,
-          "sum": 163635,
-          "average": 1177.230215827338,
-          "average w/o zero": 1177.230215827338
+          "count": 211,
+          "sum": 240276,
+          "average": 1138.7488151658767,
+          "average w/o zero": 1138.7488151658767
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 38806,
-          "average": 279.1798561151079,
-          "average w/o zero": 279.1798561151079
+          "count": 211,
+          "sum": 57087,
+          "average": 270.5545023696682,
+          "average w/o zero": 270.5545023696682
         },
         "Alaska": {
-          "count": 139,
-          "sum": 12505,
-          "average": 89.96402877697842,
-          "average w/o zero": 89.96402877697842
+          "count": 211,
+          "sum": 19319,
+          "average": 91.55924170616113,
+          "average w/o zero": 91.55924170616113
         },
         "Colorado": {
-          "count": 139,
-          "sum": 235993,
-          "average": 1697.7913669064749,
-          "average w/o zero": 1697.7913669064749
+          "count": 211,
+          "sum": 392091,
+          "average": 1858.2511848341233,
+          "average w/o zero": 1858.2511848341233
         },
         "Idaho": {
-          "count": 139,
-          "sum": 104502,
-          "average": 751.8129496402878,
-          "average w/o zero": 751.8129496402878
+          "count": 211,
+          "sum": 167826,
+          "average": 795.3838862559242,
+          "average w/o zero": 795.3838862559242
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 142623,
-          "average": 1026.0647482014388,
-          "average w/o zero": 1026.0647482014388
+          "count": 211,
+          "sum": 205917,
+          "average": 975.9099526066351,
+          "average w/o zero": 975.9099526066351
         },
         "Washington": {
-          "count": 139,
-          "sum": 268184,
-          "average": 1929.3812949640287,
-          "average w/o zero": 1929.3812949640287
+          "count": 211,
+          "sum": 402974,
+          "average": 1909.829383886256,
+          "average w/o zero": 1909.829383886256
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 565344,
-          "average": 4067.223021582734,
-          "average w/o zero": 4067.223021582734
+          "count": 211,
+          "sum": 843183,
+          "average": 3996.127962085308,
+          "average w/o zero": 3996.127962085308
         },
         "Maine": {
-          "count": 139,
-          "sum": 49286,
-          "average": 354.57553956834533,
-          "average w/o zero": 354.57553956834533
+          "count": 211,
+          "sum": 71240,
+          "average": 337.6303317535545,
+          "average w/o zero": 337.6303317535545
         },
         "New York": {
-          "count": 139,
-          "sum": 169274,
-          "average": 1217.7985611510792,
-          "average w/o zero": 1217.7985611510792
+          "count": 211,
+          "sum": 233735,
+          "average": 1107.7488151658767,
+          "average w/o zero": 1107.7488151658767
         },
         "Montana": {
-          "count": 139,
-          "sum": 26552,
-          "average": 191.02158273381295,
-          "average w/o zero": 191.02158273381295
+          "count": 211,
+          "sum": 41137,
+          "average": 194.96208530805688,
+          "average w/o zero": 194.96208530805688
         },
         "Nevada": {
-          "count": 139,
-          "sum": 185908,
-          "average": 1337.4676258992806,
-          "average w/o zero": 1337.4676258992806
+          "count": 211,
+          "sum": 258824,
+          "average": 1226.654028436019,
+          "average w/o zero": 1226.654028436019
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 39887,
-          "average": 286.9568345323741,
-          "average w/o zero": 286.9568345323741
+          "count": 211,
+          "sum": 54449,
+          "average": 258.0521327014218,
+          "average w/o zero": 258.0521327014218
         }
       },
       "Number of Permits.2 units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 1514,
-          "average": 10.892086330935252,
-          "average w/o zero": 12.40983606557377
+          "count": 211,
+          "sum": 2504,
+          "average": 11.867298578199053,
+          "average w/o zero": 13.319148936170214
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 3012,
-          "average": 21.66906474820144,
-          "average w/o zero": 21.82608695652174
+          "count": 211,
+          "sum": 5234,
+          "average": 24.805687203791468,
+          "average w/o zero": 25.04306220095694
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 2216,
-          "average": 15.942446043165468,
-          "average w/o zero": 17.046153846153846
+          "count": 211,
+          "sum": 3484,
+          "average": 16.511848341232227,
+          "average w/o zero": 18.145833333333332
         },
         "Illinois": {
-          "count": 139,
-          "sum": 8702,
-          "average": 62.60431654676259,
-          "average w/o zero": 63.05797101449275
+          "count": 211,
+          "sum": 10660,
+          "average": 50.52132701421801,
+          "average w/o zero": 50.76190476190476
         },
         "Georgia": {
-          "count": 139,
-          "sum": 3618,
-          "average": 26.028776978417266,
-          "average w/o zero": 26.217391304347824
+          "count": 211,
+          "sum": 5204,
+          "average": 24.66350710900474,
+          "average w/o zero": 25.14009661835749
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 4688,
-          "average": 33.726618705035975,
-          "average w/o zero": 33.726618705035975
+          "count": 211,
+          "sum": 7728,
+          "average": 36.62559241706161,
+          "average w/o zero": 36.62559241706161
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 450,
-          "average": 3.237410071942446,
-          "average w/o zero": 5.921052631578948
+          "count": 211,
+          "sum": 536,
+          "average": 2.5402843601895735,
+          "average w/o zero": 5.104761904761904
         },
         "Indiana": {
-          "count": 139,
-          "sum": 6876,
-          "average": 49.46762589928058,
-          "average w/o zero": 49.46762589928058
+          "count": 211,
+          "sum": 9718,
+          "average": 46.056872037914694,
+          "average w/o zero": 46.056872037914694
         },
         "Maryland": {
-          "count": 139,
-          "sum": 2006,
-          "average": 14.431654676258994,
-          "average w/o zero": 18.236363636363638
+          "count": 211,
+          "sum": 2514,
+          "average": 11.914691943127963,
+          "average w/o zero": 15.236363636363636
         },
         "Texas": {
-          "count": 139,
-          "sum": 20150,
-          "average": 144.9640287769784,
-          "average w/o zero": 144.9640287769784
+          "count": 211,
+          "sum": 33766,
+          "average": 160.02843601895734,
+          "average w/o zero": 160.02843601895734
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 444,
-          "average": 3.194244604316547,
-          "average w/o zero": 5.223529411764706
+          "count": 211,
+          "sum": 720,
+          "average": 3.4123222748815167,
+          "average w/o zero": 4.931506849315069
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 4660,
-          "average": 33.52517985611511,
-          "average w/o zero": 33.52517985611511
+          "count": 211,
+          "sum": 6912,
+          "average": 32.758293838862556,
+          "average w/o zero": 33.07177033492823
         },
         "Iowa": {
-          "count": 139,
-          "sum": 3204,
-          "average": 23.050359712230215,
-          "average w/o zero": 23.386861313868614
+          "count": 211,
+          "sum": 4510,
+          "average": 21.37440758293839,
+          "average w/o zero": 21.78743961352657
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 10226,
-          "average": 73.56834532374101,
-          "average w/o zero": 73.56834532374101
+          "count": 211,
+          "sum": 14350,
+          "average": 68.00947867298578,
+          "average w/o zero": 68.00947867298578
         },
         "Arizona": {
-          "count": 139,
-          "sum": 3852,
-          "average": 27.712230215827336,
-          "average w/o zero": 29.630769230769232
+          "count": 211,
+          "sum": 7066,
+          "average": 33.48815165876777,
+          "average w/o zero": 34.98019801980198
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 5314,
-          "average": 38.23021582733813,
-          "average w/o zero": 38.23021582733813
+          "count": 211,
+          "sum": 8044,
+          "average": 38.12322274881517,
+          "average w/o zero": 38.12322274881517
         },
         "Michigan": {
-          "count": 139,
-          "sum": 2856,
-          "average": 20.546762589928058,
-          "average w/o zero": 21.96923076923077
+          "count": 211,
+          "sum": 5012,
+          "average": 23.753554502369667,
+          "average w/o zero": 24.81188118811881
         },
         "Kansas": {
-          "count": 139,
-          "sum": 4652,
-          "average": 33.46762589928058,
-          "average w/o zero": 33.46762589928058
+          "count": 211,
+          "sum": 6822,
+          "average": 32.33175355450237,
+          "average w/o zero": 32.33175355450237
         },
         "Utah": {
-          "count": 139,
-          "sum": 2544,
-          "average": 18.302158273381295,
-          "average w/o zero": 18.434782608695652
+          "count": 211,
+          "sum": 3658,
+          "average": 17.33649289099526,
+          "average w/o zero": 17.58653846153846
         },
         "Virginia": {
-          "count": 139,
-          "sum": 2862,
-          "average": 20.58992805755396,
-          "average w/o zero": 21.2
+          "count": 211,
+          "sum": 4500,
+          "average": 21.327014218009477,
+          "average w/o zero": 22.167487684729064
         },
         "Oregon": {
-          "count": 139,
-          "sum": 4576,
-          "average": 32.92086330935252,
-          "average w/o zero": 33.4014598540146
+          "count": 211,
+          "sum": 6968,
+          "average": 33.023696682464454,
+          "average w/o zero": 33.33971291866029
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 1716,
-          "average": 12.345323741007194,
-          "average w/o zero": 12.525547445255475
+          "count": 197,
+          "sum": 2252,
+          "average": 11.431472081218274,
+          "average w/o zero": 11.66839378238342
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 444,
-          "average": 3.194244604316547,
-          "average w/o zero": 7.7894736842105265
+          "count": 211,
+          "sum": 832,
+          "average": 3.943127962085308,
+          "average w/o zero": 7.5636363636363635
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 1762,
-          "average": 12.676258992805755,
-          "average w/o zero": 13.348484848484848
+          "count": 211,
+          "sum": 2684,
+          "average": 12.72037914691943,
+          "average w/o zero": 13.156862745098039
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 6200,
-          "average": 44.60431654676259,
-          "average w/o zero": 44.60431654676259
+          "count": 211,
+          "sum": 9248,
+          "average": 43.829383886255926,
+          "average w/o zero": 43.829383886255926
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 484,
-          "average": 3.4820143884892087,
-          "average w/o zero": 6.914285714285715
+          "count": 211,
+          "sum": 756,
+          "average": 3.5829383886255926,
+          "average w/o zero": 5.8604651162790695
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 1890,
-          "average": 13.597122302158274,
-          "average w/o zero": 14.538461538461538
+          "count": 211,
+          "sum": 3012,
+          "average": 14.274881516587678,
+          "average w/o zero": 15.06
         },
         "Vermont": {
-          "count": 139,
-          "sum": 1160,
-          "average": 8.345323741007194,
-          "average w/o zero": 9.508196721311476
+          "count": 211,
+          "sum": 1526,
+          "average": 7.232227488151659,
+          "average w/o zero": 8.33879781420765
         },
         "Delaware": {
-          "count": 139,
-          "sum": 1346,
-          "average": 9.683453237410072,
-          "average w/o zero": 11.91150442477876
+          "count": 211,
+          "sum": 2490,
+          "average": 11.800947867298579,
+          "average w/o zero": 13.60655737704918
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 468,
-          "average": 3.366906474820144,
-          "average w/o zero": 6.077922077922078
+          "count": 211,
+          "sum": 948,
+          "average": 4.492890995260663,
+          "average w/o zero": 7.292307692307692
         },
         "California": {
-          "count": 139,
-          "sum": 17092,
-          "average": 122.96402877697842,
-          "average w/o zero": 122.96402877697842
+          "count": 211,
+          "sum": 28930,
+          "average": 137.10900473933648,
+          "average w/o zero": 137.10900473933648
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 5728,
-          "average": 41.20863309352518,
-          "average w/o zero": 41.20863309352518
+          "count": 211,
+          "sum": 9212,
+          "average": 43.65876777251185,
+          "average w/o zero": 43.65876777251185
         },
         "Florida": {
-          "count": 139,
-          "sum": 14518,
-          "average": 104.44604316546763,
-          "average w/o zero": 104.44604316546763
+          "count": 211,
+          "sum": 23048,
+          "average": 109.23222748815166,
+          "average w/o zero": 109.23222748815166
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 3204,
-          "average": 23.050359712230215,
-          "average w/o zero": 23.217391304347824
+          "count": 211,
+          "sum": 5314,
+          "average": 25.18483412322275,
+          "average w/o zero": 25.304761904761904
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 1130,
-          "average": 8.129496402877697,
-          "average w/o zero": 9.416666666666666
+          "count": 211,
+          "sum": 1568,
+          "average": 7.431279620853081,
+          "average w/o zero": 8.662983425414364
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 1658,
-          "average": 11.928057553956835,
-          "average w/o zero": 12.852713178294573
+          "count": 211,
+          "sum": 2600,
+          "average": 12.322274881516588,
+          "average w/o zero": 13
         },
         "Missouri": {
-          "count": 139,
-          "sum": 9388,
-          "average": 67.53956834532374,
-          "average w/o zero": 67.53956834532374
+          "count": 211,
+          "sum": 12420,
+          "average": 58.86255924170616,
+          "average w/o zero": 58.86255924170616
         },
         "Ohio": {
-          "count": 139,
-          "sum": 6368,
-          "average": 45.81294964028777,
-          "average w/o zero": 48.24242424242424
+          "count": 211,
+          "sum": 8572,
+          "average": 40.62559241706161,
+          "average w/o zero": 42.01960784313726
         },
         "Alabama": {
-          "count": 139,
-          "sum": 1830,
-          "average": 13.16546762589928,
-          "average w/o zero": 15.12396694214876
+          "count": 211,
+          "sum": 2526,
+          "average": 11.971563981042655,
+          "average w/o zero": 13.225130890052355
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 1050,
-          "average": 7.553956834532374,
-          "average w/o zero": 8.898305084745763
+          "count": 211,
+          "sum": 1644,
+          "average": 7.791469194312796,
+          "average w/o zero": 8.934782608695652
         },
         "Alaska": {
-          "count": 139,
-          "sum": 2502,
-          "average": 18,
-          "average w/o zero": 20.508196721311474
+          "count": 211,
+          "sum": 2980,
+          "average": 14.123222748815166,
+          "average w/o zero": 15.767195767195767
         },
         "Colorado": {
-          "count": 139,
-          "sum": 4112,
-          "average": 29.58273381294964,
-          "average w/o zero": 30.014598540145986
+          "count": 211,
+          "sum": 6264,
+          "average": 29.687203791469194,
+          "average w/o zero": 29.971291866028707
         },
         "Idaho": {
-          "count": 139,
-          "sum": 2294,
-          "average": 16.503597122302157,
-          "average w/o zero": 18.206349206349206
+          "count": 211,
+          "sum": 3406,
+          "average": 16.14218009478673,
+          "average w/o zero": 17.377551020408163
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 16154,
-          "average": 116.2158273381295,
-          "average w/o zero": 116.2158273381295
+          "count": 211,
+          "sum": 21654,
+          "average": 102.62559241706161,
+          "average w/o zero": 102.62559241706161
         },
         "Washington": {
-          "count": 139,
-          "sum": 9956,
-          "average": 71.62589928057554,
-          "average w/o zero": 71.62589928057554
+          "count": 211,
+          "sum": 16188,
+          "average": 76.72037914691943,
+          "average w/o zero": 76.72037914691943
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 6938,
-          "average": 49.9136690647482,
-          "average w/o zero": 49.9136690647482
+          "count": 211,
+          "sum": 8772,
+          "average": 41.573459715639814,
+          "average w/o zero": 41.573459715639814
         },
         "Maine": {
-          "count": 139,
-          "sum": 1278,
-          "average": 9.194244604316546,
-          "average w/o zero": 9.755725190839694
+          "count": 211,
+          "sum": 2144,
+          "average": 10.161137440758294,
+          "average w/o zero": 10.773869346733669
         },
         "New York": {
-          "count": 139,
-          "sum": 30474,
-          "average": 219.23741007194243,
-          "average w/o zero": 219.23741007194243
+          "count": 211,
+          "sum": 37762,
+          "average": 178.96682464454977,
+          "average w/o zero": 178.96682464454977
         },
         "Montana": {
-          "count": 139,
-          "sum": 1982,
-          "average": 14.258992805755396,
-          "average w/o zero": 14.681481481481482
+          "count": 211,
+          "sum": 3618,
+          "average": 17.14691943127962,
+          "average w/o zero": 17.47826086956522
         },
         "Nevada": {
-          "count": 139,
-          "sum": 758,
-          "average": 5.453237410071942,
-          "average w/o zero": 8.613636363636363
+          "count": 211,
+          "sum": 1798,
+          "average": 8.52132701421801,
+          "average w/o zero": 12.93525179856115
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 672,
-          "average": 4.83453237410072,
-          "average w/o zero": 8.842105263157896
+          "count": 211,
+          "sum": 1002,
+          "average": 4.748815165876778,
+          "average w/o zero": 7.828125
         }
       },
       "Number of Permits.3-4 units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 3443,
-          "average": 24.769784172661872,
-          "average w/o zero": 27.11023622047244
+          "count": 211,
+          "sum": 4065,
+          "average": 19.265402843601894,
+          "average w/o zero": 20.95360824742268
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 1784,
-          "average": 12.83453237410072,
-          "average w/o zero": 18.583333333333332
+          "count": 211,
+          "sum": 2287,
+          "average": 10.838862559241706,
+          "average w/o zero": 15.881944444444445
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 3968,
-          "average": 28.546762589928058,
-          "average w/o zero": 32.52459016393443
+          "count": 211,
+          "sum": 5467,
+          "average": 25.90995260663507,
+          "average w/o zero": 29.392473118279568
         },
         "Illinois": {
-          "count": 139,
-          "sum": 14139,
-          "average": 101.71942446043165,
-          "average w/o zero": 102.45652173913044
+          "count": 211,
+          "sum": 18132,
+          "average": 85.93364928909952,
+          "average w/o zero": 86.34285714285714
         },
         "Georgia": {
-          "count": 139,
-          "sum": 5290,
-          "average": 38.05755395683453,
-          "average w/o zero": 38.613138686131386
+          "count": 211,
+          "sum": 6929,
+          "average": 32.838862559241704,
+          "average w/o zero": 33.47342995169082
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 2998,
-          "average": 21.568345323741006,
-          "average w/o zero": 24.3739837398374
+          "count": 211,
+          "sum": 6029,
+          "average": 28.57345971563981,
+          "average w/o zero": 31.731578947368423
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 1746,
-          "average": 12.56115107913669,
-          "average w/o zero": 13.640625
+          "count": 211,
+          "sum": 1951,
+          "average": 9.246445497630331,
+          "average w/o zero": 11.969325153374234
         },
         "Indiana": {
-          "count": 139,
-          "sum": 4544,
-          "average": 32.69064748201439,
-          "average w/o zero": 34.16541353383459
+          "count": 211,
+          "sum": 5457,
+          "average": 25.862559241706162,
+          "average w/o zero": 28.421875
         },
         "Maryland": {
-          "count": 139,
-          "sum": 1003,
-          "average": 7.215827338129497,
-          "average w/o zero": 12.382716049382717
+          "count": 211,
+          "sum": 1509,
+          "average": 7.151658767772512,
+          "average w/o zero": 12.680672268907562
         },
         "Texas": {
-          "count": 139,
-          "sum": 20405,
-          "average": 146.79856115107913,
-          "average w/o zero": 146.79856115107913
+          "count": 211,
+          "sum": 29607,
+          "average": 140.3175355450237,
+          "average w/o zero": 140.3175355450237
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 865,
-          "average": 6.223021582733813,
-          "average w/o zero": 9.719101123595506
+          "count": 211,
+          "sum": 1365,
+          "average": 6.469194312796208,
+          "average w/o zero": 9.285714285714286
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 5601,
-          "average": 40.29496402877698,
-          "average w/o zero": 40.29496402877698
+          "count": 211,
+          "sum": 9782,
+          "average": 46.360189573459714,
+          "average w/o zero": 47.02884615384615
         },
         "Iowa": {
-          "count": 139,
-          "sum": 3000,
-          "average": 21.58273381294964,
-          "average w/o zero": 22.55639097744361
+          "count": 211,
+          "sum": 3489,
+          "average": 16.53554502369668,
+          "average w/o zero": 18.85945945945946
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 5351,
-          "average": 38.49640287769784,
-          "average w/o zero": 41.16153846153846
+          "count": 211,
+          "sum": 6306,
+          "average": 29.886255924170616,
+          "average w/o zero": 31.53
         },
         "Arizona": {
-          "count": 139,
-          "sum": 7451,
-          "average": 53.60431654676259,
-          "average w/o zero": 65.35964912280701
+          "count": 211,
+          "sum": 8712,
+          "average": 41.28909952606635,
+          "average w/o zero": 47.34782608695652
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 2051,
-          "average": 14.755395683453237,
-          "average w/o zero": 17.52991452991453
+          "count": 211,
+          "sum": 2475,
+          "average": 11.729857819905213,
+          "average w/o zero": 13.306451612903226
         },
         "Michigan": {
-          "count": 139,
-          "sum": 4227,
-          "average": 30.41007194244604,
-          "average w/o zero": 33.0234375
+          "count": 211,
+          "sum": 5821,
+          "average": 27.587677725118482,
+          "average w/o zero": 29.698979591836736
         },
         "Kansas": {
-          "count": 139,
-          "sum": 2360,
-          "average": 16.97841726618705,
-          "average w/o zero": 19.666666666666668
+          "count": 211,
+          "sum": 3200,
+          "average": 15.165876777251185,
+          "average w/o zero": 17.204301075268816
         },
         "Utah": {
-          "count": 139,
-          "sum": 6417,
-          "average": 46.16546762589928,
-          "average w/o zero": 46.5
+          "count": 211,
+          "sum": 10299,
+          "average": 48.81042654028436,
+          "average w/o zero": 49.042857142857144
         },
         "Virginia": {
-          "count": 139,
-          "sum": 3818,
-          "average": 27.467625899280577,
-          "average w/o zero": 28.924242424242426
+          "count": 211,
+          "sum": 5478,
+          "average": 25.96208530805687,
+          "average w/o zero": 27.253731343283583
         },
         "Oregon": {
-          "count": 139,
-          "sum": 4751,
-          "average": 34.17985611510792,
-          "average w/o zero": 38.314516129032256
+          "count": 211,
+          "sum": 5806,
+          "average": 27.51658767772512,
+          "average w/o zero": 31.554347826086957
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 1116,
-          "average": 8.028776978417266,
-          "average w/o zero": 11.505154639175258
+          "count": 197,
+          "sum": 1569,
+          "average": 7.964467005076142,
+          "average w/o zero": 11.207142857142857
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 132,
-          "average": 0.9496402877697842,
-          "average w/o zero": 5.739130434782608
+          "count": 211,
+          "sum": 165,
+          "average": 0.7819905213270142,
+          "average w/o zero": 5.15625
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 1268,
-          "average": 9.122302158273381,
-          "average w/o zero": 11.962264150943396
+          "count": 211,
+          "sum": 1575,
+          "average": 7.464454976303317,
+          "average w/o zero": 10.862068965517242
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 4292,
-          "average": 30.87769784172662,
-          "average w/o zero": 31.10144927536232
+          "count": 211,
+          "sum": 6353,
+          "average": 30.10900473933649,
+          "average w/o zero": 30.252380952380953
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 436,
-          "average": 3.1366906474820144,
-          "average w/o zero": 8.074074074074074
+          "count": 211,
+          "sum": 994,
+          "average": 4.710900473933649,
+          "average w/o zero": 9.466666666666667
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 2393,
-          "average": 17.215827338129497,
-          "average w/o zero": 23.233009708737864
+          "count": 211,
+          "sum": 2720,
+          "average": 12.890995260663507,
+          "average w/o zero": 17.77777777777778
         },
         "Vermont": {
-          "count": 139,
-          "sum": 492,
-          "average": 3.539568345323741,
-          "average w/o zero": 6.3076923076923075
+          "count": 211,
+          "sum": 714,
+          "average": 3.3838862559241707,
+          "average w/o zero": 5.852459016393443
         },
         "Delaware": {
-          "count": 139,
-          "sum": 833,
-          "average": 5.9928057553956835,
-          "average w/o zero": 10.679487179487179
+          "count": 211,
+          "sum": 1362,
+          "average": 6.454976303317536,
+          "average w/o zero": 10.014705882352942
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 1092,
-          "average": 7.856115107913669,
-          "average w/o zero": 12.551724137931034
+          "count": 211,
+          "sum": 1238,
+          "average": 5.867298578199052,
+          "average w/o zero": 11.462962962962964
         },
         "California": {
-          "count": 139,
-          "sum": 26158,
-          "average": 188.18705035971223,
-          "average w/o zero": 188.18705035971223
+          "count": 211,
+          "sum": 36472,
+          "average": 172.85308056872037,
+          "average w/o zero": 172.85308056872037
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 8824,
-          "average": 63.48201438848921,
-          "average w/o zero": 63.48201438848921
+          "count": 211,
+          "sum": 15444,
+          "average": 73.19431279620854,
+          "average w/o zero": 73.19431279620854
         },
         "Florida": {
-          "count": 139,
-          "sum": 20781,
-          "average": 149.50359712230215,
-          "average w/o zero": 149.50359712230215
+          "count": 211,
+          "sum": 27828,
+          "average": 131.88625592417063,
+          "average w/o zero": 131.88625592417063
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 4262,
-          "average": 30.66187050359712,
-          "average w/o zero": 31.80597014925373
+          "count": 211,
+          "sum": 5953,
+          "average": 28.213270142180093,
+          "average w/o zero": 28.898058252427184
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 478,
-          "average": 3.4388489208633093,
-          "average w/o zero": 5.759036144578313
+          "count": 211,
+          "sum": 795,
+          "average": 3.7677725118483414,
+          "average w/o zero": 6.2109375
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 744,
-          "average": 5.35251798561151,
-          "average w/o zero": 11.625
+          "count": 211,
+          "sum": 1074,
+          "average": 5.090047393364929,
+          "average w/o zero": 10.326923076923077
         },
         "Missouri": {
-          "count": 139,
-          "sum": 8262,
-          "average": 59.43884892086331,
-          "average w/o zero": 59.43884892086331
+          "count": 211,
+          "sum": 11174,
+          "average": 52.95734597156398,
+          "average w/o zero": 53.20952380952381
         },
         "Ohio": {
-          "count": 139,
-          "sum": 12264,
-          "average": 88.23021582733813,
-          "average w/o zero": 89.51824817518248
+          "count": 211,
+          "sum": 15461,
+          "average": 73.27488151658768,
+          "average w/o zero": 73.97607655502392
         },
         "Alabama": {
-          "count": 139,
-          "sum": 1269,
-          "average": 9.129496402877697,
-          "average w/o zero": 16.48051948051948
+          "count": 211,
+          "sum": 2391,
+          "average": 11.33175355450237,
+          "average w/o zero": 16.376712328767123
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 1661,
-          "average": 11.949640287769784,
-          "average w/o zero": 15.37962962962963
+          "count": 211,
+          "sum": 2474,
+          "average": 11.725118483412322,
+          "average w/o zero": 15.177914110429448
         },
         "Alaska": {
-          "count": 139,
-          "sum": 1098,
-          "average": 7.899280575539568,
-          "average w/o zero": 12.767441860465116
+          "count": 211,
+          "sum": 1510,
+          "average": 7.156398104265403,
+          "average w/o zero": 9.617834394904458
         },
         "Colorado": {
-          "count": 139,
-          "sum": 3720,
-          "average": 26.762589928057555,
-          "average w/o zero": 29.291338582677167
+          "count": 211,
+          "sum": 6015,
+          "average": 28.507109004739338,
+          "average w/o zero": 30.22613065326633
         },
         "Idaho": {
-          "count": 139,
-          "sum": 6149,
-          "average": 44.23741007194245,
-          "average w/o zero": 49.192
+          "count": 211,
+          "sum": 8765,
+          "average": 41.540284360189574,
+          "average w/o zero": 45.41450777202073
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 8188,
-          "average": 58.906474820143885,
-          "average w/o zero": 58.906474820143885
+          "count": 211,
+          "sum": 12173,
+          "average": 57.691943127962084,
+          "average w/o zero": 57.691943127962084
         },
         "Washington": {
-          "count": 139,
-          "sum": 9439,
-          "average": 67.90647482014388,
-          "average w/o zero": 68.39855072463769
+          "count": 211,
+          "sum": 14723,
+          "average": 69.77725118483413,
+          "average w/o zero": 70.10952380952381
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 6770,
-          "average": 48.70503597122302,
-          "average w/o zero": 49.779411764705884
+          "count": 211,
+          "sum": 7895,
+          "average": 37.41706161137441,
+          "average w/o zero": 41.119791666666664
         },
         "Maine": {
-          "count": 139,
-          "sum": 904,
-          "average": 6.503597122302159,
-          "average w/o zero": 9.224489795918368
+          "count": 211,
+          "sum": 1191,
+          "average": 5.644549763033176,
+          "average w/o zero": 8.446808510638299
         },
         "New York": {
-          "count": 139,
-          "sum": 30494,
-          "average": 219.38129496402877,
-          "average w/o zero": 219.38129496402877
+          "count": 211,
+          "sum": 35493,
+          "average": 168.2132701421801,
+          "average w/o zero": 168.2132701421801
         },
         "Montana": {
-          "count": 139,
-          "sum": 2830,
-          "average": 20.359712230215827,
-          "average w/o zero": 21.76923076923077
+          "count": 211,
+          "sum": 4949,
+          "average": 23.454976303317537,
+          "average w/o zero": 24.621890547263682
         },
         "Nevada": {
-          "count": 139,
-          "sum": 5878,
-          "average": 42.28776978417266,
-          "average w/o zero": 55.98095238095238
+          "count": 211,
+          "sum": 7195,
+          "average": 34.09952606635071,
+          "average w/o zero": 46.12179487179487
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 1113,
-          "average": 8.007194244604317,
-          "average w/o zero": 16.863636363636363
+          "count": 211,
+          "sum": 1309,
+          "average": 6.203791469194313,
+          "average w/o zero": 15.220930232558139
         }
       },
       "Number of Permits.5+ units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 17791,
-          "average": 127.99280575539568,
-          "average w/o zero": 131.78518518518518
+          "count": 211,
+          "sum": 20732,
+          "average": 98.25592417061611,
+          "average w/o zero": 100.15458937198068
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 21143,
-          "average": 152.10791366906474,
-          "average w/o zero": 152.10791366906474
+          "count": 211,
+          "sum": 29527,
+          "average": 139.9383886255924,
+          "average w/o zero": 143.33495145631068
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 54530,
-          "average": 392.3021582733813,
-          "average w/o zero": 395.1449275362319
+          "count": 211,
+          "sum": 120584,
+          "average": 571.4881516587677,
+          "average w/o zero": 574.2095238095238
         },
         "Illinois": {
-          "count": 139,
-          "sum": 103024,
-          "average": 741.1798561151079,
-          "average w/o zero": 741.1798561151079
+          "count": 211,
+          "sum": 162844,
+          "average": 771.7725118483412,
+          "average w/o zero": 771.7725118483412
         },
         "Georgia": {
-          "count": 139,
-          "sum": 116286,
-          "average": 836.589928057554,
-          "average w/o zero": 836.589928057554
+          "count": 211,
+          "sum": 181819,
+          "average": 861.7014218009479,
+          "average w/o zero": 861.7014218009479
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 29368,
-          "average": 211.28057553956833,
-          "average w/o zero": 222.4848484848485
+          "count": 211,
+          "sum": 43931,
+          "average": 208.2037914691943,
+          "average w/o zero": 215.34803921568627
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 8219,
-          "average": 59.1294964028777,
-          "average w/o zero": 62.74045801526717
+          "count": 211,
+          "sum": 11884,
+          "average": 56.322274881516584,
+          "average w/o zero": 59.124378109452735
         },
         "Indiana": {
-          "count": 139,
-          "sum": 42300,
-          "average": 304.31654676258995,
-          "average w/o zero": 304.31654676258995
+          "count": 211,
+          "sum": 68427,
+          "average": 324.29857819905214,
+          "average w/o zero": 324.29857819905214
         },
         "Maryland": {
-          "count": 139,
-          "sum": 57061,
-          "average": 410.51079136690646,
-          "average w/o zero": 410.51079136690646
+          "count": 211,
+          "sum": 86899,
+          "average": 411.8436018957346,
+          "average w/o zero": 413.8047619047619
         },
         "Texas": {
-          "count": 139,
-          "sum": 456496,
-          "average": 3284.143884892086,
-          "average w/o zero": 3284.143884892086
+          "count": 211,
+          "sum": 813938,
+          "average": 3857.526066350711,
+          "average w/o zero": 3857.526066350711
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 4433,
-          "average": 31.892086330935253,
-          "average w/o zero": 34.1
+          "count": 211,
+          "sum": 5340,
+          "average": 25.308056872037916,
+          "average w/o zero": 30
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 54970,
-          "average": 395.46762589928056,
-          "average w/o zero": 395.46762589928056
+          "count": 211,
+          "sum": 119474,
+          "average": 566.2274881516588,
+          "average w/o zero": 566.2274881516588
         },
         "Iowa": {
-          "count": 139,
-          "sum": 24869,
-          "average": 178.9136690647482,
-          "average w/o zero": 184.21481481481482
+          "count": 211,
+          "sum": 45301,
+          "average": 214.69668246445497,
+          "average w/o zero": 218.84541062801932
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 52762,
-          "average": 379.58273381294964,
-          "average w/o zero": 379.58273381294964
+          "count": 211,
+          "sum": 85556,
+          "average": 405.478672985782,
+          "average w/o zero": 405.478672985782
         },
         "Arizona": {
-          "count": 139,
-          "sum": 70742,
-          "average": 508.9352517985611,
-          "average w/o zero": 516.3649635036496
+          "count": 211,
+          "sum": 135436,
+          "average": 641.8767772511849,
+          "average w/o zero": 648.0191387559809
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 23747,
-          "average": 170.84172661870502,
-          "average w/o zero": 172.07971014492753
+          "count": 211,
+          "sum": 31252,
+          "average": 148.11374407582937,
+          "average w/o zero": 148.8190476190476
         },
         "Michigan": {
-          "count": 139,
-          "sum": 31649,
-          "average": 227.69064748201438,
-          "average w/o zero": 227.69064748201438
+          "count": 211,
+          "sum": 69060,
+          "average": 327.29857819905214,
+          "average w/o zero": 327.29857819905214
         },
         "Kansas": {
-          "count": 139,
-          "sum": 23417,
-          "average": 168.46762589928056,
-          "average w/o zero": 174.7537313432836
+          "count": 211,
+          "sum": 37625,
+          "average": 178.3175355450237,
+          "average w/o zero": 182.64563106796118
         },
         "Utah": {
-          "count": 139,
-          "sum": 32273,
-          "average": 232.17985611510792,
-          "average w/o zero": 232.17985611510792
+          "count": 211,
+          "sum": 75240,
+          "average": 356.5876777251185,
+          "average w/o zero": 356.5876777251185
         },
         "Virginia": {
-          "count": 139,
-          "sum": 84996,
-          "average": 611.4820143884892,
-          "average w/o zero": 611.4820143884892
+          "count": 211,
+          "sum": 140732,
+          "average": 666.9763033175356,
+          "average w/o zero": 666.9763033175356
         },
         "Oregon": {
-          "count": 139,
-          "sum": 48271,
-          "average": 347.27338129496405,
-          "average w/o zero": 352.3430656934307
+          "count": 211,
+          "sum": 96126,
+          "average": 455.5734597156398,
+          "average w/o zero": 459.933014354067
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 22402,
-          "average": 161.16546762589928,
-          "average w/o zero": 161.16546762589928
+          "count": 197,
+          "sum": 33493,
+          "average": 170.01522842639594,
+          "average w/o zero": 170.01522842639594
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 22749,
-          "average": 163.66187050359713,
-          "average w/o zero": 229.78787878787878
+          "count": 211,
+          "sum": 53882,
+          "average": 255.3649289099526,
+          "average w/o zero": 322.6467065868263
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 8260,
-          "average": 59.42446043165467,
-          "average w/o zero": 63.05343511450382
+          "count": 211,
+          "sum": 13388,
+          "average": 63.45023696682465,
+          "average w/o zero": 65.95073891625616
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 56365,
-          "average": 405.50359712230215,
-          "average w/o zero": 405.50359712230215
+          "count": 211,
+          "sum": 102629,
+          "average": 486.39336492890993,
+          "average w/o zero": 486.39336492890993
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 3357,
-          "average": 24.151079136690647,
-          "average w/o zero": 28.692307692307693
+          "count": 211,
+          "sum": 7493,
+          "average": 35.51184834123223,
+          "average w/o zero": 39.645502645502646
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 58431,
-          "average": 420.36690647482015,
-          "average w/o zero": 420.36690647482015
+          "count": 211,
+          "sum": 91077,
+          "average": 431.6445497630332,
+          "average w/o zero": 431.6445497630332
         },
         "Vermont": {
-          "count": 139,
-          "sum": 3423,
-          "average": 24.62589928057554,
-          "average w/o zero": 28.057377049180328
+          "count": 211,
+          "sum": 6517,
+          "average": 30.886255924170616,
+          "average w/o zero": 33.59278350515464
         },
         "Delaware": {
-          "count": 139,
-          "sum": 8013,
-          "average": 57.64748201438849,
-          "average w/o zero": 58.06521739130435
+          "count": 211,
+          "sum": 12892,
+          "average": 61.09952606635071,
+          "average w/o zero": 61.39047619047619
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 23855,
-          "average": 171.61870503597123,
-          "average w/o zero": 187.83464566929135
+          "count": 211,
+          "sum": 33911,
+          "average": 160.71563981042655,
+          "average w/o zero": 177.54450261780104
         },
         "California": {
-          "count": 139,
-          "sum": 379717,
-          "average": 2731.776978417266,
-          "average w/o zero": 2731.776978417266
+          "count": 211,
+          "sum": 664510,
+          "average": 3149.3364928909955,
+          "average w/o zero": 3149.3364928909955
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 53833,
-          "average": 387.28776978417267,
-          "average w/o zero": 387.28776978417267
+          "count": 211,
+          "sum": 89135,
+          "average": 422.4407582938389,
+          "average w/o zero": 422.4407582938389
         },
         "Florida": {
-          "count": 139,
-          "sum": 352450,
-          "average": 2535.611510791367,
-          "average w/o zero": 2535.611510791367
+          "count": 211,
+          "sum": 597940,
+          "average": 2833.8388625592415,
+          "average w/o zero": 2833.8388625592415
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 24297,
-          "average": 174.79856115107913,
-          "average w/o zero": 174.79856115107913
+          "count": 211,
+          "sum": 45854,
+          "average": 217.3175355450237,
+          "average w/o zero": 217.3175355450237
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 2693,
-          "average": 19.37410071942446,
-          "average w/o zero": 32.05952380952381
+          "count": 211,
+          "sum": 3110,
+          "average": 14.739336492890995,
+          "average w/o zero": 27.280701754385966
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 17328,
-          "average": 124.66187050359713,
-          "average w/o zero": 127.41176470588235
+          "count": 211,
+          "sum": 34608,
+          "average": 164.01895734597156,
+          "average w/o zero": 166.3846153846154
         },
         "Missouri": {
-          "count": 139,
-          "sum": 39813,
-          "average": 286.42446043165467,
-          "average w/o zero": 286.42446043165467
+          "count": 211,
+          "sum": 72666,
+          "average": 344.38862559241704,
+          "average w/o zero": 346.0285714285714
         },
         "Ohio": {
-          "count": 139,
-          "sum": 60087,
-          "average": 432.28057553956836,
-          "average w/o zero": 432.28057553956836
+          "count": 211,
+          "sum": 99593,
+          "average": 472.0047393364929,
+          "average w/o zero": 472.0047393364929
         },
         "Alabama": {
-          "count": 139,
-          "sum": 44800,
-          "average": 322.3021582733813,
-          "average w/o zero": 322.3021582733813
+          "count": 211,
+          "sum": 58885,
+          "average": 279.07582938388623,
+          "average w/o zero": 279.07582938388623
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 11618,
-          "average": 83.58273381294964,
-          "average w/o zero": 88.01515151515152
+          "count": 211,
+          "sum": 22551,
+          "average": 106.87677725118483,
+          "average w/o zero": 111.08866995073892
         },
         "Alaska": {
-          "count": 139,
-          "sum": 3666,
-          "average": 26.37410071942446,
-          "average w/o zero": 43.642857142857146
+          "count": 211,
+          "sum": 5188,
+          "average": 24.587677725118482,
+          "average w/o zero": 34.13157894736842
         },
         "Colorado": {
-          "count": 139,
-          "sum": 72579,
-          "average": 522.1510791366907,
-          "average w/o zero": 522.1510791366907
+          "count": 211,
+          "sum": 156209,
+          "average": 740.3270142180095,
+          "average w/o zero": 740.3270142180095
         },
         "Idaho": {
-          "count": 139,
-          "sum": 9637,
-          "average": 69.33093525179856,
-          "average w/o zero": 77.096
+          "count": 211,
+          "sum": 24420,
+          "average": 115.73459715639811,
+          "average w/o zero": 124.59183673469387
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 98179,
-          "average": 706.3237410071943,
-          "average w/o zero": 706.3237410071943
+          "count": 211,
+          "sum": 198361,
+          "average": 940.0995260663507,
+          "average w/o zero": 940.0995260663507
         },
         "Washington": {
-          "count": 139,
-          "sum": 108261,
-          "average": 778.8561151079136,
-          "average w/o zero": 778.8561151079136
+          "count": 211,
+          "sum": 226808,
+          "average": 1074.9194312796208,
+          "average w/o zero": 1074.9194312796208
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 141309,
-          "average": 1016.6115107913669,
-          "average w/o zero": 1016.6115107913669
+          "count": 211,
+          "sum": 244182,
+          "average": 1157.260663507109,
+          "average w/o zero": 1157.260663507109
         },
         "Maine": {
-          "count": 139,
-          "sum": 4036,
-          "average": 29.035971223021583,
-          "average w/o zero": 29.676470588235293
+          "count": 211,
+          "sum": 7837,
+          "average": 37.14218009478673,
+          "average w/o zero": 38.229268292682924
         },
         "New York": {
-          "count": 139,
-          "sum": 230935,
-          "average": 1661.4028776978416,
-          "average w/o zero": 1661.4028776978416
+          "count": 211,
+          "sum": 423298,
+          "average": 2006.1516587677725,
+          "average w/o zero": 2006.1516587677725
         },
         "Montana": {
-          "count": 139,
-          "sum": 8142,
-          "average": 58.57553956834533,
-          "average w/o zero": 66.1951219512195
+          "count": 211,
+          "sum": 14200,
+          "average": 67.29857819905213,
+          "average w/o zero": 73.95833333333333
         },
         "Nevada": {
-          "count": 139,
-          "sum": 55136,
-          "average": 396.66187050359713,
-          "average w/o zero": 437.58730158730157
+          "count": 211,
+          "sum": 84657,
+          "average": 401.21800947867297,
+          "average w/o zero": 429.7309644670051
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 18042,
-          "average": 129.79856115107913,
-          "average w/o zero": 150.35
+          "count": 211,
+          "sum": 27981,
+          "average": 132.61137440758293,
+          "average w/o zero": 159.89142857142858
         }
       },
       "Period.month": {
         "Mississippi": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Illinois": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Georgia": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Indiana": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Maryland": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Texas": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Iowa": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Arizona": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Michigan": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Kansas": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Utah": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Virginia": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Oregon": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 197,
+          "sum": 1288,
+          "average": 6.538071065989848,
+          "average w/o zero": 6.538071065989848
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Vermont": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Delaware": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "California": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Florida": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Missouri": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Ohio": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Alabama": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Alaska": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Colorado": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Idaho": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Washington": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Maine": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "New York": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Montana": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Nevada": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 921,
-          "average": 6.625899280575539,
-          "average w/o zero": 6.625899280575539
+          "count": 211,
+          "sum": 1389,
+          "average": 6.5829383886255926,
+          "average w/o zero": 6.5829383886255926
         }
       },
       "Period.year": {
         "Mississippi": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Illinois": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Georgia": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Indiana": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Maryland": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Texas": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Iowa": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Arizona": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Michigan": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Kansas": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Utah": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Virginia": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Oregon": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 197,
+          "sum": 396191,
+          "average": 2011.1218274111675,
+          "average w/o zero": 2011.1218274111675
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Vermont": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Delaware": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "California": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Florida": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Missouri": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Ohio": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Alabama": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Alaska": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Colorado": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Idaho": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Washington": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Maine": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "New York": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Montana": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Nevada": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 279209,
-          "average": 2008.6978417266187,
-          "average w/o zero": 2008.6978417266187
+          "count": 211,
+          "sum": 424469,
+          "average": 2011.7014218009479,
+          "average w/o zero": 2011.7014218009479
         }
       },
       "Valuations.1 unit": {
         "Mississippi": {
-          "count": 139,
-          "sum": 11532003,
-          "average": 82964.05035971223,
-          "average w/o zero": 82964.05035971223
+          "count": 211,
+          "sum": 13272751,
+          "average": 62904.03317535545,
+          "average w/o zero": 62904.03317535545
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 19761300,
-          "average": 142167.62589928057,
-          "average w/o zero": 142167.62589928057
+          "count": 211,
+          "sum": 22817142,
+          "average": 108138.11374407583,
+          "average w/o zero": 108138.11374407583
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 34508619,
-          "average": 248263.44604316546,
-          "average w/o zero": 248263.44604316546
+          "count": 211,
+          "sum": 39503685,
+          "average": 187221.2559241706,
+          "average w/o zero": 187221.2559241706
         },
         "Illinois": {
-          "count": 139,
-          "sum": 50404813,
-          "average": 362624.55395683454,
-          "average w/o zero": 362624.55395683454
+          "count": 211,
+          "sum": 53398729,
+          "average": 253074.54502369667,
+          "average w/o zero": 253074.54502369667
         },
         "Georgia": {
-          "count": 139,
-          "sum": 74258810,
-          "average": 534236.0431654677,
-          "average w/o zero": 534236.0431654677
+          "count": 211,
+          "sum": 86051701,
+          "average": 407827.96682464454,
+          "average w/o zero": 407827.96682464454
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 12086562,
-          "average": 86953.6834532374,
-          "average w/o zero": 86953.6834532374
+          "count": 211,
+          "sum": 14377248,
+          "average": 68138.61611374408,
+          "average w/o zero": 68138.61611374408
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 13570776,
-          "average": 97631.48201438849,
-          "average w/o zero": 97631.48201438849
+          "count": 211,
+          "sum": 14868453,
+          "average": 70466.6018957346,
+          "average w/o zero": 70466.6018957346
         },
         "Indiana": {
-          "count": 139,
-          "sum": 36396693,
-          "average": 261846.71223021584,
-          "average w/o zero": 261846.71223021584
+          "count": 211,
+          "sum": 42251421,
+          "average": 200243.70142180094,
+          "average w/o zero": 200243.70142180094
         },
         "Maryland": {
-          "count": 139,
-          "sum": 26916041,
-          "average": 193640.58273381295,
-          "average w/o zero": 193640.58273381295
+          "count": 211,
+          "sum": 30334161,
+          "average": 143763.7962085308,
+          "average w/o zero": 143763.7962085308
         },
         "Texas": {
-          "count": 139,
-          "sum": 201789655,
-          "average": 1451724.1366906476,
-          "average w/o zero": 1451724.1366906476
+          "count": 211,
+          "sum": 239715699,
+          "average": 1136093.3601895734,
+          "average w/o zero": 1136093.3601895734
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 4902512,
-          "average": 35269.87050359712,
-          "average w/o zero": 35269.87050359712
+          "count": 211,
+          "sum": 5569582,
+          "average": 26396.123222748814,
+          "average w/o zero": 26396.123222748814
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 40215721,
-          "average": 289321.7338129496,
-          "average w/o zero": 289321.7338129496
+          "count": 211,
+          "sum": 48836309,
+          "average": 231451.70142180094,
+          "average w/o zero": 231451.70142180094
         },
         "Iowa": {
-          "count": 139,
-          "sum": 16821488,
-          "average": 121017.89928057554,
-          "average w/o zero": 121017.89928057554
+          "count": 211,
+          "sum": 19461736,
+          "average": 92235.71563981043,
+          "average w/o zero": 92235.71563981043
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 31138198,
-          "average": 224015.8129496403,
-          "average w/o zero": 224015.8129496403
+          "count": 211,
+          "sum": 35221736,
+          "average": 166927.65876777252,
+          "average w/o zero": 166927.65876777252
         },
         "Arizona": {
-          "count": 139,
-          "sum": 70524001,
-          "average": 507366.91366906476,
-          "average w/o zero": 507366.91366906476
+          "count": 211,
+          "sum": 83057503,
+          "average": 393637.4549763033,
+          "average w/o zero": 393637.4549763033
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 25118515,
-          "average": 180708.74100719424,
-          "average w/o zero": 180708.74100719424
+          "count": 211,
+          "sum": 28912127,
+          "average": 137024.29857819906,
+          "average w/o zero": 137024.29857819906
         },
         "Michigan": {
-          "count": 139,
-          "sum": 37598182,
-          "average": 270490.5179856115,
-          "average w/o zero": 270490.5179856115
+          "count": 211,
+          "sum": 42259414,
+          "average": 200281.58293838863,
+          "average w/o zero": 200281.58293838863
         },
         "Kansas": {
-          "count": 139,
-          "sum": 13186104,
-          "average": 94864.05755395684,
-          "average w/o zero": 94864.05755395684
+          "count": 211,
+          "sum": 14999348,
+          "average": 71086.95734597156,
+          "average w/o zero": 71086.95734597156
         },
         "Utah": {
-          "count": 139,
-          "sum": 29953292,
-          "average": 215491.30935251797,
-          "average w/o zero": 215491.30935251797
+          "count": 211,
+          "sum": 36282347,
+          "average": 171954.2511848341,
+          "average w/o zero": 171954.2511848341
         },
         "Virginia": {
-          "count": 139,
-          "sum": 55061878,
-          "average": 396128.61870503594,
-          "average w/o zero": 396128.61870503594
+          "count": 211,
+          "sum": 60944108,
+          "average": 288834.6350710901,
+          "average w/o zero": 288834.6350710901
         },
         "Oregon": {
-          "count": 139,
-          "sum": 29545133,
-          "average": 212554.91366906476,
-          "average w/o zero": 212554.91366906476
+          "count": 211,
+          "sum": 32794001,
+          "average": 155421.8056872038,
+          "average w/o zero": 155421.8056872038
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 12382353,
-          "average": 89081.67625899281,
-          "average w/o zero": 89081.67625899281
+          "count": 197,
+          "sum": 12394862,
+          "average": 62918.081218274114,
+          "average w/o zero": 62918.081218274114
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 463185,
-          "average": 3332.26618705036,
-          "average w/o zero": 3405.7720588235293
+          "count": 211,
+          "sum": 503742,
+          "average": 2387.4028436018957,
+          "average w/o zero": 2421.8365384615386
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 7750287,
-          "average": 55757.460431654676,
-          "average w/o zero": 55757.460431654676
+          "count": 211,
+          "sum": 8693510,
+          "average": 41201.4691943128,
+          "average w/o zero": 41201.4691943128
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 21944029,
-          "average": 157870.71223021584,
-          "average w/o zero": 157870.71223021584
+          "count": 211,
+          "sum": 24303105,
+          "average": 115180.5924170616,
+          "average w/o zero": 115180.5924170616
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 5490642,
-          "average": 39501.02158273381,
-          "average w/o zero": 39501.02158273381
+          "count": 211,
+          "sum": 6078417,
+          "average": 28807.663507109006,
+          "average w/o zero": 28807.663507109006
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 47687690,
-          "average": 343076.90647482016,
-          "average w/o zero": 343076.90647482016
+          "count": 211,
+          "sum": 57551107,
+          "average": 272754.06161137443,
+          "average w/o zero": 272754.06161137443
         },
         "Vermont": {
-          "count": 139,
-          "sum": 3030827,
-          "average": 21804.510791366905,
-          "average w/o zero": 21804.510791366905
+          "count": 211,
+          "sum": 3388496,
+          "average": 16059.222748815166,
+          "average w/o zero": 16059.222748815166
         },
         "Delaware": {
-          "count": 139,
-          "sum": 6125823,
-          "average": 44070.6690647482,
-          "average w/o zero": 44070.6690647482
+          "count": 211,
+          "sum": 7213815,
+          "average": 34188.696682464455,
+          "average w/o zero": 34188.696682464455
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 5733834,
-          "average": 41250.60431654676,
-          "average w/o zero": 41250.60431654676
+          "count": 211,
+          "sum": 6353050,
+          "average": 30109.241706161138,
+          "average w/o zero": 30109.241706161138
         },
         "California": {
-          "count": 139,
-          "sum": 169197459,
-          "average": 1217247.90647482,
-          "average w/o zero": 1217247.90647482
+          "count": 211,
+          "sum": 189178054,
+          "average": 896578.4549763033,
+          "average w/o zero": 896578.4549763033
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 45685413,
-          "average": 328672.035971223,
-          "average w/o zero": 328672.035971223
+          "count": 211,
+          "sum": 50349166,
+          "average": 238621.63981042654,
+          "average w/o zero": 238621.63981042654
         },
         "Florida": {
-          "count": 139,
-          "sum": 189644983,
-          "average": 1364352.3956834532,
-          "average w/o zero": 1364352.3956834532
+          "count": 211,
+          "sum": 223796563,
+          "average": 1060647.2180094786,
+          "average w/o zero": 1060647.2180094786
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 15829903,
-          "average": 113884.19424460431,
-          "average w/o zero": 113884.19424460431
+          "count": 211,
+          "sum": 18173391,
+          "average": 86129.81516587677,
+          "average w/o zero": 86129.81516587677
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 2520292,
-          "average": 18131.59712230216,
-          "average w/o zero": 18131.59712230216
+          "count": 211,
+          "sum": 2808929,
+          "average": 13312.45971563981,
+          "average w/o zero": 13312.45971563981
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 11098387,
-          "average": 79844.5107913669,
-          "average w/o zero": 79844.5107913669
+          "count": 211,
+          "sum": 12563885,
+          "average": 59544.47867298578,
+          "average w/o zero": 59544.47867298578
         },
         "Missouri": {
-          "count": 139,
-          "sum": 24777723,
-          "average": 178257,
-          "average w/o zero": 178257
+          "count": 211,
+          "sum": 28299988,
+          "average": 134123.16587677726,
+          "average w/o zero": 134123.16587677726
         },
         "Ohio": {
-          "count": 139,
-          "sum": 47742808,
-          "average": 343473.43884892086,
-          "average w/o zero": 343473.43884892086
+          "count": 211,
+          "sum": 53745160,
+          "average": 254716.3981042654,
+          "average w/o zero": 254716.3981042654
         },
         "Alabama": {
-          "count": 139,
-          "sum": 24937217,
-          "average": 179404.43884892086,
-          "average w/o zero": 179404.43884892086
+          "count": 211,
+          "sum": 28936392,
+          "average": 137139.29857819906,
+          "average w/o zero": 137139.29857819906
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 5970088,
-          "average": 42950.27338129497,
-          "average w/o zero": 42950.27338129497
+          "count": 211,
+          "sum": 6864640,
+          "average": 32533.83886255924,
+          "average w/o zero": 32533.83886255924
         },
         "Alaska": {
-          "count": 139,
-          "sum": 2858598,
-          "average": 20565.45323741007,
-          "average w/o zero": 20565.45323741007
+          "count": 211,
+          "sum": 3263048,
+          "average": 15464.682464454976,
+          "average w/o zero": 15464.682464454976
         },
         "Colorado": {
-          "count": 139,
-          "sum": 54990472,
-          "average": 395614.90647482016,
-          "average w/o zero": 395614.90647482016
+          "count": 211,
+          "sum": 66097911,
+          "average": 313260.2417061611,
+          "average w/o zero": 313260.2417061611
         },
         "Idaho": {
-          "count": 139,
-          "sum": 18471387,
-          "average": 132887.6762589928,
-          "average w/o zero": 132887.6762589928
+          "count": 211,
+          "sum": 21795689,
+          "average": 103297.10426540284,
+          "average w/o zero": 103297.10426540284
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 25695199,
-          "average": 184857.54676258992,
-          "average w/o zero": 184857.54676258992
+          "count": 211,
+          "sum": 28516303,
+          "average": 135148.35545023697,
+          "average w/o zero": 135148.35545023697
         },
         "Washington": {
-          "count": 139,
-          "sum": 55728930,
-          "average": 400927.55395683454,
-          "average w/o zero": 400927.55395683454
+          "count": 211,
+          "sum": 63644073,
+          "average": 301630.67772511847,
+          "average w/o zero": 301630.67772511847
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 97266153,
-          "average": 699756.4964028777,
-          "average w/o zero": 699756.4964028777
+          "count": 211,
+          "sum": 112731466,
+          "average": 534272.3507109005,
+          "average w/o zero": 534272.3507109005
         },
         "Maine": {
-          "count": 139,
-          "sum": 7935182,
-          "average": 57087.640287769784,
-          "average w/o zero": 57087.640287769784
+          "count": 211,
+          "sum": 9073184,
+          "average": 43000.87203791469,
+          "average w/o zero": 43000.87203791469
         },
         "New York": {
-          "count": 139,
-          "sum": 35453023,
-          "average": 255057.71942446043,
-          "average w/o zero": 255057.71942446043
+          "count": 211,
+          "sum": 39029860,
+          "average": 184975.63981042654,
+          "average w/o zero": 184975.63981042654
         },
         "Montana": {
-          "count": 139,
-          "sum": 4639915,
-          "average": 33380.68345323741,
-          "average w/o zero": 33380.68345323741
+          "count": 211,
+          "sum": 5402578,
+          "average": 25604.635071090048,
+          "average w/o zero": 25604.635071090048
         },
         "Nevada": {
-          "count": 139,
-          "sum": 27783493,
-          "average": 199881.24460431654,
-          "average w/o zero": 199881.24460431654
+          "count": 211,
+          "sum": 31902224,
+          "average": 151195.37440758295,
+          "average w/o zero": 151195.37440758295
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 10500660,
-          "average": 75544.3165467626,
-          "average w/o zero": 75544.3165467626
+          "count": 211,
+          "sum": 11626096,
+          "average": 55099.98104265403,
+          "average w/o zero": 55099.98104265403
         }
       },
       "Valuations.2 units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 125730,
-          "average": 904.5323741007194,
-          "average w/o zero": 1030.5737704918033
+          "count": 211,
+          "sum": 136703,
+          "average": 647.8815165876778,
+          "average w/o zero": 727.1436170212766
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 234976,
-          "average": 1690.474820143885,
-          "average w/o zero": 1702.7246376811595
+          "count": 211,
+          "sum": 290844,
+          "average": 1378.4075829383887,
+          "average w/o zero": 1391.598086124402
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 277035,
-          "average": 1993.0575539568345,
-          "average w/o zero": 2131.0384615384614
+          "count": 211,
+          "sum": 364904,
+          "average": 1729.4028436018957,
+          "average w/o zero": 1900.5416666666667
         },
         "Illinois": {
-          "count": 139,
-          "sum": 995471,
-          "average": 7161.661870503597,
-          "average w/o zero": 7213.557971014493
+          "count": 211,
+          "sum": 1065784,
+          "average": 5051.109004739336,
+          "average w/o zero": 5075.161904761905
         },
         "Georgia": {
-          "count": 139,
-          "sum": 327572,
-          "average": 2356.63309352518,
-          "average w/o zero": 2373.710144927536
+          "count": 211,
+          "sum": 458861,
+          "average": 2174.696682464455,
+          "average w/o zero": 2216.719806763285
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 381085,
-          "average": 2741.6187050359713,
-          "average w/o zero": 2741.6187050359713
+          "count": 211,
+          "sum": 501787,
+          "average": 2378.137440758294,
+          "average w/o zero": 2378.137440758294
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 42457,
-          "average": 305.44604316546764,
-          "average w/o zero": 558.6447368421053
+          "count": 211,
+          "sum": 44210,
+          "average": 209.5260663507109,
+          "average w/o zero": 421.04761904761904
         },
         "Indiana": {
-          "count": 139,
-          "sum": 676724,
-          "average": 4868.517985611511,
-          "average w/o zero": 4868.517985611511
+          "count": 211,
+          "sum": 768680,
+          "average": 3643.03317535545,
+          "average w/o zero": 3643.03317535545
         },
         "Maryland": {
-          "count": 139,
-          "sum": 159095,
-          "average": 1144.568345323741,
-          "average w/o zero": 1446.3181818181818
+          "count": 211,
+          "sum": 177489,
+          "average": 841.1800947867299,
+          "average w/o zero": 1075.6909090909091
         },
         "Texas": {
-          "count": 139,
-          "sum": 1565238,
-          "average": 11260.705035971223,
-          "average w/o zero": 11260.705035971223
+          "count": 211,
+          "sum": 2021509,
+          "average": 9580.611374407583,
+          "average w/o zero": 9580.611374407583
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 55880,
-          "average": 402.0143884892086,
-          "average w/o zero": 657.4117647058823
+          "count": 211,
+          "sum": 70620,
+          "average": 334.6919431279621,
+          "average w/o zero": 483.6986301369863
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 340718,
-          "average": 2451.2086330935253,
-          "average w/o zero": 2451.2086330935253
+          "count": 211,
+          "sum": 387523,
+          "average": 1836.601895734597,
+          "average w/o zero": 1854.177033492823
         },
         "Iowa": {
-          "count": 139,
-          "sum": 333140,
-          "average": 2396.6906474820144,
-          "average w/o zero": 2431.6788321167883
+          "count": 211,
+          "sum": 370749,
+          "average": 1757.1042654028436,
+          "average w/o zero": 1791.0579710144928
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 1102759,
-          "average": 7933.517985611511,
-          "average w/o zero": 7933.517985611511
+          "count": 211,
+          "sum": 1279683,
+          "average": 6064.8483412322275,
+          "average w/o zero": 6064.8483412322275
         },
         "Arizona": {
-          "count": 139,
-          "sum": 370230,
-          "average": 2663.5251798561153,
-          "average w/o zero": 2847.923076923077
+          "count": 211,
+          "sum": 503170,
+          "average": 2384.691943127962,
+          "average w/o zero": 2490.940594059406
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 416306,
-          "average": 2995.0071942446043,
-          "average w/o zero": 2995.0071942446043
+          "count": 211,
+          "sum": 487954,
+          "average": 2312.5781990521327,
+          "average w/o zero": 2312.5781990521327
         },
         "Michigan": {
-          "count": 139,
-          "sum": 293033,
-          "average": 2108.1510791366904,
-          "average w/o zero": 2254.1
+          "count": 211,
+          "sum": 349043,
+          "average": 1654.2322274881517,
+          "average w/o zero": 1727.9356435643565
         },
         "Kansas": {
-          "count": 139,
-          "sum": 429747,
-          "average": 3091.705035971223,
-          "average w/o zero": 3091.705035971223
+          "count": 211,
+          "sum": 506724,
+          "average": 2401.5355450236966,
+          "average w/o zero": 2401.5355450236966
         },
         "Utah": {
-          "count": 139,
-          "sum": 291589,
-          "average": 2097.7625899280574,
-          "average w/o zero": 2112.963768115942
+          "count": 211,
+          "sum": 337168,
+          "average": 1597.952606635071,
+          "average w/o zero": 1621
         },
         "Virginia": {
-          "count": 139,
-          "sum": 236841,
-          "average": 1703.8920863309352,
-          "average w/o zero": 1754.3777777777777
+          "count": 211,
+          "sum": 264515,
+          "average": 1253.6255924170616,
+          "average w/o zero": 1303.0295566502464
         },
         "Oregon": {
-          "count": 139,
-          "sum": 530639,
-          "average": 3817.546762589928,
-          "average w/o zero": 3873.2773722627735
+          "count": 211,
+          "sum": 602866,
+          "average": 2857.1848341232226,
+          "average w/o zero": 2884.5263157894738
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 156247,
-          "average": 1124.0791366906474,
-          "average w/o zero": 1140.4890510948906
+          "count": 197,
+          "sum": 156783,
+          "average": 795.8527918781726,
+          "average w/o zero": 812.3471502590673
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 42474,
-          "average": 305.568345323741,
-          "average w/o zero": 745.1578947368421
+          "count": 211,
+          "sum": 57505,
+          "average": 272.53554502369667,
+          "average w/o zero": 522.7727272727273
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 189488,
-          "average": 1363.2230215827337,
-          "average w/o zero": 1435.5151515151515
+          "count": 211,
+          "sum": 207503,
+          "average": 983.4265402843602,
+          "average w/o zero": 1017.1715686274509
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 699605,
-          "average": 5033.1294964028775,
-          "average w/o zero": 5033.1294964028775
+          "count": 211,
+          "sum": 812023,
+          "average": 3848.450236966825,
+          "average w/o zero": 3848.450236966825
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 40460,
-          "average": 291.0791366906475,
-          "average w/o zero": 569.8591549295775
+          "count": 211,
+          "sum": 45663,
+          "average": 216.41232227488152,
+          "average w/o zero": 351.25384615384615
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 142407,
-          "average": 1024.5107913669065,
-          "average w/o zero": 1095.4384615384615
+          "count": 211,
+          "sum": 181503,
+          "average": 860.2037914691944,
+          "average w/o zero": 907.515
         },
         "Vermont": {
-          "count": 139,
-          "sum": 116150,
-          "average": 835.6115107913669,
-          "average w/o zero": 952.0491803278688
+          "count": 211,
+          "sum": 122807,
+          "average": 582.0236966824644,
+          "average w/o zero": 671.0765027322404
         },
         "Delaware": {
-          "count": 139,
-          "sum": 125663,
-          "average": 904.0503597122303,
-          "average w/o zero": 1112.0619469026549
+          "count": 211,
+          "sum": 162540,
+          "average": 770.3317535545024,
+          "average w/o zero": 888.1967213114754
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 48723,
-          "average": 350.52517985611513,
-          "average w/o zero": 632.7662337662338
+          "count": 211,
+          "sum": 68883,
+          "average": 326.45971563981044,
+          "average w/o zero": 529.8692307692307
         },
         "California": {
-          "count": 139,
-          "sum": 2321524,
-          "average": 16701.61151079137,
-          "average w/o zero": 16701.61151079137
+          "count": 211,
+          "sum": 2815852,
+          "average": 13345.270142180094,
+          "average w/o zero": 13345.270142180094
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 544696,
-          "average": 3918.6762589928057,
-          "average w/o zero": 3918.6762589928057
+          "count": 211,
+          "sum": 665304,
+          "average": 3153.099526066351,
+          "average w/o zero": 3153.099526066351
         },
         "Florida": {
-          "count": 139,
-          "sum": 1439742,
-          "average": 10357.856115107914,
-          "average w/o zero": 10357.856115107914
+          "count": 211,
+          "sum": 1813995,
+          "average": 8597.1327014218,
+          "average w/o zero": 8597.1327014218
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 219225,
-          "average": 1577.158273381295,
-          "average w/o zero": 1588.5869565217392
+          "count": 211,
+          "sum": 264638,
+          "average": 1254.2085308056871,
+          "average w/o zero": 1260.1809523809525
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 84595,
-          "average": 608.5971223021583,
-          "average w/o zero": 704.9583333333334
+          "count": 211,
+          "sum": 100870,
+          "average": 478.0568720379147,
+          "average w/o zero": 557.292817679558
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 164424,
-          "average": 1182.9064748201438,
-          "average w/o zero": 1274.6046511627908
+          "count": 211,
+          "sum": 206029,
+          "average": 976.4407582938388,
+          "average w/o zero": 1030.145
         },
         "Missouri": {
-          "count": 139,
-          "sum": 790281,
-          "average": 5685.474820143885,
-          "average w/o zero": 5685.474820143885
+          "count": 211,
+          "sum": 882193,
+          "average": 4181.009478672986,
+          "average w/o zero": 4181.009478672986
         },
         "Ohio": {
-          "count": 139,
-          "sum": 628440,
-          "average": 4521.151079136691,
-          "average w/o zero": 4760.909090909091
+          "count": 211,
+          "sum": 693651,
+          "average": 3287.445497630332,
+          "average w/o zero": 3400.25
         },
         "Alabama": {
-          "count": 139,
-          "sum": 127555,
-          "average": 917.6618705035971,
-          "average w/o zero": 1054.1735537190082
+          "count": 211,
+          "sum": 148456,
+          "average": 703.5829383886256,
+          "average w/o zero": 777.2565445026178
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 115942,
-          "average": 834.115107913669,
-          "average w/o zero": 982.5593220338983
+          "count": 211,
+          "sum": 128964,
+          "average": 611.2037914691944,
+          "average w/o zero": 700.8913043478261
         },
         "Alaska": {
-          "count": 139,
-          "sum": 370021,
-          "average": 2662.021582733813,
-          "average w/o zero": 3032.9590163934427
+          "count": 211,
+          "sum": 381371,
+          "average": 1807.4454976303318,
+          "average w/o zero": 2017.835978835979
         },
         "Colorado": {
-          "count": 139,
-          "sum": 590049,
-          "average": 4244.956834532374,
-          "average w/o zero": 4306.92700729927
+          "count": 211,
+          "sum": 711150,
+          "average": 3370.379146919431,
+          "average w/o zero": 3402.6315789473683
         },
         "Idaho": {
-          "count": 139,
-          "sum": 223915,
-          "average": 1610.8992805755395,
-          "average w/o zero": 1777.1031746031747
+          "count": 211,
+          "sum": 275897,
+          "average": 1307.568720379147,
+          "average w/o zero": 1407.6377551020407
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 1618853,
-          "average": 11646.424460431655,
-          "average w/o zero": 11646.424460431655
+          "count": 211,
+          "sum": 1791738,
+          "average": 8491.649289099527,
+          "average w/o zero": 8491.649289099527
         },
         "Washington": {
-          "count": 139,
-          "sum": 1228709,
-          "average": 8839.633093525179,
-          "average w/o zero": 8839.633093525179
+          "count": 211,
+          "sum": 1544072,
+          "average": 7317.876777251185,
+          "average w/o zero": 7317.876777251185
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 640732,
-          "average": 4609.582733812949,
-          "average w/o zero": 4609.582733812949
+          "count": 211,
+          "sum": 675959,
+          "average": 3203.5971563981043,
+          "average w/o zero": 3203.5971563981043
         },
         "Maine": {
-          "count": 139,
-          "sum": 131344,
-          "average": 944.9208633093525,
-          "average w/o zero": 1002.6259541984733
+          "count": 211,
+          "sum": 166205,
+          "average": 787.7014218009479,
+          "average w/o zero": 835.2010050251256
         },
         "New York": {
-          "count": 139,
-          "sum": 3058279,
-          "average": 22002.007194244605,
-          "average w/o zero": 22002.007194244605
+          "count": 211,
+          "sum": 3247491,
+          "average": 15390.952606635072,
+          "average w/o zero": 15390.952606635072
         },
         "Montana": {
-          "count": 139,
-          "sum": 233337,
-          "average": 1678.68345323741,
-          "average w/o zero": 1728.4222222222222
+          "count": 211,
+          "sum": 303265,
+          "average": 1437.2748815165876,
+          "average w/o zero": 1465.048309178744
         },
         "Nevada": {
-          "count": 139,
-          "sum": 66109,
-          "average": 475.6043165467626,
-          "average w/o zero": 751.2386363636364
+          "count": 211,
+          "sum": 103960,
+          "average": 492.70142180094786,
+          "average w/o zero": 747.9136690647482
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 117464,
-          "average": 845.0647482014389,
-          "average w/o zero": 1545.578947368421
+          "count": 211,
+          "sum": 126234,
+          "average": 598.2654028436019,
+          "average w/o zero": 986.203125
         }
       },
       "Valuations.3-4 units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 232462,
-          "average": 1672.388489208633,
-          "average w/o zero": 1830.4094488188975
+          "count": 211,
+          "sum": 248692,
+          "average": 1178.6350710900474,
+          "average w/o zero": 1281.9175257731958
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 108404,
-          "average": 779.884892086331,
-          "average w/o zero": 1129.2083333333333
+          "count": 211,
+          "sum": 113611,
+          "average": 538.4407582938388,
+          "average w/o zero": 788.9652777777778
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 429831,
-          "average": 3092.3093525179856,
-          "average w/o zero": 3523.2049180327867
+          "count": 211,
+          "sum": 469262,
+          "average": 2223.990521327014,
+          "average w/o zero": 2522.9139784946237
         },
         "Illinois": {
-          "count": 139,
-          "sum": 1349149,
-          "average": 9706.107913669064,
-          "average w/o zero": 9776.442028985508
+          "count": 211,
+          "sum": 1456193,
+          "average": 6901.388625592417,
+          "average w/o zero": 6934.252380952381
         },
         "Georgia": {
-          "count": 139,
-          "sum": 455602,
-          "average": 3277.7122302158273,
-          "average w/o zero": 3325.5620437956204
+          "count": 211,
+          "sum": 513166,
+          "average": 2432.0663507109007,
+          "average w/o zero": 2479.062801932367
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 195176,
-          "average": 1404.1438848920864,
-          "average w/o zero": 1586.7967479674796
+          "count": 211,
+          "sum": 269199,
+          "average": 1275.824644549763,
+          "average w/o zero": 1416.8368421052633
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 137728,
-          "average": 990.8489208633093,
-          "average w/o zero": 1076
+          "count": 211,
+          "sum": 141173,
+          "average": 669.0663507109005,
+          "average w/o zero": 866.0920245398773
         },
         "Indiana": {
-          "count": 139,
-          "sum": 371841,
-          "average": 2675.115107913669,
-          "average w/o zero": 2860.3153846153846
+          "count": 211,
+          "sum": 398652,
+          "average": 1889.345971563981,
+          "average w/o zero": 2109.2698412698414
         },
         "Maryland": {
-          "count": 139,
-          "sum": 97312,
-          "average": 700.0863309352518,
-          "average w/o zero": 1201.3827160493827
+          "count": 211,
+          "sum": 124963,
+          "average": 592.2417061611375,
+          "average w/o zero": 1050.109243697479
         },
         "Texas": {
-          "count": 139,
-          "sum": 1392239,
-          "average": 10016.107913669064,
-          "average w/o zero": 10016.107913669064
+          "count": 211,
+          "sum": 1597674,
+          "average": 7571.914691943128,
+          "average w/o zero": 7571.914691943128
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 91350,
-          "average": 657.1942446043165,
-          "average w/o zero": 1026.4044943820224
+          "count": 211,
+          "sum": 98226,
+          "average": 465.5260663507109,
+          "average w/o zero": 668.204081632653
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 394850,
-          "average": 2840.6474820143885,
-          "average w/o zero": 2840.6474820143885
+          "count": 211,
+          "sum": 489209,
+          "average": 2318.526066350711,
+          "average w/o zero": 2351.966346153846
         },
         "Iowa": {
-          "count": 139,
-          "sum": 243693,
-          "average": 1753.1870503597122,
-          "average w/o zero": 1832.2781954887218
+          "count": 211,
+          "sum": 257057,
+          "average": 1218.2796208530806,
+          "average w/o zero": 1389.4972972972973
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 513450,
-          "average": 3693.884892086331,
-          "average w/o zero": 3949.6153846153848
+          "count": 211,
+          "sum": 537882,
+          "average": 2549.203791469194,
+          "average w/o zero": 2689.41
         },
         "Arizona": {
-          "count": 139,
-          "sum": 705148,
-          "average": 5073.007194244605,
-          "average w/o zero": 6185.508771929824
+          "count": 211,
+          "sum": 750805,
+          "average": 3558.3175355450235,
+          "average w/o zero": 4080.461956521739
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 186977,
-          "average": 1345.158273381295,
-          "average w/o zero": 1598.094017094017
+          "count": 211,
+          "sum": 199282,
+          "average": 944.4644549763033,
+          "average w/o zero": 1071.4086021505377
         },
         "Michigan": {
-          "count": 139,
-          "sum": 419019,
-          "average": 3014.5251798561153,
-          "average w/o zero": 3248.2093023255816
+          "count": 211,
+          "sum": 457062,
+          "average": 2166.170616113744,
+          "average w/o zero": 2320.1116751269037
         },
         "Kansas": {
-          "count": 139,
-          "sum": 215776,
-          "average": 1552.3453237410072,
-          "average w/o zero": 1798.1333333333334
+          "count": 211,
+          "sum": 251196,
+          "average": 1190.5023696682465,
+          "average w/o zero": 1350.516129032258
         },
         "Utah": {
-          "count": 139,
-          "sum": 854619,
-          "average": 6148.338129496403,
-          "average w/o zero": 6192.891304347826
+          "count": 211,
+          "sum": 1013950,
+          "average": 4805.450236966824,
+          "average w/o zero": 4828.333333333333
         },
         "Virginia": {
-          "count": 139,
-          "sum": 332508,
-          "average": 2392.143884892086,
-          "average w/o zero": 2519
+          "count": 211,
+          "sum": 374031,
+          "average": 1772.6587677725117,
+          "average w/o zero": 1860.8507462686566
         },
         "Oregon": {
-          "count": 139,
-          "sum": 438117,
-          "average": 3151.9208633093526,
-          "average w/o zero": 3533.201612903226
+          "count": 211,
+          "sum": 456482,
+          "average": 2163.4218009478673,
+          "average w/o zero": 2480.8804347826085
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 121299,
-          "average": 872.6546762589928,
-          "average w/o zero": 1237.7448979591836
+          "count": 197,
+          "sum": 121752,
+          "average": 618.0304568527919,
+          "average w/o zero": 863.4893617021277
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 11538,
-          "average": 83.00719424460432,
-          "average w/o zero": 501.6521739130435
+          "count": 211,
+          "sum": 12090,
+          "average": 57.29857819905213,
+          "average w/o zero": 377.8125
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 136407,
-          "average": 981.3453237410072,
-          "average w/o zero": 1286.8584905660377
+          "count": 211,
+          "sum": 140104,
+          "average": 664,
+          "average w/o zero": 966.2344827586207
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 491346,
-          "average": 3534.863309352518,
-          "average w/o zero": 3560.478260869565
+          "count": 211,
+          "sum": 579610,
+          "average": 2746.96682464455,
+          "average w/o zero": 2760.0476190476193
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 35367,
-          "average": 254.4388489208633,
-          "average w/o zero": 643.0363636363636
+          "count": 211,
+          "sum": 44427,
+          "average": 210.55450236966826,
+          "average w/o zero": 419.12264150943395
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 225934,
-          "average": 1625.4244604316548,
-          "average w/o zero": 2193.5339805825242
+          "count": 211,
+          "sum": 232297,
+          "average": 1100.9336492890995,
+          "average w/o zero": 1518.2810457516339
         },
         "Vermont": {
-          "count": 139,
-          "sum": 56414,
-          "average": 405.8561151079137,
-          "average w/o zero": 723.2564102564103
+          "count": 211,
+          "sum": 60000,
+          "average": 284.3601895734597,
+          "average w/o zero": 491.8032786885246
         },
         "Delaware": {
-          "count": 139,
-          "sum": 97529,
-          "average": 701.6474820143885,
-          "average w/o zero": 1234.5443037974683
+          "count": 211,
+          "sum": 109107,
+          "average": 517.0947867298578,
+          "average w/o zero": 796.4014598540145
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 125772,
-          "average": 904.8345323741007,
-          "average w/o zero": 1445.655172413793
+          "count": 211,
+          "sum": 128337,
+          "average": 608.2322274881517,
+          "average w/o zero": 1188.3055555555557
         },
         "California": {
-          "count": 139,
-          "sum": 3212321,
-          "average": 23110.223021582733,
-          "average w/o zero": 23110.223021582733
+          "count": 211,
+          "sum": 3581602,
+          "average": 16974.417061611373,
+          "average w/o zero": 16974.417061611373
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 799406,
-          "average": 5751.122302158274,
-          "average w/o zero": 5751.122302158274
+          "count": 211,
+          "sum": 961422,
+          "average": 4556.5023696682465,
+          "average w/o zero": 4556.5023696682465
         },
         "Florida": {
-          "count": 139,
-          "sum": 2741085,
-          "average": 19720.03597122302,
-          "average w/o zero": 19720.03597122302
+          "count": 211,
+          "sum": 2998547,
+          "average": 14211.123222748814,
+          "average w/o zero": 14211.123222748814
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 298027,
-          "average": 2144.0791366906474,
-          "average w/o zero": 2224.082089552239
+          "count": 211,
+          "sum": 332916,
+          "average": 1577.8009478672986,
+          "average w/o zero": 1616.0970873786407
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 40805,
-          "average": 293.56115107913666,
-          "average w/o zero": 491.6265060240964
+          "count": 211,
+          "sum": 49702,
+          "average": 235.55450236966826,
+          "average w/o zero": 388.296875
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 51839,
-          "average": 372.9424460431655,
-          "average w/o zero": 809.984375
+          "count": 211,
+          "sum": 68560,
+          "average": 324.92890995260666,
+          "average w/o zero": 659.2307692307693
         },
         "Missouri": {
-          "count": 139,
-          "sum": 639204,
-          "average": 4598.589928057554,
-          "average w/o zero": 4598.589928057554
+          "count": 211,
+          "sum": 698521,
+          "average": 3310.526066350711,
+          "average w/o zero": 3326.290476190476
         },
         "Ohio": {
-          "count": 139,
-          "sum": 1126766,
-          "average": 8106.230215827338,
-          "average w/o zero": 8224.569343065694
+          "count": 211,
+          "sum": 1183452,
+          "average": 5608.777251184834,
+          "average w/o zero": 5662.44976076555
         },
         "Alabama": {
-          "count": 139,
-          "sum": 101784,
-          "average": 732.2589928057554,
-          "average w/o zero": 1321.8701298701299
+          "count": 211,
+          "sum": 131912,
+          "average": 625.175355450237,
+          "average w/o zero": 903.5068493150685
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 138844,
-          "average": 998.8776978417267,
-          "average w/o zero": 1285.5925925925926
+          "count": 211,
+          "sum": 156494,
+          "average": 741.6777251184834,
+          "average w/o zero": 960.0858895705521
         },
         "Alaska": {
-          "count": 139,
-          "sum": 149047,
-          "average": 1072.2805755395684,
-          "average w/o zero": 1733.1046511627908
+          "count": 211,
+          "sum": 164374,
+          "average": 779.0236966824644,
+          "average w/o zero": 1046.968152866242
         },
         "Colorado": {
-          "count": 139,
-          "sum": 444582,
-          "average": 3198.431654676259,
-          "average w/o zero": 3500.6456692913384
+          "count": 211,
+          "sum": 514985,
+          "average": 2440.687203791469,
+          "average w/o zero": 2587.8643216080404
         },
         "Idaho": {
-          "count": 139,
-          "sum": 375942,
-          "average": 2704.6187050359713,
-          "average w/o zero": 3007.536
+          "count": 211,
+          "sum": 432424,
+          "average": 2049.4028436018957,
+          "average w/o zero": 2240.538860103627
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 705171,
-          "average": 5073.172661870503,
-          "average w/o zero": 5073.172661870503
+          "count": 211,
+          "sum": 920964,
+          "average": 4364.758293838862,
+          "average w/o zero": 4364.758293838862
         },
         "Washington": {
-          "count": 139,
-          "sum": 1066703,
-          "average": 7674.122302158274,
-          "average w/o zero": 7729.731884057971
+          "count": 211,
+          "sum": 1317209,
+          "average": 6242.696682464455,
+          "average w/o zero": 6272.42380952381
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 496814,
-          "average": 3574.201438848921,
-          "average w/o zero": 3653.044117647059
+          "count": 211,
+          "sum": 543725,
+          "average": 2576.895734597156,
+          "average w/o zero": 2831.9010416666665
         },
         "Maine": {
-          "count": 139,
-          "sum": 83231,
-          "average": 598.7841726618705,
-          "average w/o zero": 849.295918367347
+          "count": 211,
+          "sum": 93743,
+          "average": 444.2796208530806,
+          "average w/o zero": 664.8439716312057
         },
         "New York": {
-          "count": 139,
-          "sum": 2695933,
-          "average": 19395.201438848922,
-          "average w/o zero": 19395.201438848922
+          "count": 211,
+          "sum": 2784061,
+          "average": 13194.601895734597,
+          "average w/o zero": 13194.601895734597
         },
         "Montana": {
-          "count": 139,
-          "sum": 263882,
-          "average": 1898.431654676259,
-          "average w/o zero": 2029.8615384615384
+          "count": 211,
+          "sum": 326363,
+          "average": 1546.744075829384,
+          "average w/o zero": 1623.6965174129352
         },
         "Nevada": {
-          "count": 139,
-          "sum": 466664,
-          "average": 3357.294964028777,
-          "average w/o zero": 4444.419047619048
+          "count": 211,
+          "sum": 547696,
+          "average": 2595.7156398104266,
+          "average w/o zero": 3510.871794871795
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 193943,
-          "average": 1395.273381294964,
-          "average w/o zero": 2938.530303030303
+          "count": 211,
+          "sum": 215828,
+          "average": 1022.8815165876778,
+          "average w/o zero": 2509.6279069767443
         }
       },
       "Valuations.5+ units": {
         "Mississippi": {
-          "count": 139,
-          "sum": 1041693,
-          "average": 7494.194244604317,
-          "average w/o zero": 7716.2444444444445
+          "count": 211,
+          "sum": 1104208,
+          "average": 5233.21327014218,
+          "average w/o zero": 5334.338164251208
         },
         "Oklahoma": {
-          "count": 139,
-          "sum": 1279199,
-          "average": 9202.870503597122,
-          "average w/o zero": 9202.870503597122
+          "count": 211,
+          "sum": 1383755,
+          "average": 6558.080568720379,
+          "average w/o zero": 6717.257281553398
         },
         "Minnesota": {
-          "count": 139,
-          "sum": 6118481,
-          "average": 44017.84892086331,
-          "average w/o zero": 44336.81884057971
+          "count": 211,
+          "sum": 8517156,
+          "average": 40365.6682464455,
+          "average w/o zero": 40557.885714285716
         },
         "Illinois": {
-          "count": 139,
-          "sum": 10528941,
-          "average": 75747.77697841727,
-          "average w/o zero": 75747.77697841727
+          "count": 211,
+          "sum": 11576067,
+          "average": 54862.876777251186,
+          "average w/o zero": 54862.876777251186
         },
         "Georgia": {
-          "count": 139,
-          "sum": 9303025,
-          "average": 66928.23741007195,
-          "average w/o zero": 66928.23741007195
+          "count": 211,
+          "sum": 10190835,
+          "average": 48297.7962085308,
+          "average w/o zero": 48297.7962085308
         },
         "Arkansas": {
-          "count": 139,
-          "sum": 1682872,
-          "average": 12106.992805755395,
-          "average w/o zero": 12749.030303030304
+          "count": 211,
+          "sum": 2077563,
+          "average": 9846.270142180094,
+          "average w/o zero": 10184.132352941177
         },
         "New Mexico": {
-          "count": 139,
-          "sum": 581880,
-          "average": 4186.187050359712,
-          "average w/o zero": 4408.181818181818
+          "count": 211,
+          "sum": 655483,
+          "average": 3106.554502369668,
+          "average w/o zero": 3244.9653465346537
         },
         "Indiana": {
-          "count": 139,
-          "sum": 2887312,
-          "average": 20772.02877697842,
-          "average w/o zero": 20772.02877697842
+          "count": 211,
+          "sum": 3481896,
+          "average": 16501.876777251186,
+          "average w/o zero": 16501.876777251186
         },
         "Maryland": {
-          "count": 139,
-          "sum": 5587820,
-          "average": 40200.14388489209,
-          "average w/o zero": 40200.14388489209
+          "count": 211,
+          "sum": 6660097,
+          "average": 31564.44075829384,
+          "average w/o zero": 31714.74761904762
         },
         "Texas": {
-          "count": 139,
-          "sum": 33936495,
-          "average": 244147.44604316546,
-          "average w/o zero": 244147.44604316546
+          "count": 211,
+          "sum": 42806677,
+          "average": 202875.24644549764,
+          "average w/o zero": 202875.24644549764
         },
         "Wyoming": {
-          "count": 139,
-          "sum": 280896,
-          "average": 2020.8345323741007,
-          "average w/o zero": 2160.7384615384617
+          "count": 211,
+          "sum": 308357,
+          "average": 1461.4075829383887,
+          "average w/o zero": 1732.3426966292134
         },
         "Tennessee": {
-          "count": 139,
-          "sum": 4077535,
-          "average": 29334.78417266187,
-          "average w/o zero": 29334.78417266187
+          "count": 211,
+          "sum": 5663825,
+          "average": 26842.77251184834,
+          "average w/o zero": 26842.77251184834
         },
         "Iowa": {
-          "count": 139,
-          "sum": 2350327,
-          "average": 16908.827338129497,
-          "average w/o zero": 17409.82962962963
+          "count": 211,
+          "sum": 2687679,
+          "average": 12737.815165876777,
+          "average w/o zero": 12983.95652173913
         },
         "Wisconsin": {
-          "count": 139,
-          "sum": 4049030,
-          "average": 29129.712230215828,
-          "average w/o zero": 29129.712230215828
+          "count": 211,
+          "sum": 4967034,
+          "average": 23540.44549763033,
+          "average w/o zero": 23540.44549763033
         },
         "Arizona": {
-          "count": 139,
-          "sum": 6819140,
-          "average": 49058.561151079135,
-          "average w/o zero": 49774.744525547445
+          "count": 211,
+          "sum": 9274039,
+          "average": 43952.791469194315,
+          "average w/o zero": 44373.39234449761
         },
         "Louisiana": {
-          "count": 139,
-          "sum": 1871486,
-          "average": 13463.928057553956,
-          "average w/o zero": 13561.492753623188
+          "count": 211,
+          "sum": 2033613,
+          "average": 9637.976303317535,
+          "average w/o zero": 9683.871428571429
         },
         "Michigan": {
-          "count": 139,
-          "sum": 2462291,
-          "average": 17714.323741007192,
-          "average w/o zero": 17714.323741007192
+          "count": 211,
+          "sum": 3139423,
+          "average": 14878.781990521327,
+          "average w/o zero": 14878.781990521327
         },
         "Kansas": {
-          "count": 139,
-          "sum": 1738720,
-          "average": 12508.776978417267,
-          "average w/o zero": 12975.522388059702
+          "count": 211,
+          "sum": 1959880,
+          "average": 9288.530805687204,
+          "average w/o zero": 9513.980582524271
         },
         "Utah": {
-          "count": 139,
-          "sum": 3032734,
-          "average": 21818.230215827338,
-          "average w/o zero": 21818.230215827338
+          "count": 211,
+          "sum": 4374729,
+          "average": 20733.31279620853,
+          "average w/o zero": 20733.31279620853
         },
         "Virginia": {
-          "count": 139,
-          "sum": 5972708,
-          "average": 42969.12230215827,
-          "average w/o zero": 42969.12230215827
+          "count": 211,
+          "sum": 7305116,
+          "average": 34621.40284360189,
+          "average w/o zero": 34621.40284360189
         },
         "Oregon": {
-          "count": 139,
-          "sum": 4846346,
-          "average": 34865.79856115108,
-          "average w/o zero": 35374.788321167885
+          "count": 211,
+          "sum": 5861044,
+          "average": 27777.459715639812,
+          "average w/o zero": 28043.272727272728
         },
         "Connecticut": {
-          "count": 139,
-          "sum": 2178565,
-          "average": 15673.129496402878,
-          "average w/o zero": 15673.129496402878
+          "count": 197,
+          "sum": 2189656,
+          "average": 11115.005076142132,
+          "average w/o zero": 11115.005076142132
         },
         "District of Columbia": {
-          "count": 139,
-          "sum": 2467591,
-          "average": 17752.45323741007,
-          "average w/o zero": 24192.06862745098
+          "count": 211,
+          "sum": 3363461,
+          "average": 15940.57345971564,
+          "average w/o zero": 19785.064705882352
         },
         "New Hampshire": {
-          "count": 139,
-          "sum": 727144,
-          "average": 5231.251798561151,
-          "average w/o zero": 5550.717557251908
+          "count": 211,
+          "sum": 848443,
+          "average": 4021.0568720379147,
+          "average w/o zero": 4179.522167487685
         },
         "Massachusetts": {
-          "count": 139,
-          "sum": 7233898,
-          "average": 52042.43165467626,
-          "average w/o zero": 52042.43165467626
+          "count": 211,
+          "sum": 8986960,
+          "average": 42592.22748815166,
+          "average w/o zero": 42592.22748815166
         },
         "West Virginia": {
-          "count": 139,
-          "sum": 180719,
-          "average": 1300.136690647482,
-          "average w/o zero": 1544.6068376068376
+          "count": 211,
+          "sum": 297088,
+          "average": 1408,
+          "average w/o zero": 1571.8941798941798
         },
         "South Carolina": {
-          "count": 139,
-          "sum": 5207434,
-          "average": 37463.553956834534,
-          "average w/o zero": 37463.553956834534
+          "count": 211,
+          "sum": 5695736,
+          "average": 26994.009478672986,
+          "average w/o zero": 26994.009478672986
         },
         "Vermont": {
-          "count": 139,
-          "sum": 287472,
-          "average": 2068.143884892086,
-          "average w/o zero": 2356.3278688524592
+          "count": 211,
+          "sum": 338623,
+          "average": 1604.8483412322275,
+          "average w/o zero": 1745.479381443299
         },
         "Delaware": {
-          "count": 139,
-          "sum": 575449,
-          "average": 4139.920863309352,
-          "average w/o zero": 4169.920289855072
+          "count": 211,
+          "sum": 685684,
+          "average": 3249.687203791469,
+          "average w/o zero": 3265.1619047619047
         },
         "North Dakota": {
-          "count": 139,
-          "sum": 1715778,
-          "average": 12343.726618705035,
-          "average w/o zero": 13510.062992125984
+          "count": 211,
+          "sum": 1854739,
+          "average": 8790.232227488152,
+          "average w/o zero": 9710.675392670157
         },
         "California": {
-          "count": 139,
-          "sum": 47585162,
-          "average": 342339.29496402876,
-          "average w/o zero": 342339.29496402876
+          "count": 211,
+          "sum": 56723444,
+          "average": 268831.4881516588,
+          "average w/o zero": 268831.4881516588
         },
         "Pennsylvania": {
-          "count": 139,
-          "sum": 5159289,
-          "average": 37117.18705035971,
-          "average w/o zero": 37117.18705035971
+          "count": 211,
+          "sum": 6118706,
+          "average": 28998.60663507109,
+          "average w/o zero": 28998.60663507109
         },
         "Florida": {
-          "count": 139,
-          "sum": 38623343,
-          "average": 277865.77697841724,
-          "average w/o zero": 277865.77697841724
+          "count": 211,
+          "sum": 45789119,
+          "average": 217010.04265402842,
+          "average w/o zero": 217010.04265402842
         },
         "Kentucky": {
-          "count": 139,
-          "sum": 1403949,
-          "average": 10100.352517985611,
-          "average w/o zero": 10100.352517985611
+          "count": 211,
+          "sum": 1759416,
+          "average": 8338.464454976303,
+          "average w/o zero": 8338.464454976303
         },
         "Rhode Island": {
-          "count": 139,
-          "sum": 202416,
-          "average": 1456.230215827338,
-          "average w/o zero": 2409.714285714286
+          "count": 211,
+          "sum": 213654,
+          "average": 1012.5781990521327,
+          "average w/o zero": 1857.8608695652174
         },
         "Nebraska": {
-          "count": 139,
-          "sum": 1120219,
-          "average": 8059.1294964028775,
-          "average w/o zero": 8236.904411764706
+          "count": 211,
+          "sum": 1438618,
+          "average": 6818.094786729858,
+          "average w/o zero": 6916.432692307692
         },
         "Missouri": {
-          "count": 139,
-          "sum": 2838204,
-          "average": 20418.733812949642,
-          "average w/o zero": 20418.733812949642
+          "count": 211,
+          "sum": 3459024,
+          "average": 16393.47867298578,
+          "average w/o zero": 16471.542857142857
         },
         "Ohio": {
-          "count": 139,
-          "sum": 3873396,
-          "average": 27866.158273381294,
-          "average w/o zero": 27866.158273381294
+          "count": 211,
+          "sum": 5166883,
+          "average": 24487.597156398104,
+          "average w/o zero": 24487.597156398104
         },
         "Alabama": {
-          "count": 139,
-          "sum": 3894496,
-          "average": 28017.956834532375,
-          "average w/o zero": 28017.956834532375
+          "count": 211,
+          "sum": 4320772,
+          "average": 20477.592417061613,
+          "average w/o zero": 20477.592417061613
         },
         "South Dakota": {
-          "count": 139,
-          "sum": 847256,
-          "average": 6095.36690647482,
-          "average w/o zero": 6418.606060606061
+          "count": 211,
+          "sum": 1158923,
+          "average": 5492.526066350711,
+          "average w/o zero": 5708.980295566503
         },
         "Alaska": {
-          "count": 139,
-          "sum": 436910,
-          "average": 3143.2374100719426,
-          "average w/o zero": 5201.309523809524
+          "count": 211,
+          "sum": 473054,
+          "average": 2241.962085308057,
+          "average w/o zero": 3112.1973684210525
         },
         "Colorado": {
-          "count": 139,
-          "sum": 7500225,
-          "average": 53958.453237410075,
-          "average w/o zero": 53958.453237410075
+          "count": 211,
+          "sum": 9784510,
+          "average": 46372.08530805687,
+          "average w/o zero": 46372.08530805687
         },
         "Idaho": {
-          "count": 139,
-          "sum": 897340,
-          "average": 6455.6834532374105,
-          "average w/o zero": 7178.72
+          "count": 211,
+          "sum": 1297741,
+          "average": 6150.431279620853,
+          "average w/o zero": 6621.127551020408
         },
         "New Jersey": {
-          "count": 139,
-          "sum": 8380825,
-          "average": 60293.70503597122,
-          "average w/o zero": 60293.70503597122
+          "count": 211,
+          "sum": 10441083,
+          "average": 49483.80568720379,
+          "average w/o zero": 49483.80568720379
         },
         "Washington": {
-          "count": 139,
-          "sum": 11814754,
-          "average": 84998.23021582734,
-          "average w/o zero": 84998.23021582734
+          "count": 211,
+          "sum": 15109528,
+          "average": 71609.13744075829,
+          "average w/o zero": 71609.13744075829
         },
         "North Carolina": {
-          "count": 139,
-          "sum": 10363361,
-          "average": 74556.55395683453,
-          "average w/o zero": 74556.55395683453
+          "count": 211,
+          "sum": 12522555,
+          "average": 59348.601895734595,
+          "average w/o zero": 59348.601895734595
         },
         "Maine": {
-          "count": 139,
-          "sum": 335330,
-          "average": 2412.4460431654675,
-          "average w/o zero": 2465.6617647058824
+          "count": 211,
+          "sum": 441524,
+          "average": 2092.5308056872036,
+          "average w/o zero": 2153.7756097560978
         },
         "New York": {
-          "count": 139,
-          "sum": 20150079,
-          "average": 144964.59712230216,
-          "average w/o zero": 144964.59712230216
+          "count": 211,
+          "sum": 24682582,
+          "average": 116979.0616113744,
+          "average w/o zero": 116979.0616113744
         },
         "Montana": {
-          "count": 139,
-          "sum": 660923,
-          "average": 4754.841726618705,
-          "average w/o zero": 5373.357723577235
+          "count": 211,
+          "sum": 796449,
+          "average": 3774.6398104265404,
+          "average w/o zero": 4148.171875
         },
         "Nevada": {
-          "count": 139,
-          "sum": 5560913,
-          "average": 40006.56834532374,
-          "average w/o zero": 43444.6328125
+          "count": 211,
+          "sum": 6165121,
+          "average": 29218.582938388627,
+          "average w/o zero": 30980.50753768844
         },
         "Hawaii": {
-          "count": 139,
-          "sum": 2975880,
-          "average": 21409.208633093524,
-          "average w/o zero": 24594.04958677686
+          "count": 211,
+          "sum": 3235289,
+          "average": 15333.123222748814,
+          "average w/o zero": 18382.323863636364
         }
       }
     },
@@ -3224,6 +3224,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 624847,
           "average": 1020.9918300653595,
           "average w/o zero": 1020.9918300653595
+        },
+        "2015": {
+          "count": 612,
+          "sum": 685588,
+          "average": 1120.2418300653594,
+          "average w/o zero": 1120.2418300653594
+        },
+        "2016": {
+          "count": 612,
+          "sum": 747350,
+          "average": 1221.1601307189542,
+          "average w/o zero": 1221.1601307189542
+        },
+        "2017": {
+          "count": 612,
+          "sum": 819591,
+          "average": 1339.200980392157,
+          "average w/o zero": 1339.200980392157
+        },
+        "2018": {
+          "count": 612,
+          "sum": 854241,
+          "average": 1395.8186274509803,
+          "average w/o zero": 1395.8186274509803
+        },
+        "2019": {
+          "count": 610,
+          "sum": 849950,
+          "average": 1393.360655737705,
+          "average w/o zero": 1393.360655737705
+        },
+        "2020": {
+          "count": 600,
+          "sum": 970179,
+          "average": 1616.965,
+          "average w/o zero": 1616.965
         }
       },
       "Number of Permits.2 units": {
@@ -3298,6 +3334,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 14234,
           "average": 23.258169934640524,
           "average w/o zero": 25.646846846846845
+        },
+        "2015": {
+          "count": 612,
+          "sum": 15816,
+          "average": 25.84313725490196,
+          "average w/o zero": 28.1423487544484
+        },
+        "2016": {
+          "count": 612,
+          "sum": 17710,
+          "average": 28.937908496732025,
+          "average w/o zero": 31.289752650176677
+        },
+        "2017": {
+          "count": 612,
+          "sum": 18618,
+          "average": 30.42156862745098,
+          "average w/o zero": 32.43554006968641
+        },
+        "2018": {
+          "count": 612,
+          "sum": 20314,
+          "average": 33.19281045751634,
+          "average w/o zero": 35.51398601398601
+        },
+        "2019": {
+          "count": 610,
+          "sum": 22620,
+          "average": 37.08196721311475,
+          "average w/o zero": 39.33913043478261
+        },
+        "2020": {
+          "count": 600,
+          "sum": 27024,
+          "average": 45.04,
+          "average w/o zero": 47.57746478873239
         }
       },
       "Number of Permits.3-4 units": {
@@ -3372,6 +3444,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 13695,
           "average": 22.377450980392158,
           "average w/o zero": 28.006134969325153
+        },
+        "2015": {
+          "count": 612,
+          "sum": 16257,
+          "average": 26.563725490196077,
+          "average w/o zero": 32.644578313253014
+        },
+        "2016": {
+          "count": 612,
+          "sum": 15321,
+          "average": 25.034313725490197,
+          "average w/o zero": 29.923828125
+        },
+        "2017": {
+          "count": 612,
+          "sum": 17111,
+          "average": 27.959150326797385,
+          "average w/o zero": 34.497983870967744
+        },
+        "2018": {
+          "count": 612,
+          "sum": 17325,
+          "average": 28.308823529411764,
+          "average w/o zero": 35.502049180327866
+        },
+        "2019": {
+          "count": 610,
+          "sum": 18352,
+          "average": 30.085245901639343,
+          "average w/o zero": 36.485089463220675
+        },
+        "2020": {
+          "count": 600,
+          "sum": 18222,
+          "average": 30.37,
+          "average w/o zero": 35.52046783625731
         }
       },
       "Number of Permits.5+ units": {
@@ -3446,6 +3554,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 372195,
           "average": 608.1617647058823,
           "average w/o zero": 641.7155172413793
+        },
+        "2015": {
+          "count": 612,
+          "sum": 452842,
+          "average": 739.937908496732,
+          "average w/o zero": 772.7679180887372
+        },
+        "2016": {
+          "count": 612,
+          "sum": 392982,
+          "average": 642.1274509803922,
+          "average w/o zero": 666.0711864406779
+        },
+        "2017": {
+          "count": 612,
+          "sum": 398807,
+          "average": 651.6454248366013,
+          "average w/o zero": 673.660472972973
+        },
+        "2018": {
+          "count": 612,
+          "sum": 419252,
+          "average": 685.0522875816994,
+          "average w/o zero": 705.8114478114478
+        },
+        "2019": {
+          "count": 610,
+          "sum": 460003,
+          "average": 754.1032786885246,
+          "average w/o zero": 773.1142857142858
+        },
+        "2020": {
+          "count": 600,
+          "sum": 413356,
+          "average": 688.9266666666666,
+          "average w/o zero": 707.8013698630137
         }
       },
       "Period.month": {
@@ -3518,6 +3662,42 @@ VISUALIZER_DATA_BARS = [
         "2014": {
           "count": 612,
           "sum": 3978,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2015": {
+          "count": 612,
+          "sum": 3978,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2016": {
+          "count": 612,
+          "sum": 3978,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2017": {
+          "count": 612,
+          "sum": 3978,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2018": {
+          "count": 612,
+          "sum": 3978,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2019": {
+          "count": 610,
+          "sum": 3955,
+          "average": 6.483606557377049,
+          "average w/o zero": 6.483606557377049
+        },
+        "2020": {
+          "count": 600,
+          "sum": 3900,
           "average": 6.5,
           "average w/o zero": 6.5
         }
@@ -3594,6 +3774,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 1232568,
           "average": 2014,
           "average w/o zero": 2014
+        },
+        "2015": {
+          "count": 612,
+          "sum": 1233180,
+          "average": 2015,
+          "average w/o zero": 2015
+        },
+        "2016": {
+          "count": 612,
+          "sum": 1233792,
+          "average": 2016,
+          "average w/o zero": 2016
+        },
+        "2017": {
+          "count": 612,
+          "sum": 1234404,
+          "average": 2017,
+          "average w/o zero": 2017
+        },
+        "2018": {
+          "count": 612,
+          "sum": 1235016,
+          "average": 2018,
+          "average w/o zero": 2018
+        },
+        "2019": {
+          "count": 610,
+          "sum": 1231590,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2020": {
+          "count": 600,
+          "sum": 1212000,
+          "average": 2020,
+          "average w/o zero": 2020
         }
       },
       "Valuations.1 unit": {
@@ -3668,6 +3884,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 145009960,
           "average": 236944.3790849673,
           "average w/o zero": 236944.3790849673
+        },
+        "2015": {
+          "count": 612,
+          "sum": 685588,
+          "average": 1120.2418300653594,
+          "average w/o zero": 1120.2418300653594
+        },
+        "2016": {
+          "count": 612,
+          "sum": 747350,
+          "average": 1221.1601307189542,
+          "average w/o zero": 1221.1601307189542
+        },
+        "2017": {
+          "count": 612,
+          "sum": 819591,
+          "average": 1339.200980392157,
+          "average w/o zero": 1339.200980392157
+        },
+        "2018": {
+          "count": 612,
+          "sum": 854241,
+          "average": 1395.8186274509803,
+          "average w/o zero": 1395.8186274509803
+        },
+        "2019": {
+          "count": 610,
+          "sum": 31957019,
+          "average": 52388.55573770492,
+          "average w/o zero": 52388.55573770492
+        },
+        "2020": {
+          "count": 600,
+          "sum": 239517865,
+          "average": 399196.44166666665,
+          "average w/o zero": 399196.44166666665
         }
       },
       "Valuations.2 units": {
@@ -3742,6 +3994,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 1801803,
           "average": 2944.122549019608,
           "average w/o zero": 3246.491891891892
+        },
+        "2015": {
+          "count": 612,
+          "sum": 15816,
+          "average": 25.84313725490196,
+          "average w/o zero": 28.1423487544484
+        },
+        "2016": {
+          "count": 612,
+          "sum": 17710,
+          "average": 28.937908496732025,
+          "average w/o zero": 31.289752650176677
+        },
+        "2017": {
+          "count": 612,
+          "sum": 18618,
+          "average": 30.42156862745098,
+          "average w/o zero": 32.43554006968641
+        },
+        "2018": {
+          "count": 612,
+          "sum": 20314,
+          "average": 33.19281045751634,
+          "average w/o zero": 35.51398601398601
+        },
+        "2019": {
+          "count": 610,
+          "sum": 511619,
+          "average": 838.7196721311475,
+          "average w/o zero": 889.7721739130435
+        },
+        "2020": {
+          "count": 600,
+          "sum": 3806495,
+          "average": 6344.158333333334,
+          "average w/o zero": 6701.575704225352
         }
       },
       "Valuations.3-4 units": {
@@ -3816,6 +4104,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 1637932,
           "average": 2676.359477124183,
           "average w/o zero": 3356.4180327868853
+        },
+        "2015": {
+          "count": 612,
+          "sum": 16257,
+          "average": 26.563725490196077,
+          "average w/o zero": 32.644578313253014
+        },
+        "2016": {
+          "count": 612,
+          "sum": 15321,
+          "average": 25.034313725490197,
+          "average w/o zero": 29.923828125
+        },
+        "2017": {
+          "count": 612,
+          "sum": 17111,
+          "average": 27.959150326797385,
+          "average w/o zero": 34.497983870967744
+        },
+        "2018": {
+          "count": 612,
+          "sum": 17325,
+          "average": 28.308823529411764,
+          "average w/o zero": 35.502049180327866
+        },
+        "2019": {
+          "count": 610,
+          "sum": 433303,
+          "average": 710.3327868852459,
+          "average w/o zero": 861.4373757455269
+        },
+        "2020": {
+          "count": 600,
+          "sum": 2611824,
+          "average": 4353.04,
+          "average w/o zero": 5091.274853801169
         }
       },
       "Valuations.5+ units": {
@@ -3890,6 +4214,42 @@ VISUALIZER_DATA_BARS = [
           "sum": 39778486,
           "average": 64997.52614379085,
           "average w/o zero": 68583.59655172414
+        },
+        "2015": {
+          "count": 612,
+          "sum": 452842,
+          "average": 739.937908496732,
+          "average w/o zero": 772.7679180887372
+        },
+        "2016": {
+          "count": 612,
+          "sum": 392982,
+          "average": 642.1274509803922,
+          "average w/o zero": 666.0711864406779
+        },
+        "2017": {
+          "count": 612,
+          "sum": 398807,
+          "average": 651.6454248366013,
+          "average w/o zero": 673.660472972973
+        },
+        "2018": {
+          "count": 612,
+          "sum": 419252,
+          "average": 685.0522875816994,
+          "average w/o zero": 705.8114478114478
+        },
+        "2019": {
+          "count": 610,
+          "sum": 10858829,
+          "average": 17801.359016393442,
+          "average w/o zero": 18219.511744966443
+        },
+        "2020": {
+          "count": 600,
+          "sum": 53216898,
+          "average": 88694.83,
+          "average w/o zero": 91124.82534246576
         }
       }
     },
@@ -3906,7 +4266,13 @@ VISUALIZER_DATA_BARS = [
       "2011",
       "2012",
       "2013",
-      "2014"
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020"
     ],
     "best_indexes": [
       "2004",

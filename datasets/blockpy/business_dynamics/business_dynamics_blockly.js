@@ -14,18 +14,15 @@ var business_dynamics_INDEX_VALUES = {
         
         ["Alabama", "Alabama"] ,
         ["Alaska", "Alaska"] ,
-        ["Arizona", "Arizona"] ,
         ["Arkansas", "Arkansas"] ,
         ["California", "California"] ,
         ["Colorado", "Colorado"] ,
-        ["Connecticut", "Connecticut"] ,
         ["Delaware", "Delaware"] ,
         ["District of Columbia", "District of Columbia"] ,
         ["Florida", "Florida"] ,
-        ["Geogia", "Geogia"] ,
+        ["Georgia", "Georgia"] ,
         ["Hawaii", "Hawaii"] ,
         ["Idaho", "Idaho"] ,
-        ["Illinois", "Illinois"] ,
         ["Indiana", "Indiana"] ,
         ["Iowa", "Iowa"] ,
         ["Kansas", "Kansas"] ,
@@ -54,7 +51,6 @@ var business_dynamics_INDEX_VALUES = {
         ["Rhode Island", "Rhode Island"] ,
         ["South Carolina", "South Carolina"] ,
         ["South Dakota", "South Dakota"] ,
-        ["Tennessee", "Tennessee"] ,
         ["Texas", "Texas"] ,
         ["Utah", "Utah"] ,
         ["Vermont", "Vermont"] ,
@@ -66,7 +62,6 @@ var business_dynamics_INDEX_VALUES = {
     ],
     "Year": [
         
-        ["1977", "1977"] ,
         ["1978", "1978"] ,
         ["1979", "1979"] ,
         ["1980", "1980"] ,
@@ -102,7 +97,12 @@ var business_dynamics_INDEX_VALUES = {
         ["2010", "2010"] ,
         ["2011", "2011"] ,
         ["2012", "2012"] ,
-        ["2013", "2013"] 
+        ["2013", "2013"] ,
+        ["2014", "2014"] ,
+        ["2015", "2015"] ,
+        ["2016", "2016"] ,
+        ["2017", "2017"] ,
+        ["2018", "2018"] 
     ]
 }
 
@@ -121,7 +121,7 @@ var business_dynamics_PROPERTIES = [
     ["Data.Establishments.Physical Locations", "Data.Establishments.Physical Locations"] ,
     ["Data.Firm Exits.Count", "Data.Firm Exits.Count"] ,
     ["Data.Firm Exits.Establishment Exit", "Data.Firm Exits.Establishment Exit"] ,
-    ["Data.Firm Exits.Job Destruction", "Data.Firm Exits.Job Destruction"] ,
+    ["Data.Firm Exits.Employments", "Data.Firm Exits.Employments"] ,
     ["Data.Job Creation.Births", "Data.Job Creation.Births"] ,
     ["Data.Job Creation.Continuers", "Data.Job Creation.Continuers"] ,
     ["Data.Job Creation.Count", "Data.Job Creation.Count"] ,

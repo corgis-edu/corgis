@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 4/2/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 10/18/2021</span><br>
 <span class='text-muted'>Tags: construction, permits, us, united states, america, government, buildings, private, units, valuation, housing</span>
 
 # Overview
@@ -23,7 +23,7 @@ This dataset provides data on the number and valuation of new housing units auth
 
 
 
-<https://www.census.gov/construction/bps/about_the_surveys/>
+<https://www.census.gov/construction/bps/statemonthly.html>
 
 
 

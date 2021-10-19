@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/26/2017</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/1/2021</span><br>
 <span class='text-muted'>Tags: government, united states, us, usa, business, businesses, firms, establishments, jobs, census</span>
 
 # Overview
@@ -25,7 +25,7 @@ style: dataset
 
 
 
-<https://www.census.gov/data/developers/data-sets/business-dynamics.html>
+<https://www.census.gov/data/tables/time-series/econ/bds/bds-tables.html>
 
 
 
@@ -51,168 +51,168 @@ style: dataset
     <td>Year</td>
     <td>Integer</td> 
     <td>The year that this report was made for.</td>
-    <td><code>1977</code></td>
+    <td><code>1978</code></td>
 </tr>
 
 <tr>
     <td>Data.DHS Denominator</td>
     <td>Integer</td> 
     <td>The Davis-Haltiwanger-Schuh (DHS) denominator is the two-period trailing moving average of employment, intended to prevent transitory shocks from distorting net growth. In other words, this value roughly represents the employment for the area, but is resistant to sudden, spiking growth.</td>
-    <td><code>933909</code></td>
+    <td><code>972627</code></td>
 </tr>
 
 <tr>
     <td>Data.Number of Firms</td>
     <td>Integer</td> 
     <td>The number of firms in this state during this year.</td>
-    <td><code>52371</code></td>
+    <td><code>54597</code></td>
 </tr>
 
 <tr>
     <td>Data.Calculated.Net Job Creation</td>
     <td>Integer</td> 
     <td>The sum of the Job Creation Rate minus the Job Destruction Rate.</td>
-    <td><code>46776</code></td>
+    <td><code>74178</code></td>
 </tr>
 
 <tr>
     <td>Data.Calculated.Net Job Creation Rate</td>
     <td>Float</td> 
     <td>The sum of the Job Creation Rate and the Job Destruction Rate, minus the Net Job Creation Rate.</td>
-    <td><code>5.0</code></td>
+    <td><code>7.627</code></td>
 </tr>
 
 <tr>
     <td>Data.Calculated.Reallocation Rate</td>
     <td>Float</td> 
     <td>The sum of the Job Creation Rate and the Job Destruction Rate, minus the absolute Net Job Creation Rate.</td>
-    <td><code>31.0</code></td>
+    <td><code>29.183</code></td>
 </tr>
 
 <tr>
     <td>Data.Establishments.Entered</td>
     <td>Integer</td> 
     <td>The number of establishments that entered during this time. Entering occurs when an establishment did not exist in the previous year.</td>
-    <td><code>10634</code></td>
+    <td><code>10457</code></td>
 </tr>
 
 <tr>
     <td>Data.Establishments.Entered Rate</td>
     <td>Float</td> 
     <td>The number of establishments that entered during this time divided by the number of establishments. Entering occurs when an establishment did not exist in the previous year.</td>
-    <td><code>17.2</code></td>
+    <td><code>16.375</code></td>
 </tr>
 
 <tr>
     <td>Data.Establishments.Exited</td>
     <td>Integer</td> 
     <td>The number of establishments that exited during this time. Exiting occurs when an establishment has positive employment in the previous year and zero this year.</td>
-    <td><code>8057</code></td>
+    <td><code>7749</code></td>
 </tr>
 
 <tr>
     <td>Data.Establishments.Exited Rate</td>
     <td>Float</td> 
     <td>The number of establishments that exited during this time divided by the number of establishments. Exiting occurs when an establishment has positive employment in the previous year and zero this year.</td>
-    <td><code>13.1</code></td>
+    <td><code>12.135</code></td>
 </tr>
 
 <tr>
     <td>Data.Establishments.Physical Locations</td>
     <td>Integer</td> 
     <td>The number of establishments in this region during this time.</td>
-    <td><code>62852</code></td>
+    <td><code>65213</code></td>
 </tr>
 
 <tr>
     <td>Data.Firm Exits.Count</td>
     <td>Integer</td> 
     <td>The number of firms that exited this year.</td>
-    <td><code>5623</code></td>
+    <td><code>5248</code></td>
 </tr>
 
 <tr>
     <td>Data.Firm Exits.Establishment Exit</td>
     <td>Integer</td> 
     <td>The number of establishments exited because of firm deaths.</td>
-    <td><code>5641</code></td>
+    <td><code>5329</code></td>
 </tr>
 
 <tr>
-    <td>Data.Firm Exits.Job Destruction</td>
+    <td>Data.Firm Exits.Employments</td>
     <td>Integer</td> 
-    <td>The number of jobs destroyed as a result of firm deaths.</td>
-    <td><code>36602</code></td>
+    <td>The number of employments destroyed as a result of firm deaths.</td>
+    <td><code>28257</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Creation.Births</td>
     <td>Integer</td> 
     <td>The number of jobs that were created because of firm births in the past year.</td>
-    <td><code>89869</code></td>
+    <td><code>76167</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Creation.Continuers</td>
     <td>Integer</td> 
     <td>The number of jobs at continuing establishments that were created in the last yaer.</td>
-    <td><code>101653</code></td>
+    <td><code>139930</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Creation.Count</td>
     <td>Integer</td> 
     <td>The number of jobs that were created in the last year.</td>
-    <td><code>191522</code></td>
+    <td><code>216097</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Creation.Rate</td>
     <td>Float</td> 
     <td>The number of jobs that were created in the last year divided by the DHS denominator. The result is the rate at which jobs have been created.</td>
-    <td><code>20.5</code></td>
+    <td><code>22.218</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Creation.Rate/Births</td>
     <td>Float</td> 
     <td>The number of jobs that were created because a new firm born in the past year, divided by the DHS denominator. The result is the rate at which jobs have been created because of firm births.</td>
-    <td><code>9.6</code></td>
+    <td><code>7.831</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Destruction.Continuers</td>
     <td>Integer</td> 
     <td>The number of jobs at continuing establishments that were destroyed in the last year.</td>
-    <td><code>85855</code></td>
+    <td><code>81829</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Destruction.Count</td>
     <td>Integer</td> 
     <td>The number of jobs that were destroyed in the last year.</td>
-    <td><code>144746</code></td>
+    <td><code>141919</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Destruction.Deaths</td>
     <td>Integer</td> 
     <td>The number of jobs that were destroyed because of firm deaths that were destroyed in the last year.</td>
-    <td><code>58891</code></td>
+    <td><code>60090</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Destruction.Rate</td>
     <td>Float</td> 
     <td>The number of jobs that were destroyed in the last year divided by the DHS denominator. The result is the rate at which jobs have been destroyed.</td>
-    <td><code>15.5</code></td>
+    <td><code>14.591</code></td>
 </tr>
 
 <tr>
     <td>Data.Job Destruction.Rate/Deaths</td>
     <td>Float</td> 
     <td>The number of jobs that were destroyed because of firm deaths that were destroyed in the last year divided by the DHS denominator. The result is the rate at which jobs have been destroyed because of firm death.</td>
-    <td><code>6.3</code></td>
+    <td><code>6.178</code></td>
 </tr>
 
 </table>

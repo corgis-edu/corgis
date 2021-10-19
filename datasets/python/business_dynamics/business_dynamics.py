@@ -46,7 +46,7 @@ def _tifa_definitions():
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Count'}, {"type": "LiteralStr", "value": 'Establishment Exit'}, {"type": "LiteralStr", "value": 'Job Destruction'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Count'}, {"type": "LiteralStr", "value": 'Establishment Exit'}, {"type": "LiteralStr", "value": 'Employments'}], "values": [
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 

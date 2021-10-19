@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/26/2017</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/1/2021</span><br>
 <span class='text-muted'>Tags: government, united states, us, usa, business, businesses, firms, establishments, jobs, census</span>
 
 # Overview
@@ -27,14 +27,14 @@ style: dataset
 
 
 
-<https://www.census.gov/data/developers/data-sets/business-dynamics.html>
+<https://www.census.gov/data/tables/time-series/econ/bds/bds-tables.html>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Reports of business dynamics statistics in a state on a given year*.
 
 
 
@@ -105,7 +105,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>1977</code>
+                <code>1978</code>
              
                 
              </td> 
@@ -174,7 +174,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>933909</code>
+                <code>972627</code>
              
                 
              </td> 
@@ -186,7 +186,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>52371</code>
+                <code>54597</code>
              
                 
              </td> 
@@ -335,7 +335,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>46776</code>
+                <code>74178</code>
              
                 
              </td> 
@@ -347,7 +347,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>5.0</code>
+                <code>7.627</code>
              
                 
              </td> 
@@ -359,7 +359,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>31.0</code>
+                <code>29.183</code>
              
                 
              </td> 
@@ -416,7 +416,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>10634</code>
+                <code>10457</code>
              
                 
              </td> 
@@ -428,7 +428,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>17.2</code>
+                <code>16.375</code>
              
                 
              </td> 
@@ -440,7 +440,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>8057</code>
+                <code>7749</code>
              
                 
              </td> 
@@ -452,7 +452,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>13.1</code>
+                <code>12.135</code>
              
                 
              </td> 
@@ -464,7 +464,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>62852</code>
+                <code>65213</code>
              
                 
              </td> 
@@ -537,7 +537,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>5623</code>
+                <code>5248</code>
              
                 
              </td> 
@@ -549,23 +549,23 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>5641</code>
+                <code>5329</code>
              
                 
              </td> 
              <td>The number of establishments exited because of firm deaths.</td> </tr>
         
-        <tr> <td><code>"Job Destruction"</code></td>
+        <tr> <td><code>"Employments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>36602</code>
+                <code>28257</code>
              
                 
              </td> 
-             <td>The number of jobs destroyed as a result of firm deaths.</td> </tr>
+             <td>The number of employments destroyed as a result of firm deaths.</td> </tr>
         
     </table>
 </div>
@@ -599,8 +599,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Firm-Exits-Job-Destruction").click(function() {
-        $( "#explore-Data-Firm-Exits-Job-Destruction" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Firm-Exits-Employments").click(function() {
+        $( "#explore-Data-Firm-Exits-Employments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -618,7 +618,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>89869</code>
+                <code>76167</code>
              
                 
              </td> 
@@ -630,7 +630,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>101653</code>
+                <code>139930</code>
              
                 
              </td> 
@@ -642,7 +642,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>191522</code>
+                <code>216097</code>
              
                 
              </td> 
@@ -654,7 +654,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>20.5</code>
+                <code>22.218</code>
              
                 
              </td> 
@@ -666,7 +666,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>9.6</code>
+                <code>7.831</code>
              
                 
              </td> 
@@ -739,7 +739,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>85855</code>
+                <code>81829</code>
              
                 
              </td> 
@@ -751,7 +751,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>144746</code>
+                <code>141919</code>
              
                 
              </td> 
@@ -763,7 +763,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>58891</code>
+                <code>60090</code>
              
                 
              </td> 
@@ -775,7 +775,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>15.5</code>
+                <code>14.591</code>
              
                 
              </td> 
@@ -787,7 +787,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>6.3</code>
+                <code>6.178</code>
              
                 
              </td> 
