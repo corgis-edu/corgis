@@ -1,10 +1,10 @@
 Name,Business Dynamics,,,
-Version,2.0.0,,,
-Author,Austin Cory Bart <acbart@vt.edu>,,,
-Created,2/26/2017,,,
+Version,3.0.0,,,
+Author,"Austin Cory Bart, Joung Min Choi and Bo Guan",,,
+Created,9/1/2021,,,
 Data File,business-dynamics-corgis.csv,,,
 Overview,"The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",,,
-Data Source,https://www.census.gov/data/developers/data-sets/business-dynamics.html,,,
+Data Source,https://www.census.gov/data/tables/time-series/econ/bds/bds-tables.html,,,
 Description,"<p>The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics. The U.S. economy is comprised of over 6 million establishments with paid employees. The population of these businesses is constantly churning -- some businesses grow, others decline and yet others close. New businesses are constantly replenishing this pool. The BDS series provide annual statistics on gross job gains and losses for the entire economy and by industrial sector, state, and MSA. These data track changes in employment at the establishment level, and thus provide a picture of the dynamics underlying aggregate net employment growth.</p>
 <p>There is a longstanding interest in the contribution of small businesses to job and productivity growth in the U.S. Some recent research suggests that it is business age rather than size that is the critical factor. The BDS permits exploring the respective contributions of both firm age and size.</p>
 <p>BDS is based on data going back through 1976. This allows business dynamics to be tracked, measured and analyzed for young firms in their first critical years as well as for more mature firms including those that are in the process of reinventing themselves in an ever changing economic environment.</p>
@@ -12,7 +12,7 @@ Description,"<p>The Business Dynamics Statistics (BDS) includes measures of esta
 ",,,
 Tags,"government, united states, us, usa, business, businesses, firms, establishments, jobs, census",,,
 Row,record,,,
-Row Explanation,$MISSING_FIELD,,,
+Row Explanation,Reports of business dynamics statistics in a state on a given year,,,
 Acknowledgement,,,,
 Icon,business-dynamics-icon.png,,,
 Splash,business-dynamics-icon.png,,,
@@ -31,7 +31,7 @@ Properties,Name,Type,Index,Description
 ,Data.Establishments.Physical Locations,int,,The number of establishments in this region during this time.
 ,Data.Firm Exits.Count,int,,The number of firms that exited this year.
 ,Data.Firm Exits.Establishment Exit,int,,The number of establishments exited because of firm deaths.
-,Data.Firm Exits.Job Destruction,int,,The number of jobs destroyed as a result of firm deaths.
+,Data.Firm Exits.Employments,int,,The number of employments destroyed as a result of firm deaths.
 ,Data.Job Creation.Births,int,,The number of jobs that were created because of firm births in the past year.
 ,Data.Job Creation.Continuers,int,,The number of jobs at continuing establishments that were created in the last yaer.
 ,Data.Job Creation.Count,int,,The number of jobs that were created in the last year.
