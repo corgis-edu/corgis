@@ -1,0 +1,85 @@
+Table 2v. New Privately Owned Housing Units Authorized
+          Valuation for Regions, Divisions, and States
+                    (in thousands of dollars)
+ 
+ 
+          November  2018
+
+                                                          3 and 4  5 Units   
+                             Total    1 Unit   2 Units      Units  or More   
+ 
+ 
+United States             19981327  15071349    228709    177818   4503451
+ 
+Northeast                  1760689   1097060     36581     31346    595702
+  New England               506837    368162     10333     10106    118236
+    Connecticut              97895     85309      1622         0     10964
+    Maine                    65277     62247      2070       960         0
+    Massachusetts           261699    152098      5843      6412     97346
+    New Hampshire            38816     32674       619      2735      2788
+    Rhode Island             20353     20173       180         0         0
+    Vermont                  22799     15661         0         0      7138
+ 
+  Middle Atlantic          1253852    728898     26248     21240    477466
+    New Jersey              305574    200640     11400      2357     91177
+    New York                599195    232941     10105      4430    351719
+    Pennsylvania            349085    295317      4743     14454     34571
+ 
+Midwest                    2890247   2224727     35721     22033    607766
+  East North Central D     1729777   1366773     24430     19382    319192
+    Illinois                365889    184931      7173     10202    163583
+    Indiana                 380637    353602      2544      1137     23354
+    Michigan                330560    294108      4807      1211     30434
+    Ohio                    385555    329616      2911      6232     46796
+    Wisconsin               267138    204516      6996       600     55026
+ 
+  West North Central D     1160470    857954     11291      2651    288574
+    Iowa                    158288    128455         0      1132     28701
+    Kansas                  120662     95902      2092       454     22214
+    Minnesota               436321    289014       990         0    146317
+    Missouri                269331    198379      7294       690     62968
+    Nebraska                110430     83215       341         0     26874
+    North Dakota             25457     23624       333         0      1500
+    South Dakota             39981     39365       241       375         0
+ 
+South                      9753597   7703099     61344     50418   1938736
+  South Atlantic           5771029   4436927     32392     24096   1277614
+    Delaware                 70392     65944       360      1111      2977
+    District of Columbia     72819       709       243         0     71867
+    Florida                2495538   1902506     16812     11497    564723
+    Georgia                 935380    613929      6140      1040    314271
+    Maryland                283378    204234       267         0     78877
+    North Carolina          957588    817878      7147      6771    125792
+    South Carolina          541913    507554       625         0     33734
+    Virginia                373767    289857       800      3678     79432
+    West Virginia            40256     34316         0         0      5940
+ 
+  East South Central D      939547    830721      4425      5221     99180
+    Alabama                 221722    204246      1094       839     15543
+    Kentucky                131734    114903      1433       420     14978
+    Mississippi              83995     78260       893       301      4541
+    Tennessee               502096    433312      1005      3661     64118
+ 
+  West South Central D     3043021   2435451     24527     21101    561942
+    Arkansas                131327    114519      3472      7332      6004
+    Louisiana               207580    202292      1779       232      3277
+    Oklahoma                168416    166204      1668       300       244
+    Texas                  2535698   1952437     17608     13236    552417
+ 
+West                       5576794   4046463     95063     74021   1361247
+  Mountain                 2567812   2082854     32556     22869    429533
+    Arizona                 603196    537108      3211      1448     61429
+    Colorado                877463    645891      2703      7219    221650
+    Idaho                   229935    211074      2173      3401     13287
+    Montana                  49682     40953      3211      3783      1735
+    Nevada                  298703    229386      1347         0     67970
+    New Mexico               75245     74133         0       252       860
+    Utah                    402426    315468     19711      5608     61639
+    Wyoming                  31166     28841       201      1159       965
+ 
+  Pacific                  3008982   1963609     62507     51152    931714
+    Alaska                   28009     23870      1389       695      2055
+    California             1816277   1226085     33575     22497    534120
+    Hawaii                   73694     61564         0         0     12130
+    Oregon                  311153    190647      2928      2952    114626
+    Washington              779846    461442     24614     25008    268782
