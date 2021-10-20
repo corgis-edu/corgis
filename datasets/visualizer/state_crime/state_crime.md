@@ -13,17 +13,17 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/7/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 10/19/2021</span><br>
 <span class='text-muted'>Tags: crime, burglary, larceny, motor, property, violent, assault, murder, rape, robbery</span>
 
 # Overview
 
-From the Unified Crime Reporting Statistics and under the collaboration of the U.S. Department of Justice and the Federal Bureau of Investigation information crime statistics are available for public review.  The following data set has information on the crime rates and totals for states across the United States for a wide range of years.  The crime reports are divided into two main categories: property and violent crime.  Property crime refers to burglary, larceny, and motor related crime while violent crime refers to assault, murder, rape, and robbery. These reports go from 1960 to 2012.
+From the Unified Crime Reporting Statistics and under the collaboration of the U.S. Department of Justice and the Federal Bureau of Investigation information crime statistics are available for public review.  The following data set has information on the crime rates and totals for states across the United States for a wide range of years.  The crime reports are divided into two main categories: property and violent crime.  Property crime refers to burglary, larceny, and motor related crime while violent crime refers to assault, murder, rape, and robbery. These reports go from 1960 to 2019.
 
 
 
-<http://www.ucrdatatool.gov/Search/Crime/Local/JurisbyJurisStepTwo.cfm>
+<https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/downloads/download-printable-files >
 
 
 
