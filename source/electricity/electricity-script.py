@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 27 13:12:03 2019
+Edited on Tue Sep 07 15:15 2021 by Joung Min Choi
 
 @author: kafura
 """
@@ -22,11 +23,11 @@ def type_dis_data(data):
         data[item] = float(data[item].replace(',', ''))  
     return(data)    
 
-generation_data_file_name = "./raw/Electricity-Generation.csv"
+generation_data_file_name = "./raw/Operational_Data_2019.csv" #Electricity-Generation.csv
 generation_data_file = open(generation_data_file_name, 'r', newline='\n')
 generation_reader = csv.reader(generation_data_file)
 
-distribution_data_file_name = "./raw/Electricity-Distribution.csv"
+distribution_data_file_name = "./raw/Sales_Ult_Cust_2019.csv" #Electricity-Distribution.csv
 distribution_data_file = open(distribution_data_file_name, 'r', newline='\n')
 distribution_reader= csv.reader(distribution_data_file)
 

@@ -1,9 +1,9 @@
 Name,electricity,,,
-Version,1.0.0,,,
-Author,Dennis Kafura,,,
-Created,7/14/2019,,,
+Version,2.0.0,,,
+Author,"Dennis Kafura, Joung Min Choi, and Bo Guan",,,
+Created,9/7/2021,,,
 Data File,electricity-corgis.csv,,,
-Overview,"This data set describes over 2000 U.S. electric utilities. Reported data for 2017 includes electrical generation, distribution, revenues, and customers.",,,
+Overview,"This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",,,
 Data Source,https://www.eia.gov/electricity/data/eia861/,,,
 Description,"The U.S. Energy Information Adminstration collects and curates self-reported information from energy utilities about energy production and usage in the United States. This data set contains information from over 2,000 U.S. utilities in 2017. The information includes sources of energy, its uses in different economic sectors, and the revenues obtained from the sale of electrical energy.",,,
 Tags,"elctricity,electric power, utilities, utility revenues",,,
@@ -16,7 +16,7 @@ Properties,Name,Type,Index,Description
 ,Utility.Number,int,,Unique identifier for the utility.
 ,Utility.Name,string,,Utility Name
 ,Utility.State,string,x,"A two letter abbreviation for the name of the state (e.g., CA for California)"
-,Utility.Type,string,,"Business type (e.g, Municipal, Private, �)"
+,Utility.Type,string,,"Business type (e.g, Municipal, Private)"
 ,Demand.Summer Peak,float,,Peak demand in the summer measured in megawatts
 ,Demand.Winter Peak,float,,Peak demand in the winter measured in megawatts
 ,Sources.Generation,float,,Net generation of power measured in megawatt hours
