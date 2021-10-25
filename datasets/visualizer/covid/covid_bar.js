@@ -3,10 +3,10 @@ VISUALIZER_DATA_BARS = [
     "data": {
       "Date.Day": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 4769,
-          "average": 15.843853820598007,
-          "average w/o zero": 15.843853820598007
+          "count": 340,
+          "sum": 5324,
+          "average": 15.658823529411764,
+          "average w/o zero": 15.658823529411764
         },
         "Albania": {
           "count": 242,
@@ -1283,10 +1283,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Date.Month": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 1719,
-          "average": 5.710963455149502,
-          "average w/o zero": 5.710963455149502
+          "count": 340,
+          "sum": 2162,
+          "average": 6.358823529411764,
+          "average w/o zero": 6.358823529411764
         },
         "Albania": {
           "count": 242,
@@ -2563,10 +2563,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Date.Year": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 608019,
-          "average": 2019.9966777408638,
-          "average w/o zero": 2019.9966777408638
+          "count": 340,
+          "sum": 686799,
+          "average": 2019.9970588235294,
+          "average w/o zero": 2019.9970588235294
         },
         "Albania": {
           "count": 242,
@@ -3843,10 +3843,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Cases": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 41935,
-          "average": 139.31893687707642,
-          "average w/o zero": 191.4840182648402
+          "count": 340,
+          "sum": 49273,
+          "average": 144.9205882352941,
+          "average w/o zero": 193.98818897637796
         },
         "Albania": {
           "count": 242,
@@ -5123,10 +5123,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Deaths": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 1554,
-          "average": 5.162790697674419,
-          "average w/o zero": 8.982658959537572
+          "count": 340,
+          "sum": 1971,
+          "average": 5.797058823529412,
+          "average w/o zero": 9.521739130434783
         },
         "Albania": {
           "count": 242,
@@ -6403,8 +6403,8 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Population": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 11450568857,
+          "count": 340,
+          "sum": 12934197380,
           "average": 38041757,
           "average w/o zero": 38041757
         },
@@ -7683,10 +7683,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Rate": {
         "Afghanistan": {
-          "count": 301,
-          "sum": 1518.1738319699994,
-          "average": 5.043766883621262,
-          "average w/o zero": 6.196627885591837
+          "count": 340,
+          "sum": 1750.3029631199993,
+          "average": 5.147949891529412,
+          "average w/o zero": 6.163038602535211
         },
         "Albania": {
           "count": 242,
@@ -9179,6 +9179,7 @@ VISUALIZER_DATA_BARS = [
       "Zimbabwe"
     ],
     "best_indexes": [
+      "Afghanistan",
       "Australia",
       "Austria",
       "Belgium",
@@ -9187,8 +9188,7 @@ VISUALIZER_DATA_BARS = [
       "China",
       "Czechia",
       "Denmark",
-      "France",
-      "Germany"
+      "France"
     ],
     "pretty": "Location.Country"
   },
@@ -9196,10 +9196,10 @@ VISUALIZER_DATA_BARS = [
     "data": {
       "Date.Day": {
         "AFG": {
-          "count": 301,
-          "sum": 4769,
-          "average": 15.843853820598007,
-          "average w/o zero": 15.843853820598007
+          "count": 340,
+          "sum": 5324,
+          "average": 15.658823529411764,
+          "average w/o zero": 15.658823529411764
         },
         "ALB": {
           "count": 242,
@@ -10470,10 +10470,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Date.Month": {
         "AFG": {
-          "count": 301,
-          "sum": 1719,
-          "average": 5.710963455149502,
-          "average w/o zero": 5.710963455149502
+          "count": 340,
+          "sum": 2162,
+          "average": 6.358823529411764,
+          "average w/o zero": 6.358823529411764
         },
         "ALB": {
           "count": 242,
@@ -11744,10 +11744,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Date.Year": {
         "AFG": {
-          "count": 301,
-          "sum": 608019,
-          "average": 2019.9966777408638,
-          "average w/o zero": 2019.9966777408638
+          "count": 340,
+          "sum": 686799,
+          "average": 2019.9970588235294,
+          "average w/o zero": 2019.9970588235294
         },
         "ALB": {
           "count": 242,
@@ -13018,10 +13018,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Cases": {
         "AFG": {
-          "count": 301,
-          "sum": 41935,
-          "average": 139.31893687707642,
-          "average w/o zero": 191.4840182648402
+          "count": 340,
+          "sum": 49273,
+          "average": 144.9205882352941,
+          "average w/o zero": 193.98818897637796
         },
         "ALB": {
           "count": 242,
@@ -14292,10 +14292,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Deaths": {
         "AFG": {
-          "count": 301,
-          "sum": 1554,
-          "average": 5.162790697674419,
-          "average w/o zero": 8.982658959537572
+          "count": 340,
+          "sum": 1971,
+          "average": 5.797058823529412,
+          "average w/o zero": 9.521739130434783
         },
         "ALB": {
           "count": 242,
@@ -15566,8 +15566,8 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Population": {
         "AFG": {
-          "count": 301,
-          "sum": 11450568857,
+          "count": 340,
+          "sum": 12934197380,
           "average": 38041757,
           "average w/o zero": 38041757
         },
@@ -16840,10 +16840,10 @@ VISUALIZER_DATA_BARS = [
       },
       "Data.Rate": {
         "AFG": {
-          "count": 301,
-          "sum": 1518.1738319699994,
-          "average": 5.043766883621262,
-          "average w/o zero": 6.196627885591837
+          "count": 340,
+          "sum": 1750.3029631199993,
+          "average": 5.147949891529412,
+          "average w/o zero": 6.163038602535211
         },
         "ALB": {
           "count": 242,
@@ -18329,6 +18329,7 @@ VISUALIZER_DATA_BARS = [
       "ZWE"
     ],
     "best_indexes": [
+      "AFG",
       "AUS",
       "AUT",
       "BEL",
@@ -18337,8 +18338,7 @@ VISUALIZER_DATA_BARS = [
       "CHN",
       "CZE",
       "DNK",
-      "FRA",
-      "DEU"
+      "FRA"
     ],
     "pretty": "Location.Code"
   }

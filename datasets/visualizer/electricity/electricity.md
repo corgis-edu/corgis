@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura</span><br>
-<span class='text-muted'>Version 1.0.0, created 7/14/2019</span><br>
+<span class='text-muted'>By Dennis Kafura, Joung Min Choi, and Bo Guan</span><br>
+<span class='text-muted'>Version 2.0.0, created 9/7/2021</span><br>
 <span class='text-muted'>Tags: elctricity,electric power, utilities, utility revenues</span>
 
 # Overview

@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura and Melanie Sutphin</span><br>
-<span class='text-muted'>Version 1.0.0, created 11/14/2020</span><br>
+<span class='text-muted'>By Dennis Kafura, Melanie Sutphin, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 2.0.0, created 10/22/2021</span><br>
 <span class='text-muted'>Tags: Covid, Covid-19, pandemic, infection, world health</span>
 
 # Overview
@@ -46,14 +46,14 @@ Download the following file:
     <td>Date.Day</td>
     <td>Integer</td> 
     <td>The day of the month for this report</td>
-    <td><code>5</code></td>
+    <td><code>14</code></td>
 </tr>
 
 <tr>
     <td>Date.Month</td>
     <td>Integer</td> 
     <td>The month of the year for this report</td>
-    <td><code>11</code></td>
+    <td><code>12</code></td>
 </tr>
 
 <tr>
@@ -67,7 +67,7 @@ Download the following file:
     <td>Data.Cases</td>
     <td>Integer</td> 
     <td>Number of new cases reported</td>
-    <td><code>121</code></td>
+    <td><code>746</code></td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@ Download the following file:
     <td>Data.Rate</td>
     <td>Float</td> 
     <td>Cumulative number of cases reported for 14 days per 100000 people</td>
-    <td><code>3.74588377</code></td>
+    <td><code>9.01377925</code></td>
 </tr>
 
 </table>

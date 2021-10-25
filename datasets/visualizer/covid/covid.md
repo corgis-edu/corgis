@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura and Melanie Sutphin</span><br>
-<span class='text-muted'>Version 1.0.0, created 11/14/2020</span><br>
+<span class='text-muted'>By Dennis Kafura, Melanie Sutphin, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 2.0.0, created 10/22/2021</span><br>
 <span class='text-muted'>Tags: Covid, Covid-19, pandemic, infection, world health</span>
 
 # Overview
