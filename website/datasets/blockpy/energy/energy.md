@@ -12,17 +12,17 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 11/1/2015</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/7/2021</span><br>
 <span class='text-muted'>Tags: energy, renewable, united states, us, nuclear, fossil fuels, power</span>
 
 # Overview
 
-United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2014. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
+United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2019. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
 
 
 
-<http://www.eia.gov/tools/faqs/>
+<https://www.eia.gov/state/seds/seds-data-complete.php>
 
 
 
@@ -41,7 +41,7 @@ United States Government reports on consumption, production, expenditures, and p
     <td>State</td>
     <td>String</td> 
     <td>The state that this report was made for.</td>
-    <td><code>"Utah"</code></td>
+    <td><code>"Alaska"</code></td>
 </tr>
 
 <tr>
@@ -55,21 +55,21 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Production.Coal</td>
     <td>Float</td> 
     <td>Coal production in billion BTU. Unfortunately, the other energy sources produced by the United States (including Natural Gas and Petroleum) could not be incorporated.</td>
-    <td><code>114689.0</code></td>
+    <td><code>11263.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Commercial.Coal</td>
     <td>Float</td> 
     <td>Coal consumed by the commercial sector in billion BTU.</td>
-    <td><code>2644.0</code></td>
+    <td><code>496.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Commercial.Distillate Fuel Oil</td>
     <td>Float</td> 
     <td>Distillate fuel oil consumed by the commercial sector in billion BTU.</td>
-    <td><code>2110.0</code></td>
+    <td><code>1562.0</code></td>
 </tr>
 
 <tr>
@@ -90,21 +90,21 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Commercial.Kerosene</td>
     <td>Float</td> 
     <td>Kerosene consumed by the commercial sector in billion BTU.</td>
-    <td><code>33.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
-    <td>Consumption.Commercial.Liquefied Petroleum Gases</td>
+    <td>Consumption.Commercial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG consumed by the commercial sector in billion BTU.</td>
-    <td><code>450.0</code></td>
+    <td>All petroleum products consumed by the commercial sector in billion BTU.</td>
+    <td><code>5230.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Commercial.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels) in billion BTU.</td>
-    <td><code>10482.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
@@ -125,28 +125,28 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Commercial.Wood</td>
     <td>Float</td> 
     <td>Wood consumed by the commercial sector in billion BTU.</td>
-    <td><code>35.0</code></td>
+    <td><code>34.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Electric Power.Coal</td>
     <td>Float</td> 
     <td>Coal consumed by the electric power sector in billion BTU.</td>
-    <td><code>12840.0</code></td>
+    <td><code>914.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Electric Power.Distillate Fuel Oil</td>
     <td>Float</td> 
     <td>Distillate fuel oil consumed by the electrical power sector in billion BTU.</td>
-    <td><code>67.0</code></td>
+    <td><code>554.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Electric Power.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed by the electric power sector (including supplemental gaseous fuels) in billion BTU.</td>
-    <td><code>3806.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
@@ -160,14 +160,14 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Industrial.Coal</td>
     <td>Float</td> 
     <td>Coal consumed by the industrial sector in billion BTU.</td>
-    <td><code>70489.0</code></td>
+    <td><code>4980.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Industrial.Distillate Fuel Oil</td>
     <td>Float</td> 
     <td>Distillate fuel oil consumed by the industrial sector in billion BTU.</td>
-    <td><code>5768.0</code></td>
+    <td><code>5115.0</code></td>
 </tr>
 
 <tr>
@@ -181,35 +181,35 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Industrial.Hydropower</td>
     <td>Float</td> 
     <td>Hydropower consumed by the industrial sector in billion BTU.</td>
-    <td><code>2.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Industrial.Kerosene</td>
     <td>Float</td> 
     <td>Kerosene consumed by the industrial sector in billion BTU.</td>
-    <td><code>167.0</code></td>
+    <td><code>511.0</code></td>
 </tr>
 
 <tr>
-    <td>Consumption.Industrial.Liquefied Petroleum Gases</td>
+    <td>Consumption.Industrial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG consumed by the industrial sector in billion BTU.</td>
-    <td><code>515.0</code></td>
+    <td>All petroleum products consumed by the industrial sector in billion BTU.</td>
+    <td><code>7415.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Industrial.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels) in billion BTU.</td>
-    <td><code>34662.0</code></td>
+    <td><code>1856.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Industrial.Other Petroleum Products</td>
     <td>Float</td> 
     <td>Other petroleum products consumed by the industrial sector in billion BTU.</td>
-    <td><code>11571.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
@@ -229,8 +229,8 @@ United States Government reports on consumption, production, expenditures, and p
 <tr>
     <td>Consumption.Industrial.Wood</td>
     <td>Float</td> 
-    <td>Wood and waste consumed in the industrial sector, total, in billion BTU.</td>
-    <td><code>344.0</code></td>
+    <td>Wood consumed in the industrial sector, total, in billion BTU.</td>
+    <td><code>1840.0</code></td>
 </tr>
 
 <tr>
@@ -248,13 +248,6 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Consumption.Refinery.Liquefied Petroleum Gases</td>
-    <td>Float</td> 
-    <td>LPG consumed as refinery fuel in billion BTU.</td>
-    <td><code>0.0</code></td>
-</tr>
-
-<tr>
     <td>Consumption.Refinery.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed as refinery fuel (including supplemental gaseous fuels) in billion BTU.</td>
@@ -265,14 +258,14 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Residential.Coal</td>
     <td>Float</td> 
     <td>Coal consumed by the residential sector in billion BTU.</td>
-    <td><code>3805.0</code></td>
+    <td><code>714.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Residential.Distillate Fuel Oil</td>
     <td>Float</td> 
     <td>Distillate fuel oil consumed by the residential sector in billion BTU.</td>
-    <td><code>580.0</code></td>
+    <td><code>5046.0</code></td>
 </tr>
 
 <tr>
@@ -286,90 +279,90 @@ United States Government reports on consumption, production, expenditures, and p
     <td>Consumption.Residential.Kerosene</td>
     <td>Float</td> 
     <td>Kerosene consumed by the residential sector in billion BTU.</td>
-    <td><code>5.0</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 <tr>
-    <td>Consumption.Residential.Liquefied Petroleum Gases</td>
+    <td>Consumption.Residential.Petroleum</td>
     <td>Float</td> 
     <td>LPG consumed by the residential sector in billion BTU.</td>
-    <td><code>673.0</code></td>
+    <td><code>5137.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Residential.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels) in billion BTU.</td>
-    <td><code>23398.0</code></td>
+    <td><code>176.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Residential.Wood</td>
     <td>Float</td> 
     <td>Wood consumed by the residential sector in billion BTU.</td>
-    <td><code>1840.0</code></td>
+    <td><code>1806.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Transportation.Coal</td>
     <td>Float</td> 
     <td>Coal consumed by the transportation sector in billion BTU.</td>
-    <td><code>1188.0</code></td>
+    <td><code>86.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Transportation.Distillate Fuel Oil</td>
     <td>Float</td> 
     <td>Distillate fuel oil consumed by the transportation sector in billion BTU.</td>
-    <td><code>13466.0</code></td>
+    <td><code>3077.0</code></td>
 </tr>
 
 <tr>
-    <td>Consumption.Transportation.Liquefied Petroleum Gases</td>
+    <td>Consumption.Transportation.Petroleum</td>
     <td>Float</td> 
-    <td>LPG consumed by the transportation sector in billion BTU.</td>
-    <td><code>134.0</code></td>
+    <td>All petroleum products consumed by the transportation sector in billion BTU.</td>
+    <td><code>27051.0</code></td>
 </tr>
 
 <tr>
     <td>Consumption.Transportation.Natural Gas</td>
     <td>Float</td> 
     <td>Natural gas consumed by the transportation sector in billion BTU.</td>
-    <td><code>92.0</code></td>
+    <td><code>2.0</code></td>
 </tr>
 
 <tr>
     <td>Expenditure.Commercial.Coal</td>
     <td>Float</td> 
-    <td>Coal expenditures in the industrial sector in million dollars.</td>
+    <td>Coal expenditures in the commercial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Expenditure.Commercial.Distillate Fuel Oil</td>
     <td>Float</td> 
-    <td>Distillate fuel oil expenditures in the industrial sector in million dollars.</td>
+    <td>Distillate fuel oil expenditures in the commercial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Expenditure.Commercial.Kerosene</td>
     <td>Float</td> 
-    <td>Kerosene expenditures in the industrial sector in million dollars.</td>
+    <td>Kerosene expenditures in the commercial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
-    <td>Expenditure.Commercial.Liquefied Petroleum Gases</td>
+    <td>Expenditure.Commercial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG expenditures in the industrial sector in million dollars.</td>
+    <td>All petroleum products total expenditures in the commercial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Expenditure.Commercial.Natural Gas</td>
     <td>Float</td> 
-    <td>Natural gas expenditures in the industrial sector (including supplemental gaseous fuels) in million dollars.</td>
+    <td>Natural gas expenditures in the commercial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -416,9 +409,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Expenditure.Industrial.Liquefied Petroleum Gases</td>
+    <td>Expenditure.Industrial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG expenditures in the industrial sector in million dollars.</td>
+    <td>All petroleum products total expenditures in the industrial sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -458,9 +451,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Expenditure.Residential.Liquefied Petroleum Gases</td>
+    <td>Expenditure.Residential.Petroleum</td>
     <td>Float</td> 
-    <td>LPG expenditures in the residential sector in million dollars.</td>
+    <td>All petroleum products total expenditures in the residential sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -493,9 +486,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Expenditure.Transportation.Liquefied Petroleum Gases</td>
+    <td>Expenditure.Transportation.Petroleum</td>
     <td>Float</td> 
-    <td>LPG expenditures in the transportation sector in million dollars.</td>
+    <td>All petroleum products total expenditures in the transportation sector in million dollars.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -528,9 +521,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Price.Commercial.Liquefied Petroleum Gases</td>
+    <td>Price.Commercial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG price in the commercial sector in dollars per million BTU.</td>
+    <td>All petroleum products average price in the commercial sector in dollars per million BTU.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -584,9 +577,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Price.Industrial.Liquefied Petroleum Gases</td>
+    <td>Price.Industrial.Petroleum</td>
     <td>Float</td> 
-    <td>LPG price in the industrial sector in dollars per million BTU.</td>
+    <td>All petroleum products average price in the industrial sector in dollars per million BTU.</td>
     <td><code>0.0</code></td>
 </tr>
 
@@ -619,9 +612,9 @@ United States Government reports on consumption, production, expenditures, and p
 </tr>
 
 <tr>
-    <td>Price.Transportation.Liquefied Petroleum Gases</td>
+    <td>Price.Transportation.Petroleum</td>
     <td>Float</td> 
-    <td>LPG price in the transportation sector in dollars per million BTU.</td>
+    <td>All petroleum products average price in the transportation sector in dollars per million BTU.</td>
     <td><code>0.0</code></td>
 </tr>
 

@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura and Melanie Sutphin</span><br>
-<span class='text-muted'>Version 1.0.0, created 11/14/2020</span><br>
+<span class='text-muted'>By Dennis Kafura, Melanie Sutphin, Joung Min Choi and Bo Guan</span><br>
+<span class='text-muted'>Version 2.0.0, created 10/22/2021</span><br>
 <span class='text-muted'>Tags: Covid, Covid-19, pandemic, infection, world health</span>
 
 # Overview
@@ -170,7 +170,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>5</code>
+                <code>14</code>
              
                 
              </td> 
@@ -182,7 +182,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>11</code>
+                <code>12</code>
              
                 
              </td> 
@@ -251,7 +251,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>121</code>
+                <code>746</code>
              
                 
              </td> 
@@ -287,7 +287,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3.74588377</code>
+                <code>9.01377925</code>
              
                 
              </td> 

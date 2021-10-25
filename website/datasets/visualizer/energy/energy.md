@@ -13,17 +13,17 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 11/1/2015</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/7/2021</span><br>
 <span class='text-muted'>Tags: energy, renewable, united states, us, nuclear, fossil fuels, power</span>
 
 # Overview
 
-United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2014. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
+United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2019. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
 
 
 
-<http://www.eia.gov/tools/faqs/>
+<https://www.eia.gov/state/seds/seds-data-complete.php>
 
 
 

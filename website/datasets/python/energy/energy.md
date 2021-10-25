@@ -14,24 +14,24 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 11/1/2015</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/7/2021</span><br>
 <span class='text-muted'>Tags: energy, renewable, united states, us, nuclear, fossil fuels, power</span>
 
 # Overview
 
-United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2014. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
+United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2019. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
 
 
 
-<http://www.eia.gov/tools/faqs/>
+<https://www.eia.gov/state/seds/seds-data-complete.php>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Reports on consumption, production, expenditures, and prices of various fuel sources for each state in a given year*.
 
 
 
@@ -90,7 +90,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"Utah"</code>
+                <code>"Alaska"</code>
              
                 
              </td> 
@@ -231,7 +231,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>114689.0</code>
+                <code>11263.0</code>
              
                 
              </td> 
@@ -413,7 +413,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2644.0</code>
+                <code>496.0</code>
              
                 
              </td> 
@@ -425,7 +425,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2110.0</code>
+                <code>1562.0</code>
              
                 
              </td> 
@@ -461,23 +461,23 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>33.0</code>
+                <code>0.0</code>
              
                 
              </td> 
              <td>Kerosene consumed by the commercial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>450.0</code>
+                <code>5230.0</code>
              
                 
              </td> 
-             <td>LPG consumed by the commercial sector in billion BTU.</td> </tr>
+             <td>All petroleum products consumed by the commercial sector in billion BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -485,7 +485,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>10482.0</code>
+                <code>0.0</code>
              
                 
              </td> 
@@ -521,7 +521,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>35.0</code>
+                <code>34.0</code>
              
                 
              </td> 
@@ -591,8 +591,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Consumption-Commercial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Consumption-Commercial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Consumption-Commercial-Petroleum").click(function() {
+        $( "#explore-Consumption-Commercial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -634,7 +634,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>12840.0</code>
+                <code>914.0</code>
              
                 
              </td> 
@@ -646,7 +646,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>67.0</code>
+                <code>554.0</code>
              
                 
              </td> 
@@ -658,7 +658,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3806.0</code>
+                <code>0.0</code>
              
                 
              </td> 
@@ -735,7 +735,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>70489.0</code>
+                <code>4980.0</code>
              
                 
              </td> 
@@ -747,7 +747,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>5768.0</code>
+                <code>5115.0</code>
              
                 
              </td> 
@@ -771,7 +771,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2.0</code>
+                <code>0.0</code>
              
                 
              </td> 
@@ -783,23 +783,23 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>167.0</code>
+                <code>511.0</code>
              
                 
              </td> 
              <td>Kerosene consumed by the industrial sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>515.0</code>
+                <code>7415.0</code>
              
                 
              </td> 
-             <td>LPG consumed by the industrial sector in billion BTU.</td> </tr>
+             <td>All petroleum products consumed by the industrial sector in billion BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -807,7 +807,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>34662.0</code>
+                <code>1856.0</code>
              
                 
              </td> 
@@ -819,7 +819,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>11571.0</code>
+                <code>0.0</code>
              
                 
              </td> 
@@ -855,11 +855,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>344.0</code>
+                <code>1840.0</code>
              
                 
              </td> 
-             <td>Wood and waste consumed in the industrial sector, total, in billion BTU.</td> </tr>
+             <td>Wood consumed in the industrial sector, total, in billion BTU.</td> </tr>
         
     </table>
 </div>
@@ -927,8 +927,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Consumption-Industrial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Consumption-Industrial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Consumption-Industrial-Petroleum").click(function() {
+        $( "#explore-Consumption-Industrial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -966,7 +966,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Consumption-Refinery' title='Dictionary (4 keys)'>
+<div id='explore-Consumption-Refinery' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -994,18 +994,6 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil consumed as refinery fuel in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.0</code>
-             
-                
-             </td> 
-             <td>LPG consumed as refinery fuel in billion BTU.</td> </tr>
-        
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
@@ -1020,8 +1008,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -1052,12 +1038,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Consumption-Refinery-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Consumption-Refinery-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Consumption-Refinery-Natural-Gas").click(function() {
         $( "#explore-Consumption-Refinery-Natural-Gas" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -1077,7 +1057,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3805.0</code>
+                <code>714.0</code>
              
                 
              </td> 
@@ -1089,7 +1069,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>580.0</code>
+                <code>5046.0</code>
              
                 
              </td> 
@@ -1113,19 +1093,19 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>5.0</code>
+                <code>0.0</code>
              
                 
              </td> 
              <td>Kerosene consumed by the residential sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>673.0</code>
+                <code>5137.0</code>
              
                 
              </td> 
@@ -1137,7 +1117,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>23398.0</code>
+                <code>176.0</code>
              
                 
              </td> 
@@ -1149,7 +1129,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1840.0</code>
+                <code>1806.0</code>
              
                 
              </td> 
@@ -1207,8 +1187,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Consumption-Residential-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Consumption-Residential-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Consumption-Residential-Petroleum").click(function() {
+        $( "#explore-Consumption-Residential-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1238,7 +1218,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1188.0</code>
+                <code>86.0</code>
              
                 
              </td> 
@@ -1250,23 +1230,23 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>13466.0</code>
+                <code>3077.0</code>
              
                 
              </td> 
              <td>Distillate fuel oil consumed by the transportation sector in billion BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>134.0</code>
+                <code>27051.0</code>
              
                 
              </td> 
-             <td>LPG consumed by the transportation sector in billion BTU.</td> </tr>
+             <td>All petroleum products consumed by the transportation sector in billion BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -1274,7 +1254,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>92.0</code>
+                <code>2.0</code>
              
                 
              </td> 
@@ -1314,8 +1294,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Consumption-Transportation-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Consumption-Transportation-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Consumption-Transportation-Petroleum").click(function() {
+        $( "#explore-Consumption-Transportation-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1464,7 +1444,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Coal expenditures in the industrial sector in million dollars.</td> </tr>
+             <td>Coal expenditures in the commercial sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Distillate Fuel Oil"</code></td>
              <td><span data-toggle="tooltip"
@@ -1476,7 +1456,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Distillate fuel oil expenditures in the industrial sector in million dollars.</td> </tr>
+             <td>Distillate fuel oil expenditures in the commercial sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Kerosene"</code></td>
              <td><span data-toggle="tooltip"
@@ -1488,9 +1468,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Kerosene expenditures in the industrial sector in million dollars.</td> </tr>
+             <td>Kerosene expenditures in the commercial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1500,7 +1480,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG expenditures in the industrial sector in million dollars.</td> </tr>
+             <td>All petroleum products total expenditures in the commercial sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -1512,7 +1492,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Natural gas expenditures in the industrial sector (including supplemental gaseous fuels) in million dollars.</td> </tr>
+             <td>Natural gas expenditures in the commercial sector in million dollars.</td> </tr>
         
     </table>
 </div>
@@ -1556,8 +1536,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Expenditure-Commercial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Expenditure-Commercial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Expenditure-Commercial-Petroleum").click(function() {
+        $( "#explore-Expenditure-Commercial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1692,7 +1672,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene expenditures in the industrial sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1702,7 +1682,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG expenditures in the industrial sector in million dollars.</td> </tr>
+             <td>All petroleum products total expenditures in the industrial sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -1772,8 +1752,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Expenditure-Industrial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Expenditure-Industrial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Expenditure-Industrial-Petroleum").click(function() {
+        $( "#explore-Expenditure-Industrial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1833,7 +1813,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene expenditures in the residential sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1843,7 +1823,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG expenditures in the residential sector in million dollars.</td> </tr>
+             <td>All petroleum products total expenditures in the residential sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -1913,8 +1893,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Expenditure-Residential-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Expenditure-Residential-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Expenditure-Residential-Petroleum").click(function() {
+        $( "#explore-Expenditure-Residential-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1962,7 +1942,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil expenditures in the transportation sector in million dollars.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1972,7 +1952,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG expenditures in the transportation sector in million dollars.</td> </tr>
+             <td>All petroleum products total expenditures in the transportation sector in million dollars.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -2020,8 +2000,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Expenditure-Transportation-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Expenditure-Transportation-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Expenditure-Transportation-Petroleum").click(function() {
+        $( "#explore-Expenditure-Transportation-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -2176,7 +2156,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene price in the commercial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2186,7 +2166,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG price in the commercial sector in dollars per million BTU.</td> </tr>
+             <td>All petroleum products average price in the commercial sector in dollars per million BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -2242,8 +2222,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Price-Commercial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Price-Commercial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Price-Commercial-Petroleum").click(function() {
+        $( "#explore-Price-Commercial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -2378,7 +2358,7 @@ $(document).ready(function() {
              </td> 
              <td>Kerosene price in the industrial sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2388,7 +2368,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG price in the industrial sector in dollars per million BTU.</td> </tr>
+             <td>All petroleum products average price in the industrial sector in dollars per million BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -2458,8 +2438,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Price-Industrial-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Price-Industrial-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Price-Industrial-Petroleum").click(function() {
+        $( "#explore-Price-Industrial-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -2507,7 +2487,7 @@ $(document).ready(function() {
              </td> 
              <td>Distillate fuel oil price in the transportation sector in dollars per million BTU.</td> </tr>
         
-        <tr> <td><code>"Liquefied Petroleum Gases"</code></td>
+        <tr> <td><code>"Petroleum"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2517,7 +2497,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>LPG price in the transportation sector in dollars per million BTU.</td> </tr>
+             <td>All petroleum products average price in the transportation sector in dollars per million BTU.</td> </tr>
         
         <tr> <td><code>"Natural Gas"</code></td>
              <td><span data-toggle="tooltip"
@@ -2565,8 +2545,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Price-Transportation-Liquefied-Petroleum-Gases").click(function() {
-        $( "#explore-Price-Transportation-Liquefied-Petroleum-Gases" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Price-Transportation-Petroleum").click(function() {
+        $( "#explore-Price-Transportation-Petroleum" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
