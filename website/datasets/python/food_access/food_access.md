@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 7/14/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/14/2021</span><br>
 <span class='text-muted'>Tags: counties, states, food, access, availability, supermarket, rural, urban, population, vehicles</span>
 
 # Overview
@@ -27,14 +27,14 @@ From the United States Department of Agriculture's Economic Research Service, th
 
 
 
-<http://www.ers.usda.gov/data-products/food-access-research-atlas.aspx>
+<https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Information about each state's ability to access food *.
 
 
 
@@ -83,7 +83,7 @@ $(document).ready(function() {
 </script>
 
 
-<div id='explore-' title='Dictionary (7 keys)'>
+<div id='explore-' title='Dictionary (6 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -93,11 +93,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"Abbeville"</code>
+                <code>"Autauga County"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>County name</td> </tr>
         
         <tr> <td><code>"Population"</code></td>
              <td><span data-toggle="tooltip"
@@ -105,11 +105,11 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>25417</code>
+                <code>54571</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Population count from 2010 census</td> </tr>
         
         <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
@@ -117,11 +117,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"SC"</code>
+                <code>"Alabama"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>State name</td> </tr>
         
         <tr> <td><code>"Housing Data"</code></td>
              <td><span data-toggle="tooltip"
@@ -159,22 +159,8 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Low Access Percents"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Low-Access-Percents'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
     </table>
 </div>
-
-    
 
     
 
@@ -235,16 +221,10 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Low-Access-Percents").click(function() {
-        $( "#explore-Low-Access-Percents" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-Housing-Data' title='Dictionary (4 keys)'>
+<div id='explore-Housing-Data' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -254,23 +234,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>901.0</code>
+                <code>455.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Rural Housing Percentage"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.8333333333333334</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Count of tract population residing in group quarters</td> </tr>
         
         <tr> <td><code>"Total Housing Units"</code></td>
              <td><span data-toggle="tooltip"
@@ -278,30 +246,14 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>9990</code>
+                <code>20221</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Urban Housing Percentage"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.16666666666666666</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Occupied housing unit count from 2010 census</td> </tr>
         
     </table>
 </div>
-
-    
-
-    
 
     
 
@@ -324,20 +276,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Housing-Data-Rural-Housing-Percentage").click(function() {
-        $( "#explore-Housing-Data-Rural-Housing-Percentage" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Housing-Data-Total-Housing-Units").click(function() {
         $( "#explore-Housing-Data-Total-Housing-Units" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Housing-Data-Urban-Housing-Percentage").click(function() {
-        $( "#explore-Housing-Data-Urban-Housing-Percentage" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -355,11 +295,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>604.3896701344104</code>
+                <code>834.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Housing units without vehicle count beyond 1 mile from supermarket</td> </tr>
         
         <tr> <td><code>"1/2 Mile"</code></td>
              <td><span data-toggle="tooltip"
@@ -367,11 +307,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>708.3472127265012</code>
+                <code>1045.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Housing units without vehicle count beyond 1/2 mile from supermarket</td> </tr>
         
         <tr> <td><code>"10 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -379,11 +319,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>167.4708853809094</code>
+                <code>222.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Housing units without vehicle count beyond 10 miles from supermarket</td> </tr>
         
         <tr> <td><code>"20 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -395,7 +335,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Housing units without vehicle count beyond 20 miles from supermarket</td> </tr>
         
     </table>
 </div>
@@ -557,11 +497,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>4961.140845190305</code>
+                <code>9973.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Kids population count beyond 1 mile from supermarket</td> </tr>
         
         <tr> <td><code>"1/2 Mile"</code></td>
              <td><span data-toggle="tooltip"
@@ -569,11 +509,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>5558.405559145558</code>
+                <code>13281.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Kids population count beyond 1/2 mile from supermarket</td> </tr>
         
         <tr> <td><code>"10 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -581,11 +521,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1114.804239934055</code>
+                <code>1199.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Kids population count beyond 10 miles from supermarket</td> </tr>
         
         <tr> <td><code>"20 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -597,7 +537,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Kids population count beyond 20 miles from supermarket</td> </tr>
         
     </table>
 </div>
@@ -658,11 +598,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>9451.794654001229</code>
+                <code>12067.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Low income population count beyond 1 mile from supermarket</td> </tr>
         
         <tr> <td><code>"1/2 Mile"</code></td>
              <td><span data-toggle="tooltip"
@@ -670,11 +610,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>10638.20831614762</code>
+                <code>15518.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Low income population count beyond 1/2 mile from supermarket</td> </tr>
         
         <tr> <td><code>"10 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -682,11 +622,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2422.056045769833</code>
+                <code>2307.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Low income population count beyond 10 miles from supermarket</td> </tr>
         
         <tr> <td><code>"20 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -698,7 +638,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Low income population count beyond 20 miles from supermarket</td> </tr>
         
     </table>
 </div>
@@ -759,11 +699,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>21510.19481699049</code>
+                <code>37424.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Population count beyond 1 mile from supermarket</td> </tr>
         
         <tr> <td><code>"1/2 Mile"</code></td>
              <td><span data-toggle="tooltip"
@@ -771,11 +711,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>24360.332249408973</code>
+                <code>49497.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Population count beyond 1/2 mile from supermarket</td> </tr>
         
         <tr> <td><code>"10 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -783,11 +723,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>5176.769348433789</code>
+                <code>5119.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Population count beyond 10 miles from supermarket</td> </tr>
         
         <tr> <td><code>"20 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -799,7 +739,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Population count beyond 20 miles from supermarket</td> </tr>
         
     </table>
 </div>
@@ -860,11 +800,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3409.212341643527</code>
+                <code>4393.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Seniors population count beyond 1 mile from supermarket</td> </tr>
         
         <tr> <td><code>"1/2 Mile"</code></td>
              <td><span data-toggle="tooltip"
@@ -872,11 +812,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3960.807730897649</code>
+                <code>5935.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Seniors population count beyond 1/2 mile from supermarket</td> </tr>
         
         <tr> <td><code>"10 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -884,11 +824,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>984.8604346295632</code>
+                <code>707.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Seniors population count beyond 10 miles from supermarket</td> </tr>
         
         <tr> <td><code>"20 Miles"</code></td>
              <td><span data-toggle="tooltip"
@@ -900,7 +840,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Seniors population count beyond 20 miles from supermarket</td> </tr>
         
     </table>
 </div>
@@ -944,189 +884,6 @@ $(document).ready(function() {
     
     $("#btn-explore-Low-Access-Numbers-Seniors-20-Miles").click(function() {
         $( "#explore-Low-Access-Numbers-Seniors-20-Miles" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Low-Access-Percents' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Low Access Only"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Low-Access-Percents-Low-Access-Only'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"Low Income and Low Access"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Low-Access-Percents-Low-Income-and-Low-Access'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Low-Access-Percents" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Low-Access-Percents-Low-Access-Only").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Access-Only" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Low-Access-Percents-Low-Income-and-Low-Access").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Income-and-Low-Access" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Low-Access-Percents-Low-Access-Only' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"1 and 20 Miles"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.16666666666666666</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"1/2 and 10 Miles"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.5</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Low-Access-Percents-Low-Access-Only" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Low-Access-Percents-Low-Access-Only-1-and-20-Miles").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Access-Only-1-and-20-Miles" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Low-Access-Percents-Low-Access-Only-1_2-and-10-Miles").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Access-Only-1_2-and-10-Miles" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Low-Access-Percents-Low-Income-and-Low-Access' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"1 and 20 Miles"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.16666666666666666</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"1/2 and 10 Miles"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.5</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Low-Access-Percents-Low-Income-and-Low-Access" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Low-Access-Percents-Low-Income-and-Low-Access-1-and-20-Miles").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Income-and-Low-Access-1-and-20-Miles" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Low-Access-Percents-Low-Income-and-Low-Access-1_2-and-10-Miles").click(function() {
-        $( "#explore-Low-Access-Percents-Low-Income-and-Low-Access-1_2-and-10-Miles" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

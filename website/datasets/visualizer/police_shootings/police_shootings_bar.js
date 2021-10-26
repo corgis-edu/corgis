@@ -1024,9 +1024,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/07/03": {
           "count": 4,
-          "sum": 146,
-          "average": 36.5,
-          "average w/o zero": 36.5
+          "sum": 145,
+          "average": 36.25,
+          "average w/o zero": 36.25
         },
         "2015/07/04": {
           "count": 4,
@@ -1348,9 +1348,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/08/29": {
           "count": 3,
-          "sum": 54,
-          "average": 18,
-          "average w/o zero": 27
+          "sum": 97,
+          "average": 32.333333333333336,
+          "average w/o zero": 32.333333333333336
         },
         "2015/08/30": {
           "count": 2,
@@ -1390,9 +1390,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/09/05": {
           "count": 4,
-          "sum": 116,
-          "average": 29,
-          "average w/o zero": 29
+          "sum": 115,
+          "average": 28.75,
+          "average w/o zero": 28.75
         },
         "2015/09/06": {
           "count": 3,
@@ -1462,9 +1462,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/09/17": {
           "count": 2,
-          "sum": 50,
-          "average": 25,
-          "average w/o zero": 50
+          "sum": 111,
+          "average": 55.5,
+          "average w/o zero": 55.5
         },
         "2015/09/18": {
           "count": 2,
@@ -1558,9 +1558,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/10/05": {
           "count": 4,
-          "sum": 146,
-          "average": 36.5,
-          "average w/o zero": 36.5
+          "sum": 145,
+          "average": 36.25,
+          "average w/o zero": 36.25
         },
         "2015/10/06": {
           "count": 1,
@@ -1954,9 +1954,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2015/12/16": {
           "count": 1,
-          "sum": 0,
-          "average": 0,
-          "average w/o zero": 0
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
         },
         "2015/12/17": {
           "count": 2,
@@ -1971,10 +1971,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 37.333333333333336
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 50,
-          "average": 25,
-          "average w/o zero": 25
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
         },
         "2015/12/20": {
           "count": 2,
@@ -2001,10 +2001,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 35
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 137,
-          "average": 34.25,
-          "average w/o zero": 34.25
+          "count": 5,
+          "sum": 155,
+          "average": 31,
+          "average w/o zero": 31
         },
         "2015/12/25": {
           "count": 1,
@@ -2271,10 +2271,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 50.4
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 110,
-          "average": 36.666666666666664,
-          "average w/o zero": 36.666666666666664
+          "count": 4,
+          "sum": 134,
+          "average": 33.5,
+          "average w/o zero": 33.5
         },
         "2016/02/12": {
           "count": 3,
@@ -2355,10 +2355,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 29.6
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 150,
-          "average": 37.5,
-          "average w/o zero": 37.5
+          "count": 3,
+          "sum": 131,
+          "average": 43.666666666666664,
+          "average w/o zero": 43.666666666666664
         },
         "2016/02/26": {
           "count": 2,
@@ -2872,9 +2872,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2016/05/26": {
           "count": 7,
-          "sum": 137,
-          "average": 19.571428571428573,
-          "average w/o zero": 27.4
+          "sum": 185,
+          "average": 26.428571428571427,
+          "average w/o zero": 30.833333333333332
         },
         "2016/05/27": {
           "count": 1,
@@ -3045,9 +3045,9 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 39.2
         },
         "2016/06/25": {
-          "count": 4,
+          "count": 3,
           "sum": 114,
-          "average": 28.5,
+          "average": 38,
           "average w/o zero": 38
         },
         "2016/06/26": {
@@ -3094,9 +3094,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2016/07/03": {
           "count": 3,
-          "sum": 59,
-          "average": 19.666666666666668,
-          "average w/o zero": 29.5
+          "sum": 83,
+          "average": 27.666666666666668,
+          "average w/o zero": 27.666666666666668
         },
         "2016/07/04": {
           "count": 4,
@@ -3525,10 +3525,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 44
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 215,
-          "average": 35.833333333333336,
-          "average w/o zero": 35.833333333333336
+          "count": 5,
+          "sum": 192,
+          "average": 38.4,
+          "average w/o zero": 38.4
         },
         "2016/09/21": {
           "count": 1,
@@ -3951,10 +3951,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 50.75
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 161,
-          "average": 32.2,
-          "average w/o zero": 32.2
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
         },
         "2016/12/08": {
           "count": 1,
@@ -4029,10 +4029,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 38.5
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 216,
+          "count": 7,
+          "sum": 189,
           "average": 27,
-          "average w/o zero": 30.857142857142858
+          "average w/o zero": 31.5
         },
         "2016/12/22": {
           "count": 1,
@@ -4047,10 +4047,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 43
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 119,
-          "average": 29.75,
-          "average w/o zero": 39.666666666666664
+          "count": 3,
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 50.5
         },
         "2016/12/25": {
           "count": 4,
@@ -4113,10 +4113,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 30.5
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 55,
-          "average": 27.5,
-          "average w/o zero": 27.5
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
         },
         "2017/01/07": {
           "count": 6,
@@ -4804,9 +4804,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2017/05/09": {
           "count": 6,
-          "sum": 190,
-          "average": 31.666666666666668,
-          "average w/o zero": 31.666666666666668
+          "sum": 189,
+          "average": 31.5,
+          "average w/o zero": 31.5
         },
         "2017/05/10": {
           "count": 3,
@@ -5104,9 +5104,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2017/06/30": {
           "count": 3,
-          "sum": 56,
-          "average": 18.666666666666668,
-          "average w/o zero": 28
+          "sum": 88,
+          "average": 29.333333333333332,
+          "average w/o zero": 29.333333333333332
         },
         "2017/07/01": {
           "count": 3,
@@ -5146,9 +5146,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2017/07/07": {
           "count": 3,
-          "sum": 79,
-          "average": 26.333333333333332,
-          "average w/o zero": 26.333333333333332
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
         },
         "2017/07/08": {
           "count": 3,
@@ -6531,10 +6531,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 61
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 56,
-          "average": 11.2,
-          "average w/o zero": 28
+          "count": 4,
+          "sum": 88,
+          "average": 22,
+          "average w/o zero": 29.333333333333332
         },
         "2018/03/09": {
           "count": 3,
@@ -6814,9 +6814,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2018/04/29": {
           "count": 4,
-          "sum": 111,
-          "average": 27.75,
-          "average w/o zero": 37
+          "sum": 153,
+          "average": 38.25,
+          "average w/o zero": 38.25
         },
         "2018/04/30": {
           "count": 2,
@@ -6886,9 +6886,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2018/05/11": {
           "count": 6,
-          "sum": 211,
-          "average": 35.166666666666664,
-          "average w/o zero": 42.2
+          "sum": 262,
+          "average": 43.666666666666664,
+          "average w/o zero": 43.666666666666664
         },
         "2018/05/12": {
           "count": 1,
@@ -6958,9 +6958,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2018/05/23": {
           "count": 3,
-          "sum": 56,
-          "average": 18.666666666666668,
-          "average w/o zero": 28
+          "sum": 76,
+          "average": 25.333333333333332,
+          "average w/o zero": 25.333333333333332
         },
         "2018/05/24": {
           "count": 2,
@@ -7204,9 +7204,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2018/07/11": {
           "count": 3,
-          "sum": 56,
-          "average": 18.666666666666668,
-          "average w/o zero": 28
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 33.666666666666664
         },
         "2018/07/13": {
           "count": 2,
@@ -7899,10 +7899,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 139,
-          "average": 46.333333333333336,
-          "average w/o zero": 46.333333333333336
+          "count": 2,
+          "sum": 106,
+          "average": 53,
+          "average w/o zero": 53
         },
         "2018/11/20": {
           "count": 2,
@@ -8151,16 +8151,16 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 48.6
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 78,
-          "average": 19.5,
-          "average w/o zero": 39
+          "count": 5,
+          "sum": 116,
+          "average": 23.2,
+          "average w/o zero": 38.666666666666664
         },
         "2019/01/07": {
           "count": 3,
-          "sum": 80,
-          "average": 26.666666666666668,
-          "average w/o zero": 40
+          "sum": 115,
+          "average": 38.333333333333336,
+          "average w/o zero": 38.333333333333336
         },
         "2019/01/08": {
           "count": 2,
@@ -8168,23 +8168,17 @@ VISUALIZER_DATA_BARS = [
           "average": 43,
           "average w/o zero": 43
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 20,
-          "average": 20,
-          "average w/o zero": 20
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 125,
-          "average": 41.666666666666664,
-          "average w/o zero": 41.666666666666664
+          "count": 2,
+          "sum": 99,
+          "average": 49.5,
+          "average w/o zero": 49.5
         },
         "2019/01/11": {
           "count": 5,
-          "sum": 69,
-          "average": 13.8,
-          "average w/o zero": 23
+          "sum": 95,
+          "average": 19,
+          "average w/o zero": 23.75
         },
         "2019/01/12": {
           "count": 2,
@@ -8206,15 +8200,15 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/01/15": {
           "count": 5,
-          "sum": 102,
-          "average": 20.4,
-          "average w/o zero": 25.5
+          "sum": 160,
+          "average": 32,
+          "average w/o zero": 32
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 195,
-          "average": 27.857142857142858,
-          "average w/o zero": 39
+          "count": 6,
+          "sum": 166,
+          "average": 27.666666666666668,
+          "average w/o zero": 41.5
         },
         "2019/01/18": {
           "count": 1,
@@ -8307,10 +8301,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 51.666666666666664
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 100,
-          "average": 33.333333333333336,
-          "average w/o zero": 33.333333333333336
+          "count": 2,
+          "sum": 53,
+          "average": 26.5,
+          "average w/o zero": 26.5
         },
         "2019/02/04": {
           "count": 2,
@@ -8325,10 +8319,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 31
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 136,
-          "average": 34,
-          "average w/o zero": 34
+          "count": 5,
+          "sum": 174,
+          "average": 34.8,
+          "average w/o zero": 34.8
         },
         "2019/02/07": {
           "count": 6,
@@ -8344,9 +8338,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/02/09": {
           "count": 4,
-          "sum": 110,
-          "average": 27.5,
-          "average w/o zero": 36.666666666666664
+          "sum": 131,
+          "average": 32.75,
+          "average w/o zero": 32.75
         },
         "2019/02/10": {
           "count": 2,
@@ -8374,9 +8368,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/02/14": {
           "count": 3,
-          "sum": 34,
-          "average": 11.333333333333334,
-          "average w/o zero": 34
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 40.5
         },
         "2019/02/15": {
           "count": 1,
@@ -8410,9 +8404,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/02/20": {
           "count": 2,
-          "sum": 39,
-          "average": 19.5,
-          "average w/o zero": 39
+          "sum": 65,
+          "average": 32.5,
+          "average w/o zero": 32.5
         },
         "2019/02/22": {
           "count": 5,
@@ -8464,9 +8458,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/03/02": {
           "count": 5,
-          "sum": 82,
-          "average": 16.4,
-          "average w/o zero": 41
+          "sum": 163,
+          "average": 32.6,
+          "average w/o zero": 40.75
         },
         "2019/03/03": {
           "count": 1,
@@ -8476,9 +8470,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/03/04": {
           "count": 5,
-          "sum": 143,
-          "average": 28.6,
-          "average w/o zero": 35.75
+          "sum": 165,
+          "average": 33,
+          "average w/o zero": 33
         },
         "2019/03/05": {
           "count": 6,
@@ -8494,9 +8488,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/03/07": {
           "count": 3,
-          "sum": 23,
-          "average": 7.666666666666667,
-          "average w/o zero": 23
+          "sum": 70,
+          "average": 23.333333333333332,
+          "average w/o zero": 35
         },
         "2019/03/08": {
           "count": 1,
@@ -8548,9 +8542,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/03/16": {
           "count": 3,
-          "sum": 179,
-          "average": 59.666666666666664,
-          "average w/o zero": 59.666666666666664
+          "sum": 178,
+          "average": 59.333333333333336,
+          "average w/o zero": 59.333333333333336
         },
         "2019/03/17": {
           "count": 1,
@@ -8565,10 +8559,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 36
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 103,
-          "average": 34.333333333333336,
-          "average w/o zero": 34.333333333333336
+          "count": 4,
+          "sum": 164,
+          "average": 41,
+          "average w/o zero": 41
         },
         "2019/03/20": {
           "count": 3,
@@ -8599,12 +8593,6 @@ VISUALIZER_DATA_BARS = [
           "sum": 101,
           "average": 25.25,
           "average w/o zero": 25.25
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 18,
-          "average": 18,
-          "average w/o zero": 18
         },
         "2019/03/27": {
           "count": 7,
@@ -8667,10 +8655,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 36
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 132,
-          "average": 33,
-          "average w/o zero": 33
+          "count": 3,
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 33.666666666666664
         },
         "2019/04/08": {
           "count": 1,
@@ -8715,10 +8703,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 48,
-          "average": 24,
-          "average w/o zero": 24
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
         },
         "2019/04/17": {
           "count": 2,
@@ -8733,10 +8721,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 37.333333333333336
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 111,
-          "average": 37,
-          "average w/o zero": 37
+          "count": 4,
+          "sum": 140,
+          "average": 35,
+          "average w/o zero": 35
         },
         "2019/04/21": {
           "count": 1,
@@ -8745,28 +8733,28 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 42
         },
         "2019/04/22": {
-          "count": 2,
-          "sum": 32,
-          "average": 16,
-          "average w/o zero": 32
+          "count": 3,
+          "sum": 128,
+          "average": 42.666666666666664,
+          "average w/o zero": 42.666666666666664
         },
         "2019/04/24": {
-          "count": 1,
-          "sum": 29,
+          "count": 2,
+          "sum": 58,
           "average": 29,
           "average w/o zero": 29
         },
         "2019/04/25": {
-          "count": 1,
-          "sum": 51,
-          "average": 51,
-          "average w/o zero": 51
+          "count": 2,
+          "sum": 74,
+          "average": 37,
+          "average w/o zero": 37
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 43,
-          "average": 43,
-          "average w/o zero": 43
+          "count": 2,
+          "sum": 66,
+          "average": 33,
+          "average w/o zero": 33
         },
         "2019/04/28": {
           "count": 2,
@@ -8799,16 +8787,16 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 55
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 62,
-          "average": 20.666666666666668,
-          "average w/o zero": 31
+          "count": 5,
+          "sum": 132,
+          "average": 26.4,
+          "average w/o zero": 33
         },
         "2019/05/05": {
           "count": 1,
-          "sum": 0,
-          "average": 0,
-          "average w/o zero": 0
+          "sum": 61,
+          "average": 61,
+          "average w/o zero": 61
         },
         "2019/05/06": {
           "count": 1,
@@ -8817,16 +8805,22 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 33
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 93,
-          "average": 46.5,
-          "average w/o zero": 46.5
+          "count": 3,
+          "sum": 125,
+          "average": 41.666666666666664,
+          "average w/o zero": 41.666666666666664
         },
         "2019/05/09": {
           "count": 4,
-          "sum": 109,
-          "average": 27.25,
-          "average w/o zero": 36.333333333333336
+          "sum": 140,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
         },
         "2019/05/11": {
           "count": 5,
@@ -8836,9 +8830,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2019/05/13": {
           "count": 3,
-          "sum": 90,
-          "average": 30,
-          "average w/o zero": 45
+          "sum": 126,
+          "average": 42,
+          "average w/o zero": 42
         },
         "2019/05/14": {
           "count": 1,
@@ -8847,10 +8841,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 54
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 43,
-          "average": 43,
-          "average w/o zero": 43
+          "count": 3,
+          "sum": 73,
+          "average": 24.333333333333332,
+          "average w/o zero": 36.5
         },
         "2019/05/16": {
           "count": 2,
@@ -8859,28 +8853,4714 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 58
         },
         "2019/05/17": {
+          "count": 3,
+          "sum": 115,
+          "average": 38.333333333333336,
+          "average w/o zero": 38.333333333333336
+        },
+        "2019/05/18": {
+          "count": 2,
+          "sum": 47,
+          "average": 23.5,
+          "average w/o zero": 23.5
+        },
+        "2019/05/19": {
+          "count": 5,
+          "sum": 214,
+          "average": 42.8,
+          "average w/o zero": 42.8
+        },
+        "2019/05/20": {
+          "count": 3,
+          "sum": 106,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 134,
+          "average": 26.8,
+          "average w/o zero": 33.5
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 125,
+          "average": 41.666666666666664,
+          "average w/o zero": 41.666666666666664
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 135,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 78,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 90,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 62,
+          "average": 62,
+          "average w/o zero": 62
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 112,
+          "average": 28,
+          "average w/o zero": 37.333333333333336
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 135,
+          "average": 33.75,
+          "average w/o zero": 33.75
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 166,
+          "average": 41.5,
+          "average w/o zero": 41.5
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 101,
+          "average": 50.5,
+          "average w/o zero": 50.5
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 121,
+          "average": 30.25,
+          "average w/o zero": 40.333333333333336
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 281,
+          "average": 35.125,
+          "average w/o zero": 40.142857142857146
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 46,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 72,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 131,
+          "average": 32.75,
+          "average w/o zero": 32.75
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 43,
+          "average": 14.333333333333334,
+          "average w/o zero": 21.5
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 236,
+          "average": 47.2,
+          "average w/o zero": 47.2
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 55,
+          "average": 27.5,
+          "average w/o zero": 27.5
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 39,
+          "average": 19.5,
+          "average w/o zero": 19.5
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 149,
+          "average": 24.833333333333332,
+          "average w/o zero": 29.8
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 132,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 77,
+          "average": 25.666666666666668,
+          "average w/o zero": 25.666666666666668
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 126,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 67,
+          "average": 33.5,
+          "average w/o zero": 33.5
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 114,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 39
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 82,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 281,
+          "average": 40.142857142857146,
+          "average w/o zero": 40.142857142857146
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 172,
+          "average": 34.4,
+          "average w/o zero": 43
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 122,
+          "average": 61,
+          "average w/o zero": 61
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 164,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 106,
+          "average": 26.5,
+          "average w/o zero": 35.333333333333336
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 205,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 81,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 167,
+          "average": 33.4,
+          "average w/o zero": 33.4
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 43,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 173,
+          "average": 43.25,
+          "average w/o zero": 43.25
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 121,
+          "average": 30.25,
+          "average w/o zero": 30.25
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 94,
+          "average": 47,
+          "average w/o zero": 47
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 65,
+          "average": 32.5,
+          "average w/o zero": 32.5
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 196,
+          "average": 49,
+          "average w/o zero": 49
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 246,
+          "average": 49.2,
+          "average w/o zero": 49.2
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 122,
+          "average": 40.666666666666664,
+          "average w/o zero": 40.666666666666664
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 207,
+          "average": 41.4,
+          "average w/o zero": 41.4
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 53,
+          "average": 26.5,
+          "average w/o zero": 53
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 96,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 38,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 146,
+          "average": 48.666666666666664,
+          "average w/o zero": 48.666666666666664
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 131,
+          "average": 65.5,
+          "average w/o zero": 65.5
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 199,
+          "average": 33.166666666666664,
+          "average w/o zero": 39.8
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 216,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 134,
+          "average": 44.666666666666664,
+          "average w/o zero": 44.666666666666664
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 143,
+          "average": 28.6,
+          "average w/o zero": 28.6
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 89,
+          "average": 44.5,
+          "average w/o zero": 44.5
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 292,
+          "average": 41.714285714285715,
+          "average w/o zero": 41.714285714285715
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 49,
+          "average": 49,
+          "average w/o zero": 49
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 79,
+          "average": 39.5,
+          "average w/o zero": 39.5
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 151,
+          "average": 37.75,
+          "average w/o zero": 50.333333333333336
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 102,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 46,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 87,
+          "average": 43.5,
+          "average w/o zero": 43.5
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 153,
+          "average": 30.6,
+          "average w/o zero": 38.25
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 86,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 26
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 114,
+          "average": 28.5,
+          "average w/o zero": 38
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 54
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 149,
+          "average": 37.25,
+          "average w/o zero": 37.25
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 171,
+          "average": 34.2,
+          "average w/o zero": 42.75
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 65,
+          "average": 32.5,
+          "average w/o zero": 32.5
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 52,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 33,
+          "average": 16.5,
+          "average w/o zero": 33
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 156,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 120,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 16,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 86,
+          "average": 21.5,
+          "average w/o zero": 43
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 166,
+          "average": 27.666666666666668,
+          "average w/o zero": 33.2
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 98,
+          "average": 49,
+          "average w/o zero": 49
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 95,
+          "average": 23.75,
+          "average w/o zero": 31.666666666666668
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 110,
+          "average": 36.666666666666664,
+          "average w/o zero": 36.666666666666664
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 144,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 136,
+          "average": 45.333333333333336,
+          "average w/o zero": 45.333333333333336
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 42,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 75,
+          "average": 37.5,
+          "average w/o zero": 37.5
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 115,
+          "average": 38.333333333333336,
+          "average w/o zero": 38.333333333333336
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 64,
+          "average": 21.333333333333332,
+          "average w/o zero": 32
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 102,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 194,
+          "average": 48.5,
+          "average w/o zero": 48.5
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 59,
+          "average": 19.666666666666668,
+          "average w/o zero": 29.5
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 123,
+          "average": 30.75,
+          "average w/o zero": 41
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 132,
+          "average": 33,
+          "average w/o zero": 44
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 169,
+          "average": 42.25,
+          "average w/o zero": 42.25
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 78,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 87,
+          "average": 43.5,
+          "average w/o zero": 43.5
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 74,
+          "average": 74,
+          "average w/o zero": 74
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 122,
+          "average": 40.666666666666664,
+          "average w/o zero": 40.666666666666664
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 171,
+          "average": 57,
+          "average w/o zero": 57
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 96,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 77,
+          "average": 19.25,
+          "average w/o zero": 38.5
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 31,
+          "average": 15.5,
+          "average w/o zero": 31
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 160,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 191,
+          "average": 47.75,
+          "average w/o zero": 47.75
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 85,
+          "average": 42.5,
+          "average w/o zero": 42.5
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 33,
+          "average": 33,
+          "average w/o zero": 33
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 189,
+          "average": 47.25,
+          "average w/o zero": 47.25
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 85,
+          "average": 42.5,
+          "average w/o zero": 42.5
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 113,
+          "average": 37.666666666666664,
+          "average w/o zero": 37.666666666666664
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 106,
+          "average": 53,
+          "average w/o zero": 53
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 115,
+          "average": 38.333333333333336,
+          "average w/o zero": 38.333333333333336
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 138,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 65,
+          "average": 21.666666666666668,
+          "average w/o zero": 21.666666666666668
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 146,
+          "average": 36.5,
+          "average w/o zero": 48.666666666666664
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 142,
+          "average": 28.4,
+          "average w/o zero": 28.4
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 49,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 114,
+          "average": 28.5,
+          "average w/o zero": 28.5
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 113,
+          "average": 37.666666666666664,
+          "average w/o zero": 37.666666666666664
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 146,
+          "average": 48.666666666666664,
+          "average w/o zero": 48.666666666666664
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 63,
+          "average": 31.5,
+          "average w/o zero": 31.5
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 133,
+          "average": 33.25,
+          "average w/o zero": 33.25
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 55,
+          "average": 55,
+          "average w/o zero": 55
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 244,
+          "average": 40.666666666666664,
+          "average w/o zero": 40.666666666666664
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 53,
+          "average": 53,
+          "average w/o zero": 53
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 168,
+          "average": 24,
+          "average w/o zero": 33.6
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 36
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 219,
+          "average": 43.8,
+          "average w/o zero": 43.8
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 153,
+          "average": 30.6,
+          "average w/o zero": 51
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 123,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 147,
+          "average": 36.75,
+          "average w/o zero": 36.75
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 88,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 83,
+          "average": 20.75,
+          "average w/o zero": 27.666666666666668
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 183,
+          "average": 45.75,
+          "average w/o zero": 45.75
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 122,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 161,
+          "average": 40.25,
+          "average w/o zero": 40.25
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 38,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 33.666666666666664
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 157,
+          "average": 39.25,
+          "average w/o zero": 39.25
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 69,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 64,
+          "average": 21.333333333333332,
+          "average w/o zero": 32
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 87,
+          "average": 43.5,
+          "average w/o zero": 43.5
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 30
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 68,
+          "average": 22.666666666666668,
+          "average w/o zero": 34
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 54,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 188,
+          "average": 31.333333333333332,
+          "average w/o zero": 37.6
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 166,
+          "average": 41.5,
+          "average w/o zero": 41.5
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 73,
+          "average": 36.5,
+          "average w/o zero": 36.5
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 34,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 64,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 99,
+          "average": 49.5,
+          "average w/o zero": 49.5
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 40,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 95,
+          "average": 31.666666666666668,
+          "average w/o zero": 31.666666666666668
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 200,
+          "average": 40,
+          "average w/o zero": 50
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 40,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 257,
+          "average": 42.833333333333336,
+          "average w/o zero": 42.833333333333336
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 105,
+          "average": 26.25,
+          "average w/o zero": 26.25
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 28.5
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 212,
+          "average": 42.4,
+          "average w/o zero": 42.4
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 100,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 51,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 47,
+          "average": 47,
+          "average w/o zero": 47
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 356,
+          "average": 44.5,
+          "average w/o zero": 44.5
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 99,
+          "average": 49.5,
+          "average w/o zero": 49.5
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 219,
+          "average": 31.285714285714285,
+          "average w/o zero": 31.285714285714285
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 147,
+          "average": 36.75,
+          "average w/o zero": 36.75
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 142,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 158,
+          "average": 31.6,
+          "average w/o zero": 39.5
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 201,
+          "average": 33.5,
+          "average w/o zero": 33.5
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 130,
+          "average": 43.333333333333336,
+          "average w/o zero": 43.333333333333336
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 180,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 104,
+          "average": 34.666666666666664,
+          "average w/o zero": 34.666666666666664
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 96,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 181,
+          "average": 60.333333333333336,
+          "average w/o zero": 60.333333333333336
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 82,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 101,
+          "average": 25.25,
+          "average w/o zero": 33.666666666666664
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 175,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 139,
+          "average": 34.75,
+          "average w/o zero": 46.333333333333336
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 31.333333333333332
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 194,
+          "average": 32.333333333333336,
+          "average w/o zero": 38.8
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 98,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 223,
+          "average": 37.166666666666664,
+          "average w/o zero": 37.166666666666664
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 199,
+          "average": 33.166666666666664,
+          "average w/o zero": 33.166666666666664
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 135,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 59,
+          "average": 59,
+          "average w/o zero": 59
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 189,
+          "average": 37.8,
+          "average w/o zero": 37.8
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 49,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 96,
+          "average": 32,
+          "average w/o zero": 48
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 130,
+          "average": 43.333333333333336,
+          "average w/o zero": 43.333333333333336
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 74,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 51,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 218,
+          "average": 43.6,
+          "average w/o zero": 43.6
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 120,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 43,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 168,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 158,
+          "average": 31.6,
+          "average w/o zero": 31.6
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 111,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 171,
+          "average": 28.5,
+          "average w/o zero": 28.5
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 93,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 53,
+          "average": 26.5,
+          "average w/o zero": 26.5
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 140,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 103,
+          "average": 34.333333333333336,
+          "average w/o zero": 34.333333333333336
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 86,
+          "average": 28.666666666666668,
+          "average w/o zero": 28.666666666666668
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 137,
+          "average": 34.25,
+          "average w/o zero": 34.25
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 118,
+          "average": 39.333333333333336,
+          "average w/o zero": 39.333333333333336
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 124,
+          "average": 41.333333333333336,
+          "average w/o zero": 41.333333333333336
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 56,
+          "average": 56,
+          "average w/o zero": 56
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 122,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 89,
+          "average": 44.5,
+          "average w/o zero": 44.5
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 111,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 113,
+          "average": 56.5,
+          "average w/o zero": 56.5
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 194,
+          "average": 38.8,
+          "average w/o zero": 38.8
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 114,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 84,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 164,
+          "average": 32.8,
+          "average w/o zero": 32.8
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 142,
+          "average": 35.5,
+          "average w/o zero": 47.333333333333336
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 16,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 138,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 38,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 96,
+          "average": 24,
+          "average w/o zero": 32
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 36,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 83,
+          "average": 83,
+          "average w/o zero": 83
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 75,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 214,
+          "average": 30.571428571428573,
+          "average w/o zero": 30.571428571428573
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 179,
+          "average": 29.833333333333332,
+          "average w/o zero": 35.8
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 139,
+          "average": 46.333333333333336,
+          "average w/o zero": 46.333333333333336
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 112,
+          "average": 22.4,
+          "average w/o zero": 28
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 107,
+          "average": 53.5,
+          "average w/o zero": 53.5
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 88,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 110,
+          "average": 55,
+          "average w/o zero": 55
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 56,
+          "average": 18.666666666666668,
+          "average w/o zero": 28
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 124,
+          "average": 24.8,
+          "average w/o zero": 31
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 303,
+          "average": 50.5,
+          "average w/o zero": 50.5
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 44,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 68,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 209,
+          "average": 34.833333333333336,
+          "average w/o zero": 41.8
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 191,
+          "average": 31.833333333333332,
+          "average w/o zero": 31.833333333333332
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 129,
+          "average": 32.25,
+          "average w/o zero": 32.25
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 208,
+          "average": 34.666666666666664,
+          "average w/o zero": 41.6
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 39,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 140,
+          "average": 46.666666666666664,
+          "average w/o zero": 46.666666666666664
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 111,
+          "average": 27.75,
+          "average w/o zero": 27.75
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 55,
+          "average": 55,
+          "average w/o zero": 55
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 96,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 142,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 72,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 87,
+          "average": 43.5,
+          "average w/o zero": 43.5
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 123,
+          "average": 30.75,
+          "average w/o zero": 41
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 95,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 82,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 147,
+          "average": 29.4,
+          "average w/o zero": 36.75
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 232,
+          "average": 46.4,
+          "average w/o zero": 46.4
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 227,
+          "average": 45.4,
+          "average w/o zero": 56.75
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 83,
+          "average": 41.5,
+          "average w/o zero": 41.5
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 212,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 31.333333333333332
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 33,
+          "average": 16.5,
+          "average w/o zero": 33
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 213,
+          "average": 42.6,
+          "average w/o zero": 42.6
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 91,
+          "average": 45.5,
+          "average w/o zero": 45.5
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 36
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 169,
+          "average": 42.25,
+          "average w/o zero": 42.25
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 131,
+          "average": 32.75,
+          "average w/o zero": 32.75
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 43,
+          "average": 21.5,
+          "average w/o zero": 43
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 31.333333333333332
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 68,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 51,
+          "average": 25.5,
+          "average w/o zero": 25.5
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 144,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 273,
+          "average": 45.5,
+          "average w/o zero": 45.5
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 61,
+          "average": 61,
+          "average w/o zero": 61
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 74,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 31.333333333333332
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 160,
+          "average": 22.857142857142858,
+          "average w/o zero": 26.666666666666668
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 347,
+          "average": 43.375,
+          "average w/o zero": 43.375
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 57,
+          "average": 28.5,
+          "average w/o zero": 28.5
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 193,
+          "average": 32.166666666666664,
+          "average w/o zero": 32.166666666666664
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 126,
+          "average": 31.5,
+          "average w/o zero": 31.5
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 122,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 95,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 261,
+          "average": 37.285714285714285,
+          "average w/o zero": 37.285714285714285
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 50,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 182,
+          "average": 36.4,
+          "average w/o zero": 36.4
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 106,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 113,
+          "average": 37.666666666666664,
+          "average w/o zero": 37.666666666666664
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 217,
+          "average": 43.4,
+          "average w/o zero": 43.4
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 68,
+          "average": 22.666666666666668,
+          "average w/o zero": 34
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 100,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 143,
+          "average": 35.75,
+          "average w/o zero": 35.75
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 96,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 177,
+          "average": 35.4,
+          "average w/o zero": 35.4
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 335,
+          "average": 37.22222222222222,
+          "average w/o zero": 41.875
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 276,
+          "average": 39.42857142857143,
+          "average w/o zero": 39.42857142857143
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 145,
+          "average": 36.25,
+          "average w/o zero": 36.25
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 211,
+          "average": 30.142857142857142,
+          "average w/o zero": 35.166666666666664
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 46,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 81,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 114,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 120,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 144,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 102,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 83,
+          "average": 27.666666666666668,
+          "average w/o zero": 27.666666666666668
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 100,
+          "average": 33.333333333333336,
+          "average w/o zero": 33.333333333333336
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 81,
+          "average": 81,
+          "average w/o zero": 81
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 128,
+          "average": 42.666666666666664,
+          "average w/o zero": 42.666666666666664
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 95,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 116,
+          "average": 38.666666666666664,
+          "average w/o zero": 38.666666666666664
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 94,
+          "average": 23.5,
+          "average w/o zero": 23.5
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 51,
+          "average": 25.5,
+          "average w/o zero": 25.5
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 129,
+          "average": 32.25,
+          "average w/o zero": 43
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 110,
+          "average": 27.5,
+          "average w/o zero": 27.5
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 49,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 35,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 161,
+          "average": 40.25,
+          "average w/o zero": 40.25
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 105,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 31,
+          "average": 15.5,
+          "average w/o zero": 31
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 95,
+          "average": 31.666666666666668,
+          "average w/o zero": 31.666666666666668
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 244,
+          "average": 40.666666666666664,
+          "average w/o zero": 40.666666666666664
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 68,
+          "average": 68,
+          "average w/o zero": 68
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 165,
+          "average": 41.25,
+          "average w/o zero": 41.25
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 34,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 63,
+          "average": 31.5,
+          "average w/o zero": 31.5
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 58,
+          "average": 58,
+          "average w/o zero": 58
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 45,
+          "average": 22.5,
+          "average w/o zero": 22.5
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 134,
+          "average": 44.666666666666664,
+          "average w/o zero": 44.666666666666664
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 75,
+          "average": 37.5,
+          "average w/o zero": 37.5
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 126,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 86,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 49,
+          "average": 49,
+          "average w/o zero": 49
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 111,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 49,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 111,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 90,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 144,
+          "average": 28.8,
+          "average w/o zero": 28.8
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 116,
+          "average": 38.666666666666664,
+          "average w/o zero": 38.666666666666664
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 35,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 84,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 86,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 51,
+          "average": 25.5,
+          "average w/o zero": 51
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 147,
+          "average": 36.75,
+          "average w/o zero": 49
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 83,
+          "average": 41.5,
+          "average w/o zero": 41.5
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 79,
+          "average": 39.5,
+          "average w/o zero": 39.5
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 125,
+          "average": 31.25,
+          "average w/o zero": 31.25
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 49,
+          "average": 24.5,
+          "average w/o zero": 49
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 56,
+          "average": 56,
+          "average w/o zero": 56
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 118,
+          "average": 39.333333333333336,
+          "average w/o zero": 39.333333333333336
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 34,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 216,
+          "average": 43.2,
+          "average w/o zero": 43.2
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 247,
+          "average": 41.166666666666664,
+          "average w/o zero": 41.166666666666664
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 164,
+          "average": 32.8,
+          "average w/o zero": 32.8
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 107,
+          "average": 35.666666666666664,
+          "average w/o zero": 35.666666666666664
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 205,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 96,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 39,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 230,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 159,
+          "average": 39.75,
+          "average w/o zero": 39.75
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 163,
+          "average": 40.75,
+          "average w/o zero": 40.75
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 120,
+          "average": 30,
+          "average w/o zero": 40
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 112,
+          "average": 37.333333333333336,
+          "average w/o zero": 37.333333333333336
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 64,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 47,
+          "average": 47,
+          "average w/o zero": 47
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 31,
+          "average": 15.5,
+          "average w/o zero": 31
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 147,
+          "average": 36.75,
+          "average w/o zero": 36.75
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 38,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 36,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 164,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 149,
+          "average": 37.25,
+          "average w/o zero": 37.25
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 50,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 138,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 117,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 143,
+          "average": 47.666666666666664,
+          "average w/o zero": 47.666666666666664
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 51,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 88,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 156,
+          "average": 31.2,
+          "average w/o zero": 39
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 88,
+          "average": 44,
+          "average w/o zero": 88
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 82,
+          "average": 27.333333333333332,
+          "average w/o zero": 41
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 219,
+          "average": 36.5,
+          "average w/o zero": 36.5
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 117,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 39,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 94,
+          "average": 23.5,
+          "average w/o zero": 31.333333333333332
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 74,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 42,
+          "average": 42,
+          "average w/o zero": 42
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 206,
+          "average": 41.2,
+          "average w/o zero": 41.2
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 43,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 57,
+          "average": 57,
+          "average w/o zero": 57
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 68,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 199,
+          "average": 39.8,
+          "average w/o zero": 39.8
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 122,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 47,
+          "average": 47,
+          "average w/o zero": 47
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 208,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 132,
+          "average": 33,
+          "average w/o zero": 33
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 105,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 63,
+          "average": 31.5,
+          "average w/o zero": 31.5
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 179,
+          "average": 29.833333333333332,
+          "average w/o zero": 29.833333333333332
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 95,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 155,
+          "average": 25.833333333333332,
+          "average w/o zero": 38.75
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 164,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 112,
+          "average": 28,
+          "average w/o zero": 37.333333333333336
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 165,
+          "average": 33,
+          "average w/o zero": 41.25
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 241,
+          "average": 34.42857142857143,
+          "average w/o zero": 40.166666666666664
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 206,
+          "average": 41.2,
+          "average w/o zero": 41.2
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 143,
+          "average": 20.428571428571427,
+          "average w/o zero": 35.75
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 87,
+          "average": 21.75,
+          "average w/o zero": 29
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 53,
+          "average": 53,
+          "average w/o zero": 53
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 118,
+          "average": 39.333333333333336,
+          "average w/o zero": 39.333333333333336
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 127,
+          "average": 31.75,
+          "average w/o zero": 31.75
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 51,
+          "average": 25.5,
+          "average w/o zero": 25.5
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 112,
+          "average": 37.333333333333336,
+          "average w/o zero": 37.333333333333336
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 137,
+          "average": 34.25,
+          "average w/o zero": 34.25
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 99,
+          "average": 33,
+          "average w/o zero": 33
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 228,
+          "average": 45.6,
+          "average w/o zero": 45.6
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 234,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 130,
+          "average": 32.5,
+          "average w/o zero": 32.5
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 133,
+          "average": 44.333333333333336,
+          "average w/o zero": 44.333333333333336
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 65,
+          "average": 21.666666666666668,
+          "average w/o zero": 21.666666666666668
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 136,
+          "average": 27.2,
+          "average w/o zero": 34
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 150,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/11/12": {
           "count": 2,
           "sum": 39,
           "average": 19.5,
           "average w/o zero": 39
         },
-        "2019/05/18": {
-          "count": 2,
-          "sum": 20,
-          "average": 10,
-          "average w/o zero": 20
+        "2020/11/13": {
+          "count": 6,
+          "sum": 163,
+          "average": 27.166666666666668,
+          "average w/o zero": 27.166666666666668
         },
-        "2019/05/19": {
+        "2020/11/14": {
+          "count": 3,
+          "sum": 144,
+          "average": 48,
+          "average w/o zero": 48
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 85,
+          "average": 28.333333333333332,
+          "average w/o zero": 42.5
+        },
+        "2020/11/16": {
           "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 203,
+          "average": 33.833333333333336,
+          "average w/o zero": 33.833333333333336
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 66,
+          "average": 66,
+          "average w/o zero": 66
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 133,
+          "average": 33.25,
+          "average w/o zero": 33.25
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 107,
+          "average": 35.666666666666664,
+          "average w/o zero": 35.666666666666664
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 134,
+          "average": 44.666666666666664,
+          "average w/o zero": 44.666666666666664
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 127,
+          "average": 31.75,
+          "average w/o zero": 42.333333333333336
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 78,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 93,
+          "average": 46.5,
+          "average w/o zero": 46.5
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 50.5
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 75,
+          "average": 37.5,
+          "average w/o zero": 37.5
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 99,
+          "average": 33,
+          "average w/o zero": 33
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 103,
+          "average": 34.333333333333336,
+          "average w/o zero": 34.333333333333336
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 82,
+          "average": 41,
+          "average w/o zero": 41
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 102,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 152,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 86,
+          "average": 28.666666666666668,
+          "average w/o zero": 43
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 93,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 100,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 31.333333333333332
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 328,
+          "average": 46.857142857142854,
+          "average w/o zero": 46.857142857142854
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 162,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 143,
+          "average": 35.75,
+          "average w/o zero": 35.75
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 80,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 28
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 63,
+          "average": 31.5,
+          "average w/o zero": 31.5
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 144,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 178,
+          "average": 44.5,
+          "average w/o zero": 44.5
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 32,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 34
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 50,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 64,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 78,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 106,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 40,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 251,
+          "average": 31.375,
+          "average w/o zero": 35.857142857142854
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 114,
+          "average": 22.8,
+          "average w/o zero": 22.8
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 139,
+          "average": 27.8,
+          "average w/o zero": 27.8
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 102,
+          "average": 51,
+          "average w/o zero": 51
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 55,
+          "average": 27.5,
+          "average w/o zero": 27.5
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 125,
+          "average": 41.666666666666664,
+          "average w/o zero": 41.666666666666664
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 28
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 136,
+          "average": 27.2,
+          "average w/o zero": 27.2
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 95,
+          "average": 31.666666666666668,
+          "average w/o zero": 31.666666666666668
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 40,
+          "average": 40,
+          "average w/o zero": 40
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 118,
+          "average": 39.333333333333336,
+          "average w/o zero": 39.333333333333336
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 206,
+          "average": 51.5,
+          "average w/o zero": 51.5
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 183,
+          "average": 36.6,
+          "average w/o zero": 36.6
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 125,
+          "average": 31.25,
+          "average w/o zero": 41.666666666666664
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 73,
+          "average": 36.5,
+          "average w/o zero": 36.5
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 99,
+          "average": 33,
+          "average w/o zero": 33
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 65,
+          "average": 65,
+          "average w/o zero": 65
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 49,
+          "average": 16.333333333333332,
+          "average w/o zero": 24.5
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 129,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 87,
+          "average": 43.5,
+          "average w/o zero": 43.5
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 94,
+          "average": 23.5,
+          "average w/o zero": 31.333333333333332
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 81,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 50,
+          "average": 50,
+          "average w/o zero": 50
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 146,
+          "average": 29.2,
+          "average w/o zero": 48.666666666666664
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 81,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 60,
+          "average": 60,
+          "average w/o zero": 60
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 61
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 169,
+          "average": 42.25,
+          "average w/o zero": 42.25
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 149,
+          "average": 49.666666666666664,
+          "average w/o zero": 49.666666666666664
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 71,
+          "average": 23.666666666666668,
+          "average w/o zero": 35.5
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 86,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 218,
+          "average": 31.142857142857142,
+          "average w/o zero": 31.142857142857142
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 104,
+          "average": 26,
+          "average w/o zero": 34.666666666666664
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 218,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 110,
+          "average": 36.666666666666664,
+          "average w/o zero": 36.666666666666664
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 72,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 227,
+          "average": 32.42857142857143,
+          "average w/o zero": 32.42857142857143
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 28
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 83,
+          "average": 41.5,
+          "average w/o zero": 41.5
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 113,
+          "average": 37.666666666666664,
+          "average w/o zero": 37.666666666666664
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 95,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 76,
+          "average": 38,
+          "average w/o zero": 38
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 192,
+          "average": 38.4,
+          "average w/o zero": 38.4
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 102,
+          "average": 25.5,
+          "average w/o zero": 34
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 39,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 22
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 173,
+          "average": 34.6,
+          "average w/o zero": 34.6
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 164,
+          "average": 32.8,
+          "average w/o zero": 32.8
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 138,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 46,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 41,
+          "average": 20.5,
+          "average w/o zero": 41
+        },
+        "2021/03/04": {
+          "count": 1,
           "sum": 17,
-          "average": 8.5,
+          "average": 17,
           "average w/o zero": 17
         },
-        "2019/05/20": {
+        "2021/03/05": {
           "count": 3,
-          "sum": 80,
-          "average": 26.666666666666668,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 43.5
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 78,
+          "average": 39,
+          "average w/o zero": 39
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 116,
+          "average": 38.666666666666664,
+          "average w/o zero": 38.666666666666664
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 81,
+          "average": 40.5,
+          "average w/o zero": 40.5
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 98,
+          "average": 32.666666666666664,
+          "average w/o zero": 32.666666666666664
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 49,
+          "average": 16.333333333333332,
+          "average w/o zero": 24.5
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 164,
+          "average": 32.8,
+          "average w/o zero": 32.8
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 62,
+          "average": 62,
+          "average w/o zero": 62
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 59,
+          "average": 29.5,
+          "average w/o zero": 29.5
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 115,
+          "average": 28.75,
+          "average w/o zero": 38.333333333333336
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 175,
+          "average": 58.333333333333336,
+          "average w/o zero": 58.333333333333336
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 29,
+          "average": 14.5,
+          "average w/o zero": 29
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 168,
+          "average": 56,
+          "average w/o zero": 56
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 104,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 69,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 104,
+          "average": 34.666666666666664,
+          "average w/o zero": 34.666666666666664
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 125,
+          "average": 31.25,
+          "average w/o zero": 31.25
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 104,
+          "average": 34.666666666666664,
+          "average w/o zero": 34.666666666666664
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 181,
+          "average": 36.2,
+          "average w/o zero": 36.2
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 143,
+          "average": 35.75,
+          "average w/o zero": 35.75
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 47,
+          "average": 9.4,
+          "average w/o zero": 23.5
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 142,
+          "average": 28.4,
+          "average w/o zero": 28.4
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 82,
+          "average": 27.333333333333332,
+          "average w/o zero": 27.333333333333332
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 89,
+          "average": 29.666666666666668,
+          "average w/o zero": 29.666666666666668
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 68,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 147,
+          "average": 36.75,
+          "average w/o zero": 36.75
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 136,
+          "average": 27.2,
+          "average w/o zero": 34
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 20,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 107,
+          "average": 26.75,
+          "average w/o zero": 26.75
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 177,
+          "average": 44.25,
+          "average w/o zero": 44.25
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 103,
+          "average": 34.333333333333336,
+          "average w/o zero": 34.333333333333336
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 102,
+          "average": 20.4,
+          "average w/o zero": 25.5
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 155,
+          "average": 38.75,
+          "average w/o zero": 38.75
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 167,
+          "average": 41.75,
+          "average w/o zero": 41.75
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 146,
+          "average": 36.5,
+          "average w/o zero": 36.5
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 132,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 119,
+          "average": 39.666666666666664,
+          "average w/o zero": 39.666666666666664
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 95,
+          "average": 31.666666666666668,
+          "average w/o zero": 31.666666666666668
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 20,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 21,
+          "average": 10.5,
+          "average w/o zero": 21
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 61,
+          "average": 30.5,
+          "average w/o zero": 30.5
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 143,
+          "average": 35.75,
+          "average w/o zero": 35.75
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 57,
+          "average": 57,
+          "average w/o zero": 57
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 113,
+          "average": 37.666666666666664,
+          "average w/o zero": 37.666666666666664
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 47,
+          "average": 47,
+          "average w/o zero": 47
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 52,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 144,
+          "average": 36,
+          "average w/o zero": 48
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 86,
+          "average": 43,
+          "average w/o zero": 43
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 57,
+          "average": 28.5,
+          "average w/o zero": 28.5
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 45,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 85,
+          "average": 21.25,
+          "average w/o zero": 28.333333333333332
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 122,
+          "average": 40.666666666666664,
+          "average w/o zero": 40.666666666666664
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 67,
+          "average": 33.5,
+          "average w/o zero": 33.5
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 123,
+          "average": 24.6,
+          "average w/o zero": 24.6
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 95,
+          "average": 31.666666666666668,
+          "average w/o zero": 31.666666666666668
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 106,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 23,
+          "average": 7.666666666666667,
+          "average w/o zero": 23
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 94,
+          "average": 31.333333333333332,
+          "average w/o zero": 47
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 205,
+          "average": 34.166666666666664,
+          "average w/o zero": 34.166666666666664
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 34,
+          "average": 34,
+          "average w/o zero": 34
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 118,
+          "average": 59,
+          "average w/o zero": 59
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 109,
+          "average": 36.333333333333336,
+          "average w/o zero": 36.333333333333336
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 182,
+          "average": 45.5,
+          "average w/o zero": 45.5
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 128,
+          "average": 32,
+          "average w/o zero": 42.666666666666664
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 85,
+          "average": 28.333333333333332,
+          "average w/o zero": 28.333333333333332
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 32,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 38.666666666666664
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 91,
+          "average": 30.333333333333332,
+          "average w/o zero": 30.333333333333332
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 209,
+          "average": 41.8,
+          "average w/o zero": 41.8
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 36,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 156,
+          "average": 52,
+          "average w/o zero": 52
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 70,
+          "average": 70,
+          "average w/o zero": 70
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 196,
+          "average": 49,
+          "average w/o zero": 49
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 132,
+          "average": 33,
+          "average w/o zero": 44
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 148,
+          "average": 24.666666666666668,
+          "average w/o zero": 37
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 35,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 67,
+          "average": 22.333333333333332,
+          "average w/o zero": 22.333333333333332
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 57,
+          "average": 28.5,
+          "average w/o zero": 28.5
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 125,
+          "average": 31.25,
+          "average w/o zero": 31.25
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 140,
+          "average": 28,
+          "average w/o zero": 35
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 338,
+          "average": 37.55555555555556,
+          "average w/o zero": 42.25
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 137,
+          "average": 27.4,
+          "average w/o zero": 45.666666666666664
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 93,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 59,
+          "average": 14.75,
+          "average w/o zero": 29.5
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 90,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 169,
+          "average": 42.25,
+          "average w/o zero": 42.25
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 54,
+          "average": 54,
+          "average w/o zero": 54
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 157,
+          "average": 31.4,
+          "average w/o zero": 39.25
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 117,
+          "average": 29.25,
+          "average w/o zero": 39
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 34
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 117,
+          "average": 39,
+          "average w/o zero": 58.5
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 37,
+          "average": 37,
+          "average w/o zero": 37
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 22
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 53,
+          "average": 26.5,
+          "average w/o zero": 26.5
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 136,
+          "average": 45.333333333333336,
+          "average w/o zero": 45.333333333333336
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 82,
+          "average": 20.5,
+          "average w/o zero": 27.333333333333332
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 35,
+          "average": 17.5,
+          "average w/o zero": 35
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 93,
+          "average": 46.5,
+          "average w/o zero": 46.5
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 85,
+          "average": 28.333333333333332,
+          "average w/o zero": 28.333333333333332
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 108,
+          "average": 36,
+          "average w/o zero": 36
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 38
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 39,
+          "average": 19.5,
+          "average w/o zero": 39
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 190,
+          "average": 47.5,
+          "average w/o zero": 47.5
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 31,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 44,
+          "average": 44,
+          "average w/o zero": 44
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 70,
+          "average": 35,
+          "average w/o zero": 35
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 120,
+          "average": 40,
           "average w/o zero": 40
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 21,
+          "average": 10.5,
+          "average w/o zero": 21
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 128,
+          "average": 32,
+          "average w/o zero": 32
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 71,
+          "average": 35.5,
+          "average w/o zero": 35.5
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 40,
+          "average": 13.333333333333334,
+          "average w/o zero": 40
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 111,
+          "average": 55.5,
+          "average w/o zero": 55.5
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 92,
+          "average": 46,
+          "average w/o zero": 46
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 141,
+          "average": 28.2,
+          "average w/o zero": 35.25
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 73,
+          "average": 73,
+          "average w/o zero": 73
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 153,
+          "average": 38.25,
+          "average w/o zero": 51
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 34.5
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 69,
+          "average": 34.5,
+          "average w/o zero": 34.5
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 213,
+          "average": 42.6,
+          "average w/o zero": 42.6
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 26
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 73,
+          "average": 36.5,
+          "average w/o zero": 36.5
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 90,
+          "average": 45,
+          "average w/o zero": 45
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 77,
+          "average": 38.5,
+          "average w/o zero": 38.5
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 101,
+          "average": 33.666666666666664,
+          "average w/o zero": 33.666666666666664
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 201,
+          "average": 33.5,
+          "average w/o zero": 33.5
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 106,
+          "average": 35.333333333333336,
+          "average w/o zero": 35.333333333333336
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 124,
+          "average": 41.333333333333336,
+          "average w/o zero": 41.333333333333336
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 40
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 230,
+          "average": 46,
+          "average w/o zero": 57.5
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 79,
+          "average": 39.5,
+          "average w/o zero": 39.5
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 59,
+          "average": 29.5,
+          "average w/o zero": 29.5
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 251,
+          "average": 41.833333333333336,
+          "average w/o zero": 41.833333333333336
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 146,
+          "average": 36.5,
+          "average w/o zero": 48.666666666666664
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 42
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 30,
+          "average": 15,
+          "average w/o zero": 30
         }
       },
       "Incident.Date.Month": {
@@ -10853,8 +15533,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 12
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 24,
+          "count": 1,
+          "sum": 12,
           "average": 12,
           "average w/o zero": 12
         },
@@ -10883,8 +15563,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 12
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 48,
+          "count": 5,
+          "sum": 60,
           "average": 12,
           "average w/o zero": 12
         },
@@ -11153,8 +15833,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 6,
+          "count": 4,
+          "sum": 8,
           "average": 2,
           "average w/o zero": 2
         },
@@ -11237,8 +15917,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 8,
+          "count": 3,
+          "sum": 6,
           "average": 2,
           "average w/o zero": 2
         },
@@ -11927,8 +16607,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 6
         },
         "2016/06/25": {
-          "count": 4,
-          "sum": 24,
+          "count": 3,
+          "sum": 18,
           "average": 6,
           "average w/o zero": 6
         },
@@ -12407,8 +17087,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 9
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 54,
+          "count": 5,
+          "sum": 45,
           "average": 9,
           "average w/o zero": 9
         },
@@ -12833,8 +17513,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 12
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 60,
+          "count": 4,
+          "sum": 48,
           "average": 12,
           "average w/o zero": 12
         },
@@ -12911,8 +17591,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 12
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 96,
+          "count": 7,
+          "sum": 84,
           "average": 12,
           "average w/o zero": 12
         },
@@ -12929,8 +17609,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 12
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 48,
+          "count": 3,
+          "sum": 36,
           "average": 12,
           "average w/o zero": 12
         },
@@ -12995,8 +17675,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 2,
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -15413,8 +20093,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 3
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 15,
+          "count": 4,
+          "sum": 12,
           "average": 3,
           "average w/o zero": 3
         },
@@ -16781,8 +21461,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 11
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 33,
+          "count": 2,
+          "sum": 22,
           "average": 11,
           "average w/o zero": 11
         },
@@ -17033,8 +21713,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -17050,15 +21730,9 @@ VISUALIZER_DATA_BARS = [
           "average": 1,
           "average w/o zero": 1
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -17093,8 +21767,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 7,
+          "count": 6,
+          "sum": 6,
           "average": 1,
           "average w/o zero": 1
         },
@@ -17189,8 +21863,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 6,
+          "count": 2,
+          "sum": 4,
           "average": 2,
           "average w/o zero": 2
         },
@@ -17207,8 +21881,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 8,
+          "count": 5,
+          "sum": 10,
           "average": 2,
           "average w/o zero": 2
         },
@@ -17447,8 +22121,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 3
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 9,
+          "count": 4,
+          "sum": 12,
           "average": 3,
           "average w/o zero": 3
         },
@@ -17479,12 +22153,6 @@ VISUALIZER_DATA_BARS = [
         "2019/03/25": {
           "count": 4,
           "sum": 12,
-          "average": 3,
-          "average w/o zero": 3
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 3,
           "average": 3,
           "average w/o zero": 3
         },
@@ -17549,8 +22217,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 4
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 16,
+          "count": 3,
+          "sum": 12,
           "average": 4,
           "average w/o zero": 4
         },
@@ -17597,8 +22265,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 4
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 8,
+          "count": 3,
+          "sum": 12,
           "average": 4,
           "average w/o zero": 4
         },
@@ -17615,8 +22283,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 4
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 12,
+          "count": 4,
+          "sum": 16,
           "average": 4,
           "average w/o zero": 4
         },
@@ -17627,26 +22295,26 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 4
         },
         "2019/04/22": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/04/24": {
           "count": 2,
           "sum": 8,
           "average": 4,
           "average w/o zero": 4
         },
-        "2019/04/24": {
-          "count": 1,
-          "sum": 4,
-          "average": 4,
-          "average w/o zero": 4
-        },
         "2019/04/25": {
-          "count": 1,
-          "sum": 4,
+          "count": 2,
+          "sum": 8,
           "average": 4,
           "average w/o zero": 4
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 4,
+          "count": 2,
+          "sum": 8,
           "average": 4,
           "average w/o zero": 4
         },
@@ -17681,8 +22349,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 15,
+          "count": 5,
+          "sum": 25,
           "average": 5,
           "average w/o zero": 5
         },
@@ -17699,14 +22367,20 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 10,
+          "count": 3,
+          "sum": 15,
           "average": 5,
           "average w/o zero": 5
         },
         "2019/05/09": {
           "count": 4,
           "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 5,
           "average": 5,
           "average w/o zero": 5
         },
@@ -17729,8 +22403,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 5,
+          "count": 3,
+          "sum": 15,
           "average": 5,
           "average w/o zero": 5
         },
@@ -17741,8 +22415,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/05/17": {
-          "count": 2,
-          "sum": 10,
+          "count": 3,
+          "sum": 15,
           "average": 5,
           "average w/o zero": 5
         },
@@ -17753,8 +22427,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/05/19": {
-          "count": 2,
-          "sum": 10,
+          "count": 5,
+          "sum": 25,
           "average": 5,
           "average w/o zero": 5
         },
@@ -17763,6 +22437,4692 @@ VISUALIZER_DATA_BARS = [
           "sum": 15,
           "average": 5,
           "average w/o zero": 5
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 48,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 36,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 42,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 42,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 48,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 56,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 48,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 45,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 60,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 70,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 66,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 72,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 60,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 96,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 84,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 60,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 72,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 60,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 72,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 14,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 12,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 18,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 18,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 18,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 18,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 24,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 24,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 35,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 40,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 30,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 35,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 45,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 35,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 35,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 36,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 48,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 45,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 54,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 45,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 60,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 60,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 70,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 70,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 40,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 66,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/12": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/13": {
+          "count": 6,
+          "sum": 66,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/14": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/16": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 66,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 84,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 96,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 60,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 60,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 14,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 12,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 14,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/04": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/05": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 30,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 36,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 54,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 48,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 54,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
         }
       },
       "Incident.Date.Day": {
@@ -19735,8 +29095,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 38,
+          "count": 1,
+          "sum": 19,
           "average": 19,
           "average w/o zero": 19
         },
@@ -19765,8 +29125,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 23
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 96,
+          "count": 5,
+          "sum": 120,
           "average": 24,
           "average w/o zero": 24
         },
@@ -20035,8 +29395,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 10
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 33,
+          "count": 4,
+          "sum": 44,
           "average": 11,
           "average w/o zero": 11
         },
@@ -20119,8 +29479,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 24
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 100,
+          "count": 3,
+          "sum": 75,
           "average": 25,
           "average w/o zero": 25
         },
@@ -20809,8 +30169,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 24
         },
         "2016/06/25": {
-          "count": 4,
-          "sum": 100,
+          "count": 3,
+          "sum": 75,
           "average": 25,
           "average w/o zero": 25
         },
@@ -21289,8 +30649,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 19
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 120,
+          "count": 5,
+          "sum": 100,
           "average": 20,
           "average w/o zero": 20
         },
@@ -21715,8 +31075,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 6
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 35,
+          "count": 4,
+          "sum": 28,
           "average": 7,
           "average w/o zero": 7
         },
@@ -21793,8 +31153,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 20
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 168,
+          "count": 7,
+          "sum": 147,
           "average": 21,
           "average w/o zero": 21
         },
@@ -21811,8 +31171,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 23
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 96,
+          "count": 3,
+          "sum": 72,
           "average": 24,
           "average w/o zero": 24
         },
@@ -21877,8 +31237,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 12,
+          "count": 1,
+          "sum": 6,
           "average": 6,
           "average w/o zero": 6
         },
@@ -24295,8 +33655,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 7
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 40,
+          "count": 4,
+          "sum": 32,
           "average": 8,
           "average w/o zero": 8
         },
@@ -25663,8 +35023,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 57,
+          "count": 2,
+          "sum": 38,
           "average": 19,
           "average w/o zero": 19
         },
@@ -25915,8 +35275,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 24,
+          "count": 5,
+          "sum": 30,
           "average": 6,
           "average w/o zero": 6
         },
@@ -25932,15 +35292,9 @@ VISUALIZER_DATA_BARS = [
           "average": 8,
           "average w/o zero": 8
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 9,
-          "average": 9,
-          "average w/o zero": 9
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 30,
+          "count": 2,
+          "sum": 20,
           "average": 10,
           "average w/o zero": 10
         },
@@ -25975,8 +35329,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 15
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 112,
+          "count": 6,
+          "sum": 96,
           "average": 16,
           "average w/o zero": 16
         },
@@ -26071,8 +35425,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 9,
+          "count": 2,
+          "sum": 6,
           "average": 3,
           "average w/o zero": 3
         },
@@ -26089,8 +35443,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 24,
+          "count": 5,
+          "sum": 30,
           "average": 6,
           "average w/o zero": 6
         },
@@ -26329,8 +35683,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 57,
+          "count": 4,
+          "sum": 76,
           "average": 19,
           "average w/o zero": 19
         },
@@ -26363,12 +35717,6 @@ VISUALIZER_DATA_BARS = [
           "sum": 100,
           "average": 25,
           "average w/o zero": 25
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 26,
-          "average": 26,
-          "average w/o zero": 26
         },
         "2019/03/27": {
           "count": 7,
@@ -26431,8 +35779,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 6
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 28,
+          "count": 3,
+          "sum": 21,
           "average": 7,
           "average w/o zero": 7
         },
@@ -26479,8 +35827,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 15
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 32,
+          "count": 3,
+          "sum": 48,
           "average": 16,
           "average w/o zero": 16
         },
@@ -26497,8 +35845,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 60,
+          "count": 4,
+          "sum": 80,
           "average": 20,
           "average w/o zero": 20
         },
@@ -26509,26 +35857,26 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 21
         },
         "2019/04/22": {
-          "count": 2,
-          "sum": 44,
+          "count": 3,
+          "sum": 66,
           "average": 22,
           "average w/o zero": 22
         },
         "2019/04/24": {
-          "count": 1,
-          "sum": 24,
+          "count": 2,
+          "sum": 48,
           "average": 24,
           "average w/o zero": 24
         },
         "2019/04/25": {
-          "count": 1,
-          "sum": 25,
+          "count": 2,
+          "sum": 50,
           "average": 25,
           "average w/o zero": 25
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 26,
+          "count": 2,
+          "sum": 52,
           "average": 26,
           "average w/o zero": 26
         },
@@ -26563,8 +35911,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 12,
+          "count": 5,
+          "sum": 20,
           "average": 4,
           "average w/o zero": 4
         },
@@ -26581,8 +35929,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 6
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 14,
+          "count": 3,
+          "sum": 21,
           "average": 7,
           "average w/o zero": 7
         },
@@ -26591,6 +35939,12 @@ VISUALIZER_DATA_BARS = [
           "sum": 36,
           "average": 9,
           "average w/o zero": 9
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
         },
         "2019/05/11": {
           "count": 5,
@@ -26611,8 +35965,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 14
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 15,
+          "count": 3,
+          "sum": 45,
           "average": 15,
           "average w/o zero": 15
         },
@@ -26623,8 +35977,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 16
         },
         "2019/05/17": {
-          "count": 2,
-          "sum": 34,
+          "count": 3,
+          "sum": 51,
           "average": 17,
           "average w/o zero": 17
         },
@@ -26635,8 +35989,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18
         },
         "2019/05/19": {
-          "count": 2,
-          "sum": 38,
+          "count": 5,
+          "sum": 95,
           "average": 19,
           "average w/o zero": 19
         },
@@ -26645,6 +35999,4692 @@ VISUALIZER_DATA_BARS = [
           "sum": 60,
           "average": 20,
           "average w/o zero": 20
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 110,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 54,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 120,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 48,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 14,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 90,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 51,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 75,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 189,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 140,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 52,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 42,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 30,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 80,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 51,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 90,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 186,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 35,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 65,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 110,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 120,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 186,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 64,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 72,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 104,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 145,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 39,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 75,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 138,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 175,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 135,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 150,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 93,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 39,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 114,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 80,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 145,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 8,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 80,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 84,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 60,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 85,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 114,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 66,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 140,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 186,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 12,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 30,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 45,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 14,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 75,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 17,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 80,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 105,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 66,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 138,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 120,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 45,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 65,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 64,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 175,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 156,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 30,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 48,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 78,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 84,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 60,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 96,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 17,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 80,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 96,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 155,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 42,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 14,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 60,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 64,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 88,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 144,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 54,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 24,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 30,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 28,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 63,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 13,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 70,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 51,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 95,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 92,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 125,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 234,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 189,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 112,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 203,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 12,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 10,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 52,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 72,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 20,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 88,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 100,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 162,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 70,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 30,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 96,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 42,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 40,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 13,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 75,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 64,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 76,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 63,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 100,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 13,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 17,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 108,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 20,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 120,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 5,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 84,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 30,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 96,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 72,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 95,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 140,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 110,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 161,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 96,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 84,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 24,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 33,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/11/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2020/11/13": {
+          "count": 6,
+          "sum": 78,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/11/14": {
+          "count": 3,
+          "sum": 42,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/11/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 102,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 18,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 76,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 63,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 88,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 70,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 52,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 30,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 72,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 19,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 75,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 224,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 145,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 150,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 4,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 25,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 44,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 16,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 51,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 130,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 54,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 28,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 36,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 77,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 28,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 100,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 84,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 125,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 130,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 56,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 6,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/03/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/03/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 27,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 36,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 39,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 70,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 54,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 21,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 48,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 75,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 104,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 28,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 87,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 155,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 10,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 15,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 18,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 8,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 36,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 50,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 48,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 52,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 42,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 75,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 64,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 76,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 63,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 22,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 69,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 27,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 60,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 2,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 12,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 6,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 32,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 34,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 90,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 63,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 66,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 138,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 25,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 90,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 124,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 6,
+          "average": 2,
+          "average w/o zero": 2
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 3,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 16,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 15,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 35,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 16,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 9,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 30,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 11,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 39,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 60,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 96,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 17,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 57,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 88,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 115,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 216,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 125,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 26,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 112,
+          "average": 28,
+          "average w/o zero": 28
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 58,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 120,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 20,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 14,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 24,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 26,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 14,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 15,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 48,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 68,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 36,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 60,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 66,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 23,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 24,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 50,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 52,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 108,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 29,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 30,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 9,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 8,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 20,
+          "average": 5,
+          "average w/o zero": 5
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 12,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 7,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 24,
+          "average": 8,
+          "average w/o zero": 8
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 18,
+          "average": 9,
+          "average w/o zero": 9
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 20,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 55,
+          "average": 11,
+          "average w/o zero": 11
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 12,
+          "average": 12,
+          "average w/o zero": 12
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 13,
+          "average": 13,
+          "average w/o zero": 13
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 56,
+          "average": 14,
+          "average w/o zero": 14
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 45,
+          "average": 15,
+          "average w/o zero": 15
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 32,
+          "average": 16,
+          "average w/o zero": 16
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 17,
+          "average": 17,
+          "average w/o zero": 17
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 90,
+          "average": 18,
+          "average w/o zero": 18
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 38,
+          "average": 19,
+          "average w/o zero": 19
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 40,
+          "average": 20,
+          "average w/o zero": 20
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 42,
+          "average": 21,
+          "average w/o zero": 21
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 44,
+          "average": 22,
+          "average w/o zero": 22
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 46,
+          "average": 23,
+          "average w/o zero": 23
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 72,
+          "average": 24,
+          "average w/o zero": 24
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 150,
+          "average": 25,
+          "average w/o zero": 25
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 78,
+          "average": 26,
+          "average w/o zero": 26
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 81,
+          "average": 27,
+          "average w/o zero": 27
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 116,
+          "average": 29,
+          "average w/o zero": 29
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 150,
+          "average": 30,
+          "average w/o zero": 30
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 62,
+          "average": 31,
+          "average w/o zero": 31
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 18,
+          "average": 3,
+          "average w/o zero": 3
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 4,
+          "average": 4,
+          "average w/o zero": 4
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 24,
+          "average": 6,
+          "average w/o zero": 6
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 21,
+          "average": 7,
+          "average w/o zero": 7
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 10,
+          "average": 10,
+          "average w/o zero": 10
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 22,
+          "average": 11,
+          "average w/o zero": 11
         }
       },
       "Incident.Date.Year": {
@@ -28617,8 +42657,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2015
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 4030,
+          "count": 1,
+          "sum": 2015,
           "average": 2015,
           "average w/o zero": 2015
         },
@@ -28647,8 +42687,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2015
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 8060,
+          "count": 5,
+          "sum": 10075,
           "average": 2015,
           "average w/o zero": 2015
         },
@@ -28917,8 +42957,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 6048,
+          "count": 4,
+          "sum": 8064,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -29001,8 +43041,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 8064,
+          "count": 3,
+          "sum": 6048,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -29691,8 +43731,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/06/25": {
-          "count": 4,
-          "sum": 8064,
+          "count": 3,
+          "sum": 6048,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -30171,8 +44211,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 12096,
+          "count": 5,
+          "sum": 10080,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -30597,8 +44637,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 10080,
+          "count": 4,
+          "sum": 8064,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -30675,8 +44715,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 16128,
+          "count": 7,
+          "sum": 14112,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -30693,8 +44733,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2016
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 8064,
+          "count": 3,
+          "sum": 6048,
           "average": 2016,
           "average w/o zero": 2016
         },
@@ -30759,8 +44799,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2017
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 4034,
+          "count": 1,
+          "sum": 2017,
           "average": 2017,
           "average w/o zero": 2017
         },
@@ -33177,8 +47217,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2018
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 10090,
+          "count": 4,
+          "sum": 8072,
           "average": 2018,
           "average w/o zero": 2018
         },
@@ -34545,8 +48585,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2018
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 6054,
+          "count": 2,
+          "sum": 4036,
           "average": 2018,
           "average w/o zero": 2018
         },
@@ -34797,8 +48837,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 8076,
+          "count": 5,
+          "sum": 10095,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -34814,15 +48854,9 @@ VISUALIZER_DATA_BARS = [
           "average": 2019,
           "average w/o zero": 2019
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 2019,
-          "average": 2019,
-          "average w/o zero": 2019
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 6057,
+          "count": 2,
+          "sum": 4038,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -34857,8 +48891,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 14133,
+          "count": 6,
+          "sum": 12114,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -34953,8 +48987,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 6057,
+          "count": 2,
+          "sum": 4038,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -34971,8 +49005,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 8076,
+          "count": 5,
+          "sum": 10095,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35211,8 +49245,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 6057,
+          "count": 4,
+          "sum": 8076,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35243,12 +49277,6 @@ VISUALIZER_DATA_BARS = [
         "2019/03/25": {
           "count": 4,
           "sum": 8076,
-          "average": 2019,
-          "average w/o zero": 2019
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 2019,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35313,8 +49341,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 8076,
+          "count": 3,
+          "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35361,8 +49389,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 4038,
+          "count": 3,
+          "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35379,8 +49407,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 6057,
+          "count": 4,
+          "sum": 8076,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35391,26 +49419,26 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/04/22": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/04/24": {
           "count": 2,
           "sum": 4038,
           "average": 2019,
           "average w/o zero": 2019
         },
-        "2019/04/24": {
-          "count": 1,
-          "sum": 2019,
-          "average": 2019,
-          "average w/o zero": 2019
-        },
         "2019/04/25": {
-          "count": 1,
-          "sum": 2019,
+          "count": 2,
+          "sum": 4038,
           "average": 2019,
           "average w/o zero": 2019
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 2019,
+          "count": 2,
+          "sum": 4038,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35445,8 +49473,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 6057,
+          "count": 5,
+          "sum": 10095,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35463,14 +49491,20 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 4038,
+          "count": 3,
+          "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
         },
         "2019/05/09": {
           "count": 4,
           "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 2019,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35493,8 +49527,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 2019,
+          "count": 3,
+          "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35505,8 +49539,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/05/17": {
-          "count": 2,
-          "sum": 4038,
+          "count": 3,
+          "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35517,8 +49551,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2019
         },
         "2019/05/19": {
-          "count": 2,
-          "sum": 4038,
+          "count": 5,
+          "sum": 10095,
           "average": 2019,
           "average w/o zero": 2019
         },
@@ -35527,6 +49561,4692 @@ VISUALIZER_DATA_BARS = [
           "sum": 6057,
           "average": 2019,
           "average w/o zero": 2019
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 16152,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 14133,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 14133,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 14133,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 16152,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 14133,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 4038,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 10095,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 8076,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 6057,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 12114,
+          "average": 2019,
+          "average w/o zero": 2019
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 16160,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 18180,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/12": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/13": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/14": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/16": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 12120,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 14140,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 8080,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 6060,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 2020,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 16160,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 10100,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 4040,
+          "average": 2020,
+          "average w/o zero": 2020
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 14147,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 12126,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 14147,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/04": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/05": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 12126,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 12126,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 18189,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 12126,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 10105,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 12126,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 8084,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 6063,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 2021,
+          "average": 2021,
+          "average w/o zero": 2021
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 4042,
+          "average": 2021,
+          "average w/o zero": 2021
         }
       },
       "Factors.Mental-Illness": {
@@ -37499,8 +56219,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 2,
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -37529,8 +56249,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -37799,8 +56519,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -37883,8 +56603,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -38573,8 +57293,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/06/25": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -39053,8 +57773,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 6,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -39479,8 +58199,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 5,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -39557,8 +58277,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 8,
+          "count": 7,
+          "sum": 7,
           "average": 1,
           "average w/o zero": 1
         },
@@ -39575,8 +58295,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -39641,8 +58361,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 2,
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -42059,8 +60779,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 5,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43427,8 +62147,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43679,8 +62399,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43696,15 +62416,9 @@ VISUALIZER_DATA_BARS = [
           "average": 1,
           "average w/o zero": 1
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43739,8 +62453,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 7,
+          "count": 6,
+          "sum": 6,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43835,8 +62549,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -43853,8 +62567,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44093,8 +62807,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44125,12 +62839,6 @@ VISUALIZER_DATA_BARS = [
         "2019/03/25": {
           "count": 4,
           "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44195,8 +62903,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44243,8 +62951,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44261,8 +62969,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44273,26 +62981,26 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/04/24": {
           "count": 2,
           "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
-        "2019/04/24": {
-          "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "2019/04/25": {
-          "count": 1,
-          "sum": 1,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 1,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44327,8 +63035,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 3,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44345,14 +63053,20 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/05/09": {
           "count": 4,
           "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44375,8 +63089,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 1,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44387,8 +63101,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/17": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -44399,14 +63113,4700 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/19": {
-          "count": 2,
-          "sum": 2,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/05/20": {
           "count": 3,
           "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 9,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/13": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 9,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         }
@@ -46381,8 +69781,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2015/12/19": {
-          "count": 2,
-          "sum": 2,
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -46411,8 +69811,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2015/12/24": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -46681,8 +70081,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/02/11": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -46765,8 +70165,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/02/25": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -47455,8 +70855,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/06/25": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -47935,8 +71335,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/09/20": {
-          "count": 6,
-          "sum": 6,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -48361,8 +71761,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/07": {
-          "count": 5,
-          "sum": 5,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -48439,8 +71839,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/21": {
-          "count": 8,
-          "sum": 8,
+          "count": 7,
+          "sum": 7,
           "average": 1,
           "average w/o zero": 1
         },
@@ -48457,8 +71857,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2016/12/24": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -48523,8 +71923,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2017/01/06": {
-          "count": 2,
-          "sum": 2,
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -50941,8 +74341,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2018/03/08": {
-          "count": 5,
-          "sum": 5,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52309,8 +75709,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2018/11/19": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52561,8 +75961,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/06": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52578,15 +75978,9 @@ VISUALIZER_DATA_BARS = [
           "average": 1,
           "average w/o zero": 1
         },
-        "2019/01/09": {
-          "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "2019/01/10": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52621,8 +76015,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/01/16": {
-          "count": 7,
-          "sum": 7,
+          "count": 6,
+          "sum": 6,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52717,8 +76111,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/02/03": {
-          "count": 3,
-          "sum": 3,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52735,8 +76129,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/02/06": {
-          "count": 4,
-          "sum": 4,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -52975,8 +76369,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/03/19": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53007,12 +76401,6 @@ VISUALIZER_DATA_BARS = [
         "2019/03/25": {
           "count": 4,
           "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "2019/03/26": {
-          "count": 1,
-          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53077,8 +76465,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/07": {
-          "count": 4,
-          "sum": 4,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53125,8 +76513,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/16": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53143,8 +76531,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/20": {
-          "count": 3,
-          "sum": 3,
+          "count": 4,
+          "sum": 4,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53155,26 +76543,26 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/04/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/04/24": {
           "count": 2,
           "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
-        "2019/04/24": {
-          "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "2019/04/25": {
-          "count": 1,
-          "sum": 1,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/04/26": {
-          "count": 1,
-          "sum": 1,
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53209,8 +76597,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/04": {
-          "count": 3,
-          "sum": 3,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53227,14 +76615,20 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/07": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/05/09": {
           "count": 4,
           "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/10": {
+          "count": 1,
+          "sum": 1,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53257,8 +76651,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/15": {
-          "count": 1,
-          "sum": 1,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53269,8 +76663,8 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/17": {
-          "count": 2,
-          "sum": 2,
+          "count": 3,
+          "sum": 3,
           "average": 1,
           "average w/o zero": 1
         },
@@ -53281,14 +76675,4700 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         },
         "2019/05/19": {
-          "count": 2,
-          "sum": 2,
+          "count": 5,
+          "sum": 5,
           "average": 1,
           "average w/o zero": 1
         },
         "2019/05/20": {
           "count": 3,
           "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/05/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/03": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/06": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/15": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/27": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/28": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/06/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/16": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/07/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/05": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/13": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/08/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/04": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/26": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/09/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/12": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/25": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/27": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/10/31": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/19": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/11/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/01": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/02": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/10": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/12": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/17": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/19": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/28": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2019/12/31": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/02": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/05": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/06": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/09": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/21": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/01/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/05": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/09": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/13": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/25": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/26": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/02/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/01": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/06": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/08": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/13": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/14": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/20": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/03/31": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/07": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/24": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/04/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/01": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/03": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/05": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/07": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/09": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/19": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/23": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/26": {
+          "count": 9,
+          "sum": 9,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/27": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/28": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/29": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/05/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/03": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/05": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/20": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/25": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/27": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/06/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/07/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/04": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/07": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/08": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/25": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/08/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/18": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/20": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/24": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/09/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/05": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/08": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/14": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/19": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/20": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/22": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/23": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/24": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/28": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/10/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/04": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/11": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/13": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/17": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/18": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/11/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/10": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/15": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/18": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/19": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/28": {
+          "count": 8,
+          "sum": 8,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/29": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2020/12/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/02": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/05": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/11": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/16": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/17": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/26": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/27": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/01/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/01": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/04": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/06": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/11": {
+          "count": 7,
+          "sum": 7,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/14": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/20": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/21": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/26": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/02/28": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/03": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/09": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/12": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/14": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/18": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/21": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/24": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/25": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/26": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/28": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/29": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/03/31": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/02": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/03": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/06": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/08": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/09": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/10": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/12": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/13": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/14": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/15": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/16": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/19": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/22": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/23": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/27": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/04/30": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/02": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/04": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/06": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/08": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/17": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/21": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/23": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/25": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/30": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/05/31": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/01": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/02": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/03": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/04": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/05": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/07": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/08": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/09": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/10": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/11": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/13": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/15": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/16": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/19": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/22": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/23": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/24": {
+          "count": 9,
+          "sum": 9,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/25": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/26": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/28": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/29": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/06/30": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/01": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/04": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/07": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/11": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/12": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/13": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/14": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/15": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/16": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/17": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/18": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/20": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/22": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/23": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/24": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/25": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/26": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/27": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/29": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/30": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/07/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/03": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/04": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/05": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/06": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/07": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/08": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/09": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/10": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/11": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/12": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/13": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/14": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/15": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/16": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/17": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/18": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/19": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/20": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/21": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/22": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/23": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/24": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/25": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/26": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/27": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/29": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/30": {
+          "count": 5,
+          "sum": 5,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/08/31": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/01": {
+          "count": 2,
+          "sum": 2,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/03": {
+          "count": 6,
+          "sum": 6,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/04": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/06": {
+          "count": 4,
+          "sum": 4,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/07": {
+          "count": 3,
+          "sum": 3,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/10": {
+          "count": 1,
+          "sum": 1,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "2021/09/11": {
+          "count": 2,
+          "sum": 2,
           "average": 1,
           "average w/o zero": 1
         }
@@ -54657,7 +82737,6 @@ VISUALIZER_DATA_BARS = [
       "2019/01/06",
       "2019/01/07",
       "2019/01/08",
-      "2019/01/09",
       "2019/01/10",
       "2019/01/11",
       "2019/01/12",
@@ -54729,7 +82808,6 @@ VISUALIZER_DATA_BARS = [
       "2019/03/22",
       "2019/03/24",
       "2019/03/25",
-      "2019/03/26",
       "2019/03/27",
       "2019/03/28",
       "2019/03/30",
@@ -54767,6 +82845,7 @@ VISUALIZER_DATA_BARS = [
       "2019/05/06",
       "2019/05/07",
       "2019/05/09",
+      "2019/05/10",
       "2019/05/11",
       "2019/05/13",
       "2019/05/14",
@@ -54775,7 +82854,788 @@ VISUALIZER_DATA_BARS = [
       "2019/05/17",
       "2019/05/18",
       "2019/05/19",
-      "2019/05/20"
+      "2019/05/20",
+      "2019/05/21",
+      "2019/05/22",
+      "2019/05/23",
+      "2019/05/24",
+      "2019/05/26",
+      "2019/05/27",
+      "2019/05/28",
+      "2019/05/29",
+      "2019/05/30",
+      "2019/05/31",
+      "2019/06/01",
+      "2019/06/02",
+      "2019/06/03",
+      "2019/06/04",
+      "2019/06/05",
+      "2019/06/06",
+      "2019/06/07",
+      "2019/06/08",
+      "2019/06/09",
+      "2019/06/10",
+      "2019/06/11",
+      "2019/06/12",
+      "2019/06/13",
+      "2019/06/14",
+      "2019/06/15",
+      "2019/06/16",
+      "2019/06/17",
+      "2019/06/18",
+      "2019/06/20",
+      "2019/06/22",
+      "2019/06/23",
+      "2019/06/24",
+      "2019/06/25",
+      "2019/06/26",
+      "2019/06/27",
+      "2019/06/28",
+      "2019/06/29",
+      "2019/07/01",
+      "2019/07/02",
+      "2019/07/03",
+      "2019/07/04",
+      "2019/07/05",
+      "2019/07/06",
+      "2019/07/07",
+      "2019/07/08",
+      "2019/07/09",
+      "2019/07/10",
+      "2019/07/11",
+      "2019/07/13",
+      "2019/07/14",
+      "2019/07/15",
+      "2019/07/16",
+      "2019/07/17",
+      "2019/07/18",
+      "2019/07/19",
+      "2019/07/21",
+      "2019/07/22",
+      "2019/07/23",
+      "2019/07/25",
+      "2019/07/26",
+      "2019/07/27",
+      "2019/07/28",
+      "2019/07/29",
+      "2019/07/30",
+      "2019/07/31",
+      "2019/08/01",
+      "2019/08/02",
+      "2019/08/03",
+      "2019/08/04",
+      "2019/08/05",
+      "2019/08/06",
+      "2019/08/07",
+      "2019/08/08",
+      "2019/08/09",
+      "2019/08/10",
+      "2019/08/11",
+      "2019/08/12",
+      "2019/08/13",
+      "2019/08/14",
+      "2019/08/15",
+      "2019/08/16",
+      "2019/08/17",
+      "2019/08/18",
+      "2019/08/19",
+      "2019/08/21",
+      "2019/08/22",
+      "2019/08/23",
+      "2019/08/24",
+      "2019/08/26",
+      "2019/08/27",
+      "2019/08/28",
+      "2019/08/29",
+      "2019/08/30",
+      "2019/08/31",
+      "2019/09/01",
+      "2019/09/02",
+      "2019/09/03",
+      "2019/09/04",
+      "2019/09/05",
+      "2019/09/06",
+      "2019/09/07",
+      "2019/09/08",
+      "2019/09/09",
+      "2019/09/10",
+      "2019/09/11",
+      "2019/09/12",
+      "2019/09/13",
+      "2019/09/14",
+      "2019/09/15",
+      "2019/09/16",
+      "2019/09/17",
+      "2019/09/18",
+      "2019/09/19",
+      "2019/09/20",
+      "2019/09/21",
+      "2019/09/22",
+      "2019/09/23",
+      "2019/09/24",
+      "2019/09/25",
+      "2019/09/26",
+      "2019/09/28",
+      "2019/09/29",
+      "2019/09/30",
+      "2019/10/01",
+      "2019/10/03",
+      "2019/10/04",
+      "2019/10/05",
+      "2019/10/06",
+      "2019/10/07",
+      "2019/10/08",
+      "2019/10/09",
+      "2019/10/10",
+      "2019/10/11",
+      "2019/10/12",
+      "2019/10/13",
+      "2019/10/14",
+      "2019/10/15",
+      "2019/10/16",
+      "2019/10/17",
+      "2019/10/18",
+      "2019/10/19",
+      "2019/10/20",
+      "2019/10/21",
+      "2019/10/22",
+      "2019/10/23",
+      "2019/10/24",
+      "2019/10/25",
+      "2019/10/26",
+      "2019/10/27",
+      "2019/10/28",
+      "2019/10/30",
+      "2019/10/31",
+      "2019/11/01",
+      "2019/11/02",
+      "2019/11/03",
+      "2019/11/04",
+      "2019/11/05",
+      "2019/11/06",
+      "2019/11/07",
+      "2019/11/08",
+      "2019/11/09",
+      "2019/11/11",
+      "2019/11/12",
+      "2019/11/13",
+      "2019/11/14",
+      "2019/11/15",
+      "2019/11/16",
+      "2019/11/18",
+      "2019/11/19",
+      "2019/11/20",
+      "2019/11/22",
+      "2019/11/23",
+      "2019/11/24",
+      "2019/11/25",
+      "2019/11/26",
+      "2019/11/27",
+      "2019/11/28",
+      "2019/11/29",
+      "2019/11/30",
+      "2019/12/01",
+      "2019/12/02",
+      "2019/12/03",
+      "2019/12/05",
+      "2019/12/06",
+      "2019/12/07",
+      "2019/12/08",
+      "2019/12/09",
+      "2019/12/10",
+      "2019/12/11",
+      "2019/12/12",
+      "2019/12/14",
+      "2019/12/15",
+      "2019/12/16",
+      "2019/12/17",
+      "2019/12/18",
+      "2019/12/19",
+      "2019/12/20",
+      "2019/12/21",
+      "2019/12/22",
+      "2019/12/23",
+      "2019/12/24",
+      "2019/12/25",
+      "2019/12/26",
+      "2019/12/27",
+      "2019/12/28",
+      "2019/12/29",
+      "2019/12/30",
+      "2019/12/31",
+      "2020/01/01",
+      "2020/01/02",
+      "2020/01/04",
+      "2020/01/05",
+      "2020/01/06",
+      "2020/01/07",
+      "2020/01/08",
+      "2020/01/09",
+      "2020/01/10",
+      "2020/01/11",
+      "2020/01/12",
+      "2020/01/13",
+      "2020/01/14",
+      "2020/01/15",
+      "2020/01/16",
+      "2020/01/17",
+      "2020/01/19",
+      "2020/01/20",
+      "2020/01/21",
+      "2020/01/22",
+      "2020/01/23",
+      "2020/01/24",
+      "2020/01/25",
+      "2020/01/27",
+      "2020/01/28",
+      "2020/01/29",
+      "2020/01/30",
+      "2020/02/01",
+      "2020/02/02",
+      "2020/02/03",
+      "2020/02/04",
+      "2020/02/05",
+      "2020/02/06",
+      "2020/02/07",
+      "2020/02/08",
+      "2020/02/09",
+      "2020/02/10",
+      "2020/02/12",
+      "2020/02/13",
+      "2020/02/14",
+      "2020/02/15",
+      "2020/02/16",
+      "2020/02/17",
+      "2020/02/18",
+      "2020/02/19",
+      "2020/02/20",
+      "2020/02/21",
+      "2020/02/22",
+      "2020/02/23",
+      "2020/02/24",
+      "2020/02/25",
+      "2020/02/26",
+      "2020/02/27",
+      "2020/02/28",
+      "2020/02/29",
+      "2020/03/01",
+      "2020/03/02",
+      "2020/03/03",
+      "2020/03/04",
+      "2020/03/05",
+      "2020/03/06",
+      "2020/03/07",
+      "2020/03/08",
+      "2020/03/09",
+      "2020/03/10",
+      "2020/03/11",
+      "2020/03/12",
+      "2020/03/13",
+      "2020/03/14",
+      "2020/03/15",
+      "2020/03/16",
+      "2020/03/17",
+      "2020/03/18",
+      "2020/03/19",
+      "2020/03/20",
+      "2020/03/21",
+      "2020/03/22",
+      "2020/03/23",
+      "2020/03/24",
+      "2020/03/25",
+      "2020/03/26",
+      "2020/03/27",
+      "2020/03/28",
+      "2020/03/29",
+      "2020/03/30",
+      "2020/03/31",
+      "2020/04/01",
+      "2020/04/02",
+      "2020/04/04",
+      "2020/04/05",
+      "2020/04/06",
+      "2020/04/07",
+      "2020/04/08",
+      "2020/04/09",
+      "2020/04/10",
+      "2020/04/11",
+      "2020/04/12",
+      "2020/04/13",
+      "2020/04/14",
+      "2020/04/15",
+      "2020/04/16",
+      "2020/04/17",
+      "2020/04/18",
+      "2020/04/19",
+      "2020/04/21",
+      "2020/04/22",
+      "2020/04/23",
+      "2020/04/24",
+      "2020/04/25",
+      "2020/04/26",
+      "2020/04/27",
+      "2020/04/28",
+      "2020/04/29",
+      "2020/04/30",
+      "2020/05/01",
+      "2020/05/03",
+      "2020/05/04",
+      "2020/05/05",
+      "2020/05/06",
+      "2020/05/07",
+      "2020/05/08",
+      "2020/05/09",
+      "2020/05/10",
+      "2020/05/11",
+      "2020/05/12",
+      "2020/05/13",
+      "2020/05/14",
+      "2020/05/15",
+      "2020/05/16",
+      "2020/05/17",
+      "2020/05/18",
+      "2020/05/19",
+      "2020/05/20",
+      "2020/05/21",
+      "2020/05/23",
+      "2020/05/24",
+      "2020/05/25",
+      "2020/05/26",
+      "2020/05/27",
+      "2020/05/28",
+      "2020/05/29",
+      "2020/05/30",
+      "2020/05/31",
+      "2020/06/01",
+      "2020/06/02",
+      "2020/06/03",
+      "2020/06/05",
+      "2020/06/06",
+      "2020/06/07",
+      "2020/06/08",
+      "2020/06/09",
+      "2020/06/10",
+      "2020/06/11",
+      "2020/06/12",
+      "2020/06/13",
+      "2020/06/15",
+      "2020/06/16",
+      "2020/06/17",
+      "2020/06/18",
+      "2020/06/19",
+      "2020/06/20",
+      "2020/06/21",
+      "2020/06/22",
+      "2020/06/23",
+      "2020/06/24",
+      "2020/06/25",
+      "2020/06/26",
+      "2020/06/27",
+      "2020/06/28",
+      "2020/06/29",
+      "2020/06/30",
+      "2020/07/01",
+      "2020/07/02",
+      "2020/07/03",
+      "2020/07/04",
+      "2020/07/05",
+      "2020/07/06",
+      "2020/07/07",
+      "2020/07/08",
+      "2020/07/09",
+      "2020/07/10",
+      "2020/07/11",
+      "2020/07/12",
+      "2020/07/13",
+      "2020/07/14",
+      "2020/07/15",
+      "2020/07/16",
+      "2020/07/17",
+      "2020/07/18",
+      "2020/07/19",
+      "2020/07/20",
+      "2020/07/21",
+      "2020/07/22",
+      "2020/07/23",
+      "2020/07/24",
+      "2020/07/25",
+      "2020/07/26",
+      "2020/07/27",
+      "2020/07/28",
+      "2020/07/29",
+      "2020/07/30",
+      "2020/07/31",
+      "2020/08/01",
+      "2020/08/02",
+      "2020/08/03",
+      "2020/08/04",
+      "2020/08/05",
+      "2020/08/06",
+      "2020/08/07",
+      "2020/08/08",
+      "2020/08/09",
+      "2020/08/10",
+      "2020/08/11",
+      "2020/08/12",
+      "2020/08/13",
+      "2020/08/14",
+      "2020/08/15",
+      "2020/08/16",
+      "2020/08/17",
+      "2020/08/18",
+      "2020/08/19",
+      "2020/08/20",
+      "2020/08/21",
+      "2020/08/22",
+      "2020/08/23",
+      "2020/08/24",
+      "2020/08/25",
+      "2020/08/26",
+      "2020/08/27",
+      "2020/08/28",
+      "2020/08/29",
+      "2020/08/30",
+      "2020/08/31",
+      "2020/09/01",
+      "2020/09/02",
+      "2020/09/03",
+      "2020/09/04",
+      "2020/09/05",
+      "2020/09/06",
+      "2020/09/07",
+      "2020/09/08",
+      "2020/09/09",
+      "2020/09/10",
+      "2020/09/11",
+      "2020/09/12",
+      "2020/09/13",
+      "2020/09/15",
+      "2020/09/17",
+      "2020/09/18",
+      "2020/09/19",
+      "2020/09/20",
+      "2020/09/21",
+      "2020/09/22",
+      "2020/09/23",
+      "2020/09/24",
+      "2020/09/25",
+      "2020/09/27",
+      "2020/09/28",
+      "2020/09/29",
+      "2020/09/30",
+      "2020/10/01",
+      "2020/10/02",
+      "2020/10/03",
+      "2020/10/04",
+      "2020/10/05",
+      "2020/10/06",
+      "2020/10/08",
+      "2020/10/09",
+      "2020/10/10",
+      "2020/10/12",
+      "2020/10/13",
+      "2020/10/14",
+      "2020/10/15",
+      "2020/10/16",
+      "2020/10/17",
+      "2020/10/18",
+      "2020/10/19",
+      "2020/10/20",
+      "2020/10/21",
+      "2020/10/22",
+      "2020/10/23",
+      "2020/10/24",
+      "2020/10/25",
+      "2020/10/26",
+      "2020/10/27",
+      "2020/10/28",
+      "2020/10/29",
+      "2020/10/30",
+      "2020/10/31",
+      "2020/11/01",
+      "2020/11/02",
+      "2020/11/03",
+      "2020/11/04",
+      "2020/11/05",
+      "2020/11/06",
+      "2020/11/07",
+      "2020/11/08",
+      "2020/11/09",
+      "2020/11/10",
+      "2020/11/11",
+      "2020/11/12",
+      "2020/11/13",
+      "2020/11/14",
+      "2020/11/15",
+      "2020/11/16",
+      "2020/11/17",
+      "2020/11/18",
+      "2020/11/19",
+      "2020/11/20",
+      "2020/11/21",
+      "2020/11/22",
+      "2020/11/23",
+      "2020/11/24",
+      "2020/11/25",
+      "2020/11/26",
+      "2020/11/27",
+      "2020/11/29",
+      "2020/11/30",
+      "2020/12/01",
+      "2020/12/02",
+      "2020/12/03",
+      "2020/12/04",
+      "2020/12/05",
+      "2020/12/06",
+      "2020/12/07",
+      "2020/12/08",
+      "2020/12/09",
+      "2020/12/10",
+      "2020/12/11",
+      "2020/12/13",
+      "2020/12/14",
+      "2020/12/15",
+      "2020/12/16",
+      "2020/12/17",
+      "2020/12/18",
+      "2020/12/19",
+      "2020/12/20",
+      "2020/12/21",
+      "2020/12/22",
+      "2020/12/23",
+      "2020/12/24",
+      "2020/12/25",
+      "2020/12/26",
+      "2020/12/27",
+      "2020/12/28",
+      "2020/12/29",
+      "2020/12/30",
+      "2020/12/31",
+      "2021/01/01",
+      "2021/01/02",
+      "2021/01/03",
+      "2021/01/04",
+      "2021/01/05",
+      "2021/01/06",
+      "2021/01/07",
+      "2021/01/08",
+      "2021/01/09",
+      "2021/01/10",
+      "2021/01/11",
+      "2021/01/12",
+      "2021/01/13",
+      "2021/01/14",
+      "2021/01/15",
+      "2021/01/16",
+      "2021/01/17",
+      "2021/01/18",
+      "2021/01/19",
+      "2021/01/20",
+      "2021/01/21",
+      "2021/01/22",
+      "2021/01/24",
+      "2021/01/25",
+      "2021/01/26",
+      "2021/01/27",
+      "2021/01/29",
+      "2021/01/30",
+      "2021/01/31",
+      "2021/02/01",
+      "2021/02/02",
+      "2021/02/03",
+      "2021/02/04",
+      "2021/02/05",
+      "2021/02/06",
+      "2021/02/07",
+      "2021/02/08",
+      "2021/02/09",
+      "2021/02/10",
+      "2021/02/11",
+      "2021/02/12",
+      "2021/02/13",
+      "2021/02/14",
+      "2021/02/15",
+      "2021/02/16",
+      "2021/02/18",
+      "2021/02/19",
+      "2021/02/20",
+      "2021/02/21",
+      "2021/02/22",
+      "2021/02/23",
+      "2021/02/24",
+      "2021/02/25",
+      "2021/02/26",
+      "2021/02/27",
+      "2021/02/28",
+      "2021/03/01",
+      "2021/03/03",
+      "2021/03/04",
+      "2021/03/05",
+      "2021/03/06",
+      "2021/03/07",
+      "2021/03/08",
+      "2021/03/09",
+      "2021/03/10",
+      "2021/03/11",
+      "2021/03/12",
+      "2021/03/13",
+      "2021/03/14",
+      "2021/03/15",
+      "2021/03/16",
+      "2021/03/17",
+      "2021/03/18",
+      "2021/03/19",
+      "2021/03/20",
+      "2021/03/21",
+      "2021/03/23",
+      "2021/03/24",
+      "2021/03/25",
+      "2021/03/26",
+      "2021/03/28",
+      "2021/03/29",
+      "2021/03/30",
+      "2021/03/31",
+      "2021/04/01",
+      "2021/04/02",
+      "2021/04/03",
+      "2021/04/04",
+      "2021/04/05",
+      "2021/04/06",
+      "2021/04/07",
+      "2021/04/08",
+      "2021/04/09",
+      "2021/04/10",
+      "2021/04/11",
+      "2021/04/12",
+      "2021/04/13",
+      "2021/04/14",
+      "2021/04/15",
+      "2021/04/16",
+      "2021/04/17",
+      "2021/04/18",
+      "2021/04/19",
+      "2021/04/20",
+      "2021/04/21",
+      "2021/04/22",
+      "2021/04/23",
+      "2021/04/24",
+      "2021/04/27",
+      "2021/04/29",
+      "2021/04/30",
+      "2021/05/01",
+      "2021/05/02",
+      "2021/05/04",
+      "2021/05/06",
+      "2021/05/07",
+      "2021/05/08",
+      "2021/05/09",
+      "2021/05/10",
+      "2021/05/11",
+      "2021/05/12",
+      "2021/05/14",
+      "2021/05/16",
+      "2021/05/17",
+      "2021/05/18",
+      "2021/05/19",
+      "2021/05/20",
+      "2021/05/21",
+      "2021/05/22",
+      "2021/05/23",
+      "2021/05/24",
+      "2021/05/25",
+      "2021/05/26",
+      "2021/05/30",
+      "2021/05/31",
+      "2021/06/01",
+      "2021/06/02",
+      "2021/06/03",
+      "2021/06/04",
+      "2021/06/05",
+      "2021/06/07",
+      "2021/06/08",
+      "2021/06/09",
+      "2021/06/10",
+      "2021/06/11",
+      "2021/06/12",
+      "2021/06/13",
+      "2021/06/14",
+      "2021/06/15",
+      "2021/06/16",
+      "2021/06/17",
+      "2021/06/18",
+      "2021/06/19",
+      "2021/06/20",
+      "2021/06/21",
+      "2021/06/22",
+      "2021/06/23",
+      "2021/06/24",
+      "2021/06/25",
+      "2021/06/26",
+      "2021/06/27",
+      "2021/06/28",
+      "2021/06/29",
+      "2021/06/30",
+      "2021/07/01",
+      "2021/07/04",
+      "2021/07/06",
+      "2021/07/07",
+      "2021/07/08",
+      "2021/07/09",
+      "2021/07/10",
+      "2021/07/11",
+      "2021/07/12",
+      "2021/07/13",
+      "2021/07/14",
+      "2021/07/15",
+      "2021/07/16",
+      "2021/07/17",
+      "2021/07/18",
+      "2021/07/19",
+      "2021/07/20",
+      "2021/07/22",
+      "2021/07/23",
+      "2021/07/24",
+      "2021/07/25",
+      "2021/07/26",
+      "2021/07/27",
+      "2021/07/29",
+      "2021/07/30",
+      "2021/07/31",
+      "2021/08/03",
+      "2021/08/04",
+      "2021/08/05",
+      "2021/08/06",
+      "2021/08/07",
+      "2021/08/08",
+      "2021/08/09",
+      "2021/08/10",
+      "2021/08/11",
+      "2021/08/12",
+      "2021/08/13",
+      "2021/08/14",
+      "2021/08/15",
+      "2021/08/16",
+      "2021/08/17",
+      "2021/08/18",
+      "2021/08/19",
+      "2021/08/20",
+      "2021/08/21",
+      "2021/08/22",
+      "2021/08/23",
+      "2021/08/24",
+      "2021/08/25",
+      "2021/08/26",
+      "2021/08/27",
+      "2021/08/29",
+      "2021/08/30",
+      "2021/08/31",
+      "2021/09/01",
+      "2021/09/03",
+      "2021/09/04",
+      "2021/09/06",
+      "2021/09/07",
+      "2021/09/10",
+      "2021/09/11"
     ],
     "best_indexes": [
       "2018/01/06",
@@ -54783,11 +83643,11 @@ VISUALIZER_DATA_BARS = [
       "2018/04/01",
       "2018/06/29",
       "2019/01/28",
+      "2020/05/26",
+      "2021/06/24",
       "2015/07/07",
       "2015/12/14",
-      "2016/01/27",
-      "2016/12/21",
-      "2017/01/24"
+      "2016/01/27"
     ],
     "pretty": "Incident.Date.Full"
   },
@@ -54795,304 +83655,304 @@ VISUALIZER_DATA_BARS = [
     "data": {
       "Person.Age": {
         "WA": {
-          "count": 116,
-          "sum": 4110,
-          "average": 35.43103448275862,
-          "average w/o zero": 37.36363636363637
+          "count": 178,
+          "sum": 6345,
+          "average": 35.646067415730336,
+          "average w/o zero": 36.88953488372093
         },
         "OR": {
-          "count": 68,
-          "sum": 2649,
-          "average": 38.955882352941174,
-          "average w/o zero": 38.955882352941174
+          "count": 107,
+          "sum": 4123,
+          "average": 38.532710280373834,
+          "average w/o zero": 39.266666666666666
         },
         "KS": {
-          "count": 40,
-          "sum": 1387,
-          "average": 34.675,
-          "average w/o zero": 34.675
+          "count": 62,
+          "sum": 2301,
+          "average": 37.11290322580645,
+          "average w/o zero": 37.11290322580645
         },
         "CA": {
-          "count": 652,
-          "sum": 21292,
-          "average": 32.65644171779141,
-          "average w/o zero": 35.01973684210526
+          "count": 968,
+          "sum": 31579,
+          "average": 32.622933884297524,
+          "average w/o zero": 35.244419642857146
         },
         "CO": {
-          "count": 146,
-          "sum": 4745,
-          "average": 32.5,
-          "average w/o zero": 35.946969696969695
+          "count": 237,
+          "sum": 7826,
+          "average": 33.0210970464135,
+          "average w/o zero": 36.064516129032256
         },
         "OK": {
-          "count": 126,
-          "sum": 4762,
-          "average": 37.79365079365079,
-          "average w/o zero": 39.35537190082645
+          "count": 190,
+          "sum": 6810,
+          "average": 35.8421052631579,
+          "average w/o zero": 37.6243093922652
         },
         "AZ": {
-          "count": 219,
-          "sum": 7668,
-          "average": 35.013698630136986,
-          "average w/o zero": 36.688995215311
+          "count": 301,
+          "sum": 10701,
+          "average": 35.5514950166113,
+          "average w/o zero": 37.02768166089965
         },
         "IA": {
-          "count": 26,
-          "sum": 814,
-          "average": 31.307692307692307,
-          "average w/o zero": 31.307692307692307
+          "count": 38,
+          "sum": 1295,
+          "average": 34.078947368421055,
+          "average w/o zero": 34.078947368421055
         },
         "PA": {
-          "count": 89,
-          "sum": 3195,
-          "average": 35.89887640449438,
-          "average w/o zero": 36.724137931034484
+          "count": 135,
+          "sum": 4977,
+          "average": 36.86666666666667,
+          "average w/o zero": 37.70454545454545
         },
         "TX": {
-          "count": 377,
-          "sum": 12453,
-          "average": 33.03183023872679,
-          "average w/o zero": 35.78448275862069
+          "count": 584,
+          "sum": 19340,
+          "average": 33.11643835616438,
+          "average w/o zero": 36.082089552238806
         },
         "OH": {
-          "count": 126,
-          "sum": 4594,
-          "average": 36.46031746031746,
-          "average w/o zero": 36.752
+          "count": 186,
+          "sum": 6603,
+          "average": 35.5,
+          "average w/o zero": 36.28021978021978
         },
         "LA": {
-          "count": 91,
-          "sum": 3048,
-          "average": 33.494505494505496,
-          "average w/o zero": 35.44186046511628
+          "count": 129,
+          "sum": 4559,
+          "average": 35.34108527131783,
+          "average w/o zero": 36.766129032258064
         },
         "MT": {
-          "count": 23,
-          "sum": 757,
-          "average": 32.91304347826087,
-          "average w/o zero": 34.40909090909091
+          "count": 40,
+          "sum": 1388,
+          "average": 34.7,
+          "average w/o zero": 36.526315789473685
         },
         "UT": {
-          "count": 44,
-          "sum": 1508,
-          "average": 34.27272727272727,
-          "average w/o zero": 34.27272727272727
+          "count": 81,
+          "sum": 2786,
+          "average": 34.39506172839506,
+          "average w/o zero": 34.825
         },
         "AR": {
-          "count": 59,
-          "sum": 2241,
-          "average": 37.983050847457626,
-          "average w/o zero": 40.017857142857146
+          "count": 95,
+          "sum": 3589,
+          "average": 37.77894736842105,
+          "average w/o zero": 39.43956043956044
         },
         "IL": {
-          "count": 93,
-          "sum": 3025,
-          "average": 32.526881720430104,
-          "average w/o zero": 32.880434782608695
+          "count": 129,
+          "sum": 4114,
+          "average": 31.891472868217054,
+          "average w/o zero": 32.140625
         },
         "NV": {
-          "count": 77,
-          "sum": 2857,
-          "average": 37.103896103896105,
-          "average w/o zero": 38.093333333333334
+          "count": 108,
+          "sum": 4091,
+          "average": 37.879629629629626,
+          "average w/o zero": 38.594339622641506
         },
         "NM": {
-          "count": 85,
-          "sum": 2875,
-          "average": 33.8235294117647,
-          "average w/o zero": 35.49382716049383
+          "count": 131,
+          "sum": 4456,
+          "average": 34.01526717557252,
+          "average w/o zero": 36.82644628099174
         },
         "MN": {
-          "count": 52,
-          "sum": 1841,
-          "average": 35.40384615384615,
-          "average w/o zero": 35.40384615384615
+          "count": 76,
+          "sum": 2580,
+          "average": 33.94736842105263,
+          "average w/o zero": 34.4
         },
         "MO": {
-          "count": 106,
-          "sum": 3707,
-          "average": 34.971698113207545,
-          "average w/o zero": 36.34313725490196
+          "count": 162,
+          "sum": 5543,
+          "average": 34.21604938271605,
+          "average w/o zero": 35.532051282051285
         },
         "VA": {
-          "count": 80,
-          "sum": 2945,
-          "average": 36.8125,
-          "average w/o zero": 37.278481012658226
+          "count": 113,
+          "sum": 4091,
+          "average": 36.203539823008846,
+          "average w/o zero": 37.19090909090909
         },
         "NJ": {
-          "count": 56,
-          "sum": 2008,
-          "average": 35.857142857142854,
-          "average w/o zero": 36.50909090909091
+          "count": 76,
+          "sum": 2749,
+          "average": 36.171052631578945,
+          "average w/o zero": 37.657534246575345
         },
         "IN": {
-          "count": 76,
-          "sum": 2940,
-          "average": 38.68421052631579,
-          "average w/o zero": 38.68421052631579
+          "count": 120,
+          "sum": 4631,
+          "average": 38.59166666666667,
+          "average w/o zero": 38.59166666666667
         },
         "KY": {
-          "count": 75,
-          "sum": 2850,
-          "average": 38,
-          "average w/o zero": 39.04109589041096
+          "count": 116,
+          "sum": 4483,
+          "average": 38.64655172413793,
+          "average w/o zero": 40.026785714285715
         },
         "MA": {
-          "count": 28,
-          "sum": 1084,
-          "average": 38.714285714285715,
-          "average w/o zero": 38.714285714285715
+          "count": 43,
+          "sum": 1505,
+          "average": 35,
+          "average w/o zero": 36.707317073170735
         },
         "NH": {
-          "count": 11,
-          "sum": 394,
-          "average": 35.81818181818182,
-          "average w/o zero": 35.81818181818182
+          "count": 18,
+          "sum": 710,
+          "average": 39.44444444444444,
+          "average w/o zero": 39.44444444444444
         },
         "FL": {
-          "count": 262,
-          "sum": 9814,
-          "average": 37.458015267175576,
-          "average w/o zero": 38.3359375
+          "count": 431,
+          "sum": 15612,
+          "average": 36.222737819025525,
+          "average w/o zero": 38.64356435643565
         },
         "ID": {
-          "count": 32,
-          "sum": 1244,
-          "average": 38.875,
-          "average w/o zero": 41.46666666666667
+          "count": 53,
+          "sum": 2087,
+          "average": 39.37735849056604,
+          "average w/o zero": 41.74
         },
         "MD": {
-          "count": 58,
-          "sum": 1998,
-          "average": 34.44827586206897,
-          "average w/o zero": 34.44827586206897
+          "count": 97,
+          "sum": 3391,
+          "average": 34.95876288659794,
+          "average w/o zero": 35.694736842105264
         },
         "NE": {
-          "count": 19,
-          "sum": 681,
-          "average": 35.8421052631579,
-          "average w/o zero": 35.8421052631579
+          "count": 34,
+          "sum": 1304,
+          "average": 38.35294117647059,
+          "average w/o zero": 38.35294117647059
         },
         "MI": {
-          "count": 70,
-          "sum": 2501,
-          "average": 35.72857142857143,
-          "average w/o zero": 36.779411764705884
+          "count": 105,
+          "sum": 3698,
+          "average": 35.21904761904762,
+          "average w/o zero": 36.98
         },
         "GA": {
-          "count": 143,
-          "sum": 5096,
-          "average": 35.63636363636363,
-          "average w/o zero": 36.66187050359712
+          "count": 240,
+          "sum": 8840,
+          "average": 36.833333333333336,
+          "average w/o zero": 37.77777777777778
         },
         "TN": {
-          "count": 108,
-          "sum": 4034,
-          "average": 37.351851851851855,
-          "average w/o zero": 38.056603773584904
+          "count": 174,
+          "sum": 6686,
+          "average": 38.42528735632184,
+          "average w/o zero": 39.32941176470588
         },
         "NC": {
-          "count": 117,
-          "sum": 4461,
-          "average": 38.12820512820513,
-          "average w/o zero": 39.13157894736842
+          "count": 185,
+          "sum": 7063,
+          "average": 38.178378378378376,
+          "average w/o zero": 39.90395480225989
         },
         "AK": {
-          "count": 30,
-          "sum": 981,
-          "average": 32.7,
-          "average w/o zero": 32.7
+          "count": 47,
+          "sum": 1510,
+          "average": 32.12765957446808,
+          "average w/o zero": 32.82608695652174
         },
         "NY": {
-          "count": 73,
-          "sum": 2863,
-          "average": 39.21917808219178,
-          "average w/o zero": 40.32394366197183
+          "count": 120,
+          "sum": 4357,
+          "average": 36.30833333333333,
+          "average w/o zero": 38.557522123893804
         },
         "ME": {
-          "count": 16,
-          "sum": 671,
-          "average": 41.9375,
-          "average w/o zero": 41.9375
+          "count": 26,
+          "sum": 1036,
+          "average": 39.84615384615385,
+          "average w/o zero": 39.84615384615385
         },
         "AL": {
-          "count": 82,
-          "sum": 3155,
-          "average": 38.47560975609756,
-          "average w/o zero": 39.4375
+          "count": 124,
+          "sum": 4789,
+          "average": 38.62096774193548,
+          "average w/o zero": 40.2436974789916
         },
         "MS": {
-          "count": 50,
-          "sum": 1714,
-          "average": 34.28,
-          "average w/o zero": 36.46808510638298
+          "count": 82,
+          "sum": 2767,
+          "average": 33.74390243902439,
+          "average w/o zero": 38.43055555555556
         },
         "WI": {
-          "count": 67,
-          "sum": 2421,
-          "average": 36.134328358208954,
-          "average w/o zero": 37.246153846153845
+          "count": 106,
+          "sum": 3989,
+          "average": 37.632075471698116,
+          "average w/o zero": 37.99047619047619
         },
         "SC": {
-          "count": 67,
-          "sum": 2584,
-          "average": 38.56716417910448,
-          "average w/o zero": 39.15151515151515
+          "count": 101,
+          "sum": 3944,
+          "average": 39.04950495049505,
+          "average w/o zero": 39.83838383838384
         },
         "DE": {
-          "count": 10,
-          "sum": 321,
-          "average": 32.1,
-          "average w/o zero": 32.1
+          "count": 16,
+          "sum": 547,
+          "average": 34.1875,
+          "average w/o zero": 34.1875
         },
         "DC": {
-          "count": 12,
-          "sum": 442,
-          "average": 36.833333333333336,
-          "average w/o zero": 36.833333333333336
+          "count": 20,
+          "sum": 696,
+          "average": 34.8,
+          "average w/o zero": 34.8
         },
         "WV": {
-          "count": 47,
-          "sum": 1966,
-          "average": 41.829787234042556,
-          "average w/o zero": 42.73913043478261
+          "count": 62,
+          "sum": 2521,
+          "average": 40.66129032258065,
+          "average w/o zero": 42.728813559322035
         },
         "HI": {
-          "count": 26,
-          "sum": 957,
-          "average": 36.80769230769231,
-          "average w/o zero": 39.875
+          "count": 36,
+          "sum": 1293,
+          "average": 35.916666666666664,
+          "average w/o zero": 36.94285714285714
         },
         "WY": {
-          "count": 14,
-          "sum": 526,
-          "average": 37.57142857142857,
-          "average w/o zero": 37.57142857142857
+          "count": 15,
+          "sum": 589,
+          "average": 39.266666666666666,
+          "average w/o zero": 39.266666666666666
         },
         "ND": {
-          "count": 9,
-          "sum": 286,
-          "average": 31.77777777777778,
-          "average w/o zero": 31.77777777777778
+          "count": 14,
+          "sum": 455,
+          "average": 32.5,
+          "average w/o zero": 32.5
         },
         "CT": {
-          "count": 15,
-          "sum": 545,
-          "average": 36.333333333333336,
-          "average w/o zero": 36.333333333333336
+          "count": 23,
+          "sum": 838,
+          "average": 36.43478260869565,
+          "average w/o zero": 36.43478260869565
         },
         "SD": {
-          "count": 15,
-          "sum": 508,
-          "average": 33.86666666666667,
-          "average w/o zero": 36.285714285714285
+          "count": 20,
+          "sum": 621,
+          "average": 31.05,
+          "average w/o zero": 34.5
         },
         "VT": {
-          "count": 7,
-          "sum": 306,
-          "average": 43.714285714285715,
-          "average w/o zero": 43.714285714285715
+          "count": 11,
+          "sum": 470,
+          "average": 42.72727272727273,
+          "average w/o zero": 42.72727272727273
         },
         "RI": {
           "count": 4,
@@ -55103,304 +83963,304 @@ VISUALIZER_DATA_BARS = [
       },
       "Incident.Date.Month": {
         "WA": {
-          "count": 116,
-          "sum": 740,
-          "average": 6.379310344827586,
-          "average w/o zero": 6.379310344827586
+          "count": 178,
+          "sum": 1184,
+          "average": 6.651685393258427,
+          "average w/o zero": 6.651685393258427
         },
         "OR": {
-          "count": 68,
-          "sum": 375,
-          "average": 5.514705882352941,
-          "average w/o zero": 5.514705882352941
+          "count": 107,
+          "sum": 609,
+          "average": 5.691588785046729,
+          "average w/o zero": 5.691588785046729
         },
         "KS": {
-          "count": 40,
-          "sum": 250,
-          "average": 6.25,
-          "average w/o zero": 6.25
+          "count": 62,
+          "sum": 400,
+          "average": 6.451612903225806,
+          "average w/o zero": 6.451612903225806
         },
         "CA": {
-          "count": 652,
-          "sum": 4105,
-          "average": 6.29601226993865,
-          "average w/o zero": 6.29601226993865
+          "count": 968,
+          "sum": 6237,
+          "average": 6.443181818181818,
+          "average w/o zero": 6.443181818181818
         },
         "CO": {
-          "count": 146,
-          "sum": 905,
-          "average": 6.198630136986301,
-          "average w/o zero": 6.198630136986301
+          "count": 237,
+          "sum": 1470,
+          "average": 6.2025316455696204,
+          "average w/o zero": 6.2025316455696204
         },
         "OK": {
-          "count": 126,
-          "sum": 733,
-          "average": 5.817460317460317,
-          "average w/o zero": 5.817460317460317
+          "count": 190,
+          "sum": 1191,
+          "average": 6.268421052631579,
+          "average w/o zero": 6.268421052631579
         },
         "AZ": {
-          "count": 219,
-          "sum": 1294,
-          "average": 5.908675799086758,
-          "average w/o zero": 5.908675799086758
+          "count": 301,
+          "sum": 1818,
+          "average": 6.039867109634551,
+          "average w/o zero": 6.039867109634551
         },
         "IA": {
-          "count": 26,
-          "sum": 173,
-          "average": 6.653846153846154,
-          "average w/o zero": 6.653846153846154
+          "count": 38,
+          "sum": 261,
+          "average": 6.868421052631579,
+          "average w/o zero": 6.868421052631579
         },
         "PA": {
-          "count": 89,
-          "sum": 573,
-          "average": 6.438202247191011,
-          "average w/o zero": 6.438202247191011
+          "count": 135,
+          "sum": 887,
+          "average": 6.57037037037037,
+          "average w/o zero": 6.57037037037037
         },
         "TX": {
-          "count": 377,
-          "sum": 2034,
-          "average": 5.395225464190982,
-          "average w/o zero": 5.395225464190982
+          "count": 584,
+          "sum": 3382,
+          "average": 5.791095890410959,
+          "average w/o zero": 5.791095890410959
         },
         "OH": {
-          "count": 126,
-          "sum": 787,
-          "average": 6.246031746031746,
-          "average w/o zero": 6.246031746031746
+          "count": 186,
+          "sum": 1191,
+          "average": 6.403225806451613,
+          "average w/o zero": 6.403225806451613
         },
         "LA": {
-          "count": 91,
-          "sum": 552,
-          "average": 6.065934065934066,
-          "average w/o zero": 6.065934065934066
+          "count": 129,
+          "sum": 797,
+          "average": 6.178294573643411,
+          "average w/o zero": 6.178294573643411
         },
         "MT": {
-          "count": 23,
-          "sum": 136,
-          "average": 5.913043478260869,
-          "average w/o zero": 5.913043478260869
+          "count": 40,
+          "sum": 255,
+          "average": 6.375,
+          "average w/o zero": 6.375
         },
         "UT": {
-          "count": 44,
-          "sum": 273,
-          "average": 6.204545454545454,
-          "average w/o zero": 6.204545454545454
+          "count": 81,
+          "sum": 548,
+          "average": 6.765432098765432,
+          "average w/o zero": 6.765432098765432
         },
         "AR": {
-          "count": 59,
-          "sum": 370,
-          "average": 6.271186440677966,
-          "average w/o zero": 6.271186440677966
+          "count": 95,
+          "sum": 585,
+          "average": 6.157894736842105,
+          "average w/o zero": 6.157894736842105
         },
         "IL": {
-          "count": 93,
-          "sum": 534,
-          "average": 5.741935483870968,
-          "average w/o zero": 5.741935483870968
+          "count": 129,
+          "sum": 753,
+          "average": 5.837209302325581,
+          "average w/o zero": 5.837209302325581
         },
         "NV": {
-          "count": 77,
-          "sum": 522,
-          "average": 6.779220779220779,
-          "average w/o zero": 6.779220779220779
+          "count": 108,
+          "sum": 714,
+          "average": 6.611111111111111,
+          "average w/o zero": 6.611111111111111
         },
         "NM": {
-          "count": 85,
-          "sum": 568,
-          "average": 6.682352941176471,
-          "average w/o zero": 6.682352941176471
+          "count": 131,
+          "sum": 893,
+          "average": 6.816793893129771,
+          "average w/o zero": 6.816793893129771
         },
         "MN": {
-          "count": 52,
-          "sum": 333,
-          "average": 6.403846153846154,
-          "average w/o zero": 6.403846153846154
+          "count": 76,
+          "sum": 477,
+          "average": 6.276315789473684,
+          "average w/o zero": 6.276315789473684
         },
         "MO": {
-          "count": 106,
-          "sum": 568,
-          "average": 5.3584905660377355,
-          "average w/o zero": 5.3584905660377355
+          "count": 162,
+          "sum": 928,
+          "average": 5.728395061728395,
+          "average w/o zero": 5.728395061728395
         },
         "VA": {
-          "count": 80,
-          "sum": 497,
-          "average": 6.2125,
-          "average w/o zero": 6.2125
+          "count": 113,
+          "sum": 664,
+          "average": 5.876106194690266,
+          "average w/o zero": 5.876106194690266
         },
         "NJ": {
-          "count": 56,
-          "sum": 318,
-          "average": 5.678571428571429,
-          "average w/o zero": 5.678571428571429
+          "count": 76,
+          "sum": 458,
+          "average": 6.026315789473684,
+          "average w/o zero": 6.026315789473684
         },
         "IN": {
-          "count": 76,
-          "sum": 459,
-          "average": 6.0394736842105265,
-          "average w/o zero": 6.0394736842105265
+          "count": 120,
+          "sum": 764,
+          "average": 6.366666666666666,
+          "average w/o zero": 6.366666666666666
         },
         "KY": {
-          "count": 75,
-          "sum": 459,
-          "average": 6.12,
-          "average w/o zero": 6.12
+          "count": 116,
+          "sum": 712,
+          "average": 6.137931034482759,
+          "average w/o zero": 6.137931034482759
         },
         "MA": {
-          "count": 28,
-          "sum": 165,
-          "average": 5.892857142857143,
-          "average w/o zero": 5.892857142857143
+          "count": 43,
+          "sum": 262,
+          "average": 6.093023255813954,
+          "average w/o zero": 6.093023255813954
         },
         "NH": {
-          "count": 11,
-          "sum": 76,
-          "average": 6.909090909090909,
-          "average w/o zero": 6.909090909090909
+          "count": 18,
+          "sum": 128,
+          "average": 7.111111111111111,
+          "average w/o zero": 7.111111111111111
         },
         "FL": {
-          "count": 262,
-          "sum": 1666,
-          "average": 6.358778625954199,
-          "average w/o zero": 6.358778625954199
+          "count": 431,
+          "sum": 2818,
+          "average": 6.538283062645012,
+          "average w/o zero": 6.538283062645012
         },
         "ID": {
-          "count": 32,
-          "sum": 184,
-          "average": 5.75,
-          "average w/o zero": 5.75
+          "count": 53,
+          "sum": 329,
+          "average": 6.2075471698113205,
+          "average w/o zero": 6.2075471698113205
         },
         "MD": {
-          "count": 58,
-          "sum": 326,
-          "average": 5.620689655172414,
-          "average w/o zero": 5.620689655172414
+          "count": 97,
+          "sum": 563,
+          "average": 5.804123711340206,
+          "average w/o zero": 5.804123711340206
         },
         "NE": {
-          "count": 19,
-          "sum": 110,
-          "average": 5.7894736842105265,
-          "average w/o zero": 5.7894736842105265
+          "count": 34,
+          "sum": 205,
+          "average": 6.029411764705882,
+          "average w/o zero": 6.029411764705882
         },
         "MI": {
-          "count": 70,
-          "sum": 413,
-          "average": 5.9,
-          "average w/o zero": 5.9
+          "count": 105,
+          "sum": 676,
+          "average": 6.438095238095238,
+          "average w/o zero": 6.438095238095238
         },
         "GA": {
-          "count": 143,
-          "sum": 865,
-          "average": 6.048951048951049,
-          "average w/o zero": 6.048951048951049
+          "count": 240,
+          "sum": 1520,
+          "average": 6.333333333333333,
+          "average w/o zero": 6.333333333333333
         },
         "TN": {
-          "count": 108,
-          "sum": 656,
-          "average": 6.074074074074074,
-          "average w/o zero": 6.074074074074074
+          "count": 174,
+          "sum": 1127,
+          "average": 6.477011494252873,
+          "average w/o zero": 6.477011494252873
         },
         "NC": {
-          "count": 117,
-          "sum": 645,
-          "average": 5.512820512820513,
-          "average w/o zero": 5.512820512820513
+          "count": 185,
+          "sum": 1088,
+          "average": 5.881081081081081,
+          "average w/o zero": 5.881081081081081
         },
         "AK": {
-          "count": 30,
-          "sum": 181,
-          "average": 6.033333333333333,
-          "average w/o zero": 6.033333333333333
+          "count": 47,
+          "sum": 274,
+          "average": 5.829787234042553,
+          "average w/o zero": 5.829787234042553
         },
         "NY": {
-          "count": 73,
-          "sum": 451,
-          "average": 6.178082191780822,
-          "average w/o zero": 6.178082191780822
+          "count": 120,
+          "sum": 783,
+          "average": 6.525,
+          "average w/o zero": 6.525
         },
         "ME": {
-          "count": 16,
-          "sum": 84,
-          "average": 5.25,
-          "average w/o zero": 5.25
+          "count": 26,
+          "sum": 141,
+          "average": 5.423076923076923,
+          "average w/o zero": 5.423076923076923
         },
         "AL": {
-          "count": 82,
-          "sum": 547,
-          "average": 6.670731707317073,
-          "average w/o zero": 6.670731707317073
+          "count": 124,
+          "sum": 746,
+          "average": 6.016129032258065,
+          "average w/o zero": 6.016129032258065
         },
         "MS": {
-          "count": 50,
-          "sum": 295,
-          "average": 5.9,
-          "average w/o zero": 5.9
+          "count": 82,
+          "sum": 515,
+          "average": 6.280487804878049,
+          "average w/o zero": 6.280487804878049
         },
         "WI": {
-          "count": 67,
-          "sum": 386,
-          "average": 5.7611940298507465,
-          "average w/o zero": 5.7611940298507465
+          "count": 106,
+          "sum": 666,
+          "average": 6.283018867924528,
+          "average w/o zero": 6.283018867924528
         },
         "SC": {
-          "count": 67,
-          "sum": 438,
-          "average": 6.537313432835821,
-          "average w/o zero": 6.537313432835821
+          "count": 101,
+          "sum": 666,
+          "average": 6.594059405940594,
+          "average w/o zero": 6.594059405940594
         },
         "DE": {
-          "count": 10,
-          "sum": 59,
-          "average": 5.9,
-          "average w/o zero": 5.9
+          "count": 16,
+          "sum": 95,
+          "average": 5.9375,
+          "average w/o zero": 5.9375
         },
         "DC": {
-          "count": 12,
-          "sum": 84,
-          "average": 7,
-          "average w/o zero": 7
+          "count": 20,
+          "sum": 132,
+          "average": 6.6,
+          "average w/o zero": 6.6
         },
         "WV": {
-          "count": 47,
-          "sum": 296,
-          "average": 6.297872340425532,
-          "average w/o zero": 6.297872340425532
+          "count": 62,
+          "sum": 433,
+          "average": 6.983870967741935,
+          "average w/o zero": 6.983870967741935
         },
         "HI": {
-          "count": 26,
-          "sum": 162,
-          "average": 6.230769230769231,
-          "average w/o zero": 6.230769230769231
+          "count": 36,
+          "sum": 238,
+          "average": 6.611111111111111,
+          "average w/o zero": 6.611111111111111
         },
         "WY": {
-          "count": 14,
-          "sum": 100,
-          "average": 7.142857142857143,
-          "average w/o zero": 7.142857142857143
+          "count": 15,
+          "sum": 119,
+          "average": 7.933333333333334,
+          "average w/o zero": 7.933333333333334
         },
         "ND": {
-          "count": 9,
-          "sum": 43,
-          "average": 4.777777777777778,
-          "average w/o zero": 4.777777777777778
+          "count": 14,
+          "sum": 62,
+          "average": 4.428571428571429,
+          "average w/o zero": 4.428571428571429
         },
         "CT": {
-          "count": 15,
-          "sum": 96,
-          "average": 6.4,
-          "average w/o zero": 6.4
+          "count": 23,
+          "sum": 125,
+          "average": 5.434782608695652,
+          "average w/o zero": 5.434782608695652
         },
         "SD": {
-          "count": 15,
-          "sum": 69,
-          "average": 4.6,
-          "average w/o zero": 4.6
+          "count": 20,
+          "sum": 104,
+          "average": 5.2,
+          "average w/o zero": 5.2
         },
         "VT": {
-          "count": 7,
-          "sum": 41,
-          "average": 5.857142857142857,
-          "average w/o zero": 5.857142857142857
+          "count": 11,
+          "sum": 75,
+          "average": 6.818181818181818,
+          "average w/o zero": 6.818181818181818
         },
         "RI": {
           "count": 4,
@@ -55411,304 +84271,304 @@ VISUALIZER_DATA_BARS = [
       },
       "Incident.Date.Day": {
         "WA": {
-          "count": 116,
-          "sum": 1712,
-          "average": 14.758620689655173,
-          "average w/o zero": 14.758620689655173
+          "count": 178,
+          "sum": 2587,
+          "average": 14.53370786516854,
+          "average w/o zero": 14.53370786516854
         },
         "OR": {
-          "count": 68,
-          "sum": 1159,
-          "average": 17.044117647058822,
-          "average w/o zero": 17.044117647058822
+          "count": 107,
+          "sum": 1724,
+          "average": 16.11214953271028,
+          "average w/o zero": 16.11214953271028
         },
         "KS": {
-          "count": 40,
-          "sum": 624,
-          "average": 15.6,
-          "average w/o zero": 15.6
+          "count": 62,
+          "sum": 1036,
+          "average": 16.70967741935484,
+          "average w/o zero": 16.70967741935484
         },
         "CA": {
-          "count": 652,
-          "sum": 9812,
-          "average": 15.049079754601227,
-          "average w/o zero": 15.049079754601227
+          "count": 968,
+          "sum": 14733,
+          "average": 15.22004132231405,
+          "average w/o zero": 15.22004132231405
         },
         "CO": {
-          "count": 146,
-          "sum": 2416,
-          "average": 16.54794520547945,
-          "average w/o zero": 16.54794520547945
+          "count": 237,
+          "sum": 3792,
+          "average": 16,
+          "average w/o zero": 16
         },
         "OK": {
-          "count": 126,
-          "sum": 1989,
-          "average": 15.785714285714286,
-          "average w/o zero": 15.785714285714286
+          "count": 190,
+          "sum": 2843,
+          "average": 14.963157894736842,
+          "average w/o zero": 14.963157894736842
         },
         "AZ": {
-          "count": 219,
-          "sum": 3576,
-          "average": 16.328767123287673,
-          "average w/o zero": 16.328767123287673
+          "count": 301,
+          "sum": 4926,
+          "average": 16.365448504983387,
+          "average w/o zero": 16.365448504983387
         },
         "IA": {
-          "count": 26,
-          "sum": 376,
-          "average": 14.461538461538462,
-          "average w/o zero": 14.461538461538462
+          "count": 38,
+          "sum": 528,
+          "average": 13.894736842105264,
+          "average w/o zero": 13.894736842105264
         },
         "PA": {
-          "count": 89,
-          "sum": 1285,
-          "average": 14.438202247191011,
-          "average w/o zero": 14.438202247191011
+          "count": 135,
+          "sum": 2032,
+          "average": 15.051851851851852,
+          "average w/o zero": 15.051851851851852
         },
         "TX": {
-          "count": 377,
-          "sum": 5923,
-          "average": 15.710875331564987,
-          "average w/o zero": 15.710875331564987
+          "count": 584,
+          "sum": 9246,
+          "average": 15.832191780821917,
+          "average w/o zero": 15.832191780821917
         },
         "OH": {
-          "count": 126,
-          "sum": 1960,
-          "average": 15.555555555555555,
-          "average w/o zero": 15.555555555555555
+          "count": 186,
+          "sum": 2820,
+          "average": 15.161290322580646,
+          "average w/o zero": 15.161290322580646
         },
         "LA": {
-          "count": 91,
-          "sum": 1400,
-          "average": 15.384615384615385,
-          "average w/o zero": 15.384615384615385
+          "count": 129,
+          "sum": 2009,
+          "average": 15.573643410852712,
+          "average w/o zero": 15.573643410852712
         },
         "MT": {
-          "count": 23,
-          "sum": 300,
-          "average": 13.043478260869565,
-          "average w/o zero": 13.043478260869565
+          "count": 40,
+          "sum": 584,
+          "average": 14.6,
+          "average w/o zero": 14.6
         },
         "UT": {
-          "count": 44,
-          "sum": 760,
-          "average": 17.272727272727273,
-          "average w/o zero": 17.272727272727273
+          "count": 81,
+          "sum": 1353,
+          "average": 16.703703703703702,
+          "average w/o zero": 16.703703703703702
         },
         "AR": {
-          "count": 59,
-          "sum": 891,
-          "average": 15.101694915254237,
-          "average w/o zero": 15.101694915254237
+          "count": 95,
+          "sum": 1377,
+          "average": 14.494736842105263,
+          "average w/o zero": 14.494736842105263
         },
         "IL": {
-          "count": 93,
-          "sum": 1304,
-          "average": 14.021505376344086,
-          "average w/o zero": 14.021505376344086
+          "count": 129,
+          "sum": 1912,
+          "average": 14.821705426356589,
+          "average w/o zero": 14.821705426356589
         },
         "NV": {
-          "count": 77,
-          "sum": 1315,
-          "average": 17.07792207792208,
-          "average w/o zero": 17.07792207792208
+          "count": 108,
+          "sum": 1758,
+          "average": 16.27777777777778,
+          "average w/o zero": 16.27777777777778
         },
         "NM": {
-          "count": 85,
-          "sum": 1414,
-          "average": 16.63529411764706,
-          "average w/o zero": 16.63529411764706
+          "count": 131,
+          "sum": 2115,
+          "average": 16.14503816793893,
+          "average w/o zero": 16.14503816793893
         },
         "MN": {
-          "count": 52,
-          "sum": 859,
-          "average": 16.51923076923077,
-          "average w/o zero": 16.51923076923077
+          "count": 76,
+          "sum": 1235,
+          "average": 16.25,
+          "average w/o zero": 16.25
         },
         "MO": {
-          "count": 106,
-          "sum": 1625,
-          "average": 15.330188679245284,
-          "average w/o zero": 15.330188679245284
+          "count": 162,
+          "sum": 2513,
+          "average": 15.512345679012345,
+          "average w/o zero": 15.512345679012345
         },
         "VA": {
-          "count": 80,
-          "sum": 1152,
-          "average": 14.4,
-          "average w/o zero": 14.4
+          "count": 113,
+          "sum": 1720,
+          "average": 15.221238938053098,
+          "average w/o zero": 15.221238938053098
         },
         "NJ": {
-          "count": 56,
-          "sum": 893,
-          "average": 15.946428571428571,
-          "average w/o zero": 15.946428571428571
+          "count": 76,
+          "sum": 1175,
+          "average": 15.460526315789474,
+          "average w/o zero": 15.460526315789474
         },
         "IN": {
-          "count": 76,
-          "sum": 1083,
-          "average": 14.25,
-          "average w/o zero": 14.25
+          "count": 120,
+          "sum": 1732,
+          "average": 14.433333333333334,
+          "average w/o zero": 14.433333333333334
         },
         "KY": {
-          "count": 75,
-          "sum": 1115,
-          "average": 14.866666666666667,
-          "average w/o zero": 14.866666666666667
+          "count": 116,
+          "sum": 1832,
+          "average": 15.793103448275861,
+          "average w/o zero": 15.793103448275861
         },
         "MA": {
-          "count": 28,
-          "sum": 453,
-          "average": 16.178571428571427,
-          "average w/o zero": 16.178571428571427
+          "count": 43,
+          "sum": 658,
+          "average": 15.30232558139535,
+          "average w/o zero": 15.30232558139535
         },
         "NH": {
-          "count": 11,
-          "sum": 204,
-          "average": 18.545454545454547,
-          "average w/o zero": 18.545454545454547
+          "count": 18,
+          "sum": 326,
+          "average": 18.11111111111111,
+          "average w/o zero": 18.11111111111111
         },
         "FL": {
-          "count": 262,
-          "sum": 4117,
-          "average": 15.713740458015268,
-          "average w/o zero": 15.713740458015268
+          "count": 431,
+          "sum": 6621,
+          "average": 15.361948955916473,
+          "average w/o zero": 15.361948955916473
         },
         "ID": {
-          "count": 32,
-          "sum": 555,
-          "average": 17.34375,
-          "average w/o zero": 17.34375
+          "count": 53,
+          "sum": 907,
+          "average": 17.11320754716981,
+          "average w/o zero": 17.11320754716981
         },
         "MD": {
-          "count": 58,
-          "sum": 987,
-          "average": 17.017241379310345,
-          "average w/o zero": 17.017241379310345
+          "count": 97,
+          "sum": 1648,
+          "average": 16.989690721649485,
+          "average w/o zero": 16.989690721649485
         },
         "NE": {
-          "count": 19,
-          "sum": 314,
-          "average": 16.526315789473685,
-          "average w/o zero": 16.526315789473685
+          "count": 34,
+          "sum": 579,
+          "average": 17.029411764705884,
+          "average w/o zero": 17.029411764705884
         },
         "MI": {
-          "count": 70,
-          "sum": 1163,
-          "average": 16.614285714285714,
-          "average w/o zero": 16.614285714285714
+          "count": 105,
+          "sum": 1747,
+          "average": 16.63809523809524,
+          "average w/o zero": 16.63809523809524
         },
         "GA": {
-          "count": 143,
-          "sum": 2171,
-          "average": 15.181818181818182,
-          "average w/o zero": 15.181818181818182
+          "count": 240,
+          "sum": 3902,
+          "average": 16.258333333333333,
+          "average w/o zero": 16.258333333333333
         },
         "TN": {
-          "count": 108,
-          "sum": 1766,
-          "average": 16.35185185185185,
-          "average w/o zero": 16.35185185185185
+          "count": 174,
+          "sum": 2816,
+          "average": 16.183908045977013,
+          "average w/o zero": 16.183908045977013
         },
         "NC": {
-          "count": 117,
-          "sum": 1809,
-          "average": 15.461538461538462,
-          "average w/o zero": 15.461538461538462
+          "count": 185,
+          "sum": 2847,
+          "average": 15.389189189189189,
+          "average w/o zero": 15.389189189189189
         },
         "AK": {
-          "count": 30,
-          "sum": 476,
-          "average": 15.866666666666667,
-          "average w/o zero": 15.866666666666667
+          "count": 47,
+          "sum": 794,
+          "average": 16.893617021276597,
+          "average w/o zero": 16.893617021276597
         },
         "NY": {
-          "count": 73,
-          "sum": 1063,
-          "average": 14.561643835616438,
-          "average w/o zero": 14.561643835616438
+          "count": 120,
+          "sum": 1815,
+          "average": 15.125,
+          "average w/o zero": 15.125
         },
         "ME": {
-          "count": 16,
-          "sum": 228,
-          "average": 14.25,
-          "average w/o zero": 14.25
+          "count": 26,
+          "sum": 398,
+          "average": 15.307692307692308,
+          "average w/o zero": 15.307692307692308
         },
         "AL": {
-          "count": 82,
-          "sum": 1308,
-          "average": 15.951219512195122,
-          "average w/o zero": 15.951219512195122
+          "count": 124,
+          "sum": 1990,
+          "average": 16.048387096774192,
+          "average w/o zero": 16.048387096774192
         },
         "MS": {
-          "count": 50,
-          "sum": 728,
-          "average": 14.56,
-          "average w/o zero": 14.56
+          "count": 82,
+          "sum": 1202,
+          "average": 14.658536585365853,
+          "average w/o zero": 14.658536585365853
         },
         "WI": {
-          "count": 67,
-          "sum": 975,
-          "average": 14.552238805970148,
-          "average w/o zero": 14.552238805970148
+          "count": 106,
+          "sum": 1570,
+          "average": 14.81132075471698,
+          "average w/o zero": 14.81132075471698
         },
         "SC": {
-          "count": 67,
-          "sum": 1015,
-          "average": 15.149253731343284,
-          "average w/o zero": 15.149253731343284
+          "count": 101,
+          "sum": 1566,
+          "average": 15.504950495049505,
+          "average w/o zero": 15.504950495049505
         },
         "DE": {
-          "count": 10,
-          "sum": 182,
-          "average": 18.2,
-          "average w/o zero": 18.2
+          "count": 16,
+          "sum": 294,
+          "average": 18.375,
+          "average w/o zero": 18.375
         },
         "DC": {
-          "count": 12,
-          "sum": 178,
-          "average": 14.833333333333334,
-          "average w/o zero": 14.833333333333334
+          "count": 20,
+          "sum": 314,
+          "average": 15.7,
+          "average w/o zero": 15.7
         },
         "WV": {
-          "count": 47,
-          "sum": 594,
-          "average": 12.638297872340425,
-          "average w/o zero": 12.638297872340425
+          "count": 62,
+          "sum": 788,
+          "average": 12.709677419354838,
+          "average w/o zero": 12.709677419354838
         },
         "HI": {
-          "count": 26,
-          "sum": 413,
-          "average": 15.884615384615385,
-          "average w/o zero": 15.884615384615385
+          "count": 36,
+          "sum": 553,
+          "average": 15.36111111111111,
+          "average w/o zero": 15.36111111111111
         },
         "WY": {
-          "count": 14,
-          "sum": 219,
-          "average": 15.642857142857142,
-          "average w/o zero": 15.642857142857142
+          "count": 15,
+          "sum": 243,
+          "average": 16.2,
+          "average w/o zero": 16.2
         },
         "ND": {
-          "count": 9,
-          "sum": 123,
-          "average": 13.666666666666666,
-          "average w/o zero": 13.666666666666666
+          "count": 14,
+          "sum": 201,
+          "average": 14.357142857142858,
+          "average w/o zero": 14.357142857142858
         },
         "CT": {
-          "count": 15,
-          "sum": 294,
-          "average": 19.6,
-          "average w/o zero": 19.6
+          "count": 23,
+          "sum": 382,
+          "average": 16.608695652173914,
+          "average w/o zero": 16.608695652173914
         },
         "SD": {
-          "count": 15,
-          "sum": 245,
-          "average": 16.333333333333332,
-          "average w/o zero": 16.333333333333332
+          "count": 20,
+          "sum": 332,
+          "average": 16.6,
+          "average w/o zero": 16.6
         },
         "VT": {
-          "count": 7,
-          "sum": 98,
-          "average": 14,
-          "average w/o zero": 14
+          "count": 11,
+          "sum": 138,
+          "average": 12.545454545454545,
+          "average w/o zero": 12.545454545454545
         },
         "RI": {
           "count": 4,
@@ -55719,304 +84579,304 @@ VISUALIZER_DATA_BARS = [
       },
       "Incident.Date.Year": {
         "WA": {
-          "count": 116,
-          "sum": 233964,
-          "average": 2016.9310344827586,
-          "average w/o zero": 2016.9310344827586
+          "count": 178,
+          "sum": 359190,
+          "average": 2017.9213483146068,
+          "average w/o zero": 2017.9213483146068
         },
         "OR": {
-          "count": 68,
-          "sum": 137146,
-          "average": 2016.8529411764705,
-          "average w/o zero": 2016.8529411764705
+          "count": 107,
+          "sum": 215934,
+          "average": 2018.0747663551401,
+          "average w/o zero": 2018.0747663551401
         },
         "KS": {
-          "count": 40,
-          "sum": 80663,
-          "average": 2016.575,
-          "average w/o zero": 2016.575
+          "count": 62,
+          "sum": 125104,
+          "average": 2017.8064516129032,
+          "average w/o zero": 2017.8064516129032
         },
         "CA": {
-          "count": 652,
-          "sum": 1314777,
-          "average": 2016.5291411042945,
-          "average w/o zero": 2016.5291411042945
+          "count": 968,
+          "sum": 1953094,
+          "average": 2017.659090909091,
+          "average w/o zero": 2017.659090909091
         },
         "CO": {
-          "count": 146,
-          "sum": 294459,
-          "average": 2016.8424657534247,
-          "average w/o zero": 2016.8424657534247
+          "count": 237,
+          "sum": 478278,
+          "average": 2018.0506329113923,
+          "average w/o zero": 2018.0506329113923
         },
         "OK": {
-          "count": 126,
-          "sum": 254103,
-          "average": 2016.6904761904761,
-          "average w/o zero": 2016.6904761904761
+          "count": 190,
+          "sum": 383369,
+          "average": 2017.7315789473685,
+          "average w/o zero": 2017.7315789473685
         },
         "AZ": {
-          "count": 219,
-          "sum": 441693,
-          "average": 2016.86301369863,
-          "average w/o zero": 2016.86301369863
+          "count": 301,
+          "sum": 607347,
+          "average": 2017.764119601329,
+          "average w/o zero": 2017.764119601329
         },
         "IA": {
-          "count": 26,
-          "sum": 52440,
-          "average": 2016.923076923077,
-          "average w/o zero": 2016.923076923077
+          "count": 38,
+          "sum": 76680,
+          "average": 2017.8947368421052,
+          "average w/o zero": 2017.8947368421052
         },
         "PA": {
-          "count": 89,
-          "sum": 179484,
-          "average": 2016.6741573033707,
-          "average w/o zero": 2016.6741573033707
+          "count": 135,
+          "sum": 272409,
+          "average": 2017.8444444444444,
+          "average w/o zero": 2017.8444444444444
         },
         "TX": {
-          "count": 377,
-          "sum": 760294,
-          "average": 2016.6949602122015,
-          "average w/o zero": 2016.6949602122015
+          "count": 584,
+          "sum": 1178429,
+          "average": 2017.8578767123288,
+          "average w/o zero": 2017.8578767123288
         },
         "OH": {
-          "count": 126,
-          "sum": 254100,
+          "count": 186,
+          "sum": 375299,
+          "average": 2017.736559139785,
+          "average w/o zero": 2017.736559139785
+        },
+        "LA": {
+          "count": 129,
+          "sum": 260271,
+          "average": 2017.6046511627908,
+          "average w/o zero": 2017.6046511627908
+        },
+        "MT": {
+          "count": 40,
+          "sum": 80727,
+          "average": 2018.175,
+          "average w/o zero": 2018.175
+        },
+        "UT": {
+          "count": 81,
+          "sum": 163475,
+          "average": 2018.20987654321,
+          "average w/o zero": 2018.20987654321
+        },
+        "AR": {
+          "count": 95,
+          "sum": 191729,
+          "average": 2018.2,
+          "average w/o zero": 2018.2
+        },
+        "IL": {
+          "count": 129,
+          "sum": 260278,
+          "average": 2017.6589147286822,
+          "average w/o zero": 2017.6589147286822
+        },
+        "NV": {
+          "count": 108,
+          "sum": 217912,
+          "average": 2017.7037037037037,
+          "average w/o zero": 2017.7037037037037
+        },
+        "NM": {
+          "count": 131,
+          "sum": 264330,
+          "average": 2017.7862595419847,
+          "average w/o zero": 2017.7862595419847
+        },
+        "MN": {
+          "count": 76,
+          "sum": 153352,
+          "average": 2017.7894736842106,
+          "average w/o zero": 2017.7894736842106
+        },
+        "MO": {
+          "count": 162,
+          "sum": 326894,
+          "average": 2017.8641975308642,
+          "average w/o zero": 2017.8641975308642
+        },
+        "VA": {
+          "count": 113,
+          "sum": 228005,
+          "average": 2017.7433628318583,
+          "average w/o zero": 2017.7433628318583
+        },
+        "NJ": {
+          "count": 76,
+          "sum": 153330,
+          "average": 2017.5,
+          "average w/o zero": 2017.5
+        },
+        "IN": {
+          "count": 120,
+          "sum": 242149,
+          "average": 2017.9083333333333,
+          "average w/o zero": 2017.9083333333333
+        },
+        "KY": {
+          "count": 116,
+          "sum": 234072,
+          "average": 2017.8620689655172,
+          "average w/o zero": 2017.8620689655172
+        },
+        "MA": {
+          "count": 43,
+          "sum": 86752,
+          "average": 2017.4883720930231,
+          "average w/o zero": 2017.4883720930231
+        },
+        "NH": {
+          "count": 18,
+          "sum": 36324,
+          "average": 2018,
+          "average w/o zero": 2018
+        },
+        "FL": {
+          "count": 431,
+          "sum": 869740,
+          "average": 2017.9582366589327,
+          "average w/o zero": 2017.9582366589327
+        },
+        "ID": {
+          "count": 53,
+          "sum": 106958,
+          "average": 2018.0754716981132,
+          "average w/o zero": 2018.0754716981132
+        },
+        "MD": {
+          "count": 97,
+          "sum": 195748,
+          "average": 2018.020618556701,
+          "average w/o zero": 2018.020618556701
+        },
+        "NE": {
+          "count": 34,
+          "sum": 68612,
+          "average": 2018,
+          "average w/o zero": 2018
+        },
+        "MI": {
+          "count": 105,
+          "sum": 211887,
+          "average": 2017.9714285714285,
+          "average w/o zero": 2017.9714285714285
+        },
+        "GA": {
+          "count": 240,
+          "sum": 484369,
+          "average": 2018.2041666666667,
+          "average w/o zero": 2018.2041666666667
+        },
+        "TN": {
+          "count": 174,
+          "sum": 351143,
+          "average": 2018.0632183908046,
+          "average w/o zero": 2018.0632183908046
+        },
+        "NC": {
+          "count": 185,
+          "sum": 373322,
+          "average": 2017.9567567567567,
+          "average w/o zero": 2017.9567567567567
+        },
+        "AK": {
+          "count": 47,
+          "sum": 94852,
+          "average": 2018.127659574468,
+          "average w/o zero": 2018.127659574468
+        },
+        "NY": {
+          "count": 120,
+          "sum": 242147,
+          "average": 2017.8916666666667,
+          "average w/o zero": 2017.8916666666667
+        },
+        "ME": {
+          "count": 26,
+          "sum": 52469,
+          "average": 2018.0384615384614,
+          "average w/o zero": 2018.0384615384614
+        },
+        "AL": {
+          "count": 124,
+          "sum": 250205,
+          "average": 2017.782258064516,
+          "average w/o zero": 2017.782258064516
+        },
+        "MS": {
+          "count": 82,
+          "sum": 165490,
+          "average": 2018.1707317073171,
+          "average w/o zero": 2018.1707317073171
+        },
+        "WI": {
+          "count": 106,
+          "sum": 213889,
+          "average": 2017.8207547169811,
+          "average w/o zero": 2017.8207547169811
+        },
+        "SC": {
+          "count": 101,
+          "sum": 203788,
+          "average": 2017.7029702970297,
+          "average w/o zero": 2017.7029702970297
+        },
+        "DE": {
+          "count": 16,
+          "sum": 32283,
+          "average": 2017.6875,
+          "average w/o zero": 2017.6875
+        },
+        "DC": {
+          "count": 20,
+          "sum": 40357,
+          "average": 2017.85,
+          "average w/o zero": 2017.85
+        },
+        "WV": {
+          "count": 62,
+          "sum": 125085,
+          "average": 2017.5,
+          "average w/o zero": 2017.5
+        },
+        "HI": {
+          "count": 36,
+          "sum": 72653,
+          "average": 2018.138888888889,
+          "average w/o zero": 2018.138888888889
+        },
+        "WY": {
+          "count": 15,
+          "sum": 30250,
           "average": 2016.6666666666667,
           "average w/o zero": 2016.6666666666667
         },
-        "LA": {
-          "count": 91,
-          "sum": 183511,
-          "average": 2016.6043956043957,
-          "average w/o zero": 2016.6043956043957
-        },
-        "MT": {
-          "count": 23,
-          "sum": 46388,
-          "average": 2016.8695652173913,
-          "average w/o zero": 2016.8695652173913
-        },
-        "UT": {
-          "count": 44,
-          "sum": 88740,
-          "average": 2016.8181818181818,
-          "average w/o zero": 2016.8181818181818
-        },
-        "AR": {
-          "count": 59,
-          "sum": 119011,
-          "average": 2017.135593220339,
-          "average w/o zero": 2017.135593220339
-        },
-        "IL": {
-          "count": 93,
-          "sum": 187545,
-          "average": 2016.6129032258063,
-          "average w/o zero": 2016.6129032258063
-        },
-        "NV": {
-          "count": 77,
-          "sum": 155291,
-          "average": 2016.7662337662337,
-          "average w/o zero": 2016.7662337662337
-        },
-        "NM": {
-          "count": 85,
-          "sum": 171410,
-          "average": 2016.5882352941176,
-          "average w/o zero": 2016.5882352941176
-        },
-        "MN": {
-          "count": 52,
-          "sum": 104868,
-          "average": 2016.6923076923076,
-          "average w/o zero": 2016.6923076923076
-        },
-        "MO": {
-          "count": 106,
-          "sum": 213781,
-          "average": 2016.801886792453,
-          "average w/o zero": 2016.801886792453
-        },
-        "VA": {
-          "count": 80,
-          "sum": 161333,
-          "average": 2016.6625,
-          "average w/o zero": 2016.6625
-        },
-        "NJ": {
-          "count": 56,
-          "sum": 112932,
-          "average": 2016.642857142857,
-          "average w/o zero": 2016.642857142857
-        },
-        "IN": {
-          "count": 76,
-          "sum": 153270,
-          "average": 2016.7105263157894,
-          "average w/o zero": 2016.7105263157894
-        },
-        "KY": {
-          "count": 75,
-          "sum": 151253,
-          "average": 2016.7066666666667,
-          "average w/o zero": 2016.7066666666667
-        },
-        "MA": {
-          "count": 28,
-          "sum": 56451,
-          "average": 2016.107142857143,
-          "average w/o zero": 2016.107142857143
-        },
-        "NH": {
-          "count": 11,
-          "sum": 22183,
-          "average": 2016.6363636363637,
-          "average w/o zero": 2016.6363636363637
-        },
-        "FL": {
-          "count": 262,
-          "sum": 528374,
-          "average": 2016.6946564885495,
-          "average w/o zero": 2016.6946564885495
-        },
-        "ID": {
-          "count": 32,
-          "sum": 64537,
-          "average": 2016.78125,
-          "average w/o zero": 2016.78125
-        },
-        "MD": {
-          "count": 58,
-          "sum": 116967,
-          "average": 2016.6724137931035,
-          "average w/o zero": 2016.6724137931035
-        },
-        "NE": {
-          "count": 19,
-          "sum": 38307,
-          "average": 2016.157894736842,
-          "average w/o zero": 2016.157894736842
-        },
-        "MI": {
-          "count": 70,
-          "sum": 141181,
-          "average": 2016.8714285714286,
-          "average w/o zero": 2016.8714285714286
-        },
-        "GA": {
-          "count": 143,
-          "sum": 288421,
-          "average": 2016.93006993007,
-          "average w/o zero": 2016.93006993007
-        },
-        "TN": {
-          "count": 108,
-          "sum": 217826,
-          "average": 2016.9074074074074,
-          "average w/o zero": 2016.9074074074074
-        },
-        "NC": {
-          "count": 117,
-          "sum": 235967,
-          "average": 2016.8119658119658,
-          "average w/o zero": 2016.8119658119658
-        },
-        "AK": {
-          "count": 30,
-          "sum": 60510,
-          "average": 2017,
-          "average w/o zero": 2017
-        },
-        "NY": {
-          "count": 73,
-          "sum": 147213,
-          "average": 2016.6164383561643,
-          "average w/o zero": 2016.6164383561643
-        },
-        "ME": {
-          "count": 16,
-          "sum": 32269,
-          "average": 2016.8125,
-          "average w/o zero": 2016.8125
-        },
-        "AL": {
-          "count": 82,
-          "sum": 165352,
-          "average": 2016.4878048780488,
-          "average w/o zero": 2016.4878048780488
-        },
-        "MS": {
-          "count": 50,
-          "sum": 100850,
-          "average": 2017,
-          "average w/o zero": 2017
-        },
-        "WI": {
-          "count": 67,
-          "sum": 135118,
-          "average": 2016.686567164179,
-          "average w/o zero": 2016.686567164179
-        },
-        "SC": {
-          "count": 67,
-          "sum": 135110,
-          "average": 2016.5671641791046,
-          "average w/o zero": 2016.5671641791046
-        },
-        "DE": {
-          "count": 10,
-          "sum": 20163,
-          "average": 2016.3,
-          "average w/o zero": 2016.3
-        },
-        "DC": {
-          "count": 12,
-          "sum": 24192,
-          "average": 2016,
-          "average w/o zero": 2016
-        },
-        "WV": {
-          "count": 47,
-          "sum": 94788,
-          "average": 2016.7659574468084,
-          "average w/o zero": 2016.7659574468084
-        },
-        "HI": {
-          "count": 26,
-          "sum": 52451,
-          "average": 2017.3461538461538,
-          "average w/o zero": 2017.3461538461538
-        },
-        "WY": {
-          "count": 14,
-          "sum": 28230,
-          "average": 2016.4285714285713,
-          "average w/o zero": 2016.4285714285713
-        },
         "ND": {
-          "count": 9,
-          "sum": 18154,
-          "average": 2017.111111111111,
-          "average w/o zero": 2017.111111111111
+          "count": 14,
+          "sum": 28256,
+          "average": 2018.2857142857142,
+          "average w/o zero": 2018.2857142857142
         },
         "CT": {
-          "count": 15,
-          "sum": 30252,
-          "average": 2016.8,
-          "average w/o zero": 2016.8
+          "count": 23,
+          "sum": 46416,
+          "average": 2018.0869565217392,
+          "average w/o zero": 2018.0869565217392
         },
         "SD": {
-          "count": 15,
-          "sum": 30252,
-          "average": 2016.8,
-          "average w/o zero": 2016.8
+          "count": 20,
+          "sum": 40353,
+          "average": 2017.65,
+          "average w/o zero": 2017.65
         },
         "VT": {
-          "count": 7,
-          "sum": 14119,
-          "average": 2017,
-          "average w/o zero": 2017
+          "count": 11,
+          "sum": 22199,
+          "average": 2018.090909090909,
+          "average w/o zero": 2018.090909090909
         },
         "RI": {
           "count": 4,
@@ -56027,302 +84887,302 @@ VISUALIZER_DATA_BARS = [
       },
       "Factors.Mental-Illness": {
         "WA": {
-          "count": 116,
-          "sum": 116,
+          "count": 178,
+          "sum": 178,
           "average": 1,
           "average w/o zero": 1
         },
         "OR": {
-          "count": 68,
-          "sum": 68,
+          "count": 107,
+          "sum": 107,
           "average": 1,
           "average w/o zero": 1
         },
         "KS": {
+          "count": 62,
+          "sum": 62,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "CA": {
+          "count": 968,
+          "sum": 968,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "CO": {
+          "count": 237,
+          "sum": 237,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "OK": {
+          "count": 190,
+          "sum": 190,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "AZ": {
+          "count": 301,
+          "sum": 301,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "IA": {
+          "count": 38,
+          "sum": 38,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "PA": {
+          "count": 135,
+          "sum": 135,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "TX": {
+          "count": 584,
+          "sum": 584,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "OH": {
+          "count": 186,
+          "sum": 186,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "LA": {
+          "count": 129,
+          "sum": 129,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MT": {
           "count": 40,
           "sum": 40,
           "average": 1,
           "average w/o zero": 1
         },
-        "CA": {
-          "count": 652,
-          "sum": 652,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "CO": {
-          "count": 146,
-          "sum": 146,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "OK": {
-          "count": 126,
-          "sum": 126,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "AZ": {
-          "count": 219,
-          "sum": 219,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "IA": {
-          "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "PA": {
-          "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "TX": {
-          "count": 377,
-          "sum": 377,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "OH": {
-          "count": 126,
-          "sum": 126,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "LA": {
-          "count": 91,
-          "sum": 91,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MT": {
-          "count": 23,
-          "sum": 23,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "UT": {
-          "count": 44,
-          "sum": 44,
+          "count": 81,
+          "sum": 81,
           "average": 1,
           "average w/o zero": 1
         },
         "AR": {
-          "count": 59,
-          "sum": 59,
+          "count": 95,
+          "sum": 95,
           "average": 1,
           "average w/o zero": 1
         },
         "IL": {
-          "count": 93,
-          "sum": 93,
+          "count": 129,
+          "sum": 129,
           "average": 1,
           "average w/o zero": 1
         },
         "NV": {
-          "count": 77,
-          "sum": 77,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NM": {
-          "count": 85,
-          "sum": 85,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MN": {
-          "count": 52,
-          "sum": 52,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MO": {
-          "count": 106,
-          "sum": 106,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "VA": {
-          "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NJ": {
-          "count": 56,
-          "sum": 56,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "IN": {
-          "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "KY": {
-          "count": 75,
-          "sum": 75,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MA": {
-          "count": 28,
-          "sum": 28,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NH": {
-          "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "FL": {
-          "count": 262,
-          "sum": 262,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "ID": {
-          "count": 32,
-          "sum": 32,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MD": {
-          "count": 58,
-          "sum": 58,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NE": {
-          "count": 19,
-          "sum": 19,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MI": {
-          "count": 70,
-          "sum": 70,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "GA": {
-          "count": 143,
-          "sum": 143,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "TN": {
           "count": 108,
           "sum": 108,
           "average": 1,
           "average w/o zero": 1
         },
+        "NM": {
+          "count": 131,
+          "sum": 131,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MN": {
+          "count": 76,
+          "sum": 76,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MO": {
+          "count": 162,
+          "sum": 162,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "VA": {
+          "count": 113,
+          "sum": 113,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NJ": {
+          "count": 76,
+          "sum": 76,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "IN": {
+          "count": 120,
+          "sum": 120,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "KY": {
+          "count": 116,
+          "sum": 116,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MA": {
+          "count": 43,
+          "sum": 43,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NH": {
+          "count": 18,
+          "sum": 18,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "FL": {
+          "count": 431,
+          "sum": 431,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ID": {
+          "count": 53,
+          "sum": 53,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MD": {
+          "count": 97,
+          "sum": 97,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NE": {
+          "count": 34,
+          "sum": 34,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MI": {
+          "count": 105,
+          "sum": 105,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "GA": {
+          "count": 240,
+          "sum": 240,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "TN": {
+          "count": 174,
+          "sum": 174,
+          "average": 1,
+          "average w/o zero": 1
+        },
         "NC": {
-          "count": 117,
-          "sum": 117,
+          "count": 185,
+          "sum": 185,
           "average": 1,
           "average w/o zero": 1
         },
         "AK": {
-          "count": 30,
-          "sum": 30,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NY": {
-          "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "ME": {
-          "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "AL": {
-          "count": 82,
-          "sum": 82,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MS": {
-          "count": 50,
-          "sum": 50,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "WI": {
-          "count": 67,
-          "sum": 67,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "SC": {
-          "count": 67,
-          "sum": 67,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "DE": {
-          "count": 10,
-          "sum": 10,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "DC": {
-          "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "WV": {
           "count": 47,
           "sum": 47,
           "average": 1,
           "average w/o zero": 1
         },
-        "HI": {
+        "NY": {
+          "count": 120,
+          "sum": 120,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ME": {
           "count": 26,
           "sum": 26,
           "average": 1,
           "average w/o zero": 1
         },
+        "AL": {
+          "count": 124,
+          "sum": 124,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MS": {
+          "count": 82,
+          "sum": 82,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "WI": {
+          "count": 106,
+          "sum": 106,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "SC": {
+          "count": 101,
+          "sum": 101,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "DE": {
+          "count": 16,
+          "sum": 16,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "DC": {
+          "count": 20,
+          "sum": 20,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "WV": {
+          "count": 62,
+          "sum": 62,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "HI": {
+          "count": 36,
+          "sum": 36,
+          "average": 1,
+          "average w/o zero": 1
+        },
         "WY": {
+          "count": 15,
+          "sum": 15,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ND": {
           "count": 14,
           "sum": 14,
           "average": 1,
           "average w/o zero": 1
         },
-        "ND": {
-          "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "CT": {
-          "count": 15,
-          "sum": 15,
+          "count": 23,
+          "sum": 23,
           "average": 1,
           "average w/o zero": 1
         },
         "SD": {
-          "count": 15,
-          "sum": 15,
+          "count": 20,
+          "sum": 20,
           "average": 1,
           "average w/o zero": 1
         },
         "VT": {
-          "count": 7,
-          "sum": 7,
+          "count": 11,
+          "sum": 11,
           "average": 1,
           "average w/o zero": 1
         },
@@ -56335,302 +85195,302 @@ VISUALIZER_DATA_BARS = [
       },
       "Shooting.Body-Camera": {
         "WA": {
-          "count": 116,
-          "sum": 116,
+          "count": 178,
+          "sum": 178,
           "average": 1,
           "average w/o zero": 1
         },
         "OR": {
-          "count": 68,
-          "sum": 68,
+          "count": 107,
+          "sum": 107,
           "average": 1,
           "average w/o zero": 1
         },
         "KS": {
+          "count": 62,
+          "sum": 62,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "CA": {
+          "count": 968,
+          "sum": 968,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "CO": {
+          "count": 237,
+          "sum": 237,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "OK": {
+          "count": 190,
+          "sum": 190,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "AZ": {
+          "count": 301,
+          "sum": 301,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "IA": {
+          "count": 38,
+          "sum": 38,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "PA": {
+          "count": 135,
+          "sum": 135,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "TX": {
+          "count": 584,
+          "sum": 584,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "OH": {
+          "count": 186,
+          "sum": 186,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "LA": {
+          "count": 129,
+          "sum": 129,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MT": {
           "count": 40,
           "sum": 40,
           "average": 1,
           "average w/o zero": 1
         },
-        "CA": {
-          "count": 652,
-          "sum": 652,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "CO": {
-          "count": 146,
-          "sum": 146,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "OK": {
-          "count": 126,
-          "sum": 126,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "AZ": {
-          "count": 219,
-          "sum": 219,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "IA": {
-          "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "PA": {
-          "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "TX": {
-          "count": 377,
-          "sum": 377,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "OH": {
-          "count": 126,
-          "sum": 126,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "LA": {
-          "count": 91,
-          "sum": 91,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MT": {
-          "count": 23,
-          "sum": 23,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "UT": {
-          "count": 44,
-          "sum": 44,
+          "count": 81,
+          "sum": 81,
           "average": 1,
           "average w/o zero": 1
         },
         "AR": {
-          "count": 59,
-          "sum": 59,
+          "count": 95,
+          "sum": 95,
           "average": 1,
           "average w/o zero": 1
         },
         "IL": {
-          "count": 93,
-          "sum": 93,
+          "count": 129,
+          "sum": 129,
           "average": 1,
           "average w/o zero": 1
         },
         "NV": {
-          "count": 77,
-          "sum": 77,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NM": {
-          "count": 85,
-          "sum": 85,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MN": {
-          "count": 52,
-          "sum": 52,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MO": {
-          "count": 106,
-          "sum": 106,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "VA": {
-          "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NJ": {
-          "count": 56,
-          "sum": 56,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "IN": {
-          "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "KY": {
-          "count": 75,
-          "sum": 75,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MA": {
-          "count": 28,
-          "sum": 28,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NH": {
-          "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "FL": {
-          "count": 262,
-          "sum": 262,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "ID": {
-          "count": 32,
-          "sum": 32,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MD": {
-          "count": 58,
-          "sum": 58,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NE": {
-          "count": 19,
-          "sum": 19,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MI": {
-          "count": 70,
-          "sum": 70,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "GA": {
-          "count": 143,
-          "sum": 143,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "TN": {
           "count": 108,
           "sum": 108,
           "average": 1,
           "average w/o zero": 1
         },
+        "NM": {
+          "count": 131,
+          "sum": 131,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MN": {
+          "count": 76,
+          "sum": 76,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MO": {
+          "count": 162,
+          "sum": 162,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "VA": {
+          "count": 113,
+          "sum": 113,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NJ": {
+          "count": 76,
+          "sum": 76,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "IN": {
+          "count": 120,
+          "sum": 120,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "KY": {
+          "count": 116,
+          "sum": 116,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MA": {
+          "count": 43,
+          "sum": 43,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NH": {
+          "count": 18,
+          "sum": 18,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "FL": {
+          "count": 431,
+          "sum": 431,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ID": {
+          "count": 53,
+          "sum": 53,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MD": {
+          "count": 97,
+          "sum": 97,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "NE": {
+          "count": 34,
+          "sum": 34,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MI": {
+          "count": 105,
+          "sum": 105,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "GA": {
+          "count": 240,
+          "sum": 240,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "TN": {
+          "count": 174,
+          "sum": 174,
+          "average": 1,
+          "average w/o zero": 1
+        },
         "NC": {
-          "count": 117,
-          "sum": 117,
+          "count": 185,
+          "sum": 185,
           "average": 1,
           "average w/o zero": 1
         },
         "AK": {
-          "count": 30,
-          "sum": 30,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "NY": {
-          "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "ME": {
-          "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "AL": {
-          "count": 82,
-          "sum": 82,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "MS": {
-          "count": 50,
-          "sum": 50,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "WI": {
-          "count": 67,
-          "sum": 67,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "SC": {
-          "count": 67,
-          "sum": 67,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "DE": {
-          "count": 10,
-          "sum": 10,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "DC": {
-          "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
-        },
-        "WV": {
           "count": 47,
           "sum": 47,
           "average": 1,
           "average w/o zero": 1
         },
-        "HI": {
+        "NY": {
+          "count": 120,
+          "sum": 120,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ME": {
           "count": 26,
           "sum": 26,
           "average": 1,
           "average w/o zero": 1
         },
+        "AL": {
+          "count": 124,
+          "sum": 124,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "MS": {
+          "count": 82,
+          "sum": 82,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "WI": {
+          "count": 106,
+          "sum": 106,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "SC": {
+          "count": 101,
+          "sum": 101,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "DE": {
+          "count": 16,
+          "sum": 16,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "DC": {
+          "count": 20,
+          "sum": 20,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "WV": {
+          "count": 62,
+          "sum": 62,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "HI": {
+          "count": 36,
+          "sum": 36,
+          "average": 1,
+          "average w/o zero": 1
+        },
         "WY": {
+          "count": 15,
+          "sum": 15,
+          "average": 1,
+          "average w/o zero": 1
+        },
+        "ND": {
           "count": 14,
           "sum": 14,
           "average": 1,
           "average w/o zero": 1
         },
-        "ND": {
-          "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
-        },
         "CT": {
-          "count": 15,
-          "sum": 15,
+          "count": 23,
+          "sum": 23,
           "average": 1,
           "average w/o zero": 1
         },
         "SD": {
-          "count": 15,
-          "sum": 15,
+          "count": 20,
+          "sum": 20,
           "average": 1,
           "average w/o zero": 1
         },
         "VT": {
-          "count": 7,
-          "sum": 7,
+          "count": 11,
+          "sum": 11,
           "average": 1,
           "average w/o zero": 1
         },
@@ -56701,8 +85561,8 @@ VISUALIZER_DATA_BARS = [
       "TX",
       "FL",
       "AZ",
-      "CO",
       "GA",
+      "CO",
       "OK",
       "OH",
       "NC",

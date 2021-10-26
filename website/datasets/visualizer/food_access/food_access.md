@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 7/14/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/14/2021</span><br>
 <span class='text-muted'>Tags: counties, states, food, access, availability, supermarket, rural, urban, population, vehicles</span>
 
 # Overview
@@ -26,7 +26,7 @@ From the United States Department of Agriculture's Economic Research Service, th
 
 
 
-<http://www.ers.usda.gov/data-products/food-access-research-atlas.aspx>
+<https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/>
 
 
 

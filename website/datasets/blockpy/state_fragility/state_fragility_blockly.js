@@ -116,7 +116,7 @@ var state_fragility_INDEX_VALUES = {
         ["Montenegro", "Montenegro"] ,
         ["Morocco", "Morocco"] ,
         ["Mozambique", "Mozambique"] ,
-        ["Myanmar (Burma)", "Myanmar (Burma)"] ,
+        ["Myanmar", "Myanmar"] ,
         ["Namibia", "Namibia"] ,
         ["Nepal", "Nepal"] ,
         ["Netherlands", "Netherlands"] ,
@@ -165,7 +165,7 @@ var state_fragility_INDEX_VALUES = {
         ["Thailand", "Thailand"] ,
         ["Timor Leste", "Timor Leste"] ,
         ["Togo", "Togo"] ,
-        ["Trinidad", "Trinidad"] ,
+        ["Trinidad and Tobago", "Trinidad and Tobago"] ,
         ["Tunisia", "Tunisia"] ,
         ["Turkey", "Turkey"] ,
         ["Turkmenistan", "Turkmenistan"] ,
@@ -203,7 +203,11 @@ var state_fragility_INDEX_VALUES = {
         ["2011", "2011"] ,
         ["2012", "2012"] ,
         ["2013", "2013"] ,
-        ["2014", "2014"] 
+        ["2014", "2014"] ,
+        ["2015", "2015"] ,
+        ["2016", "2016"] ,
+        ["2017", "2017"] ,
+        ["2018", "2018"] 
     ]
 }
 

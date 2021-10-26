@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura</span><br>
-<span class='text-muted'>Version 0.0.1, created 6/8/2019</span><br>
+<span class='text-muted'>By Dennis Kafura, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 0.0.2, created 9/17/2021</span><br>
 <span class='text-muted'>Tags: energy, wind, power, air, turbine, utility, location, time</span>
 
 # Overview
@@ -214,7 +214,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>-93.523651</code>
+                <code>-93.518082</code>
              
                 
              </td> 
@@ -226,7 +226,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>42.006813</code>
+                <code>42.01363</code>
              
                 
              </td> 
