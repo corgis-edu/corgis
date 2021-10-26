@@ -7,7 +7,7 @@ Created on Thu Sep 20 11:28:53 2018
 
 import csv 
     
-with open('raw/police-shootings-data.csv', 'r') as ifile:
+with open('raw/fatal-police-shootings-data.csv', 'r') as ifile:
     with open('police-shootings-corgis.csv', 'w', encoding='utf-8',
               newline='') as ofile:
         reader = csv.reader(ifile)
@@ -22,7 +22,7 @@ with open('raw/police-shootings-data.csv', 'r') as ifile:
             # row[0] is an id field and ignored
                 
             # Person properties
-            outrow[0] = str(inrow[1]) if inrow[1] != "TK Tk" else "Unknown"  # name
+            outrow[0] = str(inrow[1]) if inrow[1] != "" else "Unknown"  # name
             outrow[1] = int(inrow[5]) if inrow[5] != '' else 0 # age
                 
             gender = {"M" : "Male", "F":"Female"}
@@ -36,7 +36,7 @@ with open('raw/police-shootings-data.csv', 'r') as ifile:
             outrow[3] = race.get(inrow[7], "Unknown") # race
                 
             # Incident properties
-            month, day, year = inrow[2].split('/')
+            year, month, day = inrow[2].split('.')
             outrow[4] = int(month)
             outrow[5] = int(day)
             outrow[6] = int(year)
