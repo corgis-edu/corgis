@@ -1,10 +1,10 @@
 Name,Food Access,,,
-Version,2.0.0,,,
-Author,Ryan Whitcomb,,,
-Created,7/14/2016,,,
+Version,3.0.0,,,
+Author,"Ryan Whitcomb, Joung Min Choi, Bo Guan",,,
+Created,9/14/2021,,,
 Data File,food-access-corgis.csv,,,
 Overview,"Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",,,
-Data Source,http://www.ers.usda.gov/data-products/food-access-research-atlas.aspx,,,
+Data Source,https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/,,,
 Description,"From the United States Department of Agriculture's Economic Research Service, the dataset contains information about US county's ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.  Most measures of how individuals and neighborhoods are able to access food are based on the following indicators: 
     - Accessibility to sources of healthy food, as measured by distance to a store or by the number of stores in an area.
     - Individual-level resources that may affect accessibility, such as family income or vehicle availability.
@@ -12,39 +12,33 @@ Description,"From the United States Department of Agriculture's Economic Researc
 ",,,
 Tags,"counties, states, food, access, availability, supermarket, rural, urban, population, vehicles",,,
 Row,record,,,
-Row Explanation,$MISSING_FIELD,,,
+Row Explanation,Information about each state's ability to access food ,,,
 Acknowledgement,,,,
 Icon,food-access-icon.png,,,
 Splash,food-access-icon.png,,,
 Properties,Name,Type,Index,Description
-,County,string,,$MISSING_FIELD
-,Population,int,,$MISSING_FIELD
-,State,string,TRUE,$MISSING_FIELD
-,Housing Data.Residing in Group Quarters,float,,$MISSING_FIELD
-,Housing Data.Rural Housing Percentage,float,,$MISSING_FIELD
-,Housing Data.Total Housing Units,int,,$MISSING_FIELD
-,Housing Data.Urban Housing Percentage,float,,$MISSING_FIELD
-,Vehicle Access.1 Mile,float,,$MISSING_FIELD
-,Vehicle Access.1/2 Mile,float,,$MISSING_FIELD
-,Vehicle Access.10 Miles,float,,$MISSING_FIELD
-,Vehicle Access.20 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Children.1 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Children.1/2 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Children.10 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Children.20 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Low Income People.1 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Low Income People.1/2 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Low Income People.10 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Low Income People.20 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.People.1 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.People.1/2 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.People.10 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.People.20 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Seniors.1 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Seniors.1/2 Mile,float,,$MISSING_FIELD
-,Low Access Numbers.Seniors.10 Miles,float,,$MISSING_FIELD
-,Low Access Numbers.Seniors.20 Miles,float,,$MISSING_FIELD
-,Low Access Percents.Low Access Only.1 and 20 Miles,float,,$MISSING_FIELD
-,Low Access Percents.Low Access Only.1/2 and 10 Miles,float,,$MISSING_FIELD
-,Low Access Percents.Low Income and Low Access.1 and 20 Miles,float,,$MISSING_FIELD
-,Low Access Percents.Low Income and Low Access.1/2 and 10 Miles,float,,$MISSING_FIELD
+,County,string,,County name
+,Population,int,,Population count from 2010 census
+,State,string,TRUE,State name
+,Housing Data.Residing in Group Quarters,float,,Count of tract population residing in group quarters
+,Housing Data.Total Housing Units,int,,Occupied housing unit count from 2010 census
+,Vehicle Access.1 Mile,float,,Housing units without vehicle count beyond 1 mile from supermarket
+,Vehicle Access.1/2 Mile,float,,Housing units without vehicle count beyond 1/2 mile from supermarket
+,Vehicle Access.10 Miles,float,,Housing units without vehicle count beyond 10 miles from supermarket
+,Vehicle Access.20 Miles,float,,Housing units without vehicle count beyond 20 miles from supermarket
+,Low Access Numbers.Children.1 Mile,float,,Kids population count beyond 1 mile from supermarket
+,Low Access Numbers.Children.1/2 Mile,float,,Kids population count beyond 1/2 mile from supermarket
+,Low Access Numbers.Children.10 Miles,float,,Kids population count beyond 10 miles from supermarket
+,Low Access Numbers.Children.20 Miles,float,,Kids population count beyond 20 miles from supermarket
+,Low Access Numbers.Low Income People.1 Mile,float,,Low income population count beyond 1 mile from supermarket
+,Low Access Numbers.Low Income People.1/2 Mile,float,,Low income population count beyond 1/2 mile from supermarket
+,Low Access Numbers.Low Income People.10 Miles,float,,Low income population count beyond 10 miles from supermarket
+,Low Access Numbers.Low Income People.20 Miles,float,,Low income population count beyond 20 miles from supermarket
+,Low Access Numbers.People.1 Mile,float,,Population count beyond 1 mile from supermarket
+,Low Access Numbers.People.1/2 Mile,float,,Population count beyond 1/2 mile from supermarket
+,Low Access Numbers.People.10 Miles,float,,Population count beyond 10 miles from supermarket
+,Low Access Numbers.People.20 Miles,float,,Population count beyond 20 miles from supermarket
+,Low Access Numbers.Seniors.1 Mile,float,,Seniors population count beyond 1 mile from supermarket
+,Low Access Numbers.Seniors.1/2 Mile,float,,Seniors population count beyond 1/2 mile from supermarket
+,Low Access Numbers.Seniors.10 Miles,float,,Seniors population count beyond 10 miles from supermarket
+,Low Access Numbers.Seniors.20 Miles,float,,Seniors population count beyond 20 miles from supermarket
