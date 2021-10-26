@@ -421,6 +421,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Afghanistan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Afghanistan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Albania",
     "Year": 1995,
     "Metrics": {
@@ -841,6 +925,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Albania",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Albania",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Albania",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Albania",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Algeria",
     "Year": 1995,
     "Metrics": {
@@ -1249,6 +1417,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Effectiveness Score": 4,
         "Political Effectiveness": 1,
         "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Algeria",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
         "Social Effectiveness": 0
       },
       "Legitimacy": {
@@ -1681,6 +1933,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Angola",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Angola",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Angola",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Angola",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Argentina",
     "Year": 1995,
     "Metrics": {
@@ -2095,6 +2431,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 1,
         "Legitimacy Score": 1,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Argentina",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 0
       }
@@ -2521,6 +2941,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Armenia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Australia",
     "Year": 1995,
     "Metrics": {
@@ -2941,6 +3445,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Australia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Australia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Australia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Austria",
     "Year": 1995,
     "Metrics": {
@@ -3342,6 +3930,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Austria",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Austria",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Austria",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Austria",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Austria",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -3781,6 +4453,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Azerbaijan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Azerbaijan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Bahrain",
     "Year": 1995,
     "Metrics": {
@@ -4182,6 +4938,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Bahrain",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 9,
       "Effectiveness": {
@@ -4621,6 +5461,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Belgium",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belgium",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Benin",
     "Year": 1995,
     "Metrics": {
@@ -5022,6 +5946,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Benin",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Benin",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Benin",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Benin",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Benin",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 10,
       "Effectiveness": {
@@ -5448,6 +6456,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 3,
         "Effectiveness Score": 7,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
         "Security Effectiveness": 0,
         "Social Effectiveness": 3
       },
@@ -5881,6 +6973,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Bhutan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bhutan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Belarus",
     "Year": 1995,
     "Metrics": {
@@ -6295,6 +7471,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 1,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Belarus",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
@@ -6721,6 +7981,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Bangladesh",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Bolivia",
     "Year": 1995,
     "Metrics": {
@@ -7128,6 +8472,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 2,
         "Effectiveness Score": 4,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Bolivia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
         "Security Effectiveness": 0,
         "Social Effectiveness": 1
       },
@@ -7561,6 +8989,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Botswana",
     "Year": 1995,
     "Metrics": {
@@ -7975,6 +9487,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 1,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 1
       }
@@ -8388,6 +9984,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 1,
         "Effectiveness Score": 1,
         "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -8821,6 +10501,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Burundi",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Bulgaria",
     "Year": 1995,
     "Metrics": {
@@ -9222,6 +10986,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Bulgaria",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 2,
       "Effectiveness": {
@@ -9661,6 +11509,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Cambodia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Canada",
     "Year": 1995,
     "Metrics": {
@@ -10062,6 +11994,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Canada",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Canada",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Canada",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Canada",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Canada",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -10501,6 +12517,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Cameroon",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Cameroon",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Cape Verde",
     "Year": 1995,
     "Metrics": {
@@ -10902,6 +13002,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Cape Verde",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Cape Verde",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Cape Verde",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Cape Verde",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Cape Verde",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 5,
       "Effectiveness": {
@@ -11341,6 +13525,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Central African Republic",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 24,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 12,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Central African Republic",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Chad",
     "Year": 1995,
     "Metrics": {
@@ -11742,6 +14010,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Chad",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Chad",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Chad",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Chad",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Chad",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 19,
       "Effectiveness": {
@@ -12181,6 +14533,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Chile",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Chile",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Chile",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Chile",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "China",
     "Year": 1995,
     "Metrics": {
@@ -12601,6 +15037,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "China",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "China",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "China",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "China",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Colombia",
     "Year": 1995,
     "Metrics": {
@@ -13021,6 +15541,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Colombia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Colombia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Comoros",
     "Year": 1995,
     "Metrics": {
@@ -13422,6 +16026,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Comoros",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Comoros",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 12,
       "Effectiveness": {
@@ -13861,6 +16549,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Congo-Brazzaville",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Congo-Brazzaville",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Congo-Brazzaville",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Congo-Brazzaville",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Costa Rica",
     "Year": 1995,
     "Metrics": {
@@ -14262,6 +17034,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Costa Rica",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Costa Rica",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 1,
       "Effectiveness": {
@@ -14682,6 +17538,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Croatia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 2,
       "Effectiveness": {
@@ -15121,6 +18061,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Cuba",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cuba",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cuba",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cuba",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Cyprus",
     "Year": 1995,
     "Metrics": {
@@ -15522,6 +18546,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Cyprus",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 3,
       "Effectiveness": {
@@ -15961,6 +19069,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Czech Republic",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Czech Republic",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Czech Republic",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Czech Republic",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Denmark",
     "Year": 1995,
     "Metrics": {
@@ -16362,6 +19554,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Denmark",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Denmark",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -16801,6 +20077,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Djibouti",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Djibouti",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Dominican Republic",
     "Year": 1995,
     "Metrics": {
@@ -17221,6 +20581,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Dominican Republic",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Dominican Republic",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Ecuador",
     "Year": 1995,
     "Metrics": {
@@ -17628,6 +21072,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 1,
         "Effectiveness Score": 3,
         "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ecuador",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -18061,6 +21589,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Egypt",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Egypt",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Equatorial Guinea",
     "Year": 1995,
     "Metrics": {
@@ -18462,6 +22074,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Equatorial Guinea",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 12,
       "Effectiveness": {
@@ -18901,6 +22597,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Eritrea",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Eritrea",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Eritrea",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Eritrea",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Estonia",
     "Year": 1995,
     "Metrics": {
@@ -19302,6 +23082,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Estonia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -19741,6 +23605,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Ethiopia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Timor Leste",
     "Year": 2002,
     "Metrics": {
@@ -20008,6 +23956,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 1,
         "Legitimacy Score": 3,
         "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Timor Leste",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Timor Leste",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Timor Leste",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Timor Leste",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
         "Security Legitimacy": 0,
         "Social Legitimacy": 1
       }
@@ -20415,6 +24447,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Finland",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Finland",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Finland",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Finland",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Finland",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -20854,6 +24970,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Fiji",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "France",
     "Year": 1995,
     "Metrics": {
@@ -21274,6 +25474,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "France",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "France",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "France",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "France",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Gabon",
     "Year": 1995,
     "Metrics": {
@@ -21690,6 +25974,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Gabon",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
       }
     }
   },
@@ -22095,6 +26463,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Gambia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Gambia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Gambia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Gambia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Gambia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 15,
       "Effectiveness": {
@@ -22534,6 +26986,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Ghana",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Germany",
     "Year": 1995,
     "Metrics": {
@@ -22941,6 +27477,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 0,
         "Effectiveness Score": 0,
         "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Germany",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Germany",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Germany",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Germany",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -23374,6 +27994,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Guinea-Bissau",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Greece",
     "Year": 1995,
     "Metrics": {
@@ -23788,6 +28492,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 1,
         "Legitimacy Score": 2,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Greece",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Greece",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Greece",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Greece",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
@@ -24214,6 +29002,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Georgia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Guatemala",
     "Year": 1995,
     "Metrics": {
@@ -24621,6 +29493,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 2,
         "Effectiveness Score": 3,
         "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guatemala",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
         "Security Effectiveness": 0,
         "Social Effectiveness": 1
       },
@@ -25054,6 +30010,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Guinea",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Guyana",
     "Year": 1995,
     "Metrics": {
@@ -25468,6 +30508,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 3,
         "Legitimacy Score": 7,
         "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guyana",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guyana",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guyana",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Guyana",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 1
       }
@@ -25894,6 +31018,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Haiti",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Haiti",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Honduras",
     "Year": 1995,
     "Metrics": {
@@ -26314,6 +31522,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Honduras",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Honduras",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Hungary",
     "Year": 1995,
     "Metrics": {
@@ -26715,6 +32007,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Hungary",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -27140,6 +32516,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
       "Effectiveness": {
         "Economic Effectiveness": 3,
         "Effectiveness Score": 8,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "India",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "India",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "India",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "India",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
         "Political Effectiveness": 0,
         "Security Effectiveness": 3,
         "Social Effectiveness": 2
@@ -27574,6 +33034,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Indonesia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Ireland",
     "Year": 1995,
     "Metrics": {
@@ -27975,6 +33519,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Ireland",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -28414,6 +34042,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Iran",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iran",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iran",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iran",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Iraq",
     "Year": 1995,
     "Metrics": {
@@ -28834,6 +34546,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Iraq",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Iraq",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Israel",
     "Year": 1995,
     "Metrics": {
@@ -29254,6 +35050,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Israel",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Israel",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Israel",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Israel",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Italy",
     "Year": 1995,
     "Metrics": {
@@ -29668,6 +35548,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 0,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Italy",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Italy",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Italy",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Italy",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 0
       }
@@ -30094,6 +36058,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Cote d'Ivoire",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Jamaica",
     "Year": 1995,
     "Metrics": {
@@ -30510,6 +36558,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 0,
         "Security Legitimacy": 2,
         "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
       }
     }
   },
@@ -30934,6 +37066,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Jordan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Jordan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Japan",
     "Year": 1995,
     "Metrics": {
@@ -31348,6 +37564,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 0,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Japan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Japan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Japan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Japan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 0
       }
@@ -31774,6 +38074,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Kenya",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Kosovo",
     "Year": 2008,
     "Metrics": {
@@ -31908,6 +38292,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 2,
         "Effectiveness Score": 3,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kosovo",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -32341,6 +38809,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Kuwait",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kuwait",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kuwait",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kuwait",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Kyrgyzstan",
     "Year": 1995,
     "Metrics": {
@@ -32742,6 +39294,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Kyrgyzstan",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 12,
       "Effectiveness": {
@@ -33162,6 +39798,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Kazakhstan",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 9,
       "Effectiveness": {
@@ -33601,6 +40321,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Laos",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Laos",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Laos",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Laos",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Latvia",
     "Year": 1995,
     "Metrics": {
@@ -34002,6 +40806,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Latvia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Latvia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -34441,6 +41329,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Liberia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Lebanon",
     "Year": 1995,
     "Metrics": {
@@ -34848,6 +41820,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 1,
         "Effectiveness Score": 2,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lebanon",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -35281,6 +42337,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Lesotho",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Lesotho",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Libya",
     "Year": 1995,
     "Metrics": {
@@ -35701,6 +42841,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Libya",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Libya",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Libya",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Libya",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Lithuania",
     "Year": 1995,
     "Metrics": {
@@ -36121,6 +43345,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Luxembourg",
     "Year": 1995,
     "Metrics": {
@@ -36522,6 +43830,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Luxembourg",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Luxembourg",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -36961,6 +44353,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Mauritania",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mauritania",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Macedonia",
     "Year": 1995,
     "Metrics": {
@@ -37362,6 +44838,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Macedonia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Macedonia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Macedonia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Macedonia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Macedonia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 2,
       "Effectiveness": {
@@ -37801,6 +45361,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Madagascar",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Madagascar",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Malaysia",
     "Year": 1995,
     "Metrics": {
@@ -38215,6 +45859,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 4,
         "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
         "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
@@ -38627,6 +46355,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
       "Effectiveness": {
         "Economic Effectiveness": 1,
         "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
         "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
@@ -39061,6 +46873,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Malawi",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Mexico",
     "Year": 1995,
     "Metrics": {
@@ -39462,6 +47358,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Mexico",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 5,
       "Effectiveness": {
@@ -39890,6 +47870,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Effectiveness": 1,
         "Security Effectiveness": 0,
         "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Moldova",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
       },
       "Legitimacy": {
         "Economic Legitimacy": 1,
@@ -40321,6 +48385,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Mali",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Mali",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Mali",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Mali",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Montenegro",
     "Year": 2006,
     "Metrics": {
@@ -40491,6 +48639,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Montenegro",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 2,
       "Effectiveness": {
@@ -40919,6 +49151,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
       },
       "Legitimacy": {
         "Economic Legitimacy": 3,
@@ -41350,7 +49666,91 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Morocco",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Morocco",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Myanmar",
     "Year": 1995,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41371,7 +49771,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 1996,
     "Metrics": {
       "State Fragility Index": 18,
@@ -41392,7 +49792,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 1997,
     "Metrics": {
       "State Fragility Index": 18,
@@ -41413,7 +49813,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 1998,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41434,7 +49834,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 1999,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41455,7 +49855,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2000,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41476,7 +49876,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2001,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41497,7 +49897,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2002,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41518,7 +49918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2003,
     "Metrics": {
       "State Fragility Index": 18,
@@ -41539,7 +49939,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2004,
     "Metrics": {
       "State Fragility Index": 18,
@@ -41560,7 +49960,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2005,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41581,7 +49981,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2006,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41602,7 +50002,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2007,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41623,7 +50023,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2008,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41644,7 +50044,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2009,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41665,7 +50065,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2010,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41686,7 +50086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2011,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41707,7 +50107,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2012,
     "Metrics": {
       "State Fragility Index": 20,
@@ -41728,7 +50128,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2013,
     "Metrics": {
       "State Fragility Index": 19,
@@ -41749,7 +50149,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Myanmar (Burma)",
+    "Country": "Myanmar",
     "Year": 2014,
     "Metrics": {
       "State Fragility Index": 18,
@@ -41758,6 +50158,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Effectiveness Score": 8,
         "Political Effectiveness": 2,
         "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
         "Social Effectiveness": 2
       },
       "Legitimacy": {
@@ -42190,6 +50674,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Mozambique",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Namibia",
     "Year": 1995,
     "Metrics": {
@@ -42606,6 +51174,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 0,
         "Security Legitimacy": 0,
         "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Namibia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
       }
     }
   },
@@ -43030,6 +51682,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Nepal",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "New Zealand",
     "Year": 1995,
     "Metrics": {
@@ -43431,6 +52167,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "New Zealand",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 2,
       "Effectiveness": {
@@ -43866,6 +52686,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 1,
         "Security Legitimacy": 1,
         "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
       }
     }
   },
@@ -44290,6 +53194,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Nigeria",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Nigeria",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Niger",
     "Year": 1995,
     "Metrics": {
@@ -44710,6 +53698,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Niger",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Niger",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Niger",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 18,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Niger",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 19,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Norway",
     "Year": 1995,
     "Metrics": {
@@ -45130,6 +54202,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Norway",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Norway",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Norway",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Norway",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Netherlands",
     "Year": 1995,
     "Metrics": {
@@ -45531,6 +54687,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Netherlands",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Netherlands",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -45951,6 +55191,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Oman",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Oman",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Oman",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Oman",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Oman",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 5,
       "Effectiveness": {
@@ -46390,6 +55714,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Pakistan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Panama",
     "Year": 1995,
     "Metrics": {
@@ -46791,6 +56199,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Panama",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Panama",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Panama",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Panama",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Panama",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 3,
       "Effectiveness": {
@@ -47226,6 +56718,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 0,
         "Security Legitimacy": 1,
         "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
       }
     }
   },
@@ -47650,6 +57226,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Peru",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Peru",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Peru",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Philippines",
     "Year": 1995,
     "Metrics": {
@@ -48065,6 +57725,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Legitimacy Score": 4,
         "Political Legitimacy": 1,
         "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
         "Social Legitimacy": 1
       }
     }
@@ -48490,6 +58234,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Papua New Guinea",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Poland",
     "Year": 1995,
     "Metrics": {
@@ -48910,6 +58738,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Poland",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Poland",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Poland",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Poland",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Portugal",
     "Year": 1995,
     "Metrics": {
@@ -49311,6 +59223,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Portugal",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -49750,6 +59746,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Korea, North",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, North",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, North",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, North",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Qatar",
     "Year": 1995,
     "Metrics": {
@@ -50151,6 +60231,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Qatar",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 3,
       "Effectiveness": {
@@ -50590,6 +60754,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Korea, South",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, South",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, South",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Korea, South",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Romania",
     "Year": 1995,
     "Metrics": {
@@ -51010,6 +61258,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Romania",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Romania",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Romania",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Romania",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Russia",
     "Year": 1995,
     "Metrics": {
@@ -51411,6 +61743,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Russia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Russia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Russia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Russia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Russia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 9,
       "Effectiveness": {
@@ -51850,6 +62266,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Rwanda",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "South Africa",
     "Year": 1995,
     "Metrics": {
@@ -52266,6 +62766,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 2,
         "Security Legitimacy": 1,
         "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
       }
     }
   },
@@ -52690,6 +63274,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "El Salvador",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "El Salvador",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Saudi Arabia",
     "Year": 1995,
     "Metrics": {
@@ -53097,6 +63765,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 0,
         "Effectiveness Score": 1,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -53173,6 +63925,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Sudan (North)",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 22,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sudan (North)",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 22,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sudan (North)",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 22,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sudan (North)",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Senegal",
     "Year": 1995,
     "Metrics": {
@@ -53593,6 +64429,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Senegal",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Senegal",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Serbia",
     "Year": 2006,
     "Metrics": {
@@ -53769,6 +64689,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 1,
         "Effectiveness Score": 2,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 0
       },
@@ -54202,6 +65206,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Sierra Leone",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Sierra Leone",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Singapore",
     "Year": 1995,
     "Metrics": {
@@ -54622,6 +65710,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Singapore",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Slovak Republic",
     "Year": 1995,
     "Metrics": {
@@ -55042,6 +66214,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Slovak Republic",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovak Republic",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Slovenia",
     "Year": 1995,
     "Metrics": {
@@ -55443,6 +66699,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Slovenia",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 0,
       "Effectiveness": {
@@ -55863,6 +67203,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Solomon Islands",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Solomon Islands",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 9,
       "Effectiveness": {
@@ -56302,6 +67726,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Somalia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Somalia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 20,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
     "Country": "Spain",
     "Year": 1995,
     "Metrics": {
@@ -56716,6 +68224,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 0,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Spain",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Spain",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Spain",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Spain",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 0
       }
@@ -57142,6 +68734,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Sri Lanka",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "South Sudan",
     "Year": 2012,
     "Metrics": {
@@ -57201,6 +68877,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 3,
         "Security Legitimacy": 3,
         "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 24,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 12,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 12,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "South Sudan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 22,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 11,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
       }
     }
   },
@@ -57982,6 +69742,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Suriname",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 6,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Swaziland",
     "Year": 1995,
     "Metrics": {
@@ -58402,6 +70246,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Swaziland",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Swaziland",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Swaziland",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Swaziland",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Sweden",
     "Year": 1995,
     "Metrics": {
@@ -58822,6 +70750,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Sweden",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Sweden",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Switzerland",
     "Year": 1995,
     "Metrics": {
@@ -59223,6 +71235,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Switzerland",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 1,
       "Effectiveness": {
@@ -59662,6 +71758,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Syria",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Syria",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Syria",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 15,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Syria",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Tajikistan",
     "Year": 1995,
     "Metrics": {
@@ -60082,6 +72262,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Tajikistan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tajikistan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Taiwan",
     "Year": 1995,
     "Metrics": {
@@ -60496,6 +72760,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 0,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Taiwan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Taiwan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Taiwan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Taiwan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 0,
         "Social Legitimacy": 0
       }
@@ -60922,6 +73270,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Tanzania",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tanzania",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 6,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Thailand",
     "Year": 1995,
     "Metrics": {
@@ -61342,6 +73774,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Thailand",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Turkmenistan",
     "Year": 1995,
     "Metrics": {
@@ -61749,6 +74265,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 1,
         "Effectiveness Score": 3,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Turkmenistan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Turkmenistan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 3,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Turkmenistan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Turkmenistan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 8,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
         "Security Effectiveness": 0,
         "Social Effectiveness": 1
       },
@@ -62182,7 +74782,91 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Togo",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Togo",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Togo",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 7,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Togo",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 13,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 8,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
     "Year": 1995,
     "Metrics": {
       "State Fragility Index": 5,
@@ -62203,7 +74887,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 1996,
     "Metrics": {
       "State Fragility Index": 6,
@@ -62224,7 +74908,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 1997,
     "Metrics": {
       "State Fragility Index": 5,
@@ -62245,7 +74929,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 1998,
     "Metrics": {
       "State Fragility Index": 3,
@@ -62266,7 +74950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 1999,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62287,7 +74971,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2000,
     "Metrics": {
       "State Fragility Index": 5,
@@ -62308,7 +74992,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2001,
     "Metrics": {
       "State Fragility Index": 3,
@@ -62329,7 +75013,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2002,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62350,7 +75034,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2003,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62371,7 +75055,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2004,
     "Metrics": {
       "State Fragility Index": 5,
@@ -62392,7 +75076,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2005,
     "Metrics": {
       "State Fragility Index": 5,
@@ -62413,7 +75097,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2006,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62434,7 +75118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2007,
     "Metrics": {
       "State Fragility Index": 3,
@@ -62455,7 +75139,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2008,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62476,7 +75160,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2009,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62497,7 +75181,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2010,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62518,7 +75202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2011,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62539,7 +75223,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2012,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62560,7 +75244,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2013,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62581,7 +75265,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "Country": "Trinidad",
+    "Country": "Trinidad and Tobago",
     "Year": 2014,
     "Metrics": {
       "State Fragility Index": 4,
@@ -62597,6 +75281,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Legitimacy Score": 4,
         "Political Legitimacy": 1,
         "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
         "Social Legitimacy": 1
       }
     }
@@ -63022,6 +75790,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Tunisia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Tunisia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Turkey",
     "Year": 1995,
     "Metrics": {
@@ -63429,6 +76281,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Effectiveness": 0,
         "Effectiveness Score": 3,
         "Political Effectiveness": 1,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Turkey",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
         "Security Effectiveness": 2,
         "Social Effectiveness": 0
       },
@@ -63857,6 +76793,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Legitimacy Score": 3,
         "Political Legitimacy": 0,
         "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 5,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 1,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 4,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
     }
@@ -64282,6 +77302,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Uganda",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 16,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 2,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 1,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "United Kingdom",
     "Year": 1995,
     "Metrics": {
@@ -64702,6 +77806,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 0,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 0,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United Kingdom",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 1,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Ukraine",
     "Year": 1995,
     "Metrics": {
@@ -65103,6 +78291,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Ukraine",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 9,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 5,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Ukraine",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 9,
       "Effectiveness": {
@@ -65542,6 +78814,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Uruguay",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uruguay",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 2,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 0,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 0,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "United States",
     "Year": 1995,
     "Metrics": {
@@ -65956,6 +79312,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 1,
         "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United States",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United States",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 3,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 1,
+        "Political Legitimacy": 0,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United States",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "United States",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 4,
+      "Effectiveness": {
+        "Economic Effectiveness": 0,
+        "Effectiveness Score": 2,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
         "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
@@ -66382,6 +79822,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Uzbekistan",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 10,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 6,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Uzbekistan",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
     "Country": "Venezuela",
     "Year": 1995,
     "Metrics": {
@@ -66802,6 +80326,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Venezuela",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 11,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Venezuela",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 14,
+      "Effectiveness": {
+        "Economic Effectiveness": 1,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 1,
+        "Social Effectiveness": 0
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 9,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
     "Country": "Vietnam",
     "Year": 1995,
     "Metrics": {
@@ -67216,6 +80824,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Economic Legitimacy": 0,
         "Legitimacy Score": 2,
         "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 2,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 1,
+        "Social Legitimacy": 0
+      }
+    }
+  },
+  {
+    "Country": "Vietnam",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 7,
+      "Effectiveness": {
+        "Economic Effectiveness": 2,
+        "Effectiveness Score": 4,
+        "Political Effectiveness": 1,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 1
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 0,
+        "Legitimacy Score": 3,
+        "Political Legitimacy": 2,
         "Security Legitimacy": 1,
         "Social Legitimacy": 0
       }
@@ -67623,6 +81315,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Yemen",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 21,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 10,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 2,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Yemen",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 21,
       "Effectiveness": {
@@ -68293,6 +82069,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
     }
   },
   {
+    "Country": "Dem. Rep. of Congo",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 23,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 13,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 10,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Dem. Rep. of Congo",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 24,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 13,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 3
+      }
+    }
+  },
+  {
+    "Country": "Dem. Rep. of Congo",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 24,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 13,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Dem. Rep. of Congo",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 24,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 13,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 3,
+        "Social Effectiveness": 3
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 3,
+        "Legitimacy Score": 11,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 3,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
     "Country": "Zambia",
     "Year": 1995,
     "Metrics": {
@@ -68709,6 +82569,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
         "Political Legitimacy": 1,
         "Security Legitimacy": 2,
         "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 1,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 2
+      }
+    }
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2018,
+    "Metrics": {
+      "State Fragility Index": 12,
+      "Effectiveness": {
+        "Economic Effectiveness": 3,
+        "Effectiveness Score": 5,
+        "Political Effectiveness": 0,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 7,
+        "Political Legitimacy": 2,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
       }
     }
   },
@@ -69114,6 +83058,90 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_fragility"] = Sk.ffi.remapToPy([
   {
     "Country": "Zimbabwe",
     "Year": 2014,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2015,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2016,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2017,
+    "Metrics": {
+      "State Fragility Index": 17,
+      "Effectiveness": {
+        "Economic Effectiveness": 4,
+        "Effectiveness Score": 9,
+        "Political Effectiveness": 3,
+        "Security Effectiveness": 0,
+        "Social Effectiveness": 2
+      },
+      "Legitimacy": {
+        "Economic Legitimacy": 2,
+        "Legitimacy Score": 8,
+        "Political Legitimacy": 3,
+        "Security Legitimacy": 2,
+        "Social Legitimacy": 1
+      }
+    }
+  },
+  {
+    "Country": "Zimbabwe",
+    "Year": 2018,
     "Metrics": {
       "State Fragility Index": 17,
       "Effectiveness": {

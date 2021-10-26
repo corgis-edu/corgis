@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 7/14/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/14/2021</span><br>
 <span class='text-muted'>Tags: counties, states, food, access, availability, supermarket, rural, urban, population, vehicles</span>
 
 # Overview
@@ -25,7 +25,7 @@ From the United States Department of Agriculture's Economic Research Service, th
 
 
 
-<http://www.ers.usda.gov/data-products/food-access-research-atlas.aspx>
+<https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/>
 
 
 
@@ -49,218 +49,176 @@ Download the following file:
 <tr>
     <td>County</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"Abbeville"</code></td>
+    <td>County name</td>
+    <td><code>"Autauga County"</code></td>
 </tr>
 
 <tr>
     <td>Population</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>25417</code></td>
+    <td>Population count from 2010 census</td>
+    <td><code>54571</code></td>
 </tr>
 
 <tr>
     <td>State</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"SC"</code></td>
+    <td>State name</td>
+    <td><code>"Alabama"</code></td>
 </tr>
 
 <tr>
     <td>Housing Data.Residing in Group Quarters</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>901.0</code></td>
-</tr>
-
-<tr>
-    <td>Housing Data.Rural Housing Percentage</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.8333333333333334</code></td>
+    <td>Count of tract population residing in group quarters</td>
+    <td><code>455.0</code></td>
 </tr>
 
 <tr>
     <td>Housing Data.Total Housing Units</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>9990</code></td>
-</tr>
-
-<tr>
-    <td>Housing Data.Urban Housing Percentage</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.16666666666666666</code></td>
+    <td>Occupied housing unit count from 2010 census</td>
+    <td><code>20221</code></td>
 </tr>
 
 <tr>
     <td>Vehicle Access.1 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>604.3896701344104</code></td>
+    <td>Housing units without vehicle count beyond 1 mile from supermarket</td>
+    <td><code>834.0</code></td>
 </tr>
 
 <tr>
     <td>Vehicle Access.1/2 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>708.3472127265012</code></td>
+    <td>Housing units without vehicle count beyond 1/2 mile from supermarket</td>
+    <td><code>1045.0</code></td>
 </tr>
 
 <tr>
     <td>Vehicle Access.10 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>167.4708853809094</code></td>
+    <td>Housing units without vehicle count beyond 10 miles from supermarket</td>
+    <td><code>222.0</code></td>
 </tr>
 
 <tr>
     <td>Vehicle Access.20 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
+    <td>Housing units without vehicle count beyond 20 miles from supermarket</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Children.1 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>4961.140845190305</code></td>
+    <td>Kids population count beyond 1 mile from supermarket</td>
+    <td><code>9973.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Children.1/2 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>5558.405559145558</code></td>
+    <td>Kids population count beyond 1/2 mile from supermarket</td>
+    <td><code>13281.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Children.10 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1114.804239934055</code></td>
+    <td>Kids population count beyond 10 miles from supermarket</td>
+    <td><code>1199.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Children.20 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
+    <td>Kids population count beyond 20 miles from supermarket</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Low Income People.1 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>9451.794654001229</code></td>
+    <td>Low income population count beyond 1 mile from supermarket</td>
+    <td><code>12067.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Low Income People.1/2 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>10638.20831614762</code></td>
+    <td>Low income population count beyond 1/2 mile from supermarket</td>
+    <td><code>15518.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Low Income People.10 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>2422.056045769833</code></td>
+    <td>Low income population count beyond 10 miles from supermarket</td>
+    <td><code>2307.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Low Income People.20 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
+    <td>Low income population count beyond 20 miles from supermarket</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.People.1 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>21510.19481699049</code></td>
+    <td>Population count beyond 1 mile from supermarket</td>
+    <td><code>37424.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.People.1/2 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>24360.332249408973</code></td>
+    <td>Population count beyond 1/2 mile from supermarket</td>
+    <td><code>49497.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.People.10 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>5176.769348433789</code></td>
+    <td>Population count beyond 10 miles from supermarket</td>
+    <td><code>5119.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.People.20 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
+    <td>Population count beyond 20 miles from supermarket</td>
     <td><code>0.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Seniors.1 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>3409.212341643527</code></td>
+    <td>Seniors population count beyond 1 mile from supermarket</td>
+    <td><code>4393.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Seniors.1/2 Mile</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>3960.807730897649</code></td>
+    <td>Seniors population count beyond 1/2 mile from supermarket</td>
+    <td><code>5935.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Seniors.10 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>984.8604346295632</code></td>
+    <td>Seniors population count beyond 10 miles from supermarket</td>
+    <td><code>707.0</code></td>
 </tr>
 
 <tr>
     <td>Low Access Numbers.Seniors.20 Miles</td>
     <td>Float</td> 
-    <td>$MISSING_FIELD</td>
+    <td>Seniors population count beyond 20 miles from supermarket</td>
     <td><code>0.0</code></td>
-</tr>
-
-<tr>
-    <td>Low Access Percents.Low Access Only.1 and 20 Miles</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.16666666666666666</code></td>
-</tr>
-
-<tr>
-    <td>Low Access Percents.Low Access Only.1/2 and 10 Miles</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.5</code></td>
-</tr>
-
-<tr>
-    <td>Low Access Percents.Low Income and Low Access.1 and 20 Miles</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.16666666666666666</code></td>
-</tr>
-
-<tr>
-    <td>Low Access Percents.Low Income and Low Access.1/2 and 10 Miles</td>
-    <td>Float</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>0.5</code></td>
 </tr>
 
 </table>

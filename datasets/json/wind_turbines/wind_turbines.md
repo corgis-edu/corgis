@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura</span><br>
-<span class='text-muted'>Version 0.0.1, created 6/8/2019</span><br>
+<span class='text-muted'>By Dennis Kafura, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 0.0.2, created 9/17/2021</span><br>
 <span class='text-muted'>Tags: energy, wind, power, air, turbine, utility, location, time</span>
 
 # Overview
@@ -116,14 +116,14 @@ Download the following file:
     <td>Site.Latitude</td>
     <td>Float</td> 
     <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td>
-    <td><code>-93.523651</code></td>
+    <td><code>-93.518082</code></td>
 </tr>
 
 <tr>
     <td>Site.Longitude</td>
     <td>Float</td> 
     <td>Longitude (decimal degrees - NAD 83 datum)</td>
-    <td><code>42.006813</code></td>
+    <td><code>42.01363</code></td>
 </tr>
 
 </table>

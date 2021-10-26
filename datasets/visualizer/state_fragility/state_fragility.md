@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 7/12/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 9/16/2021</span><br>
 <span class='text-muted'>Tags: world, countries, security, politics, economy, society, effectiveness, legitimacy</span>
 
 # Overview

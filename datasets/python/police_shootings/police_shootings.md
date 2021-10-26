@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura (kafura@vt.edu)</span><br>
-<span class='text-muted'>Version 0.0.1, created 5/31/2019</span><br>
+<span class='text-muted'>By Dennis Kafura (kafura@vt.edu), Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 0.0.2, created 9/15/2021</span><br>
 <span class='text-muted'>Tags: violence, crime, violent, police, shootings, race, location, time</span>
 
 # Overview
