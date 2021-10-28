@@ -1,40 +1,56 @@
 Name,Suicide Attacks,,,
-Version,2.0.0,,,
-Author,Austin Cory Bart <acbart@vt.edu>,,,
-Created,3/27/2016,,,
+Version,3.0.0,,,
+Author,"Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu>",,,
+Created,9/20/2021,,,
 Data File,suicide-attacks-corgis.csv,,,
 Overview,This dataset has about suicide attacks all over the world for the past three decades.,,,
-Data Source,"Chicago Project on Security and Terrorism (CPOST). 2015. Suicide Attack Database (December 9, 2015 Release). [Data File]. Retrieved from http://cpostdata.uchicago.edu/",,,
-Description,"The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through September 2015. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
+Data Source,"Chicago Project on Security and Terrorism (CPOST). 2020. Suicide Attack Database (October, 2020 Release). [Data File]. Retrieved from https://cpost.uchicago.edu/research/suicide_attacks/database_on_suicide_attacks/",,,
+Description,"The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through October 2020. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
 The current CPOST-SAD release contains the universe of suicide attacks from 1982 through September 2015, a total of 4,814 attacks in over 40 countries. The CPOST Suicide Attack Database (CPOST-SAD) contains data on the universe of suicide attacks. For each attack, the database includes information about the geographic location, target classification, and weapon(s) used, as well as systematic information on the demographic and general biographical characteristics of suicide attackers. More information about the coding and methodology is available on the CPOST website below.
 Note that multiple attackers or targets are collapsed into a single record for simplicity's sake.",,,
 Tags,"global, attack, damage, kill, hurt, destroy, pain, suffering, terror, terrorism, religion, warfare, war, car, bomb, gun, shooting",,,
 Row,attack,,,
-Row Explanation,$MISSING_FIELD,,,
-Acknowledgement,,,,
+Row Explanation,,,,
+Acknowledgement,a suicide attack in which an attacker kills himself or herself in a deliberate attempt to kill others,,,
 Icon,suicide-attacks-icon.png,,,
 Splash,suicide-attacks-icon.png,,,
 Properties,Name,Type,Index,Description
-,groups,string,,$MISSING_FIELD
-,attacker.age,int,,$MISSING_FIELD
-,attacker.name,string,,$MISSING_FIELD
-,campaign.name,string,TRUE,$MISSING_FIELD
-,campaign.sides,string,,$MISSING_FIELD
-,date.day,int,,$MISSING_FIELD
-,date.month,int,,$MISSING_FIELD
-,date.year,int,,$MISSING_FIELD
-,statistics.# killed,int,,$MISSING_FIELD
-,statistics.# wounded,int,,$MISSING_FIELD
-,target.assassination?,boolean,,$MISSING_FIELD
-,target.country,string,TRUE,$MISSING_FIELD
-,target.location,string,,$MISSING_FIELD
-,target.name,string,,$MISSING_FIELD
-,target.type,string,,$MISSING_FIELD
-,target.weapon,string,,$MISSING_FIELD
-,attacker.birth.location,string,,$MISSING_FIELD
-,attacker.birth.year,int,,$MISSING_FIELD
-,attacker.demographics.education,string,,$MISSING_FIELD
-,attacker.demographics.gender,string,,$MISSING_FIELD
-,attacker.demographics.marital,string,,$MISSING_FIELD
-,attacker.demographics.occupation,string,,$MISSING_FIELD
-,attacker.demographics.religion,string,,$MISSING_FIELD
+,groups,string,,Group¡¯s name
+,claim,string,,"Claim status: Claimed, Denied, Suspected, Unclaimed"
+,status,string,,Status of the attack: Confirmed Suicide or Possible
+,statistics.sources,int,,Number of sources found for each attack
+,date.year,int,,Year of attack
+,date.month,int,,Month of attack
+,date.day,int,,Day of the attack
+,statistics.# wounded_low,int,,Low estimate of wounded people
+,statistics.# wounded_high,int,,High estimate of wounded people
+,statistics.# killed_low,int,,Low estimate of fatalities
+,statistics.# killed_high,int,,High estimate of fatalities
+,statistics.# killed_low_civilian,int,,Low estimate of civilian fatalities
+,statistics.# killed_high_civilian,int,,High estimate of civilian fatalities
+,statistics.# killed_low_political,int,,Low estimate of political fatalities
+,statistics.# killed_high_political,int,,High estimate of political fatalities
+,statistics.# killed_low_security,int,,Low estimate of security fatalities
+,statistics.# killed_high_security,int,,High estimate of security fatalities
+,statistics.# belt_bomb,int,,Number of belt bombs used
+,statistics.# truck_bomb,int,,Number of truck bombs used
+,statistics.# car_bomb,int,,Number of car bombs used
+,statistics.# weapon_oth,int,,Number of other weapons used
+,statistics.# weapon_unk,int,,Number of unknown weapons used
+,target.weapon,string,,"Weapon (car bomb, belt bomb etc.) used"
+,target.region,string,,Region where attack took place
+,target.subregion,string,,Subregion where attack took place
+,target.country,string,,Country where attack took place
+,target.province,string,,Province/State where attack took place
+,target.city,string,,"City, village or district where attack took place"
+,target.location,string,,Specific location targeted
+,target.latitude,string,,City¡¯s Latitude
+,target.longtitude,string,,City¡¯s Longitude
+,target.desc,string,,The intended target of the attack
+,target.type,string,,"Type of target attacked (Civilian, Political, Security)"
+,target.nationality,string,,Target¡¯s nationality
+,statistics.# attackers,int,,Number of suicide attackers involved
+,statistics.# female_attackers,int,,Number of female attackers
+,statistics.# male_attackers,int,,Number of male attackers
+,statistics.# unknown_attackers,int,,Number of attackers where gender is unknown 
+,attacker.gender,string,,Attacker¡¯s gender
