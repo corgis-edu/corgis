@@ -52,7 +52,7 @@ var $builtinmodule = function(name)
                 "name": 'get_court_case',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '3 judge dc?'}, {"type": "LiteralStr", "value": 'docket'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'citation'}, {"type": "LiteralStr", "value": 'decision'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'issue'}, {"type": "LiteralStr", "value": 'laws'}, {"type": "LiteralStr", "value": 'lower court'}, {"type": "LiteralStr", "value": 'natural court'}, {"type": "LiteralStr", "value": 'origin'}, {"type": "LiteralStr", "value": 'source'}, {"type": "LiteralStr", "value": 'voting'}, {"type": "LiteralStr", "value": 'arguments'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '3_judge_dc'}, {"type": "LiteralStr", "value": 'docket'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'citation'}, {"type": "LiteralStr", "value": 'decision'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'issue'}, {"type": "LiteralStr", "value": 'laws'}, {"type": "LiteralStr", "value": 'lower court'}, {"type": "LiteralStr", "value": 'natural court'}, {"type": "LiteralStr", "value": 'origin'}, {"type": "LiteralStr", "value": 'source'}, {"type": "LiteralStr", "value": 'voting'}, {"type": "LiteralStr", "value": 'arguments'}], "values": [
 						{"type": "NumType"}, 
 						{"type": "NumType"}, 
 						{"type": "StrType"}, 
@@ -61,8 +61,7 @@ var $builtinmodule = function(name)
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'authority 1'}, {"type": "LiteralStr", "value": 'authority 2'}, {"type": "LiteralStr", "value": 'direction'}, {"type": "LiteralStr", "value": 'dissent agrees'}, {"type": "LiteralStr", "value": 'jurisdiction'}, {"type": "LiteralStr", "value": 'precedent altered?'}, {"type": "LiteralStr", "value": 'term'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'unconstitutional'}, {"type": "LiteralStr", "value": 'winning party'}, {"type": "LiteralStr", "value": 'admin action'}, {"type": "LiteralStr", "value": 'case'}, {"type": "LiteralStr", "value": 'date'}], "values": [
-							{"type": "StrType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'authority'}, {"type": "LiteralStr", "value": 'direction'}, {"type": "LiteralStr", "value": 'dissent agrees'}, {"type": "LiteralStr", "value": 'jurisdiction'}, {"type": "LiteralStr", "value": 'precedent altered?'}, {"type": "LiteralStr", "value": 'term'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'unconstitutional'}, {"type": "LiteralStr", "value": 'winning party'}, {"type": "LiteralStr", "value": 'admin action'}, {"type": "LiteralStr", "value": 'case'}, {"type": "LiteralStr", "value": 'date'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "NumType"}, 
@@ -72,10 +71,9 @@ var $builtinmodule = function(name)
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'agency'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'state'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'agency'}, {"type": "LiteralStr", "value": 'id'}], "values": [
 								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "StrType"}]}, 
+								{"type": "NumType"}]}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'disposition'}, {"type": "LiteralStr", "value": 'unusual'}], "values": [
 								{"type": "StrType"}, 
 								{"type": "NumType"}]}, 
@@ -101,60 +99,34 @@ var $builtinmodule = function(name)
 							{"type": "NumType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'chief'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'period'}, {"type": "LiteralStr", "value": 'end'}, {"type": "LiteralStr", "value": 'start'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'chief'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'period'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}], "values": [
 							{"type": "NumType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'day'}, {"type": "LiteralStr", "value": 'full'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'day'}, {"type": "LiteralStr", "value": 'full'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'state'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'state'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}], "values": [
 							{"type": "NumType"}, 
-							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'majority'}, {"type": "LiteralStr", "value": 'minority'}, {"type": "LiteralStr", "value": 'split on second'}, {"type": "LiteralStr", "value": 'unclear'}, {"type": "LiteralStr", "value": 'majority assigner'}, {"type": "LiteralStr", "value": 'majority writer'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'long name'}, {"type": "LiteralStr", "value": 'name'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}], "values": [
 								{"type": "NumType"}, 
-								{"type": "StrType"}, 
 								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'long name'}, {"type": "LiteralStr", "value": 'name'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'name'}], "values": [
 								{"type": "NumType"}, 
-								{"type": "StrType"}, 
 								{"type": "StrType"}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'date argued'}, {"type": "LiteralStr", "value": 'date reargued'}, {"type": "LiteralStr", "value": 'petitioner'}, {"type": "LiteralStr", "value": 'respondent'}], "values": [
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'day'}, {"type": "LiteralStr", "value": 'full'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-								{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'petitioner'}, {"type": "LiteralStr", "value": 'respondent'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'entity'}, {"type": "LiteralStr", "value": 'id'}], "values": [
 								{"type": "StrType"}, 
-								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'day'}, {"type": "LiteralStr", "value": 'full'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-								{"type": "NumType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'entity'}, {"type": "LiteralStr", "value": 'id'}], "values": [
 								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'entity'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'state'}], "values": [
-								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'entity'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'state'}], "values": [
-								{"type": "StrType"}, 
-								{"type": "NumType"}, 
-								{"type": "StrType"}]}]}]}}
+								{"type": "NumType"}]}]}]}}
             },
         }
     });

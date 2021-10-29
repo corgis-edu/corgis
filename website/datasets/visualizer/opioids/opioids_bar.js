@@ -115,6 +115,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 2017,
           "average": 2017,
           "average w/o zero": 2017
+        },
+        "2018": {
+          "count": 1,
+          "sum": 2018,
+          "average": 2018,
+          "average w/o zero": 2018
+        },
+        "2019": {
+          "count": 1,
+          "sum": 2019,
+          "average": 2019,
+          "average w/o zero": 2019
         }
       },
       "Number.All": {
@@ -231,14 +243,26 @@ VISUALIZER_DATA_BARS = [
           "sum": 70237,
           "average": 70237,
           "average w/o zero": 70237
+        },
+        "2018": {
+          "count": 1,
+          "sum": 67367,
+          "average": 67367,
+          "average w/o zero": 67367
+        },
+        "2019": {
+          "count": 1,
+          "sum": 70630,
+          "average": 70630,
+          "average w/o zero": 70630
         }
       },
       "Number.Opioid.Any": {
         "1999": {
           "count": 1,
-          "sum": 8048,
-          "average": 8048,
-          "average w/o zero": 8048
+          "sum": 8050,
+          "average": 8050,
+          "average w/o zero": 8050
         },
         "2000": {
           "count": 1,
@@ -248,33 +272,33 @@ VISUALIZER_DATA_BARS = [
         },
         "2001": {
           "count": 1,
-          "sum": 9492,
-          "average": 9492,
-          "average w/o zero": 9492
+          "sum": 9496,
+          "average": 9496,
+          "average w/o zero": 9496
         },
         "2002": {
           "count": 1,
-          "sum": 11917,
-          "average": 11917,
-          "average w/o zero": 11917
+          "sum": 11920,
+          "average": 11920,
+          "average w/o zero": 11920
         },
         "2003": {
           "count": 1,
-          "sum": 12939,
-          "average": 12939,
-          "average w/o zero": 12939
+          "sum": 12940,
+          "average": 12940,
+          "average w/o zero": 12940
         },
         "2004": {
           "count": 1,
-          "sum": 13755,
-          "average": 13755,
-          "average w/o zero": 13755
+          "sum": 13756,
+          "average": 13756,
+          "average w/o zero": 13756
         },
         "2005": {
           "count": 1,
-          "sum": 14917,
-          "average": 14917,
-          "average w/o zero": 14917
+          "sum": 14918,
+          "average": 14918,
+          "average w/o zero": 14918
         },
         "2006": {
           "count": 1,
@@ -284,9 +308,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 1,
-          "sum": 18515,
-          "average": 18515,
-          "average w/o zero": 18515
+          "sum": 18516,
+          "average": 18516,
+          "average w/o zero": 18516
         },
         "2008": {
           "count": 1,
@@ -302,9 +326,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 1,
-          "sum": 21088,
-          "average": 21088,
-          "average w/o zero": 21088
+          "sum": 21089,
+          "average": 21089,
+          "average w/o zero": 21089
         },
         "2011": {
           "count": 1,
@@ -314,15 +338,15 @@ VISUALIZER_DATA_BARS = [
         },
         "2012": {
           "count": 1,
-          "sum": 23164,
-          "average": 23164,
-          "average w/o zero": 23164
+          "sum": 23166,
+          "average": 23166,
+          "average w/o zero": 23166
         },
         "2013": {
           "count": 1,
-          "sum": 25050,
-          "average": 25050,
-          "average w/o zero": 25050
+          "sum": 25052,
+          "average": 25052,
+          "average w/o zero": 25052
         },
         "2014": {
           "count": 1,
@@ -347,6 +371,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 47600,
           "average": 47600,
           "average w/o zero": 47600
+        },
+        "2018": {
+          "count": 1,
+          "sum": 46802,
+          "average": 46802,
+          "average w/o zero": 46802
+        },
+        "2019": {
+          "count": 1,
+          "sum": 49860,
+          "average": 49860,
+          "average w/o zero": 49860
         }
       },
       "Number.Opioid.Prescription": {
@@ -463,6 +499,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 17029,
           "average": 17029,
           "average w/o zero": 17029
+        },
+        "2018": {
+          "count": 1,
+          "sum": 14975,
+          "average": 14975,
+          "average w/o zero": 14975
+        },
+        "2019": {
+          "count": 1,
+          "sum": 14139,
+          "average": 14139,
+          "average w/o zero": 14139
         }
       },
       "Number.Opioid.Synthetic": {
@@ -579,6 +627,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 28466,
           "average": 28466,
           "average w/o zero": 28466
+        },
+        "2018": {
+          "count": 1,
+          "sum": 31335,
+          "average": 31335,
+          "average w/o zero": 31335
+        },
+        "2019": {
+          "count": 1,
+          "sum": 36359,
+          "average": 36359,
+          "average w/o zero": 36359
         }
       },
       "Number.Opioid.Heroin": {
@@ -695,6 +755,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 15482,
           "average": 15482,
           "average w/o zero": 15482
+        },
+        "2018": {
+          "count": 1,
+          "sum": 14996,
+          "average": 14996,
+          "average w/o zero": 14996
+        },
+        "2019": {
+          "count": 1,
+          "sum": 14019,
+          "average": 14019,
+          "average w/o zero": 14019
         }
       },
       "Number.Opioid.Cocaine": {
@@ -811,6 +883,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 13942,
           "average": 13942,
           "average w/o zero": 13942
+        },
+        "2018": {
+          "count": 1,
+          "sum": 14666,
+          "average": 14666,
+          "average w/o zero": 14666
+        },
+        "2019": {
+          "count": 1,
+          "sum": 15883,
+          "average": 15883,
+          "average w/o zero": 15883
         }
       },
       "Rate.All.Total": {
@@ -927,9 +1011,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 21.7,
           "average": 21.7,
           "average w/o zero": 21.7
+        },
+        "2018": {
+          "count": 1,
+          "sum": 20.7,
+          "average": 20.7,
+          "average w/o zero": 20.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 21.6,
+          "average": 21.6,
+          "average w/o zero": 21.6
         }
       },
-      "Rate.All.Sex.Male": {
+      "Rate.All.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 3.9,
@@ -1028,24 +1124,36 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 1,
-          "sum": 11.9,
-          "average": 11.9,
-          "average w/o zero": 11.9
+          "sum": 11.8,
+          "average": 11.8,
+          "average w/o zero": 11.8
         },
         "2016": {
           "count": 1,
-          "sum": 13.5,
-          "average": 13.5,
-          "average w/o zero": 13.5
+          "sum": 13.4,
+          "average": 13.4,
+          "average w/o zero": 13.4
         },
         "2017": {
           "count": 1,
-          "sum": 14.3,
-          "average": 14.3,
-          "average w/o zero": 14.3
+          "sum": 14.4,
+          "average": 14.4,
+          "average w/o zero": 14.4
+        },
+        "2018": {
+          "count": 1,
+          "sum": 13.6,
+          "average": 13.6,
+          "average w/o zero": 13.6
+        },
+        "2019": {
+          "count": 1,
+          "sum": 13.7,
+          "average": 13.7,
+          "average w/o zero": 13.7
         }
       },
-      "Rate.All.Sex.Female": {
+      "Rate.All.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 8.2,
@@ -1150,363 +1258,27 @@ VISUALIZER_DATA_BARS = [
         },
         "2016": {
           "count": 1,
-          "sum": 26.1,
-          "average": 26.1,
-          "average w/o zero": 26.1
+          "sum": 26.2,
+          "average": 26.2,
+          "average w/o zero": 26.2
         },
         "2017": {
           "count": 1,
-          "sum": 29.0,
-          "average": 29.0,
-          "average w/o zero": 29.0
-        }
-      },
-      "Rate.All.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 6.8,
-          "average": 6.8,
-          "average w/o zero": 6.8
+          "sum": 29.1,
+          "average": 29.1,
+          "average w/o zero": 29.1
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 6.7,
-          "average": 6.7,
-          "average w/o zero": 6.7
+          "sum": 27.9,
+          "average": 27.9,
+          "average w/o zero": 27.9
         },
-        "2001": {
+        "2019": {
           "count": 1,
-          "sum": 7.1,
-          "average": 7.1,
-          "average w/o zero": 7.1
-        },
-        "2002": {
-          "count": 1,
-          "sum": 8.5,
-          "average": 8.5,
-          "average w/o zero": 8.5
-        },
-        "2003": {
-          "count": 1,
-          "sum": 8.9,
-          "average": 8.9,
-          "average w/o zero": 8.9
-        },
-        "2004": {
-          "count": 1,
-          "sum": 9.0,
-          "average": 9.0,
-          "average w/o zero": 9.0
-        },
-        "2005": {
-          "count": 1,
-          "sum": 9.8,
-          "average": 9.8,
-          "average w/o zero": 9.8
-        },
-        "2006": {
-          "count": 1,
-          "sum": 11.2,
-          "average": 11.2,
-          "average w/o zero": 11.2
-        },
-        "2007": {
-          "count": 1,
-          "sum": 11.4,
-          "average": 11.4,
-          "average w/o zero": 11.4
-        },
-        "2008": {
-          "count": 1,
-          "sum": 11.2,
-          "average": 11.2,
-          "average w/o zero": 11.2
-        },
-        "2009": {
-          "count": 1,
-          "sum": 11.2,
-          "average": 11.2,
-          "average w/o zero": 11.2
-        },
-        "2010": {
-          "count": 1,
-          "sum": 11.4,
-          "average": 11.4,
-          "average w/o zero": 11.4
-        },
-        "2011": {
-          "count": 1,
-          "sum": 12.3,
-          "average": 12.3,
-          "average w/o zero": 12.3
-        },
-        "2012": {
-          "count": 1,
-          "sum": 12.5,
-          "average": 12.5,
-          "average w/o zero": 12.5
-        },
-        "2013": {
-          "count": 1,
-          "sum": 13.2,
-          "average": 13.2,
-          "average w/o zero": 13.2
-        },
-        "2014": {
-          "count": 1,
-          "sum": 13.9,
-          "average": 13.9,
-          "average w/o zero": 13.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 15.4,
-          "average": 15.4,
-          "average w/o zero": 15.4
-        },
-        "2016": {
-          "count": 1,
-          "sum": 19.6,
-          "average": 19.6,
-          "average w/o zero": 19.6
-        },
-        "2017": {
-          "count": 1,
-          "sum": 21.5,
-          "average": 21.5,
-          "average w/o zero": 21.5
-        }
-      },
-      "Rate.All.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 5.6,
-          "average": 5.6,
-          "average w/o zero": 5.6
-        },
-        "2000": {
-          "count": 1,
-          "sum": 6.0,
-          "average": 6.0,
-          "average w/o zero": 6.0
-        },
-        "2001": {
-          "count": 1,
-          "sum": 6.8,
-          "average": 6.8,
-          "average w/o zero": 6.8
-        },
-        "2002": {
-          "count": 1,
-          "sum": 8.2,
-          "average": 8.2,
-          "average w/o zero": 8.2
-        },
-        "2003": {
-          "count": 1,
-          "sum": 9.4,
-          "average": 9.4,
-          "average w/o zero": 9.4
-        },
-        "2004": {
-          "count": 1,
-          "sum": 10.1,
-          "average": 10.1,
-          "average w/o zero": 10.1
-        },
-        "2005": {
-          "count": 1,
-          "sum": 10.8,
-          "average": 10.8,
-          "average w/o zero": 10.8
-        },
-        "2006": {
-          "count": 1,
-          "sum": 12.0,
-          "average": 12.0,
-          "average w/o zero": 12.0
-        },
-        "2007": {
-          "count": 1,
-          "sum": 12.7,
-          "average": 12.7,
-          "average w/o zero": 12.7
-        },
-        "2008": {
-          "count": 1,
-          "sum": 13.0,
-          "average": 13.0,
-          "average w/o zero": 13.0
-        },
-        "2009": {
-          "count": 1,
-          "sum": 13.1,
-          "average": 13.1,
-          "average w/o zero": 13.1
-        },
-        "2010": {
-          "count": 1,
-          "sum": 13.6,
-          "average": 13.6,
-          "average w/o zero": 13.6
-        },
-        "2011": {
-          "count": 1,
-          "sum": 14.3,
-          "average": 14.3,
-          "average w/o zero": 14.3
-        },
-        "2012": {
-          "count": 1,
-          "sum": 14.0,
-          "average": 14.0,
-          "average w/o zero": 14.0
-        },
-        "2013": {
-          "count": 1,
-          "sum": 14.7,
-          "average": 14.7,
-          "average w/o zero": 14.7
-        },
-        "2014": {
-          "count": 1,
-          "sum": 15.9,
-          "average": 15.9,
-          "average w/o zero": 15.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 17.9,
-          "average": 17.9,
-          "average w/o zero": 17.9
-        },
-        "2016": {
-          "count": 1,
-          "sum": 20.8,
-          "average": 20.8,
-          "average w/o zero": 20.8
-        },
-        "2017": {
-          "count": 1,
-          "sum": 23.1,
-          "average": 23.1,
-          "average w/o zero": 23.1
-        }
-      },
-      "Rate.All.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2000": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2001": {
-          "count": 1,
-          "sum": 5.7,
-          "average": 5.7,
-          "average w/o zero": 5.7
-        },
-        "2002": {
-          "count": 1,
-          "sum": 6.9,
-          "average": 6.9,
-          "average w/o zero": 6.9
-        },
-        "2003": {
-          "count": 1,
-          "sum": 8.2,
-          "average": 8.2,
-          "average w/o zero": 8.2
-        },
-        "2004": {
-          "count": 1,
-          "sum": 9.4,
-          "average": 9.4,
-          "average w/o zero": 9.4
-        },
-        "2005": {
-          "count": 1,
-          "sum": 9.9,
-          "average": 9.9,
-          "average w/o zero": 9.9
-        },
-        "2006": {
-          "count": 1,
-          "sum": 11.7,
-          "average": 11.7,
-          "average w/o zero": 11.7
-        },
-        "2007": {
-          "count": 1,
-          "sum": 12.3,
-          "average": 12.3,
-          "average w/o zero": 12.3
-        },
-        "2008": {
-          "count": 1,
-          "sum": 12.7,
-          "average": 12.7,
-          "average w/o zero": 12.7
-        },
-        "2009": {
-          "count": 1,
-          "sum": 12.9,
-          "average": 12.9,
-          "average w/o zero": 12.9
-        },
-        "2010": {
-          "count": 1,
-          "sum": 13.6,
-          "average": 13.6,
-          "average w/o zero": 13.6
-        },
-        "2011": {
-          "count": 1,
-          "sum": 14.7,
-          "average": 14.7,
-          "average w/o zero": 14.7
-        },
-        "2012": {
-          "count": 1,
-          "sum": 14.2,
-          "average": 14.2,
-          "average w/o zero": 14.2
-        },
-        "2013": {
-          "count": 1,
-          "sum": 14.6,
-          "average": 14.6,
-          "average w/o zero": 14.6
-        },
-        "2014": {
-          "count": 1,
-          "sum": 15.6,
-          "average": 15.6,
-          "average w/o zero": 15.6
-        },
-        "2015": {
-          "count": 1,
-          "sum": 17.0,
-          "average": 17.0,
-          "average w/o zero": 17.0
-        },
-        "2016": {
-          "count": 1,
-          "sum": 18.7,
-          "average": 18.7,
-          "average w/o zero": 18.7
-        },
-        "2017": {
-          "count": 1,
-          "sum": 20.0,
-          "average": 20.0,
-          "average w/o zero": 20.0
+          "sum": 29.6,
+          "average": 29.6,
+          "average w/o zero": 29.6
         }
       },
       "Rate.All.Race.White": {
@@ -1623,6 +1395,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 27.5,
           "average": 27.5,
           "average w/o zero": 27.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 25.7,
+          "average": 25.7,
+          "average w/o zero": 25.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 25.9,
+          "average": 25.9,
+          "average w/o zero": 25.9
         }
       },
       "Rate.All.Race.Black": {
@@ -1739,6 +1523,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 20.6,
           "average": 20.6,
           "average w/o zero": 20.6
+        },
+        "2018": {
+          "count": 1,
+          "sum": 21.1,
+          "average": 21.1,
+          "average w/o zero": 21.1
+        },
+        "2019": {
+          "count": 1,
+          "sum": 24.5,
+          "average": 24.5,
+          "average w/o zero": 24.5
+        }
+      },
+      "Rate.All.Race.Asian or Pacific Islander": {
+        "1999": {
+          "count": 1,
+          "sum": 1.2,
+          "average": 1.2,
+          "average w/o zero": 1.2
+        },
+        "2000": {
+          "count": 1,
+          "sum": 1.0,
+          "average": 1.0,
+          "average w/o zero": 1.0
+        },
+        "2001": {
+          "count": 1,
+          "sum": 1.2,
+          "average": 1.2,
+          "average w/o zero": 1.2
+        },
+        "2002": {
+          "count": 1,
+          "sum": 1.4,
+          "average": 1.4,
+          "average w/o zero": 1.4
+        },
+        "2003": {
+          "count": 1,
+          "sum": 1.4,
+          "average": 1.4,
+          "average w/o zero": 1.4
+        },
+        "2004": {
+          "count": 1,
+          "sum": 1.5,
+          "average": 1.5,
+          "average w/o zero": 1.5
+        },
+        "2005": {
+          "count": 1,
+          "sum": 1.7,
+          "average": 1.7,
+          "average w/o zero": 1.7
+        },
+        "2006": {
+          "count": 1,
+          "sum": 1.8,
+          "average": 1.8,
+          "average w/o zero": 1.8
+        },
+        "2007": {
+          "count": 1,
+          "sum": 1.8,
+          "average": 1.8,
+          "average w/o zero": 1.8
+        },
+        "2008": {
+          "count": 1,
+          "sum": 1.7,
+          "average": 1.7,
+          "average w/o zero": 1.7
+        },
+        "2009": {
+          "count": 1,
+          "sum": 1.9,
+          "average": 1.9,
+          "average w/o zero": 1.9
+        },
+        "2010": {
+          "count": 1,
+          "sum": 1.9,
+          "average": 1.9,
+          "average w/o zero": 1.9
+        },
+        "2011": {
+          "count": 1,
+          "sum": 2.3,
+          "average": 2.3,
+          "average w/o zero": 2.3
+        },
+        "2012": {
+          "count": 1,
+          "sum": 2.2,
+          "average": 2.2,
+          "average w/o zero": 2.2
+        },
+        "2013": {
+          "count": 1,
+          "sum": 2.3,
+          "average": 2.3,
+          "average w/o zero": 2.3
+        },
+        "2014": {
+          "count": 1,
+          "sum": 2.4,
+          "average": 2.4,
+          "average w/o zero": 2.4
+        },
+        "2015": {
+          "count": 1,
+          "sum": 2.7,
+          "average": 2.7,
+          "average w/o zero": 2.7
+        },
+        "2016": {
+          "count": 1,
+          "sum": 3.1,
+          "average": 3.1,
+          "average w/o zero": 3.1
+        },
+        "2017": {
+          "count": 1,
+          "sum": 3.5,
+          "average": 3.5,
+          "average w/o zero": 3.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.7,
+          "average": 3.7,
+          "average w/o zero": 3.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 3.9,
+          "average": 3.9,
+          "average w/o zero": 3.9
         }
       },
       "Rate.All.Race.Hispanic": {
@@ -1855,6 +1779,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 10.6,
           "average": 10.6,
           "average w/o zero": 10.6
+        },
+        "2018": {
+          "count": 1,
+          "sum": 11.0,
+          "average": 11.0,
+          "average w/o zero": 11.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 12.7,
+          "average": 12.7,
+          "average w/o zero": 12.7
+        }
+      },
+      "Rate.All.Race.American Indian or Alaska Native": {
+        "1999": {
+          "count": 1,
+          "sum": 6.0,
+          "average": 6.0,
+          "average w/o zero": 6.0
+        },
+        "2000": {
+          "count": 1,
+          "sum": 5.5,
+          "average": 5.5,
+          "average w/o zero": 5.5
+        },
+        "2001": {
+          "count": 1,
+          "sum": 6.9,
+          "average": 6.9,
+          "average w/o zero": 6.9
+        },
+        "2002": {
+          "count": 1,
+          "sum": 8.5,
+          "average": 8.5,
+          "average w/o zero": 8.5
+        },
+        "2003": {
+          "count": 1,
+          "sum": 10.8,
+          "average": 10.8,
+          "average w/o zero": 10.8
+        },
+        "2004": {
+          "count": 1,
+          "sum": 12.5,
+          "average": 12.5,
+          "average w/o zero": 12.5
+        },
+        "2005": {
+          "count": 1,
+          "sum": 13.1,
+          "average": 13.1,
+          "average w/o zero": 13.1
+        },
+        "2006": {
+          "count": 1,
+          "sum": 14.1,
+          "average": 14.1,
+          "average w/o zero": 14.1
+        },
+        "2007": {
+          "count": 1,
+          "sum": 14.2,
+          "average": 14.2,
+          "average w/o zero": 14.2
+        },
+        "2008": {
+          "count": 1,
+          "sum": 15.8,
+          "average": 15.8,
+          "average w/o zero": 15.8
+        },
+        "2009": {
+          "count": 1,
+          "sum": 17.7,
+          "average": 17.7,
+          "average w/o zero": 17.7
+        },
+        "2010": {
+          "count": 1,
+          "sum": 16.8,
+          "average": 16.8,
+          "average w/o zero": 16.8
+        },
+        "2011": {
+          "count": 1,
+          "sum": 18.2,
+          "average": 18.2,
+          "average w/o zero": 18.2
+        },
+        "2012": {
+          "count": 1,
+          "sum": 18.9,
+          "average": 18.9,
+          "average w/o zero": 18.9
+        },
+        "2013": {
+          "count": 1,
+          "sum": 18.7,
+          "average": 18.7,
+          "average w/o zero": 18.7
+        },
+        "2014": {
+          "count": 1,
+          "sum": 20.9,
+          "average": 20.9,
+          "average w/o zero": 20.9
+        },
+        "2015": {
+          "count": 1,
+          "sum": 21.2,
+          "average": 21.2,
+          "average w/o zero": 21.2
+        },
+        "2016": {
+          "count": 1,
+          "sum": 24.2,
+          "average": 24.2,
+          "average w/o zero": 24.2
+        },
+        "2017": {
+          "count": 1,
+          "sum": 25.7,
+          "average": 25.7,
+          "average w/o zero": 25.7
+        },
+        "2018": {
+          "count": 1,
+          "sum": 27.0,
+          "average": 27.0,
+          "average w/o zero": 27.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 30.0,
+          "average": 30.0,
+          "average w/o zero": 30.0
         }
       },
       "Rate.Opioid.Any.Total": {
@@ -1968,12 +2032,24 @@ VISUALIZER_DATA_BARS = [
         },
         "2017": {
           "count": 1,
+          "sum": 14.9,
+          "average": 14.9,
+          "average w/o zero": 14.9
+        },
+        "2018": {
+          "count": 1,
           "sum": 14.6,
           "average": 14.6,
           "average w/o zero": 14.6
+        },
+        "2019": {
+          "count": 1,
+          "sum": 15.5,
+          "average": 15.5,
+          "average w/o zero": 15.5
         }
       },
-      "Rate.Opioid.Any.Sex.Male": {
+      "Rate.Opioid.Any.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 1.4,
@@ -2087,9 +2163,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 9.4,
           "average": 9.4,
           "average w/o zero": 9.4
+        },
+        "2018": {
+          "count": 1,
+          "sum": 9.0,
+          "average": 9.0,
+          "average w/o zero": 9.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 9.3,
+          "average": 9.3,
+          "average w/o zero": 9.3
         }
       },
-      "Rate.Opioid.Any.Sex.Female": {
+      "Rate.Opioid.Any.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 4.3,
@@ -2203,354 +2291,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 20.4,
           "average": 20.4,
           "average w/o zero": 20.4
-        }
-      },
-      "Rate.Opioid.Any.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 3.5,
-          "average": 3.5,
-          "average w/o zero": 3.5
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 3.4,
-          "average": 3.4,
-          "average w/o zero": 3.4
+          "sum": 20.1,
+          "average": 20.1,
+          "average w/o zero": 20.1
         },
-        "2001": {
+        "2019": {
           "count": 1,
-          "sum": 3.6,
-          "average": 3.6,
-          "average w/o zero": 3.6
-        },
-        "2002": {
-          "count": 1,
-          "sum": 4.5,
-          "average": 4.5,
-          "average w/o zero": 4.5
-        },
-        "2003": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2004": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2005": {
-          "count": 1,
-          "sum": 5.0,
-          "average": 5.0,
-          "average w/o zero": 5.0
-        },
-        "2006": {
-          "count": 1,
-          "sum": 5.8,
-          "average": 5.8,
-          "average w/o zero": 5.8
-        },
-        "2007": {
-          "count": 1,
-          "sum": 6.0,
-          "average": 6.0,
-          "average w/o zero": 6.0
-        },
-        "2008": {
-          "count": 1,
-          "sum": 6.3,
-          "average": 6.3,
-          "average w/o zero": 6.3
-        },
-        "2009": {
-          "count": 1,
-          "sum": 6.4,
-          "average": 6.4,
-          "average w/o zero": 6.4
-        },
-        "2010": {
-          "count": 1,
-          "sum": 6.5,
-          "average": 6.5,
-          "average w/o zero": 6.5
-        },
-        "2011": {
-          "count": 1,
-          "sum": 7.1,
-          "average": 7.1,
-          "average w/o zero": 7.1
-        },
-        "2012": {
-          "count": 1,
-          "sum": 7.3,
-          "average": 7.3,
-          "average w/o zero": 7.3
-        },
-        "2013": {
-          "count": 1,
-          "sum": 7.9,
-          "average": 7.9,
-          "average w/o zero": 7.9
-        },
-        "2014": {
-          "count": 1,
-          "sum": 8.8,
-          "average": 8.8,
-          "average w/o zero": 8.8
-        },
-        "2015": {
-          "count": 1,
-          "sum": 10.1,
-          "average": 10.1,
-          "average w/o zero": 10.1
-        },
-        "2016": {
-          "count": 1,
-          "sum": 13.6,
-          "average": 13.6,
-          "average w/o zero": 13.6
-        },
-        "2017": {
-          "count": 1,
-          "sum": 15.2,
-          "average": 15.2,
-          "average w/o zero": 15.2
-        }
-      },
-      "Rate.Opioid.Any.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 2.5,
-          "average": 2.5,
-          "average w/o zero": 2.5
-        },
-        "2000": {
-          "count": 1,
-          "sum": 2.7,
-          "average": 2.7,
-          "average w/o zero": 2.7
-        },
-        "2001": {
-          "count": 1,
-          "sum": 3.1,
-          "average": 3.1,
-          "average w/o zero": 3.1
-        },
-        "2002": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2003": {
-          "count": 1,
-          "sum": 4.5,
-          "average": 4.5,
-          "average w/o zero": 4.5
-        },
-        "2004": {
-          "count": 1,
-          "sum": 5.0,
-          "average": 5.0,
-          "average w/o zero": 5.0
-        },
-        "2005": {
-          "count": 1,
-          "sum": 5.2,
-          "average": 5.2,
-          "average w/o zero": 5.2
-        },
-        "2006": {
-          "count": 1,
-          "sum": 6.0,
-          "average": 6.0,
-          "average w/o zero": 6.0
-        },
-        "2007": {
-          "count": 1,
-          "sum": 6.3,
-          "average": 6.3,
-          "average w/o zero": 6.3
-        },
-        "2008": {
-          "count": 1,
-          "sum": 6.6,
-          "average": 6.6,
-          "average w/o zero": 6.6
-        },
-        "2009": {
-          "count": 1,
-          "sum": 6.9,
-          "average": 6.9,
-          "average w/o zero": 6.9
-        },
-        "2010": {
-          "count": 1,
-          "sum": 7.2,
-          "average": 7.2,
-          "average w/o zero": 7.2
-        },
-        "2011": {
-          "count": 1,
-          "sum": 7.5,
-          "average": 7.5,
-          "average w/o zero": 7.5
-        },
-        "2012": {
-          "count": 1,
-          "sum": 7.4,
-          "average": 7.4,
-          "average w/o zero": 7.4
-        },
-        "2013": {
-          "count": 1,
-          "sum": 8.1,
-          "average": 8.1,
-          "average w/o zero": 8.1
-        },
-        "2014": {
-          "count": 1,
-          "sum": 9.5,
-          "average": 9.5,
-          "average w/o zero": 9.5
-        },
-        "2015": {
-          "count": 1,
-          "sum": 11.2,
-          "average": 11.2,
-          "average w/o zero": 11.2
-        },
-        "2016": {
-          "count": 1,
-          "sum": 13.6,
-          "average": 13.6,
-          "average w/o zero": 13.6
-        },
-        "2017": {
-          "count": 1,
-          "sum": 15.3,
-          "average": 15.3,
-          "average w/o zero": 15.3
-        }
-      },
-      "Rate.Opioid.Any.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
-        },
-        "2000": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2001": {
-          "count": 1,
-          "sum": 2.5,
-          "average": 2.5,
-          "average w/o zero": 2.5
-        },
-        "2002": {
-          "count": 1,
-          "sum": 3.1,
-          "average": 3.1,
-          "average w/o zero": 3.1
-        },
-        "2003": {
-          "count": 1,
-          "sum": 3.8,
-          "average": 3.8,
-          "average w/o zero": 3.8
-        },
-        "2004": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2005": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        },
-        "2006": {
-          "count": 1,
-          "sum": 5.9,
-          "average": 5.9,
-          "average w/o zero": 5.9
-        },
-        "2007": {
-          "count": 1,
-          "sum": 6.3,
-          "average": 6.3,
-          "average w/o zero": 6.3
-        },
-        "2008": {
-          "count": 1,
-          "sum": 6.7,
-          "average": 6.7,
-          "average w/o zero": 6.7
-        },
-        "2009": {
-          "count": 1,
-          "sum": 6.9,
-          "average": 6.9,
-          "average w/o zero": 6.9
-        },
-        "2010": {
-          "count": 1,
-          "sum": 7.5,
-          "average": 7.5,
-          "average w/o zero": 7.5
-        },
-        "2011": {
-          "count": 1,
-          "sum": 7.9,
-          "average": 7.9,
-          "average w/o zero": 7.9
-        },
-        "2012": {
-          "count": 1,
-          "sum": 7.8,
-          "average": 7.8,
-          "average w/o zero": 7.8
-        },
-        "2013": {
-          "count": 1,
-          "sum": 8.1,
-          "average": 8.1,
-          "average w/o zero": 8.1
-        },
-        "2014": {
-          "count": 1,
-          "sum": 9.3,
-          "average": 9.3,
-          "average w/o zero": 9.3
-        },
-        "2015": {
-          "count": 1,
-          "sum": 10.3,
-          "average": 10.3,
-          "average w/o zero": 10.3
-        },
-        "2016": {
-          "count": 1,
-          "sum": 11.5,
-          "average": 11.5,
-          "average w/o zero": 11.5
-        },
-        "2017": {
-          "count": 1,
-          "sum": 12.8,
-          "average": 12.8,
-          "average w/o zero": 12.8
+          "sum": 21.7,
+          "average": 21.7,
+          "average w/o zero": 21.7
         }
       },
       "Rate.Opioid.Any.Race.White": {
@@ -2667,6 +2419,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 19.4,
           "average": 19.4,
           "average w/o zero": 19.4
+        },
+        "2018": {
+          "count": 1,
+          "sum": 18.6,
+          "average": 18.6,
+          "average w/o zero": 18.6
+        },
+        "2019": {
+          "count": 1,
+          "sum": 19.0,
+          "average": 19.0,
+          "average w/o zero": 19.0
         }
       },
       "Rate.Opioid.Any.Race.Black": {
@@ -2783,6 +2547,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 12.9,
           "average": 12.9,
           "average w/o zero": 12.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 14.0,
+          "average": 14.0,
+          "average w/o zero": 14.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 17.1,
+          "average": 17.1,
+          "average w/o zero": 17.1
+        }
+      },
+      "Rate.Opioid.Any.Race.Asian or Pacific Islander": {
+        "1999": {
+          "count": 1,
+          "sum": 0.3,
+          "average": 0.3,
+          "average w/o zero": 0.3
+        },
+        "2000": {
+          "count": 1,
+          "sum": 0.3,
+          "average": 0.3,
+          "average w/o zero": 0.3
+        },
+        "2001": {
+          "count": 1,
+          "sum": 0.3,
+          "average": 0.3,
+          "average w/o zero": 0.3
+        },
+        "2002": {
+          "count": 1,
+          "sum": 0.5,
+          "average": 0.5,
+          "average w/o zero": 0.5
+        },
+        "2003": {
+          "count": 1,
+          "sum": 0.3,
+          "average": 0.3,
+          "average w/o zero": 0.3
+        },
+        "2004": {
+          "count": 1,
+          "sum": 0.4,
+          "average": 0.4,
+          "average w/o zero": 0.4
+        },
+        "2005": {
+          "count": 1,
+          "sum": 0.6,
+          "average": 0.6,
+          "average w/o zero": 0.6
+        },
+        "2006": {
+          "count": 1,
+          "sum": 0.5,
+          "average": 0.5,
+          "average w/o zero": 0.5
+        },
+        "2007": {
+          "count": 1,
+          "sum": 0.5,
+          "average": 0.5,
+          "average w/o zero": 0.5
+        },
+        "2008": {
+          "count": 1,
+          "sum": 0.6,
+          "average": 0.6,
+          "average w/o zero": 0.6
+        },
+        "2009": {
+          "count": 1,
+          "sum": 0.6,
+          "average": 0.6,
+          "average w/o zero": 0.6
+        },
+        "2010": {
+          "count": 1,
+          "sum": 0.7,
+          "average": 0.7,
+          "average w/o zero": 0.7
+        },
+        "2011": {
+          "count": 1,
+          "sum": 0.8,
+          "average": 0.8,
+          "average w/o zero": 0.8
+        },
+        "2012": {
+          "count": 1,
+          "sum": 0.9,
+          "average": 0.9,
+          "average w/o zero": 0.9
+        },
+        "2013": {
+          "count": 1,
+          "sum": 0.8,
+          "average": 0.8,
+          "average w/o zero": 0.8
+        },
+        "2014": {
+          "count": 1,
+          "sum": 0.9,
+          "average": 0.9,
+          "average w/o zero": 0.9
+        },
+        "2015": {
+          "count": 1,
+          "sum": 1.1,
+          "average": 1.1,
+          "average w/o zero": 1.1
+        },
+        "2016": {
+          "count": 1,
+          "sum": 1.5,
+          "average": 1.5,
+          "average w/o zero": 1.5
+        },
+        "2017": {
+          "count": 1,
+          "sum": 1.6,
+          "average": 1.6,
+          "average w/o zero": 1.6
+        },
+        "2018": {
+          "count": 1,
+          "sum": 1.5,
+          "average": 1.5,
+          "average w/o zero": 1.5
+        },
+        "2019": {
+          "count": 1,
+          "sum": 1.7,
+          "average": 1.7,
+          "average w/o zero": 1.7
         }
       },
       "Rate.Opioid.Any.Race.Hispanic": {
@@ -2899,6 +2803,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 6.8,
           "average": 6.8,
           "average w/o zero": 6.8
+        },
+        "2018": {
+          "count": 1,
+          "sum": 7.5,
+          "average": 7.5,
+          "average w/o zero": 7.5
+        },
+        "2019": {
+          "count": 1,
+          "sum": 8.8,
+          "average": 8.8,
+          "average w/o zero": 8.8
+        }
+      },
+      "Rate.Opioid.Any.Race.American Indian or Alaska Native": {
+        "1999": {
+          "count": 1,
+          "sum": 2.9,
+          "average": 2.9,
+          "average w/o zero": 2.9
+        },
+        "2000": {
+          "count": 1,
+          "sum": 2.7,
+          "average": 2.7,
+          "average w/o zero": 2.7
+        },
+        "2001": {
+          "count": 1,
+          "sum": 3.5,
+          "average": 3.5,
+          "average w/o zero": 3.5
+        },
+        "2002": {
+          "count": 1,
+          "sum": 4.1,
+          "average": 4.1,
+          "average w/o zero": 4.1
+        },
+        "2003": {
+          "count": 1,
+          "sum": 5.3,
+          "average": 5.3,
+          "average w/o zero": 5.3
+        },
+        "2004": {
+          "count": 1,
+          "sum": 6.2,
+          "average": 6.2,
+          "average w/o zero": 6.2
+        },
+        "2005": {
+          "count": 1,
+          "sum": 6.9,
+          "average": 6.9,
+          "average w/o zero": 6.9
+        },
+        "2006": {
+          "count": 1,
+          "sum": 7.1,
+          "average": 7.1,
+          "average w/o zero": 7.1
+        },
+        "2007": {
+          "count": 1,
+          "sum": 7.8,
+          "average": 7.8,
+          "average w/o zero": 7.8
+        },
+        "2008": {
+          "count": 1,
+          "sum": 9.3,
+          "average": 9.3,
+          "average w/o zero": 9.3
+        },
+        "2009": {
+          "count": 1,
+          "sum": 11.3,
+          "average": 11.3,
+          "average w/o zero": 11.3
+        },
+        "2010": {
+          "count": 1,
+          "sum": 9.4,
+          "average": 9.4,
+          "average w/o zero": 9.4
+        },
+        "2011": {
+          "count": 1,
+          "sum": 10.3,
+          "average": 10.3,
+          "average w/o zero": 10.3
+        },
+        "2012": {
+          "count": 1,
+          "sum": 11.0,
+          "average": 11.0,
+          "average w/o zero": 11.0
+        },
+        "2013": {
+          "count": 1,
+          "sum": 10.6,
+          "average": 10.6,
+          "average w/o zero": 10.6
+        },
+        "2014": {
+          "count": 1,
+          "sum": 12.0,
+          "average": 12.0,
+          "average w/o zero": 12.0
+        },
+        "2015": {
+          "count": 1,
+          "sum": 12.1,
+          "average": 12.1,
+          "average w/o zero": 12.1
+        },
+        "2016": {
+          "count": 1,
+          "sum": 13.9,
+          "average": 13.9,
+          "average w/o zero": 13.9
+        },
+        "2017": {
+          "count": 1,
+          "sum": 15.7,
+          "average": 15.7,
+          "average w/o zero": 15.7
+        },
+        "2018": {
+          "count": 1,
+          "sum": 14.2,
+          "average": 14.2,
+          "average w/o zero": 14.2
+        },
+        "2019": {
+          "count": 1,
+          "sum": 17.7,
+          "average": 17.7,
+          "average w/o zero": 17.7
         }
       },
       "Rate.Opioid.Prescription.Total": {
@@ -3015,9 +3059,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 5.2,
           "average": 5.2,
           "average w/o zero": 5.2
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.5,
+          "average": 4.5,
+          "average w/o zero": 4.5
+        },
+        "2019": {
+          "count": 1,
+          "sum": 4.2,
+          "average": 4.2,
+          "average w/o zero": 4.2
         }
       },
-      "Rate.Opioid.Prescription.Sex.Male": {
+      "Rate.Opioid.Prescription.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 0.7,
@@ -3131,9 +3187,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 4.2,
           "average": 4.2,
           "average w/o zero": 4.2
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.7,
+          "average": 3.7,
+          "average w/o zero": 3.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 3.4,
+          "average": 3.4,
+          "average w/o zero": 3.4
         }
       },
-      "Rate.Opioid.Prescription.Sex.Female": {
+      "Rate.Opioid.Prescription.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 1.7,
@@ -3247,354 +3315,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 6.1,
           "average": 6.1,
           "average w/o zero": 6.1
-        }
-      },
-      "Rate.Opioid.Prescription.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
+          "sum": 5.3,
+          "average": 5.3,
+          "average w/o zero": 5.3
         },
-        "2001": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2002": {
-          "count": 1,
-          "sum": 2.1,
-          "average": 2.1,
-          "average w/o zero": 2.1
-        },
-        "2003": {
-          "count": 1,
-          "sum": 2.3,
-          "average": 2.3,
-          "average w/o zero": 2.3
-        },
-        "2004": {
-          "count": 1,
-          "sum": 2.6,
-          "average": 2.6,
-          "average w/o zero": 2.6
-        },
-        "2005": {
-          "count": 1,
-          "sum": 2.9,
-          "average": 2.9,
-          "average w/o zero": 2.9
-        },
-        "2006": {
-          "count": 1,
-          "sum": 3.5,
-          "average": 3.5,
-          "average w/o zero": 3.5
-        },
-        "2007": {
-          "count": 1,
-          "sum": 3.9,
-          "average": 3.9,
-          "average w/o zero": 3.9
-        },
-        "2008": {
-          "count": 1,
-          "sum": 3.9,
-          "average": 3.9,
-          "average w/o zero": 3.9
-        },
-        "2009": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2010": {
-          "count": 1,
-          "sum": 4.2,
-          "average": 4.2,
-          "average w/o zero": 4.2
-        },
-        "2011": {
-          "count": 1,
-          "sum": 4.4,
-          "average": 4.4,
-          "average w/o zero": 4.4
-        },
-        "2012": {
-          "count": 1,
-          "sum": 4.1,
-          "average": 4.1,
-          "average w/o zero": 4.1
-        },
-        "2013": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2014": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2015": {
-          "count": 1,
-          "sum": 4.1,
-          "average": 4.1,
-          "average w/o zero": 4.1
-        },
-        "2016": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        },
-        "2017": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        }
-      },
-      "Rate.Opioid.Prescription.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 1.1,
-          "average": 1.1,
-          "average w/o zero": 1.1
-        },
-        "2000": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2001": {
-          "count": 1,
-          "sum": 1.9,
-          "average": 1.9,
-          "average w/o zero": 1.9
-        },
-        "2002": {
-          "count": 1,
-          "sum": 2.5,
-          "average": 2.5,
-          "average w/o zero": 2.5
-        },
-        "2003": {
-          "count": 1,
-          "sum": 3.0,
-          "average": 3.0,
-          "average w/o zero": 3.0
-        },
-        "2004": {
-          "count": 1,
-          "sum": 3.4,
-          "average": 3.4,
-          "average w/o zero": 3.4
-        },
-        "2005": {
-          "count": 1,
-          "sum": 3.7,
-          "average": 3.7,
-          "average w/o zero": 3.7
-        },
-        "2006": {
-          "count": 1,
-          "sum": 4.4,
-          "average": 4.4,
-          "average w/o zero": 4.4
-        },
-        "2007": {
-          "count": 1,
-          "sum": 4.7,
-          "average": 4.7,
-          "average w/o zero": 4.7
-        },
-        "2008": {
-          "count": 1,
-          "sum": 4.8,
-          "average": 4.8,
-          "average w/o zero": 4.8
-        },
-        "2009": {
-          "count": 1,
-          "sum": 4.8,
-          "average": 4.8,
-          "average w/o zero": 4.8
-        },
-        "2010": {
-          "count": 1,
-          "sum": 5.2,
-          "average": 5.2,
-          "average w/o zero": 5.2
-        },
-        "2011": {
-          "count": 1,
-          "sum": 5.2,
-          "average": 5.2,
-          "average w/o zero": 5.2
-        },
-        "2012": {
-          "count": 1,
-          "sum": 5.0,
-          "average": 5.0,
-          "average w/o zero": 5.0
-        },
-        "2013": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        },
-        "2014": {
-          "count": 1,
-          "sum": 5.2,
-          "average": 5.2,
-          "average w/o zero": 5.2
-        },
-        "2015": {
-          "count": 1,
-          "sum": 5.4,
-          "average": 5.4,
-          "average w/o zero": 5.4
-        },
-        "2016": {
-          "count": 1,
-          "sum": 5.8,
-          "average": 5.8,
-          "average w/o zero": 5.8
-        },
-        "2017": {
-          "count": 1,
-          "sum": 5.7,
-          "average": 5.7,
-          "average w/o zero": 5.7
-        }
-      },
-      "Rate.Opioid.Prescription.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2000": {
-          "count": 1,
-          "sum": 1.1,
-          "average": 1.1,
-          "average w/o zero": 1.1
-        },
-        "2001": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2002": {
-          "count": 1,
-          "sum": 2.2,
-          "average": 2.2,
-          "average w/o zero": 2.2
-        },
-        "2003": {
-          "count": 1,
-          "sum": 2.8,
-          "average": 2.8,
-          "average w/o zero": 2.8
-        },
-        "2004": {
-          "count": 1,
-          "sum": 3.4,
-          "average": 3.4,
-          "average w/o zero": 3.4
-        },
-        "2005": {
-          "count": 1,
-          "sum": 3.7,
-          "average": 3.7,
-          "average w/o zero": 3.7
-        },
-        "2006": {
-          "count": 1,
-          "sum": 4.5,
-          "average": 4.5,
-          "average w/o zero": 4.5
-        },
-        "2007": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        },
-        "2008": {
-          "count": 1,
-          "sum": 5.0,
-          "average": 5.0,
-          "average w/o zero": 5.0
-        },
-        "2009": {
+        "2019": {
           "count": 1,
           "sum": 5.1,
           "average": 5.1,
           "average w/o zero": 5.1
-        },
-        "2010": {
-          "count": 1,
-          "sum": 5.7,
-          "average": 5.7,
-          "average w/o zero": 5.7
-        },
-        "2011": {
-          "count": 1,
-          "sum": 6.0,
-          "average": 6.0,
-          "average w/o zero": 6.0
-        },
-        "2012": {
-          "count": 1,
-          "sum": 5.4,
-          "average": 5.4,
-          "average w/o zero": 5.4
-        },
-        "2013": {
-          "count": 1,
-          "sum": 5.4,
-          "average": 5.4,
-          "average w/o zero": 5.4
-        },
-        "2014": {
-          "count": 1,
-          "sum": 5.9,
-          "average": 5.9,
-          "average w/o zero": 5.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 5.7,
-          "average": 5.7,
-          "average w/o zero": 5.7
-        },
-        "2016": {
-          "count": 1,
-          "sum": 5.7,
-          "average": 5.7,
-          "average w/o zero": 5.7
-        },
-        "2017": {
-          "count": 1,
-          "sum": 5.5,
-          "average": 5.5,
-          "average w/o zero": 5.5
         }
       },
       "Rate.Opioid.Prescription.Race.White": {
@@ -3711,6 +3443,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 6.9,
           "average": 6.9,
           "average w/o zero": 6.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 6.0,
+          "average": 6.0,
+          "average w/o zero": 6.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 5.5,
+          "average": 5.5,
+          "average w/o zero": 5.5
         }
       },
       "Rate.Opioid.Prescription.Race.Black": {
@@ -3823,6 +3567,18 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 3.3
         },
         "2017": {
+          "count": 1,
+          "sum": 3.5,
+          "average": 3.5,
+          "average w/o zero": 3.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.3,
+          "average": 3.3,
+          "average w/o zero": 3.3
+        },
+        "2019": {
           "count": 1,
           "sum": 3.5,
           "average": 3.5,
@@ -3943,6 +3699,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 2.2,
           "average": 2.2,
           "average w/o zero": 2.2
+        },
+        "2018": {
+          "count": 1,
+          "sum": 2.0,
+          "average": 2.0,
+          "average w/o zero": 2.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 2.0,
+          "average": 2.0,
+          "average w/o zero": 2.0
+        }
+      },
+      "Rate.Opioid.Prescription.Race.American Indian or Alaska Native": {
+        "1999": {
+          "count": 1,
+          "sum": 1.3,
+          "average": 1.3,
+          "average w/o zero": 1.3
+        },
+        "2000": {
+          "count": 1,
+          "sum": 1.3,
+          "average": 1.3,
+          "average w/o zero": 1.3
+        },
+        "2001": {
+          "count": 1,
+          "sum": 2.0,
+          "average": 2.0,
+          "average w/o zero": 2.0
+        },
+        "2002": {
+          "count": 1,
+          "sum": 2.6,
+          "average": 2.6,
+          "average w/o zero": 2.6
+        },
+        "2003": {
+          "count": 1,
+          "sum": 3.3,
+          "average": 3.3,
+          "average w/o zero": 3.3
+        },
+        "2004": {
+          "count": 1,
+          "sum": 4.2,
+          "average": 4.2,
+          "average w/o zero": 4.2
+        },
+        "2005": {
+          "count": 1,
+          "sum": 4.7,
+          "average": 4.7,
+          "average w/o zero": 4.7
+        },
+        "2006": {
+          "count": 1,
+          "sum": 4.7,
+          "average": 4.7,
+          "average w/o zero": 4.7
+        },
+        "2007": {
+          "count": 1,
+          "sum": 5.2,
+          "average": 5.2,
+          "average w/o zero": 5.2
+        },
+        "2008": {
+          "count": 1,
+          "sum": 6.1,
+          "average": 6.1,
+          "average w/o zero": 6.1
+        },
+        "2009": {
+          "count": 1,
+          "sum": 7.8,
+          "average": 7.8,
+          "average w/o zero": 7.8
+        },
+        "2010": {
+          "count": 1,
+          "sum": 7.2,
+          "average": 7.2,
+          "average w/o zero": 7.2
+        },
+        "2011": {
+          "count": 1,
+          "sum": 7.1,
+          "average": 7.1,
+          "average w/o zero": 7.1
+        },
+        "2012": {
+          "count": 1,
+          "sum": 7.5,
+          "average": 7.5,
+          "average w/o zero": 7.5
+        },
+        "2013": {
+          "count": 1,
+          "sum": 7.1,
+          "average": 7.1,
+          "average w/o zero": 7.1
+        },
+        "2014": {
+          "count": 1,
+          "sum": 7.2,
+          "average": 7.2,
+          "average w/o zero": 7.2
+        },
+        "2015": {
+          "count": 1,
+          "sum": 7.0,
+          "average": 7.0,
+          "average w/o zero": 7.0
+        },
+        "2016": {
+          "count": 1,
+          "sum": 6.5,
+          "average": 6.5,
+          "average w/o zero": 6.5
+        },
+        "2017": {
+          "count": 1,
+          "sum": 7.2,
+          "average": 7.2,
+          "average w/o zero": 7.2
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.7,
+          "average": 4.7,
+          "average w/o zero": 4.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 5.4,
+          "average": 5.4,
+          "average w/o zero": 5.4
         }
       },
       "Rate.Opioid.Synthetic.Total": {
@@ -4059,9 +3955,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 9.0,
           "average": 9.0,
           "average w/o zero": 9.0
+        },
+        "2018": {
+          "count": 1,
+          "sum": 9.9,
+          "average": 9.9,
+          "average w/o zero": 9.9
+        },
+        "2019": {
+          "count": 1,
+          "sum": 11.4,
+          "average": 11.4,
+          "average w/o zero": 11.4
         }
       },
-      "Rate.Opioid.Synthetic.Sex.Male": {
+      "Rate.Opioid.Synthetic.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 0.2,
@@ -4175,9 +4083,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 5.0,
           "average": 5.0,
           "average w/o zero": 5.0
+        },
+        "2018": {
+          "count": 1,
+          "sum": 5.5,
+          "average": 5.5,
+          "average w/o zero": 5.5
+        },
+        "2019": {
+          "count": 1,
+          "sum": 6.3,
+          "average": 6.3,
+          "average w/o zero": 6.3
         }
       },
-      "Rate.Opioid.Synthetic.Sex.Female": {
+      "Rate.Opioid.Synthetic.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 0.3,
@@ -4291,354 +4211,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 13.0,
           "average": 13.0,
           "average w/o zero": 13.0
-        }
-      },
-      "Rate.Opioid.Synthetic.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
+          "sum": 14.2,
+          "average": 14.2,
+          "average w/o zero": 14.2
         },
-        "2001": {
+        "2019": {
           "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2006": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2007": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2008": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2009": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2010": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2011": {
-          "count": 1,
-          "sum": 0.7,
-          "average": 0.7,
-          "average w/o zero": 0.7
-        },
-        "2012": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2013": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2014": {
-          "count": 1,
-          "sum": 1.6,
-          "average": 1.6,
-          "average w/o zero": 1.6
-        },
-        "2015": {
-          "count": 1,
-          "sum": 3.0,
-          "average": 3.0,
-          "average w/o zero": 3.0
-        },
-        "2016": {
-          "count": 1,
-          "sum": 6.8,
-          "average": 6.8,
-          "average w/o zero": 6.8
-        },
-        "2017": {
-          "count": 1,
-          "sum": 9.5,
-          "average": 9.5,
-          "average w/o zero": 9.5
-        }
-      },
-      "Rate.Opioid.Synthetic.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2001": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.7,
-          "average": 0.7,
-          "average w/o zero": 0.7
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.7,
-          "average": 0.7,
-          "average w/o zero": 0.7
-        },
-        "2006": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2007": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2008": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2009": {
-          "count": 1,
-          "sum": 1.1,
-          "average": 1.1,
-          "average w/o zero": 1.1
-        },
-        "2010": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2013": {
-          "count": 1,
-          "sum": 1.1,
-          "average": 1.1,
-          "average w/o zero": 1.1
-        },
-        "2014": {
-          "count": 1,
-          "sum": 1.9,
-          "average": 1.9,
-          "average w/o zero": 1.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 3.2,
-          "average": 3.2,
-          "average w/o zero": 3.2
-        },
-        "2016": {
-          "count": 1,
-          "sum": 5.8,
-          "average": 5.8,
-          "average w/o zero": 5.8
-        },
-        "2017": {
-          "count": 1,
-          "sum": 9.0,
-          "average": 9.0,
-          "average w/o zero": 9.0
-        }
-      },
-      "Rate.Opioid.Synthetic.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2001": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2006": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2007": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2008": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2009": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
-        },
-        "2010": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2013": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
-        },
-        "2014": {
-          "count": 1,
-          "sum": 2.0,
-          "average": 2.0,
-          "average w/o zero": 2.0
-        },
-        "2015": {
-          "count": 1,
-          "sum": 2.8,
-          "average": 2.8,
-          "average w/o zero": 2.8
-        },
-        "2016": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2017": {
-          "count": 1,
-          "sum": 7.0,
-          "average": 7.0,
-          "average w/o zero": 7.0
+          "sum": 16.6,
+          "average": 16.6,
+          "average w/o zero": 16.6
         }
       },
       "Rate.Opioid.Synthetic.Race.White": {
@@ -4755,6 +4339,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 11.9,
           "average": 11.9,
           "average w/o zero": 11.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 12.6,
+          "average": 12.6,
+          "average w/o zero": 12.6
+        },
+        "2019": {
+          "count": 1,
+          "sum": 13.8,
+          "average": 13.8,
+          "average w/o zero": 13.8
         }
       },
       "Rate.Opioid.Synthetic.Race.Black": {
@@ -4871,6 +4467,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 9.0,
           "average": 9.0,
           "average w/o zero": 9.0
+        },
+        "2018": {
+          "count": 1,
+          "sum": 11.0,
+          "average": 11.0,
+          "average w/o zero": 11.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 14.2,
+          "average": 14.2,
+          "average w/o zero": 14.2
         }
       },
       "Rate.Opioid.Synthetic.Race.Hispanic": {
@@ -4987,6 +4595,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 3.7,
           "average": 3.7,
           "average w/o zero": 3.7
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.7,
+          "average": 4.7,
+          "average w/o zero": 4.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 6.3,
+          "average": 6.3,
+          "average w/o zero": 6.3
         }
       },
       "Rate.Opioid.Heroin.Total": {
@@ -5103,9 +4723,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 4.9,
           "average": 4.9,
           "average w/o zero": 4.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.7,
+          "average": 4.7,
+          "average w/o zero": 4.7
+        },
+        "2019": {
+          "count": 1,
+          "sum": 4.4,
+          "average": 4.4,
+          "average w/o zero": 4.4
         }
       },
-      "Rate.Opioid.Heroin.Sex.Male": {
+      "Rate.Opioid.Heroin.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 0.2,
@@ -5219,9 +4851,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 2.5,
           "average": 2.5,
           "average w/o zero": 2.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 2.3,
+          "average": 2.3,
+          "average w/o zero": 2.3
+        },
+        "2019": {
+          "count": 1,
+          "sum": 2.2,
+          "average": 2.2,
+          "average w/o zero": 2.2
         }
       },
-      "Rate.Opioid.Heroin.Sex.Female": {
+      "Rate.Opioid.Heroin.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 1.2,
@@ -5335,354 +4979,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 7.3,
           "average": 7.3,
           "average w/o zero": 7.3
-        }
-      },
-      "Rate.Opioid.Heroin.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
+          "sum": 7.1,
+          "average": 7.1,
+          "average w/o zero": 7.1
         },
-        "2001": {
+        "2019": {
           "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2002": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2006": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2007": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2008": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2009": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2010": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2012": {
-          "count": 1,
-          "sum": 2.3,
-          "average": 2.3,
-          "average w/o zero": 2.3
-        },
-        "2013": {
-          "count": 1,
-          "sum": 3.2,
-          "average": 3.2,
-          "average w/o zero": 3.2
-        },
-        "2014": {
-          "count": 1,
-          "sum": 3.9,
-          "average": 3.9,
-          "average w/o zero": 3.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 4.6,
-          "average": 4.6,
-          "average w/o zero": 4.6
-        },
-        "2016": {
-          "count": 1,
-          "sum": 5.6,
-          "average": 5.6,
-          "average w/o zero": 5.6
-        },
-        "2017": {
-          "count": 1,
-          "sum": 5.6,
-          "average": 5.6,
-          "average w/o zero": 5.6
-        }
-      },
-      "Rate.Opioid.Heroin.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2001": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2006": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2007": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2008": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2009": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2010": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.6,
-          "average": 1.6,
-          "average w/o zero": 1.6
-        },
-        "2013": {
-          "count": 1,
-          "sum": 2.3,
-          "average": 2.3,
-          "average w/o zero": 2.3
-        },
-        "2014": {
-          "count": 1,
-          "sum": 3.1,
-          "average": 3.1,
-          "average w/o zero": 3.1
-        },
-        "2015": {
-          "count": 1,
-          "sum": 4.0,
-          "average": 4.0,
-          "average w/o zero": 4.0
-        },
-        "2016": {
-          "count": 1,
-          "sum": 4.5,
-          "average": 4.5,
-          "average w/o zero": 4.5
-        },
-        "2017": {
-          "count": 1,
-          "sum": 4.3,
-          "average": 4.3,
-          "average w/o zero": 4.3
-        }
-      },
-      "Rate.Opioid.Heroin.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2001": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2004": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2005": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2006": {
-          "count": 1,
-          "sum": 0.2,
-          "average": 0.2,
-          "average w/o zero": 0.2
-        },
-        "2007": {
-          "count": 1,
-          "sum": 0.3,
-          "average": 0.3,
-          "average w/o zero": 0.3
-        },
-        "2008": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2009": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2010": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2011": {
-          "count": 1,
-          "sum": 0.7,
-          "average": 0.7,
-          "average w/o zero": 0.7
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2013": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2014": {
-          "count": 1,
-          "sum": 2.1,
-          "average": 2.1,
-          "average w/o zero": 2.1
-        },
-        "2015": {
-          "count": 1,
-          "sum": 2.7,
-          "average": 2.7,
-          "average w/o zero": 2.7
-        },
-        "2016": {
-          "count": 1,
-          "sum": 3.2,
-          "average": 3.2,
-          "average w/o zero": 3.2
-        },
-        "2017": {
-          "count": 1,
-          "sum": 2.9,
-          "average": 2.9,
-          "average w/o zero": 2.9
+          "sum": 6.6,
+          "average": 6.6,
+          "average w/o zero": 6.6
         }
       },
       "Rate.Opioid.Heroin.Race.White": {
@@ -5799,6 +5107,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 6.1,
           "average": 6.1,
           "average w/o zero": 6.1
+        },
+        "2018": {
+          "count": 1,
+          "sum": 5.8,
+          "average": 5.8,
+          "average w/o zero": 5.8
+        },
+        "2019": {
+          "count": 1,
+          "sum": 5.2,
+          "average": 5.2,
+          "average w/o zero": 5.2
         }
       },
       "Rate.Opioid.Heroin.Race.Black": {
@@ -5915,6 +5235,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 4.9,
           "average": 4.9,
           "average w/o zero": 4.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.9,
+          "average": 4.9,
+          "average w/o zero": 4.9
+        },
+        "2019": {
+          "count": 1,
+          "sum": 5.0,
+          "average": 5.0,
+          "average w/o zero": 5.0
         }
       },
       "Rate.Opioid.Heroin.Race.Hispanic": {
@@ -6031,6 +5363,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 2.9,
           "average": 2.9,
           "average w/o zero": 2.9
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.1,
+          "average": 3.1,
+          "average w/o zero": 3.1
+        },
+        "2019": {
+          "count": 1,
+          "sum": 3.1,
+          "average": 3.1,
+          "average w/o zero": 3.1
         }
       },
       "Rate.Opioid.Cocaine.Total": {
@@ -6147,9 +5491,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 4.3,
           "average": 4.3,
           "average w/o zero": 4.3
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.5,
+          "average": 4.5,
+          "average w/o zero": 4.5
+        },
+        "2019": {
+          "count": 1,
+          "sum": 4.9,
+          "average": 4.9,
+          "average w/o zero": 4.9
         }
       },
-      "Rate.Opioid.Cocaine.Sex.Male": {
+      "Rate.Opioid.Cocaine.Sex.Female": {
         "1999": {
           "count": 1,
           "sum": 0.6,
@@ -6263,9 +5619,21 @@ VISUALIZER_DATA_BARS = [
           "sum": 2.5,
           "average": 2.5,
           "average w/o zero": 2.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 2.6,
+          "average": 2.6,
+          "average w/o zero": 2.6
+        },
+        "2019": {
+          "count": 1,
+          "sum": 2.7,
+          "average": 2.7,
+          "average w/o zero": 2.7
         }
       },
-      "Rate.Opioid.Cocaine.Sex.Female": {
+      "Rate.Opioid.Cocaine.Sex.Male": {
         "1999": {
           "count": 1,
           "sum": 2.1,
@@ -6379,354 +5747,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 6.2,
           "average": 6.2,
           "average w/o zero": 6.2
-        }
-      },
-      "Rate.Opioid.Cocaine.Region.Large City": {
-        "1999": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
         },
-        "2000": {
+        "2018": {
           "count": 1,
-          "sum": 1.6,
-          "average": 1.6,
-          "average w/o zero": 1.6
+          "sum": 6.4,
+          "average": 6.4,
+          "average w/o zero": 6.4
         },
-        "2001": {
+        "2019": {
           "count": 1,
-          "sum": 1.7,
-          "average": 1.7,
-          "average w/o zero": 1.7
-        },
-        "2002": {
-          "count": 1,
-          "sum": 2.0,
-          "average": 2.0,
-          "average w/o zero": 2.0
-        },
-        "2003": {
-          "count": 1,
-          "sum": 2.2,
-          "average": 2.2,
-          "average w/o zero": 2.2
-        },
-        "2004": {
-          "count": 1,
-          "sum": 2.2,
-          "average": 2.2,
-          "average w/o zero": 2.2
-        },
-        "2005": {
-          "count": 1,
-          "sum": 2.5,
-          "average": 2.5,
-          "average w/o zero": 2.5
-        },
-        "2006": {
-          "count": 1,
-          "sum": 3.0,
-          "average": 3.0,
-          "average w/o zero": 3.0
-        },
-        "2007": {
-          "count": 1,
-          "sum": 2.6,
-          "average": 2.6,
-          "average w/o zero": 2.6
-        },
-        "2008": {
-          "count": 1,
-          "sum": 2.0,
-          "average": 2.0,
-          "average w/o zero": 2.0
-        },
-        "2009": {
-          "count": 1,
-          "sum": 1.7,
-          "average": 1.7,
-          "average w/o zero": 1.7
-        },
-        "2010": {
-          "count": 1,
-          "sum": 1.6,
-          "average": 1.6,
-          "average w/o zero": 1.6
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.7,
-          "average": 1.7,
-          "average w/o zero": 1.7
-        },
-        "2013": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2014": {
-          "count": 1,
-          "sum": 2.0,
-          "average": 2.0,
-          "average w/o zero": 2.0
-        },
-        "2015": {
-          "count": 1,
-          "sum": 2.4,
-          "average": 2.4,
-          "average w/o zero": 2.4
-        },
-        "2016": {
-          "count": 1,
-          "sum": 3.8,
-          "average": 3.8,
-          "average w/o zero": 3.8
-        },
-        "2017": {
-          "count": 1,
-          "sum": 4.9,
-          "average": 4.9,
-          "average w/o zero": 4.9
-        }
-      },
-      "Rate.Opioid.Cocaine.Region.Small City": {
-        "1999": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2001": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2002": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2003": {
-          "count": 1,
-          "sum": 1.6,
-          "average": 1.6,
-          "average w/o zero": 1.6
-        },
-        "2004": {
-          "count": 1,
-          "sum": 1.7,
-          "average": 1.7,
-          "average w/o zero": 1.7
-        },
-        "2005": {
-          "count": 1,
-          "sum": 1.9,
-          "average": 1.9,
-          "average w/o zero": 1.9
-        },
-        "2006": {
-          "count": 1,
-          "sum": 2.2,
-          "average": 2.2,
-          "average w/o zero": 2.2
-        },
-        "2007": {
-          "count": 1,
-          "sum": 1.8,
-          "average": 1.8,
-          "average w/o zero": 1.8
-        },
-        "2008": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2009": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2010": {
-          "count": 1,
-          "sum": 1.1,
-          "average": 1.1,
-          "average w/o zero": 1.1
-        },
-        "2011": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2012": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2013": {
-          "count": 1,
-          "sum": 1.4,
-          "average": 1.4,
-          "average w/o zero": 1.4
-        },
-        "2014": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2015": {
-          "count": 1,
-          "sum": 2.0,
-          "average": 2.0,
-          "average w/o zero": 2.0
-        },
-        "2016": {
-          "count": 1,
-          "sum": 2.9,
-          "average": 2.9,
-          "average w/o zero": 2.9
-        },
-        "2017": {
-          "count": 1,
-          "sum": 4.1,
-          "average": 4.1,
-          "average w/o zero": 4.1
-        }
-      },
-      "Rate.Opioid.Cocaine.Region.Rural": {
-        "1999": {
-          "count": 1,
-          "sum": 0.4,
-          "average": 0.4,
-          "average w/o zero": 0.4
-        },
-        "2000": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2001": {
-          "count": 1,
-          "sum": 0.5,
-          "average": 0.5,
-          "average w/o zero": 0.5
-        },
-        "2002": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "2003": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2004": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2005": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2006": {
-          "count": 1,
-          "sum": 1.5,
-          "average": 1.5,
-          "average w/o zero": 1.5
-        },
-        "2007": {
-          "count": 1,
-          "sum": 1.3,
-          "average": 1.3,
-          "average w/o zero": 1.3
-        },
-        "2008": {
-          "count": 1,
-          "sum": 1.0,
-          "average": 1.0,
-          "average w/o zero": 1.0
-        },
-        "2009": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2010": {
-          "count": 1,
-          "sum": 0.7,
-          "average": 0.7,
-          "average w/o zero": 0.7
-        },
-        "2011": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2012": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2013": {
-          "count": 1,
-          "sum": 0.8,
-          "average": 0.8,
-          "average w/o zero": 0.8
-        },
-        "2014": {
-          "count": 1,
-          "sum": 0.9,
-          "average": 0.9,
-          "average w/o zero": 0.9
-        },
-        "2015": {
-          "count": 1,
-          "sum": 1.2,
-          "average": 1.2,
-          "average w/o zero": 1.2
-        },
-        "2016": {
-          "count": 1,
-          "sum": 1.7,
-          "average": 1.7,
-          "average w/o zero": 1.7
-        },
-        "2017": {
-          "count": 1,
-          "sum": 2.4,
-          "average": 2.4,
-          "average w/o zero": 2.4
+          "sum": 7.1,
+          "average": 7.1,
+          "average w/o zero": 7.1
         }
       },
       "Rate.Opioid.Cocaine.Race.White": {
@@ -6839,6 +5871,18 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 3.4
         },
         "2017": {
+          "count": 1,
+          "sum": 4.6,
+          "average": 4.6,
+          "average w/o zero": 4.6
+        },
+        "2018": {
+          "count": 1,
+          "sum": 4.6,
+          "average": 4.6,
+          "average w/o zero": 4.6
+        },
+        "2019": {
           "count": 1,
           "sum": 4.6,
           "average": 4.6,
@@ -6959,6 +6003,18 @@ VISUALIZER_DATA_BARS = [
           "sum": 8.3,
           "average": 8.3,
           "average w/o zero": 8.3
+        },
+        "2018": {
+          "count": 1,
+          "sum": 9.0,
+          "average": 9.0,
+          "average w/o zero": 9.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 10.7,
+          "average": 10.7,
+          "average w/o zero": 10.7
         }
       },
       "Rate.Opioid.Cocaine.Race.Hispanic": {
@@ -7075,6 +6131,146 @@ VISUALIZER_DATA_BARS = [
           "sum": 2.5,
           "average": 2.5,
           "average w/o zero": 2.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.0,
+          "average": 3.0,
+          "average w/o zero": 3.0
+        },
+        "2019": {
+          "count": 1,
+          "sum": 3.4,
+          "average": 3.4,
+          "average w/o zero": 3.4
+        }
+      },
+      "Rate.Opioid.Cocaine.Race.American Indian or Alaska Native": {
+        "1999": {
+          "count": 1,
+          "sum": 0.9,
+          "average": 0.9,
+          "average w/o zero": 0.9
+        },
+        "2000": {
+          "count": 1,
+          "sum": 1.0,
+          "average": 1.0,
+          "average w/o zero": 1.0
+        },
+        "2001": {
+          "count": 1,
+          "sum": 1.0,
+          "average": 1.0,
+          "average w/o zero": 1.0
+        },
+        "2002": {
+          "count": 1,
+          "sum": 1.1,
+          "average": 1.1,
+          "average w/o zero": 1.1
+        },
+        "2003": {
+          "count": 1,
+          "sum": 1.7,
+          "average": 1.7,
+          "average w/o zero": 1.7
+        },
+        "2004": {
+          "count": 1,
+          "sum": 1.6,
+          "average": 1.6,
+          "average w/o zero": 1.6
+        },
+        "2005": {
+          "count": 1,
+          "sum": 2.3,
+          "average": 2.3,
+          "average w/o zero": 2.3
+        },
+        "2006": {
+          "count": 1,
+          "sum": 1.6,
+          "average": 1.6,
+          "average w/o zero": 1.6
+        },
+        "2007": {
+          "count": 1,
+          "sum": 2.1,
+          "average": 2.1,
+          "average w/o zero": 2.1
+        },
+        "2008": {
+          "count": 1,
+          "sum": 1.5,
+          "average": 1.5,
+          "average w/o zero": 1.5
+        },
+        "2009": {
+          "count": 1,
+          "sum": 1.8,
+          "average": 1.8,
+          "average w/o zero": 1.8
+        },
+        "2010": {
+          "count": 1,
+          "sum": 1.9,
+          "average": 1.9,
+          "average w/o zero": 1.9
+        },
+        "2011": {
+          "count": 1,
+          "sum": 1.6,
+          "average": 1.6,
+          "average w/o zero": 1.6
+        },
+        "2012": {
+          "count": 1,
+          "sum": 1.5,
+          "average": 1.5,
+          "average w/o zero": 1.5
+        },
+        "2013": {
+          "count": 1,
+          "sum": 1.3,
+          "average": 1.3,
+          "average w/o zero": 1.3
+        },
+        "2014": {
+          "count": 1,
+          "sum": 1.4,
+          "average": 1.4,
+          "average w/o zero": 1.4
+        },
+        "2015": {
+          "count": 1,
+          "sum": 1.6,
+          "average": 1.6,
+          "average w/o zero": 1.6
+        },
+        "2016": {
+          "count": 1,
+          "sum": 2.1,
+          "average": 2.1,
+          "average w/o zero": 2.1
+        },
+        "2017": {
+          "count": 1,
+          "sum": 2.5,
+          "average": 2.5,
+          "average w/o zero": 2.5
+        },
+        "2018": {
+          "count": 1,
+          "sum": 3.3,
+          "average": 3.3,
+          "average w/o zero": 3.3
+        },
+        "2019": {
+          "count": 1,
+          "sum": 3.7,
+          "average": 3.7,
+          "average w/o zero": 3.7
         }
       }
     },
@@ -7098,7 +6294,9 @@ VISUALIZER_DATA_BARS = [
       "2014",
       "2015",
       "2016",
-      "2017"
+      "2017",
+      "2018",
+      "2019"
     ],
     "best_indexes": [
       "1999",
