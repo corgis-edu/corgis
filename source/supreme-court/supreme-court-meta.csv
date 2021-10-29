@@ -1,96 +1,74 @@
 Name,Supreme Court,,,
-Version,2.0.0,,,
-Author,Austin Cory Bart <acbart@vt.edu>,,,
-Created,3/27/2016,,,
+Version,3.0.0,,,
+Author,"Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu>",,,
+Created,10/5/2021,,,
 Data File,supreme-court-corgis.csv,,,
 Overview,This dataset contains information about supreme court cases for the several decades.,,,
-Data Source,"Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2016 Supreme Court Database, Version 2015 Release 02. URL: http://Supremecourtdatabase.org",,,
+Data Source,http://supremecourtdatabase.org/data.php,,,
 Description,"<p> The U.S. Supreme Court Database traces its history back about two decades ago, when Harold J. Spaeth asked the National Science Foundation to fund a database that would be so rich in content that multiple users - even those with vastly distinct projects and purposes in mind - could draw on it. Professor Spaeth's goal was at once refreshingly simple and extremely ambitious: to produce a database that would include and classify every single vote by a Supreme Court justice in all argued cases over a five-decade period. After securing the funding, Spaeth collected and coded the data, performed reliability checks, and eventually amassed the Database. In the late 1980s, he made it (and the documentation necessary to use it) publicly available. </p><p> Since then, Professor Spaeth has not only updated it each term; he has also continued to perform reliability analyses, thereby ensuring its integrity with each release, and added new variables. Today's version of the Database houses 247 pieces of information for each case, roughly broken down into six categories: (1) identification variables (e.g., citations and docket numbers); (2) background variables (e.g., how the Court took jurisdiction, origin and source of the case, the reason the Court agreed to decide it); (3) chronological variables (e.g., the date of decision, term of Court, natural court); (4) substantive variables (e.g., legal provisions, issues, direction of decision); (5) outcome variables (e.g., disposition of the case, winning party, formal alteration of precedent, declaration of unconstitutionality); and (6) voting and opinion variables (e.g., how the individual justices voted, their opinions and interagreements). </p><p> Case Centered data provides case level information; i.e., each row in the database corresponds to a dispute. These data do not contain specific justice vote information. </p><p> A tremendously helpful resource for learning more about the dataset is the codebook: <a href='http://supremecourtdatabase.org/documentation.php?s=1'>http://supremecourtdatabase.org/documentation.php?s=1</a>. </p>
 ",,,
 Tags,"us, usa, united states, government, law, legal, court, case, supreme, judge, barrister, lawyer, federal, national",,,
 Row,court case,,,
-Row Explanation,$MISSING_FIELD,,,
+Row Explanation,court case,,,
 Acknowledgement,,,,
 Icon,supreme-court-icon.png,,,
 Splash,supreme-court-icon.png,,,
 Properties,Name,Type,Index,Description
-,3 judge dc?,boolean,,$MISSING_FIELD
-,docket,int,,$MISSING_FIELD
-,name,string,,$MISSING_FIELD
-,citation.led,string,,$MISSING_FIELD
-,citation.lexis,string,,$MISSING_FIELD
-,citation.sct,string,,$MISSING_FIELD
-,citation.us,string,,$MISSING_FIELD
-,decision.authority 1,string,,$MISSING_FIELD
-,decision.authority 2,string,,$MISSING_FIELD
-,decision.direction,string,,$MISSING_FIELD
-,decision.dissent agrees,boolean,,$MISSING_FIELD
-,decision.jurisdiction,string,,$MISSING_FIELD
-,decision.precedent altered?,boolean,,$MISSING_FIELD
-,decision.term,int,,$MISSING_FIELD
-,decision.type,string,,$MISSING_FIELD
-,decision.unconstitutional,string,,$MISSING_FIELD
-,decision.winning party,string,,$MISSING_FIELD
-,id.case,string,,$MISSING_FIELD
-,id.case issues,string,,$MISSING_FIELD
-,id.docket,string,,$MISSING_FIELD
-,id.vote,string,,$MISSING_FIELD
-,issue.area,string,TRUE,$MISSING_FIELD
-,issue.id,int,,$MISSING_FIELD
-,issue.text,string,,$MISSING_FIELD
-,laws.id,int,,$MISSING_FIELD
-,laws.type,string,,$MISSING_FIELD
-,lower court.direction,string,,$MISSING_FIELD
-,lower court.disagreement?,boolean,,$MISSING_FIELD
-,lower court.disposition,string,,$MISSING_FIELD
-,lower court.reasons,string,,$MISSING_FIELD
-,natural court.chief,string,,$MISSING_FIELD
-,natural court.id,int,,$MISSING_FIELD
-,natural court.period,int,,$MISSING_FIELD
-,origin.id,int,,$MISSING_FIELD
-,origin.name,string,,$MISSING_FIELD
-,origin.state,string,,$MISSING_FIELD
-,source.id,int,,$MISSING_FIELD
-,source.name,string,,$MISSING_FIELD
-,source.state,string,,$MISSING_FIELD
-,voting.majority,int,,$MISSING_FIELD
-,voting.minority,int,,$MISSING_FIELD
-,voting.split on second,boolean,,$MISSING_FIELD
-,voting.unclear,boolean,,$MISSING_FIELD
-,arguments.date argued.day,int,,$MISSING_FIELD
-,arguments.date argued.full,string,,$MISSING_FIELD
-,arguments.date argued.month,int,,$MISSING_FIELD
-,arguments.date argued.year,int,,$MISSING_FIELD
-,arguments.date reargued.day,int,,$MISSING_FIELD
-,arguments.date reargued.full,string,,$MISSING_FIELD
-,arguments.date reargued.month,int,,$MISSING_FIELD
-,arguments.date reargued.year,int,,$MISSING_FIELD
-,arguments.petitioner.entity,string,,$MISSING_FIELD
-,arguments.petitioner.id,int,,$MISSING_FIELD
-,arguments.petitioner.state,string,,$MISSING_FIELD
-,arguments.respondent.entity,string,,$MISSING_FIELD
-,arguments.respondent.id,int,,$MISSING_FIELD
-,arguments.respondent.state,string,,$MISSING_FIELD
-,decision.admin action.agency,string,,$MISSING_FIELD
-,decision.admin action.id,int,,$MISSING_FIELD
-,decision.admin action.state,string,,$MISSING_FIELD
-,decision.case.disposition,string,,$MISSING_FIELD
-,decision.case.unusual,boolean,,$MISSING_FIELD
-,decision.date.day,int,,$MISSING_FIELD
-,decision.date.full,string,,$MISSING_FIELD
-,decision.date.month,int,,$MISSING_FIELD
-,decision.date.year,int,TRUE,$MISSING_FIELD
-,natural court.end.day,int,,$MISSING_FIELD
-,natural court.end.full,string,,$MISSING_FIELD
-,natural court.end.month,int,,$MISSING_FIELD
-,natural court.end.year,int,,$MISSING_FIELD
-,natural court.start.day,int,,$MISSING_FIELD
-,natural court.start.full,string,,$MISSING_FIELD
-,natural court.start.month,int,,$MISSING_FIELD
-,natural court.start.year,int,,$MISSING_FIELD
-,voting.majority assigner.id,int,,$MISSING_FIELD
-,voting.majority assigner.long name,string,,$MISSING_FIELD
-,voting.majority assigner.name,string,,$MISSING_FIELD
-,voting.majority writer.id,int,,$MISSING_FIELD
-,voting.majority writer.long name,string,,$MISSING_FIELD
-,voting.majority writer.name,string,,$MISSING_FIELD
+,3_judge_dc,boolean,,whether the case was heard by a three-judge federal district court (occasionally called ¡°as specially constituted district court¡±)
+,docket,int,,the docket number that the Supreme Court has assigned to the case
+,name,string,,the name of the case
+,citation.led,string,,the citation to each case from the United States Reports(LEd)
+,citation.lexis,string,,the citation to each case from the LEXIS cite
+,citation.sct,string,,the citation to each case from the Supreme Court Reporter (S.CT)
+,citation.us,string,,"the citation to each case from the official United States
+Reports (US) "
+,decision.authority,string,,the bases on which the Supreme Court rested its decision with regard to each legal provision that the Court considered in the case
+,decision.direction,string,,"the ideological ""direction"" of the decision to determine whether the Court supports or opposes the issue to which the case
+pertains"
+,decision.dissent agrees,boolean,,"whether the dissenting opinion and the majority in a case both support (1) or, conversely, oppose (0) the issue to which the case pertains"
+,decision.jurisdiction,string,,a variety of means whereby the Court undertakes to consider cases that it has been petitioned to review
+,decision.precedent altered?,boolean,,"whether the majority opinion effectively says that the decision in this case ""overruled"" one or more of the Court's own precedents"
+,decision.term,int,,the term in which the Court handed down its decision
+,decision.type,string,,the decision type the Court made for the case
+,decision.unconstitutional,string,,"whether the Court either declared unconstitutional an act of Congress; a state or territorial statute, regulation, or constitutional provision; or a municipal or other local ordinance"
+,decision.winning party,string,,"whether the petitioning party (i.e., the plaintiff or the appellant) emerged victorious"
+,id.case,string,,the first of four unique internal identification numbers
+,id.case issues,string,,the third of four unique internal identification numbers
+,id.docket,string,,the second of four unique internal identification numbers
+,id.vote,string,,the fourth of four unique internal identification numbers
+,issue.area,string,TRUE,This variable simply separates the issues identified in the preceding variable (issue) into the larger categories
+,issue.id,int,,issue id
+,issue.text,string,,the issue for each decision 
+,laws.id,int,,id for the law type
+,laws.type,string,,"the constitutional provision(s), statute(s), or court rule(s) that the Court considered in the case"
+,lower court.direction,string,,whether the decision of the court whose decision the Supreme Court reviewed was itself liberal or conservative as these terms are defined in the direction of decision variable
+,lower court.disagreement?,boolean,,the Supreme Court's majority opinion mentioned that one or more of the members of the court whose decision the Supreme Court reviewed dissented
+,lower court.disposition,string,,the treatment the court whose decision the Supreme Court reviewed accorded the decision of the court it reviewed
+,lower court.reasons,string,,"the reason, if any, that the Court gives for granting the petition for certiorari"
+,natural court.chief,string,,the chief justice during whose tenure the case was decided
+,natural court.id,int,,natural court id
+,natural court.period,int,,a period during which no personnel change occurs
+,origin.id,int,,origin id
+,origin.name,string,,"the court in which the case originated, not the administrative agency"
+,source.id,int,,source id
+,source.name,string,,the court whose decision the Supreme Court reviewed
+,voting.majority,int,,the frequency with which given justices vote with the majority
+,voting.minority,int,,the number of votes in dissent
+,voting.split on second,boolean,,"whether the vote variables (e.g., majVotes, minVotes) pertain to the vote on the second issue"
+,voting.unclear,boolean,,whether the vote was not clearly specified
+,arguments.petitioner.entity,string,,the party who petitioned the Supreme Court to review the case
+,arguments.petitioner.id,int,,petitioner id
+,arguments.respondent.entity,string,,the party being sued or tried and is also known as the appellee
+,arguments.respondent.id,int,,respondent id
+,decision.admin action.agency,string,,administrative agency activity occurring prior to the onset of litigation
+,decision.admin action.id,int,,id for the administrative agency activity occurring prior to the onset of litigation
+,decision.case.disposition,string,,the treatment the Supreme Court accorded the court whose decision it reviewed
+,decision.case.unusual,boolean,,whether the Court made an unusual disposition of the cited case which does not match the coding scheme of the preceding variable
+,decision.date.day,int,,the day that the Court announced its decision in the case
+,decision.date.full,string,,"the year, month, and day that the Court announced its decision in the case"
+,decision.date.month,int,,the month that the Court announced its decision in the case
+,decision.date.year,int,TRUE,the year that the Court announced its decision in the case
+,voting.majority assigner.id,int,,id for the majority opinion assigner
+,voting.majority assigner.name,string,,the assigner of the opinion or judgment of the Court
+,voting.majority writer.id,int,,id for the majority opinion writer
+,voting.majority writer.name,string,,"the author of the Court's opinion or judgment,"
