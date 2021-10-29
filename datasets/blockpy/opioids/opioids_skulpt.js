@@ -63,82 +63,64 @@ var $builtinmodule = function(name)
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'All'}, {"type": "LiteralStr", "value": 'Opioid'}], "values": [
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
 								{"type": "NumType"}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Asian or Pacific Islander'}, {"type": "LiteralStr", "value": 'Hispanic'}, {"type": "LiteralStr", "value": 'American Indian or Alaska Native'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Any'}, {"type": "LiteralStr", "value": 'Prescription'}, {"type": "LiteralStr", "value": 'Synthetic'}, {"type": "LiteralStr", "value": 'Heroin'}, {"type": "LiteralStr", "value": 'Cocaine'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
 									{"type": "NumType"}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Asian or Pacific Islander'}, {"type": "LiteralStr", "value": 'Hispanic'}, {"type": "LiteralStr", "value": 'American Indian or Alaska Native'}], "values": [
 										{"type": "NumType"}, 
+										{"type": "NumType"}, 
+										{"type": "NumType"}, 
+										{"type": "NumType"}, 
+										{"type": "NumType"}]}]}, 
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+									{"type": "NumType"}, 
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
+										{"type": "NumType"}, 
+										{"type": "NumType"}]}, 
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}, {"type": "LiteralStr", "value": 'American Indian or Alaska Native'}], "values": [
+										{"type": "NumType"}, 
+										{"type": "NumType"}, 
+										{"type": "NumType"}, 
+										{"type": "NumType"}]}]}, 
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+									{"type": "NumType"}, 
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}, 
 									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
 									{"type": "NumType"}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
-										{"type": "NumType"}, 
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}, 
 									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
 									{"type": "NumType"}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
+									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}, {"type": "LiteralStr", "value": 'American Indian or Alaska Native'}], "values": [
 										{"type": "NumType"}, 
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Sex'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Race'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Large City'}, {"type": "LiteralStr", "value": 'Small City'}, {"type": "LiteralStr", "value": 'Rural'}], "values": [
-										{"type": "NumType"}, 
-										{"type": "NumType"}, 
-										{"type": "NumType"}]}, 
-									{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [
 										{"type": "NumType"}, 
 										{"type": "NumType"}, 
 										{"type": "NumType"}]}]}]}]}]}}

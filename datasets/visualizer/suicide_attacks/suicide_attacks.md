@@ -13,18 +13,18 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 3/27/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 9/20/2021</span><br>
 <span class='text-muted'>Tags: global, attack, damage, kill, hurt, destroy, pain, suffering, terror, terrorism, religion, warfare, war, car, bomb, gun, shooting</span>
 
 # Overview
 
-The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through September 2015. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
+The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through October 2020. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
 The current CPOST-SAD release contains the universe of suicide attacks from 1982 through September 2015, a total of 4,814 attacks in over 40 countries. The CPOST Suicide Attack Database (CPOST-SAD) contains data on the universe of suicide attacks. For each attack, the database includes information about the geographic location, target classification, and weapon(s) used, as well as systematic information on the demographic and general biographical characteristics of suicide attackers. More information about the coding and methodology is available on the CPOST website below.
 Note that multiple attackers or targets are collapsed into a single record for simplicity's sake.
 
 
-<Chicago Project on Security and Terrorism (CPOST). 2015. Suicide Attack Database (December 9, 2015 Release). [Data File]. Retrieved from http://cpostdata.uchicago.edu/>
+<Chicago Project on Security and Terrorism (CPOST). 2020. Suicide Attack Database (October, 2020 Release). [Data File]. Retrieved from https://cpost.uchicago.edu/research/suicide_attacks/database_on_suicide_attacks/>
 
 
 

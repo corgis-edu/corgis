@@ -14,13 +14,13 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Dennis Kafura</span><br>
-<span class='text-muted'>Version 1.0.0, created 6/30/2019</span><br>
+<span class='text-muted'>By Dennis Kafura, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 2.0.0, created 10/27/2021</span><br>
 <span class='text-muted'>Tags: opioids, drug deaths, heroin, cocaine, drug overdose</span>
 
 # Overview
 
-All opioids are chemically related and interact with opioid receptors on nerve cells in the body and brain. Opioid pain relievers  can be misused (taken in a different way or in a larger quantity than prescribed, or taken without a doctor's prescription). Regular use - even as prescribed by a doctor - can lead to dependence and, when misused, opioid pain relievers can lead to addiction, overdose incidents, and deaths. The National Institute on Drug Abuse collects and analyzes data about deaths from opioid abuse. This data set reports on data from 1999-2017.
+All opioids are chemically related and interact with opioid receptors on nerve cells in the body and brain. Opioid pain relievers  can be misused (taken in a different way or in a larger quantity than prescribed, or taken without a doctor's prescription). Regular use - even as prescribed by a doctor - can lead to dependence and, when misused, opioid pain relievers can lead to addiction, overdose incidents, and deaths. The National Institute on Drug Abuse collects and analyzes data about deaths from opioid abuse. This data set reports on data from 1999-2019.
 
 
 <https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates>
@@ -93,7 +93,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The year for which the data is reported (1999-2017)</td> </tr>
+             <td>The year for which the data is reported (1999-2019)</td> </tr>
         
         <tr> <td><code>"Number"</code></td>
              <td><span data-toggle="tooltip"
@@ -231,7 +231,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>8048</code>
+                <code>8050</code>
              
                 
              </td> 
@@ -403,7 +403,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-All' title='Dictionary (4 keys)'>
+<div id='explore-Rate-All' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -431,18 +431,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-All-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -457,8 +445,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -489,12 +475,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-All-Region").click(function() {
-        $( "#explore-Rate-All-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-All-Race").click(function() {
         $( "#explore-Rate-All-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -508,7 +488,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -518,9 +498,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among mendue to all drugs per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to all drugs per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -530,7 +510,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to all drugs per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to all drugs per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -550,95 +530,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-All-Sex-Male").click(function() {
-        $( "#explore-Rate-All-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-All-Sex-Female").click(function() {
         $( "#explore-Rate-All-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-All-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>6.8</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to all drugs per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>5.6</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to all drugs per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>4.0</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-All-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-All-Region-Large-City").click(function() {
-        $( "#explore-Rate-All-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-All-Region-Small-City").click(function() {
-        $( "#explore-Rate-All-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-All-Region-Rural").click(function() {
-        $( "#explore-Rate-All-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-All-Sex-Male").click(function() {
+        $( "#explore-Rate-All-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -646,7 +545,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-All-Race' title='Dictionary (3 keys)'>
+<div id='explore-Rate-All-Race' title='Dictionary (5 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -674,6 +573,18 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Black non-Hispanic persons from all drugs per 100,000 people</td> </tr>
         
+        <tr> <td><code>"Asian or Pacific Islander"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>1.2</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among Asian or Pacific Islander non-Hispanic persons from all drugs per 100,000 people</td> </tr>
+        
         <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
@@ -686,8 +597,24 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Hispanic persons due to all drugs per 100,000 people</td> </tr>
         
+        <tr> <td><code>"American Indian or Alaska Native"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>6.0</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among American Indian or Alaska Native non-Hispanic persons due to all drugs per 100,000 people</td> </tr>
+        
     </table>
 </div>
+
+    
+
+    
 
     
 
@@ -718,8 +645,20 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-Rate-All-Race-Asian-or-Pacific-Islander").click(function() {
+        $( "#explore-Rate-All-Race-Asian-or-Pacific-Islander" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-Rate-All-Race-Hispanic").click(function() {
         $( "#explore-Rate-All-Race-Hispanic" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rate-All-Race-American-Indian-or-Alaska-Native").click(function() {
+        $( "#explore-Rate-All-Race-American-Indian-or-Alaska-Native" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -848,7 +787,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Any' title='Dictionary (4 keys)'>
+<div id='explore-Rate-Opioid-Any' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -876,18 +815,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-Opioid-Any-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -902,8 +829,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -934,12 +859,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-Opioid-Any-Region").click(function() {
-        $( "#explore-Rate-Opioid-Any-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Any-Race").click(function() {
         $( "#explore-Rate-Opioid-Any-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -953,7 +872,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -963,9 +882,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among men due to any Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to any Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -975,7 +894,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to any Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to any Opioid drug per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -995,95 +914,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-Opioid-Any-Sex-Male").click(function() {
-        $( "#explore-Rate-Opioid-Any-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Any-Sex-Female").click(function() {
         $( "#explore-Rate-Opioid-Any-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-Opioid-Any-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>3.5</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to any Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>2.5</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to any Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.4</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-Opioid-Any-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-Opioid-Any-Region-Large-City").click(function() {
-        $( "#explore-Rate-Opioid-Any-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Any-Region-Small-City").click(function() {
-        $( "#explore-Rate-Opioid-Any-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Any-Region-Rural").click(function() {
-        $( "#explore-Rate-Opioid-Any-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-Opioid-Any-Sex-Male").click(function() {
+        $( "#explore-Rate-Opioid-Any-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1091,7 +929,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Any-Race' title='Dictionary (3 keys)'>
+<div id='explore-Rate-Opioid-Any-Race' title='Dictionary (5 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1117,7 +955,19 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among Black non-Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among Asian or Pacific Islander non-Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
+        
+        <tr> <td><code>"Asian or Pacific Islander"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>0.3</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among Black non-Hispanic persons due to any Opioid drug per 100,001 people</td> </tr>
         
         <tr> <td><code>"Hispanic"</code></td>
              <td><span data-toggle="tooltip"
@@ -1131,8 +981,24 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
         
+        <tr> <td><code>"American Indian or Alaska Native"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>2.9</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among American Indian or Alaska Native non-Hispanic persons due to any Opioid drug per 100,000 people</td> </tr>
+        
     </table>
 </div>
+
+    
+
+    
 
     
 
@@ -1163,8 +1029,20 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-Rate-Opioid-Any-Race-Asian-or-Pacific-Islander").click(function() {
+        $( "#explore-Rate-Opioid-Any-Race-Asian-or-Pacific-Islander" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-Rate-Opioid-Any-Race-Hispanic").click(function() {
         $( "#explore-Rate-Opioid-Any-Race-Hispanic" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rate-Opioid-Any-Race-American-Indian-or-Alaska-Native").click(function() {
+        $( "#explore-Rate-Opioid-Any-Race-American-Indian-or-Alaska-Native" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1172,7 +1050,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Prescription' title='Dictionary (4 keys)'>
+<div id='explore-Rate-Opioid-Prescription' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1200,18 +1078,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-Opioid-Prescription-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -1226,8 +1092,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -1258,12 +1122,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-Opioid-Prescription-Region").click(function() {
-        $( "#explore-Rate-Opioid-Prescription-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Prescription-Race").click(function() {
         $( "#explore-Rate-Opioid-Prescription-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -1277,7 +1135,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1287,9 +1145,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among men due to a prescription Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to a prescription Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1299,7 +1157,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to a prescription Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to a prescription Opioid drug per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -1319,95 +1177,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-Opioid-Prescription-Sex-Male").click(function() {
-        $( "#explore-Rate-Opioid-Prescription-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Prescription-Sex-Female").click(function() {
         $( "#explore-Rate-Opioid-Prescription-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-Opioid-Prescription-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.4</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to a prescription Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.1</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to a prescription Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.8</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas  from all drugs per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-Opioid-Prescription-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-Opioid-Prescription-Region-Large-City").click(function() {
-        $( "#explore-Rate-Opioid-Prescription-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Prescription-Region-Small-City").click(function() {
-        $( "#explore-Rate-Opioid-Prescription-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Prescription-Region-Rural").click(function() {
-        $( "#explore-Rate-Opioid-Prescription-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-Opioid-Prescription-Sex-Male").click(function() {
+        $( "#explore-Rate-Opioid-Prescription-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1415,7 +1192,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Prescription-Race' title='Dictionary (3 keys)'>
+<div id='explore-Rate-Opioid-Prescription-Race' title='Dictionary (4 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1455,8 +1232,22 @@ $(document).ready(function() {
              </td> 
              <td>The rate of overdose deaths among Hispanic persons due to a prescription Opioid drug per 100,000 people</td> </tr>
         
+        <tr> <td><code>"American Indian or Alaska Native"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>1.3</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among American Indian or Alaska Native non-Hispanic persons due to a prescription Opioid drug per 100,001 people</td> </tr>
+        
     </table>
 </div>
+
+    
 
     
 
@@ -1493,10 +1284,16 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-Rate-Opioid-Prescription-Race-American-Indian-or-Alaska-Native").click(function() {
+        $( "#explore-Rate-Opioid-Prescription-Race-American-Indian-or-Alaska-Native" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
 });
 </script>
 
-<div id='explore-Rate-Opioid-Synthetic' title='Dictionary (4 keys)'>
+<div id='explore-Rate-Opioid-Synthetic' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1524,18 +1321,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-Opioid-Synthetic-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -1550,8 +1335,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -1582,12 +1365,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-Opioid-Synthetic-Region").click(function() {
-        $( "#explore-Rate-Opioid-Synthetic-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Synthetic-Race").click(function() {
         $( "#explore-Rate-Opioid-Synthetic-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -1601,7 +1378,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1611,9 +1388,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among men due to a synthetic Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1623,7 +1400,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to a synthetic Opioid drug per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to a synthetic Opioid drug per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -1643,95 +1420,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-Opioid-Synthetic-Sex-Male").click(function() {
-        $( "#explore-Rate-Opioid-Synthetic-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Synthetic-Sex-Female").click(function() {
         $( "#explore-Rate-Opioid-Synthetic-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-Opioid-Synthetic-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.2</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to a synthetic Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.3</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to a Synthetic Opioid drug per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.3</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas due to a synthetic drug per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-Opioid-Synthetic-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-Opioid-Synthetic-Region-Large-City").click(function() {
-        $( "#explore-Rate-Opioid-Synthetic-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Synthetic-Region-Small-City").click(function() {
-        $( "#explore-Rate-Opioid-Synthetic-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Synthetic-Region-Rural").click(function() {
-        $( "#explore-Rate-Opioid-Synthetic-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-Opioid-Synthetic-Sex-Male").click(function() {
+        $( "#explore-Rate-Opioid-Synthetic-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1820,7 +1516,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Heroin' title='Dictionary (4 keys)'>
+<div id='explore-Rate-Opioid-Heroin' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1848,18 +1544,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-Opioid-Heroin-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -1874,8 +1558,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -1906,12 +1588,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-Opioid-Heroin-Region").click(function() {
-        $( "#explore-Rate-Opioid-Heroin-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Heroin-Race").click(function() {
         $( "#explore-Rate-Opioid-Heroin-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -1925,7 +1601,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1935,9 +1611,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among men due to heroin per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to heroin per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -1947,7 +1623,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to heroin per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to heroin per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -1967,95 +1643,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-Opioid-Heroin-Sex-Male").click(function() {
-        $( "#explore-Rate-Opioid-Heroin-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Heroin-Sex-Female").click(function() {
         $( "#explore-Rate-Opioid-Heroin-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-Opioid-Heroin-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.9</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to heroin per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.6</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to heroin per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.2</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas due to heroin per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-Opioid-Heroin-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-Opioid-Heroin-Region-Large-City").click(function() {
-        $( "#explore-Rate-Opioid-Heroin-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Heroin-Region-Small-City").click(function() {
-        $( "#explore-Rate-Opioid-Heroin-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Heroin-Region-Rural").click(function() {
-        $( "#explore-Rate-Opioid-Heroin-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-Opioid-Heroin-Sex-Male").click(function() {
+        $( "#explore-Rate-Opioid-Heroin-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -2101,7 +1696,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among Hispanic persons due to heroin per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among American Indian or Alaska Native non-Hispanic persons due to heroin per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -2144,7 +1739,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Cocaine' title='Dictionary (4 keys)'>
+<div id='explore-Rate-Opioid-Cocaine' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -2172,18 +1767,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Region"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rate-Opioid-Cocaine-Region'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"Race"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -2198,8 +1781,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -2230,12 +1811,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Rate-Opioid-Cocaine-Region").click(function() {
-        $( "#explore-Rate-Opioid-Cocaine-Region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Cocaine-Race").click(function() {
         $( "#explore-Rate-Opioid-Cocaine-Race" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -2249,7 +1824,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2259,9 +1834,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among men due to cocaine per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among women due to cocaine per 100,000 people</td> </tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -2271,7 +1846,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among women due to cocaine per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among men due to cocaine per 100,000 people</td> </tr>
         
     </table>
 </div>
@@ -2291,95 +1866,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rate-Opioid-Cocaine-Sex-Male").click(function() {
-        $( "#explore-Rate-Opioid-Cocaine-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Rate-Opioid-Cocaine-Sex-Female").click(function() {
         $( "#explore-Rate-Opioid-Cocaine-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-Rate-Opioid-Cocaine-Region' title='Dictionary (3 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Large City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.8</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in large metropolitan areas due to cocaine per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Small City"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.0</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in medium-small metropolitan areas due to cocaine per 100,000 people</td> </tr>
-        
-        <tr> <td><code>"Rural"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.4</code>
-             
-                
-             </td> 
-             <td>The rate of overdose deaths in non-metropolitan areas due to cocaine per 100,000 people</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rate-Opioid-Cocaine-Region" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rate-Opioid-Cocaine-Region-Large-City").click(function() {
-        $( "#explore-Rate-Opioid-Cocaine-Region-Large-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Cocaine-Region-Small-City").click(function() {
-        $( "#explore-Rate-Opioid-Cocaine-Region-Small-City" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rate-Opioid-Cocaine-Region-Rural").click(function() {
-        $( "#explore-Rate-Opioid-Cocaine-Region-Rural" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rate-Opioid-Cocaine-Sex-Male").click(function() {
+        $( "#explore-Rate-Opioid-Cocaine-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -2387,7 +1881,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rate-Opioid-Cocaine-Race' title='Dictionary (3 keys)'>
+<div id='explore-Rate-Opioid-Cocaine-Race' title='Dictionary (4 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -2425,10 +1919,24 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>The rate of overdose deaths among Hispanic persons due to cocaine per 100,000 people</td> </tr>
+             <td>The rate of overdose deaths among American Indian or Alaska Native non-Hispanic persons due to cocaine per 100,000 people</td> </tr>
+        
+        <tr> <td><code>"American Indian or Alaska Native"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>0.9</code>
+             
+                
+             </td> 
+             <td>The rate of overdose deaths among Hispanic persons due to cocaine per 100,001 people</td> </tr>
         
     </table>
 </div>
+
+    
 
     
 
@@ -2461,6 +1969,12 @@ $(document).ready(function() {
     
     $("#btn-explore-Rate-Opioid-Cocaine-Race-Hispanic").click(function() {
         $( "#explore-Rate-Opioid-Cocaine-Race-Hispanic" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rate-Opioid-Cocaine-Race-American-Indian-or-Alaska-Native").click(function() {
+        $( "#explore-Rate-Opioid-Cocaine-Race-American-Indian-or-Alaska-Native" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

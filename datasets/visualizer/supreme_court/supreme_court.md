@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 3/27/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/5/2021</span><br>
 <span class='text-muted'>Tags: us, usa, united states, government, law, legal, court, case, supreme, judge, barrister, lawyer, federal, national</span>
 
 # Overview
@@ -23,7 +23,7 @@ extras: visualizer
 
 
 
-<Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2016 Supreme Court Database, Version 2015 Release 02. URL: http://Supremecourtdatabase.org>
+<http://supremecourtdatabase.org/data.php>
 
 
 

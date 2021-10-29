@@ -13,17 +13,16 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 11/1/2015</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/7/2021</span><br>
 <span class='text-muted'>Tags: finance, government, expenditure, charges, money, united states, us</span>
 
 # Overview
 
-The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states. The data contain detail of revenue by source, expenditure by object and function, indebtedness by term, and assets by purpose. This data goes back for almost two decades across every date.
+The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states. The data contain detail of revenue by source, expenditure by object and function, indebtedness by term, and assets by purpose. This data goes back for almost two decades across every date. (1992 - 2019) 
 
 
-
-<http://www.census.gov//govs/state/about_the_survey.html>
+<https://www.census.gov/programs-surveys/state.html>
 
 
 

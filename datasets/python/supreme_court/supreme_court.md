@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 3/27/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/5/2021</span><br>
 <span class='text-muted'>Tags: us, usa, united states, government, law, legal, court, case, supreme, judge, barrister, lawyer, federal, national</span>
 
 # Overview
@@ -24,14 +24,14 @@ style: dataset
 
 
 
-<Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2016 Supreme Court Database, Version 2015 Release 02. URL: http://Supremecourtdatabase.org>
+<http://supremecourtdatabase.org/data.php>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *court case*.
 
 
 
@@ -84,7 +84,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"3 judge dc?"</code></td>
+        <tr> <td><code>"3_judge_dc"</code></td>
              <td><span data-toggle="tooltip"
                        title='Boolean (True or False)'>
                        bool</span></td> 
@@ -94,7 +94,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the case was heard by a three-judge federal district court (occasionally called ��as specially constituted district court��)</td> </tr>
         
         <tr> <td><code>"docket"</code></td>
              <td><span data-toggle="tooltip"
@@ -106,7 +106,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the docket number that the Supreme Court has assigned to the case</td> </tr>
         
         <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
@@ -118,7 +118,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the name of the case</td> </tr>
         
         <tr> <td><code>"citation"</code></td>
              <td><span data-toggle="tooltip"
@@ -294,8 +294,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-3-judge-dc?").click(function() {
-        $( "#explore-3-judge-dc?" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-3_judge_dc").click(function() {
+        $( "#explore-3_judge_dc" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -395,7 +395,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the citation to each case from the United States Reports(LEd)</td> </tr>
         
         <tr> <td><code>"lexis"</code></td>
              <td><span data-toggle="tooltip"
@@ -407,7 +407,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the citation to each case from the LEXIS cite</td> </tr>
         
         <tr> <td><code>"sct"</code></td>
              <td><span data-toggle="tooltip"
@@ -419,7 +419,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the citation to each case from the Supreme Court Reporter (S.CT)</td> </tr>
         
         <tr> <td><code>"us"</code></td>
              <td><span data-toggle="tooltip"
@@ -431,7 +431,8 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the citation to each case from the official United States
+Reports (US) </td> </tr>
         
     </table>
 </div>
@@ -482,33 +483,21 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-decision' title='Dictionary (13 keys)'>
+<div id='explore-decision' title='Dictionary (12 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"authority 1"</code></td>
+        <tr> <td><code>"authority"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
              <td>
              
-                <code>"statutory construction"</code>
+                <code>"4.0"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"authority 2"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the bases on which the Supreme Court rested its decision with regard to each legal provision that the Court considered in the case</td> </tr>
         
         <tr> <td><code>"direction"</code></td>
              <td><span data-toggle="tooltip"
@@ -520,7 +509,8 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the ideological "direction" of the decision to determine whether the Court supports or opposes the issue to which the case
+pertains</td> </tr>
         
         <tr> <td><code>"dissent agrees"</code></td>
              <td><span data-toggle="tooltip"
@@ -532,7 +522,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the dissenting opinion and the majority in a case both support (1) or, conversely, oppose (0) the issue to which the case pertains</td> </tr>
         
         <tr> <td><code>"jurisdiction"</code></td>
              <td><span data-toggle="tooltip"
@@ -540,11 +530,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"rehearing or reargument"</code>
+                <code>"rehearing or restored to calendar for reargument"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>a variety of means whereby the Court undertakes to consider cases that it has been petitioned to review</td> </tr>
         
         <tr> <td><code>"precedent altered?"</code></td>
              <td><span data-toggle="tooltip"
@@ -556,7 +546,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the majority opinion effectively says that the decision in this case "overruled" one or more of the Court's own precedents</td> </tr>
         
         <tr> <td><code>"term"</code></td>
              <td><span data-toggle="tooltip"
@@ -568,7 +558,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the term in which the Court handed down its decision</td> </tr>
         
         <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
@@ -576,11 +566,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"court opinion"</code>
+                <code>"opinion of the court (orally argued)"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the decision type the Court made for the case</td> </tr>
         
         <tr> <td><code>"unconstitutional"</code></td>
              <td><span data-toggle="tooltip"
@@ -588,11 +578,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"no unconstitutionality"</code>
+                <code>"no declaration of unconstitutionality"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the Court either declared unconstitutional an act of Congress; a state or territorial statute, regulation, or constitutional provision; or a municipal or other local ordinance</td> </tr>
         
         <tr> <td><code>"winning party"</code></td>
              <td><span data-toggle="tooltip"
@@ -600,11 +590,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"favorable disposition for petitioning party"</code>
+                <code>"petitioning party received a favorable disposition"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the petitioning party (i.e., the plaintiff or the appellant) emerged victorious</td> </tr>
         
         <tr> <td><code>"admin action"</code></td>
              <td><span data-toggle="tooltip"
@@ -669,8 +659,6 @@ $(document).ready(function() {
 
     
 
-    
-
 <script>
 $(document).ready(function() {
     $( "#explore-decision" ).dialog({
@@ -682,14 +670,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-decision-authority-1").click(function() {
-        $( "#explore-decision-authority-1" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-decision-authority-2").click(function() {
-        $( "#explore-decision-authority-2" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-decision-authority").click(function() {
+        $( "#explore-decision-authority" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -777,7 +759,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the first of four unique internal identification numbers</td> </tr>
         
         <tr> <td><code>"case issues"</code></td>
              <td><span data-toggle="tooltip"
@@ -789,7 +771,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the third of four unique internal identification numbers</td> </tr>
         
         <tr> <td><code>"docket"</code></td>
              <td><span data-toggle="tooltip"
@@ -801,7 +783,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the second of four unique internal identification numbers</td> </tr>
         
         <tr> <td><code>"vote"</code></td>
              <td><span data-toggle="tooltip"
@@ -813,7 +795,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the fourth of four unique internal identification numbers</td> </tr>
         
     </table>
 </div>
@@ -878,7 +860,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>This variable simply separates the issues identified in the preceding variable (issue) into the larger categories</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -890,7 +872,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>issue id</td> </tr>
         
         <tr> <td><code>"text"</code></td>
              <td><span data-toggle="tooltip"
@@ -902,7 +884,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the issue for each decision </td> </tr>
         
     </table>
 </div>
@@ -959,7 +941,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>id for the law type</td> </tr>
         
         <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
@@ -971,7 +953,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the constitutional provision(s), statute(s), or court rule(s) that the Court considered in the case</td> </tr>
         
     </table>
 </div>
@@ -1020,7 +1002,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the decision of the court whose decision the Supreme Court reviewed was itself liberal or conservative as these terms are defined in the direction of decision variable</td> </tr>
         
         <tr> <td><code>"disagreement?"</code></td>
              <td><span data-toggle="tooltip"
@@ -1032,7 +1014,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the Supreme Court's majority opinion mentioned that one or more of the members of the court whose decision the Supreme Court reviewed dissented</td> </tr>
         
         <tr> <td><code>"disposition"</code></td>
              <td><span data-toggle="tooltip"
@@ -1044,7 +1026,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the treatment the court whose decision the Supreme Court reviewed accorded the decision of the court it reviewed</td> </tr>
         
         <tr> <td><code>"reasons"</code></td>
              <td><span data-toggle="tooltip"
@@ -1056,7 +1038,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the reason, if any, that the Court gives for granting the petition for certiorari</td> </tr>
         
     </table>
 </div>
@@ -1107,7 +1089,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-natural-court' title='Dictionary (5 keys)'>
+<div id='explore-natural-court' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1121,7 +1103,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the chief justice during whose tenure the case was decided</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -1133,7 +1115,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>natural court id</td> </tr>
         
         <tr> <td><code>"period"</code></td>
              <td><span data-toggle="tooltip"
@@ -1145,38 +1127,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"end"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-natural-court-end'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"start"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-natural-court-start'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
+             <td>a period during which no personnel change occurs</td> </tr>
         
     </table>
 </div>
-
-    
-
-    
 
     
 
@@ -1213,22 +1167,10 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-natural-court-end").click(function() {
-        $( "#explore-natural-court-end" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-start").click(function() {
-        $( "#explore-natural-court-start" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-origin' title='Dictionary (3 keys)'>
+<div id='explore-origin' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1242,7 +1184,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>origin id</td> </tr>
         
         <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
@@ -1254,24 +1196,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"state"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the court in which the case originated, not the administrative agency</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -1300,16 +1228,10 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-origin-state").click(function() {
-        $( "#explore-origin-state" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-source' title='Dictionary (3 keys)'>
+<div id='explore-source' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1323,7 +1245,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>source id</td> </tr>
         
         <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
@@ -1331,28 +1253,14 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"U.S. Court of Appeals, Ninth Circuit"</code>
+                <code>"U.S. Court of Appeals  Ninth Circuit"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"state"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the court whose decision the Supreme Court reviewed</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -1381,12 +1289,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-source-state").click(function() {
-        $( "#explore-source-state" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
@@ -1404,7 +1306,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the frequency with which given justices vote with the majority</td> </tr>
         
         <tr> <td><code>"minority"</code></td>
              <td><span data-toggle="tooltip"
@@ -1416,7 +1318,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the number of votes in dissent</td> </tr>
         
         <tr> <td><code>"split on second"</code></td>
              <td><span data-toggle="tooltip"
@@ -1428,7 +1330,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the vote variables (e.g., majVotes, minVotes) pertain to the vote on the second issue</td> </tr>
         
         <tr> <td><code>"unclear"</code></td>
              <td><span data-toggle="tooltip"
@@ -1440,7 +1342,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the vote was not clearly specified</td> </tr>
         
         <tr> <td><code>"majority assigner"</code></td>
              <td><span data-toggle="tooltip"
@@ -1531,33 +1433,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-arguments' title='Dictionary (4 keys)'>
+<div id='explore-arguments' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"date argued"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-arguments-date-argued'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"date reargued"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-arguments-date-reargued'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
         
         <tr> <td><code>"petitioner"</code></td>
              <td><span data-toggle="tooltip"
@@ -1590,10 +1468,6 @@ $(document).ready(function() {
 
     
 
-    
-
-    
-
 <script>
 $(document).ready(function() {
     $( "#explore-arguments" ).dialog({
@@ -1604,18 +1478,6 @@ $(document).ready(function() {
         $(this).parent().css("maxWidth", "600px");
       }
     });
-    
-    $("#btn-explore-arguments-date-argued").click(function() {
-        $( "#explore-arguments-date-argued" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-reargued").click(function() {
-        $( "#explore-arguments-date-reargued" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
     
     $("#btn-explore-arguments-petitioner").click(function() {
         $( "#explore-arguments-petitioner" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
@@ -1632,209 +1494,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-arguments-date-argued' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"day"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>9</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"full"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"1/9/1946"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"month"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"year"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1946</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-arguments-date-argued" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-arguments-date-argued-day").click(function() {
-        $( "#explore-arguments-date-argued-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-argued-full").click(function() {
-        $( "#explore-arguments-date-argued-full" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-argued-month").click(function() {
-        $( "#explore-arguments-date-argued-month" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-argued-year").click(function() {
-        $( "#explore-arguments-date-argued-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-arguments-date-reargued' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"day"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>23</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"full"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"10/23/1946"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"month"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>10</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"year"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1946</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-arguments-date-reargued" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-arguments-date-reargued-day").click(function() {
-        $( "#explore-arguments-date-reargued-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-reargued-full").click(function() {
-        $( "#explore-arguments-date-reargued-full" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-reargued-month").click(function() {
-        $( "#explore-arguments-date-reargued-month" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-arguments-date-reargued-year").click(function() {
-        $( "#explore-arguments-date-reargued-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-arguments-petitioner' title='Dictionary (3 keys)'>
+<div id='explore-arguments-petitioner' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1844,11 +1504,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"oil company, or natural gas producer"</code>
+                <code>"oil company / or natural gas producer"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the party who petitioned the Supreme Court to review the case</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -1860,24 +1520,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"state"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>petitioner id</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -1906,16 +1552,10 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-arguments-petitioner-state").click(function() {
-        $( "#explore-arguments-petitioner-state" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-arguments-respondent' title='Dictionary (3 keys)'>
+<div id='explore-arguments-respondent' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -1925,11 +1565,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"inventor, patent assigner, trademark owner or holder"</code>
+                <code>"inventor / patent assigner / trademark owner or holder"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the party being sued or tried and is also known as the appellee</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -1941,24 +1581,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"state"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>respondent id</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -1987,16 +1613,10 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-arguments-respondent-state").click(function() {
-        $( "#explore-arguments-respondent-state" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-decision-admin-action' title='Dictionary (3 keys)'>
+<div id='explore-decision-admin-action' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -2006,11 +1626,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"unknown"</code>
+                <code>"Unidentifiable  "</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>administrative agency activity occurring prior to the onset of litigation</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -2018,28 +1638,14 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>-1</code>
+                <code>118</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"state"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>""</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>id for the administrative agency activity occurring prior to the onset of litigation</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -2068,12 +1674,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-decision-admin-action-state").click(function() {
-        $( "#explore-decision-admin-action-state" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
@@ -2091,7 +1691,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the treatment the Supreme Court accorded the court whose decision it reviewed</td> </tr>
         
         <tr> <td><code>"unusual"</code></td>
              <td><span data-toggle="tooltip"
@@ -2103,7 +1703,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>whether the Court made an unusual disposition of the cited case which does not match the coding scheme of the preceding variable</td> </tr>
         
     </table>
 </div>
@@ -2152,7 +1752,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the day that the Court announced its decision in the case</td> </tr>
         
         <tr> <td><code>"full"</code></td>
              <td><span data-toggle="tooltip"
@@ -2164,7 +1764,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the year, month, and day that the Court announced its decision in the case</td> </tr>
         
         <tr> <td><code>"month"</code></td>
              <td><span data-toggle="tooltip"
@@ -2176,7 +1776,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the month that the Court announced its decision in the case</td> </tr>
         
         <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
@@ -2188,7 +1788,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the year that the Court announced its decision in the case</td> </tr>
         
     </table>
 </div>
@@ -2239,209 +1839,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-natural-court-end' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"day"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>23</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"full"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"August/23/1949"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"month"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>8</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"year"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1949</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-natural-court-end" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-natural-court-end-day").click(function() {
-        $( "#explore-natural-court-end-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-end-full").click(function() {
-        $( "#explore-natural-court-end-full" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-end-month").click(function() {
-        $( "#explore-natural-court-end-month" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-end-year").click(function() {
-        $( "#explore-natural-court-end-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-natural-court-start' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"day"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>24</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"full"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"June/24/1946"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"month"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>6</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"year"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1946</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-natural-court-start" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-natural-court-start-day").click(function() {
-        $( "#explore-natural-court-start-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-start-full").click(function() {
-        $( "#explore-natural-court-start-full" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-start-month").click(function() {
-        $( "#explore-natural-court-start-month" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-natural-court-start-year").click(function() {
-        $( "#explore-natural-court-start-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-voting-majority-assigner' title='Dictionary (3 keys)'>
+<div id='explore-voting-majority-assigner' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -2455,19 +1853,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"long name"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Black, Hugo ( 08/19/1937 - 09/17/1971 )"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>id for the majority opinion assigner</td> </tr>
         
         <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
@@ -2479,12 +1865,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the assigner of the opinion or judgment of the Court</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -2507,12 +1891,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-voting-majority-assigner-long-name").click(function() {
-        $( "#explore-voting-majority-assigner-long-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-voting-majority-assigner-name").click(function() {
         $( "#explore-voting-majority-assigner-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -2522,7 +1900,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-voting-majority-writer' title='Dictionary (3 keys)'>
+<div id='explore-voting-majority-writer' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -2536,19 +1914,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"long name"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Black, Hugo ( 08/19/1937 - 09/17/1971 )"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>id for the majority opinion writer</td> </tr>
         
         <tr> <td><code>"name"</code></td>
              <td><span data-toggle="tooltip"
@@ -2560,12 +1926,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>the author of the Court's opinion or judgment,</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -2584,12 +1948,6 @@ $(document).ready(function() {
     
     $("#btn-explore-voting-majority-writer-id").click(function() {
         $( "#explore-voting-majority-writer-id" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-voting-majority-writer-long-name").click(function() {
-        $( "#explore-voting-majority-writer-long-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

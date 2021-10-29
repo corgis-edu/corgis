@@ -14,25 +14,25 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 3/27/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 9/20/2021</span><br>
 <span class='text-muted'>Tags: global, attack, damage, kill, hurt, destroy, pain, suffering, terror, terrorism, religion, warfare, war, car, bomb, gun, shooting</span>
 
 # Overview
 
-The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through September 2015. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
+The Chicago Project on Security and Terrorism (CPOST) maintains a searchable database on all suicide attacks from 1982 through October 2020. The database includes information about the location of attacks, the target type, the weapon used, and systematic information on the demographic and general biographical characteristics of suicide attackers. The database expands the breadth of the data available in English using native language sources (e.g., Arabic, Hebrew, Russian, Tamil) that are likely to have the most extensive relevant information.
 The current CPOST-SAD release contains the universe of suicide attacks from 1982 through September 2015, a total of 4,814 attacks in over 40 countries. The CPOST Suicide Attack Database (CPOST-SAD) contains data on the universe of suicide attacks. For each attack, the database includes information about the geographic location, target classification, and weapon(s) used, as well as systematic information on the demographic and general biographical characteristics of suicide attackers. More information about the coding and methodology is available on the CPOST website below.
 Note that multiple attackers or targets are collapsed into a single record for simplicity's sake.
 
 
-<Chicago Project on Security and Terrorism (CPOST). 2015. Suicide Attack Database (December 9, 2015 Release). [Data File]. Retrieved from http://cpostdata.uchicago.edu/>
+<Chicago Project on Security and Terrorism (CPOST). 2020. Suicide Attack Database (October, 2020 Release). [Data File]. Retrieved from https://cpost.uchicago.edu/research/suicide_attacks/database_on_suicide_attacks/>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents **.
 
 
 
@@ -81,7 +81,7 @@ $(document).ready(function() {
 </script>
 
 
-<div id='explore-' title='Dictionary (6 keys)'>
+<div id='explore-' title='Dictionary (7 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -91,31 +91,43 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"Lebanese National Resistance Front,Armed Struggle Group"</code>
+                <code>"Islamic State"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Group��s name</td> </tr>
         
-        <tr> <td><code>"attacker"</code></td>
+        <tr> <td><code>"claim"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Suspected"</code>
+             
+                
+             </td> 
+             <td>Claim status: Claimed, Denied, Suspected, Unclaimed</td> </tr>
+        
+        <tr> <td><code>"status"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Confirmed Suicide"</code>
+             
+                
+             </td> 
+             <td>Status of the attack: Confirmed Suicide or Possible</td> </tr>
+        
+        <tr> <td><code>"statistics"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-attacker'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"campaign"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-campaign'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-statistics'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -133,18 +145,6 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"statistics"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-statistics'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
         <tr> <td><code>"target"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
@@ -157,8 +157,22 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
+        <tr> <td><code>"attacker"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-attacker'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
+        
     </table>
 </div>
+
+    
 
     
 
@@ -189,20 +203,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-attacker").click(function() {
-        $( "#explore-attacker" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-claim").click(function() {
+        $( "#explore-claim" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-campaign").click(function() {
-        $( "#explore-campaign" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-date").click(function() {
-        $( "#explore-date" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-status").click(function() {
+        $( "#explore-status" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -213,66 +221,270 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-date").click(function() {
+        $( "#explore-date" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-target").click(function() {
         $( "#explore-target" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
+    $("#btn-explore-attacker").click(function() {
+        $( "#explore-attacker" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
 });
 </script>
 
-<div id='explore-attacker' title='Dictionary (4 keys)'>
+<div id='explore-statistics' title='Dictionary (20 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"age"</code></td>
+        <tr> <td><code>"sources"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>15</code>
+                <code>2</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Number of sources found for each attack</td> </tr>
         
-        <tr> <td><code>"name"</code></td>
+        <tr> <td><code>"# wounded_low"</code></td>
              <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
+                       title='Integer (whole number)'>
+                       int</span></td> 
              <td>
              
-                <code>"Ahmad Qasiraka Haider"</code>
+                <code>8</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Low estimate of wounded people</td> </tr>
         
-        <tr> <td><code>"birth"</code></td>
+        <tr> <td><code>"# wounded_high"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
+                       title='Integer (whole number)'>
+                       int</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-attacker-birth'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <code>8</code>
              
                 
              </td> 
-             <td></td> </tr>
+             <td>High estimate of wounded people</td> </tr>
         
-        <tr> <td><code>"demographics"</code></td>
+        <tr> <td><code>"# killed_low"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
+                       title='Integer (whole number)'>
+                       int</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-attacker-demographics'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <code>5</code>
              
                 
              </td> 
-             <td></td> </tr>
+             <td>Low estimate of fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_high"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>5</code>
+             
+                
+             </td> 
+             <td>High estimate of fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_low_civilian"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Low estimate of civilian fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_high_civilian"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>High estimate of civilian fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_low_political"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Low estimate of political fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_high_political"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>High estimate of political fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_low_security"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>5</code>
+             
+                
+             </td> 
+             <td>Low estimate of security fatalities</td> </tr>
+        
+        <tr> <td><code>"# killed_high_security"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>5</code>
+             
+                
+             </td> 
+             <td>High estimate of security fatalities</td> </tr>
+        
+        <tr> <td><code>"# belt_bomb"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of belt bombs used</td> </tr>
+        
+        <tr> <td><code>"# truck_bomb"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of truck bombs used</td> </tr>
+        
+        <tr> <td><code>"# car_bomb"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1</code>
+             
+                
+             </td> 
+             <td>Number of car bombs used</td> </tr>
+        
+        <tr> <td><code>"# weapon_oth"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of other weapons used</td> </tr>
+        
+        <tr> <td><code>"# weapon_unk"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of unknown weapons used</td> </tr>
+        
+        <tr> <td><code>"# attackers"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1</code>
+             
+                
+             </td> 
+             <td>Number of suicide attackers involved</td> </tr>
+        
+        <tr> <td><code>"# female_attackers"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of female attackers</td> </tr>
+        
+        <tr> <td><code>"# male_attackers"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>0</code>
+             
+                
+             </td> 
+             <td>Number of male attackers</td> </tr>
+        
+        <tr> <td><code>"# unknown_attackers"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1</code>
+             
+                
+             </td> 
+             <td>Number of attackers where gender is unknown </td> </tr>
         
     </table>
 </div>
@@ -285,9 +497,41 @@ $(document).ready(function() {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 <script>
 $(document).ready(function() {
-    $( "#explore-attacker" ).dialog({
+    $( "#explore-statistics" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -296,87 +540,122 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-attacker-age").click(function() {
-        $( "#explore-attacker-age" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-sources").click(function() {
+        $( "#explore-statistics-sources" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-attacker-name").click(function() {
-        $( "#explore-attacker-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-_-wounded_low").click(function() {
+        $( "#explore-statistics-_-wounded_low" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-attacker-birth").click(function() {
-        $( "#explore-attacker-birth" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-_-wounded_high").click(function() {
+        $( "#explore-statistics-_-wounded_high" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-attacker-demographics").click(function() {
-        $( "#explore-attacker-demographics" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-_-killed_low").click(function() {
+        $( "#explore-statistics-_-killed_low" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-});
-</script>
-
-<div id='explore-campaign' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"name"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Hezbollah vs. Israel"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"sides"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Hezbollah,Israel"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-campaign" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-campaign-name").click(function() {
-        $( "#explore-campaign-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-_-killed_high").click(function() {
+        $( "#explore-statistics-_-killed_high" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-campaign-sides").click(function() {
-        $( "#explore-campaign-sides" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-statistics-_-killed_low_civilian").click(function() {
+        $( "#explore-statistics-_-killed_low_civilian" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-killed_high_civilian").click(function() {
+        $( "#explore-statistics-_-killed_high_civilian" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-killed_low_political").click(function() {
+        $( "#explore-statistics-_-killed_low_political" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-killed_high_political").click(function() {
+        $( "#explore-statistics-_-killed_high_political" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-killed_low_security").click(function() {
+        $( "#explore-statistics-_-killed_low_security" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-killed_high_security").click(function() {
+        $( "#explore-statistics-_-killed_high_security" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-belt_bomb").click(function() {
+        $( "#explore-statistics-_-belt_bomb" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-truck_bomb").click(function() {
+        $( "#explore-statistics-_-truck_bomb" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-car_bomb").click(function() {
+        $( "#explore-statistics-_-car_bomb" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-weapon_oth").click(function() {
+        $( "#explore-statistics-_-weapon_oth" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-weapon_unk").click(function() {
+        $( "#explore-statistics-_-weapon_unk" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-attackers").click(function() {
+        $( "#explore-statistics-_-attackers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-female_attackers").click(function() {
+        $( "#explore-statistics-_-female_attackers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-male_attackers").click(function() {
+        $( "#explore-statistics-_-male_attackers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-statistics-_-unknown_attackers").click(function() {
+        $( "#explore-statistics-_-unknown_attackers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -388,17 +667,17 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"day"</code></td>
+        <tr> <td><code>"year"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>11</code>
+                <code>2015</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Year of attack</td> </tr>
         
         <tr> <td><code>"month"</code></td>
              <td><span data-toggle="tooltip"
@@ -406,23 +685,23 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>11</code>
+                <code>6</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Month of attack</td> </tr>
         
-        <tr> <td><code>"year"</code></td>
+        <tr> <td><code>"day"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>1982</code>
+                <code>2</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Day of the attack</td> </tr>
         
     </table>
 </div>
@@ -444,8 +723,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-date-day").click(function() {
-        $( "#explore-date-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-date-year").click(function() {
+        $( "#explore-date-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -456,8 +735,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-date-year").click(function() {
-        $( "#explore-date-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-date-day").click(function() {
+        $( "#explore-date-day" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -465,130 +744,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-statistics' title='Dictionary (2 keys)'>
+<div id='explore-target' title='Dictionary (12 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"# killed"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>115</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"# wounded"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>28</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-statistics" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-statistics-_-killed").click(function() {
-        $( "#explore-statistics-_-killed" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-statistics-_-wounded").click(function() {
-        $( "#explore-statistics-_-wounded" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-target' title='Dictionary (6 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"assassination?"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Boolean (True or False)'>
-                       bool</span></td> 
-             <td>
-             
-                <code>True</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"country"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Lebanon"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"location"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Lebanon, TyreLiban-Sud"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"name"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Israeli Defense Forces (IDF) headquarters"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"type"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Security"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
         
         <tr> <td><code>"weapon"</code></td>
              <td><span data-toggle="tooltip"
@@ -600,10 +758,154 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Weapon (car bomb, belt bomb etc.) used</td> </tr>
+        
+        <tr> <td><code>"region"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Asia"</code>
+             
+                
+             </td> 
+             <td>Region where attack took place</td> </tr>
+        
+        <tr> <td><code>"subregion"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Western Asia"</code>
+             
+                
+             </td> 
+             <td>Subregion where attack took place</td> </tr>
+        
+        <tr> <td><code>"country"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Syria"</code>
+             
+                
+             </td> 
+             <td>Country where attack took place</td> </tr>
+        
+        <tr> <td><code>"province"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Hasaka (Al Haksa)"</code>
+             
+                
+             </td> 
+             <td>Province/State where attack took place</td> </tr>
+        
+        <tr> <td><code>"city"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Al Hasakah"</code>
+             
+                
+             </td> 
+             <td>City, village or district where attack took place</td> </tr>
+        
+        <tr> <td><code>"location"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"close to a children's hospital"</code>
+             
+                
+             </td> 
+             <td>Specific location targeted</td> </tr>
+        
+        <tr> <td><code>"latitude"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"36.483333"</code>
+             
+                
+             </td> 
+             <td>City��s Latitude</td> </tr>
+        
+        <tr> <td><code>"longtitude"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"40.75"</code>
+             
+                
+             </td> 
+             <td>City��s Longitude</td> </tr>
+        
+        <tr> <td><code>"desc"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Syrian Army checkpoint"</code>
+             
+                
+             </td> 
+             <td>The intended target of the attack</td> </tr>
+        
+        <tr> <td><code>"type"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Security"</code>
+             
+                
+             </td> 
+             <td>Type of target attacked (Civilian, Political, Security)</td> </tr>
+        
+        <tr> <td><code>"nationality"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='String (text)'>
+                       str</span></td> 
+             <td>
+             
+                <code>"Syrian"</code>
+             
+                
+             </td> 
+             <td>Target��s nationality</td> </tr>
         
     </table>
 </div>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -628,8 +930,20 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-target-assassination?").click(function() {
-        $( "#explore-target-assassination?" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-target-weapon").click(function() {
+        $( "#explore-target-weapon" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-target-region").click(function() {
+        $( "#explore-target-region" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-target-subregion").click(function() {
+        $( "#explore-target-subregion" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -640,14 +954,38 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-target-province").click(function() {
+        $( "#explore-target-province" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-target-city").click(function() {
+        $( "#explore-target-city" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-target-location").click(function() {
         $( "#explore-target-location" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-target-name").click(function() {
-        $( "#explore-target-name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-target-latitude").click(function() {
+        $( "#explore-target-latitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-target-longtitude").click(function() {
+        $( "#explore-target-longtitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-target-desc").click(function() {
+        $( "#explore-target-desc" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -658,8 +996,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-target-weapon").click(function() {
-        $( "#explore-target-weapon" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-target-nationality").click(function() {
+        $( "#explore-target-nationality" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -667,96 +1005,11 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-attacker-birth' title='Dictionary (2 keys)'>
+<div id='explore-attacker' title='Dictionary (1 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"location"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Lebanon"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"year"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1967</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-attacker-birth" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-attacker-birth-location").click(function() {
-        $( "#explore-attacker-birth-location" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-attacker-birth-year").click(function() {
-        $( "#explore-attacker-birth-year" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-attacker-demographics' title='Dictionary (5 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"education"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Primary"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
         
         <tr> <td><code>"gender"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Male"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"marital"</code></td>
              <td><span data-toggle="tooltip"
                        title='String (text)'>
                        str</span></td> 
@@ -766,48 +1019,16 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"occupation"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Unskilled"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"religion"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Secular"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Attacker��s gender</td> </tr>
         
     </table>
 </div>
 
     
 
-    
-
-    
-
-    
-
-    
-
 <script>
 $(document).ready(function() {
-    $( "#explore-attacker-demographics" ).dialog({
+    $( "#explore-attacker" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -816,32 +1037,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-attacker-demographics-education").click(function() {
-        $( "#explore-attacker-demographics-education" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-attacker-demographics-gender").click(function() {
-        $( "#explore-attacker-demographics-gender" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-attacker-demographics-marital").click(function() {
-        $( "#explore-attacker-demographics-marital" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-attacker-demographics-occupation").click(function() {
-        $( "#explore-attacker-demographics-occupation" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-attacker-demographics-religion").click(function() {
-        $( "#explore-attacker-demographics-religion" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-attacker-gender").click(function() {
+        $( "#explore-attacker-gender" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

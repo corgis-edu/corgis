@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 3/27/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi <joungmin@vt.edu>, Bo Guan <jasonguan0107@vt.edu></span><br>
+<span class='text-muted'>Version 3.0.0, created 10/5/2021</span><br>
 <span class='text-muted'>Tags: us, usa, united states, government, law, legal, court, case, supreme, judge, barrister, lawyer, federal, national</span>
 
 # Overview
@@ -22,7 +22,7 @@ style: dataset
 
 
 
-<Harold J. Spaeth, Lee Epstein, Andrew D. Martin, Jeffrey A. Segal, Theodore J. Ruger, and Sara C. Benesh. 2016 Supreme Court Database, Version 2015 Release 02. URL: http://Supremecourtdatabase.org>
+<http://supremecourtdatabase.org/data.php>
 
 
 
@@ -38,562 +38,396 @@ style: dataset
 </tr>
 
 <tr>
-    <td>3 judge dc?</td>
+    <td>3_judge_dc</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the case was heard by a three-judge federal district court (occasionally called ��as specially constituted district court��)</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>docket</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the docket number that the Supreme Court has assigned to the case</td>
     <td><code>24</code></td>
 </tr>
 
 <tr>
     <td>name</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the name of the case</td>
     <td><code>"HALLIBURTON OIL WELL CEMENTING CO. v. WALKER et al., DOING BUSINESS AS DEPTHOGRAPH CO."</code></td>
 </tr>
 
 <tr>
     <td>citation.led</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the citation to each case from the United States Reports(LEd)</td>
     <td><code>"91 L. Ed. 3"</code></td>
 </tr>
 
 <tr>
     <td>citation.lexis</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the citation to each case from the LEXIS cite</td>
     <td><code>"1946 U.S. LEXIS 1724"</code></td>
 </tr>
 
 <tr>
     <td>citation.sct</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the citation to each case from the Supreme Court Reporter (S.CT)</td>
     <td><code>"67 S. Ct. 6"</code></td>
 </tr>
 
 <tr>
     <td>citation.us</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the citation to each case from the official United States
+Reports (US) </td>
     <td><code>"329 U.S. 1"</code></td>
 </tr>
 
 <tr>
-    <td>decision.authority 1</td>
+    <td>decision.authority</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"statutory construction"</code></td>
-</tr>
-
-<tr>
-    <td>decision.authority 2</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
+    <td>the bases on which the Supreme Court rested its decision with regard to each legal provision that the Court considered in the case</td>
+    <td><code>"4.0"</code></td>
 </tr>
 
 <tr>
     <td>decision.direction</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the ideological "direction" of the decision to determine whether the Court supports or opposes the issue to which the case
+pertains</td>
     <td><code>"liberal"</code></td>
 </tr>
 
 <tr>
     <td>decision.dissent agrees</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the dissenting opinion and the majority in a case both support (1) or, conversely, oppose (0) the issue to which the case pertains</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>decision.jurisdiction</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"rehearing or reargument"</code></td>
+    <td>a variety of means whereby the Court undertakes to consider cases that it has been petitioned to review</td>
+    <td><code>"rehearing or restored to calendar for reargument"</code></td>
 </tr>
 
 <tr>
     <td>decision.precedent altered?</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the majority opinion effectively says that the decision in this case "overruled" one or more of the Court's own precedents</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>decision.term</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the term in which the Court handed down its decision</td>
     <td><code>1946</code></td>
 </tr>
 
 <tr>
     <td>decision.type</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"court opinion"</code></td>
+    <td>the decision type the Court made for the case</td>
+    <td><code>"opinion of the court (orally argued)"</code></td>
 </tr>
 
 <tr>
     <td>decision.unconstitutional</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"no unconstitutionality"</code></td>
+    <td>whether the Court either declared unconstitutional an act of Congress; a state or territorial statute, regulation, or constitutional provision; or a municipal or other local ordinance</td>
+    <td><code>"no declaration of unconstitutionality"</code></td>
 </tr>
 
 <tr>
     <td>decision.winning party</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"favorable disposition for petitioning party"</code></td>
+    <td>whether the petitioning party (i.e., the plaintiff or the appellant) emerged victorious</td>
+    <td><code>"petitioning party received a favorable disposition"</code></td>
 </tr>
 
 <tr>
     <td>id.case</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the first of four unique internal identification numbers</td>
     <td><code>"1946-001"</code></td>
 </tr>
 
 <tr>
     <td>id.case issues</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the third of four unique internal identification numbers</td>
     <td><code>"1946-001-01-01"</code></td>
 </tr>
 
 <tr>
     <td>id.docket</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the second of four unique internal identification numbers</td>
     <td><code>"1946-001-01"</code></td>
 </tr>
 
 <tr>
     <td>id.vote</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the fourth of four unique internal identification numbers</td>
     <td><code>"1946-001-01-01-01"</code></td>
 </tr>
 
 <tr>
     <td>issue.area</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>This variable simply separates the issues identified in the preceding variable (issue) into the larger categories</td>
     <td><code>"Economic Activity"</code></td>
 </tr>
 
 <tr>
     <td>issue.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>issue id</td>
     <td><code>80180</code></td>
 </tr>
 
 <tr>
     <td>issue.text</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the issue for each decision </td>
     <td><code>"patents and copyrights: patent"</code></td>
 </tr>
 
 <tr>
     <td>laws.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>id for the law type</td>
     <td><code>6</code></td>
 </tr>
 
 <tr>
     <td>laws.type</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the constitutional provision(s), statute(s), or court rule(s) that the Court considered in the case</td>
     <td><code>"Infrequently litigated statutes"</code></td>
 </tr>
 
 <tr>
     <td>lower court.direction</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the decision of the court whose decision the Supreme Court reviewed was itself liberal or conservative as these terms are defined in the direction of decision variable</td>
     <td><code>"conservative"</code></td>
 </tr>
 
 <tr>
     <td>lower court.disagreement?</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the Supreme Court's majority opinion mentioned that one or more of the members of the court whose decision the Supreme Court reviewed dissented</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>lower court.disposition</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the treatment the court whose decision the Supreme Court reviewed accorded the decision of the court it reviewed</td>
     <td><code>"affirmed"</code></td>
 </tr>
 
 <tr>
     <td>lower court.reasons</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the reason, if any, that the Court gives for granting the petition for certiorari</td>
     <td><code>"to resolve question presented"</code></td>
 </tr>
 
 <tr>
     <td>natural court.chief</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the chief justice during whose tenure the case was decided</td>
     <td><code>"Vinson"</code></td>
 </tr>
 
 <tr>
     <td>natural court.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>natural court id</td>
     <td><code>1301</code></td>
 </tr>
 
 <tr>
     <td>natural court.period</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>a period during which no personnel change occurs</td>
     <td><code>1</code></td>
 </tr>
 
 <tr>
     <td>origin.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>origin id</td>
     <td><code>51</code></td>
 </tr>
 
 <tr>
     <td>origin.name</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the court in which the case originated, not the administrative agency</td>
     <td><code>"California Southern U.S. District Court"</code></td>
-</tr>
-
-<tr>
-    <td>origin.state</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
 </tr>
 
 <tr>
     <td>source.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>source id</td>
     <td><code>29</code></td>
 </tr>
 
 <tr>
     <td>source.name</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"U.S. Court of Appeals, Ninth Circuit"</code></td>
-</tr>
-
-<tr>
-    <td>source.state</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
+    <td>the court whose decision the Supreme Court reviewed</td>
+    <td><code>"U.S. Court of Appeals  Ninth Circuit"</code></td>
 </tr>
 
 <tr>
     <td>voting.majority</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the frequency with which given justices vote with the majority</td>
     <td><code>8</code></td>
 </tr>
 
 <tr>
     <td>voting.minority</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the number of votes in dissent</td>
     <td><code>1</code></td>
 </tr>
 
 <tr>
     <td>voting.split on second</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the vote variables (e.g., majVotes, minVotes) pertain to the vote on the second issue</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>voting.unclear</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the vote was not clearly specified</td>
     <td><code>True</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date argued.day</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>9</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date argued.full</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"1/9/1946"</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date argued.month</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date argued.year</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1946</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date reargued.day</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>23</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date reargued.full</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"10/23/1946"</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date reargued.month</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>10</code></td>
-</tr>
-
-<tr>
-    <td>arguments.date reargued.year</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1946</code></td>
 </tr>
 
 <tr>
     <td>arguments.petitioner.entity</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"oil company, or natural gas producer"</code></td>
+    <td>the party who petitioned the Supreme Court to review the case</td>
+    <td><code>"oil company / or natural gas producer"</code></td>
 </tr>
 
 <tr>
     <td>arguments.petitioner.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>petitioner id</td>
     <td><code>198</code></td>
-</tr>
-
-<tr>
-    <td>arguments.petitioner.state</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
 </tr>
 
 <tr>
     <td>arguments.respondent.entity</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"inventor, patent assigner, trademark owner or holder"</code></td>
+    <td>the party being sued or tried and is also known as the appellee</td>
+    <td><code>"inventor / patent assigner / trademark owner or holder"</code></td>
 </tr>
 
 <tr>
     <td>arguments.respondent.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>respondent id</td>
     <td><code>172</code></td>
-</tr>
-
-<tr>
-    <td>arguments.respondent.state</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
 </tr>
 
 <tr>
     <td>decision.admin action.agency</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"unknown"</code></td>
+    <td>administrative agency activity occurring prior to the onset of litigation</td>
+    <td><code>"Unidentifiable  "</code></td>
 </tr>
 
 <tr>
     <td>decision.admin action.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>-1</code></td>
-</tr>
-
-<tr>
-    <td>decision.admin action.state</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>""</code></td>
+    <td>id for the administrative agency activity occurring prior to the onset of litigation</td>
+    <td><code>118</code></td>
 </tr>
 
 <tr>
     <td>decision.case.disposition</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the treatment the Supreme Court accorded the court whose decision it reviewed</td>
     <td><code>"reversed"</code></td>
 </tr>
 
 <tr>
     <td>decision.case.unusual</td>
     <td>Boolean</td> 
-    <td>$MISSING_FIELD</td>
+    <td>whether the Court made an unusual disposition of the cited case which does not match the coding scheme of the preceding variable</td>
     <td><code>True</code></td>
 </tr>
 
 <tr>
     <td>decision.date.day</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the day that the Court announced its decision in the case</td>
     <td><code>18</code></td>
 </tr>
 
 <tr>
     <td>decision.date.full</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the year, month, and day that the Court announced its decision in the case</td>
     <td><code>"11/18/1946"</code></td>
 </tr>
 
 <tr>
     <td>decision.date.month</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the month that the Court announced its decision in the case</td>
     <td><code>11</code></td>
 </tr>
 
 <tr>
     <td>decision.date.year</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1946</code></td>
-</tr>
-
-<tr>
-    <td>natural court.end.day</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>23</code></td>
-</tr>
-
-<tr>
-    <td>natural court.end.full</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"August/23/1949"</code></td>
-</tr>
-
-<tr>
-    <td>natural court.end.month</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>8</code></td>
-</tr>
-
-<tr>
-    <td>natural court.end.year</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>1949</code></td>
-</tr>
-
-<tr>
-    <td>natural court.start.day</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>24</code></td>
-</tr>
-
-<tr>
-    <td>natural court.start.full</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"June/24/1946"</code></td>
-</tr>
-
-<tr>
-    <td>natural court.start.month</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>6</code></td>
-</tr>
-
-<tr>
-    <td>natural court.start.year</td>
-    <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the year that the Court announced its decision in the case</td>
     <td><code>1946</code></td>
 </tr>
 
 <tr>
     <td>voting.majority assigner.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>id for the majority opinion assigner</td>
     <td><code>78</code></td>
-</tr>
-
-<tr>
-    <td>voting.majority assigner.long name</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"Black, Hugo ( 08/19/1937 - 09/17/1971 )"</code></td>
 </tr>
 
 <tr>
     <td>voting.majority assigner.name</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the assigner of the opinion or judgment of the Court</td>
     <td><code>"HLBlack"</code></td>
 </tr>
 
 <tr>
     <td>voting.majority writer.id</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>id for the majority opinion writer</td>
     <td><code>78</code></td>
-</tr>
-
-<tr>
-    <td>voting.majority writer.long name</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"Black, Hugo ( 08/19/1937 - 09/17/1971 )"</code></td>
 </tr>
 
 <tr>
     <td>voting.majority writer.name</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>the author of the Court's opinion or judgment,</td>
     <td><code>"HLBlack"</code></td>
 </tr>
 

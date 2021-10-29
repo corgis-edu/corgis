@@ -52,36 +52,49 @@ var $builtinmodule = function(name)
                 "name": 'get_attack',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'groups'}, {"type": "LiteralStr", "value": 'attacker'}, {"type": "LiteralStr", "value": 'campaign'}, {"type": "LiteralStr", "value": 'date'}, {"type": "LiteralStr", "value": 'statistics'}, {"type": "LiteralStr", "value": 'target'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'groups'}, {"type": "LiteralStr", "value": 'claim'}, {"type": "LiteralStr", "value": 'status'}, {"type": "LiteralStr", "value": 'statistics'}, {"type": "LiteralStr", "value": 'date'}, {"type": "LiteralStr", "value": 'target'}, {"type": "LiteralStr", "value": 'attacker'}], "values": [
 						{"type": "StrType"}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'age'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'birth'}, {"type": "LiteralStr", "value": 'demographics'}], "values": [
+						{"type": "StrType"}, 
+						{"type": "StrType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'sources'}, {"type": "LiteralStr", "value": '# wounded_low'}, {"type": "LiteralStr", "value": '# wounded_high'}, {"type": "LiteralStr", "value": '# killed_low'}, {"type": "LiteralStr", "value": '# killed_high'}, {"type": "LiteralStr", "value": '# killed_low_civilian'}, {"type": "LiteralStr", "value": '# killed_high_civilian'}, {"type": "LiteralStr", "value": '# killed_low_political'}, {"type": "LiteralStr", "value": '# killed_high_political'}, {"type": "LiteralStr", "value": '# killed_low_security'}, {"type": "LiteralStr", "value": '# killed_high_security'}, {"type": "LiteralStr", "value": '# belt_bomb'}, {"type": "LiteralStr", "value": '# truck_bomb'}, {"type": "LiteralStr", "value": '# car_bomb'}, {"type": "LiteralStr", "value": '# weapon_oth'}, {"type": "LiteralStr", "value": '# weapon_unk'}, {"type": "LiteralStr", "value": '# attackers'}, {"type": "LiteralStr", "value": '# female_attackers'}, {"type": "LiteralStr", "value": '# male_attackers'}, {"type": "LiteralStr", "value": '# unknown_attackers'}], "values": [
 							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'year'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'day'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'weapon'}, {"type": "LiteralStr", "value": 'region'}, {"type": "LiteralStr", "value": 'subregion'}, {"type": "LiteralStr", "value": 'country'}, {"type": "LiteralStr", "value": 'province'}, {"type": "LiteralStr", "value": 'city'}, {"type": "LiteralStr", "value": 'location'}, {"type": "LiteralStr", "value": 'latitude'}, {"type": "LiteralStr", "value": 'longtitude'}, {"type": "LiteralStr", "value": 'desc'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'nationality'}], "values": [
 							{"type": "StrType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'location'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-								{"type": "StrType"}, 
-								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'education'}, {"type": "LiteralStr", "value": 'gender'}, {"type": "LiteralStr", "value": 'marital'}, {"type": "LiteralStr", "value": 'occupation'}, {"type": "LiteralStr", "value": 'religion'}], "values": [
-								{"type": "StrType"}, 
-								{"type": "StrType"}, 
-								{"type": "StrType"}, 
-								{"type": "StrType"}, 
-								{"type": "StrType"}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'sides'}], "values": [
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
+							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'day'}, {"type": "LiteralStr", "value": 'month'}, {"type": "LiteralStr", "value": 'year'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '# killed'}, {"type": "LiteralStr", "value": '# wounded'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'assassination?'}, {"type": "LiteralStr", "value": 'country'}, {"type": "LiteralStr", "value": 'location'}, {"type": "LiteralStr", "value": 'name'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'weapon'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "StrType"}, 
-							{"type": "StrType"}, 
-							{"type": "StrType"}, 
-							{"type": "StrType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'gender'}], "values": [
 							{"type": "StrType"}]}]}}
             },
         }
