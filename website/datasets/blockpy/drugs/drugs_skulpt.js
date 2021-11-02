@@ -52,39 +52,15 @@ var $builtinmodule = function(name)
                 "name": 'get_report',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Population'}, {"type": "LiteralStr", "value": 'Rates'}, {"type": "LiteralStr", "value": 'Totals'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Population'}, {"type": "LiteralStr", "value": 'Totals'}, {"type": "LiteralStr", "value": 'Rates'}], "values": [
 						{"type": "StrType"}, 
 						{"type": "NumType"}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '12-20'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-							{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Pain Relievers Abuse Past Year'}, {"type": "LiteralStr", "value": 'Alcohol'}, {"type": "LiteralStr", "value": 'Illicit Drugs'}, {"type": "LiteralStr", "value": 'Marijuana'}, {"type": "LiteralStr", "value": 'Tobacco'}], "values": [
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse Past Year'}, {"type": "LiteralStr", "value": 'Binge Past Month'}, {"type": "LiteralStr", "value": 'Dependence Past Year'}, {"type": "LiteralStr", "value": 'In Minors'}, {"type": "LiteralStr", "value": 'Need Treatment Past Year'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse'}, {"type": "LiteralStr", "value": 'Use'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Alcohol'}, {"type": "LiteralStr", "value": 'Tobacco'}, {"type": "LiteralStr", "value": 'Illicit Drugs'}, {"type": "LiteralStr", "value": 'Marijuana'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Use Disorder Past Year'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
@@ -93,23 +69,7 @@ var $builtinmodule = function(name)
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse Past Year'}, {"type": "LiteralStr", "value": 'All Except Marijuana Used Past Month'}, {"type": "LiteralStr", "value": 'Cocaine Used Past Year'}, {"type": "LiteralStr", "value": 'Dependence Past Year'}, {"type": "LiteralStr", "value": 'Need Treatment Past Year'}, {"type": "LiteralStr", "value": 'Used Past Month'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cigarette Past Month'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
@@ -118,24 +78,12 @@ var $builtinmodule = function(name)
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'New Users'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Used Past Month'}, {"type": "LiteralStr", "value": 'Used Past Year'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cocaine Used Past Year'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cigarette Past Month'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'New Users'}, {"type": "LiteralStr", "value": 'Used Past Month'}, {"type": "LiteralStr", "value": 'Used Past Year'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
@@ -148,31 +96,8 @@ var $builtinmodule = function(name)
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Pain Relievers Abuse Past Year'}, {"type": "LiteralStr", "value": 'Alcohol'}, {"type": "LiteralStr", "value": 'Illicit Drugs'}, {"type": "LiteralStr", "value": 'Marijuana'}, {"type": "LiteralStr", "value": 'Tobacco'}], "values": [
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse Past Year'}, {"type": "LiteralStr", "value": 'Binge Past Month'}, {"type": "LiteralStr", "value": 'Dependence Past Year'}, {"type": "LiteralStr", "value": 'In Minors'}, {"type": "LiteralStr", "value": 'Need Treatment Past Year'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse'}, {"type": "LiteralStr", "value": 'Use'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Alcohol'}, {"type": "LiteralStr", "value": 'Tobacco'}, {"type": "LiteralStr", "value": 'Illicit Drugs'}, {"type": "LiteralStr", "value": 'Marijuana'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Use Disorder Past Year'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
@@ -181,23 +106,7 @@ var $builtinmodule = function(name)
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Abuse Past Year'}, {"type": "LiteralStr", "value": 'All Except Marijuana Used Past Month'}, {"type": "LiteralStr", "value": 'Cocaine Used Past Year'}, {"type": "LiteralStr", "value": 'Dependence Past Year'}, {"type": "LiteralStr", "value": 'Need Treatment Past Year'}, {"type": "LiteralStr", "value": 'Used Past Month'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cigarette Past Month'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
@@ -206,24 +115,12 @@ var $builtinmodule = function(name)
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'New Users'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Used Past Month'}, {"type": "LiteralStr", "value": 'Used Past Year'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
-									{"type": "NumType"}, 
-									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cocaine Used Past Year'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Cigarette Past Month'}, {"type": "LiteralStr", "value": 'Perceptions of Risk'}, {"type": "LiteralStr", "value": 'Use Past Month'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'New Users'}, {"type": "LiteralStr", "value": 'Used Past Month'}, {"type": "LiteralStr", "value": 'Used Past Year'}], "values": [
 								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '12-17'}, {"type": "LiteralStr", "value": '18-25'}, {"type": "LiteralStr", "value": '26+'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}, 

@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/21/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 10/15/2021</span><br>
 <span class='text-muted'>Tags: food, vitamins, minerals, health, nutrition</span>
 
 # Overview
@@ -23,7 +23,7 @@ The following data comes from the United States Department of Agriculture's Food
 
 
 
-<https://ndb.nal.usda.gov/>
+<https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds-download-databases/>
 
 
 
