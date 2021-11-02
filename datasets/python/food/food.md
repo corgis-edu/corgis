@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/21/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 10/15/2021</span><br>
 <span class='text-muted'>Tags: food, vitamins, minerals, health, nutrition</span>
 
 # Overview
@@ -24,14 +24,14 @@ The following data comes from the United States Department of Agriculture's Food
 
 
 
-<https://ndb.nal.usda.gov/>
+<https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fndds-download-databases/>
 
 
 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Food*.
 
 
 
@@ -90,7 +90,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"BUTTER"</code>
+                <code>"Milk"</code>
              
                 
              </td> 
@@ -102,7 +102,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"BUTTER,WITH SALT"</code>
+                <code>"Milk, human"</code>
              
                 
              </td> 
@@ -114,7 +114,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>1001</code>
+                <code>11000000</code>
              
                 
              </td> 
@@ -181,7 +181,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Data' title='Dictionary (26 keys)'>
+<div id='explore-Data' title='Dictionary (20 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -197,25 +197,13 @@ $(document).ready(function() {
              </td> 
              <td>Alpha Carotene is a form of carotene with a Beta-ionone ring at one end and an Alpha-ionone ring at the opposite end. It is the second most common form of carotene. Alpha Carotene is common in yellow-orange and dark-green vegetables. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Ash"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>2.11</code>
-             
-                
-             </td> 
-             <td>Ash or mineral content is the portion of the food or any organic material that remains after it is burned at very high temperatures. The ash constituents include potassium, sodium, calcium and magnesium, which are present in larger amounts as well as smaller quantities of aluminum, iron, copper, manganese or zinc, arsenic, iodine, fluorine and other elements present in traces. Ash content represents the total mineral content in foods. Although minerals represent a small proportion of dry matter, often less than 7% of the total, they play an important role from a physicochemical, technological and nutritional point of view. Measured in grams (g).</td> </tr>
-        
         <tr> <td><code>"Beta Carotene"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>158</code>
+                <code>7</code>
              
                 
              </td> 
@@ -239,7 +227,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.06</code>
+                <code>6.89</code>
              
                 
              </td> 
@@ -251,7 +239,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>215</code>
+                <code>14</code>
              
                 
              </td> 
@@ -259,11 +247,11 @@ $(document).ready(function() {
         
         <tr> <td><code>"Choline"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
+                       title='Float (decimal number)'>
+                       float</span></td> 
              <td>
              
-                <code>19</code>
+                <code>16.0</code>
              
                 
              </td> 
@@ -280,18 +268,6 @@ $(document).ready(function() {
                 
              </td> 
              <td>Dietary fiber or roughage is the indigestible portion of food derived from plants. It has two main components: soluble fiber and insoluble fiber. Measured in grams (g).</td> </tr>
-        
-        <tr> <td><code>"Kilocalories"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>717</code>
-             
-                
-             </td> 
-             <td>The total number of kilocalories in this food item. A kilocalorie is a unit of energy of 1000 calories (equal to 1 large calorie).</td> </tr>
         
         <tr> <td><code>"Lutein and Zeaxanthin"</code></td>
              <td><span data-toggle="tooltip"
@@ -317,41 +293,17 @@ $(document).ready(function() {
              </td> 
              <td>Lycopene is a bright red carotene and carotenoid pigment and phytochemical found in tomatoes and other red fruits and vegetables, such as red carrots, watermelons, gac, and papayas, although not in strawberries, or cherries. Although lycopene is chemically a carotene, it has no vitamin A activity. Foods that are not red may also contain lycopene, such as asparagus and parsley. Measured in micrograms (mcg).</td> </tr>
         
-        <tr> <td><code>"Manganese"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.0</code>
-             
-                
-             </td> 
-             <td>Manganese is a chemical element with symbol Mn and atomic number 25. In biology, manganese(II) ions function as cofactors for a large variety of enzymes with many functions. Manganese enzymes are particularly essential in detoxification of superoxide free radicals in organisms that must deal with elemental oxygen. Manganese also functions in the oxygen-evolving complex of photosynthetic plants. The element is a required trace mineral for all known living organisms but is a neurotoxin. In larger amounts, and apparently with far greater effectiveness through inhalation, it can cause a poisoning in mammals with neurological damage that is sometimes irreversible. Measured in milligrams (mg).</td> </tr>
-        
         <tr> <td><code>"Niacin"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>0.042</code>
+                <code>0.177</code>
              
                 
              </td> 
              <td>Also known as vitamin B3 and nicotinic acid, is an organic compound with the formula C6H5NO 2 and, depending on the definition used, one of the 20 to 80 essential human nutrients. Measured in miligrams (mg).</td> </tr>
-        
-        <tr> <td><code>"Pantothenic Acid"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.11</code>
-             
-                
-             </td> 
-             <td>Pantothenic acid, also called vitamin B5 (a B vitamin), is a water-soluble vitamin. Pantothenic acid is an essential nutrient. Animals require pantothenic acid to synthesize coenzyme-A (CoA), as well as to synthesize and metabolize proteins, carbohydrates, and fats. Measured in milligrams (mg).</td> </tr>
         
         <tr> <td><code>"Protein"</code></td>
              <td><span data-toggle="tooltip"
@@ -359,23 +311,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.85</code>
+                <code>1.03</code>
              
                 
              </td> 
              <td>Proteins are essential nutrients for the human body. They are one of the building blocks of body tissue, and can also serve as a fuel source. As a fuel, proteins provide as much energy density as carbohydrates: 4 kcal (17 kJ) per gram; in contrast, lipids provide 9 kcal (37 kJ) per gram. There are nine essential amino acids which humans must obtain from their diet in order to prevent protein-energy malnutrition and resulting death. Humans need the essential amino acids in certain ratios. Dietary sources of protein include both animals and plants: meats, dairy products, fish and eggs as well as grains, legumes and nuts. Measured in grams (g).</td> </tr>
-        
-        <tr> <td><code>"Refuse Percentage"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>0</code>
-             
-                
-             </td> 
-             <td>The percentage of the food item that is inedible and should be treated as refuse. Given as a decimal percentage.</td> </tr>
         
         <tr> <td><code>"Retinol"</code></td>
              <td><span data-toggle="tooltip"
@@ -383,7 +323,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>671</code>
+                <code>60</code>
              
                 
              </td> 
@@ -395,7 +335,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.034</code>
+                <code>0.036</code>
              
                 
              </td> 
@@ -407,7 +347,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1.0</code>
+                <code>1.8</code>
              
                 
              </td> 
@@ -419,7 +359,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.059999999</code>
+                <code>6.89</code>
              
                 
              </td> 
@@ -431,7 +371,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.005</code>
+                <code>0.014</code>
              
                 
              </td> 
@@ -443,7 +383,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>15.87</code>
+                <code>87.5</code>
              
                 
              </td> 
@@ -456,18 +396,6 @@ $(document).ready(function() {
              <td>
              
                 <a class='dialog-opener' id='btn-explore-Data-Fat'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"Household Weights"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Data-Household-Weights'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -540,18 +468,6 @@ $(document).ready(function() {
 
     
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
 <script>
 $(document).ready(function() {
     $( "#explore-Data" ).dialog({
@@ -565,12 +481,6 @@ $(document).ready(function() {
     
     $("#btn-explore-Data-Alpha-Carotene").click(function() {
         $( "#explore-Data-Alpha-Carotene" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-Ash").click(function() {
-        $( "#explore-Data-Ash" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -611,12 +521,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Kilocalories").click(function() {
-        $( "#explore-Data-Kilocalories" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Data-Lutein-and-Zeaxanthin").click(function() {
         $( "#explore-Data-Lutein-and-Zeaxanthin" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -629,32 +533,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Manganese").click(function() {
-        $( "#explore-Data-Manganese" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Data-Niacin").click(function() {
         $( "#explore-Data-Niacin" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Data-Pantothenic-Acid").click(function() {
-        $( "#explore-Data-Pantothenic-Acid" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Data-Protein").click(function() {
         $( "#explore-Data-Protein" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-Refuse-Percentage").click(function() {
-        $( "#explore-Data-Refuse-Percentage" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -701,12 +587,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Household-Weights").click(function() {
-        $( "#explore-Data-Household-Weights" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Data-Major-Minerals").click(function() {
         $( "#explore-Data-Major-Minerals" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
@@ -732,7 +612,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>21.021</code>
+                <code>1.658</code>
              
                 
              </td> 
@@ -744,7 +624,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>3.043</code>
+                <code>0.497</code>
              
                 
              </td> 
@@ -756,7 +636,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>51.368</code>
+                <code>2.009</code>
              
                 
              </td> 
@@ -768,7 +648,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>81.11</code>
+                <code>4.38</code>
              
                 
              </td> 
@@ -823,107 +703,6 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Data-Household-Weights' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"1st Household Weight"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>227.0</code>
-             
-                
-             </td> 
-             <td>An estimate of the household measure of the food item. Weights are given for edible material without refuse. This can be used to calculate the nutrient value of the food.</td> </tr>
-        
-        <tr> <td><code>"1st Household Weight Description"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"1 cup"</code>
-             
-                
-             </td> 
-             <td>A string representing the units of measurements in the first household weight.</td> </tr>
-        
-        <tr> <td><code>"2nd Household Weight"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>14</code>
-             
-                
-             </td> 
-             <td>Another estimate of the household measure of the food item. Weights are given for edible material without refuse. This can be used to calculate the nutrient value of the food.</td> </tr>
-        
-        <tr> <td><code>"2nd Household Weight Description"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"1 tbsp"</code>
-             
-                
-             </td> 
-             <td>A string representing the units of measurements in the second household weight.</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Data-Household-Weights" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Data-Household-Weights-1st-Household-Weight").click(function() {
-        $( "#explore-Data-Household-Weights-1st-Household-Weight" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-Household-Weights-1st-Household-Weight-Description").click(function() {
-        $( "#explore-Data-Household-Weights-1st-Household-Weight-Description" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-Household-Weights-2nd-Household-Weight").click(function() {
-        $( "#explore-Data-Household-Weights-2nd-Household-Weight" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Data-Household-Weights-2nd-Household-Weight-Description").click(function() {
-        $( "#explore-Data-Household-Weights-2nd-Household-Weight-Description" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
 <div id='explore-Data-Major-Minerals' title='Dictionary (8 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
@@ -934,7 +713,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>24</code>
+                <code>32</code>
              
                 
              </td> 
@@ -946,7 +725,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.0</code>
+                <code>0.052</code>
              
                 
              </td> 
@@ -958,7 +737,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.02</code>
+                <code>0.03</code>
              
                 
              </td> 
@@ -970,7 +749,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>2</code>
+                <code>3</code>
              
                 
              </td> 
@@ -982,7 +761,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>24</code>
+                <code>14</code>
              
                 
              </td> 
@@ -994,7 +773,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>24</code>
+                <code>51</code>
              
                 
              </td> 
@@ -1006,7 +785,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>576</code>
+                <code>17</code>
              
                 
              </td> 
@@ -1018,7 +797,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.09</code>
+                <code>0.17</code>
              
                 
              </td> 
@@ -1105,21 +884,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Data-Vitamins' title='Dictionary (7 keys)'>
+<div id='explore-Data-Vitamins' title='Dictionary (6 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Vitamin A - IU"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>2499</code>
-             
-                
-             </td> 
-             <td>Vitamin A is a fat soluble vitamin that is also a powerful antioxidant. Vitamin A plays a critical role in maintaining healthy vision, neurological function, healthy skin, and more. Measured in International Units.</td> </tr>
         
         <tr> <td><code>"Vitamin A - RAE"</code></td>
              <td><span data-toggle="tooltip"
@@ -1127,7 +894,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>684</code>
+                <code>61</code>
              
                 
              </td> 
@@ -1139,7 +906,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.17</code>
+                <code>0.05</code>
              
                 
              </td> 
@@ -1151,7 +918,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.003</code>
+                <code>0.011</code>
              
                 
              </td> 
@@ -1163,7 +930,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.0</code>
+                <code>5.0</code>
              
                 
              </td> 
@@ -1175,7 +942,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2.32</code>
+                <code>0.08</code>
              
                 
              </td> 
@@ -1187,7 +954,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>7.0</code>
+                <code>0.3</code>
              
                 
              </td> 
@@ -1195,8 +962,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -1220,12 +985,6 @@ $(document).ready(function() {
         $(this).parent().css("maxWidth", "600px");
       }
     });
-    
-    $("#btn-explore-Data-Vitamins-Vitamin-A---IU").click(function() {
-        $( "#explore-Data-Vitamins-Vitamin-A---IU" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
     
     $("#btn-explore-Data-Vitamins-Vitamin-A---RAE").click(function() {
         $( "#explore-Data-Vitamins-Vitamin-A---RAE" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
