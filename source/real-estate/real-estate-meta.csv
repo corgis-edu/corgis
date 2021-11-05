@@ -1,7 +1,7 @@
 Name,Real Estate,,,
-Version,2.0.0,,,
-Author,Austin Cory Bart <acbart@vt.edu>,,,
-Created,2/23/2016,,,
+Version,3.0.0,,,
+Author,"Austin Cory Bart <acbart@vt.edu>, Joung Min Choi, Bo Guan",,,
+Created,11/05/2021,,,
 Data File,real-estate-corgis.csv,,,
 Overview,"Real estate information in the United States, including inventory, building, and customer data.",,,
 Data Source,https://catalog.data.gov/dataset/real-estate-across-the-united-states-rexus-inventory-building,,,
@@ -9,26 +9,23 @@ Description,"Real Estate Across the United States (REXUS) is the primary tool us
 ",,,
 Tags,"real, estate, buildings, government, building",,,
 Row,building,,,
-Row Explanation,$MISSING_FIELD,,,
+Row Explanation,building,,,
 Acknowledgement,,,,
 Icon,real-estate-icon.png,,,
 Splash,real-estate-icon.png,,,
 Properties,Name,Type,Index,Description
-,data.date,string,,$MISSING_FIELD
-,data.owned or leased,string,,$MISSING_FIELD
-,data.parking spaces,int,,$MISSING_FIELD
-,data.status,string,,$MISSING_FIELD
-,data.type,string,,$MISSING_FIELD
-,location.congressional district,string,,$MISSING_FIELD
-,location.id,string,,$MISSING_FIELD
-,location.region id,string,,$MISSING_FIELD
-,data.disabilities.ADA Accessible,string,,$MISSING_FIELD
-,data.disabilities.ansi usable,string,,$MISSING_FIELD
-,data.history.status,string,,$MISSING_FIELD
-,data.history.type,string,,$MISSING_FIELD
-,location.address.city,string,,$MISSING_FIELD
-,location.address.county,string,,$MISSING_FIELD
-,location.address.line 1,string,,$MISSING_FIELD
-,location.address.line 2,string,,$MISSING_FIELD
-,location.address.state,string,TRUE,$MISSING_FIELD
-,location.address.zip,string,,$MISSING_FIELD
+,data.date,string,,The construction date (Denoted as 0 for unknown)
+,data.owned or leased,string,,The leasing status of the building
+,data.parking spaces,int,,The number of spaces in the parking lot
+,data.status,string,,"The status of the building for whether it is still active, excess, or decomissioned"
+,data.type,string,,The property type
+,location.congressional district,string,,The number of the congressional district in the area of the building
+,location.id,string,,The location code for the area of the building
+,location.region id,string,,The region code for the area of the building
+,data.disabilities.ADA Accessible,string,,The status whether the building follows the ADA (Americans with Disabilities Act) accessibility standarads
+,data.disabilities.ansi usable,string,,The building code for ANSI (the American National StandardInstitute) standard
+,location.address.city,string,,The city address of the building
+,location.address.county,string,,The county address of the building
+,location.address.line 1,string,,The line 1 address of the building
+,location.address.state,string,TRUE,The state address of the building
+,location.address.zip,string,,The zipcode of the building
