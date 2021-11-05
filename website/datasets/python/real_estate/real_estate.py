@@ -31,7 +31,7 @@ def _tifa_definitions():
                 "returns": 
 				{"type": "ListType", "subtype": 
 					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'data'}, {"type": "LiteralStr", "value": 'location'}], "values": [
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'date'}, {"type": "LiteralStr", "value": 'owned or leased'}, {"type": "LiteralStr", "value": 'parking spaces'}, {"type": "LiteralStr", "value": 'status'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'disabilities'}, {"type": "LiteralStr", "value": 'history'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'date'}, {"type": "LiteralStr", "value": 'owned or leased'}, {"type": "LiteralStr", "value": 'parking spaces'}, {"type": "LiteralStr", "value": 'status'}, {"type": "LiteralStr", "value": 'type'}, {"type": "LiteralStr", "value": 'disabilities'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "NumType"}, 
@@ -39,16 +39,12 @@ def _tifa_definitions():
 							{"type": "StrType"}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'ADA Accessible'}, {"type": "LiteralStr", "value": 'ansi usable'}], "values": [
 								{"type": "StrType"}, 
-								{"type": "StrType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'status'}, {"type": "LiteralStr", "value": 'type'}], "values": [
-								{"type": "StrType"}, 
 								{"type": "StrType"}]}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'congressional district'}, {"type": "LiteralStr", "value": 'id'}, {"type": "LiteralStr", "value": 'region id'}, {"type": "LiteralStr", "value": 'address'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'city'}, {"type": "LiteralStr", "value": 'county'}, {"type": "LiteralStr", "value": 'line 1'}, {"type": "LiteralStr", "value": 'line 2'}, {"type": "LiteralStr", "value": 'state'}, {"type": "LiteralStr", "value": 'zip'}], "values": [
-								{"type": "StrType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'city'}, {"type": "LiteralStr", "value": 'county'}, {"type": "LiteralStr", "value": 'line 1'}, {"type": "LiteralStr", "value": 'state'}, {"type": "LiteralStr", "value": 'zip'}], "values": [
 								{"type": "StrType"}, 
 								{"type": "StrType"}, 
 								{"type": "StrType"}, 

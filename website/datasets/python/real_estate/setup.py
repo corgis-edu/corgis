@@ -3,7 +3,7 @@ import os.path
 
 setup(
     name='real estate',
-    version='2.0.0',
+    version='3.0.0',
     py_modules=['real_estate'],
     data_files=[('', [
         "./real_estate.data"

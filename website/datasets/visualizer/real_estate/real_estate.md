@@ -13,8 +13,8 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/23/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 11/05/2021</span><br>
 <span class='text-muted'>Tags: real, estate, buildings, government, building</span>
 
 # Overview

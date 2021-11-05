@@ -12,8 +12,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/23/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 11/05/2021</span><br>
 <span class='text-muted'>Tags: real, estate, buildings, government, building</span>
 
 # Overview
@@ -46,126 +46,105 @@ Download the following file:
 <tr>
     <td>data.date</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"1-Jan-33"</code></td>
+    <td>The construction date (Denoted as 0 for unknown)</td>
+    <td><code>"1933.1.1"</code></td>
 </tr>
 
 <tr>
     <td>data.owned or leased</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The leasing status of the building</td>
     <td><code>"OWNED"</code></td>
 </tr>
 
 <tr>
     <td>data.parking spaces</td>
     <td>Integer</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The number of spaces in the parking lot</td>
     <td><code>29</code></td>
 </tr>
 
 <tr>
     <td>data.status</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The status of the building for whether it is still active, excess, or decomissioned</td>
     <td><code>"ACTIVE"</code></td>
 </tr>
 
 <tr>
     <td>data.type</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The property type</td>
     <td><code>"BUILDING"</code></td>
 </tr>
 
 <tr>
     <td>location.congressional district</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The number of the congressional district in the area of the building</td>
     <td><code>"1"</code></td>
 </tr>
 
 <tr>
     <td>location.id</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The location code for the area of the building</td>
     <td><code>"CT0013"</code></td>
 </tr>
 
 <tr>
     <td>location.region id</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The region code for the area of the building</td>
     <td><code>"1"</code></td>
 </tr>
 
 <tr>
     <td>data.disabilities.ADA Accessible</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The status whether the building follows the ADA (Americans with Disabilities Act) accessibility standarads</td>
     <td><code>"Will Conform"</code></td>
 </tr>
 
 <tr>
     <td>data.disabilities.ansi usable</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"97884"</code></td>
-</tr>
-
-<tr>
-    <td>data.history.status</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"National Register Listed"</code></td>
-</tr>
-
-<tr>
-    <td>data.history.type</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"Field Not In Use"</code></td>
+    <td>The building code for ANSI (the American National StandardInstitute) standard</td>
+    <td><code>"97072"</code></td>
 </tr>
 
 <tr>
     <td>location.address.city</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The city address of the building</td>
     <td><code>"HARTFORD"</code></td>
 </tr>
 
 <tr>
     <td>location.address.county</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>"HARTFORD"</code></td>
+    <td>The county address of the building</td>
+    <td><code>"HARTFORD COUNTY"</code></td>
 </tr>
 
 <tr>
     <td>location.address.line 1</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The line 1 address of the building</td>
     <td><code>"135 HIGH ST"</code></td>
-</tr>
-
-<tr>
-    <td>location.address.line 2</td>
-    <td>String</td> 
-    <td>$MISSING_FIELD</td>
-    <td><code>" "</code></td>
 </tr>
 
 <tr>
     <td>location.address.state</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The state address of the building</td>
     <td><code>"CT"</code></td>
 </tr>
 
 <tr>
     <td>location.address.zip</td>
     <td>String</td> 
-    <td>$MISSING_FIELD</td>
+    <td>The zipcode of the building</td>
     <td><code>"61031125"</code></td>
 </tr>
 

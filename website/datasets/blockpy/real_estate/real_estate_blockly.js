@@ -81,12 +81,9 @@ var real_estate_PROPERTIES = [
     ["location.region id", "location.region id"] ,
     ["data.disabilities.ADA Accessible", "data.disabilities.ADA Accessible"] ,
     ["data.disabilities.ansi usable", "data.disabilities.ansi usable"] ,
-    ["data.history.status", "data.history.status"] ,
-    ["data.history.type", "data.history.type"] ,
     ["location.address.city", "location.address.city"] ,
     ["location.address.county", "location.address.county"] ,
     ["location.address.line 1", "location.address.line 1"] ,
-    ["location.address.line 2", "location.address.line 2"] ,
     ["location.address.state", "location.address.state"] ,
     ["location.address.zip", "location.address.zip"] 
 ]

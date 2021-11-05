@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu></span><br>
-<span class='text-muted'>Version 2.0.0, created 2/23/2016</span><br>
+<span class='text-muted'>By Austin Cory Bart <acbart@vt.edu>, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 11/05/2021</span><br>
 <span class='text-muted'>Tags: real, estate, buildings, government, building</span>
 
 # Overview
@@ -31,7 +31,7 @@ Real Estate Across the United States (REXUS) is the primary tool used by PBS to 
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *building*.
 
 
 
@@ -141,7 +141,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-data' title='Dictionary (7 keys)'>
+<div id='explore-data' title='Dictionary (6 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -151,11 +151,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"1-Jan-33"</code>
+                <code>"1933.1.1"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The construction date (Denoted as 0 for unknown)</td> </tr>
         
         <tr> <td><code>"owned or leased"</code></td>
              <td><span data-toggle="tooltip"
@@ -167,7 +167,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The leasing status of the building</td> </tr>
         
         <tr> <td><code>"parking spaces"</code></td>
              <td><span data-toggle="tooltip"
@@ -179,7 +179,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The number of spaces in the parking lot</td> </tr>
         
         <tr> <td><code>"status"</code></td>
              <td><span data-toggle="tooltip"
@@ -191,7 +191,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The status of the building for whether it is still active, excess, or decomissioned</td> </tr>
         
         <tr> <td><code>"type"</code></td>
              <td><span data-toggle="tooltip"
@@ -203,7 +203,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The property type</td> </tr>
         
         <tr> <td><code>"disabilities"</code></td>
              <td><span data-toggle="tooltip"
@@ -217,22 +217,8 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"history"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-data-history'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
     </table>
 </div>
-
-    
 
     
 
@@ -293,12 +279,6 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-data-history").click(function() {
-        $( "#explore-data-history" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
@@ -316,7 +296,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The number of the congressional district in the area of the building</td> </tr>
         
         <tr> <td><code>"id"</code></td>
              <td><span data-toggle="tooltip"
@@ -328,7 +308,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The location code for the area of the building</td> </tr>
         
         <tr> <td><code>"region id"</code></td>
              <td><span data-toggle="tooltip"
@@ -340,7 +320,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The region code for the area of the building</td> </tr>
         
         <tr> <td><code>"address"</code></td>
              <td><span data-toggle="tooltip"
@@ -417,7 +397,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The status whether the building follows the ADA (Americans with Disabilities Act) accessibility standarads</td> </tr>
         
         <tr> <td><code>"ansi usable"</code></td>
              <td><span data-toggle="tooltip"
@@ -425,11 +405,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"97884"</code>
+                <code>"97072"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The building code for ANSI (the American National StandardInstitute) standard</td> </tr>
         
     </table>
 </div>
@@ -464,68 +444,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-data-history' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"status"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"National Register Listed"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"type"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>"Field Not In Use"</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-data-history" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-data-history-status").click(function() {
-        $( "#explore-data-history-status" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-data-history-type").click(function() {
-        $( "#explore-data-history-type" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-location-address' title='Dictionary (6 keys)'>
+<div id='explore-location-address' title='Dictionary (5 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -539,7 +458,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The city address of the building</td> </tr>
         
         <tr> <td><code>"county"</code></td>
              <td><span data-toggle="tooltip"
@@ -547,11 +466,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"HARTFORD"</code>
+                <code>"HARTFORD COUNTY"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The county address of the building</td> </tr>
         
         <tr> <td><code>"line 1"</code></td>
              <td><span data-toggle="tooltip"
@@ -563,19 +482,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"line 2"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
-             <td>
-             
-                <code>" "</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The line 1 address of the building</td> </tr>
         
         <tr> <td><code>"state"</code></td>
              <td><span data-toggle="tooltip"
@@ -587,7 +494,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The state address of the building</td> </tr>
         
         <tr> <td><code>"zip"</code></td>
              <td><span data-toggle="tooltip"
@@ -599,12 +506,10 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The zipcode of the building</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -641,12 +546,6 @@ $(document).ready(function() {
     
     $("#btn-explore-location-address-line-1").click(function() {
         $( "#explore-location-address-line-1" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-location-address-line-2").click(function() {
-        $( "#explore-location-address-line-2" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
