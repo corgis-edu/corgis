@@ -1,68 +1,59 @@
 Name,County Demographics,,,
-Version,2.0.0,,,
-Author,Ryan Whitcomb,,,
-Created,6/1/2016,,,
+Version,3.0.0,,,
+Author,"Ryan Whitcomb, Joung Min Choi, Bo Guan",,,
+Created,11/5/2021,,,
 Data File,county-demographics-corgis.csv,,,
 Overview,Demographic information for counties in the United States.,,,
 Data Source,http://www.census.gov/quickfacts/table/PST045215/00,,,
-Description,"The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics.
-",,,
+Description,"The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)",,,
 Tags,"demographics, population, age, ethnicity, race, language, education, foreign, households, income, employment, unemployment, sales, land area, counties",,,
 Row,report,,,
-Row Explanation,$MISSING_FIELD,,,
+Row Explanation,Demographic report for each individual state,,,
 Acknowledgement,,,,
 Icon,county-demographics-icon.png,,,
 Splash,county-demographics-icon.png,,,
 Properties,Name,Type,Index,Description
-,County,string,,$MISSING_FIELD
-,State,string,TRUE,$MISSING_FIELD
-,Age.Percent 65 and Older,float,,$MISSING_FIELD
-,Age.Percent Under 18 Years,float,,$MISSING_FIELD
-,Age.Percent Under 5 Years,float,,$MISSING_FIELD
-,Education.Bachelor's Degree or Higher,float,,$MISSING_FIELD
-,Education.High School or Higher,float,,$MISSING_FIELD
-,Employment.Nonemployer Establishments,int,,$MISSING_FIELD
-,Employment.Private Non-farm Employment,int,,$MISSING_FIELD
-,Employment.Private Non-farm Employment Percent Change,float,,$MISSING_FIELD
-,Employment.Private Non-farm Establishments,int,,$MISSING_FIELD
-,Ethnicities.American Indian and Alaska Native Alone,float,,$MISSING_FIELD
-,Ethnicities.Asian Alone,float,,$MISSING_FIELD
-,Ethnicities.Black Alone,float,,$MISSING_FIELD
-,Ethnicities.Hispanic or Latino,float,,$MISSING_FIELD
-,Ethnicities.Native Hawaiian and Other Pacific Islander Alone,float,,$MISSING_FIELD
-,Ethnicities.Two or More Races,float,,$MISSING_FIELD
-,Ethnicities.White Alone,float,,$MISSING_FIELD
-,"Ethnicities.White Alone, not Hispanic or Latino",float,,$MISSING_FIELD
-,Housing.Homeownership Rate,float,,$MISSING_FIELD
-,Housing.Households,int,,$MISSING_FIELD
-,Housing.Housing Units,int,,$MISSING_FIELD
-,Housing.Median Value of Owner-Occupied Units,int,,$MISSING_FIELD
-,Housing.Persons per Household,float,,$MISSING_FIELD
-,Housing.Units in Multi-Unit Structures,float,,$MISSING_FIELD
-,Income.Median Houseold Income,int,,$MISSING_FIELD
-,Income.Per Capita Income,int,,$MISSING_FIELD
-,Income.Persons Below Poverty Level,float,,$MISSING_FIELD
-,Miscellaneous.Building Permits,int,,$MISSING_FIELD
-,Miscellaneous.Foreign Born,float,,$MISSING_FIELD
-,Miscellaneous.Land Area,float,,$MISSING_FIELD
-,Miscellaneous.Language Other than English at Home,float,,$MISSING_FIELD
-,Miscellaneous.Living in Same House +1 Years,float,,$MISSING_FIELD
-,Miscellaneous.Manufacturers Shipments,int,,$MISSING_FIELD
-,Miscellaneous.Mean Travel Time to Work,float,,$MISSING_FIELD
-,Miscellaneous.Percent Female,float,,$MISSING_FIELD
-,Miscellaneous.Veterans,int,,$MISSING_FIELD
-,Population.2010 Population,int,,$MISSING_FIELD
-,Population.2014 Population,int,,$MISSING_FIELD
-,Population.Population Percent Change,float,,$MISSING_FIELD
-,Population.Population per Square Mile,float,,$MISSING_FIELD
-,Sales.Accommodation and Food Services Sales,int,,$MISSING_FIELD
-,Sales.Merchant Wholesaler Sales,int,,$MISSING_FIELD
-,Sales.Retail Sales,int,,$MISSING_FIELD
-,Sales.Retail Sales per Capita,int,,$MISSING_FIELD
-,Employment.Firms.American Indian-Owned,float,,$MISSING_FIELD
-,Employment.Firms.Asian-Owned,float,,$MISSING_FIELD
-,Employment.Firms.Black-Owned,float,,$MISSING_FIELD
-,Employment.Firms.Hispanic-Owned,float,,$MISSING_FIELD
-,Employment.Firms.Native Hawaiian and Other Pacific Islander-Owned,float,,$MISSING_FIELD
-,Employment.Firms.Total,int,,$MISSING_FIELD
-,Employment.Firms.Women-Owned,float,,$MISSING_FIELD
+,County,string,,County name
+,State,string,TRUE,State name
+,Population.Population Percent Change,float,,"The difference between the population of an area from April 1, 2020 to July 1, 2019"
+,Population.2020 Population,int,,"The population of people in a specified geographic area on April 1, 2020"
+,Population.2010 Population,int,,"The population of people in a specified geographic area on April 1, 2010"
+,Age.Percent Under 5 Years,float,,"Estimated percentage of population whose ages are under 5 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico)."
+,Age.Percent Under 18 Years,float,,"Estimated percentage of population whose ages are under 18 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico)."
+,Age.Percent 65 and Older,float,,"Estimated percentage of population whose ages are equal or greater than 65 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico)."
+,Miscellaneous.Percent Female,float,,"Estimated percentage of female population who are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico)."
+,Ethnicities.White Alone,float,,"Estimated percentage of population having origins in any of the original peoples of Europe, the Middle East, or North Africa. It includes people who indicate their race as ""White"" or report entries such as Irish, German, Italian, Lebanese, Arab, Moroccan, or Caucasian."
+,Ethnicities.Black Alone,float,,"Estimated percentage of population having origins in any of the Black racial groups of Africa. It includes people who indicate their race as ""Black or African American,"" or report entries such as African American, Kenyan, Nigerian, or Haitian."
+,Ethnicities.American Indian and Alaska Native Alone,float,,"Estimated percentage of population having origins in any of the original peoples of North and South America (including Central America) and who maintains tribal affiliation or community attachment. This category includes people who indicate their race as ""American Indian or Alaska Native"" or report entries such as Navajo, Blackfeet, Inupiat, Yup'ik, or Central American Indian groups or South American Indian groups."
+,Ethnicities.Asian Alone,float,,"Estimated percentage of population having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. This includes people who reported detailed Asian responses such as: ""Asian Indian,"" ""Chinese,"" ""Filipino,"" ""Korean,"" ""Japanese,"" ""Vietnamese,"" and ""Other Asian"" or provide other detailed Asian responses."
+,Ethnicities.Native Hawaiian and Other Pacific Islander Alone,float,,"Estimated percentage of population having origins in any of the Black racial groups of Africa. It includes people who indicate their race as ""Black or African American,"" or report entries such as African American, Kenyan, Nigerian, or Haitian."
+,Ethnicities.Two or More Races,float,,"Estimated percentage of population choosing to provide two or more races either by checking two or more race response check boxes, by providing multiple responses, or by some combination of check boxes and other responses. For data product purposes, ""Two or More Races"" refers to combinations of two or more of the following race categories: ""White,"" ""Black or African American,"" American Indian or Alaska Native,"" ""Asian,"" Native Hawaiian or Other Pacific Islander,"" or ""Some Other Race"""
+,Ethnicities.Hispanic or Latino,float,,"Estimated percentage of population of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. This includes people who reported detailed Hispanic or Latino groups"
+,"Ethnicities.White Alone, not Hispanic or Latino",float,,"Estimated percentage of population having origins in any of the original peoples of Europe, the Middle East, or North Africa. It includes people who indicate their race as ""White"" or report entries such as Irish, German, Italian, Lebanese, Arab, Moroccan, or Caucasian."
+,Miscellaneous.Veterans,int,,"Population of men and women who have served (even for a short time), but are not currently serving, on active duty in the U.S. Army, Navy, Air Force, Marine Corps, or the Coast Guard, or who served in the U.S. Merchant Marine during World War II from 2015 to 2019 "
+,Miscellaneous.Foreign Born,float,,Estimated percentage of population who was not a U.S. citizen or a U.S. national at birth. This includes respondents who indicated they were a U.S. citizen by naturalization or not a U.S. citizen. from 2015 to 2019 
+,Housing.Housing Units,int,,"Estimated number of housing units, apartments, mobile homes, groups of rooms, or single rooms that are occupied (or if vacant, is intended for occupancy) as separate living quarters beginning with July 1, 2019"
+,Housing.Homeownership Rate,float,,"A housing unit is owner-occupied if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for. The owner or co-owner must live in the unit and usually is Person 1 on the questionnaire. This homeownership rate is computed by dividing the number of owner-occupied housing units by the number of occupied housing units or households from 2015 to 2019."
+,Housing.Median Value of Owner-Occupied Units,int,,"Median value of housing units which are owner-occupied if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for from 2015 to 2019. Median value calculations are rounded to the nearest hundred dollars."
+,Housing.Households,int,,Number of households including all the persons who occupy a housing unit as their usual place of residence from 2015 to 2019
+,Housing.Persons per Household,float,,"Percentage for the number of people per household, or average household size from 2015 to 2019"
+,Miscellaneous.Living in Same House +1 Years,float,,"Percentage for the residence in conjunction with location of current residence to determine the extent of residential mobility of the population and the resulting redistribution of the population across the various states, metropolitan areas, and regions of the country from 2015 to 2019"
+,Miscellaneous.Language Other than English at Home,float,,"Percentage for the number of people who knew languages other than English but did not use them at home, who only used them elsewhere, or whose usage was limited to a few expressions or slang were excluded from 2015 to 2019. Tabulations of language spoken at home include only the responses of persons 5 years old and over. "
+,Education.High School or Higher,float,,"Percentage of people whose highest degree was a high school diploma or its equivalent, people who attended college but did not receive a degree, and people who received an associate's, bachelor's, master's, or professional or doctorate degree. These data include only persons 25 years old and over. The percentages are obtained by dividing the counts of graduates by the total number of persons 25 years old and over. Tha data is collected from 2015 to 2019"
+,Education.Bachelor's Degree or Higher,float,,"People who attended college but did not receive a degree, and people who received an associate's, bachelor's, master's, or professional or doctorate degree. These data include only persons 25 years old and over. The percentages are obtained by dividing the counts of graduates by the total number of persons 25 years old and over. Tha data is collected from 2015 to 2019."
+,Sales.Accommodation and Food Services Sales,int,,"The Accommodation and Food Services Sales sector comprises establishments providing customers with lodging and/or prepared meals, snacks, and beverages for immediate consumption. The 2012 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012. Sales includes payments from customers for services rendered, from the use of facilities and from merchandise sold. If tax-exempt, sales includes dues and assessments from members and affiliates."
+,Miscellaneous.Manufacturers Shipments,int,,"The manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products. The 2012 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012."
+,Sales.Retail Sales,int,,"The retail trade sector comprises establishments engaged in retailing merchandise, generally without transformation, and rendering services incidental to the sale of merchandise. The 2007 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012. Sales include merchandise sold for cash or credit at retail and wholesale by establishments primarily engaged in retail trade"
+,Miscellaneous.Mean Travel Time to Work,float,,"Travel time to work refers to the total number of minutes that it usually took the person to get from home to work each day during the reference week. The elapsed time includes time spent waiting for public transportation, picking up passengers in carpools, and time spent in other activities related to getting to work. Mean travel time to work is obtained by dividing the total number of minutes by the number of workers 16 years old and over who did not work at home. Mean travel time to work is rounded to the nearest tenth of a minute. The data was collected from 2015 to 2019"
+,Income.Median Houseold Income,int,,"Median of income in the Past 12 Months collected from 2015 to 2019 - Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to the householder or not. Because many households consist of only one person, average household income is usually less than average family income."
+,Income.Per Capita Income,int,,"Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate income of a particular group by the total population in that group. This measure is rounded to the nearest whole dollar. For the complete definition, go to ACS subject definitions ""Income in the Past 12 Months, Per Capita Income."" The data is collected from 2015 to 2019."
+,Employment.Nonemployer Establishments,int,,"An establishment is a single physical location at which business is conducted or where services or industrial operations are performed. It is not necessarily identical with a company or enterprise, which may consist of one establishment or more. The data was collected from 2018."
+,Employment.Firms.Total,int,,"All nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Men-Owned,int,,"All men-owned nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Women-Owned,int,,"All women-owned nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Minority-Owned,int,,"All nonfarm businesses owned by equally minority filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Nonminority-Owned,int,,"All nonfarm businesses owned by equally nonminority filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Veteran-Owned,int,,"All nonfarm businesses owned by veteran filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Employment.Firms.Nonveteran-Owned,int,,"All nonfarm businesses owned by non-veteran filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012."
+,Population.Population per Square Mile,float,,Population and housing unit density computed by dividing the total population or number of housing units within a geographic entity by the land area of that entity measured in square miles or in square kilometers in 2010
+,Miscellaneous.Land Area,float,,"Land area measurements are originally recorded as whole square meters (to convert square meters to square kilometers, divide by 1,000,000; to convert square kilometers to square miles, divide by 2.58999; to convert square meters to square miles, divide by 2,589,988) in 2010."
