@@ -13,13 +13,13 @@ extras: visualizer
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/1/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 11/5/2021</span><br>
 <span class='text-muted'>Tags: demographics, population, age, ethnicity, race, language, education, foreign, households, income, employment, unemployment, sales, land area, states</span>
 
 # Overview
 
-The following data set is summarized information obtained about states in the United States from 2007 through 2014 through the United States Census Bureau. However, this data is not available for these years; just the summarized data as of 2015. Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics.
+The following data set is summarized information obtained about states in the United States from 2015 through 2019 through the United States Census Bureau. However, this data is not available for these years; just the summarized data as of 2019. Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
 
 
 

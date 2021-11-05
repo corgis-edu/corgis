@@ -14,14 +14,13 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Ryan Whitcomb</span><br>
-<span class='text-muted'>Version 2.0.0, created 6/1/2016</span><br>
+<span class='text-muted'>By Ryan Whitcomb, Joung Min Choi, Bo Guan</span><br>
+<span class='text-muted'>Version 3.0.0, created 11/5/2021</span><br>
 <span class='text-muted'>Tags: demographics, population, age, ethnicity, race, language, education, foreign, households, income, employment, unemployment, sales, land area, counties</span>
 
 # Overview
 
-The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics.
-
+The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
 
 
 <http://www.census.gov/quickfacts/table/PST045215/00>
@@ -31,7 +30,7 @@ The following data set is information obtained about counties in the United Stat
 
 # Explore Structure
 
-Each row represents *$MISSING_FIELD*.
+Each row represents *Demographic report for each individual county*.
 
 
 
@@ -90,11 +89,11 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"Autauga County"</code>
+                <code>"Abbeville County"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>County name</td> </tr>
         
         <tr> <td><code>"State"</code></td>
              <td><span data-toggle="tooltip"
@@ -102,11 +101,23 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"AL"</code>
+                <code>"SC"</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>State name</td> </tr>
+        
+        <tr> <td><code>"Population"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-Population'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
         
         <tr> <td><code>"Age"</code></td>
              <td><span data-toggle="tooltip"
@@ -120,25 +131,13 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Education"</code></td>
+        <tr> <td><code>"Miscellaneous"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Education'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"Employment"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Employment'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Miscellaneous'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -168,37 +167,13 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Income"</code></td>
+        <tr> <td><code>"Education"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Income'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"Miscellaneous"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Miscellaneous'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"Population"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Population'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Education'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -211,6 +186,30 @@ $(document).ready(function() {
              <td>
              
                 <a class='dialog-opener' id='btn-explore-Sales'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
+        
+        <tr> <td><code>"Income"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-Income'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
+        
+        <tr> <td><code>"Employment"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-Employment'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -264,20 +263,20 @@ $(document).ready(function() {
     });
         
     
+    $("#btn-explore-Population").click(function() {
+        $( "#explore-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-Age").click(function() {
         $( "#explore-Age" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Education").click(function() {
-        $( "#explore-Education" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Employment").click(function() {
-        $( "#explore-Employment" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous").click(function() {
+        $( "#explore-Miscellaneous" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -294,26 +293,127 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Income").click(function() {
-        $( "#explore-Income" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous").click(function() {
-        $( "#explore-Miscellaneous" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Population").click(function() {
-        $( "#explore-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Education").click(function() {
+        $( "#explore-Education" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
     $("#btn-explore-Sales").click(function() {
         $( "#explore-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Income").click(function() {
+        $( "#explore-Income" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Employment").click(function() {
+        $( "#explore-Employment" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Population' title='Dictionary (4 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"Population Percent Change"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>-13.5</code>
+             
+                
+             </td> 
+             <td>The difference between the population of an area from April 1, 2020 to July 1, 2019</td> </tr>
+        
+        <tr> <td><code>"2020 Population"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>24295</code>
+             
+                
+             </td> 
+             <td>The population of people in a specified geographic area on April 1, 2020</td> </tr>
+        
+        <tr> <td><code>"2010 Population"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>25417</code>
+             
+                
+             </td> 
+             <td>The population of people in a specified geographic area on April 1, 2010</td> </tr>
+        
+        <tr> <td><code>"Population per Square Mile"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>51.8</code>
+             
+                
+             </td> 
+             <td>Population and housing unit density computed by dividing the total population or number of housing units within a geographic entity by the land area of that entity measured in square miles or in square kilometers in 2010</td> </tr>
+        
+    </table>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Population" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Population-Population-Percent-Change").click(function() {
+        $( "#explore-Population-Population-Percent-Change" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Population-2020-Population").click(function() {
+        $( "#explore-Population-2020-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Population-2010-Population").click(function() {
+        $( "#explore-Population-2010-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Population-Population-per-Square-Mile").click(function() {
+        $( "#explore-Population-Population-per-Square-Mile" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -325,17 +425,17 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Percent 65 and Older"</code></td>
+        <tr> <td><code>"Percent Under 5 Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>13.8</code>
+                <code>4.7</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population whose ages are under 5 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico).</td> </tr>
         
         <tr> <td><code>"Percent Under 18 Years"</code></td>
              <td><span data-toggle="tooltip"
@@ -343,23 +443,23 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>25.2</code>
+                <code>19.8</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population whose ages are under 18 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico).</td> </tr>
         
-        <tr> <td><code>"Percent Under 5 Years"</code></td>
+        <tr> <td><code>"Percent 65 and Older"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>6.0</code>
+                <code>22.4</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population whose ages are equal or greater than 65 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico).</td> </tr>
         
     </table>
 </div>
@@ -381,8 +481,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Age-Percent-65-and-Older").click(function() {
-        $( "#explore-Age-Percent-65-and-Older" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Age-Percent-Under-5-Years").click(function() {
+        $( "#explore-Age-Percent-Under-5-Years" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -393,8 +493,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Age-Percent-Under-5-Years").click(function() {
-        $( "#explore-Age-Percent-Under-5-Years" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Age-Percent-65-and-Older").click(function() {
+        $( "#explore-Age-Percent-65-and-Older" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -402,130 +502,105 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Education' title='Dictionary (2 keys)'>
+<div id='explore-Miscellaneous' title='Dictionary (8 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Bachelor's Degree or Higher"</code></td>
+        <tr> <td><code>"Percent Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>20.9</code>
+                <code>51.6</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of female population who are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico).</td> </tr>
         
-        <tr> <td><code>"High School or Higher"</code></td>
+        <tr> <td><code>"Veterans"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1559</code>
+             
+                
+             </td> 
+             <td>Population of men and women who have served (even for a short time), but are not currently serving, on active duty in the U.S. Army, Navy, Air Force, Marine Corps, or the Coast Guard, or who served in the U.S. Merchant Marine during World War II from 2015 to 2019 </td> </tr>
+        
+        <tr> <td><code>"Foreign Born"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>85.6</code>
+                <code>1.8</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population who was not a U.S. citizen or a U.S. national at birth. This includes respondents who indicated they were a U.S. citizen by naturalization or not a U.S. citizen. from 2015 to 2019 </td> </tr>
         
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Education" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Education-Bachelor_s-Degree-or-Higher").click(function() {
-        $( "#explore-Education-Bachelor_s-Degree-or-Higher" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Education-High-School-or-Higher").click(function() {
-        $( "#explore-Education-High-School-or-Higher" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Employment' title='Dictionary (5 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Nonemployer Establishments"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>2947</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Private Non-farm Employment"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>10120</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Private Non-farm Employment Percent Change"</code></td>
+        <tr> <td><code>"Living in Same House +1 Years"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>2.1</code>
+                <code>90.4</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Percentage for the residence in conjunction with location of current residence to determine the extent of residential mobility of the population and the resulting redistribution of the population across the various states, metropolitan areas, and regions of the country from 2015 to 2019</td> </tr>
         
-        <tr> <td><code>"Private Non-farm Establishments"</code></td>
+        <tr> <td><code>"Language Other than English at Home"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>2.8</code>
+             
+                
+             </td> 
+             <td>Percentage for the number of people who knew languages other than English but did not use them at home, who only used them elsewhere, or whose usage was limited to a few expressions or slang were excluded from 2015 to 2019. Tabulations of language spoken at home include only the responses of persons 5 years old and over. </td> </tr>
+        
+        <tr> <td><code>"Manufacturers Shipments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>817</code>
+                <code>598825</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>The manufacturing sector comprises establishments engaged in the mechanical, physical, or chemical transformation of materials, substances, or components into new products. The 2012 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012.</td> </tr>
         
-        <tr> <td><code>"Firms"</code></td>
+        <tr> <td><code>"Mean Travel Time to Work"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
+                       title='Float (decimal number)'>
+                       float</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Employment-Firms'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <code>28.1</code>
              
                 
              </td> 
-             <td></td> </tr>
+             <td>Travel time to work refers to the total number of minutes that it usually took the person to get from home to work each day during the reference week. The elapsed time includes time spent waiting for public transportation, picking up passengers in carpools, and time spent in other activities related to getting to work. Mean travel time to work is obtained by dividing the total number of minutes by the number of workers 16 years old and over who did not work at home. Mean travel time to work is rounded to the nearest tenth of a minute. The data was collected from 2015 to 2019</td> </tr>
+        
+        <tr> <td><code>"Land Area"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>490.48</code>
+             
+                
+             </td> 
+             <td>Land area measurements are originally recorded as whole square meters (to convert square meters to square kilometers, divide by 1,000,000; to convert square kilometers to square miles, divide by 2.58999; to convert square meters to square miles, divide by 2,589,988) in 2010.</td> </tr>
         
     </table>
 </div>
@@ -540,9 +615,15 @@ $(document).ready(function() {
 
     
 
+    
+
+    
+
+    
+
 <script>
 $(document).ready(function() {
-    $( "#explore-Employment" ).dialog({
+    $( "#explore-Miscellaneous" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -551,32 +632,50 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Employment-Nonemployer-Establishments").click(function() {
-        $( "#explore-Employment-Nonemployer-Establishments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous-Percent-Female").click(function() {
+        $( "#explore-Miscellaneous-Percent-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Employment-Private-Non-farm-Employment").click(function() {
-        $( "#explore-Employment-Private-Non-farm-Employment" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous-Veterans").click(function() {
+        $( "#explore-Miscellaneous-Veterans" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Employment-Private-Non-farm-Employment-Percent-Change").click(function() {
-        $( "#explore-Employment-Private-Non-farm-Employment-Percent-Change" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous-Foreign-Born").click(function() {
+        $( "#explore-Miscellaneous-Foreign-Born" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Employment-Private-Non-farm-Establishments").click(function() {
-        $( "#explore-Employment-Private-Non-farm-Establishments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous-Living-in-Same-House-+1-Years").click(function() {
+        $( "#explore-Miscellaneous-Living-in-Same-House-+1-Years" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Employment-Firms").click(function() {
-        $( "#explore-Employment-Firms" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Miscellaneous-Language-Other-than-English-at-Home").click(function() {
+        $( "#explore-Miscellaneous-Language-Other-than-English-at-Home" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Miscellaneous-Manufacturers-Shipments").click(function() {
+        $( "#explore-Miscellaneous-Manufacturers-Shipments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Miscellaneous-Mean-Travel-Time-to-Work").click(function() {
+        $( "#explore-Miscellaneous-Mean-Travel-Time-to-Work" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Miscellaneous-Land-Area").click(function() {
+        $( "#explore-Miscellaneous-Land-Area" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -588,29 +687,17 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"American Indian and Alaska Native Alone"</code></td>
+        <tr> <td><code>"White Alone"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>0.5</code>
+                <code>70.2</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Asian Alone"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.1</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population having origins in any of the original peoples of Europe, the Middle East, or North Africa. It includes people who indicate their race as "White" or report entries such as Irish, German, Italian, Lebanese, Arab, Moroccan, or Caucasian.</td> </tr>
         
         <tr> <td><code>"Black Alone"</code></td>
              <td><span data-toggle="tooltip"
@@ -618,23 +705,35 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>18.7</code>
+                <code>27.6</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population having origins in any of the Black racial groups of Africa. It includes people who indicate their race as "Black or African American," or report entries such as African American, Kenyan, Nigerian, or Haitian.</td> </tr>
         
-        <tr> <td><code>"Hispanic or Latino"</code></td>
+        <tr> <td><code>"American Indian and Alaska Native Alone"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>2.7</code>
+                <code>0.3</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population having origins in any of the original peoples of North and South America (including Central America) and who maintains tribal affiliation or community attachment. This category includes people who indicate their race as "American Indian or Alaska Native" or report entries such as Navajo, Blackfeet, Inupiat, Yup'ik, or Central American Indian groups or South American Indian groups.</td> </tr>
+        
+        <tr> <td><code>"Asian Alone"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>0.4</code>
+             
+                
+             </td> 
+             <td>Estimated percentage of population having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. This includes people who reported detailed Asian responses such as: "Asian Indian," "Chinese," "Filipino," "Korean," "Japanese," "Vietnamese," and "Other Asian" or provide other detailed Asian responses.</td> </tr>
         
         <tr> <td><code>"Native Hawaiian and Other Pacific Islander Alone"</code></td>
              <td><span data-toggle="tooltip"
@@ -642,11 +741,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.1</code>
+                <code>0.0</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population having origins in any of the Black racial groups of Africa. It includes people who indicate their race as "Black or African American," or report entries such as African American, Kenyan, Nigerian, or Haitian.</td> </tr>
         
         <tr> <td><code>"Two or More Races"</code></td>
              <td><span data-toggle="tooltip"
@@ -654,23 +753,23 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1.8</code>
+                <code>1.4</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population choosing to provide two or more races either by checking two or more race response check boxes, by providing multiple responses, or by some combination of check boxes and other responses. For data product purposes, "Two or More Races" refers to combinations of two or more of the following race categories: "White," "Black or African American," American Indian or Alaska Native," "Asian," Native Hawaiian or Other Pacific Islander," or "Some Other Race"</td> </tr>
         
-        <tr> <td><code>"White Alone"</code></td>
+        <tr> <td><code>"Hispanic or Latino"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
              <td>
              
-                <code>77.9</code>
+                <code>1.6</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. This includes people who reported detailed Hispanic or Latino groups</td> </tr>
         
         <tr> <td><code>"White Alone, not Hispanic or Latino"</code></td>
              <td><span data-toggle="tooltip"
@@ -678,11 +777,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>75.6</code>
+                <code>68.9</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated percentage of population having origins in any of the original peoples of Europe, the Middle East, or North Africa. It includes people who indicate their race as "White" or report entries such as Irish, German, Italian, Lebanese, Arab, Moroccan, or Caucasian.</td> </tr>
         
     </table>
 </div>
@@ -714,14 +813,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Ethnicities-American-Indian-and-Alaska-Native-Alone").click(function() {
-        $( "#explore-Ethnicities-American-Indian-and-Alaska-Native-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Ethnicities-Asian-Alone").click(function() {
-        $( "#explore-Ethnicities-Asian-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Ethnicities-White-Alone").click(function() {
+        $( "#explore-Ethnicities-White-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -732,8 +825,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Ethnicities-Hispanic-or-Latino").click(function() {
-        $( "#explore-Ethnicities-Hispanic-or-Latino" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Ethnicities-American-Indian-and-Alaska-Native-Alone").click(function() {
+        $( "#explore-Ethnicities-American-Indian-and-Alaska-Native-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Ethnicities-Asian-Alone").click(function() {
+        $( "#explore-Ethnicities-Asian-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -750,8 +849,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Ethnicities-White-Alone").click(function() {
-        $( "#explore-Ethnicities-White-Alone" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Ethnicities-Hispanic-or-Latino").click(function() {
+        $( "#explore-Ethnicities-Hispanic-or-Latino" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -765,33 +864,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Housing' title='Dictionary (6 keys)'>
+<div id='explore-Housing' title='Dictionary (5 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Homeownership Rate"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>76.8</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Households"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>20071</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
         
         <tr> <td><code>"Housing Units"</code></td>
              <td><span data-toggle="tooltip"
@@ -799,11 +874,23 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>22751</code>
+                <code>12245</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Estimated number of housing units, apartments, mobile homes, groups of rooms, or single rooms that are occupied (or if vacant, is intended for occupancy) as separate living quarters beginning with July 1, 2019</td> </tr>
+        
+        <tr> <td><code>"Homeownership Rate"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>75.0</code>
+             
+                
+             </td> 
+             <td>A housing unit is owner-occupied if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for. The owner or co-owner must live in the unit and usually is Person 1 on the questionnaire. This homeownership rate is computed by dividing the number of owner-occupied housing units by the number of occupied housing units or households from 2015 to 2019.</td> </tr>
         
         <tr> <td><code>"Median Value of Owner-Occupied Units"</code></td>
              <td><span data-toggle="tooltip"
@@ -811,11 +898,23 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>136200</code>
+                <code>90800</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Median value of housing units which are owner-occupied if the owner or co-owner lives in the unit, even if it is mortgaged or not fully paid for from 2015 to 2019. Median value calculations are rounded to the nearest hundred dollars.</td> </tr>
+        
+        <tr> <td><code>"Households"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>9660</code>
+             
+                
+             </td> 
+             <td>Number of households including all the persons who occupy a housing unit as their usual place of residence from 2015 to 2019</td> </tr>
         
         <tr> <td><code>"Persons per Household"</code></td>
              <td><span data-toggle="tooltip"
@@ -823,28 +922,14 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2.71</code>
+                <code>2.46</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Units in Multi-Unit Structures"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>8.3</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Percentage for the number of people per household, or average household size from 2015 to 2019</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -867,20 +952,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Housing-Homeownership-Rate").click(function() {
-        $( "#explore-Housing-Homeownership-Rate" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Housing-Households").click(function() {
-        $( "#explore-Housing-Households" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Housing-Housing-Units").click(function() {
         $( "#explore-Housing-Housing-Units" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Housing-Homeownership-Rate").click(function() {
+        $( "#explore-Housing-Homeownership-Rate" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -891,14 +970,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Housing-Persons-per-Household").click(function() {
-        $( "#explore-Housing-Persons-per-Household" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Housing-Households").click(function() {
+        $( "#explore-Housing-Households" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Housing-Units-in-Multi-Unit-Structures").click(function() {
-        $( "#explore-Housing-Units-in-Multi-Unit-Structures" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Housing-Persons-per-Household").click(function() {
+        $( "#explore-Housing-Persons-per-Household" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -906,7 +985,129 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Income' title='Dictionary (3 keys)'>
+<div id='explore-Education' title='Dictionary (2 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"High School or Higher"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>81.7</code>
+             
+                
+             </td> 
+             <td>Percentage of people whose highest degree was a high school diploma or its equivalent, people who attended college but did not receive a degree, and people who received an associate's, bachelor's, master's, or professional or doctorate degree. These data include only persons 25 years old and over. The percentages are obtained by dividing the counts of graduates by the total number of persons 25 years old and over. Tha data is collected from 2015 to 2019</td> </tr>
+        
+        <tr> <td><code>"Bachelor's Degree or Higher"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>15.6</code>
+             
+                
+             </td> 
+             <td>Percentage for the people who attended college but did not receive a degree, and people who received an associate's, bachelor's, master's, or professional or doctorate degree. These data include only persons 25 years old and over. The percentages are obtained by dividing the counts of graduates by the total number of persons 25 years old and over. Tha data is collected from 2015 to 2019.</td> </tr>
+        
+    </table>
+</div>
+
+    
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Education" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Education-High-School-or-Higher").click(function() {
+        $( "#explore-Education-High-School-or-Higher" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Education-Bachelor_s-Degree-or-Higher").click(function() {
+        $( "#explore-Education-Bachelor_s-Degree-or-Higher" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Sales' title='Dictionary (2 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"Accommodation and Food Services Sales"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>12507</code>
+             
+                
+             </td> 
+             <td>The Accommodation and Food Services Sales sector comprises establishments providing customers with lodging and/or prepared meals, snacks, and beverages for immediate consumption. The 2012 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012. Sales includes payments from customers for services rendered, from the use of facilities and from merchandise sold. If tax-exempt, sales includes dues and assessments from members and affiliates.</td> </tr>
+        
+        <tr> <td><code>"Retail Sales"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>91371</code>
+             
+                
+             </td> 
+             <td>The retail trade sector comprises establishments engaged in retailing merchandise, generally without transformation, and rendering services incidental to the sale of merchandise. The 2007 Economic Census classifies businesses according to the North American Industry Classification System (NAICS), 2012. Sales include merchandise sold for cash or credit at retail and wholesale by establishments primarily engaged in retail trade</td> </tr>
+        
+    </table>
+</div>
+
+    
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Sales" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Sales-Accommodation-and-Food-Services-Sales").click(function() {
+        $( "#explore-Sales-Accommodation-and-Food-Services-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Sales-Retail-Sales").click(function() {
+        $( "#explore-Sales-Retail-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Income' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -916,11 +1117,11 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>53682</code>
+                <code>38741</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Median of income in the Past 12 Months collected from 2015 to 2019 - Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to the householder or not. Because many households consist of only one person, average household income is usually less than average family income.</td> </tr>
         
         <tr> <td><code>"Per Capita Income"</code></td>
              <td><span data-toggle="tooltip"
@@ -928,28 +1129,14 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>24571</code>
+                <code>22646</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Persons Below Poverty Level"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>12.1</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate income of a particular group by the total population in that group. This measure is rounded to the nearest whole dollar. For the complete definition, go to ACS subject definitions "Income in the Past 12 Months, Per Capita Income." The data is collected from 2015 to 2019.</td> </tr>
         
     </table>
 </div>
-
-    
 
     
 
@@ -978,126 +1165,36 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Income-Persons-Below-Poverty-Level").click(function() {
-        $( "#explore-Income-Persons-Below-Poverty-Level" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
 });
 </script>
 
-<div id='explore-Miscellaneous' title='Dictionary (9 keys)'>
+<div id='explore-Employment' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Building Permits"</code></td>
+        <tr> <td><code>"Nonemployer Establishments"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>131</code>
+                <code>1416</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>An establishment is a single physical location at which business is conducted or where services or industrial operations are performed. It is not necessarily identical with a company or enterprise, which may consist of one establishment or more. The data was collected from 2018.</td> </tr>
         
-        <tr> <td><code>"Foreign Born"</code></td>
+        <tr> <td><code>"Firms"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
+                       title='Dictionary'>
+                       dict</span></td> 
              <td>
              
-                <code>1.6</code>
+                <a class='dialog-opener' id='btn-explore-Employment-Firms'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Land Area"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>594.44</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Language Other than English at Home"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>3.5</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Living in Same House +1 Years"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>85.0</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Manufacturers Shipments"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>0</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Mean Travel Time to Work"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>26.2</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Percent Female"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>51.4</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Veterans"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>5922</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td></td> </tr>
         
     </table>
 </div>
@@ -1106,23 +1203,9 @@ $(document).ready(function() {
 
     
 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
 <script>
 $(document).ready(function() {
-    $( "#explore-Miscellaneous" ).dialog({
+    $( "#explore-Employment" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -1131,258 +1214,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Miscellaneous-Building-Permits").click(function() {
-        $( "#explore-Miscellaneous-Building-Permits" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Employment-Nonemployer-Establishments").click(function() {
+        $( "#explore-Employment-Nonemployer-Establishments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Miscellaneous-Foreign-Born").click(function() {
-        $( "#explore-Miscellaneous-Foreign-Born" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Land-Area").click(function() {
-        $( "#explore-Miscellaneous-Land-Area" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Language-Other-than-English-at-Home").click(function() {
-        $( "#explore-Miscellaneous-Language-Other-than-English-at-Home" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Living-in-Same-House-+1-Years").click(function() {
-        $( "#explore-Miscellaneous-Living-in-Same-House-+1-Years" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Manufacturers-Shipments").click(function() {
-        $( "#explore-Miscellaneous-Manufacturers-Shipments" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Mean-Travel-Time-to-Work").click(function() {
-        $( "#explore-Miscellaneous-Mean-Travel-Time-to-Work" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Percent-Female").click(function() {
-        $( "#explore-Miscellaneous-Percent-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Miscellaneous-Veterans").click(function() {
-        $( "#explore-Miscellaneous-Veterans" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Population' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"2010 Population"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>54571</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"2014 Population"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>55395</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Population Percent Change"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.5</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Population per Square Mile"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>91.8</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Population" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Population-2010-Population").click(function() {
-        $( "#explore-Population-2010-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Population-2014-Population").click(function() {
-        $( "#explore-Population-2014-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Population-Population-Percent-Change").click(function() {
-        $( "#explore-Population-Population-Percent-Change" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Population-Population-per-Square-Mile").click(function() {
-        $( "#explore-Population-Population-per-Square-Mile" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Sales' title='Dictionary (4 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Accommodation and Food Services Sales"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>881</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Merchant Wholesaler Sales"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>0</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Retail Sales"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>5981</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Retail Sales per Capita"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>12003</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Sales" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Sales-Accommodation-and-Food-Services-Sales").click(function() {
-        $( "#explore-Sales-Accommodation-and-Food-Services-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Sales-Merchant-Wholesaler-Sales").click(function() {
-        $( "#explore-Sales-Merchant-Wholesaler-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Sales-Retail-Sales").click(function() {
-        $( "#explore-Sales-Retail-Sales" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Sales-Retail-Sales-per-Capita").click(function() {
-        $( "#explore-Sales-Retail-Sales-per-Capita" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Employment-Firms").click(function() {
+        $( "#explore-Employment-Firms" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -1394,89 +1233,89 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"American Indian-Owned"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.0</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Asian-Owned"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>1.3</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Black-Owned"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>15.2</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Hispanic-Owned"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.7</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
-        <tr> <td><code>"Native Hawaiian and Other Pacific Islander-Owned"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.0</code>
-             
-                
-             </td> 
-             <td>$MISSING_FIELD</td> </tr>
-        
         <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
              <td>
              
-                <code>4067</code>
+                <code>1450</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>All nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
+        
+        <tr> <td><code>"Men-Owned"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>689</code>
+             
+                
+             </td> 
+             <td>All men-owned nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
         
         <tr> <td><code>"Women-Owned"</code></td>
              <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
+                       title='Integer (whole number)'>
+                       int</span></td> 
              <td>
              
-                <code>31.7</code>
+                <code>543</code>
              
                 
              </td> 
-             <td>$MISSING_FIELD</td> </tr>
+             <td>All women-owned nonfarm businesses filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
+        
+        <tr> <td><code>"Minority-Owned"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>317</code>
+             
+                
+             </td> 
+             <td>All nonfarm businesses owned by equally minority filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
+        
+        <tr> <td><code>"Nonminority-Owned"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1080</code>
+             
+                
+             </td> 
+             <td>All nonfarm businesses owned by equally nonminority filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
+        
+        <tr> <td><code>"Veteran-Owned"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>187</code>
+             
+                
+             </td> 
+             <td>All nonfarm businesses owned by veteran filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
+        
+        <tr> <td><code>"Nonveteran-Owned"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1211</code>
+             
+                
+             </td> 
+             <td>All nonfarm businesses owned by non-veteran filing Internal Revenue Service tax forms as individual proprietorships, partnerships, or any type of corporation, and with receipts of $1,000 or more. The data was collected in 2012.</td> </tr>
         
     </table>
 </div>
@@ -1506,44 +1345,44 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Employment-Firms-American-Indian-Owned").click(function() {
-        $( "#explore-Employment-Firms-American-Indian-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Employment-Firms-Asian-Owned").click(function() {
-        $( "#explore-Employment-Firms-Asian-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Employment-Firms-Black-Owned").click(function() {
-        $( "#explore-Employment-Firms-Black-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Employment-Firms-Hispanic-Owned").click(function() {
-        $( "#explore-Employment-Firms-Hispanic-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Employment-Firms-Native-Hawaiian-and-Other-Pacific-Islander-Owned").click(function() {
-        $( "#explore-Employment-Firms-Native-Hawaiian-and-Other-Pacific-Islander-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
     $("#btn-explore-Employment-Firms-Total").click(function() {
         $( "#explore-Employment-Firms-Total" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
+    $("#btn-explore-Employment-Firms-Men-Owned").click(function() {
+        $( "#explore-Employment-Firms-Men-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
     $("#btn-explore-Employment-Firms-Women-Owned").click(function() {
         $( "#explore-Employment-Firms-Women-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Employment-Firms-Minority-Owned").click(function() {
+        $( "#explore-Employment-Firms-Minority-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Employment-Firms-Nonminority-Owned").click(function() {
+        $( "#explore-Employment-Firms-Nonminority-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Employment-Firms-Veteran-Owned").click(function() {
+        $( "#explore-Employment-Firms-Veteran-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Employment-Firms-Nonveteran-Owned").click(function() {
+        $( "#explore-Employment-Firms-Nonveteran-Owned" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
