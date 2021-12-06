@@ -170,7 +170,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>14</code>
+                <code>31</code>
              
                 
              </td> 
@@ -194,7 +194,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>2020</code>
+                <code>2019</code>
              
                 
              </td> 
@@ -251,7 +251,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>746</code>
+                <code>0</code>
              
                 
              </td> 
@@ -263,7 +263,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>6</code>
+                <code>0</code>
              
                 
              </td> 
@@ -287,7 +287,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>9.01377925</code>
+                <code>0.0</code>
              
                 
              </td> 
