@@ -46,7 +46,7 @@ Download the following file:
     <td>Date.Day</td>
     <td>Integer</td> 
     <td>The day of the month for this report</td>
-    <td><code>14</code></td>
+    <td><code>31</code></td>
 </tr>
 
 <tr>
@@ -60,21 +60,21 @@ Download the following file:
     <td>Date.Year</td>
     <td>Integer</td> 
     <td>The year of this report</td>
-    <td><code>2020</code></td>
+    <td><code>2019</code></td>
 </tr>
 
 <tr>
     <td>Data.Cases</td>
     <td>Integer</td> 
     <td>Number of new cases reported</td>
-    <td><code>746</code></td>
+    <td><code>0</code></td>
 </tr>
 
 <tr>
     <td>Data.Deaths</td>
     <td>Integer</td> 
     <td>Number of new deaths reported</td>
-    <td><code>6</code></td>
+    <td><code>0</code></td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@ Download the following file:
     <td>Data.Rate</td>
     <td>Float</td> 
     <td>Cumulative number of cases reported for 14 days per 100000 people</td>
-    <td><code>9.01377925</code></td>
+    <td><code>0.0</code></td>
 </tr>
 
 </table>
