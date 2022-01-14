@@ -12,26 +12,29 @@ final_df_selected = final_df_selected.T
 county_list = final_df_selected.index.tolist()
 
 only_county_list = []
-#only_state_list = [] 
+only_state_list = [] 
 
 for county in county_list :
 	only_county_list.append(county.split(',')[0])
-	#only_state_list.append(county.split(',')[1].replace(' ', ''))
+	only_state_list.append(county.split(',')[1].replace(' ', ''))
 
 final_df_selected['county'] = only_county_list
-#final_df_selected['state'] = only_state_list
+final_df_selected['state'] = only_state_list
 
-state_info = pd.read_csv("./raw/state_county.csv")
-del state_info["fips"]
+state_info = pd.read_csv("./raw/states.csv")
 
-final_df_selected_with_state_code = pd.merge(state_info, final_df_selected, right_on = "county", left_on = "name")
+final_df_selected_with_state_code = pd.merge(state_info, final_df_selected, right_on = "state", left_on = "State")
 del final_df_selected_with_state_code["State"]
-final_df_selected_with_state_code = final_df_selected_with_state_code.sort_values(by=['name', 'state'])
-del final_df_selected_with_state_code['county']
+del final_df_selected_with_state_code["state"]
 
 column_list = final_df_selected_with_state_code.columns.tolist()
-column_list.remove('name')
-column_list.remove('state')
+column_list.remove('county')
+column_list.insert(0, 'county')
+final_df_selected_with_state_code = final_df_selected_with_state_code[column_list]
+final_df_selected_with_state_code = final_df_selected_with_state_code.sort_values(by=['county', 'Abbreviation'])
+
+column_list.remove('Abbreviation')
+column_list.remove('county')
 
 for col in column_list :
 	if (is_string_dtype(final_df_selected_with_state_code[col])) :
