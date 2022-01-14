@@ -2,299 +2,233 @@ VISUALIZER_DATA_BARS = [
   {
     "data": {
       "Population.Population Percent Change": {
-        "SC": {
-          "count": 146,
-          "sum": -1179.7,
-          "average": -8.080136986301369,
-          "average w/o zero": 9.28888888888889
-        },
         "LA": {
-          "count": 63,
+          "count": 64,
           "sum": -746.5000000000001,
-          "average": -11.84920634920635,
+          "average": -11.6640625,
           "average w/o zero": 7.4750000000000005
         },
         "VA": {
-          "count": 375,
-          "sum": -2253.2,
-          "average": -6.008533333333333,
-          "average w/o zero": 8.13494623655914
+          "count": 132,
+          "sum": -530.8000000000001,
+          "average": -4.0212121212121215,
+          "average w/o zero": 8.546268656716418
         },
         "ID": {
-          "count": 209,
-          "sum": -1178.6000000000001,
-          "average": -5.639234449760766,
-          "average w/o zero": 7.197391304347826
+          "count": 44,
+          "sum": -10.699999999999983,
+          "average": -0.2431818181818183,
+          "average w/o zero": 8.014285714285714
         },
         "IA": {
-          "count": 640,
-          "sum": -6117.899999999995,
-          "average": -9.55921875,
-          "average w/o zero": 7.111023622047244
+          "count": 98,
+          "sum": -1153.0999999999995,
+          "average": -11.766326530612245,
+          "average w/o zero": 5.2555555555555555
         },
         "KY": {
-          "count": 707,
-          "sum": -7048.999999999995,
-          "average": -9.970297029702971,
-          "average w/o zero": 6.455631399317406
+          "count": 120,
+          "sum": -1373.2000000000003,
+          "average": -11.443333333333333,
+          "average w/o zero": 5.244642857142857
         },
         "MO": {
-          "count": 692,
-          "sum": -6649.899999999994,
-          "average": -9.609682080924856,
-          "average w/o zero": 6.740363636363636
+          "count": 115,
+          "sum": -1042.1,
+          "average": -9.061739130434782,
+          "average w/o zero": 4.4475
         },
         "OK": {
-          "count": 279,
-          "sum": -2214.399999999999,
-          "average": -7.936917562724014,
-          "average w/o zero": 7.045299145299145
+          "count": 77,
+          "sum": -659.6999999999998,
+          "average": -8.567532467532468,
+          "average w/o zero": 5.95625
         },
         "CO": {
-          "count": 252,
-          "sum": -1523.3000000000004,
-          "average": -6.04484126984127,
-          "average w/o zero": 8.27923076923077
+          "count": 64,
+          "sum": 35.89999999999998,
+          "average": 0.5609375000000001,
+          "average w/o zero": 10.26086956521739
         },
         "IL": {
-          "count": 718,
-          "sum": -7271.599999999998,
-          "average": -10.12757660167131,
-          "average w/o zero": 7.431182795698925
+          "count": 102,
+          "sum": -2147.8,
+          "average": -21.05686274509804,
+          "average w/o zero": 3.444444444444444
         },
         "IN": {
-          "count": 675,
-          "sum": -6013.099999999992,
-          "average": -8.908296296296296,
-          "average w/o zero": 6.767636363636363
+          "count": 92,
+          "sum": -506.9999999999999,
+          "average": -5.510869565217392,
+          "average w/o zero": 5.489189189189189
         },
         "MS": {
-          "count": 518,
-          "sum": -6280.499999999996,
-          "average": -12.124517374517374,
-          "average w/o zero": 6.934848484848485
-        },
-        "ND": {
-          "count": 135,
-          "sum": -1135.6000000000004,
-          "average": -8.411851851851852,
-          "average w/o zero": 10.482758620689655
+          "count": 82,
+          "sum": -2175.3999999999996,
+          "average": -26.529268292682925,
+          "average w/o zero": 7.75625
         },
         "NE": {
-          "count": 446,
-          "sum": -4237.300000000002,
-          "average": -9.500672645739911,
-          "average w/o zero": 7.197267759562841
+          "count": 93,
+          "sum": -1357.1,
+          "average": -14.59247311827957,
+          "average w/o zero": 4.629166666666666
         },
         "OH": {
-          "count": 567,
-          "sum": -5248.399999999993,
-          "average": -9.256437389770722,
-          "average w/o zero": 6.805855855855856
+          "count": 88,
+          "sum": -646.6,
+          "average": -7.347727272727273,
+          "average w/o zero": 4.378571428571428
         },
         "PA": {
-          "count": 380,
-          "sum": -4084.000000000001,
-          "average": -10.74736842105263,
-          "average w/o zero": 6.530496453900709
+          "count": 67,
+          "sum": -677.8999999999996,
+          "average": -10.117910447761194,
+          "average w/o zero": 3.1857142857142855
         },
         "WA": {
-          "count": 195,
-          "sum": -704.2,
-          "average": -3.611282051282051,
-          "average w/o zero": 7.63
+          "count": 39,
+          "sum": 331.19999999999993,
+          "average": 8.492307692307692,
+          "average w/o zero": 9.602702702702702
         },
         "WI": {
-          "count": 316,
-          "sum": -2452.8000000000015,
-          "average": -7.762025316455696,
-          "average w/o zero": 6.359859154929578
+          "count": 72,
+          "sum": -296.20000000000005,
+          "average": -4.113888888888889,
+          "average w/o zero": 2.876315789473684
         },
         "VT": {
-          "count": 79,
-          "sum": -475.89999999999986,
-          "average": -6.0240506329113925,
-          "average w/o zero": 7.021621621621621
+          "count": 14,
+          "sum": -111.7,
+          "average": -7.978571428571429,
+          "average w/o zero": 3.8499999999999996
         },
         "MN": {
-          "count": 308,
-          "sum": -2001.8000000000004,
-          "average": -6.499350649350649,
-          "average w/o zero": 7.0194244604316545
+          "count": 87,
+          "sum": -371.4000000000001,
+          "average": -4.268965517241379,
+          "average w/o zero": 5.013636363636364
         },
         "FL": {
-          "count": 360,
-          "sum": -2564.999999999999,
-          "average": -7.125,
-          "average w/o zero": 9.364739884393064
-        },
-        "NC": {
-          "count": 420,
-          "sum": -3279.799999999999,
-          "average": -7.809047619047619,
-          "average w/o zero": 8.466834170854272
+          "count": 66,
+          "sum": 435.0,
+          "average": 6.590909090909091,
+          "average w/o zero": 13.85576923076923
         },
         "CA": {
-          "count": 85,
-          "sum": -474.09999999999985,
-          "average": -5.57764705882353,
-          "average w/o zero": 6.485714285714286
-        },
-        "NY": {
-          "count": 323,
-          "sum": -2889.7000000000003,
-          "average": -8.946439628482972,
-          "average w/o zero": 6.530534351145038
+          "count": 58,
+          "sum": -136.80000000000004,
+          "average": -2.3586206896551727,
+          "average w/o zero": 5.818604651162791
         },
         "WY": {
-          "count": 79,
-          "sum": -229.39999999999992,
-          "average": -2.9037974683544303,
-          "average w/o zero": 7.5475
+          "count": 23,
+          "sum": -123.60000000000001,
+          "average": -5.373913043478261,
+          "average w/o zero": 5.77
         },
         "MI": {
-          "count": 227,
-          "sum": -2246.900000000001,
-          "average": -9.898237885462555,
-          "average w/o zero": 5.792207792207792
+          "count": 83,
+          "sum": -810.2,
+          "average": -9.76144578313253,
+          "average w/o zero": 3.510344827586207
         },
         "AK": {
-          "count": 20,
-          "sum": -195.8,
-          "average": -9.79,
-          "average w/o zero": 5.8999999999999995
+          "count": 23,
+          "sum": -219.3,
+          "average": -9.534782608695652,
+          "average w/o zero": 5.653333333333333
         },
         "MD": {
-          "count": 98,
-          "sum": -849.2000000000002,
-          "average": -8.66530612244898,
-          "average w/o zero": 7.219565217391304
+          "count": 21,
+          "sum": -19.299999999999997,
+          "average": -0.919047619047619,
+          "average w/o zero": 5.4071428571428575
         },
         "KS": {
-          "count": 494,
-          "sum": -5139.999999999996,
-          "average": -10.404858299595142,
-          "average w/o zero": 7.307222222222222
+          "count": 105,
+          "sum": -2431.7,
+          "average": -23.15904761904762,
+          "average w/o zero": 4.3533333333333335
         },
         "TN": {
-          "count": 626,
-          "sum": -4507.299999999997,
-          "average": -7.200159744408945,
-          "average w/o zero": 7.349285714285714
+          "count": 95,
+          "sum": -0.29999999999992966,
+          "average": -0.003157894736842051,
+          "average w/o zero": 7.5777777777777775
         },
         "TX": {
-          "count": 700,
-          "sum": -4675.999999999994,
-          "average": -6.68,
-          "average w/o zero": 9.359940652818992
+          "count": 254,
+          "sum": -541.3000000000002,
+          "average": -2.1311023622047247,
+          "average w/o zero": 11.549333333333333
         },
         "ME": {
-          "count": 121,
-          "sum": -715.7,
-          "average": -5.914876033057851,
-          "average w/o zero": 6.3180327868852455
+          "count": 16,
+          "sum": -65.2,
+          "average": -4.075,
+          "average w/o zero": 1.66
         },
         "AZ": {
-          "count": 19,
-          "sum": 44.3,
-          "average": 2.331578947368421,
-          "average w/o zero": 7.807142857142857
+          "count": 15,
+          "sum": 79.2,
+          "average": 5.28,
+          "average w/o zero": 8.092307692307692
         },
         "GA": {
-          "count": 736,
-          "sum": -7026.299999999999,
-          "average": -9.546603260869565,
-          "average w/o zero": 7.555555555555555
+          "count": 159,
+          "sum": -1427.1999999999996,
+          "average": -8.976100628930817,
+          "average w/o zero": 8.835555555555555
         },
         "AR": {
-          "count": 534,
-          "sum": -6105.799999999997,
-          "average": -11.434082397003746,
-          "average w/o zero": 7.295327102803738
-        },
-        "NJ": {
-          "count": 82,
-          "sum": -505.59999999999985,
-          "average": -6.1658536585365855,
-          "average w/o zero": 7.067647058823529
-        },
-        "SD": {
-          "count": 253,
-          "sum": -2278.799999999999,
-          "average": -9.00711462450593,
-          "average w/o zero": 6.524299065420561
+          "count": 75,
+          "sum": -1871.6999999999994,
+          "average": -24.956,
+          "average w/o zero": 5.457692307692308
         },
         "AL": {
-          "count": 439,
-          "sum": -4635.499999999995,
-          "average": -10.559225512528474,
-          "average w/o zero": 7.083333333333333
+          "count": 67,
+          "sum": -1348.1999999999996,
+          "average": -20.122388059701493,
+          "average w/o zero": 6.172727272727273
         },
         "OR": {
-          "count": 241,
-          "sum": -1318.5000000000005,
-          "average": -5.470954356846473,
-          "average w/o zero": 7.740983606557377
-        },
-        "WV": {
-          "count": 338,
-          "sum": -3817.900000000001,
-          "average": -11.295562130177515,
-          "average w/o zero": 6.136666666666667
+          "count": 36,
+          "sum": 169.99999999999997,
+          "average": 4.722222222222222,
+          "average w/o zero": 7.79
         },
         "MA": {
-          "count": 49,
-          "sum": -130.29999999999998,
-          "average": -2.659183673469388,
-          "average w/o zero": 5.711111111111111
+          "count": 14,
+          "sum": 23.900000000000002,
+          "average": 1.707142857142857,
+          "average w/o zero": 5.609090909090909
         },
         "UT": {
-          "count": 106,
-          "sum": -471.2999999999999,
-          "average": -4.44622641509434,
-          "average w/o zero": 8.775
+          "count": 29,
+          "sum": 153.2,
+          "average": 5.2827586206896555,
+          "average w/o zero": 14.634782608695652
         },
         "MT": {
-          "count": 186,
-          "sum": -1207.9999999999998,
-          "average": -6.494623655913979,
-          "average w/o zero": 7.676136363636363
-        },
-        "NH": {
-          "count": 31,
-          "sum": -158.79999999999998,
-          "average": -5.122580645161291,
-          "average w/o zero": 4.4799999999999995
-        },
-        "NM": {
-          "count": 92,
-          "sum": -884.7000000000002,
-          "average": -9.616304347826087,
-          "average w/o zero": 7.258139534883721
-        },
-        "RI": {
-          "count": 39,
-          "sum": -338.1999999999999,
-          "average": -8.671794871794871,
-          "average w/o zero": 6.95
+          "count": 56,
+          "sum": -212.9,
+          "average": -3.8017857142857143,
+          "average w/o zero": 6.622580645161291
         },
         "NV": {
-          "count": 70,
-          "sum": -316.8,
-          "average": -4.525714285714286,
-          "average w/o zero": 7.165
-        },
-        "DC": {
-          "count": 1,
-          "sum": 17.3,
-          "average": 17.3,
-          "average w/o zero": 17.3
+          "count": 17,
+          "sum": 8.400000000000004,
+          "average": 0.4941176470588235,
+          "average w/o zero": 6.325
         },
         "CT": {
-          "count": 14,
-          "sum": -109.39999999999998,
-          "average": -7.814285714285714,
-          "average w/o zero": 4.95
+          "count": 8,
+          "sum": -81.1,
+          "average": -10.137500000000001,
+          "average w/o zero": 2.9
         },
         "HI": {
           "count": 5,
@@ -303,306 +237,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 6.725
         },
         "DE": {
-          "count": 9,
-          "sum": -30.799999999999997,
-          "average": -3.422222222222222,
-          "average w/o zero": 10.75
+          "count": 3,
+          "sum": 34.0,
+          "average": 11.333333333333334,
+          "average w/o zero": 11.333333333333334
         }
       },
       "Population.2020 Population": {
-        "SC": {
-          "count": 146,
-          "sum": 15162730,
-          "average": 103854.31506849315,
-          "average w/o zero": 103854.31506849315
-        },
         "LA": {
-          "count": 63,
-          "sum": 4642966,
-          "average": 73697.87301587302,
-          "average w/o zero": 73697.87301587302
+          "count": 64,
+          "sum": 4657757,
+          "average": 72777.453125,
+          "average w/o zero": 72777.453125
         },
         "VA": {
-          "count": 375,
-          "sum": 42266382,
-          "average": 112710.352,
-          "average w/o zero": 112710.352
+          "count": 132,
+          "sum": 8627706,
+          "average": 65361.40909090909,
+          "average w/o zero": 65361.40909090909
         },
         "ID": {
-          "count": 209,
-          "sum": 17011573,
-          "average": 81395.08612440192,
-          "average w/o zero": 81395.08612440192
+          "count": 44,
+          "sum": 1839106,
+          "average": 41797.86363636364,
+          "average w/o zero": 41797.86363636364
         },
         "IA": {
-          "count": 640,
-          "sum": 51603956,
-          "average": 80631.18125,
-          "average w/o zero": 80631.18125
+          "count": 98,
+          "sum": 3176187,
+          "average": 32410.071428571428,
+          "average w/o zero": 32410.071428571428
         },
         "KY": {
-          "count": 707,
-          "sum": 50349550,
-          "average": 71215.77086280056,
-          "average w/o zero": 71215.77086280056
+          "count": 120,
+          "sum": 4505836,
+          "average": 37548.63333333333,
+          "average w/o zero": 37548.63333333333
         },
         "MO": {
-          "count": 692,
-          "sum": 55086042,
-          "average": 79604.10693641618,
-          "average w/o zero": 79604.10693641618
+          "count": 115,
+          "sum": 6154913,
+          "average": 53520.98260869565,
+          "average w/o zero": 53520.98260869565
         },
         "OK": {
-          "count": 279,
-          "sum": 16694153,
-          "average": 59835.673835125446,
-          "average w/o zero": 59835.673835125446
+          "count": 77,
+          "sum": 3959353,
+          "average": 51420.168831168834,
+          "average w/o zero": 51420.168831168834
         },
         "CO": {
-          "count": 252,
-          "sum": 20387918,
-          "average": 80904.43650793651,
-          "average w/o zero": 80904.43650793651
+          "count": 64,
+          "sum": 5773714,
+          "average": 90214.28125,
+          "average w/o zero": 90214.28125
         },
         "IL": {
-          "count": 718,
-          "sum": 66671705,
-          "average": 92857.52785515321,
-          "average w/o zero": 92857.52785515321
+          "count": 102,
+          "sum": 12812508,
+          "average": 125612.82352941176,
+          "average w/o zero": 125612.82352941176
         },
         "IN": {
-          "count": 675,
-          "sum": 59447414,
-          "average": 88070.24296296296,
-          "average w/o zero": 88070.24296296296
+          "count": 92,
+          "sum": 6785528,
+          "average": 73755.73913043478,
+          "average w/o zero": 73755.73913043478
         },
         "MS": {
-          "count": 518,
-          "sum": 35642100,
-          "average": 68807.14285714286,
-          "average w/o zero": 68807.14285714286
-        },
-        "ND": {
-          "count": 135,
-          "sum": 6586360,
-          "average": 48787.851851851854,
-          "average w/o zero": 48787.851851851854
+          "count": 82,
+          "sum": 2961279,
+          "average": 36113.15853658537,
+          "average w/o zero": 36113.15853658537
         },
         "NE": {
-          "count": 446,
-          "sum": 30518332,
-          "average": 68426.7533632287,
-          "average w/o zero": 68426.7533632287
+          "count": 93,
+          "sum": 1961504,
+          "average": 21091.440860215054,
+          "average w/o zero": 21091.440860215054
         },
         "OH": {
-          "count": 567,
-          "sum": 54582726,
-          "average": 96265.83068783069,
-          "average w/o zero": 96265.83068783069
+          "count": 88,
+          "sum": 11799448,
+          "average": 134084.63636363635,
+          "average w/o zero": 134084.63636363635
         },
         "PA": {
-          "count": 380,
-          "sum": 40868433,
-          "average": 107548.50789473685,
-          "average w/o zero": 107548.50789473685
+          "count": 67,
+          "sum": 13002700,
+          "average": 194070.14925373133,
+          "average w/o zero": 194070.14925373133
         },
         "WA": {
-          "count": 195,
-          "sum": 20471364,
-          "average": 104981.35384615384,
-          "average w/o zero": 104981.35384615384
+          "count": 39,
+          "sum": 7705281,
+          "average": 197571.3076923077,
+          "average w/o zero": 197571.3076923077
         },
         "WI": {
-          "count": 316,
-          "sum": 27114778,
-          "average": 85806.25949367089,
-          "average w/o zero": 85806.25949367089
+          "count": 72,
+          "sum": 5893718,
+          "average": 81857.19444444444,
+          "average w/o zero": 81857.19444444444
         },
         "VT": {
-          "count": 79,
-          "sum": 12703076,
-          "average": 160798.43037974683,
-          "average w/o zero": 160798.43037974683
+          "count": 14,
+          "sum": 643077,
+          "average": 45934.07142857143,
+          "average w/o zero": 45934.07142857143
         },
         "MN": {
-          "count": 308,
-          "sum": 26470123,
-          "average": 85941.95779220779,
-          "average w/o zero": 85941.95779220779
+          "count": 87,
+          "sum": 5706494,
+          "average": 65591.88505747127,
+          "average w/o zero": 65591.88505747127
         },
         "FL": {
-          "count": 360,
-          "sum": 47771820,
-          "average": 132699.5,
-          "average w/o zero": 132699.5
-        },
-        "NC": {
-          "count": 420,
-          "sum": 43229961,
-          "average": 102928.47857142857,
-          "average w/o zero": 102928.47857142857
+          "count": 66,
+          "sum": 18836420,
+          "average": 285400.30303030304,
+          "average w/o zero": 285400.30303030304
         },
         "CA": {
-          "count": 85,
-          "sum": 46462669,
-          "average": 546619.6352941176,
-          "average w/o zero": 546619.6352941176
-        },
-        "NY": {
-          "count": 323,
-          "sum": 52596119,
-          "average": 162836.28173374612,
-          "average w/o zero": 162836.28173374612
+          "count": 58,
+          "sum": 39538223,
+          "average": 681693.5,
+          "average w/o zero": 681693.5
         },
         "WY": {
-          "count": 79,
-          "sum": 3345986,
-          "average": 42354.25316455696,
-          "average w/o zero": 42354.25316455696
+          "count": 23,
+          "sum": 576851,
+          "average": 25080.478260869564,
+          "average w/o zero": 25080.478260869564
         },
         "MI": {
-          "count": 227,
-          "sum": 19551120,
-          "average": 86128.28193832599,
-          "average w/o zero": 86128.28193832599
+          "count": 83,
+          "sum": 10077331,
+          "average": 121413.6265060241,
+          "average w/o zero": 121413.6265060241
         },
         "AK": {
-          "count": 20,
-          "sum": 262802,
-          "average": 13140.1,
-          "average w/o zero": 13140.1
+          "count": 23,
+          "sum": 594762,
+          "average": 25859.217391304348,
+          "average w/o zero": 25859.217391304348
         },
         "MD": {
-          "count": 98,
-          "sum": 13579040,
-          "average": 138561.6326530612,
-          "average w/o zero": 138561.6326530612
+          "count": 21,
+          "sum": 5046372,
+          "average": 240303.42857142858,
+          "average w/o zero": 240303.42857142858
         },
         "KS": {
-          "count": 494,
-          "sum": 35818942,
-          "average": 72507.97975708502,
-          "average w/o zero": 72507.97975708502
+          "count": 105,
+          "sum": 2937880,
+          "average": 27979.809523809523,
+          "average w/o zero": 27979.809523809523
         },
         "TN": {
-          "count": 626,
-          "sum": 50218266,
-          "average": 80220.87220447285,
-          "average w/o zero": 80220.87220447285
+          "count": 95,
+          "sum": 6910840,
+          "average": 72745.68421052632,
+          "average w/o zero": 72745.68421052632
         },
         "TX": {
-          "count": 700,
-          "sum": 74030812,
-          "average": 105758.30285714286,
-          "average w/o zero": 105758.30285714286
+          "count": 254,
+          "sum": 29145505,
+          "average": 114746.08267716535,
+          "average w/o zero": 114746.08267716535
         },
         "ME": {
-          "count": 121,
-          "sum": 9932549,
-          "average": 82087.18181818182,
-          "average w/o zero": 82087.18181818182
+          "count": 16,
+          "sum": 1362359,
+          "average": 85147.4375,
+          "average w/o zero": 85147.4375
         },
         "AZ": {
-          "count": 19,
-          "sum": 7442796,
-          "average": 391726.1052631579,
-          "average w/o zero": 391726.1052631579
+          "count": 15,
+          "sum": 7151502,
+          "average": 476766.8,
+          "average w/o zero": 476766.8
         },
         "GA": {
-          "count": 736,
-          "sum": 63947520,
-          "average": 86885.21739130435,
-          "average w/o zero": 86885.21739130435
+          "count": 159,
+          "sum": 10711908,
+          "average": 67370.49056603774,
+          "average w/o zero": 67370.49056603774
         },
         "AR": {
-          "count": 534,
-          "sum": 42827237,
-          "average": 80200.81835205993,
-          "average w/o zero": 80200.81835205993
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 15108757,
-          "average": 184253.13414634147,
-          "average w/o zero": 184253.13414634147
-        },
-        "SD": {
-          "count": 253,
-          "sum": 14286026,
-          "average": 56466.50592885375,
-          "average w/o zero": 56466.50592885375
+          "count": 75,
+          "sum": 3011524,
+          "average": 40153.653333333335,
+          "average w/o zero": 40153.653333333335
         },
         "AL": {
-          "count": 439,
-          "sum": 37344287,
-          "average": 85066.71298405467,
-          "average w/o zero": 85066.71298405467
+          "count": 67,
+          "sum": 5024279,
+          "average": 74989.23880597015,
+          "average w/o zero": 74989.23880597015
         },
         "OR": {
-          "count": 241,
-          "sum": 21220767,
-          "average": 88052.97510373444,
-          "average w/o zero": 88052.97510373444
-        },
-        "WV": {
-          "count": 338,
-          "sum": 20329906,
-          "average": 60147.65088757397,
-          "average w/o zero": 60147.65088757397
+          "count": 36,
+          "sum": 4237256,
+          "average": 117701.55555555556,
+          "average w/o zero": 117701.55555555556
         },
         "MA": {
-          "count": 49,
-          "sum": 12905839,
-          "average": 263384.4693877551,
-          "average w/o zero": 263384.4693877551
+          "count": 14,
+          "sum": 7029917,
+          "average": 502136.9285714286,
+          "average w/o zero": 502136.9285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 10317742,
-          "average": 97337.18867924529,
-          "average w/o zero": 97337.18867924529
+          "count": 29,
+          "sum": 3271616,
+          "average": 112814.3448275862,
+          "average w/o zero": 112814.3448275862
         },
         "MT": {
-          "count": 186,
-          "sum": 9905270,
-          "average": 53254.13978494624,
-          "average w/o zero": 53254.13978494624
-        },
-        "NH": {
-          "count": 31,
-          "sum": 3837202,
-          "average": 123780.70967741935,
-          "average w/o zero": 123780.70967741935
-        },
-        "NM": {
-          "count": 92,
-          "sum": 5034447,
-          "average": 54722.25,
-          "average w/o zero": 54722.25
-        },
-        "RI": {
-          "count": 39,
-          "sum": 5076811,
-          "average": 130174.64102564103,
-          "average w/o zero": 130174.64102564103
+          "count": 56,
+          "sum": 1084225,
+          "average": 19361.160714285714,
+          "average w/o zero": 19361.160714285714
         },
         "NV": {
-          "count": 70,
-          "sum": 6339487,
-          "average": 90564.1,
-          "average w/o zero": 90564.1
-        },
-        "DC": {
-          "count": 1,
-          "sum": 689545,
-          "average": 689545,
-          "average w/o zero": 689545
+          "count": 17,
+          "sum": 3104614,
+          "average": 182624.35294117648,
+          "average w/o zero": 182624.35294117648
         },
         "CT": {
-          "count": 14,
-          "sum": 6337507,
-          "average": 452679.0714285714,
-          "average w/o zero": 452679.0714285714
+          "count": 8,
+          "sum": 3605944,
+          "average": 450743,
+          "average w/o zero": 450743
         },
         "HI": {
           "count": 5,
@@ -611,306 +479,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 291054.2
         },
         "DE": {
-          "count": 9,
-          "sum": 1993286,
-          "average": 221476.22222222222,
-          "average w/o zero": 221476.22222222222
+          "count": 3,
+          "sum": 989948,
+          "average": 329982.6666666667,
+          "average w/o zero": 329982.6666666667
         }
       },
       "Population.2010 Population": {
-        "SC": {
-          "count": 146,
-          "sum": 13912420,
-          "average": 95290.54794520549,
-          "average w/o zero": 95290.54794520549
-        },
         "LA": {
-          "count": 63,
-          "sum": 4518482,
-          "average": 71721.93650793651,
-          "average w/o zero": 71721.93650793651
+          "count": 64,
+          "sum": 4533372,
+          "average": 70833.9375,
+          "average w/o zero": 70833.9375
         },
         "VA": {
-          "count": 375,
-          "sum": 38952282,
-          "average": 103872.752,
-          "average w/o zero": 103872.752
+          "count": 132,
+          "sum": 7990844,
+          "average": 60536.69696969697,
+          "average w/o zero": 60536.69696969697
         },
         "ID": {
-          "count": 209,
-          "sum": 15644025,
-          "average": 74851.79425837321,
-          "average w/o zero": 74851.79425837321
+          "count": 44,
+          "sum": 1567582,
+          "average": 35626.86363636364,
+          "average w/o zero": 35626.86363636364
         },
         "IA": {
-          "count": 640,
-          "sum": 48427048,
-          "average": 75667.2625,
-          "average w/o zero": 75667.2625
+          "count": 98,
+          "sum": 3031957,
+          "average": 30938.336734693876,
+          "average w/o zero": 30938.336734693876
         },
         "KY": {
-          "count": 707,
-          "sum": 47496953,
-          "average": 67180.9801980198,
-          "average w/o zero": 67180.9801980198
+          "count": 120,
+          "sum": 4339367,
+          "average": 36161.39166666667,
+          "average w/o zero": 36161.39166666667
         },
         "MO": {
-          "count": 692,
-          "sum": 51959379,
-          "average": 75085.80780346821,
-          "average w/o zero": 75085.80780346821
+          "count": 115,
+          "sum": 5988927,
+          "average": 52077.62608695652,
+          "average w/o zero": 52077.62608695652
         },
         "OK": {
-          "count": 279,
-          "sum": 15779573,
-          "average": 56557.609318996416,
-          "average w/o zero": 56557.609318996416
+          "count": 77,
+          "sum": 3751351,
+          "average": 48718.844155844155,
+          "average w/o zero": 48718.844155844155
         },
         "CO": {
-          "count": 252,
-          "sum": 18958146,
-          "average": 75230.73809523809,
-          "average w/o zero": 75230.73809523809
+          "count": 64,
+          "sum": 5029196,
+          "average": 78581.1875,
+          "average w/o zero": 78581.1875
         },
         "IL": {
-          "count": 718,
-          "sum": 63116530,
-          "average": 87906.03064066853,
-          "average w/o zero": 87906.03064066853
+          "count": 102,
+          "sum": 12830632,
+          "average": 125790.50980392157,
+          "average w/o zero": 125790.50980392157
         },
         "IN": {
-          "count": 675,
-          "sum": 55880267,
-          "average": 82785.58074074074,
-          "average w/o zero": 82785.58074074074
+          "count": 92,
+          "sum": 6483802,
+          "average": 70476.10869565218,
+          "average w/o zero": 70476.10869565218
         },
         "MS": {
-          "count": 518,
-          "sum": 33811569,
-          "average": 65273.29922779923,
-          "average w/o zero": 65273.29922779923
-        },
-        "ND": {
-          "count": 135,
-          "sum": 6168452,
-          "average": 45692.23703703703,
-          "average w/o zero": 45692.23703703703
+          "count": 82,
+          "sum": 2967297,
+          "average": 36186.54878048781,
+          "average w/o zero": 36186.54878048781
         },
         "NE": {
-          "count": 446,
-          "sum": 28425101,
-          "average": 63733.410313901346,
-          "average w/o zero": 63733.410313901346
+          "count": 93,
+          "sum": 1826341,
+          "average": 19638.075268817203,
+          "average w/o zero": 19638.075268817203
         },
         "OH": {
-          "count": 567,
-          "sum": 51957889,
-          "average": 91636.4885361552,
-          "average w/o zero": 91636.4885361552
+          "count": 88,
+          "sum": 11536504,
+          "average": 131096.63636363635,
+          "average w/o zero": 131096.63636363635
         },
         "PA": {
-          "count": 380,
-          "sum": 39057103,
-          "average": 102781.85,
-          "average w/o zero": 102781.85
+          "count": 67,
+          "sum": 12702379,
+          "average": 189587.74626865672,
+          "average w/o zero": 189587.74626865672
         },
         "WA": {
-          "count": 195,
-          "sum": 18501702,
-          "average": 94880.52307692308,
-          "average w/o zero": 94880.52307692308
+          "count": 39,
+          "sum": 6724540,
+          "average": 172424.10256410256,
+          "average w/o zero": 172424.10256410256
         },
         "WI": {
-          "count": 316,
-          "sum": 25416825,
-          "average": 80432.99050632911,
-          "average w/o zero": 80432.99050632911
+          "count": 72,
+          "sum": 5686986,
+          "average": 78985.91666666667,
+          "average w/o zero": 78985.91666666667
         },
         "VT": {
-          "count": 79,
-          "sum": 11647927,
-          "average": 147442.11392405065,
-          "average w/o zero": 147442.11392405065
+          "count": 14,
+          "sum": 625741,
+          "average": 44695.78571428572,
+          "average w/o zero": 44695.78571428572
         },
         "MN": {
-          "count": 308,
-          "sum": 24934708,
-          "average": 80956.84415584416,
-          "average w/o zero": 80956.84415584416
+          "count": 87,
+          "sum": 5303925,
+          "average": 60964.65517241379,
+          "average w/o zero": 60964.65517241379
         },
         "FL": {
-          "count": 360,
-          "sum": 43708083,
-          "average": 121411.34166666666,
-          "average w/o zero": 121411.34166666666
-        },
-        "NC": {
-          "count": 420,
-          "sum": 39837080,
-          "average": 94850.19047619047,
-          "average w/o zero": 94850.19047619047
+          "count": 66,
+          "sum": 16304875,
+          "average": 247043.5606060606,
+          "average w/o zero": 247043.5606060606
         },
         "CA": {
-          "count": 85,
-          "sum": 43509602,
-          "average": 511877.6705882353,
-          "average w/o zero": 511877.6705882353
-        },
-        "NY": {
-          "count": 323,
-          "sum": 49705825,
-          "average": 153888.00309597523,
-          "average w/o zero": 153888.00309597523
+          "count": 58,
+          "sum": 37253956,
+          "average": 642309.5862068966,
+          "average w/o zero": 642309.5862068966
         },
         "WY": {
-          "count": 79,
-          "sum": 3116994,
-          "average": 39455.620253164554,
-          "average w/o zero": 39455.620253164554
+          "count": 23,
+          "sum": 563626,
+          "average": 24505.478260869564,
+          "average w/o zero": 24505.478260869564
         },
         "MI": {
-          "count": 227,
-          "sum": 18987139,
-          "average": 83643.78414096916,
-          "average w/o zero": 83643.78414096916
+          "count": 83,
+          "sum": 9883640,
+          "average": 119080,
+          "average w/o zero": 119080
         },
         "AK": {
-          "count": 20,
-          "sum": 258862,
-          "average": 12943.1,
-          "average w/o zero": 12943.1
+          "count": 23,
+          "sum": 590844,
+          "average": 25688.869565217392,
+          "average w/o zero": 25688.869565217392
         },
         "MD": {
-          "count": 98,
-          "sum": 12631950,
-          "average": 128897.44897959183,
-          "average w/o zero": 128897.44897959183
+          "count": 21,
+          "sum": 4757183,
+          "average": 226532.52380952382,
+          "average w/o zero": 226532.52380952382
         },
         "KS": {
-          "count": 494,
-          "sum": 33322672,
-          "average": 67454.8016194332,
-          "average w/o zero": 67454.8016194332
+          "count": 105,
+          "sum": 2853118,
+          "average": 27172.55238095238,
+          "average w/o zero": 27172.55238095238
         },
         "TN": {
-          "count": 626,
-          "sum": 47104478,
-          "average": 75246.76996805111,
-          "average w/o zero": 75246.76996805111
+          "count": 95,
+          "sum": 6346105,
+          "average": 66801.1052631579,
+          "average w/o zero": 66801.1052631579
         },
         "TX": {
-          "count": 700,
-          "sum": 66607361,
-          "average": 95153.37285714285,
-          "average w/o zero": 95153.37285714285
+          "count": 254,
+          "sum": 25145561,
+          "average": 98998.27165354331,
+          "average w/o zero": 98998.27165354331
         },
         "ME": {
-          "count": 121,
-          "sum": 9280280,
-          "average": 76696.52892561983,
-          "average w/o zero": 76696.52892561983
+          "count": 16,
+          "sum": 1328361,
+          "average": 83022.5625,
+          "average w/o zero": 83022.5625
         },
         "AZ": {
-          "count": 19,
-          "sum": 6675900,
-          "average": 351363.15789473685,
-          "average w/o zero": 351363.15789473685
+          "count": 15,
+          "sum": 6392017,
+          "average": 426134.4666666667,
+          "average w/o zero": 426134.4666666667
         },
         "GA": {
-          "count": 736,
-          "sum": 59748352,
-          "average": 81179.82608695653,
-          "average w/o zero": 81179.82608695653
+          "count": 159,
+          "sum": 9687653,
+          "average": 60928.63522012578,
+          "average w/o zero": 60928.63522012578
         },
         "AR": {
-          "count": 534,
-          "sum": 39785215,
-          "average": 74504.14794007491,
-          "average w/o zero": 74504.14794007491
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 14229479,
-          "average": 173530.23170731709,
-          "average w/o zero": 173530.23170731709
-        },
-        "SD": {
-          "count": 253,
-          "sum": 13300963,
-          "average": 52572.976284584984,
-          "average w/o zero": 52572.976284584984
+          "count": 75,
+          "sum": 2915918,
+          "average": 38878.90666666667,
+          "average w/o zero": 38878.90666666667
         },
         "AL": {
-          "count": 439,
-          "sum": 35181135,
-          "average": 80139.25968109339,
-          "average w/o zero": 80139.25968109339
+          "count": 67,
+          "sum": 4779736,
+          "average": 71339.34328358209,
+          "average w/o zero": 71339.34328358209
         },
         "OR": {
-          "count": 241,
-          "sum": 19685043,
-          "average": 81680.67634854771,
-          "average w/o zero": 81680.67634854771
-        },
-        "WV": {
-          "count": 338,
-          "sum": 19763699,
-          "average": 58472.48224852071,
-          "average w/o zero": 58472.48224852071
+          "count": 36,
+          "sum": 3831074,
+          "average": 106418.72222222222,
+          "average w/o zero": 106418.72222222222
         },
         "MA": {
-          "count": 49,
-          "sum": 12065978,
-          "average": 246244.44897959183,
-          "average w/o zero": 246244.44897959183
+          "count": 14,
+          "sum": 6547629,
+          "average": 467687.78571428574,
+          "average w/o zero": 467687.78571428574
         },
         "UT": {
-          "count": 106,
-          "sum": 9689558,
-          "average": 91410.92452830188,
-          "average w/o zero": 91410.92452830188
+          "count": 29,
+          "sum": 2763885,
+          "average": 95306.37931034483,
+          "average w/o zero": 95306.37931034483
         },
         "MT": {
-          "count": 186,
-          "sum": 9406980,
-          "average": 50575.16129032258,
-          "average w/o zero": 50575.16129032258
-        },
-        "NH": {
-          "count": 31,
-          "sum": 3527251,
-          "average": 113782.29032258065,
-          "average w/o zero": 113782.29032258065
-        },
-        "NM": {
-          "count": 92,
-          "sum": 4723715,
-          "average": 51344.72826086957,
-          "average w/o zero": 51344.72826086957
-        },
-        "RI": {
-          "count": 39,
-          "sum": 4733553,
-          "average": 121373.15384615384,
-          "average w/o zero": 121373.15384615384
+          "count": 56,
+          "sum": 989415,
+          "average": 17668.125,
+          "average w/o zero": 17668.125
         },
         "NV": {
-          "count": 70,
-          "sum": 5644850,
-          "average": 80640.71428571429,
-          "average w/o zero": 80640.71428571429
-        },
-        "DC": {
-          "count": 1,
-          "sum": 601723,
-          "average": 601723,
-          "average w/o zero": 601723
+          "count": 17,
+          "sum": 2700551,
+          "average": 158855.9411764706,
+          "average w/o zero": 158855.9411764706
         },
         "CT": {
-          "count": 14,
-          "sum": 6112624,
-          "average": 436616,
-          "average w/o zero": 436616
+          "count": 8,
+          "sum": 3574097,
+          "average": 446762.125,
+          "average w/o zero": 446762.125
         },
         "HI": {
           "count": 5,
@@ -919,306 +721,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 272060.2
         },
         "DE": {
-          "count": 9,
-          "sum": 1849071,
-          "average": 205452.33333333334,
-          "average w/o zero": 205452.33333333334
+          "count": 3,
+          "sum": 897934,
+          "average": 299311.3333333333,
+          "average w/o zero": 299311.3333333333
         }
       },
       "Age.Percent Under 5 Years": {
-        "SC": {
-          "count": 146,
-          "sum": 803.5000000000002,
-          "average": 5.5034246575342465,
-          "average w/o zero": 5.5034246575342465
-        },
         "LA": {
-          "count": 63,
-          "sum": 396.8999999999999,
-          "average": 6.3,
-          "average w/o zero": 6.3
+          "count": 64,
+          "sum": 402.8999999999999,
+          "average": 6.2953125,
+          "average w/o zero": 6.2953125
         },
         "VA": {
-          "count": 375,
-          "sum": 2073.4999999999995,
-          "average": 5.529333333333334,
-          "average w/o zero": 5.529333333333334
+          "count": 132,
+          "sum": 691.4000000000002,
+          "average": 5.237878787878788,
+          "average w/o zero": 5.237878787878788
         },
         "ID": {
-          "count": 209,
-          "sum": 1214.8,
-          "average": 5.81244019138756,
-          "average w/o zero": 5.81244019138756
+          "count": 44,
+          "sum": 272.8,
+          "average": 6.2,
+          "average w/o zero": 6.2
         },
         "IA": {
-          "count": 640,
-          "sum": 3670.1999999999994,
-          "average": 5.7346875,
-          "average w/o zero": 5.7346875
+          "count": 98,
+          "sum": 584.6999999999999,
+          "average": 5.966326530612245,
+          "average w/o zero": 5.966326530612245
         },
         "KY": {
-          "count": 707,
-          "sum": 4061.2999999999943,
-          "average": 5.7444130127298445,
-          "average w/o zero": 5.7444130127298445
+          "count": 120,
+          "sum": 713.2,
+          "average": 5.943333333333333,
+          "average w/o zero": 5.943333333333333
         },
         "MO": {
-          "count": 692,
-          "sum": 3981.3999999999955,
-          "average": 5.753468208092485,
-          "average w/o zero": 5.753468208092485
+          "count": 115,
+          "sum": 681.8000000000002,
+          "average": 5.928695652173913,
+          "average w/o zero": 5.928695652173913
         },
         "OK": {
-          "count": 279,
-          "sum": 1644.9000000000003,
-          "average": 5.895698924731183,
-          "average w/o zero": 5.895698924731183
+          "count": 77,
+          "sum": 473.6999999999999,
+          "average": 6.151948051948052,
+          "average w/o zero": 6.151948051948052
         },
         "CO": {
-          "count": 252,
-          "sum": 1406.7999999999997,
-          "average": 5.582539682539682,
-          "average w/o zero": 5.582539682539682
+          "count": 64,
+          "sum": 324.5,
+          "average": 5.0703125,
+          "average w/o zero": 5.0703125
         },
         "IL": {
-          "count": 718,
-          "sum": 4087.9999999999973,
-          "average": 5.693593314763231,
-          "average w/o zero": 5.693593314763231
+          "count": 102,
+          "sum": 567.5999999999998,
+          "average": 5.564705882352941,
+          "average w/o zero": 5.564705882352941
         },
         "IN": {
-          "count": 675,
-          "sum": 3876.799999999997,
-          "average": 5.743407407407408,
-          "average w/o zero": 5.743407407407408
+          "count": 92,
+          "sum": 546.4,
+          "average": 5.939130434782609,
+          "average w/o zero": 5.939130434782609
         },
         "MS": {
-          "count": 518,
-          "sum": 2966.6999999999994,
-          "average": 5.727220077220077,
-          "average w/o zero": 5.727220077220077
-        },
-        "ND": {
-          "count": 135,
-          "sum": 837.4000000000005,
-          "average": 6.202962962962963,
-          "average w/o zero": 6.202962962962963
+          "count": 82,
+          "sum": 497.49999999999994,
+          "average": 6.067073170731708,
+          "average w/o zero": 6.067073170731708
         },
         "NE": {
-          "count": 446,
-          "sum": 2605.999999999999,
-          "average": 5.84304932735426,
-          "average w/o zero": 5.84304932735426
+          "count": 93,
+          "sum": 565.9999999999999,
+          "average": 6.086021505376344,
+          "average w/o zero": 6.086021505376344
         },
         "OH": {
-          "count": 567,
-          "sum": 3226.199999999997,
-          "average": 5.68994708994709,
-          "average w/o zero": 5.68994708994709
+          "count": 88,
+          "sum": 507.3000000000003,
+          "average": 5.764772727272727,
+          "average w/o zero": 5.764772727272727
         },
         "PA": {
-          "count": 380,
-          "sum": 2106.599999999999,
-          "average": 5.543684210526316,
-          "average w/o zero": 5.543684210526316
+          "count": 67,
+          "sum": 339.3,
+          "average": 5.064179104477612,
+          "average w/o zero": 5.064179104477612
         },
         "WA": {
-          "count": 195,
-          "sum": 1123.3999999999999,
-          "average": 5.761025641025641,
-          "average w/o zero": 5.761025641025641
+          "count": 39,
+          "sum": 218.10000000000005,
+          "average": 5.592307692307692,
+          "average w/o zero": 5.592307692307692
         },
         "WI": {
-          "count": 316,
-          "sum": 1791.7,
-          "average": 5.669936708860759,
-          "average w/o zero": 5.669936708860759
+          "count": 72,
+          "sum": 383.89999999999986,
+          "average": 5.331944444444445,
+          "average w/o zero": 5.331944444444445
         },
         "VT": {
-          "count": 79,
-          "sum": 432.30000000000007,
-          "average": 5.472151898734177,
-          "average w/o zero": 5.472151898734177
+          "count": 14,
+          "sum": 65.4,
+          "average": 4.671428571428572,
+          "average w/o zero": 4.671428571428572
         },
         "MN": {
-          "count": 308,
-          "sum": 1801.6000000000001,
-          "average": 5.849350649350649,
-          "average w/o zero": 5.849350649350649
+          "count": 87,
+          "sum": 523.2,
+          "average": 6.0137931034482754,
+          "average w/o zero": 6.0137931034482754
         },
         "FL": {
-          "count": 360,
-          "sum": 2005.9999999999995,
-          "average": 5.572222222222222,
-          "average w/o zero": 5.572222222222222
-        },
-        "NC": {
-          "count": 420,
-          "sum": 2353.5999999999985,
-          "average": 5.603809523809524,
-          "average w/o zero": 5.603809523809524
+          "count": 66,
+          "sum": 331.29999999999984,
+          "average": 5.0196969696969695,
+          "average w/o zero": 5.0196969696969695
         },
         "CA": {
-          "count": 85,
-          "sum": 487.4000000000001,
-          "average": 5.734117647058824,
-          "average w/o zero": 5.734117647058824
-        },
-        "NY": {
-          "count": 323,
-          "sum": 1789.799999999999,
-          "average": 5.541176470588235,
-          "average w/o zero": 5.541176470588235
+          "count": 58,
+          "sum": 334.40000000000015,
+          "average": 5.76551724137931,
+          "average w/o zero": 5.76551724137931
         },
         "WY": {
-          "count": 79,
-          "sum": 444.8999999999999,
-          "average": 5.631645569620253,
-          "average w/o zero": 5.631645569620253
+          "count": 23,
+          "sum": 133.39999999999998,
+          "average": 5.8,
+          "average w/o zero": 5.8
         },
         "MI": {
-          "count": 227,
-          "sum": 1227.6999999999998,
-          "average": 5.408370044052863,
-          "average w/o zero": 5.408370044052863
+          "count": 83,
+          "sum": 417.9,
+          "average": 5.034939759036145,
+          "average w/o zero": 5.034939759036145
         },
         "AK": {
-          "count": 20,
-          "sum": 133.4,
-          "average": 6.67,
-          "average w/o zero": 6.67
+          "count": 23,
+          "sum": 150.79999999999995,
+          "average": 6.556521739130435,
+          "average w/o zero": 6.556521739130435
         },
         "MD": {
-          "count": 98,
-          "sum": 548.1000000000001,
-          "average": 5.5928571428571425,
-          "average w/o zero": 5.5928571428571425
+          "count": 21,
+          "sum": 114.49999999999999,
+          "average": 5.4523809523809526,
+          "average w/o zero": 5.4523809523809526
         },
         "KS": {
-          "count": 494,
-          "sum": 2893.2999999999997,
-          "average": 5.856882591093117,
-          "average w/o zero": 5.856882591093117
+          "count": 105,
+          "sum": 642.3,
+          "average": 6.117142857142857,
+          "average w/o zero": 6.117142857142857
         },
         "TN": {
-          "count": 626,
-          "sum": 3544.399999999996,
-          "average": 5.6619808306709265,
-          "average w/o zero": 5.6619808306709265
+          "count": 95,
+          "sum": 521.6999999999998,
+          "average": 5.491578947368421,
+          "average w/o zero": 5.491578947368421
         },
         "TX": {
-          "count": 700,
-          "sum": 4113.600000000002,
-          "average": 5.876571428571428,
-          "average w/o zero": 5.876571428571428
+          "count": 254,
+          "sum": 1562.4999999999998,
+          "average": 6.1515748031496065,
+          "average w/o zero": 6.1515748031496065
         },
         "ME": {
-          "count": 121,
-          "sum": 665.3000000000001,
-          "average": 5.498347107438017,
-          "average w/o zero": 5.498347107438017
+          "count": 16,
+          "sum": 73.8,
+          "average": 4.6125,
+          "average w/o zero": 4.6125
         },
         "AZ": {
-          "count": 19,
-          "sum": 109.5,
-          "average": 5.7631578947368425,
-          "average w/o zero": 5.7631578947368425
+          "count": 15,
+          "sum": 88.6,
+          "average": 5.906666666666666,
+          "average w/o zero": 5.906666666666666
         },
         "GA": {
-          "count": 736,
-          "sum": 4169.800000000001,
-          "average": 5.665489130434783,
-          "average w/o zero": 5.665489130434783
+          "count": 159,
+          "sum": 922.3999999999995,
+          "average": 5.80125786163522,
+          "average w/o zero": 5.80125786163522
         },
         "AR": {
-          "count": 534,
-          "sum": 3053.4999999999986,
-          "average": 5.718164794007491,
-          "average w/o zero": 5.718164794007491
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 447.09999999999997,
-          "average": 5.452439024390244,
-          "average w/o zero": 5.452439024390244
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1533.900000000001,
-          "average": 6.062845849802372,
-          "average w/o zero": 6.062845849802372
+          "count": 75,
+          "sum": 441.2000000000001,
+          "average": 5.882666666666666,
+          "average w/o zero": 5.882666666666666
         },
         "AL": {
-          "count": 439,
-          "sum": 2504.8999999999996,
-          "average": 5.705922551252847,
-          "average w/o zero": 5.705922551252847
+          "count": 67,
+          "sum": 386.10000000000025,
+          "average": 5.762686567164179,
+          "average w/o zero": 5.762686567164179
         },
         "OR": {
-          "count": 241,
-          "sum": 1361.8999999999999,
-          "average": 5.651037344398341,
-          "average w/o zero": 5.651037344398341
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1889.000000000001,
-          "average": 5.588757396449704,
-          "average w/o zero": 5.588757396449704
+          "count": 36,
+          "sum": 190.89999999999998,
+          "average": 5.302777777777778,
+          "average w/o zero": 5.302777777777778
         },
         "MA": {
-          "count": 49,
-          "sum": 262.20000000000005,
-          "average": 5.351020408163265,
-          "average w/o zero": 5.351020408163265
+          "count": 14,
+          "sum": 69.2,
+          "average": 4.942857142857143,
+          "average w/o zero": 4.942857142857143
         },
         "UT": {
-          "count": 106,
-          "sum": 630.6,
-          "average": 5.949056603773585,
-          "average w/o zero": 5.949056603773585
+          "count": 29,
+          "sum": 203.39999999999998,
+          "average": 7.0137931034482754,
+          "average w/o zero": 7.0137931034482754
         },
         "MT": {
-          "count": 186,
-          "sum": 1062.9000000000008,
-          "average": 5.714516129032258,
-          "average w/o zero": 5.714516129032258
-        },
-        "NH": {
-          "count": 31,
-          "sum": 156.89999999999998,
-          "average": 5.061290322580645,
-          "average w/o zero": 5.061290322580645
-        },
-        "NM": {
-          "count": 92,
-          "sum": 528.8000000000001,
-          "average": 5.747826086956522,
-          "average w/o zero": 5.747826086956522
-        },
-        "RI": {
-          "count": 39,
-          "sum": 212.09999999999994,
-          "average": 5.438461538461539,
-          "average w/o zero": 5.438461538461539
+          "count": 56,
+          "sum": 320.3,
+          "average": 5.7196428571428575,
+          "average w/o zero": 5.7196428571428575
         },
         "NV": {
-          "count": 70,
-          "sum": 398.39999999999986,
-          "average": 5.691428571428571,
-          "average w/o zero": 5.691428571428571
-        },
-        "DC": {
-          "count": 1,
-          "sum": 6.4,
-          "average": 6.4,
-          "average w/o zero": 6.4
+          "count": 17,
+          "sum": 90.19999999999999,
+          "average": 5.305882352941176,
+          "average w/o zero": 5.305882352941176
         },
         "CT": {
-          "count": 14,
-          "sum": 68.50000000000001,
-          "average": 4.892857142857143,
-          "average w/o zero": 4.892857142857143
+          "count": 8,
+          "sum": 38.1,
+          "average": 4.7625,
+          "average w/o zero": 4.7625
         },
         "HI": {
           "count": 5,
@@ -1227,306 +963,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5.85
         },
         "DE": {
-          "count": 9,
-          "sum": 45.49999999999999,
-          "average": 5.055555555555555,
-          "average w/o zero": 5.055555555555555
+          "count": 3,
+          "sum": 16.9,
+          "average": 5.633333333333334,
+          "average w/o zero": 5.633333333333334
         }
       },
       "Age.Percent Under 18 Years": {
-        "SC": {
-          "count": 146,
-          "sum": 3110.8000000000006,
-          "average": 21.306849315068494,
-          "average w/o zero": 21.306849315068494
-        },
         "LA": {
-          "count": 63,
-          "sum": 1459.7,
-          "average": 23.16984126984127,
-          "average w/o zero": 23.16984126984127
+          "count": 64,
+          "sum": 1482.4,
+          "average": 23.1625,
+          "average w/o zero": 23.1625
         },
         "VA": {
-          "count": 375,
-          "sum": 7892.300000000006,
-          "average": 21.046133333333334,
-          "average w/o zero": 21.046133333333334
+          "count": 132,
+          "sum": 2619.8,
+          "average": 19.846969696969698,
+          "average w/o zero": 19.846969696969698
         },
         "ID": {
-          "count": 209,
-          "sum": 4648.4000000000015,
-          "average": 22.24114832535885,
-          "average w/o zero": 22.24114832535885
+          "count": 44,
+          "sum": 1069.1,
+          "average": 24.297727272727272,
+          "average w/o zero": 24.297727272727272
         },
         "IA": {
-          "count": 640,
-          "sum": 14051.199999999995,
-          "average": 21.955,
-          "average w/o zero": 21.955
+          "count": 98,
+          "sum": 2230.1,
+          "average": 22.756122448979593,
+          "average w/o zero": 22.756122448979593
         },
         "KY": {
-          "count": 707,
-          "sum": 15483.9,
-          "average": 21.9008486562942,
-          "average w/o zero": 21.9008486562942
+          "count": 120,
+          "sum": 2667.900000000001,
+          "average": 22.232499999999998,
+          "average w/o zero": 22.232499999999998
         },
         "MO": {
-          "count": 692,
-          "sum": 15195.399999999992,
-          "average": 21.958670520231212,
-          "average w/o zero": 21.958670520231212
+          "count": 115,
+          "sum": 2570.000000000002,
+          "average": 22.347826086956523,
+          "average w/o zero": 22.347826086956523
         },
         "OK": {
-          "count": 279,
-          "sum": 6250.000000000005,
-          "average": 22.40143369175627,
-          "average w/o zero": 22.40143369175627
+          "count": 77,
+          "sum": 1823.5,
+          "average": 23.681818181818183,
+          "average w/o zero": 23.681818181818183
         },
         "CO": {
-          "count": 252,
-          "sum": 5380.2,
-          "average": 21.35,
-          "average w/o zero": 21.35
+          "count": 64,
+          "sum": 1277.8000000000004,
+          "average": 19.965625,
+          "average w/o zero": 19.965625
         },
         "IL": {
-          "count": 718,
-          "sum": 15622.2,
-          "average": 21.757938718662952,
-          "average w/o zero": 21.757938718662952
+          "count": 102,
+          "sum": 2176.899999999999,
+          "average": 21.3421568627451,
+          "average w/o zero": 21.3421568627451
         },
         "IN": {
-          "count": 675,
-          "sum": 14797.099999999999,
-          "average": 21.92162962962963,
-          "average w/o zero": 21.92162962962963
+          "count": 92,
+          "sum": 2086.8,
+          "average": 22.682608695652174,
+          "average w/o zero": 22.682608695652174
         },
         "MS": {
-          "count": 518,
-          "sum": 11316.100000000004,
-          "average": 21.845752895752895,
-          "average w/o zero": 21.845752895752895
-        },
-        "ND": {
-          "count": 135,
-          "sum": 3080.0000000000014,
-          "average": 22.814814814814817,
-          "average w/o zero": 22.814814814814817
+          "count": 82,
+          "sum": 1885.0999999999992,
+          "average": 22.9890243902439,
+          "average w/o zero": 22.9890243902439
         },
         "NE": {
-          "count": 446,
-          "sum": 9927.999999999985,
-          "average": 22.260089686098656,
-          "average w/o zero": 22.260089686098656
+          "count": 93,
+          "sum": 2131.4999999999995,
+          "average": 22.919354838709676,
+          "average w/o zero": 22.919354838709676
         },
         "OH": {
-          "count": 567,
-          "sum": 12338.199999999997,
-          "average": 21.760493827160495,
-          "average w/o zero": 21.760493827160495
+          "count": 88,
+          "sum": 1951.6000000000006,
+          "average": 22.177272727272726,
+          "average w/o zero": 22.177272727272726
         },
         "PA": {
-          "count": 380,
-          "sum": 8101.300000000003,
-          "average": 21.31921052631579,
-          "average w/o zero": 21.31921052631579
+          "count": 67,
+          "sum": 1312.8000000000004,
+          "average": 19.594029850746267,
+          "average w/o zero": 19.594029850746267
         },
         "WA": {
-          "count": 195,
-          "sum": 4271.099999999999,
-          "average": 21.903076923076924,
-          "average w/o zero": 21.903076923076924
+          "count": 39,
+          "sum": 821.8000000000002,
+          "average": 21.07179487179487,
+          "average w/o zero": 21.07179487179487
         },
         "WI": {
-          "count": 316,
-          "sum": 6855.800000000001,
-          "average": 21.695569620253163,
-          "average w/o zero": 21.695569620253163
+          "count": 72,
+          "sum": 1507.4000000000005,
+          "average": 20.93611111111111,
+          "average w/o zero": 20.93611111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 1671.3000000000002,
-          "average": 21.155696202531647,
-          "average w/o zero": 21.155696202531647
+          "count": 14,
+          "sum": 257.9,
+          "average": 18.42142857142857,
+          "average w/o zero": 18.42142857142857
         },
         "MN": {
-          "count": 308,
-          "sum": 6869.4000000000015,
-          "average": 22.303246753246754,
-          "average w/o zero": 22.303246753246754
+          "count": 87,
+          "sum": 1996.7000000000005,
+          "average": 22.95057471264368,
+          "average w/o zero": 22.95057471264368
         },
         "FL": {
-          "count": 360,
-          "sum": 7654.300000000001,
-          "average": 21.261944444444445,
-          "average w/o zero": 21.261944444444445
-        },
-        "NC": {
-          "count": 420,
-          "sum": 9000.400000000003,
-          "average": 21.42952380952381,
-          "average w/o zero": 21.42952380952381
+          "count": 66,
+          "sum": 1264.2,
+          "average": 19.154545454545456,
+          "average w/o zero": 19.154545454545456
         },
         "CA": {
-          "count": 85,
-          "sum": 1846.0999999999992,
-          "average": 21.718823529411765,
-          "average w/o zero": 21.718823529411765
-        },
-        "NY": {
-          "count": 323,
-          "sum": 6836.3,
-          "average": 21.16501547987616,
-          "average w/o zero": 21.16501547987616
+          "count": 58,
+          "sum": 1267.9999999999998,
+          "average": 21.862068965517242,
+          "average w/o zero": 21.862068965517242
         },
         "WY": {
-          "count": 79,
-          "sum": 1710.3000000000006,
-          "average": 21.649367088607594,
-          "average w/o zero": 21.649367088607594
+          "count": 23,
+          "sum": 517.0999999999999,
+          "average": 22.482608695652175,
+          "average w/o zero": 22.482608695652175
         },
         "MI": {
-          "count": 227,
-          "sum": 4717.300000000002,
-          "average": 20.781057268722467,
-          "average w/o zero": 20.781057268722467
+          "count": 83,
+          "sum": 1623.7999999999995,
+          "average": 19.563855421686746,
+          "average w/o zero": 19.563855421686746
         },
         "AK": {
-          "count": 20,
-          "sum": 457.7,
-          "average": 22.885,
-          "average w/o zero": 22.885
+          "count": 23,
+          "sum": 525.4,
+          "average": 22.843478260869567,
+          "average w/o zero": 22.843478260869567
         },
         "MD": {
-          "count": 98,
-          "sum": 2107.7,
-          "average": 21.507142857142856,
-          "average w/o zero": 21.507142857142856
+          "count": 21,
+          "sum": 439.4999999999999,
+          "average": 20.928571428571427,
+          "average w/o zero": 20.928571428571427
         },
         "KS": {
-          "count": 494,
-          "sum": 11041.699999999997,
-          "average": 22.35161943319838,
-          "average w/o zero": 22.35161943319838
+          "count": 105,
+          "sum": 2467.5000000000005,
+          "average": 23.5,
+          "average w/o zero": 23.5
         },
         "TN": {
-          "count": 626,
-          "sum": 13563.5,
-          "average": 21.666932907348244,
-          "average w/o zero": 21.666932907348244
+          "count": 95,
+          "sum": 1997.6999999999994,
+          "average": 21.02842105263158,
+          "average w/o zero": 21.02842105263158
         },
         "TX": {
-          "count": 700,
-          "sum": 15760.599999999988,
-          "average": 22.51514285714286,
-          "average w/o zero": 22.51514285714286
+          "count": 254,
+          "sum": 6031.9,
+          "average": 23.74763779527559,
+          "average w/o zero": 23.74763779527559
         },
         "ME": {
-          "count": 121,
-          "sum": 2580.3,
-          "average": 21.32479338842975,
-          "average w/o zero": 21.32479338842975
+          "count": 16,
+          "sum": 292.59999999999997,
+          "average": 18.2875,
+          "average w/o zero": 18.2875
         },
         "AZ": {
-          "count": 19,
-          "sum": 422.1,
-          "average": 22.21578947368421,
-          "average w/o zero": 22.21578947368421
+          "count": 15,
+          "sum": 335.20000000000005,
+          "average": 22.346666666666668,
+          "average w/o zero": 22.346666666666668
         },
         "GA": {
-          "count": 736,
-          "sum": 15953.599999999991,
-          "average": 21.67608695652174,
-          "average w/o zero": 21.67608695652174
+          "count": 159,
+          "sum": 3530.0000000000014,
+          "average": 22.20125786163522,
+          "average w/o zero": 22.20125786163522
         },
         "AR": {
-          "count": 534,
-          "sum": 11643.999999999996,
-          "average": 21.805243445692884,
-          "average w/o zero": 21.805243445692884
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 1713.0999999999995,
-          "average": 20.891463414634146,
-          "average w/o zero": 20.891463414634146
-        },
-        "SD": {
-          "count": 253,
-          "sum": 5737.500000000003,
-          "average": 22.677865612648223,
-          "average w/o zero": 22.677865612648223
+          "count": 75,
+          "sum": 1662.9999999999995,
+          "average": 22.173333333333332,
+          "average w/o zero": 22.173333333333332
         },
         "AL": {
-          "count": 439,
-          "sum": 9521.100000000011,
-          "average": 21.688154897494304,
-          "average w/o zero": 21.688154897494304
+          "count": 67,
+          "sum": 1448.9999999999998,
+          "average": 21.62686567164179,
+          "average w/o zero": 21.62686567164179
         },
         "OR": {
-          "count": 241,
-          "sum": 5201.500000000003,
-          "average": 21.58298755186722,
-          "average w/o zero": 21.58298755186722
-        },
-        "WV": {
-          "count": 338,
-          "sum": 7218.000000000004,
-          "average": 21.355029585798817,
-          "average w/o zero": 21.355029585798817
+          "count": 36,
+          "sum": 731.0999999999998,
+          "average": 20.308333333333334,
+          "average w/o zero": 20.308333333333334
         },
         "MA": {
-          "count": 49,
-          "sum": 1006.7,
-          "average": 20.544897959183675,
-          "average w/o zero": 20.544897959183675
+          "count": 14,
+          "sum": 263.3,
+          "average": 18.807142857142857,
+          "average w/o zero": 18.807142857142857
         },
         "UT": {
-          "count": 106,
-          "sum": 2460.5000000000005,
-          "average": 23.212264150943398,
-          "average w/o zero": 23.212264150943398
+          "count": 29,
+          "sum": 825.1,
+          "average": 28.451724137931034,
+          "average w/o zero": 28.451724137931034
         },
         "MT": {
-          "count": 186,
-          "sum": 3991.8,
-          "average": 21.461290322580645,
-          "average w/o zero": 21.461290322580645
-        },
-        "NH": {
-          "count": 31,
-          "sum": 612.5000000000001,
-          "average": 19.758064516129032,
-          "average w/o zero": 19.758064516129032
-        },
-        "NM": {
-          "count": 92,
-          "sum": 2024.1999999999998,
-          "average": 22.002173913043478,
-          "average w/o zero": 22.002173913043478
-        },
-        "RI": {
-          "count": 39,
-          "sum": 826.8000000000001,
-          "average": 21.2,
-          "average w/o zero": 21.2
+          "count": 56,
+          "sum": 1192.3999999999999,
+          "average": 21.292857142857144,
+          "average w/o zero": 21.292857142857144
         },
         "NV": {
-          "count": 70,
-          "sum": 1519.7999999999997,
-          "average": 21.71142857142857,
-          "average w/o zero": 21.71142857142857
-        },
-        "DC": {
-          "count": 1,
-          "sum": 18.2,
-          "average": 18.2,
-          "average w/o zero": 18.2
+          "count": 17,
+          "sum": 348.40000000000003,
+          "average": 20.49411764705882,
+          "average w/o zero": 20.49411764705882
         },
         "CT": {
-          "count": 14,
-          "sum": 272.29999999999995,
-          "average": 19.45,
-          "average w/o zero": 19.45
+          "count": 8,
+          "sum": 154.49999999999997,
+          "average": 19.3125,
+          "average w/o zero": 19.3125
         },
         "HI": {
           "count": 5,
@@ -1535,306 +1205,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 21.425
         },
         "DE": {
-          "count": 9,
-          "sum": 176.70000000000002,
-          "average": 19.633333333333333,
-          "average w/o zero": 19.633333333333333
+          "count": 3,
+          "sum": 62.5,
+          "average": 20.833333333333332,
+          "average w/o zero": 20.833333333333332
         }
       },
       "Age.Percent 65 and Older": {
-        "SC": {
-          "count": 146,
-          "sum": 2929.399999999999,
-          "average": 20.064383561643837,
-          "average w/o zero": 20.064383561643837
-        },
         "LA": {
-          "count": 63,
-          "sum": 1066.9000000000003,
-          "average": 16.934920634920633,
-          "average w/o zero": 16.934920634920633
+          "count": 64,
+          "sum": 1084.1000000000004,
+          "average": 16.9390625,
+          "average w/o zero": 16.9390625
         },
         "VA": {
-          "count": 375,
-          "sum": 7290.700000000008,
-          "average": 19.441866666666666,
-          "average w/o zero": 19.441866666666666
+          "count": 132,
+          "sum": 2617.199999999999,
+          "average": 19.827272727272728,
+          "average w/o zero": 19.827272727272728
         },
         "ID": {
-          "count": 209,
-          "sum": 4169.599999999999,
-          "average": 19.95023923444976,
-          "average w/o zero": 19.95023923444976
+          "count": 44,
+          "sum": 861.8000000000003,
+          "average": 19.586363636363636,
+          "average w/o zero": 19.586363636363636
         },
         "IA": {
-          "count": 640,
-          "sum": 12598.700000000003,
-          "average": 19.68546875,
-          "average w/o zero": 19.68546875
+          "count": 98,
+          "sum": 2015.4000000000005,
+          "average": 20.56530612244898,
+          "average w/o zero": 20.56530612244898
         },
         "KY": {
-          "count": 707,
-          "sum": 13846.5,
-          "average": 19.584865629420086,
-          "average w/o zero": 19.584865629420086
+          "count": 120,
+          "sum": 2188.3,
+          "average": 18.235833333333332,
+          "average w/o zero": 18.235833333333332
         },
         "MO": {
-          "count": 692,
-          "sum": 13577.000000000007,
-          "average": 19.61994219653179,
-          "average w/o zero": 19.61994219653179
+          "count": 115,
+          "sum": 2298.399999999999,
+          "average": 19.98608695652174,
+          "average w/o zero": 19.98608695652174
         },
         "OK": {
-          "count": 279,
-          "sum": 5564.3,
-          "average": 19.94372759856631,
-          "average w/o zero": 19.94372759856631
+          "count": 77,
+          "sum": 1434.8999999999996,
+          "average": 18.635064935064936,
+          "average w/o zero": 18.635064935064936
         },
         "CO": {
-          "count": 252,
-          "sum": 5144.499999999998,
-          "average": 20.41468253968254,
-          "average w/o zero": 20.41468253968254
+          "count": 64,
+          "sum": 1281.2000000000003,
+          "average": 20.01875,
+          "average w/o zero": 20.01875
         },
         "IL": {
-          "count": 718,
-          "sum": 14108.699999999993,
-          "average": 19.65,
-          "average w/o zero": 19.65
+          "count": 102,
+          "sum": 2030.3,
+          "average": 19.904901960784315,
+          "average w/o zero": 19.904901960784315
         },
         "IN": {
-          "count": 675,
-          "sum": 13180.300000000001,
-          "average": 19.52637037037037,
-          "average w/o zero": 19.52637037037037
+          "count": 92,
+          "sum": 1670.3,
+          "average": 18.155434782608694,
+          "average w/o zero": 18.155434782608694
         },
         "MS": {
-          "count": 518,
-          "sum": 10102.3,
-          "average": 19.50250965250965,
-          "average w/o zero": 19.50250965250965
-        },
-        "ND": {
-          "count": 135,
-          "sum": 2791.1999999999985,
-          "average": 20.675555555555555,
-          "average w/o zero": 20.675555555555555
+          "count": 82,
+          "sum": 1444.3000000000004,
+          "average": 17.61341463414634,
+          "average w/o zero": 17.61341463414634
         },
         "NE": {
-          "count": 446,
-          "sum": 9099.199999999995,
-          "average": 20.401793721973092,
-          "average w/o zero": 20.401793721973092
+          "count": 93,
+          "sum": 2078.4,
+          "average": 22.348387096774193,
+          "average w/o zero": 22.348387096774193
         },
         "OH": {
-          "count": 567,
-          "sum": 11101.800000000007,
-          "average": 19.57989417989418,
-          "average w/o zero": 19.57989417989418
+          "count": 88,
+          "sum": 1648.8999999999999,
+          "average": 18.7375,
+          "average w/o zero": 18.7375
         },
         "PA": {
-          "count": 380,
-          "sum": 7577.300000000002,
-          "average": 19.940263157894737,
-          "average w/o zero": 19.940263157894737
+          "count": 67,
+          "sum": 1393.3999999999996,
+          "average": 20.797014925373134,
+          "average w/o zero": 20.797014925373134
         },
         "WA": {
-          "count": 195,
-          "sum": 3959.2999999999997,
-          "average": 20.304102564102564,
-          "average w/o zero": 20.304102564102564
+          "count": 39,
+          "sum": 830.0000000000001,
+          "average": 21.28205128205128,
+          "average w/o zero": 21.28205128205128
         },
         "WI": {
-          "count": 316,
-          "sum": 6349.700000000001,
-          "average": 20.093987341772152,
-          "average w/o zero": 20.093987341772152
+          "count": 72,
+          "sum": 1495.2999999999997,
+          "average": 20.768055555555556,
+          "average w/o zero": 20.768055555555556
         },
         "VT": {
-          "count": 79,
-          "sum": 1549.9999999999998,
-          "average": 19.620253164556964,
-          "average w/o zero": 19.620253164556964
+          "count": 14,
+          "sum": 300.7,
+          "average": 21.478571428571428,
+          "average w/o zero": 21.478571428571428
         },
         "MN": {
-          "count": 308,
-          "sum": 6169.800000000002,
-          "average": 20.03181818181818,
-          "average w/o zero": 20.03181818181818
+          "count": 87,
+          "sum": 1759.1999999999996,
+          "average": 20.220689655172414,
+          "average w/o zero": 20.220689655172414
         },
         "FL": {
-          "count": 360,
-          "sum": 7238.0999999999985,
-          "average": 20.105833333333333,
-          "average w/o zero": 20.105833333333333
-        },
-        "NC": {
-          "count": 420,
-          "sum": 8293.300000000003,
-          "average": 19.74595238095238,
-          "average w/o zero": 19.74595238095238
+          "count": 66,
+          "sum": 1496.7000000000005,
+          "average": 22.677272727272726,
+          "average w/o zero": 22.677272727272726
         },
         "CA": {
-          "count": 85,
-          "sum": 1629.1999999999998,
-          "average": 19.167058823529413,
-          "average w/o zero": 19.167058823529413
-        },
-        "NY": {
-          "count": 323,
-          "sum": 6285.500000000003,
-          "average": 19.459752321981423,
-          "average w/o zero": 19.459752321981423
+          "count": 58,
+          "sum": 1071.0,
+          "average": 18.46551724137931,
+          "average w/o zero": 18.46551724137931
         },
         "WY": {
-          "count": 79,
-          "sum": 1601.7000000000003,
-          "average": 20.274683544303798,
-          "average w/o zero": 20.274683544303798
+          "count": 23,
+          "sum": 447.99999999999994,
+          "average": 19.47826086956522,
+          "average w/o zero": 19.47826086956522
         },
         "MI": {
-          "count": 227,
-          "sum": 4772.7,
-          "average": 21.02511013215859,
-          "average w/o zero": 21.02511013215859
+          "count": 83,
+          "sum": 1857.899999999999,
+          "average": 22.38433734939759,
+          "average w/o zero": 22.38433734939759
         },
         "AK": {
-          "count": 20,
-          "sum": 274.40000000000003,
-          "average": 13.72,
-          "average w/o zero": 13.72
+          "count": 23,
+          "sum": 312.6,
+          "average": 13.591304347826087,
+          "average w/o zero": 13.591304347826087
         },
         "MD": {
-          "count": 98,
-          "sum": 1901.8999999999999,
-          "average": 19.40714285714286,
-          "average w/o zero": 19.40714285714286
+          "count": 21,
+          "sum": 388.50000000000006,
+          "average": 18.5,
+          "average w/o zero": 18.5
         },
         "KS": {
-          "count": 494,
-          "sum": 9886.50000000001,
-          "average": 20.013157894736842,
-          "average w/o zero": 20.013157894736842
+          "count": 105,
+          "sum": 2173.499999999999,
+          "average": 20.7,
+          "average w/o zero": 20.7
         },
         "TN": {
-          "count": 626,
-          "sum": 12356.099999999999,
-          "average": 19.738178913738018,
-          "average w/o zero": 19.738178913738018
+          "count": 95,
+          "sum": 1854.5000000000002,
+          "average": 19.521052631578947,
+          "average w/o zero": 19.521052631578947
         },
         "TX": {
-          "count": 700,
-          "sum": 13490.899999999987,
-          "average": 19.272714285714287,
-          "average w/o zero": 19.272714285714287
+          "count": 254,
+          "sum": 4712.900000000003,
+          "average": 18.55472440944882,
+          "average w/o zero": 18.55472440944882
         },
         "ME": {
-          "count": 121,
-          "sum": 2458.7,
-          "average": 20.3198347107438,
-          "average w/o zero": 20.3198347107438
+          "count": 16,
+          "sum": 367.4,
+          "average": 22.9625,
+          "average w/o zero": 22.9625
         },
         "AZ": {
-          "count": 19,
-          "sum": 414.2,
-          "average": 21.8,
-          "average w/o zero": 21.8
+          "count": 15,
+          "sum": 325.70000000000005,
+          "average": 21.713333333333335,
+          "average w/o zero": 21.713333333333335
         },
         "GA": {
-          "count": 736,
-          "sum": 14385.400000000005,
-          "average": 19.545380434782608,
-          "average w/o zero": 19.545380434782608
+          "count": 159,
+          "sum": 2855.8999999999996,
+          "average": 17.961635220125785,
+          "average w/o zero": 17.961635220125785
         },
         "AR": {
-          "count": 534,
-          "sum": 10527.100000000002,
-          "average": 19.713670411985017,
-          "average w/o zero": 19.713670411985017
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 1614.8000000000004,
-          "average": 19.692682926829267,
-          "average w/o zero": 19.692682926829267
-        },
-        "SD": {
-          "count": 253,
-          "sum": 5092.599999999999,
-          "average": 20.12885375494071,
-          "average w/o zero": 20.12885375494071
+          "count": 75,
+          "sum": 1514.9000000000003,
+          "average": 20.198666666666668,
+          "average w/o zero": 20.198666666666668
         },
         "AL": {
-          "count": 439,
-          "sum": 8541.599999999995,
-          "average": 19.456947608200455,
-          "average w/o zero": 19.456947608200455
+          "count": 67,
+          "sum": 1279.6000000000001,
+          "average": 19.098507462686566,
+          "average w/o zero": 19.098507462686566
         },
         "OR": {
-          "count": 241,
-          "sum": 4909.700000000003,
-          "average": 20.372199170124482,
-          "average w/o zero": 20.372199170124482
-        },
-        "WV": {
-          "count": 338,
-          "sum": 6924.399999999998,
-          "average": 20.48639053254438,
-          "average w/o zero": 20.48639053254438
+          "count": 36,
+          "sum": 812.8999999999997,
+          "average": 22.580555555555556,
+          "average w/o zero": 22.580555555555556
         },
         "MA": {
-          "count": 49,
-          "sum": 974.2,
-          "average": 19.881632653061224,
-          "average w/o zero": 19.881632653061224
+          "count": 14,
+          "sum": 268.3,
+          "average": 19.164285714285715,
+          "average w/o zero": 19.164285714285715
         },
         "UT": {
-          "count": 106,
-          "sum": 2020.2999999999995,
-          "average": 19.05943396226415,
-          "average w/o zero": 19.05943396226415
+          "count": 29,
+          "sum": 457.79999999999995,
+          "average": 15.786206896551723,
+          "average w/o zero": 15.786206896551723
         },
         "MT": {
-          "count": 186,
-          "sum": 3945.0999999999985,
-          "average": 21.21021505376344,
-          "average w/o zero": 21.21021505376344
-        },
-        "NH": {
-          "count": 31,
-          "sum": 651.3,
-          "average": 21.009677419354837,
-          "average w/o zero": 21.009677419354837
-        },
-        "NM": {
-          "count": 92,
-          "sum": 1923.5000000000002,
-          "average": 20.907608695652176,
-          "average w/o zero": 20.907608695652176
-        },
-        "RI": {
-          "count": 39,
-          "sum": 773.5999999999999,
-          "average": 19.835897435897436,
-          "average w/o zero": 19.835897435897436
+          "count": 56,
+          "sum": 1290.1000000000008,
+          "average": 23.0375,
+          "average w/o zero": 23.0375
         },
         "NV": {
-          "count": 70,
-          "sum": 1444.1,
-          "average": 20.63,
-          "average w/o zero": 20.63
-        },
-        "DC": {
-          "count": 1,
-          "sum": 12.4,
-          "average": 12.4,
-          "average w/o zero": 12.4
+          "count": 17,
+          "sum": 363.9,
+          "average": 21.405882352941177,
+          "average w/o zero": 21.405882352941177
         },
         "CT": {
-          "count": 14,
-          "sum": 272.5,
-          "average": 19.464285714285715,
-          "average w/o zero": 19.464285714285715
+          "count": 8,
+          "sum": 146.89999999999998,
+          "average": 18.3625,
+          "average w/o zero": 18.3625
         },
         "HI": {
           "count": 5,
@@ -1843,306 +1447,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 25.02
         },
         "DE": {
-          "count": 9,
-          "sum": 185.89999999999998,
-          "average": 20.655555555555555,
-          "average w/o zero": 20.655555555555555
+          "count": 3,
+          "sum": 62.3,
+          "average": 20.766666666666666,
+          "average w/o zero": 20.766666666666666
         }
       },
       "Miscellaneous.Percent Female": {
-        "SC": {
-          "count": 146,
-          "sum": 7347.5999999999985,
-          "average": 50.326027397260276,
-          "average w/o zero": 50.326027397260276
-        },
         "LA": {
-          "count": 63,
-          "sum": 3150.600000000001,
-          "average": 50.009523809523806,
-          "average w/o zero": 50.009523809523806
+          "count": 64,
+          "sum": 3198.600000000001,
+          "average": 49.978125,
+          "average w/o zero": 49.978125
         },
         "VA": {
-          "count": 375,
-          "sum": 18905.99999999998,
-          "average": 50.416,
-          "average w/o zero": 50.416
+          "count": 132,
+          "sum": 6682.999999999998,
+          "average": 50.628787878787875,
+          "average w/o zero": 50.628787878787875
         },
         "ID": {
-          "count": 209,
-          "sum": 10388.1,
-          "average": 49.70382775119617,
-          "average w/o zero": 49.70382775119617
+          "count": 44,
+          "sum": 2163.5,
+          "average": 49.17045454545455,
+          "average w/o zero": 49.17045454545455
         },
         "IA": {
-          "count": 640,
-          "sum": 32009.900000000012,
-          "average": 50.01546875,
-          "average w/o zero": 50.01546875
+          "count": 98,
+          "sum": 4891.699999999999,
+          "average": 49.91530612244898,
+          "average w/o zero": 49.91530612244898
         },
         "KY": {
-          "count": 707,
-          "sum": 35387.80000000004,
-          "average": 50.05346534653465,
-          "average w/o zero": 50.05346534653465
+          "count": 120,
+          "sum": 6024.9,
+          "average": 50.2075,
+          "average w/o zero": 50.2075
         },
         "MO": {
-          "count": 692,
-          "sum": 34666.50000000004,
-          "average": 50.096098265895954,
-          "average w/o zero": 50.096098265895954
+          "count": 115,
+          "sum": 5757.300000000003,
+          "average": 50.063478260869566,
+          "average w/o zero": 50.063478260869566
         },
         "OK": {
-          "count": 279,
-          "sum": 13904.400000000001,
-          "average": 49.836559139784946,
-          "average w/o zero": 49.836559139784946
+          "count": 77,
+          "sum": 3832.499999999999,
+          "average": 49.77272727272727,
+          "average w/o zero": 49.77272727272727
         },
         "CO": {
-          "count": 252,
-          "sum": 12446.799999999996,
-          "average": 49.39206349206349,
-          "average w/o zero": 49.39206349206349
+          "count": 64,
+          "sum": 3079.1000000000013,
+          "average": 48.1109375,
+          "average w/o zero": 48.1109375
         },
         "IL": {
-          "count": 718,
-          "sum": 35909.700000000055,
-          "average": 50.01350974930362,
-          "average w/o zero": 50.01350974930362
+          "count": 102,
+          "sum": 5089.099999999999,
+          "average": 49.89313725490196,
+          "average w/o zero": 49.89313725490196
         },
         "IN": {
-          "count": 675,
-          "sum": 33744.80000000005,
-          "average": 49.992296296296296,
-          "average w/o zero": 49.992296296296296
+          "count": 92,
+          "sum": 4611.200000000002,
+          "average": 50.12173913043478,
+          "average w/o zero": 50.12173913043478
         },
         "MS": {
-          "count": 518,
-          "sum": 25959.799999999992,
-          "average": 50.11544401544401,
-          "average w/o zero": 50.11544401544401
-        },
-        "ND": {
-          "count": 135,
-          "sum": 6673.799999999998,
-          "average": 49.43555555555555,
-          "average w/o zero": 49.43555555555555
+          "count": 82,
+          "sum": 4187.4,
+          "average": 51.06585365853658,
+          "average w/o zero": 51.06585365853658
         },
         "NE": {
-          "count": 446,
-          "sum": 22206.29999999998,
-          "average": 49.789910313901345,
-          "average w/o zero": 49.789910313901345
+          "count": 93,
+          "sum": 4621.2,
+          "average": 49.69032258064516,
+          "average w/o zero": 49.69032258064516
         },
         "OH": {
-          "count": 567,
-          "sum": 28342.00000000001,
-          "average": 49.985890652557316,
-          "average w/o zero": 49.985890652557316
+          "count": 88,
+          "sum": 4424.099999999999,
+          "average": 50.273863636363636,
+          "average w/o zero": 50.273863636363636
         },
         "PA": {
-          "count": 380,
-          "sum": 19014.599999999988,
-          "average": 50.03842105263158,
-          "average w/o zero": 50.03842105263158
+          "count": 67,
+          "sum": 3342.7000000000003,
+          "average": 49.8910447761194,
+          "average w/o zero": 49.8910447761194
         },
         "WA": {
-          "count": 195,
-          "sum": 9721.2,
-          "average": 49.85230769230769,
-          "average w/o zero": 49.85230769230769
+          "count": 39,
+          "sum": 1944.6999999999994,
+          "average": 49.864102564102566,
+          "average w/o zero": 49.864102564102566
         },
         "WI": {
-          "count": 316,
-          "sum": 15731.600000000008,
-          "average": 49.78354430379747,
-          "average w/o zero": 49.78354430379747
+          "count": 72,
+          "sum": 3565.3,
+          "average": 49.518055555555556,
+          "average w/o zero": 49.518055555555556
         },
         "VT": {
-          "count": 79,
-          "sum": 3968.900000000001,
-          "average": 50.23924050632911,
-          "average w/o zero": 50.23924050632911
+          "count": 14,
+          "sum": 704.4999999999999,
+          "average": 50.32142857142857,
+          "average w/o zero": 50.32142857142857
         },
         "MN": {
-          "count": 308,
-          "sum": 15336.000000000013,
-          "average": 49.79220779220779,
-          "average w/o zero": 49.79220779220779
+          "count": 87,
+          "sum": 4322.299999999998,
+          "average": 49.6816091954023,
+          "average w/o zero": 49.6816091954023
         },
         "FL": {
-          "count": 360,
-          "sum": 17969.699999999997,
-          "average": 49.91583333333333,
-          "average w/o zero": 49.91583333333333
-        },
-        "NC": {
-          "count": 420,
-          "sum": 21062.899999999983,
-          "average": 50.1497619047619,
-          "average w/o zero": 50.1497619047619
+          "count": 66,
+          "sum": 3228.3,
+          "average": 48.913636363636364,
+          "average w/o zero": 48.913636363636364
         },
         "CA": {
-          "count": 85,
-          "sum": 4210.599999999999,
-          "average": 49.5364705882353,
-          "average w/o zero": 49.5364705882353
-        },
-        "NY": {
-          "count": 323,
-          "sum": 16192.099999999993,
-          "average": 50.130340557275545,
-          "average w/o zero": 50.130340557275545
+          "count": 58,
+          "sum": 2871.4000000000005,
+          "average": 49.50689655172414,
+          "average w/o zero": 49.50689655172414
         },
         "WY": {
-          "count": 79,
-          "sum": 3879.899999999999,
-          "average": 49.1126582278481,
-          "average w/o zero": 49.1126582278481
+          "count": 23,
+          "sum": 1129.5,
+          "average": 49.108695652173914,
+          "average w/o zero": 49.108695652173914
         },
         "MI": {
-          "count": 227,
-          "sum": 11300.599999999991,
-          "average": 49.78237885462555,
-          "average w/o zero": 49.78237885462555
+          "count": 83,
+          "sum": 4118.200000000001,
+          "average": 49.616867469879516,
+          "average w/o zero": 49.616867469879516
         },
         "AK": {
-          "count": 20,
-          "sum": 909.3000000000001,
-          "average": 45.465,
-          "average w/o zero": 45.465
+          "count": 23,
+          "sum": 1055.7,
+          "average": 45.9,
+          "average w/o zero": 45.9
         },
         "MD": {
-          "count": 98,
-          "sum": 4942.700000000001,
-          "average": 50.43571428571428,
-          "average w/o zero": 50.43571428571428
+          "count": 21,
+          "sum": 1069.7000000000003,
+          "average": 50.93809523809524,
+          "average w/o zero": 50.93809523809524
         },
         "KS": {
-          "count": 494,
-          "sum": 24638.6,
-          "average": 49.87570850202429,
-          "average w/o zero": 49.87570850202429
+          "count": 105,
+          "sum": 5215.800000000003,
+          "average": 49.674285714285716,
+          "average w/o zero": 49.674285714285716
         },
         "TN": {
-          "count": 626,
-          "sum": 31321.699999999997,
-          "average": 50.03466453674121,
-          "average w/o zero": 50.03466453674121
+          "count": 95,
+          "sum": 4776.800000000001,
+          "average": 50.282105263157895,
+          "average w/o zero": 50.282105263157895
         },
         "TX": {
-          "count": 700,
-          "sum": 34826.40000000002,
-          "average": 49.752,
-          "average w/o zero": 49.752
+          "count": 254,
+          "sum": 12477.399999999992,
+          "average": 49.1236220472441,
+          "average w/o zero": 49.1236220472441
         },
         "ME": {
-          "count": 121,
-          "sum": 6052.900000000003,
-          "average": 50.02396694214876,
-          "average w/o zero": 50.02396694214876
+          "count": 16,
+          "sum": 813.8,
+          "average": 50.8625,
+          "average w/o zero": 50.8625
         },
         "AZ": {
-          "count": 19,
-          "sum": 945.8999999999999,
-          "average": 49.78421052631579,
-          "average w/o zero": 49.78421052631579
+          "count": 15,
+          "sum": 744.4999999999999,
+          "average": 49.63333333333333,
+          "average w/o zero": 49.63333333333333
         },
         "GA": {
-          "count": 736,
-          "sum": 36794.80000000004,
-          "average": 49.99293478260869,
-          "average w/o zero": 49.99293478260869
+          "count": 159,
+          "sum": 8012.299999999998,
+          "average": 50.39182389937107,
+          "average w/o zero": 50.39182389937107
         },
         "AR": {
-          "count": 534,
-          "sum": 26697.800000000007,
-          "average": 49.995880149812734,
-          "average w/o zero": 49.995880149812734
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 4116.4,
-          "average": 50.2,
-          "average w/o zero": 50.2
-        },
-        "SD": {
-          "count": 253,
-          "sum": 12543.500000000005,
-          "average": 49.57905138339921,
-          "average w/o zero": 49.57905138339921
+          "count": 75,
+          "sum": 3788.5000000000005,
+          "average": 50.513333333333335,
+          "average w/o zero": 50.513333333333335
         },
         "AL": {
-          "count": 439,
-          "sum": 22034.70000000001,
-          "average": 50.192938496583146,
-          "average w/o zero": 50.192938496583146
+          "count": 67,
+          "sum": 3445.1,
+          "average": 51.419402985074626,
+          "average w/o zero": 51.419402985074626
         },
         "OR": {
-          "count": 241,
-          "sum": 11995.900000000001,
-          "average": 49.77551867219917,
-          "average w/o zero": 49.77551867219917
-        },
-        "WV": {
-          "count": 338,
-          "sum": 16867.899999999998,
-          "average": 49.905029585798815,
-          "average w/o zero": 49.905029585798815
+          "count": 36,
+          "sum": 1796.5999999999997,
+          "average": 49.90555555555556,
+          "average w/o zero": 49.90555555555556
         },
         "MA": {
-          "count": 49,
-          "sum": 2474.4,
-          "average": 50.49795918367347,
-          "average w/o zero": 50.49795918367347
+          "count": 14,
+          "sum": 719.7,
+          "average": 51.40714285714286,
+          "average w/o zero": 51.40714285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 5254.800000000004,
-          "average": 49.573584905660375,
-          "average w/o zero": 49.573584905660375
+          "count": 29,
+          "sum": 1419.9999999999998,
+          "average": 48.96551724137931,
+          "average w/o zero": 48.96551724137931
         },
         "MT": {
-          "count": 186,
-          "sum": 9181.7,
-          "average": 49.36397849462366,
-          "average w/o zero": 49.36397849462366
-        },
-        "NH": {
-          "count": 31,
-          "sum": 1554.3000000000002,
-          "average": 50.13870967741936,
-          "average w/o zero": 50.13870967741936
-        },
-        "NM": {
-          "count": 92,
-          "sum": 4548.999999999999,
-          "average": 49.44565217391305,
-          "average w/o zero": 49.44565217391305
-        },
-        "RI": {
-          "count": 39,
-          "sum": 1967.2999999999997,
-          "average": 50.44358974358974,
-          "average w/o zero": 50.44358974358974
+          "count": 56,
+          "sum": 2747.1,
+          "average": 49.05535714285714,
+          "average w/o zero": 49.05535714285714
         },
         "NV": {
-          "count": 70,
-          "sum": 3444.3,
-          "average": 49.20428571428572,
-          "average w/o zero": 49.20428571428572
-        },
-        "DC": {
-          "count": 1,
-          "sum": 52.6,
-          "average": 52.6,
-          "average w/o zero": 52.6
+          "count": 17,
+          "sum": 804.9999999999999,
+          "average": 47.35294117647059,
+          "average w/o zero": 47.35294117647059
         },
         "CT": {
-          "count": 14,
-          "sum": 712.6,
-          "average": 50.9,
-          "average w/o zero": 50.9
+          "count": 8,
+          "sum": 406.5,
+          "average": 50.8125,
+          "average w/o zero": 50.8125
         },
         "HI": {
           "count": 5,
@@ -2151,306 +1689,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 50.74
         },
         "DE": {
-          "count": 9,
-          "sum": 449.0,
-          "average": 49.888888888888886,
-          "average w/o zero": 49.888888888888886
+          "count": 3,
+          "sum": 155.0,
+          "average": 51.666666666666664,
+          "average w/o zero": 51.666666666666664
         }
       },
       "Ethnicities.White Alone": {
-        "SC": {
-          "count": 146,
-          "sum": 11127.099999999999,
-          "average": 76.21301369863014,
-          "average w/o zero": 76.21301369863014
-        },
         "LA": {
-          "count": 63,
-          "sum": 4030.2999999999993,
-          "average": 63.973015873015875,
-          "average w/o zero": 63.973015873015875
+          "count": 64,
+          "sum": 4115.399999999999,
+          "average": 64.303125,
+          "average w/o zero": 64.303125
         },
         "VA": {
-          "count": 375,
-          "sum": 30305.80000000001,
-          "average": 80.81546666666667,
-          "average w/o zero": 80.81546666666667
+          "count": 132,
+          "sum": 9932.799999999996,
+          "average": 75.24848484848485,
+          "average w/o zero": 75.24848484848485
         },
         "ID": {
-          "count": 209,
-          "sum": 18406.799999999996,
-          "average": 88.07081339712919,
-          "average w/o zero": 88.07081339712919
+          "count": 44,
+          "sum": 4125.7,
+          "average": 93.76590909090909,
+          "average w/o zero": 93.76590909090909
         },
         "IA": {
-          "count": 640,
-          "sum": 55337.90000000003,
-          "average": 86.46546875,
-          "average w/o zero": 86.46546875
+          "count": 98,
+          "sum": 9287.799999999997,
+          "average": 94.7734693877551,
+          "average w/o zero": 94.7734693877551
         },
         "KY": {
-          "count": 707,
-          "sum": 62152.3,
-          "average": 87.909900990099,
-          "average w/o zero": 87.909900990099
+          "count": 120,
+          "sum": 11213.799999999997,
+          "average": 93.44833333333334,
+          "average w/o zero": 93.44833333333334
         },
         "MO": {
-          "count": 692,
-          "sum": 60339.30000000002,
-          "average": 87.19552023121388,
-          "average w/o zero": 87.19552023121388
+          "count": 115,
+          "sum": 10637.800000000003,
+          "average": 92.50260869565217,
+          "average w/o zero": 92.50260869565217
         },
         "OK": {
-          "count": 279,
-          "sum": 23642.799999999992,
-          "average": 84.74121863799283,
-          "average w/o zero": 84.74121863799283
+          "count": 77,
+          "sum": 5942.499999999999,
+          "average": 77.17532467532467,
+          "average w/o zero": 77.17532467532467
         },
         "CO": {
-          "count": 252,
-          "sum": 22104.80000000001,
-          "average": 87.71746031746032,
-          "average w/o zero": 87.71746031746032
+          "count": 64,
+          "sum": 5876.5999999999985,
+          "average": 91.821875,
+          "average w/o zero": 91.821875
         },
         "IL": {
-          "count": 718,
-          "sum": 62371.30000000002,
-          "average": 86.86810584958218,
-          "average w/o zero": 86.86810584958218
+          "count": 102,
+          "sum": 9296.6,
+          "average": 91.14313725490196,
+          "average w/o zero": 91.14313725490196
         },
         "IN": {
-          "count": 675,
-          "sum": 58943.80000000002,
-          "average": 87.32414814814815,
-          "average w/o zero": 87.32414814814815
+          "count": 92,
+          "sum": 8617.300000000001,
+          "average": 93.66630434782608,
+          "average w/o zero": 93.66630434782608
         },
         "MS": {
-          "count": 518,
-          "sum": 42295.29999999999,
-          "average": 81.6511583011583,
-          "average w/o zero": 81.6511583011583
-        },
-        "ND": {
-          "count": 135,
-          "sum": 12076.9,
-          "average": 89.45851851851852,
-          "average w/o zero": 89.45851851851852
+          "count": 82,
+          "sum": 4573.3,
+          "average": 55.7719512195122,
+          "average w/o zero": 55.7719512195122
         },
         "NE": {
-          "count": 446,
-          "sum": 39679.10000000001,
-          "average": 88.96659192825112,
-          "average w/o zero": 88.96659192825112
+          "count": 93,
+          "sum": 8801.400000000001,
+          "average": 94.63870967741936,
+          "average w/o zero": 94.63870967741936
         },
         "OH": {
-          "count": 567,
-          "sum": 49418.89999999999,
-          "average": 87.15855379188713,
-          "average w/o zero": 87.15855379188713
+          "count": 88,
+          "sum": 8102.6,
+          "average": 92.075,
+          "average w/o zero": 92.075
         },
         "PA": {
-          "count": 380,
-          "sum": 32752.200000000004,
-          "average": 86.19,
-          "average w/o zero": 86.19
+          "count": 67,
+          "sum": 6109.100000000002,
+          "average": 91.18059701492537,
+          "average w/o zero": 91.18059701492537
         },
         "WA": {
-          "count": 195,
-          "sum": 17132.5,
-          "average": 87.85897435897436,
-          "average w/o zero": 87.85897435897436
+          "count": 39,
+          "sum": 3423.7,
+          "average": 87.78717948717949,
+          "average w/o zero": 87.78717948717949
         },
         "WI": {
-          "count": 316,
-          "sum": 27736.199999999986,
-          "average": 87.77278481012658,
-          "average w/o zero": 87.77278481012658
+          "count": 72,
+          "sum": 6613.600000000001,
+          "average": 91.85555555555555,
+          "average w/o zero": 91.85555555555555
         },
         "VT": {
-          "count": 79,
-          "sum": 6868.700000000001,
-          "average": 86.94556962025317,
-          "average w/o zero": 86.94556962025317
+          "count": 14,
+          "sum": 1333.4,
+          "average": 95.24285714285715,
+          "average w/o zero": 95.24285714285715
         },
         "MN": {
-          "count": 308,
-          "sum": 27273.199999999983,
-          "average": 88.54935064935064,
-          "average w/o zero": 88.54935064935064
+          "count": 87,
+          "sum": 7974.3,
+          "average": 91.65862068965517,
+          "average w/o zero": 91.65862068965517
         },
         "FL": {
-          "count": 360,
-          "sum": 30081.299999999992,
-          "average": 83.55916666666667,
-          "average w/o zero": 83.55916666666667
-        },
-        "NC": {
-          "count": 420,
-          "sum": 34380.50000000001,
-          "average": 81.85833333333333,
-          "average w/o zero": 81.85833333333333
+          "count": 66,
+          "sum": 5304.3,
+          "average": 80.36818181818182,
+          "average w/o zero": 80.36818181818182
         },
         "CA": {
-          "count": 85,
-          "sum": 6955.799999999999,
-          "average": 81.83294117647058,
-          "average w/o zero": 81.83294117647058
-        },
-        "NY": {
-          "count": 323,
-          "sum": 27549.1,
-          "average": 85.29133126934984,
-          "average w/o zero": 85.29133126934984
+          "count": 58,
+          "sum": 4673.800000000001,
+          "average": 80.58275862068966,
+          "average w/o zero": 80.58275862068966
         },
         "WY": {
-          "count": 79,
-          "sum": 7178.2,
-          "average": 90.8632911392405,
-          "average w/o zero": 90.8632911392405
+          "count": 23,
+          "sum": 2155.0,
+          "average": 93.69565217391305,
+          "average w/o zero": 93.69565217391305
         },
         "MI": {
-          "count": 227,
-          "sum": 20123.2,
-          "average": 88.64845814977974,
-          "average w/o zero": 88.64845814977974
+          "count": 83,
+          "sum": 7527.400000000001,
+          "average": 90.69156626506025,
+          "average w/o zero": 90.69156626506025
         },
         "AK": {
-          "count": 20,
-          "sum": 992.4000000000002,
-          "average": 49.62,
-          "average w/o zero": 49.62
+          "count": 23,
+          "sum": 1187.3000000000002,
+          "average": 51.62173913043478,
+          "average w/o zero": 51.62173913043478
         },
         "MD": {
-          "count": 98,
-          "sum": 8056.0999999999985,
-          "average": 82.20510204081633,
-          "average w/o zero": 82.20510204081633
+          "count": 21,
+          "sum": 1525.5,
+          "average": 72.64285714285714,
+          "average w/o zero": 72.64285714285714
         },
         "KS": {
-          "count": 494,
-          "sum": 43598.29999999999,
-          "average": 88.25566801619433,
-          "average w/o zero": 88.25566801619433
+          "count": 105,
+          "sum": 9755.0,
+          "average": 92.9047619047619,
+          "average w/o zero": 92.9047619047619
         },
         "TN": {
-          "count": 626,
-          "sum": 54137.40000000001,
-          "average": 86.4814696485623,
-          "average w/o zero": 86.4814696485623
+          "count": 95,
+          "sum": 8474.7,
+          "average": 89.20736842105264,
+          "average w/o zero": 89.20736842105264
         },
         "TX": {
-          "count": 700,
-          "sum": 60491.80000000002,
-          "average": 86.41685714285714,
-          "average w/o zero": 86.41685714285714
+          "count": 254,
+          "sum": 22507.000000000004,
+          "average": 88.61023622047244,
+          "average w/o zero": 88.61023622047244
         },
         "ME": {
-          "count": 121,
-          "sum": 10647.5,
-          "average": 87.99586776859505,
-          "average w/o zero": 87.99586776859505
+          "count": 16,
+          "sum": 1522.7,
+          "average": 95.16875,
+          "average w/o zero": 95.16875
         },
         "AZ": {
-          "count": 19,
-          "sum": 1537.6,
-          "average": 80.92631578947369,
-          "average w/o zero": 80.92631578947369
+          "count": 15,
+          "sum": 1174.8,
+          "average": 78.32000000000001,
+          "average w/o zero": 78.32000000000001
         },
         "GA": {
-          "count": 736,
-          "sum": 60480.80000000002,
-          "average": 82.175,
-          "average w/o zero": 82.175
+          "count": 159,
+          "sum": 10714.199999999997,
+          "average": 67.38490566037736,
+          "average w/o zero": 67.38490566037736
         },
         "AR": {
-          "count": 534,
-          "sum": 45651.10000000003,
-          "average": 85.48895131086142,
-          "average w/o zero": 85.48895131086142
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 6748.799999999997,
-          "average": 82.30243902439024,
-          "average w/o zero": 82.30243902439024
-        },
-        "SD": {
-          "count": 253,
-          "sum": 22002.200000000008,
-          "average": 86.96521739130435,
-          "average w/o zero": 86.96521739130435
+          "count": 75,
+          "sum": 5976.599999999999,
+          "average": 79.688,
+          "average w/o zero": 79.688
         },
         "AL": {
-          "count": 439,
-          "sum": 35939.999999999985,
-          "average": 81.86788154897495,
-          "average w/o zero": 81.86788154897495
+          "count": 67,
+          "sum": 4544.799999999999,
+          "average": 67.83283582089553,
+          "average w/o zero": 67.83283582089553
         },
         "OR": {
-          "count": 241,
-          "sum": 20953.000000000004,
-          "average": 86.94190871369294,
-          "average w/o zero": 86.94190871369294
-        },
-        "WV": {
-          "count": 338,
-          "sum": 29816.699999999983,
-          "average": 88.21508875739644,
-          "average w/o zero": 88.21508875739644
+          "count": 36,
+          "sum": 3262.3,
+          "average": 90.61944444444444,
+          "average w/o zero": 90.61944444444444
         },
         "MA": {
-          "count": 49,
-          "sum": 4209.399999999999,
-          "average": 85.90612244897959,
-          "average w/o zero": 85.90612244897959
+          "count": 14,
+          "sum": 1183.2000000000003,
+          "average": 84.51428571428572,
+          "average w/o zero": 84.51428571428572
         },
         "UT": {
-          "count": 106,
-          "sum": 9443.600000000002,
-          "average": 89.09056603773585,
-          "average w/o zero": 89.09056603773585
+          "count": 29,
+          "sum": 2675.0999999999995,
+          "average": 92.2448275862069,
+          "average w/o zero": 92.2448275862069
         },
         "MT": {
-          "count": 186,
-          "sum": 16193.300000000003,
-          "average": 87.06075268817204,
-          "average w/o zero": 87.06075268817204
-        },
-        "NH": {
-          "count": 31,
-          "sum": 2827.6,
-          "average": 91.21290322580646,
-          "average w/o zero": 91.21290322580646
-        },
-        "NM": {
-          "count": 92,
-          "sum": 8021.000000000001,
-          "average": 87.18478260869566,
-          "average w/o zero": 87.18478260869566
-        },
-        "RI": {
-          "count": 39,
-          "sum": 3320.4999999999995,
-          "average": 85.14102564102564,
-          "average w/o zero": 85.14102564102564
+          "count": 56,
+          "sum": 4914.2,
+          "average": 87.75357142857143,
+          "average w/o zero": 87.75357142857143
         },
         "NV": {
-          "count": 70,
-          "sum": 6237.600000000001,
-          "average": 89.10857142857142,
-          "average w/o zero": 89.10857142857142
-        },
-        "DC": {
-          "count": 1,
-          "sum": 46.0,
-          "average": 46.0,
-          "average w/o zero": 46.0
+          "count": 17,
+          "sum": 1455.3999999999999,
+          "average": 85.61176470588235,
+          "average w/o zero": 85.61176470588235
         },
         "CT": {
-          "count": 14,
-          "sum": 1116.7,
-          "average": 79.76428571428572,
-          "average w/o zero": 79.76428571428572
+          "count": 8,
+          "sum": 676.7,
+          "average": 84.5875,
+          "average w/o zero": 84.5875
         },
         "HI": {
           "count": 5,
@@ -2459,306 +1931,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 30.28
         },
         "DE": {
-          "count": 9,
-          "sum": 697.3,
-          "average": 77.47777777777777,
-          "average w/o zero": 77.47777777777777
+          "count": 3,
+          "sum": 213.2,
+          "average": 71.06666666666666,
+          "average w/o zero": 71.06666666666666
         }
       },
       "Ethnicities.Black Alone": {
-        "SC": {
-          "count": 146,
-          "sum": 2858.500000000001,
-          "average": 19.578767123287673,
-          "average w/o zero": 19.578767123287673
-        },
         "LA": {
-          "count": 63,
-          "sum": 2042.3000000000002,
-          "average": 32.41746031746032,
-          "average w/o zero": 32.41746031746032
+          "count": 64,
+          "sum": 2054.4,
+          "average": 32.1,
+          "average w/o zero": 32.1
         },
         "VA": {
-          "count": 375,
-          "sum": 5279.500000000001,
-          "average": 14.078666666666667,
-          "average w/o zero": 14.078666666666667
+          "count": 132,
+          "sum": 2490.3,
+          "average": 18.865909090909092,
+          "average w/o zero": 18.865909090909092
         },
         "ID": {
-          "count": 209,
-          "sum": 1392.8999999999999,
-          "average": 6.664593301435406,
-          "average w/o zero": 6.664593301435406
+          "count": 44,
+          "sum": 30.5,
+          "average": 0.6931818181818182,
+          "average w/o zero": 0.6931818181818182
         },
         "IA": {
-          "count": 640,
-          "sum": 5767.799999999998,
-          "average": 9.0121875,
-          "average w/o zero": 9.0121875
+          "count": 98,
+          "sum": 174.0999999999999,
+          "average": 1.776530612244898,
+          "average w/o zero": 1.776530612244898
         },
         "KY": {
-          "count": 707,
-          "sum": 5627.9000000000015,
-          "average": 7.9602545968882605,
-          "average w/o zero": 7.9602545968882605
+          "count": 120,
+          "sum": 464.6,
+          "average": 3.8716666666666666,
+          "average w/o zero": 3.8716666666666666
         },
         "MO": {
-          "count": 692,
-          "sum": 5921.600000000001,
-          "average": 8.557225433526012,
-          "average w/o zero": 8.557225433526012
+          "count": 115,
+          "sum": 440.49999999999994,
+          "average": 3.8304347826086955,
+          "average w/o zero": 3.8304347826086955
         },
         "OK": {
-          "count": 279,
-          "sum": 1764.7999999999997,
-          "average": 6.3254480286738355,
-          "average w/o zero": 6.3254480286738355
+          "count": 77,
+          "sum": 292.80000000000007,
+          "average": 3.8025974025974025,
+          "average w/o zero": 3.8025974025974025
         },
         "CO": {
-          "count": 252,
-          "sum": 1547.6999999999994,
-          "average": 6.141666666666667,
-          "average w/o zero": 6.141666666666667
+          "count": 64,
+          "sum": 128.5,
+          "average": 2.0078125,
+          "average w/o zero": 2.0078125
         },
         "IL": {
-          "count": 718,
-          "sum": 6393.2,
-          "average": 8.904178272980502,
-          "average w/o zero": 8.904178272980502
+          "count": 102,
+          "sum": 549.8000000000002,
+          "average": 5.390196078431373,
+          "average w/o zero": 5.390196078431373
         },
         "IN": {
-          "count": 675,
-          "sum": 5688.099999999998,
-          "average": 8.426814814814815,
-          "average w/o zero": 8.426814814814815
+          "count": 92,
+          "sum": 282.1999999999999,
+          "average": 3.0673913043478263,
+          "average w/o zero": 3.0673913043478263
         },
         "MS": {
-          "count": 518,
-          "sum": 7394.500000000006,
-          "average": 14.275096525096526,
-          "average w/o zero": 14.275096525096526
-        },
-        "ND": {
-          "count": 135,
-          "sum": 501.19999999999993,
-          "average": 3.7125925925925927,
-          "average w/o zero": 3.7125925925925927
+          "count": 82,
+          "sum": 3412.8999999999996,
+          "average": 41.62073170731707,
+          "average w/o zero": 41.62073170731707
         },
         "NE": {
-          "count": 446,
-          "sum": 2639.0999999999985,
-          "average": 5.917264573991031,
-          "average w/o zero": 6.070361990950226
+          "count": 93,
+          "sum": 62.69999999999998,
+          "average": 0.6741935483870968,
+          "average w/o zero": 1.198876404494382
         },
         "OH": {
-          "count": 567,
-          "sum": 4836.300000000003,
-          "average": 8.52962962962963,
-          "average w/o zero": 8.52962962962963
+          "count": 88,
+          "sum": 392.1000000000002,
+          "average": 4.4556818181818185,
+          "average w/o zero": 4.4556818181818185
         },
         "PA": {
-          "count": 380,
-          "sum": 3621.6000000000004,
-          "average": 9.530526315789473,
-          "average w/o zero": 9.530526315789473
+          "count": 67,
+          "sum": 345.80000000000007,
+          "average": 5.161194029850746,
+          "average w/o zero": 5.161194029850746
         },
         "WA": {
-          "count": 195,
-          "sum": 1113.6000000000004,
-          "average": 5.710769230769231,
-          "average w/o zero": 5.796907216494845
+          "count": 39,
+          "sum": 69.4,
+          "average": 1.7794871794871796,
+          "average w/o zero": 1.7794871794871796
         },
         "WI": {
-          "count": 316,
-          "sum": 2100.1000000000004,
-          "average": 6.645886075949367,
-          "average w/o zero": 6.645886075949367
+          "count": 72,
+          "sum": 136.30000000000004,
+          "average": 1.8930555555555555,
+          "average w/o zero": 1.8930555555555555
         },
         "VT": {
-          "count": 79,
-          "sum": 638.8,
-          "average": 8.086075949367089,
-          "average w/o zero": 8.086075949367089
+          "count": 14,
+          "sum": 15.099999999999998,
+          "average": 1.0785714285714285,
+          "average w/o zero": 1.0785714285714285
         },
         "MN": {
-          "count": 308,
-          "sum": 1725.3000000000002,
-          "average": 5.601623376623377,
-          "average w/o zero": 5.601623376623377
+          "count": 87,
+          "sum": 183.99999999999997,
+          "average": 2.1149425287356323,
+          "average w/o zero": 2.1149425287356323
         },
         "FL": {
-          "count": 360,
-          "sum": 4211.099999999999,
-          "average": 11.6975,
-          "average w/o zero": 11.6975
-        },
-        "NC": {
-          "count": 420,
-          "sum": 5536.400000000001,
-          "average": 13.181904761904763,
-          "average w/o zero": 13.181904761904763
+          "count": 66,
+          "sum": 978.1000000000001,
+          "average": 14.81969696969697,
+          "average w/o zero": 14.81969696969697
         },
         "CA": {
-          "count": 85,
-          "sum": 447.4000000000001,
-          "average": 5.263529411764706,
-          "average w/o zero": 5.263529411764706
-        },
-        "NY": {
-          "count": 323,
-          "sum": 3186.8999999999996,
-          "average": 9.86656346749226,
-          "average w/o zero": 9.86656346749226
+          "count": 58,
+          "sum": 208.5,
+          "average": 3.594827586206897,
+          "average w/o zero": 3.594827586206897
         },
         "WY": {
-          "count": 79,
-          "sum": 282.1,
-          "average": 3.570886075949367,
-          "average w/o zero": 3.570886075949367
+          "count": 23,
+          "sum": 22.799999999999997,
+          "average": 0.9913043478260869,
+          "average w/o zero": 0.9913043478260869
         },
         "MI": {
-          "count": 227,
-          "sum": 1355.8999999999999,
-          "average": 5.973127753303965,
-          "average w/o zero": 5.973127753303965
+          "count": 83,
+          "sum": 338.5,
+          "average": 4.078313253012048,
+          "average w/o zero": 4.078313253012048
         },
         "AK": {
-          "count": 20,
-          "sum": 44.1,
-          "average": 2.205,
-          "average w/o zero": 2.205
+          "count": 23,
+          "sum": 51.59999999999999,
+          "average": 2.243478260869565,
+          "average w/o zero": 2.243478260869565
         },
         "MD": {
-          "count": 98,
-          "sum": 1227.3999999999999,
-          "average": 12.524489795918367,
-          "average w/o zero": 12.524489795918367
+          "count": 21,
+          "sum": 426.1,
+          "average": 20.29047619047619,
+          "average w/o zero": 20.29047619047619
         },
         "KS": {
-          "count": 494,
-          "sum": 3321.500000000003,
-          "average": 6.723684210526316,
-          "average w/o zero": 6.723684210526316
+          "count": 105,
+          "sum": 232.49999999999991,
+          "average": 2.2142857142857144,
+          "average w/o zero": 2.2142857142857144
         },
         "TN": {
-          "count": 626,
-          "sum": 5859.599999999998,
-          "average": 9.36038338658147,
-          "average w/o zero": 9.36038338658147
+          "count": 95,
+          "sum": 723.2999999999997,
+          "average": 7.613684210526316,
+          "average w/o zero": 7.613684210526316
         },
         "TX": {
-          "count": 700,
-          "sum": 6188.7000000000035,
-          "average": 8.841,
-          "average w/o zero": 8.89785100286533
+          "count": 254,
+          "sum": 1735.9000000000008,
+          "average": 6.834251968503937,
+          "average w/o zero": 6.904743083003953
         },
         "ME": {
-          "count": 121,
-          "sum": 914.5,
-          "average": 7.5578512396694215,
-          "average w/o zero": 7.5578512396694215
+          "count": 16,
+          "sum": 18.8,
+          "average": 1.175,
+          "average w/o zero": 1.175
         },
         "AZ": {
-          "count": 19,
-          "sum": 41.9,
-          "average": 2.205263157894737,
-          "average w/o zero": 2.205263157894737
+          "count": 15,
+          "sum": 35.4,
+          "average": 2.36,
+          "average w/o zero": 2.36
         },
         "GA": {
-          "count": 736,
-          "sum": 9920.800000000012,
-          "average": 13.479347826086956,
-          "average w/o zero": 13.51265306122449
+          "count": 159,
+          "sum": 4555.499999999998,
+          "average": 28.650943396226417,
+          "average w/o zero": 28.650943396226417
         },
         "AR": {
-          "count": 534,
-          "sum": 5462.900000000004,
-          "average": 10.230149812734082,
-          "average w/o zero": 10.230149812734082
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 972.0999999999998,
-          "average": 11.854878048780488,
-          "average w/o zero": 11.854878048780488
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1321.3,
-          "average": 5.222529644268775,
-          "average w/o zero": 5.222529644268775
+          "count": 75,
+          "sum": 1226.1999999999998,
+          "average": 16.349333333333334,
+          "average w/o zero": 16.349333333333334
         },
         "AL": {
-          "count": 439,
-          "sum": 6103.400000000001,
-          "average": 13.902961275626424,
-          "average w/o zero": 13.902961275626424
+          "count": 67,
+          "sum": 1921.4000000000003,
+          "average": 28.677611940298508,
+          "average w/o zero": 28.677611940298508
         },
         "OR": {
-          "count": 241,
-          "sum": 1847.6999999999996,
-          "average": 7.666804979253112,
-          "average w/o zero": 7.744583333333333
-        },
-        "WV": {
-          "count": 338,
-          "sum": 2638.5999999999976,
-          "average": 7.806508875739645,
-          "average w/o zero": 7.806508875739645
+          "count": 36,
+          "sum": 37.10000000000001,
+          "average": 1.0305555555555557,
+          "average w/o zero": 1.0305555555555557
         },
         "MA": {
-          "count": 49,
-          "sum": 411.6,
-          "average": 8.4,
-          "average w/o zero": 8.4
+          "count": 14,
+          "sum": 108.19999999999999,
+          "average": 7.728571428571429,
+          "average w/o zero": 7.728571428571429
         },
         "UT": {
-          "count": 106,
-          "sum": 580.7000000000002,
-          "average": 5.478301886792453,
-          "average w/o zero": 5.478301886792453
+          "count": 29,
+          "sum": 22.5,
+          "average": 0.7758620689655172,
+          "average w/o zero": 0.7758620689655172
         },
         "MT": {
-          "count": 186,
-          "sum": 1093.9000000000003,
-          "average": 5.881182795698924,
-          "average w/o zero": 6.064673913043478
-        },
-        "NH": {
-          "count": 31,
-          "sum": 153.70000000000002,
-          "average": 4.958064516129032,
-          "average w/o zero": 4.958064516129032
-        },
-        "NM": {
-          "count": 92,
-          "sum": 395.00000000000006,
-          "average": 4.293478260869565,
-          "average w/o zero": 4.293478260869565
-        },
-        "RI": {
-          "count": 39,
-          "sum": 371.9999999999999,
-          "average": 9.538461538461538,
-          "average w/o zero": 9.538461538461538
+          "count": 56,
+          "sum": 4.600000000000002,
+          "average": 0.08214285714285714,
+          "average w/o zero": 0.4925925925925926
         },
         "NV": {
-          "count": 70,
-          "sum": 322.70000000000005,
-          "average": 4.61,
-          "average w/o zero": 4.61
-        },
-        "DC": {
-          "count": 1,
-          "sum": 46.0,
-          "average": 46.0,
-          "average w/o zero": 46.0
+          "count": 17,
+          "sum": 54.1,
+          "average": 3.1823529411764704,
+          "average w/o zero": 3.1823529411764704
         },
         "CT": {
-          "count": 14,
-          "sum": 167.79999999999998,
-          "average": 11.985714285714286,
-          "average w/o zero": 11.985714285714286
+          "count": 8,
+          "sum": 66.0,
+          "average": 8.25,
+          "average w/o zero": 8.25
         },
         "HI": {
           "count": 5,
@@ -2767,306 +2173,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1.275
         },
         "DE": {
-          "count": 9,
-          "sum": 153.9,
-          "average": 17.1,
-          "average w/o zero": 17.1
+          "count": 3,
+          "sum": 65.9,
+          "average": 21.966666666666665,
+          "average w/o zero": 21.966666666666665
         }
       },
       "Ethnicities.American Indian and Alaska Native Alone": {
-        "SC": {
-          "count": 146,
-          "sum": 138.9000000000001,
-          "average": 0.9513698630136986,
-          "average w/o zero": 0.9513698630136986
-        },
         "LA": {
-          "count": 63,
-          "sum": 57.30000000000001,
-          "average": 0.9095238095238095,
-          "average w/o zero": 0.9095238095238095
+          "count": 64,
+          "sum": 58.7,
+          "average": 0.9171875,
+          "average w/o zero": 0.9171875
         },
         "VA": {
-          "count": 375,
-          "sum": 277.0000000000002,
-          "average": 0.7386666666666667,
-          "average w/o zero": 0.7506775067750677
+          "count": 132,
+          "sum": 60.599999999999994,
+          "average": 0.4590909090909091,
+          "average w/o zero": 0.48095238095238096
         },
         "ID": {
-          "count": 209,
-          "sum": 396.20000000000005,
-          "average": 1.8956937799043063,
-          "average w/o zero": 1.8956937799043063
+          "count": 44,
+          "sum": 95.4,
+          "average": 2.168181818181818,
+          "average w/o zero": 2.168181818181818
         },
         "IA": {
-          "count": 640,
-          "sum": 820.6999999999975,
-          "average": 1.2823437500000001,
-          "average w/o zero": 1.2823437500000001
+          "count": 98,
+          "sum": 54.59999999999999,
+          "average": 0.5571428571428572,
+          "average w/o zero": 0.5571428571428572
         },
         "KY": {
-          "count": 707,
-          "sum": 785.9999999999978,
-          "average": 1.1117397454031117,
-          "average w/o zero": 1.1117397454031117
+          "count": 120,
+          "sum": 41.199999999999974,
+          "average": 0.3433333333333333,
+          "average w/o zero": 0.3433333333333333
         },
         "MO": {
-          "count": 692,
-          "sum": 740.6999999999979,
-          "average": 1.0703757225433526,
-          "average w/o zero": 1.0703757225433526
+          "count": 115,
+          "sum": 82.89999999999999,
+          "average": 0.7208695652173913,
+          "average w/o zero": 0.7208695652173913
         },
         "OK": {
-          "count": 279,
-          "sum": 1322.7999999999988,
-          "average": 4.741218637992832,
-          "average w/o zero": 4.741218637992832
+          "count": 77,
+          "sum": 907.9000000000001,
+          "average": 11.790909090909091,
+          "average w/o zero": 11.790909090909091
         },
         "CO": {
-          "count": 252,
-          "sum": 637.2999999999998,
-          "average": 2.528968253968254,
-          "average w/o zero": 2.528968253968254
+          "count": 64,
+          "sum": 141.89999999999995,
+          "average": 2.2171875,
+          "average w/o zero": 2.2171875
         },
         "IL": {
-          "count": 718,
-          "sum": 718.7999999999978,
-          "average": 1.0011142061281337,
-          "average w/o zero": 1.0011142061281337
+          "count": 102,
+          "sum": 42.59999999999997,
+          "average": 0.4176470588235294,
+          "average w/o zero": 0.4176470588235294
         },
         "IN": {
-          "count": 675,
-          "sum": 695.7999999999976,
-          "average": 1.0308148148148149,
-          "average w/o zero": 1.0308148148148149
+          "count": 92,
+          "sum": 37.69999999999996,
+          "average": 0.4097826086956522,
+          "average w/o zero": 0.4097826086956522
         },
         "MS": {
-          "count": 518,
-          "sum": 575.4999999999998,
-          "average": 1.111003861003861,
-          "average w/o zero": 1.111003861003861
-        },
-        "ND": {
-          "count": 135,
-          "sum": 492.60000000000014,
-          "average": 3.648888888888889,
-          "average w/o zero": 3.648888888888889
+          "count": 82,
+          "sum": 62.49999999999997,
+          "average": 0.7621951219512195,
+          "average w/o zero": 0.7621951219512195
         },
         "NE": {
-          "count": 446,
-          "sum": 818.6999999999991,
-          "average": 1.8356502242152466,
-          "average w/o zero": 1.864494382022472
+          "count": 93,
+          "sum": 169.8,
+          "average": 1.8258064516129033,
+          "average w/o zero": 1.9652173913043478
         },
         "OH": {
-          "count": 567,
-          "sum": 612.1999999999989,
-          "average": 1.0797178130511464,
-          "average w/o zero": 1.0797178130511464
+          "count": 88,
+          "sum": 28.199999999999996,
+          "average": 0.32045454545454544,
+          "average w/o zero": 0.32045454545454544
         },
         "PA": {
-          "count": 380,
-          "sum": 338.1000000000004,
-          "average": 0.8897368421052632,
-          "average w/o zero": 0.8897368421052632
+          "count": 67,
+          "sum": 21.900000000000002,
+          "average": 0.32686567164179103,
+          "average w/o zero": 0.32686567164179103
         },
         "WA": {
-          "count": 195,
-          "sum": 456.00000000000006,
-          "average": 2.3384615384615386,
-          "average w/o zero": 2.3384615384615386
+          "count": 39,
+          "sum": 122.10000000000001,
+          "average": 3.1307692307692307,
+          "average w/o zero": 3.1307692307692307
         },
         "WI": {
-          "count": 316,
-          "sum": 696.5999999999996,
-          "average": 2.2044303797468356,
-          "average w/o zero": 2.2044303797468356
+          "count": 72,
+          "sum": 221.0,
+          "average": 3.0694444444444446,
+          "average w/o zero": 3.0694444444444446
         },
         "VT": {
-          "count": 79,
-          "sum": 80.49999999999999,
-          "average": 1.018987341772152,
-          "average w/o zero": 1.018987341772152
-        },
-        "MN": {
-          "count": 308,
-          "sum": 720.899999999999,
-          "average": 2.3405844155844155,
-          "average w/o zero": 2.3405844155844155
-        },
-        "FL": {
-          "count": 360,
-          "sum": 435.7000000000001,
-          "average": 1.2102777777777778,
-          "average w/o zero": 1.2102777777777778
-        },
-        "NC": {
-          "count": 420,
-          "sum": 617.1999999999995,
-          "average": 1.4695238095238095,
-          "average w/o zero": 1.4695238095238095
-        },
-        "CA": {
-          "count": 85,
-          "sum": 243.8000000000001,
-          "average": 2.868235294117647,
-          "average w/o zero": 2.868235294117647
-        },
-        "NY": {
-          "count": 323,
-          "sum": 296.2000000000003,
-          "average": 0.9170278637770898,
-          "average w/o zero": 0.9170278637770898
-        },
-        "WY": {
-          "count": 79,
-          "sum": 191.10000000000008,
-          "average": 2.418987341772152,
-          "average w/o zero": 2.418987341772152
-        },
-        "MI": {
-          "count": 227,
-          "sum": 474.50000000000006,
-          "average": 2.090308370044053,
-          "average w/o zero": 2.090308370044053
-        },
-        "AK": {
-          "count": 20,
-          "sum": 639.6999999999999,
-          "average": 31.985,
-          "average w/o zero": 31.985
-        },
-        "MD": {
-          "count": 98,
-          "sum": 80.50000000000003,
-          "average": 0.8214285714285714,
-          "average w/o zero": 0.8214285714285714
-        },
-        "KS": {
-          "count": 494,
-          "sum": 771.4999999999991,
-          "average": 1.561740890688259,
-          "average w/o zero": 1.5872210953346857
-        },
-        "TN": {
-          "count": 626,
-          "sum": 637.6999999999988,
-          "average": 1.0186900958466454,
-          "average w/o zero": 1.0186900958466454
-        },
-        "TX": {
-          "count": 700,
-          "sum": 940.7999999999994,
-          "average": 1.344,
-          "average w/o zero": 1.344
-        },
-        "ME": {
-          "count": 121,
-          "sum": 133.89999999999998,
-          "average": 1.106611570247934,
-          "average w/o zero": 1.106611570247934
-        },
-        "AZ": {
-          "count": 19,
-          "sum": 238.00000000000003,
-          "average": 12.526315789473685,
-          "average w/o zero": 12.526315789473685
-        },
-        "GA": {
-          "count": 736,
-          "sum": 790.7999999999977,
-          "average": 1.0744565217391304,
-          "average w/o zero": 1.0744565217391304
-        },
-        "AR": {
-          "count": 534,
-          "sum": 557.3000000000002,
-          "average": 1.043632958801498,
-          "average w/o zero": 1.043632958801498
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 55.499999999999986,
-          "average": 0.676829268292683,
-          "average w/o zero": 0.676829268292683
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1146.899999999999,
-          "average": 4.533201581027668,
-          "average w/o zero": 4.59484126984127
-        },
-        "AL": {
-          "count": 439,
-          "sum": 491.09999999999985,
-          "average": 1.1186788154897493,
-          "average w/o zero": 1.1186788154897493
-        },
-        "OR": {
-          "count": 241,
-          "sum": 402.00000000000034,
-          "average": 1.6680497925311204,
-          "average w/o zero": 1.6680497925311204
-        },
-        "WV": {
-          "count": 338,
-          "sum": 375.1000000000001,
-          "average": 1.1097633136094673,
-          "average w/o zero": 1.1097633136094673
-        },
-        "MA": {
-          "count": 49,
-          "sum": 38.8,
-          "average": 0.7918367346938775,
-          "average w/o zero": 0.7918367346938775
-        },
-        "UT": {
-          "count": 106,
-          "sum": 221.90000000000003,
-          "average": 2.0933962264150945,
-          "average w/o zero": 2.0933962264150945
-        },
-        "MT": {
-          "count": 186,
-          "sum": 688.0999999999997,
-          "average": 3.699462365591398,
-          "average w/o zero": 3.699462365591398
-        },
-        "NH": {
-          "count": 31,
-          "sum": 17.3,
-          "average": 0.5580645161290323,
-          "average w/o zero": 0.5580645161290323
-        },
-        "NM": {
-          "count": 92,
-          "sum": 481.5000000000002,
-          "average": 5.233695652173913,
-          "average w/o zero": 5.233695652173913
-        },
-        "RI": {
-          "count": 39,
-          "sum": 47.500000000000014,
-          "average": 1.217948717948718,
-          "average w/o zero": 1.217948717948718
-        },
-        "NV": {
-          "count": 70,
-          "sum": 146.89999999999998,
-          "average": 2.0985714285714288,
-          "average w/o zero": 2.0985714285714288
-        },
-        "DC": {
-          "count": 1,
-          "sum": 0.6,
-          "average": 0.6,
-          "average w/o zero": 0.6
-        },
-        "CT": {
           "count": 14,
-          "sum": 6.999999999999999,
+          "sum": 7.0,
           "average": 0.5,
           "average w/o zero": 0.5
+        },
+        "MN": {
+          "count": 87,
+          "sum": 210.10000000000014,
+          "average": 2.414942528735632,
+          "average w/o zero": 2.414942528735632
+        },
+        "FL": {
+          "count": 66,
+          "sum": 50.3,
+          "average": 0.7621212121212121,
+          "average w/o zero": 0.7621212121212121
+        },
+        "CA": {
+          "count": 58,
+          "sum": 188.20000000000002,
+          "average": 3.2448275862068967,
+          "average w/o zero": 3.2448275862068967
+        },
+        "WY": {
+          "count": 23,
+          "sum": 52.1,
+          "average": 2.265217391304348,
+          "average w/o zero": 2.265217391304348
+        },
+        "MI": {
+          "count": 83,
+          "sum": 148.29999999999993,
+          "average": 1.7867469879518072,
+          "average w/o zero": 1.7867469879518072
+        },
+        "AK": {
+          "count": 23,
+          "sum": 671.3000000000001,
+          "average": 29.18695652173913,
+          "average w/o zero": 29.18695652173913
+        },
+        "MD": {
+          "count": 21,
+          "sum": 9.200000000000003,
+          "average": 0.4380952380952381,
+          "average w/o zero": 0.4380952380952381
+        },
+        "KS": {
+          "count": 105,
+          "sum": 142.8,
+          "average": 1.36,
+          "average w/o zero": 1.36
+        },
+        "TN": {
+          "count": 95,
+          "sum": 49.89999999999998,
+          "average": 0.5252631578947369,
+          "average w/o zero": 0.5252631578947369
+        },
+        "TX": {
+          "count": 254,
+          "sum": 324.0999999999999,
+          "average": 1.2759842519685038,
+          "average w/o zero": 1.2759842519685038
+        },
+        "ME": {
+          "count": 16,
+          "sum": 14.999999999999998,
+          "average": 0.9375,
+          "average w/o zero": 0.9375
+        },
+        "AZ": {
+          "count": 15,
+          "sum": 226.49999999999997,
+          "average": 15.1,
+          "average w/o zero": 15.1
+        },
+        "GA": {
+          "count": 159,
+          "sum": 89.3,
+          "average": 0.5616352201257861,
+          "average w/o zero": 0.5616352201257861
+        },
+        "AR": {
+          "count": 75,
+          "sum": 71.10000000000001,
+          "average": 0.948,
+          "average w/o zero": 0.948
+        },
+        "AL": {
+          "count": 67,
+          "sum": 57.799999999999976,
+          "average": 0.8626865671641791,
+          "average w/o zero": 0.8626865671641791
+        },
+        "OR": {
+          "count": 36,
+          "sum": 94.5,
+          "average": 2.625,
+          "average w/o zero": 2.625
+        },
+        "MA": {
+          "count": 14,
+          "sum": 7.700000000000001,
+          "average": 0.55,
+          "average w/o zero": 0.55
+        },
+        "UT": {
+          "count": 29,
+          "sum": 101.1,
+          "average": 3.486206896551724,
+          "average w/o zero": 3.486206896551724
+        },
+        "MT": {
+          "count": 56,
+          "sum": 477.89999999999986,
+          "average": 8.533928571428572,
+          "average w/o zero": 8.533928571428572
+        },
+        "NV": {
+          "count": 17,
+          "sum": 78.00000000000001,
+          "average": 4.588235294117647,
+          "average w/o zero": 4.588235294117647
+        },
+        "CT": {
+          "count": 8,
+          "sum": 4.5,
+          "average": 0.5625,
+          "average w/o zero": 0.5625
         },
         "HI": {
           "count": 5,
@@ -3075,306 +2415,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0.5
         },
         "DE": {
-          "count": 9,
-          "sum": 6.3999999999999995,
-          "average": 0.7111111111111111,
-          "average w/o zero": 0.7111111111111111
+          "count": 3,
+          "sum": 2.3,
+          "average": 0.7666666666666667,
+          "average w/o zero": 0.7666666666666667
         }
       },
       "Ethnicities.Asian Alone": {
-        "SC": {
-          "count": 146,
-          "sum": 187.1,
-          "average": 1.2815068493150685,
-          "average w/o zero": 1.2815068493150685
-        },
         "LA": {
-          "count": 63,
-          "sum": 61.0,
-          "average": 0.9682539682539683,
-          "average w/o zero": 0.9682539682539683
+          "count": 64,
+          "sum": 61.3,
+          "average": 0.9578125,
+          "average w/o zero": 0.9578125
         },
         "VA": {
-          "count": 375,
-          "sum": 722.7000000000004,
-          "average": 1.9272,
-          "average w/o zero": 1.9272
+          "count": 132,
+          "sum": 296.20000000000005,
+          "average": 2.243939393939394,
+          "average w/o zero": 2.243939393939394
         },
         "ID": {
-          "count": 209,
-          "sum": 235.50000000000003,
-          "average": 1.1267942583732058,
-          "average w/o zero": 1.1850961538461537
+          "count": 44,
+          "sum": 41.2,
+          "average": 0.9363636363636364,
+          "average w/o zero": 0.9363636363636364
         },
         "IA": {
-          "count": 640,
-          "sum": 807.8999999999997,
-          "average": 1.26234375,
-          "average w/o zero": 1.2815336463223788
+          "count": 98,
+          "sum": 130.70000000000005,
+          "average": 1.333673469387755,
+          "average w/o zero": 1.333673469387755
         },
         "KY": {
-          "count": 707,
-          "sum": 767.2999999999993,
-          "average": 1.0852899575671853,
-          "average w/o zero": 1.0852899575671853
+          "count": 120,
+          "sum": 78.09999999999997,
+          "average": 0.6508333333333334,
+          "average w/o zero": 0.6508333333333334
         },
         "MO": {
-          "count": 692,
-          "sum": 813.2999999999993,
-          "average": 1.1752890173410404,
-          "average w/o zero": 1.1752890173410404
+          "count": 115,
+          "sum": 96.5,
+          "average": 0.8391304347826087,
+          "average w/o zero": 0.8391304347826087
         },
         "OK": {
-          "count": 279,
-          "sum": 279.30000000000007,
-          "average": 1.0010752688172042,
-          "average w/o zero": 1.0442446043165468
+          "count": 77,
+          "sum": 75.60000000000001,
+          "average": 0.9818181818181818,
+          "average w/o zero": 0.9818181818181818
         },
         "CO": {
-          "count": 252,
-          "sum": 320.7000000000001,
-          "average": 1.2726190476190475,
-          "average w/o zero": 1.2726190476190475
+          "count": 64,
+          "sum": 95.0,
+          "average": 1.484375,
+          "average w/o zero": 1.484375
         },
         "IL": {
-          "count": 718,
-          "sum": 918.4999999999994,
-          "average": 1.2792479108635098,
-          "average w/o zero": 1.2792479108635098
+          "count": 102,
+          "sum": 139.00000000000006,
+          "average": 1.3627450980392157,
+          "average w/o zero": 1.3627450980392157
         },
         "IN": {
-          "count": 675,
-          "sum": 863.2999999999997,
-          "average": 1.2789629629629629,
-          "average w/o zero": 1.2789629629629629
+          "count": 92,
+          "sum": 114.70000000000003,
+          "average": 1.2467391304347826,
+          "average w/o zero": 1.2467391304347826
         },
         "MS": {
-          "count": 518,
-          "sum": 547.2999999999998,
-          "average": 1.0565637065637066,
-          "average w/o zero": 1.0798839458413927
-        },
-        "ND": {
-          "count": 135,
-          "sum": 139.9,
-          "average": 1.0362962962962963,
-          "average w/o zero": 1.1261194029850747
+          "count": 82,
+          "sum": 52.79999999999998,
+          "average": 0.6439024390243903,
+          "average w/o zero": 0.6439024390243903
         },
         "NE": {
-          "count": 446,
-          "sum": 482.9999999999997,
-          "average": 1.0829596412556053,
-          "average w/o zero": 1.164785553047404
+          "count": 93,
+          "sum": 33.59999999999998,
+          "average": 0.36129032258064514,
+          "average w/o zero": 0.74
         },
         "OH": {
-          "count": 567,
-          "sum": 705.9999999999999,
-          "average": 1.2451499118165785,
-          "average w/o zero": 1.2451499118165785
+          "count": 88,
+          "sum": 101.99999999999999,
+          "average": 1.1590909090909092,
+          "average w/o zero": 1.1590909090909092
         },
         "PA": {
-          "count": 380,
-          "sum": 551.0999999999997,
-          "average": 1.450263157894737,
-          "average w/o zero": 1.450263157894737
+          "count": 67,
+          "sum": 111.9,
+          "average": 1.6701492537313434,
+          "average w/o zero": 1.6701492537313434
         },
         "WA": {
-          "count": 195,
-          "sum": 288.5999999999999,
-          "average": 1.48,
-          "average w/o zero": 1.5443298969072166
+          "count": 39,
+          "sum": 122.09999999999997,
+          "average": 3.1307692307692307,
+          "average w/o zero": 3.1307692307692307
         },
         "WI": {
-          "count": 316,
-          "sum": 411.59999999999997,
-          "average": 1.3025316455696203,
-          "average w/o zero": 1.3025316455696203
+          "count": 72,
+          "sum": 103.99999999999997,
+          "average": 1.4444444444444444,
+          "average w/o zero": 1.4444444444444444
         },
         "VT": {
-          "count": 79,
-          "sum": 140.7,
-          "average": 1.781012658227848,
-          "average w/o zero": 1.781012658227848
+          "count": 14,
+          "sum": 16.5,
+          "average": 1.1785714285714286,
+          "average w/o zero": 1.1785714285714286
         },
         "MN": {
-          "count": 308,
-          "sum": 409.69999999999993,
-          "average": 1.3301948051948052,
-          "average w/o zero": 1.3301948051948052
+          "count": 87,
+          "sum": 149.79999999999998,
+          "average": 1.72183908045977,
+          "average w/o zero": 1.72183908045977
         },
         "FL": {
-          "count": 360,
-          "sum": 523.2999999999998,
-          "average": 1.4536111111111112,
-          "average w/o zero": 1.4536111111111112
-        },
-        "NC": {
-          "count": 420,
-          "sum": 577.3999999999996,
-          "average": 1.3747619047619049,
-          "average w/o zero": 1.4042959427207637
+          "count": 66,
+          "sum": 119.10000000000001,
+          "average": 1.8045454545454545,
+          "average w/o zero": 1.8045454545454545
         },
         "CA": {
-          "count": 85,
-          "sum": 523.5999999999999,
-          "average": 6.16,
-          "average w/o zero": 6.16
-        },
-        "NY": {
-          "count": 323,
-          "sum": 599.3999999999999,
-          "average": 1.8557275541795666,
-          "average w/o zero": 1.8557275541795666
+          "count": 58,
+          "sum": 467.40000000000003,
+          "average": 8.058620689655172,
+          "average w/o zero": 8.058620689655172
         },
         "WY": {
-          "count": 79,
-          "sum": 83.69999999999999,
-          "average": 1.059493670886076,
-          "average w/o zero": 1.059493670886076
+          "count": 23,
+          "sum": 22.3,
+          "average": 0.9695652173913043,
+          "average w/o zero": 0.9695652173913043
         },
         "MI": {
-          "count": 227,
-          "sum": 254.0,
-          "average": 1.118942731277533,
-          "average w/o zero": 1.118942731277533
+          "count": 83,
+          "sum": 97.6,
+          "average": 1.1759036144578312,
+          "average w/o zero": 1.1759036144578312
         },
         "AK": {
-          "count": 20,
-          "sum": 157.8,
-          "average": 7.89,
-          "average w/o zero": 7.89
+          "count": 23,
+          "sum": 181.0,
+          "average": 7.869565217391305,
+          "average w/o zero": 7.869565217391305
         },
         "MD": {
-          "count": 98,
-          "sum": 210.00000000000003,
-          "average": 2.142857142857143,
-          "average w/o zero": 2.142857142857143
+          "count": 21,
+          "sum": 79.00000000000001,
+          "average": 3.761904761904762,
+          "average w/o zero": 3.761904761904762
         },
         "KS": {
-          "count": 494,
-          "sum": 591.699999999999,
-          "average": 1.1977732793522267,
-          "average w/o zero": 1.2225152129817445
+          "count": 105,
+          "sum": 114.8,
+          "average": 1.0933333333333333,
+          "average w/o zero": 1.0933333333333333
         },
         "TN": {
-          "count": 626,
-          "sum": 736.6999999999999,
-          "average": 1.1768370607028753,
-          "average w/o zero": 1.1768370607028753
+          "count": 95,
+          "sum": 80.6,
+          "average": 0.848421052631579,
+          "average w/o zero": 0.848421052631579
         },
         "TX": {
-          "count": 700,
-          "sum": 933.8999999999993,
-          "average": 1.334142857142857,
-          "average w/o zero": 1.369484240687679
+          "count": 254,
+          "sum": 332.1,
+          "average": 1.30748031496063,
+          "average w/o zero": 1.3561264822134387
         },
         "ME": {
-          "count": 121,
-          "sum": 154.29999999999998,
-          "average": 1.2752066115702478,
-          "average w/o zero": 1.2752066115702478
+          "count": 16,
+          "sum": 15.2,
+          "average": 0.95,
+          "average w/o zero": 0.95
         },
         "AZ": {
-          "count": 19,
-          "sum": 31.400000000000006,
-          "average": 1.6526315789473685,
-          "average w/o zero": 1.6526315789473685
+          "count": 15,
+          "sum": 23.4,
+          "average": 1.56,
+          "average w/o zero": 1.56
         },
         "GA": {
-          "count": 736,
-          "sum": 904.5999999999997,
-          "average": 1.2290760869565218,
-          "average w/o zero": 1.2457142857142858
+          "count": 159,
+          "sum": 235.30000000000004,
+          "average": 1.479874213836478,
+          "average w/o zero": 1.479874213836478
         },
         "AR": {
-          "count": 534,
-          "sum": 651.7999999999998,
-          "average": 1.2205992509363295,
-          "average w/o zero": 1.2205992509363295
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 250.79999999999993,
-          "average": 3.0585365853658537,
-          "average w/o zero": 3.0585365853658537
-        },
-        "SD": {
-          "count": 253,
-          "sum": 233.5,
-          "average": 0.9229249011857708,
-          "average w/o zero": 1.0179282868525896
+          "count": 75,
+          "sum": 66.49999999999999,
+          "average": 0.8866666666666667,
+          "average w/o zero": 0.8866666666666667
         },
         "AL": {
-          "count": 439,
-          "sum": 508.30000000000007,
-          "average": 1.157858769931663,
-          "average w/o zero": 1.157858769931663
+          "count": 67,
+          "sum": 57.300000000000004,
+          "average": 0.8552238805970149,
+          "average w/o zero": 0.8552238805970149
         },
         "OR": {
-          "count": 241,
-          "sum": 315.69999999999993,
-          "average": 1.3099585062240664,
-          "average w/o zero": 1.3099585062240664
-        },
-        "WV": {
-          "count": 338,
-          "sum": 325.5000000000001,
-          "average": 0.9630177514792899,
-          "average w/o zero": 0.9630177514792899
+          "count": 36,
+          "sum": 72.0,
+          "average": 2.0,
+          "average w/o zero": 2.0
         },
         "MA": {
-          "count": 49,
-          "sum": 133.9,
-          "average": 2.73265306122449,
-          "average w/o zero": 2.73265306122449
+          "count": 14,
+          "sum": 64.30000000000001,
+          "average": 4.5928571428571425,
+          "average w/o zero": 4.5928571428571425
         },
         "UT": {
-          "count": 106,
-          "sum": 121.09999999999995,
-          "average": 1.1424528301886792,
-          "average w/o zero": 1.1424528301886792
+          "count": 29,
+          "sum": 32.3,
+          "average": 1.1137931034482758,
+          "average w/o zero": 1.1137931034482758
         },
         "MT": {
-          "count": 186,
-          "sum": 152.7000000000001,
-          "average": 0.8209677419354838,
-          "average w/o zero": 0.9494565217391304
-        },
-        "NH": {
-          "count": 31,
-          "sum": 41.8,
-          "average": 1.3483870967741935,
-          "average w/o zero": 1.3483870967741935
-        },
-        "NM": {
-          "count": 92,
-          "sum": 93.70000000000002,
-          "average": 1.0184782608695653,
-          "average w/o zero": 1.0184782608695653
-        },
-        "RI": {
-          "count": 39,
-          "sum": 67.8,
-          "average": 1.7384615384615385,
-          "average w/o zero": 1.7384615384615385
+          "count": 56,
+          "sum": 22.4,
+          "average": 0.4,
+          "average w/o zero": 0.6072727272727273
         },
         "NV": {
-          "count": 70,
-          "sum": 102.60000000000004,
-          "average": 1.4657142857142857,
-          "average w/o zero": 1.4657142857142857
-        },
-        "DC": {
-          "count": 1,
-          "sum": 4.5,
-          "average": 4.5,
-          "average w/o zero": 4.5
+          "count": 17,
+          "sum": 41.199999999999996,
+          "average": 2.4235294117647057,
+          "average w/o zero": 2.4235294117647057
         },
         "CT": {
-          "count": 14,
-          "sum": 74.9,
-          "average": 5.35,
-          "average w/o zero": 5.35
+          "count": 8,
+          "sum": 32.6,
+          "average": 4.075,
+          "average w/o zero": 4.075
         },
         "HI": {
           "count": 5,
@@ -3383,305 +2657,239 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 26.439999999999998
         },
         "DE": {
-          "count": 9,
-          "sum": 19.799999999999997,
-          "average": 2.1999999999999997,
-          "average w/o zero": 2.1999999999999997
+          "count": 3,
+          "sum": 9.6,
+          "average": 3.1999999999999997,
+          "average w/o zero": 3.1999999999999997
         }
       },
       "Ethnicities.Native Hawaiian and Other Pacific Islander Alone": {
-        "SC": {
-          "count": 146,
-          "sum": -18.399999999999952,
-          "average": -0.12602739726027398,
-          "average w/o zero": 0.167816091954023
-        },
         "LA": {
-          "count": 63,
+          "count": 64,
           "sum": -29.599999999999987,
-          "average": -0.46984126984126984,
+          "average": -0.4625,
           "average w/o zero": 0.12142857142857144
         },
         "VA": {
-          "count": 375,
-          "sum": -84.20000000000056,
-          "average": -0.22453333333333333,
-          "average w/o zero": 0.16502242152466368
+          "count": 132,
+          "sum": -33.999999999999936,
+          "average": -0.25757575757575757,
+          "average w/o zero": 0.12987012987012989
         },
         "ID": {
-          "count": 209,
-          "sum": -40.5999999999999,
-          "average": -0.19425837320574163,
-          "average w/o zero": 0.19389312977099238
+          "count": 44,
+          "sum": -2.899999999999998,
+          "average": -0.0659090909090909,
+          "average w/o zero": 0.1975609756097561
         },
         "IA": {
-          "count": 640,
-          "sum": -152.80000000000098,
-          "average": -0.23875,
-          "average w/o zero": 0.1806451612903226
+          "count": 98,
+          "sum": -19.999999999999975,
+          "average": -0.20408163265306123,
+          "average w/o zero": 0.22033898305084745
         },
         "KY": {
-          "count": 707,
-          "sum": -344.69999999999874,
-          "average": -0.48755304101838753,
-          "average w/o zero": 0.16702412868632707
+          "count": 120,
+          "sum": -102.20000000000006,
+          "average": -0.8516666666666667,
+          "average w/o zero": 0.1392857142857143
         },
         "MO": {
-          "count": 692,
-          "sum": -233.20000000000144,
-          "average": -0.33699421965317916,
-          "average w/o zero": 0.187
+          "count": 115,
+          "sum": -83.1,
+          "average": -0.7226086956521739,
+          "average w/o zero": 0.23043478260869565
         },
         "OK": {
-          "count": 279,
-          "sum": -206.4000000000006,
-          "average": -0.7397849462365591,
-          "average w/o zero": 0.2
+          "count": 77,
+          "sum": -29.69999999999994,
+          "average": -0.38571428571428573,
+          "average w/o zero": 0.23442622950819672
         },
         "CO": {
-          "count": 252,
-          "sum": -132.60000000000025,
-          "average": -0.5261904761904762,
-          "average w/o zero": 0.2037735849056604
+          "count": 64,
+          "sum": -35.29999999999997,
+          "average": -0.5515625,
+          "average w/o zero": 0.1581818181818182
         },
         "IL": {
-          "count": 718,
-          "sum": -240.3000000000013,
-          "average": -0.33467966573816155,
-          "average w/o zero": 0.17493540051679587
+          "count": 102,
+          "sum": -50.19999999999996,
+          "average": -0.492156862745098,
+          "average w/o zero": 0.11707317073170732
         },
         "IN": {
-          "count": 675,
-          "sum": -134.00000000000105,
-          "average": -0.1985185185185185,
-          "average w/o zero": 0.17534246575342466
+          "count": 92,
+          "sum": -17.39999999999999,
+          "average": -0.1891304347826087,
+          "average w/o zero": 0.11219512195121951
         },
         "MS": {
-          "count": 518,
-          "sum": -118.10000000000049,
-          "average": -0.227992277992278,
-          "average w/o zero": 0.1756554307116105
-        },
-        "ND": {
-          "count": 135,
-          "sum": -230.10000000000016,
-          "average": -1.7044444444444444,
-          "average w/o zero": 0.18307692307692308
+          "count": 82,
+          "sum": -18.799999999999994,
+          "average": -0.22926829268292684,
+          "average w/o zero": 0.1142857142857143
         },
         "NE": {
-          "count": 446,
-          "sum": -514.1999999999979,
-          "average": -1.152914798206278,
-          "average w/o zero": 0.19830508474576272
+          "count": 93,
+          "sum": -322.2999999999999,
+          "average": -3.4655913978494626,
+          "average w/o zero": 0.18333333333333335
         },
         "OH": {
-          "count": 567,
-          "sum": -105.70000000000046,
-          "average": -0.18641975308641975,
-          "average w/o zero": 0.17250000000000001
+          "count": 88,
+          "sum": -6.999999999999999,
+          "average": -0.07954545454545454,
+          "average w/o zero": 0.13793103448275862
         },
         "PA": {
-          "count": 380,
-          "sum": -54.299999999999805,
-          "average": -0.14289473684210527,
-          "average w/o zero": 0.17282051282051283
+          "count": 67,
+          "sum": -7.699999999999999,
+          "average": -0.11492537313432835,
+          "average w/o zero": 0.11379310344827587
         },
         "WA": {
-          "count": 195,
-          "sum": -108.60000000000014,
-          "average": -0.556923076923077,
-          "average w/o zero": 0.27301587301587305
+          "count": 39,
+          "sum": 6.100000000000001,
+          "average": 0.1564102564102564,
+          "average w/o zero": 0.45
         },
         "WI": {
-          "count": 316,
-          "sum": -107.90000000000043,
-          "average": -0.34145569620253163,
-          "average w/o zero": 0.20289017341040463
+          "count": 72,
+          "sum": -28.799999999999983,
+          "average": -0.4,
+          "average w/o zero": 0.1272727272727273
         },
         "VT": {
-          "count": 79,
-          "sum": -11.799999999999994,
-          "average": -0.14936708860759493,
-          "average w/o zero": 0.2170212765957447
-        },
-        "MN": {
-          "count": 308,
-          "sum": -150.80000000000047,
-          "average": -0.4896103896103896,
-          "average w/o zero": 0.18952879581151832
-        },
-        "FL": {
-          "count": 360,
-          "sum": -27.199999999999754,
-          "average": -0.07555555555555556,
-          "average w/o zero": 0.1779816513761468
-        },
-        "NC": {
-          "count": 420,
-          "sum": -74.2000000000005,
-          "average": -0.17666666666666667,
-          "average w/o zero": 0.16895306859205778
-        },
-        "CA": {
-          "count": 85,
-          "sum": 15.699999999999998,
-          "average": 0.1847058823529412,
-          "average w/o zero": 0.356
-        },
-        "NY": {
-          "count": 323,
-          "sum": -68.10000000000001,
-          "average": -0.2108359133126935,
-          "average w/o zero": 0.16885245901639345
-        },
-        "WY": {
-          "count": 79,
-          "sum": -47.199999999999974,
-          "average": -0.5974683544303797,
-          "average w/o zero": 0.15294117647058825
-        },
-        "MI": {
-          "count": 227,
-          "sum": -80.20000000000002,
-          "average": -0.35330396475770925,
-          "average w/o zero": 0.1620689655172414
-        },
-        "AK": {
-          "count": 20,
-          "sum": 1.1,
-          "average": 0.055,
-          "average w/o zero": 0.711764705882353
-        },
-        "MD": {
-          "count": 98,
-          "sum": 12.99999999999999,
-          "average": 0.1326530612244898,
-          "average w/o zero": 0.19402985074626866
-        },
-        "KS": {
-          "count": 494,
-          "sum": -452.69999999999806,
-          "average": -0.9163967611336032,
-          "average w/o zero": 0.18253424657534248
-        },
-        "TN": {
-          "count": 626,
-          "sum": -150.20000000000118,
-          "average": -0.23993610223642173,
-          "average w/o zero": 0.16657223796033996
-        },
-        "TX": {
-          "count": 700,
-          "sum": -335.9000000000002,
-          "average": -0.47985714285714287,
-          "average w/o zero": 0.16458333333333333
-        },
-        "ME": {
-          "count": 121,
-          "sum": -31.399999999999952,
-          "average": -0.25950413223140495,
-          "average w/o zero": 0.19384615384615386
-        },
-        "AZ": {
-          "count": 19,
-          "sum": -7.300000000000003,
-          "average": -0.38421052631578945,
-          "average w/o zero": 0.20555555555555557
-        },
-        "GA": {
-          "count": 736,
-          "sum": -171.50000000000074,
-          "average": -0.23301630434782608,
-          "average w/o zero": 0.18480725623582767
-        },
-        "AR": {
-          "count": 534,
-          "sum": -138.9000000000009,
-          "average": -0.2601123595505618,
-          "average w/o zero": 0.1931372549019608
-        },
-        "NJ": {
-          "count": 82,
-          "sum": -23.89999999999998,
-          "average": -0.2914634146341463,
-          "average w/o zero": 0.16851851851851854
-        },
-        "SD": {
-          "count": 253,
-          "sum": -297.5000000000001,
-          "average": -1.1758893280632412,
-          "average w/o zero": 0.16412213740458015
-        },
-        "AL": {
-          "count": 439,
-          "sum": -77.90000000000026,
-          "average": -0.17744874715261957,
-          "average w/o zero": 0.17103174603174603
-        },
-        "OR": {
-          "count": 241,
-          "sum": -75.69999999999987,
-          "average": -0.3141078838174274,
-          "average w/o zero": 0.22272727272727272
-        },
-        "WV": {
-          "count": 338,
-          "sum": -225.20000000000033,
-          "average": -0.6662721893491125,
-          "average w/o zero": 0.16951219512195123
-        },
-        "MA": {
-          "count": 49,
-          "sum": -17.099999999999984,
-          "average": -0.3489795918367347,
-          "average w/o zero": 0.13243243243243244
-        },
-        "UT": {
-          "count": 106,
-          "sum": -41.79999999999994,
-          "average": -0.39433962264150946,
-          "average w/o zero": 0.3558823529411765
-        },
-        "MT": {
-          "count": 186,
-          "sum": -224.20000000000033,
-          "average": -1.2053763440860215,
-          "average w/o zero": 0.1816326530612245
-        },
-        "NH": {
-          "count": 31,
-          "sum": -7.6,
-          "average": -0.24516129032258063,
-          "average w/o zero": 0.22666666666666666
-        },
-        "NM": {
-          "count": 92,
-          "sum": -66.00000000000003,
-          "average": -0.717391304347826,
-          "average w/o zero": 0.171875
-        },
-        "RI": {
-          "count": 39,
-          "sum": 7.199999999999997,
-          "average": 0.18461538461538463,
-          "average w/o zero": 0.26666666666666666
-        },
-        "NV": {
-          "count": 70,
-          "sum": -55.29999999999996,
-          "average": -0.79,
-          "average w/o zero": 0.2276595744680851
-        },
-        "DC": {
-          "count": 1,
-          "sum": 0.1,
-          "average": 0.1,
+          "count": 14,
+          "sum": -10.700000000000001,
+          "average": -0.7642857142857142,
           "average w/o zero": 0.1
         },
-        "CT": {
+        "MN": {
+          "count": 87,
+          "sum": -36.09999999999998,
+          "average": -0.4149425287356322,
+          "average w/o zero": 0.17555555555555555
+        },
+        "FL": {
+          "count": 66,
+          "sum": 7.199999999999997,
+          "average": 0.1090909090909091,
+          "average w/o zero": 0.13333333333333333
+        },
+        "CA": {
+          "count": 58,
+          "sum": 13.300000000000002,
+          "average": 0.22931034482758622,
+          "average w/o zero": 0.4263157894736842
+        },
+        "WY": {
+          "count": 23,
+          "sum": -9.000000000000004,
+          "average": -0.391304347826087,
+          "average w/o zero": 0.11764705882352942
+        },
+        "MI": {
+          "count": 83,
+          "sum": -29.899999999999988,
+          "average": -0.3602409638554217,
+          "average w/o zero": 0.1
+        },
+        "AK": {
+          "count": 23,
+          "sum": 4.6,
+          "average": 0.19999999999999998,
+          "average w/o zero": 0.78
+        },
+        "MD": {
+          "count": 21,
+          "sum": 2.1000000000000005,
+          "average": 0.1,
+          "average w/o zero": 0.11666666666666667
+        },
+        "KS": {
+          "count": 105,
+          "sum": -231.9000000000002,
+          "average": -2.2085714285714286,
+          "average w/o zero": 0.16833333333333333
+        },
+        "TN": {
+          "count": 95,
+          "sum": 6.399999999999993,
+          "average": 0.06736842105263158,
+          "average w/o zero": 0.1142857142857143
+        },
+        "TX": {
+          "count": 254,
+          "sum": -226.90000000000046,
+          "average": -0.8933070866141732,
+          "average w/o zero": 0.14500000000000002
+        },
+        "ME": {
+          "count": 16,
+          "sum": 0.0,
+          "average": 0,
+          "average w/o zero": 0
+        },
+        "AZ": {
+          "count": 15,
+          "sum": 3.2,
+          "average": 0.21333333333333335,
+          "average w/o zero": 0.21333333333333335
+        },
+        "GA": {
+          "count": 159,
+          "sum": -34.7,
+          "average": -0.21823899371069183,
+          "average w/o zero": 0.1735042735042735
+        },
+        "AR": {
+          "count": 75,
+          "sum": 2.0999999999999965,
+          "average": 0.028,
+          "average w/o zero": 0.30465116279069765
+        },
+        "AL": {
+          "count": 67,
+          "sum": -25.39999999999997,
+          "average": -0.37910447761194027,
+          "average w/o zero": 0.17272727272727273
+        },
+        "OR": {
+          "count": 36,
+          "sum": 11.600000000000001,
+          "average": 0.32222222222222224,
+          "average w/o zero": 0.3314285714285714
+        },
+        "MA": {
           "count": 14,
-          "sum": 1.3,
-          "average": 0.09285714285714286,
+          "sum": 1.8000000000000005,
+          "average": 0.1285714285714286,
+          "average w/o zero": 0.1285714285714286
+        },
+        "UT": {
+          "count": 29,
+          "sum": 11.099999999999998,
+          "average": 0.38275862068965516,
+          "average w/o zero": 0.38275862068965516
+        },
+        "MT": {
+          "count": 56,
+          "sum": -173.20000000000007,
+          "average": -3.092857142857143,
+          "average w/o zero": 0.1272727272727273
+        },
+        "NV": {
+          "count": 17,
+          "sum": 5.7,
+          "average": 0.33529411764705885,
+          "average w/o zero": 0.35625
+        },
+        "CT": {
+          "count": 8,
+          "sum": 0.7999999999999999,
+          "average": 0.1,
           "average w/o zero": 0.1
         },
         "HI": {
@@ -3691,306 +2899,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18.18
         },
         "DE": {
-          "count": 9,
-          "sum": 0.8,
-          "average": 0.08888888888888889,
-          "average w/o zero": 0.1142857142857143
+          "count": 3,
+          "sum": 0.4,
+          "average": 0.13333333333333333,
+          "average w/o zero": 0.13333333333333333
         }
       },
       "Ethnicities.Two or More Races": {
-        "SC": {
-          "count": 146,
-          "sum": 272.9,
-          "average": 1.8691780821917807,
-          "average w/o zero": 1.8691780821917807
-        },
         "LA": {
-          "count": 63,
-          "sum": 106.00000000000001,
-          "average": 1.6825396825396826,
-          "average w/o zero": 1.6825396825396826
+          "count": 64,
+          "sum": 107.10000000000001,
+          "average": 1.6734375,
+          "average w/o zero": 1.6734375
         },
         "VA": {
-          "count": 375,
-          "sum": 809.3000000000001,
-          "average": 2.1581333333333332,
-          "average w/o zero": 2.1581333333333332
+          "count": 132,
+          "sum": 341.90000000000003,
+          "average": 2.5901515151515153,
+          "average w/o zero": 2.5901515151515153
         },
         "ID": {
-          "count": 209,
-          "sum": 431.3999999999998,
-          "average": 2.064114832535885,
-          "average w/o zero": 2.064114832535885
+          "count": 44,
+          "sum": 99.40000000000003,
+          "average": 2.2590909090909093,
+          "average w/o zero": 2.2590909090909093
         },
         "IA": {
-          "count": 640,
-          "sum": 1183.2999999999997,
-          "average": 1.84890625,
-          "average w/o zero": 1.84890625
+          "count": 98,
+          "sum": 139.29999999999995,
+          "average": 1.4214285714285715,
+          "average w/o zero": 1.4214285714285715
         },
         "KY": {
-          "count": 707,
-          "sum": 1299.5999999999997,
-          "average": 1.838189533239038,
-          "average w/o zero": 1.838189533239038
+          "count": 120,
+          "sum": 194.30000000000004,
+          "average": 1.6191666666666666,
+          "average w/o zero": 1.6191666666666666
         },
         "MO": {
-          "count": 692,
-          "sum": 1305.2999999999995,
-          "average": 1.886271676300578,
-          "average w/o zero": 1.886271676300578
+          "count": 115,
+          "sum": 225.70000000000007,
+          "average": 1.962608695652174,
+          "average w/o zero": 1.962608695652174
         },
         "OK": {
-          "count": 279,
-          "sum": 843.8999999999993,
-          "average": 3.024731182795699,
-          "average w/o zero": 3.024731182795699
+          "count": 77,
+          "sum": 467.19999999999993,
+          "average": 6.067532467532468,
+          "average w/o zero": 6.067532467532468
         },
         "CO": {
-          "count": 252,
-          "sum": 556.2999999999998,
-          "average": 2.2075396825396827,
-          "average w/o zero": 2.2075396825396827
+          "count": 64,
+          "sum": 149.5,
+          "average": 2.3359375,
+          "average w/o zero": 2.3359375
         },
         "IL": {
-          "count": 718,
-          "sum": 1326.8999999999996,
-          "average": 1.848050139275766,
-          "average w/o zero": 1.848050139275766
+          "count": 102,
+          "sum": 166.49999999999994,
+          "average": 1.6323529411764706,
+          "average w/o zero": 1.6323529411764706
         },
         "IN": {
-          "count": 675,
-          "sum": 1240.6999999999994,
-          "average": 1.8380740740740742,
-          "average w/o zero": 1.8380740740740742
+          "count": 92,
+          "sum": 143.5,
+          "average": 1.559782608695652,
+          "average w/o zero": 1.559782608695652
         },
         "MS": {
-          "count": 518,
-          "sum": 925.1999999999992,
-          "average": 1.7861003861003861,
-          "average w/o zero": 1.7861003861003861
-        },
-        "ND": {
-          "count": 135,
-          "sum": 266.59999999999997,
-          "average": 1.9748148148148148,
-          "average w/o zero": 1.9748148148148148
+          "count": 82,
+          "sum": 95.29999999999998,
+          "average": 1.1621951219512194,
+          "average w/o zero": 1.1621951219512194
         },
         "NE": {
-          "count": 446,
-          "sum": 831.0999999999993,
-          "average": 1.8634529147982062,
-          "average w/o zero": 1.8923595505617978
+          "count": 93,
+          "sum": 124.8,
+          "average": 1.3419354838709678,
+          "average w/o zero": 1.4760869565217392
         },
         "OH": {
-          "count": 567,
-          "sum": 1071.899999999999,
-          "average": 1.8904761904761904,
-          "average w/o zero": 1.8904761904761904
+          "count": 88,
+          "sum": 169.9,
+          "average": 1.9306818181818182,
+          "average w/o zero": 1.9306818181818182
         },
         "PA": {
-          "count": 380,
-          "sum": 700.0999999999999,
-          "average": 1.8423684210526317,
-          "average w/o zero": 1.8423684210526317
+          "count": 67,
+          "sum": 108.6,
+          "average": 1.6208955223880597,
+          "average w/o zero": 1.6208955223880597
         },
         "WA": {
-          "count": 195,
-          "sum": 452.0999999999999,
-          "average": 2.3184615384615386,
-          "average w/o zero": 2.3184615384615386
+          "count": 39,
+          "sum": 145.3,
+          "average": 3.7256410256410257,
+          "average w/o zero": 3.7256410256410257
         },
         "WI": {
-          "count": 316,
-          "sum": 618.8000000000001,
-          "average": 1.9582278481012658,
-          "average w/o zero": 1.9582278481012658
+          "count": 72,
+          "sum": 120.89999999999996,
+          "average": 1.6791666666666667,
+          "average w/o zero": 1.6791666666666667
         },
         "VT": {
-          "count": 79,
-          "sum": 160.7,
-          "average": 2.0341772151898736,
-          "average w/o zero": 2.0341772151898736
+          "count": 14,
+          "sum": 27.5,
+          "average": 1.9642857142857144,
+          "average w/o zero": 1.9642857142857144
         },
         "MN": {
-          "count": 308,
-          "sum": 634.6999999999997,
-          "average": 2.0607142857142855,
-          "average w/o zero": 2.0607142857142855
+          "count": 87,
+          "sum": 173.60000000000005,
+          "average": 1.9954022988505746,
+          "average w/o zero": 1.9954022988505746
         },
         "FL": {
-          "count": 360,
-          "sum": 707.9999999999995,
-          "average": 1.9666666666666666,
-          "average w/o zero": 1.9666666666666666
-        },
-        "NC": {
-          "count": 420,
-          "sum": 829.4999999999989,
-          "average": 1.975,
-          "average w/o zero": 1.975
+          "count": 66,
+          "sum": 141.10000000000002,
+          "average": 2.1378787878787877,
+          "average w/o zero": 2.1378787878787877
         },
         "CA": {
-          "count": 85,
-          "sum": 303.79999999999995,
-          "average": 3.5741176470588236,
-          "average w/o zero": 3.5741176470588236
-        },
-        "NY": {
-          "count": 323,
-          "sum": 635.6999999999997,
-          "average": 1.9681114551083592,
-          "average w/o zero": 1.9681114551083592
+          "count": 58,
+          "sum": 238.69999999999993,
+          "average": 4.11551724137931,
+          "average w/o zero": 4.11551724137931
         },
         "WY": {
-          "count": 79,
-          "sum": 157.10000000000002,
-          "average": 1.9886075949367088,
-          "average w/o zero": 1.9886075949367088
+          "count": 23,
+          "sum": 46.1,
+          "average": 2.0043478260869567,
+          "average w/o zero": 2.0043478260869567
         },
         "MI": {
-          "count": 227,
-          "sum": 473.09999999999997,
-          "average": 2.0841409691629957,
-          "average w/o zero": 2.0841409691629957
+          "count": 83,
+          "sum": 185.0,
+          "average": 2.2289156626506026,
+          "average w/o zero": 2.2289156626506026
         },
         "AK": {
-          "count": 20,
-          "sum": 154.4,
-          "average": 7.72,
-          "average w/o zero": 7.72
+          "count": 23,
+          "sum": 189.0,
+          "average": 8.217391304347826,
+          "average w/o zero": 8.217391304347826
         },
         "MD": {
-          "count": 98,
-          "sum": 210.30000000000015,
-          "average": 2.1459183673469386,
-          "average w/o zero": 2.1459183673469386
+          "count": 21,
+          "sum": 55.699999999999996,
+          "average": 2.6523809523809523,
+          "average w/o zero": 2.6523809523809523
         },
         "KS": {
-          "count": 494,
-          "sum": 1039.3999999999994,
-          "average": 2.104048582995951,
-          "average w/o zero": 2.104048582995951
+          "count": 105,
+          "sum": 244.69999999999987,
+          "average": 2.3304761904761904,
+          "average w/o zero": 2.3304761904761904
         },
         "TN": {
-          "count": 626,
-          "sum": 1166.1,
-          "average": 1.862779552715655,
-          "average w/o zero": 1.862779552715655
+          "count": 95,
+          "sum": 164.1,
+          "average": 1.7273684210526317,
+          "average w/o zero": 1.7273684210526317
         },
         "TX": {
-          "count": 700,
-          "sum": 1314.199999999999,
-          "average": 1.8774285714285714,
-          "average w/o zero": 1.8958512160228898
+          "count": 254,
+          "sum": 440.30000000000007,
+          "average": 1.7334645669291338,
+          "average w/o zero": 1.783794466403162
         },
         "ME": {
-          "count": 121,
-          "sum": 235.90000000000003,
-          "average": 1.949586776859504,
-          "average w/o zero": 1.949586776859504
+          "count": 16,
+          "sum": 27.6,
+          "average": 1.725,
+          "average w/o zero": 1.725
         },
         "AZ": {
-          "count": 19,
-          "sum": 47.2,
-          "average": 2.4842105263157896,
-          "average w/o zero": 2.4842105263157896
+          "count": 15,
+          "sum": 36.8,
+          "average": 2.453333333333333,
+          "average w/o zero": 2.453333333333333
         },
         "GA": {
-          "count": 736,
-          "sum": 1395.1999999999994,
-          "average": 1.8956521739130434,
-          "average w/o zero": 1.8956521739130434
+          "count": 159,
+          "sum": 284.9000000000002,
+          "average": 1.7918238993710691,
+          "average w/o zero": 1.7918238993710691
         },
         "AR": {
-          "count": 534,
-          "sum": 1013.0999999999993,
-          "average": 1.8971910112359551,
-          "average w/o zero": 1.8971910112359551
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 164.49999999999997,
-          "average": 2.0060975609756095,
-          "average w/o zero": 2.0060975609756095
-        },
-        "SD": {
-          "count": 253,
-          "sum": 541.9999999999999,
-          "average": 2.142292490118577,
-          "average w/o zero": 2.142292490118577
+          "count": 75,
+          "sum": 145.99999999999997,
+          "average": 1.9466666666666668,
+          "average w/o zero": 1.9466666666666668
         },
         "AL": {
-          "count": 439,
-          "sum": 811.599999999999,
-          "average": 1.84874715261959,
-          "average w/o zero": 1.84874715261959
+          "count": 67,
+          "sum": 111.60000000000002,
+          "average": 1.6656716417910449,
+          "average w/o zero": 1.6656716417910449
         },
         "OR": {
-          "count": 241,
-          "sum": 535.0,
-          "average": 2.219917012448133,
-          "average w/o zero": 2.219917012448133
-        },
-        "WV": {
-          "count": 338,
-          "sum": 613.2000000000002,
-          "average": 1.8142011834319527,
-          "average w/o zero": 1.8142011834319527
+          "count": 36,
+          "sum": 122.49999999999999,
+          "average": 3.4027777777777777,
+          "average w/o zero": 3.4027777777777777
         },
         "MA": {
-          "count": 49,
-          "sum": 101.39999999999999,
-          "average": 2.0693877551020408,
-          "average w/o zero": 2.0693877551020408
+          "count": 14,
+          "sum": 34.699999999999996,
+          "average": 2.4785714285714286,
+          "average w/o zero": 2.4785714285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 208.10000000000005,
-          "average": 1.9632075471698114,
-          "average w/o zero": 1.9632075471698114
+          "count": 29,
+          "sum": 57.70000000000001,
+          "average": 1.9896551724137932,
+          "average w/o zero": 1.9896551724137932
         },
         "MT": {
-          "count": 186,
-          "sum": 409.09999999999974,
-          "average": 2.1994623655913976,
-          "average w/o zero": 2.1994623655913976
-        },
-        "NH": {
-          "count": 31,
-          "sum": 56.100000000000016,
-          "average": 1.8096774193548388,
-          "average w/o zero": 1.8096774193548388
-        },
-        "NM": {
-          "count": 92,
-          "sum": 198.2999999999999,
-          "average": 2.1554347826086957,
-          "average w/o zero": 2.1554347826086957
-        },
-        "RI": {
-          "count": 39,
-          "sum": 84.7,
-          "average": 2.1717948717948716,
-          "average w/o zero": 2.1717948717948716
+          "count": 56,
+          "sum": 144.30000000000004,
+          "average": 2.5767857142857142,
+          "average w/o zero": 2.5767857142857142
         },
         "NV": {
-          "count": 70,
-          "sum": 171.00000000000003,
-          "average": 2.442857142857143,
-          "average w/o zero": 2.442857142857143
-        },
-        "DC": {
-          "count": 1,
-          "sum": 2.9,
-          "average": 2.9,
-          "average w/o zero": 2.9
+          "count": 17,
+          "sum": 57.29999999999998,
+          "average": 3.3705882352941177,
+          "average w/o zero": 3.3705882352941177
         },
         "CT": {
-          "count": 14,
-          "sum": 32.5,
-          "average": 2.3214285714285716,
-          "average w/o zero": 2.3214285714285716
+          "count": 8,
+          "sum": 19.400000000000002,
+          "average": 2.425,
+          "average w/o zero": 2.425
         },
         "HI": {
           "count": 5,
@@ -3999,306 +3141,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 23.66
         },
         "DE": {
-          "count": 9,
-          "sum": 22.0,
-          "average": 2.4444444444444446,
-          "average w/o zero": 2.4444444444444446
+          "count": 3,
+          "sum": 8.600000000000001,
+          "average": 2.8666666666666667,
+          "average w/o zero": 2.8666666666666667
         }
       },
       "Ethnicities.Hispanic or Latino": {
-        "SC": {
-          "count": 146,
-          "sum": 896.4999999999999,
-          "average": 6.140410958904109,
-          "average w/o zero": 6.140410958904109
-        },
         "LA": {
-          "count": 63,
-          "sum": 242.50000000000003,
-          "average": 3.8492063492063493,
-          "average w/o zero": 3.8492063492063493
+          "count": 64,
+          "sum": 245.40000000000003,
+          "average": 3.834375,
+          "average w/o zero": 3.834375
         },
         "VA": {
-          "count": 375,
-          "sum": 2433.2,
-          "average": 6.488533333333334,
-          "average w/o zero": 6.488533333333334
+          "count": 132,
+          "sum": 764.1999999999997,
+          "average": 5.789393939393939,
+          "average w/o zero": 5.789393939393939
         },
         "ID": {
-          "count": 209,
-          "sum": 1655.8999999999996,
-          "average": 7.922966507177033,
-          "average w/o zero": 7.922966507177033
+          "count": 44,
+          "sum": 586.1000000000001,
+          "average": 13.320454545454545,
+          "average w/o zero": 13.320454545454545
         },
         "IA": {
-          "count": 640,
-          "sum": 4043.0999999999976,
-          "average": 6.31734375,
-          "average w/o zero": 6.31734375
+          "count": 98,
+          "sum": 508.6999999999999,
+          "average": 5.190816326530612,
+          "average w/o zero": 5.190816326530612
         },
         "KY": {
-          "count": 707,
-          "sum": 3933.399999999994,
-          "average": 5.563507779349363,
-          "average w/o zero": 5.563507779349363
+          "count": 120,
+          "sum": 320.90000000000003,
+          "average": 2.674166666666667,
+          "average w/o zero": 2.674166666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 3834.4999999999995,
-          "average": 5.541184971098266,
-          "average w/o zero": 5.541184971098266
+          "count": 115,
+          "sum": 365.5000000000001,
+          "average": 3.1782608695652175,
+          "average w/o zero": 3.1782608695652175
         },
         "OK": {
-          "count": 279,
-          "sum": 2114.8000000000006,
-          "average": 7.579928315412187,
-          "average w/o zero": 7.579928315412187
+          "count": 77,
+          "sum": 747.8999999999995,
+          "average": 9.712987012987012,
+          "average w/o zero": 9.712987012987012
         },
         "CO": {
-          "count": 252,
-          "sum": 2760.2000000000016,
-          "average": 10.953174603174602,
-          "average w/o zero": 10.953174603174602
+          "count": 64,
+          "sum": 1289.8000000000004,
+          "average": 20.153125,
+          "average w/o zero": 20.153125
         },
         "IL": {
-          "count": 718,
-          "sum": 4494.499999999998,
-          "average": 6.25974930362117,
-          "average w/o zero": 6.25974930362117
+          "count": 102,
+          "sum": 541.5,
+          "average": 5.3088235294117645,
+          "average w/o zero": 5.3088235294117645
         },
         "IN": {
-          "count": 675,
-          "sum": 4107.899999999996,
-          "average": 6.0857777777777775,
-          "average w/o zero": 6.0857777777777775
+          "count": 92,
+          "sum": 399.19999999999993,
+          "average": 4.339130434782609,
+          "average w/o zero": 4.339130434782609
         },
         "MS": {
-          "count": 518,
-          "sum": 2870.8000000000015,
-          "average": 5.5420849420849425,
-          "average w/o zero": 5.5420849420849425
-        },
-        "ND": {
-          "count": 135,
-          "sum": 838.8000000000004,
-          "average": 6.213333333333333,
-          "average w/o zero": 6.213333333333333
+          "count": 82,
+          "sum": 232.90000000000003,
+          "average": 2.8402439024390245,
+          "average w/o zero": 2.8402439024390245
         },
         "NE": {
-          "count": 446,
-          "sum": 3312.1999999999985,
-          "average": 7.426457399103139,
-          "average w/o zero": 7.426457399103139
+          "count": 93,
+          "sum": 684.8,
+          "average": 7.363440860215054,
+          "average w/o zero": 7.363440860215054
         },
         "OH": {
-          "count": 567,
-          "sum": 3240.6999999999944,
-          "average": 5.715520282186949,
-          "average w/o zero": 5.715520282186949
+          "count": 88,
+          "sum": 259.8999999999999,
+          "average": 2.953409090909091,
+          "average w/o zero": 2.953409090909091
         },
         "PA": {
-          "count": 380,
-          "sum": 2261.199999999999,
-          "average": 5.950526315789474,
-          "average w/o zero": 5.950526315789474
+          "count": 67,
+          "sum": 322.1000000000001,
+          "average": 4.807462686567164,
+          "average w/o zero": 4.807462686567164
         },
         "WA": {
-          "count": 195,
-          "sum": 1656.7999999999993,
-          "average": 8.496410256410256,
-          "average w/o zero": 8.496410256410256
+          "count": 39,
+          "sum": 580.5000000000001,
+          "average": 14.884615384615385,
+          "average w/o zero": 14.884615384615385
         },
         "WI": {
-          "count": 316,
-          "sum": 2016.0,
-          "average": 6.379746835443038,
-          "average w/o zero": 6.379746835443038
+          "count": 72,
+          "sum": 293.19999999999993,
+          "average": 4.072222222222222,
+          "average w/o zero": 4.072222222222222
         },
         "VT": {
-          "count": 79,
-          "sum": 546.9,
-          "average": 6.922784810126583,
-          "average w/o zero": 6.922784810126583
+          "count": 14,
+          "sum": 26.7,
+          "average": 1.907142857142857,
+          "average w/o zero": 1.907142857142857
         },
         "MN": {
-          "count": 308,
-          "sum": 2149.0999999999995,
-          "average": 6.977597402597403,
-          "average w/o zero": 6.977597402597403
+          "count": 87,
+          "sum": 428.30000000000024,
+          "average": 4.922988505747126,
+          "average w/o zero": 4.922988505747126
         },
         "FL": {
-          "count": 360,
-          "sum": 2967.2999999999997,
-          "average": 8.2425,
-          "average w/o zero": 8.2425
-        },
-        "NC": {
-          "count": 420,
-          "sum": 2981.6999999999994,
-          "average": 7.099285714285714,
-          "average w/o zero": 7.099285714285714
+          "count": 66,
+          "sum": 927.7000000000002,
+          "average": 14.056060606060607,
+          "average w/o zero": 14.056060606060607
         },
         "CA": {
-          "count": 85,
-          "sum": 2202.0999999999995,
-          "average": 25.90705882352941,
-          "average w/o zero": 25.90705882352941
-        },
-        "NY": {
-          "count": 323,
-          "sum": 2075.2999999999993,
-          "average": 6.425077399380805,
-          "average w/o zero": 6.425077399380805
+          "count": 58,
+          "sum": 1810.6999999999996,
+          "average": 31.21896551724138,
+          "average w/o zero": 31.21896551724138
         },
         "WY": {
-          "count": 79,
-          "sum": 584.2000000000003,
-          "average": 7.39493670886076,
-          "average w/o zero": 7.39493670886076
+          "count": 23,
+          "sum": 200.79999999999998,
+          "average": 8.730434782608695,
+          "average w/o zero": 8.730434782608695
         },
         "MI": {
-          "count": 227,
-          "sum": 1343.7,
-          "average": 5.9193832599118945,
-          "average w/o zero": 5.9193832599118945
+          "count": 83,
+          "sum": 314.2,
+          "average": 3.7855421686746986,
+          "average w/o zero": 3.7855421686746986
         },
         "AK": {
-          "count": 20,
-          "sum": 118.3,
-          "average": 5.915,
-          "average w/o zero": 5.915
+          "count": 23,
+          "sum": 141.09999999999997,
+          "average": 6.1347826086956525,
+          "average w/o zero": 6.1347826086956525
         },
         "MD": {
-          "count": 98,
-          "sum": 624.7000000000002,
-          "average": 6.374489795918367,
-          "average w/o zero": 6.374489795918367
+          "count": 21,
+          "sum": 129.2,
+          "average": 6.152380952380953,
+          "average w/o zero": 6.152380952380953
         },
         "KS": {
-          "count": 494,
-          "sum": 3888.5000000000005,
-          "average": 7.8714574898785425,
-          "average w/o zero": 7.8714574898785425
+          "count": 105,
+          "sum": 1102.9999999999998,
+          "average": 10.504761904761905,
+          "average w/o zero": 10.504761904761905
         },
         "TN": {
-          "count": 626,
-          "sum": 3844.399999999996,
-          "average": 6.141214057507987,
-          "average w/o zero": 6.141214057507987
+          "count": 95,
+          "sum": 373.59999999999985,
+          "average": 3.9326315789473685,
+          "average w/o zero": 3.9326315789473685
         },
         "TX": {
-          "count": 700,
-          "sum": 11580.700000000006,
-          "average": 16.543857142857142,
-          "average w/o zero": 16.543857142857142
+          "count": 254,
+          "sum": 9006.600000000008,
+          "average": 35.459055118110236,
+          "average w/o zero": 35.459055118110236
         },
         "ME": {
-          "count": 121,
-          "sum": 704.3,
-          "average": 5.8206611570247935,
-          "average w/o zero": 5.8206611570247935
+          "count": 16,
+          "sum": 26.6,
+          "average": 1.6625,
+          "average w/o zero": 1.6625
         },
         "AZ": {
-          "count": 19,
-          "sum": 542.3000000000001,
-          "average": 28.542105263157893,
-          "average w/o zero": 28.542105263157893
+          "count": 15,
+          "sum": 475.6,
+          "average": 31.706666666666667,
+          "average w/o zero": 31.706666666666667
         },
         "GA": {
-          "count": 736,
-          "sum": 4967.699999999993,
-          "average": 6.749592391304348,
-          "average w/o zero": 6.749592391304348
+          "count": 159,
+          "sum": 1112.8000000000013,
+          "average": 6.99874213836478,
+          "average w/o zero": 6.99874213836478
         },
         "AR": {
-          "count": 534,
-          "sum": 3284.6999999999985,
-          "average": 6.151123595505618,
-          "average w/o zero": 6.151123595505618
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 685.3000000000002,
-          "average": 8.357317073170732,
-          "average w/o zero": 8.357317073170732
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1704.9000000000003,
-          "average": 6.738735177865613,
-          "average w/o zero": 6.738735177865613
+          "count": 75,
+          "sum": 426.6000000000001,
+          "average": 5.688,
+          "average w/o zero": 5.688
         },
         "AL": {
-          "count": 439,
-          "sum": 2503.7000000000007,
-          "average": 5.703189066059226,
-          "average w/o zero": 5.703189066059226
+          "count": 67,
+          "sum": 266.8999999999999,
+          "average": 3.9835820895522387,
+          "average w/o zero": 3.9835820895522387
         },
         "OR": {
-          "count": 241,
-          "sum": 1941.4999999999995,
-          "average": 8.056016597510373,
-          "average w/o zero": 8.056016597510373
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1799.400000000001,
-          "average": 5.323668639053254,
-          "average w/o zero": 5.323668639053254
+          "count": 36,
+          "sum": 450.2,
+          "average": 12.505555555555556,
+          "average w/o zero": 12.505555555555556
         },
         "MA": {
-          "count": 49,
-          "sum": 416.9999999999999,
-          "average": 8.510204081632653,
-          "average w/o zero": 8.510204081632653
+          "count": 14,
+          "sum": 147.8,
+          "average": 10.557142857142857,
+          "average w/o zero": 10.557142857142857
         },
         "UT": {
-          "count": 106,
-          "sum": 804.3000000000003,
-          "average": 7.587735849056604,
-          "average w/o zero": 7.587735849056604
+          "count": 29,
+          "sum": 278.1,
+          "average": 9.589655172413794,
+          "average w/o zero": 9.589655172413794
         },
         "MT": {
-          "count": 186,
-          "sum": 1285.1000000000004,
-          "average": 6.909139784946237,
-          "average w/o zero": 6.909139784946237
-        },
-        "NH": {
-          "count": 31,
-          "sum": 174.10000000000002,
-          "average": 5.616129032258065,
-          "average w/o zero": 5.616129032258065
-        },
-        "NM": {
-          "count": 92,
-          "sum": 1940.4999999999993,
-          "average": 21.092391304347824,
-          "average w/o zero": 21.092391304347824
-        },
-        "RI": {
-          "count": 39,
-          "sum": 255.3,
-          "average": 6.546153846153846,
-          "average w/o zero": 6.546153846153846
+          "count": 56,
+          "sum": 192.0,
+          "average": 3.4285714285714284,
+          "average w/o zero": 3.4285714285714284
         },
         "NV": {
-          "count": 70,
-          "sum": 716.2000000000002,
-          "average": 10.231428571428571,
-          "average w/o zero": 10.231428571428571
-        },
-        "DC": {
-          "count": 1,
-          "sum": 11.3,
-          "average": 11.3,
-          "average w/o zero": 11.3
+          "count": 17,
+          "sum": 320.09999999999997,
+          "average": 18.82941176470588,
+          "average w/o zero": 18.82941176470588
         },
         "CT": {
-          "count": 14,
-          "sum": 142.0,
-          "average": 10.142857142857142,
-          "average w/o zero": 10.142857142857142
+          "count": 8,
+          "sum": 101.5,
+          "average": 12.6875,
+          "average w/o zero": 12.6875
         },
         "HI": {
           "count": 5,
@@ -4307,306 +3383,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 9.42
         },
         "DE": {
-          "count": 9,
-          "sum": 80.2,
-          "average": 8.911111111111111,
-          "average w/o zero": 8.911111111111111
+          "count": 3,
+          "sum": 27.1,
+          "average": 9.033333333333333,
+          "average w/o zero": 9.033333333333333
         }
       },
       "Ethnicities.White Alone, not Hispanic or Latino": {
-        "SC": {
-          "count": 146,
-          "sum": 10375.400000000003,
-          "average": 71.06438356164384,
-          "average w/o zero": 71.06438356164384
-        },
         "LA": {
-          "count": 63,
-          "sum": 3837.5,
-          "average": 60.91269841269841,
-          "average w/o zero": 60.91269841269841
+          "count": 64,
+          "sum": 3920.1000000000004,
+          "average": 61.2515625,
+          "average w/o zero": 61.2515625
         },
         "VA": {
-          "count": 375,
-          "sum": 28307.399999999994,
-          "average": 75.4864,
-          "average w/o zero": 75.4864
+          "count": 132,
+          "sum": 9356.799999999996,
+          "average": 70.88484848484849,
+          "average w/o zero": 70.88484848484849
         },
         "ID": {
-          "count": 209,
-          "sum": 16967.0,
-          "average": 81.18181818181819,
-          "average w/o zero": 81.18181818181819
+          "count": 44,
+          "sum": 3603.2,
+          "average": 81.89090909090909,
+          "average w/o zero": 81.89090909090909
         },
         "IA": {
-          "count": 640,
-          "sum": 51854.69999999995,
-          "average": 81.02296875,
-          "average w/o zero": 81.02296875
+          "count": 98,
+          "sum": 8837.899999999996,
+          "average": 90.18265306122449,
+          "average w/o zero": 90.18265306122449
         },
         "KY": {
-          "count": 707,
-          "sum": 58765.59999999999,
-          "average": 83.11966053748232,
-          "average w/o zero": 83.11966053748232
+          "count": 120,
+          "sum": 10941.3,
+          "average": 91.1775,
+          "average w/o zero": 91.1775
         },
         "MO": {
-          "count": 692,
-          "sum": 57047.09999999999,
-          "average": 82.43800578034683,
-          "average w/o zero": 82.43800578034683
+          "count": 115,
+          "sum": 10329.600000000006,
+          "average": 89.82260869565218,
+          "average w/o zero": 89.82260869565218
         },
         "OK": {
-          "count": 279,
-          "sum": 21865.900000000005,
-          "average": 78.37240143369175,
-          "average w/o zero": 78.37240143369175
+          "count": 77,
+          "sum": 5347.700000000001,
+          "average": 69.45064935064936,
+          "average w/o zero": 69.45064935064936
         },
         "CO": {
-          "count": 252,
-          "sum": 19692.800000000007,
-          "average": 78.14603174603175,
-          "average w/o zero": 78.14603174603175
+          "count": 64,
+          "sum": 4733.999999999997,
+          "average": 73.96875,
+          "average w/o zero": 73.96875
         },
         "IL": {
-          "count": 718,
-          "sum": 58484.7,
-          "average": 81.4550139275766,
-          "average w/o zero": 81.4550139275766
+          "count": 102,
+          "sum": 8818.199999999997,
+          "average": 86.45294117647059,
+          "average w/o zero": 86.45294117647059
         },
         "IN": {
-          "count": 675,
-          "sum": 55400.19999999998,
-          "average": 82.07437037037037,
-          "average w/o zero": 82.07437037037037
+          "count": 92,
+          "sum": 8264.900000000005,
+          "average": 89.8358695652174,
+          "average w/o zero": 89.8358695652174
         },
         "MS": {
-          "count": 518,
-          "sum": 39852.79999999999,
-          "average": 76.93590733590733,
-          "average w/o zero": 76.93590733590733
-        },
-        "ND": {
-          "count": 135,
-          "sum": 11368.5,
-          "average": 84.21111111111111,
-          "average w/o zero": 84.21111111111111
+          "count": 82,
+          "sum": 4396.300000000001,
+          "average": 53.613414634146345,
+          "average w/o zero": 53.613414634146345
         },
         "NE": {
-          "count": 446,
-          "sum": 36799.10000000002,
-          "average": 82.50919282511211,
-          "average w/o zero": 82.50919282511211
+          "count": 93,
+          "sum": 8205.3,
+          "average": 88.22903225806452,
+          "average w/o zero": 88.22903225806452
         },
         "OH": {
-          "count": 567,
-          "sum": 46642.40000000002,
-          "average": 82.26172839506172,
-          "average w/o zero": 82.26172839506172
+          "count": 88,
+          "sum": 7883.9,
+          "average": 89.58977272727273,
+          "average w/o zero": 89.58977272727273
         },
         "PA": {
-          "count": 380,
-          "sum": 30834.899999999983,
-          "average": 81.14447368421052,
-          "average w/o zero": 81.14447368421052
+          "count": 67,
+          "sum": 5858.000000000001,
+          "average": 87.43283582089552,
+          "average w/o zero": 87.43283582089552
         },
         "WA": {
-          "count": 195,
-          "sum": 15698.899999999994,
-          "average": 80.50717948717949,
-          "average w/o zero": 80.50717948717949
+          "count": 39,
+          "sum": 2922.1000000000004,
+          "average": 74.92564102564103,
+          "average w/o zero": 74.92564102564103
         },
         "WI": {
-          "count": 316,
-          "sum": 26012.10000000001,
-          "average": 82.31677215189873,
-          "average w/o zero": 82.31677215189873
+          "count": 72,
+          "sum": 6371.699999999996,
+          "average": 88.49583333333334,
+          "average w/o zero": 88.49583333333334
         },
         "VT": {
-          "count": 79,
-          "sum": 6403.2,
-          "average": 81.05316455696203,
-          "average w/o zero": 81.05316455696203
+          "count": 14,
+          "sum": 1310.9999999999998,
+          "average": 93.64285714285714,
+          "average w/o zero": 93.64285714285714
         },
         "MN": {
-          "count": 308,
-          "sum": 25420.999999999996,
-          "average": 82.53571428571429,
-          "average w/o zero": 82.53571428571429
+          "count": 87,
+          "sum": 7613.200000000002,
+          "average": 87.50804597701149,
+          "average w/o zero": 87.50804597701149
         },
         "FL": {
-          "count": 360,
-          "sum": 27493.8,
-          "average": 76.37166666666667,
-          "average w/o zero": 76.37166666666667
-        },
-        "NC": {
-          "count": 420,
-          "sum": 31847.499999999985,
-          "average": 75.82738095238095,
-          "average w/o zero": 75.82738095238095
+          "count": 66,
+          "sum": 4475.900000000001,
+          "average": 67.81666666666666,
+          "average w/o zero": 67.81666666666666
         },
         "CA": {
-          "count": 85,
-          "sum": 5013.099999999998,
-          "average": 58.97764705882353,
-          "average w/o zero": 58.97764705882353
-        },
-        "NY": {
-          "count": 323,
-          "sum": 25826.39999999999,
-          "average": 79.9578947368421,
-          "average w/o zero": 79.9578947368421
+          "count": 58,
+          "sum": 3076.499999999999,
+          "average": 53.043103448275865,
+          "average w/o zero": 53.043103448275865
         },
         "WY": {
-          "count": 79,
-          "sum": 6673.000000000001,
-          "average": 84.46835443037975,
-          "average w/o zero": 84.46835443037975
+          "count": 23,
+          "sum": 1979.9,
+          "average": 86.08260869565217,
+          "average w/o zero": 86.08260869565217
         },
         "MI": {
-          "count": 227,
-          "sum": 18976.1,
-          "average": 83.59515418502203,
-          "average w/o zero": 83.59515418502203
+          "count": 83,
+          "sum": 7262.3,
+          "average": 87.49759036144579,
+          "average w/o zero": 87.49759036144579
         },
         "AK": {
-          "count": 20,
-          "sum": 916.2999999999998,
-          "average": 45.815,
-          "average w/o zero": 45.815
+          "count": 23,
+          "sum": 1100.5,
+          "average": 47.84782608695652,
+          "average w/o zero": 47.84782608695652
         },
         "MD": {
-          "count": 98,
-          "sum": 7529.299999999999,
-          "average": 76.82959183673469,
-          "average w/o zero": 76.82959183673469
+          "count": 21,
+          "sum": 1423.9000000000003,
+          "average": 67.8047619047619,
+          "average w/o zero": 67.8047619047619
         },
         "KS": {
-          "count": 494,
-          "sum": 40198.00000000001,
-          "average": 81.37246963562752,
-          "average w/o zero": 81.37246963562752
+          "count": 105,
+          "sum": 8768.0,
+          "average": 83.5047619047619,
+          "average w/o zero": 83.5047619047619
         },
         "TN": {
-          "count": 626,
-          "sum": 50829.49999999996,
-          "average": 81.19728434504792,
-          "average w/o zero": 81.19728434504792
+          "count": 95,
+          "sum": 8157.800000000004,
+          "average": 85.87157894736842,
+          "average w/o zero": 85.87157894736842
         },
         "TX": {
-          "count": 700,
-          "sum": 49819.500000000044,
-          "average": 71.17071428571428,
-          "average w/o zero": 71.17071428571428
+          "count": 254,
+          "sum": 14019.999999999993,
+          "average": 55.196850393700785,
+          "average w/o zero": 55.196850393700785
         },
         "ME": {
-          "count": 121,
-          "sum": 10042.099999999995,
-          "average": 82.99256198347108,
-          "average w/o zero": 82.99256198347108
+          "count": 16,
+          "sum": 1500.6000000000001,
+          "average": 93.7875,
+          "average w/o zero": 93.7875
         },
         "AZ": {
-          "count": 19,
-          "sum": 1050.5000000000002,
-          "average": 55.28947368421053,
-          "average w/o zero": 55.28947368421053
+          "count": 15,
+          "sum": 746.9000000000001,
+          "average": 49.79333333333334,
+          "average w/o zero": 49.79333333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 56228.20000000001,
-          "average": 76.39701086956522,
-          "average w/o zero": 76.39701086956522
+          "count": 159,
+          "sum": 9809.000000000002,
+          "average": 61.691823899371066,
+          "average w/o zero": 61.691823899371066
         },
         "AR": {
-          "count": 534,
-          "sum": 42814.99999999999,
-          "average": 80.17790262172285,
-          "average w/o zero": 80.17790262172285
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 6182.200000000003,
-          "average": 75.39268292682927,
-          "average w/o zero": 75.39268292682927
-        },
-        "SD": {
-          "count": 253,
-          "sum": 20566.7,
-          "average": 81.29130434782608,
-          "average w/o zero": 81.29130434782608
+          "count": 75,
+          "sum": 5607.299999999999,
+          "average": 74.764,
+          "average w/o zero": 74.764
         },
         "AL": {
-          "count": 439,
-          "sum": 33804.19999999998,
-          "average": 77.00273348519362,
-          "average w/o zero": 77.00273348519362
+          "count": 67,
+          "sum": 4328.099999999999,
+          "average": 64.59850746268657,
+          "average w/o zero": 64.59850746268657
         },
         "OR": {
-          "count": 241,
-          "sum": 19266.600000000006,
-          "average": 79.94439834024897,
-          "average w/o zero": 79.94439834024897
-        },
-        "WV": {
-          "count": 338,
-          "sum": 28276.099999999988,
-          "average": 83.65710059171597,
-          "average w/o zero": 83.65710059171597
+          "count": 36,
+          "sum": 2869.399999999999,
+          "average": 79.70555555555555,
+          "average w/o zero": 79.70555555555555
         },
         "MA": {
-          "count": 49,
-          "sum": 3864.899999999999,
-          "average": 78.87551020408164,
-          "average w/o zero": 78.87551020408164
+          "count": 14,
+          "sum": 1068.1,
+          "average": 76.29285714285714,
+          "average w/o zero": 76.29285714285714
         },
         "UT": {
-          "count": 106,
-          "sum": 8746.4,
-          "average": 82.51320754716981,
-          "average w/o zero": 82.51320754716981
+          "count": 29,
+          "sum": 2437.1,
+          "average": 84.03793103448275,
+          "average w/o zero": 84.03793103448275
         },
         "MT": {
-          "count": 186,
-          "sum": 15102.200000000004,
-          "average": 81.19462365591397,
-          "average w/o zero": 81.19462365591397
-        },
-        "NH": {
-          "count": 31,
-          "sum": 2678.899999999999,
-          "average": 86.41612903225807,
-          "average w/o zero": 86.41612903225807
-        },
-        "NM": {
-          "count": 92,
-          "sum": 6265.300000000001,
-          "average": 68.10108695652174,
-          "average w/o zero": 68.10108695652174
-        },
-        "RI": {
-          "count": 39,
-          "sum": 3107.2000000000003,
-          "average": 79.67179487179487,
-          "average w/o zero": 79.67179487179487
+          "count": 56,
+          "sum": 4773.2,
+          "average": 85.23571428571428,
+          "average w/o zero": 85.23571428571428
         },
         "NV": {
-          "count": 70,
-          "sum": 5617.600000000001,
-          "average": 80.25142857142858,
-          "average w/o zero": 80.25142857142858
-        },
-        "DC": {
-          "count": 1,
-          "sum": 37.5,
-          "average": 37.5,
-          "average w/o zero": 37.5
+          "count": 17,
+          "sum": 1183.7,
+          "average": 69.62941176470588,
+          "average w/o zero": 69.62941176470588
         },
         "CT": {
-          "count": 14,
-          "sum": 1000.7000000000002,
-          "average": 71.47857142857143,
-          "average w/o zero": 71.47857142857143
+          "count": 8,
+          "sum": 594.0,
+          "average": 74.25,
+          "average w/o zero": 74.25
         },
         "HI": {
           "count": 5,
@@ -4615,306 +3625,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 26.84
         },
         "DE": {
-          "count": 9,
-          "sum": 631.2,
-          "average": 70.13333333333333,
-          "average w/o zero": 70.13333333333333
+          "count": 3,
+          "sum": 192.1,
+          "average": 64.03333333333333,
+          "average w/o zero": 64.03333333333333
         }
       },
       "Miscellaneous.Veterans": {
-        "SC": {
-          "count": 146,
-          "sum": 960680,
-          "average": 6580,
-          "average w/o zero": 6580
-        },
         "LA": {
-          "count": 63,
-          "sum": 242605,
-          "average": 3850.873015873016,
-          "average w/o zero": 3850.873015873016
+          "count": 64,
+          "sum": 243335,
+          "average": 3802.109375,
+          "average w/o zero": 3802.109375
         },
         "VA": {
-          "count": 375,
-          "sum": 2504737,
-          "average": 6679.298666666667,
-          "average w/o zero": 6679.298666666667
+          "count": 132,
+          "sum": 677303,
+          "average": 5131.083333333333,
+          "average w/o zero": 5131.083333333333
         },
         "ID": {
-          "count": 209,
-          "sum": 1070516,
-          "average": 5122.086124401914,
-          "average w/o zero": 5122.086124401914
+          "count": 44,
+          "sum": 116157,
+          "average": 2639.931818181818,
+          "average w/o zero": 2639.931818181818
         },
         "IA": {
-          "count": 640,
-          "sum": 3018114,
-          "average": 4715.803125,
-          "average w/o zero": 4715.803125
+          "count": 98,
+          "sum": 184747,
+          "average": 1885.1734693877552,
+          "average w/o zero": 1885.1734693877552
         },
         "KY": {
-          "count": 707,
-          "sum": 3121541,
-          "average": 4415.192362093352,
-          "average w/o zero": 4415.192362093352
+          "count": 120,
+          "sum": 267594,
+          "average": 2229.95,
+          "average w/o zero": 2229.95
         },
         "MO": {
-          "count": 692,
-          "sum": 3313873,
-          "average": 4788.833815028902,
-          "average w/o zero": 4788.833815028902
+          "count": 115,
+          "sum": 401779,
+          "average": 3493.730434782609,
+          "average w/o zero": 3493.730434782609
         },
         "OK": {
-          "count": 279,
-          "sum": 1052348,
-          "average": 3771.8566308243726,
-          "average w/o zero": 3771.8566308243726
+          "count": 77,
+          "sum": 270775,
+          "average": 3516.5584415584417,
+          "average w/o zero": 3516.5584415584417
         },
         "CO": {
-          "count": 252,
-          "sum": 1285880,
-          "average": 5102.6984126984125,
-          "average w/o zero": 5102.6984126984125
+          "count": 64,
+          "sum": 373795,
+          "average": 5840.546875,
+          "average w/o zero": 5840.546875
         },
         "IL": {
-          "count": 718,
-          "sum": 3833507,
-          "average": 5339.146239554318,
-          "average w/o zero": 5339.146239554318
+          "count": 102,
+          "sum": 570264,
+          "average": 5590.823529411765,
+          "average w/o zero": 5590.823529411765
         },
         "IN": {
-          "count": 675,
-          "sum": 3430129,
-          "average": 5081.672592592593,
-          "average w/o zero": 5081.672592592593
+          "count": 92,
+          "sum": 380690,
+          "average": 4137.934782608696,
+          "average w/o zero": 4137.934782608696
         },
         "MS": {
-          "count": 518,
-          "sum": 2147015,
-          "average": 4144.816602316602,
-          "average w/o zero": 4144.816602316602
-        },
-        "ND": {
-          "count": 135,
-          "sum": 416408,
-          "average": 3084.5037037037036,
-          "average w/o zero": 3084.5037037037036
+          "count": 82,
+          "sum": 165538,
+          "average": 2018.7560975609756,
+          "average w/o zero": 2018.7560975609756
         },
         "NE": {
-          "count": 446,
-          "sum": 1873525,
-          "average": 4200.72869955157,
-          "average w/o zero": 4200.72869955157
+          "count": 93,
+          "sum": 117466,
+          "average": 1263.0752688172042,
+          "average w/o zero": 1263.0752688172042
         },
         "OH": {
-          "count": 567,
-          "sum": 3226450,
-          "average": 5690.388007054674,
-          "average w/o zero": 5690.388007054674
+          "count": 88,
+          "sum": 709287,
+          "average": 8060.079545454545,
+          "average w/o zero": 8060.079545454545
         },
         "PA": {
-          "count": 380,
-          "sum": 2374084,
-          "average": 6247.58947368421,
-          "average w/o zero": 6247.58947368421
+          "count": 67,
+          "sum": 759474,
+          "average": 11335.432835820895,
+          "average w/o zero": 11335.432835820895
         },
         "WA": {
-          "count": 195,
-          "sum": 1324680,
-          "average": 6793.2307692307695,
-          "average w/o zero": 6793.2307692307695
+          "count": 39,
+          "sum": 529784,
+          "average": 13584.205128205129,
+          "average w/o zero": 13584.205128205129
         },
         "WI": {
-          "count": 316,
-          "sum": 1698876,
-          "average": 5376.189873417721,
-          "average w/o zero": 5376.189873417721
+          "count": 72,
+          "sum": 331340,
+          "average": 4601.944444444444,
+          "average w/o zero": 4601.944444444444
         },
         "VT": {
-          "count": 79,
-          "sum": 589706,
-          "average": 7464.632911392405,
-          "average w/o zero": 7464.632911392405
+          "count": 14,
+          "sum": 36988,
+          "average": 2642,
+          "average w/o zero": 2642
         },
         "MN": {
-          "count": 308,
-          "sum": 1445379,
-          "average": 4692.788961038961,
-          "average w/o zero": 4692.788961038961
+          "count": 87,
+          "sum": 300044,
+          "average": 3448.7816091954023,
+          "average w/o zero": 3448.7816091954023
         },
         "FL": {
-          "count": 360,
-          "sum": 2972319,
-          "average": 8256.441666666668,
-          "average w/o zero": 8256.441666666668
-        },
-        "NC": {
-          "count": 420,
-          "sum": 2502695,
-          "average": 5958.797619047619,
-          "average w/o zero": 5958.797619047619
+          "count": 66,
+          "sum": 1392234,
+          "average": 21094.454545454544,
+          "average w/o zero": 21094.454545454544
         },
         "CA": {
-          "count": 85,
-          "sum": 1829737,
-          "average": 21526.317647058822,
-          "average w/o zero": 21526.317647058822
-        },
-        "NY": {
-          "count": 323,
-          "sum": 2440005,
-          "average": 7554.195046439629,
-          "average w/o zero": 7554.195046439629
+          "count": 58,
+          "sum": 1574531,
+          "average": 27147.08620689655,
+          "average w/o zero": 27147.08620689655
         },
         "WY": {
-          "count": 79,
-          "sum": 208749,
-          "average": 2642.3924050632913,
-          "average w/o zero": 2642.3924050632913
+          "count": 23,
+          "sum": 44999,
+          "average": 1956.4782608695652,
+          "average w/o zero": 1956.4782608695652
         },
         "MI": {
-          "count": 227,
-          "sum": 1162156,
-          "average": 5119.629955947136,
-          "average w/o zero": 5119.629955947136
+          "count": 83,
+          "sum": 549526,
+          "average": 6620.795180722892,
+          "average w/o zero": 6620.795180722892
         },
         "AK": {
-          "count": 20,
-          "sum": 22577,
-          "average": 1128.85,
-          "average w/o zero": 1128.85
+          "count": 23,
+          "sum": 52464,
+          "average": 2281.0434782608695,
+          "average w/o zero": 2281.0434782608695
         },
         "MD": {
-          "count": 98,
-          "sum": 804602,
-          "average": 8210.224489795919,
-          "average w/o zero": 8210.224489795919
+          "count": 21,
+          "sum": 296577,
+          "average": 14122.714285714286,
+          "average w/o zero": 14122.714285714286
         },
         "KS": {
-          "count": 494,
-          "sum": 2197542,
-          "average": 4448.465587044534,
-          "average w/o zero": 4448.465587044534
+          "count": 105,
+          "sum": 176444,
+          "average": 1680.4190476190477,
+          "average w/o zero": 1680.4190476190477
         },
         "TN": {
-          "count": 626,
-          "sum": 3037922,
-          "average": 4852.910543130991,
-          "average w/o zero": 4852.910543130991
+          "count": 95,
+          "sum": 431274,
+          "average": 4539.726315789474,
+          "average w/o zero": 4539.726315789474
         },
         "TX": {
-          "count": 700,
-          "sum": 4124742,
-          "average": 5892.488571428571,
-          "average w/o zero": 5900.934191702432
+          "count": 254,
+          "sum": 1453439,
+          "average": 5722.200787401574,
+          "average w/o zero": 5744.861660079051
         },
         "ME": {
-          "count": 121,
-          "sum": 640934,
-          "average": 5296.975206611571,
-          "average w/o zero": 5296.975206611571
+          "count": 16,
+          "sum": 103776,
+          "average": 6486,
+          "average w/o zero": 6486
         },
         "AZ": {
-          "count": 19,
-          "sum": 499439,
-          "average": 26286.263157894737,
-          "average w/o zero": 26286.263157894737
+          "count": 15,
+          "sum": 488061,
+          "average": 32537.4,
+          "average w/o zero": 32537.4
         },
         "GA": {
-          "count": 736,
-          "sum": 3624806,
-          "average": 4925.008152173913,
-          "average w/o zero": 4925.008152173913
+          "count": 159,
+          "sum": 629302,
+          "average": 3957.874213836478,
+          "average w/o zero": 3957.874213836478
         },
         "AR": {
-          "count": 534,
-          "sum": 2563972,
-          "average": 4801.445692883895,
-          "average w/o zero": 4801.445692883895
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 661541,
-          "average": 8067.573170731707,
-          "average w/o zero": 8067.573170731707
-        },
-        "SD": {
-          "count": 253,
-          "sum": 890966,
-          "average": 3521.604743083004,
-          "average w/o zero": 3521.604743083004
+          "count": 75,
+          "sum": 197138,
+          "average": 2628.5066666666667,
+          "average w/o zero": 2628.5066666666667
         },
         "AL": {
-          "count": 439,
-          "sum": 2292686,
-          "average": 5222.519362186788,
-          "average w/o zero": 5222.519362186788
+          "count": 67,
+          "sum": 330207,
+          "average": 4928.462686567164,
+          "average w/o zero": 4928.462686567164
         },
         "OR": {
-          "count": 241,
-          "sum": 1319557,
-          "average": 5475.340248962656,
-          "average w/o zero": 5475.340248962656
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1295260,
-          "average": 3832.130177514793,
-          "average w/o zero": 3832.130177514793
+          "count": 36,
+          "sum": 283045,
+          "average": 7862.361111111111,
+          "average w/o zero": 7862.361111111111
         },
         "MA": {
-          "count": 49,
-          "sum": 556282,
-          "average": 11352.69387755102,
-          "average w/o zero": 11352.69387755102
+          "count": 14,
+          "sum": 303534,
+          "average": 21681,
+          "average w/o zero": 21681
         },
         "UT": {
-          "count": 106,
-          "sum": 519017,
-          "average": 4896.38679245283,
-          "average w/o zero": 4896.38679245283
+          "count": 29,
+          "sum": 120447,
+          "average": 4153.3448275862065,
+          "average w/o zero": 4153.3448275862065
         },
         "MT": {
-          "count": 186,
-          "sum": 656485,
-          "average": 3529.489247311828,
-          "average w/o zero": 3529.489247311828
-        },
-        "NH": {
-          "count": 31,
-          "sum": 254262,
-          "average": 8202,
-          "average w/o zero": 8202
-        },
-        "NM": {
-          "count": 92,
-          "sum": 279108,
-          "average": 3033.782608695652,
-          "average w/o zero": 3033.782608695652
-        },
-        "RI": {
-          "count": 39,
-          "sum": 282855,
-          "average": 7252.692307692308,
-          "average w/o zero": 7252.692307692308
+          "count": 56,
+          "sum": 85350,
+          "average": 1524.107142857143,
+          "average w/o zero": 1524.107142857143
         },
         "NV": {
-          "count": 70,
-          "sum": 414274,
-          "average": 5918.2,
-          "average w/o zero": 5918.2
-        },
-        "DC": {
-          "count": 1,
-          "sum": 26156,
-          "average": 26156,
-          "average w/o zero": 26156
+          "count": 17,
+          "sum": 207767,
+          "average": 12221.588235294117,
+          "average w/o zero": 12221.588235294117
         },
         "CT": {
-          "count": 14,
-          "sum": 265044,
-          "average": 18931.714285714286,
-          "average w/o zero": 18931.714285714286
+          "count": 8,
+          "sum": 167521,
+          "average": 20940.125,
+          "average w/o zero": 20940.125
         },
         "HI": {
           "count": 5,
@@ -4923,306 +3867,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 20395
         },
         "DE": {
-          "count": 9,
-          "sum": 114984,
-          "average": 12776,
-          "average w/o zero": 12776
+          "count": 3,
+          "sum": 65438,
+          "average": 21812.666666666668,
+          "average w/o zero": 21812.666666666668
         }
       },
       "Miscellaneous.Foreign Born": {
-        "SC": {
-          "count": 146,
-          "sum": 563.0,
-          "average": 3.856164383561644,
-          "average w/o zero": 3.856164383561644
-        },
         "LA": {
-          "count": 63,
-          "sum": 150.7,
-          "average": 2.392063492063492,
-          "average w/o zero": 2.392063492063492
+          "count": 64,
+          "sum": 152.7,
+          "average": 2.3859375,
+          "average w/o zero": 2.3859375
         },
         "VA": {
-          "count": 375,
-          "sum": 1845.700000000001,
-          "average": 4.921866666666666,
-          "average w/o zero": 4.935026737967914
+          "count": 132,
+          "sum": 712.7999999999998,
+          "average": 5.4,
+          "average w/o zero": 5.4
         },
         "ID": {
-          "count": 209,
-          "sum": 887.1000000000003,
-          "average": 4.244497607655503,
-          "average w/o zero": 4.264903846153846
+          "count": 44,
+          "sum": 276.99999999999994,
+          "average": 6.295454545454545,
+          "average w/o zero": 6.295454545454545
         },
         "IA": {
-          "count": 640,
-          "sum": 2347.3000000000015,
-          "average": 3.66765625,
-          "average w/o zero": 3.6907232704402517
+          "count": 98,
+          "sum": 322.09999999999997,
+          "average": 3.286734693877551,
+          "average w/o zero": 3.286734693877551
         },
         "KY": {
-          "count": 707,
-          "sum": 2228.999999999998,
-          "average": 3.1527581329561527,
-          "average w/o zero": 3.184285714285714
+          "count": 120,
+          "sum": 207.69999999999993,
+          "average": 1.7308333333333332,
+          "average w/o zero": 1.7752136752136751
         },
         "MO": {
-          "count": 692,
-          "sum": 2316.2000000000003,
-          "average": 3.3471098265895955,
-          "average w/o zero": 3.3714701601164485
+          "count": 115,
+          "sum": 223.8,
+          "average": 1.9460869565217391,
+          "average w/o zero": 1.9460869565217391
         },
         "OK": {
-          "count": 279,
-          "sum": 1000.9000000000003,
-          "average": 3.5874551971326163,
-          "average w/o zero": 3.6396363636363636
+          "count": 77,
+          "sum": 296.6999999999998,
+          "average": 3.8532467532467534,
+          "average w/o zero": 3.8532467532467534
         },
         "CO": {
-          "count": 252,
-          "sum": 1132.1999999999994,
-          "average": 4.492857142857143,
-          "average w/o zero": 4.5288
+          "count": 64,
+          "sum": 413.2,
+          "average": 6.45625,
+          "average w/o zero": 6.45625
         },
         "IL": {
-          "count": 718,
-          "sum": 2646.4,
-          "average": 3.6857938718662955,
-          "average w/o zero": 3.701258741258741
+          "count": 102,
+          "sum": 337.00000000000006,
+          "average": 3.3039215686274512,
+          "average w/o zero": 3.3039215686274512
         },
         "IN": {
-          "count": 675,
-          "sum": 2439.1000000000013,
-          "average": 3.6134814814814815,
-          "average w/o zero": 3.635022354694486
+          "count": 92,
+          "sum": 257.0,
+          "average": 2.7934782608695654,
+          "average w/o zero": 2.7934782608695654
         },
         "MS": {
-          "count": 518,
-          "sum": 1656.3,
-          "average": 3.1974903474903473,
-          "average w/o zero": 3.2349609375
-        },
-        "ND": {
-          "count": 135,
-          "sum": 443.09999999999997,
-          "average": 3.2822222222222224,
-          "average w/o zero": 3.2822222222222224
+          "count": 82,
+          "sum": 135.00000000000006,
+          "average": 1.646341463414634,
+          "average w/o zero": 1.7088607594936709
         },
         "NE": {
-          "count": 446,
-          "sum": 1735.4999999999989,
-          "average": 3.8912556053811658,
-          "average w/o zero": 3.944318181818182
+          "count": 93,
+          "sum": 334.4,
+          "average": 3.595698924731183,
+          "average w/o zero": 3.6747252747252745
         },
         "OH": {
-          "count": 567,
-          "sum": 1958.8999999999996,
-          "average": 3.4548500881834214,
-          "average w/o zero": 3.467079646017699
+          "count": 88,
+          "sum": 186.09999999999994,
+          "average": 2.1147727272727272,
+          "average w/o zero": 2.1147727272727272
         },
         "PA": {
-          "count": 380,
-          "sum": 1444.2,
-          "average": 3.8005263157894738,
-          "average w/o zero": 3.8005263157894738
+          "count": 67,
+          "sum": 234.9,
+          "average": 3.505970149253731,
+          "average w/o zero": 3.505970149253731
         },
         "WA": {
-          "count": 195,
-          "sum": 953.9000000000001,
-          "average": 4.891794871794872,
-          "average w/o zero": 4.917010309278351
+          "count": 39,
+          "sum": 352.90000000000003,
+          "average": 9.048717948717949,
+          "average w/o zero": 9.048717948717949
         },
         "WI": {
-          "count": 316,
-          "sum": 1152.3000000000002,
-          "average": 3.6465189873417723,
-          "average w/o zero": 3.6697452229299365
+          "count": 72,
+          "sum": 194.79999999999995,
+          "average": 2.7055555555555557,
+          "average w/o zero": 2.7055555555555557
         },
         "VT": {
-          "count": 79,
-          "sum": 404.40000000000003,
-          "average": 5.118987341772152,
-          "average w/o zero": 5.118987341772152
+          "count": 14,
+          "sum": 52.10000000000001,
+          "average": 3.7214285714285715,
+          "average w/o zero": 3.7214285714285715
         },
         "MN": {
-          "count": 308,
-          "sum": 1236.2000000000003,
-          "average": 4.013636363636364,
-          "average w/o zero": 4.0398692810457515
+          "count": 87,
+          "sum": 339.7999999999999,
+          "average": 3.905747126436782,
+          "average w/o zero": 3.905747126436782
         },
         "FL": {
-          "count": 360,
-          "sum": 1732.9999999999993,
-          "average": 4.813888888888889,
-          "average w/o zero": 4.840782122905028
-        },
-        "NC": {
-          "count": 420,
-          "sum": 1738.0999999999983,
-          "average": 4.138333333333334,
-          "average w/o zero": 4.158133971291866
+          "count": 66,
+          "sum": 609.5,
+          "average": 9.234848484848484,
+          "average w/o zero": 9.234848484848484
         },
         "CA": {
-          "count": 85,
-          "sum": 1201.1999999999998,
-          "average": 14.131764705882352,
-          "average w/o zero": 14.3
-        },
-        "NY": {
-          "count": 323,
-          "sum": 1584.7999999999997,
-          "average": 4.906501547987616,
-          "average w/o zero": 4.906501547987616
+          "count": 58,
+          "sum": 988.0999999999997,
+          "average": 17.036206896551725,
+          "average w/o zero": 17.036206896551725
         },
         "WY": {
-          "count": 79,
-          "sum": 261.70000000000005,
-          "average": 3.312658227848101,
-          "average w/o zero": 3.312658227848101
+          "count": 23,
+          "sum": 69.8,
+          "average": 3.0347826086956524,
+          "average w/o zero": 3.0347826086956524
         },
         "MI": {
-          "count": 227,
-          "sum": 744.4999999999997,
-          "average": 3.2797356828193833,
-          "average w/o zero": 3.2942477876106193
+          "count": 83,
+          "sum": 230.70000000000005,
+          "average": 2.779518072289157,
+          "average w/o zero": 2.779518072289157
         },
         "AK": {
-          "count": 20,
-          "sum": 174.70000000000005,
-          "average": 8.735,
-          "average w/o zero": 8.735
+          "count": 23,
+          "sum": 202.80000000000004,
+          "average": 8.817391304347826,
+          "average w/o zero": 8.817391304347826
         },
         "MD": {
-          "count": 98,
-          "sum": 482.90000000000003,
-          "average": 4.927551020408163,
-          "average w/o zero": 4.978350515463918
+          "count": 21,
+          "sum": 161.19999999999996,
+          "average": 7.6761904761904765,
+          "average w/o zero": 7.6761904761904765
         },
         "KS": {
-          "count": 494,
-          "sum": 1978.1999999999991,
-          "average": 4.004453441295547,
-          "average w/o zero": 4.020731707317073
+          "count": 105,
+          "sum": 485.40000000000015,
+          "average": 4.622857142857143,
+          "average w/o zero": 4.622857142857143
         },
         "TN": {
-          "count": 626,
-          "sum": 2220.6999999999994,
-          "average": 3.547444089456869,
-          "average w/o zero": 3.570257234726688
+          "count": 95,
+          "sum": 246.59999999999994,
+          "average": 2.5957894736842104,
+          "average w/o zero": 2.5957894736842104
         },
         "TX": {
-          "count": 700,
-          "sum": 4050.2999999999984,
-          "average": 5.786142857142857,
-          "average w/o zero": 5.811047345767575
+          "count": 254,
+          "sum": 2415.800000000001,
+          "average": 9.511023622047244,
+          "average w/o zero": 9.548616600790513
         },
         "ME": {
-          "count": 121,
-          "sum": 437.90000000000003,
-          "average": 3.61900826446281,
-          "average w/o zero": 3.61900826446281
+          "count": 16,
+          "sum": 47.50000000000001,
+          "average": 2.96875,
+          "average w/o zero": 2.96875
         },
         "AZ": {
-          "count": 19,
-          "sum": 179.2,
-          "average": 9.431578947368422,
-          "average w/o zero": 9.431578947368422
+          "count": 15,
+          "sum": 146.29999999999998,
+          "average": 9.753333333333334,
+          "average w/o zero": 9.753333333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 2831.0000000000005,
-          "average": 3.8464673913043477,
-          "average w/o zero": 3.8727770177838576
+          "count": 159,
+          "sum": 736.9999999999999,
+          "average": 4.635220125786163,
+          "average w/o zero": 4.635220125786163
         },
         "AR": {
-          "count": 534,
-          "sum": 1916.7999999999988,
-          "average": 3.589513108614232,
-          "average w/o zero": 3.6166037735849055
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 593.9999999999998,
-          "average": 7.2439024390243905,
-          "average w/o zero": 7.2439024390243905
-        },
-        "SD": {
-          "count": 253,
-          "sum": 840.3999999999997,
-          "average": 3.3217391304347825,
-          "average w/o zero": 3.388709677419355
+          "count": 75,
+          "sum": 210.3,
+          "average": 2.804,
+          "average w/o zero": 2.841891891891892
         },
         "AL": {
-          "count": 439,
-          "sum": 1469.1999999999987,
-          "average": 3.3466970387243737,
-          "average w/o zero": 3.3620137299771167
+          "count": 67,
+          "sum": 159.49999999999994,
+          "average": 2.3805970149253732,
+          "average w/o zero": 2.3805970149253732
         },
         "OR": {
-          "count": 241,
-          "sum": 1019.0999999999998,
-          "average": 4.228630705394191,
-          "average w/o zero": 4.24625
-        },
-        "WV": {
-          "count": 338,
-          "sum": 983.9000000000001,
-          "average": 2.9109467455621303,
-          "average w/o zero": 2.937014925373134
+          "count": 36,
+          "sum": 228.40000000000003,
+          "average": 6.344444444444444,
+          "average w/o zero": 6.344444444444444
         },
         "MA": {
-          "count": 49,
-          "sum": 387.60000000000014,
-          "average": 7.910204081632653,
-          "average w/o zero": 7.910204081632653
+          "count": 14,
+          "sum": 180.2,
+          "average": 12.871428571428572,
+          "average w/o zero": 12.871428571428572
         },
         "UT": {
-          "count": 106,
-          "sum": 438.70000000000016,
-          "average": 4.138679245283019,
-          "average w/o zero": 4.218269230769231
+          "count": 29,
+          "sum": 132.5,
+          "average": 4.568965517241379,
+          "average w/o zero": 4.732142857142858
         },
         "MT": {
-          "count": 186,
-          "sum": 622.8999999999999,
-          "average": 3.348924731182796,
-          "average w/o zero": 3.403825136612022
-        },
-        "NH": {
-          "count": 31,
-          "sum": 129.6,
-          "average": 4.180645161290323,
-          "average w/o zero": 4.32
-        },
-        "NM": {
-          "count": 92,
-          "sum": 479.3000000000002,
-          "average": 5.209782608695652,
-          "average w/o zero": 5.209782608695652
-        },
-        "RI": {
-          "count": 39,
-          "sum": 190.0,
-          "average": 4.871794871794871,
-          "average w/o zero": 4.871794871794871
+          "count": 56,
+          "sum": 103.59999999999998,
+          "average": 1.85,
+          "average w/o zero": 1.9185185185185185
         },
         "NV": {
-          "count": 70,
-          "sum": 362.4000000000001,
-          "average": 5.177142857142857,
-          "average w/o zero": 5.177142857142857
-        },
-        "DC": {
-          "count": 1,
-          "sum": 13.7,
-          "average": 13.7,
-          "average w/o zero": 13.7
+          "count": 17,
+          "sum": 139.90000000000003,
+          "average": 8.229411764705882,
+          "average w/o zero": 8.229411764705882
         },
         "CT": {
-          "count": 14,
-          "sum": 151.0,
-          "average": 10.785714285714285,
-          "average w/o zero": 10.785714285714285
+          "count": 8,
+          "sum": 86.4,
+          "average": 10.8,
+          "average w/o zero": 10.8
         },
         "HI": {
           "count": 5,
@@ -5231,306 +4109,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 14.48
         },
         "DE": {
-          "count": 9,
-          "sum": 55.9,
-          "average": 6.211111111111111,
-          "average w/o zero": 6.211111111111111
+          "count": 3,
+          "sum": 25.0,
+          "average": 8.333333333333334,
+          "average w/o zero": 8.333333333333334
         }
       },
       "Housing.Housing Units": {
-        "SC": {
-          "count": 146,
-          "sum": 6650266,
-          "average": 45549.767123287675,
-          "average w/o zero": 45549.767123287675
-        },
         "LA": {
-          "count": 63,
-          "sum": 2083013,
-          "average": 33063.69841269841,
-          "average w/o zero": 33063.69841269841
+          "count": 64,
+          "sum": 2089777,
+          "average": 32652.765625,
+          "average w/o zero": 32652.765625
         },
         "VA": {
-          "count": 375,
-          "sum": 16536015,
-          "average": 44096.04,
-          "average w/o zero": 48924.325443786984
+          "count": 132,
+          "sum": 2471386,
+          "average": 18722.621212121212,
+          "average w/o zero": 26018.873684210525
         },
         "ID": {
-          "count": 209,
-          "sum": 7332908,
-          "average": 35085.68421052631,
-          "average w/o zero": 35085.68421052631
+          "count": 44,
+          "sum": 751105,
+          "average": 17070.56818181818,
+          "average w/o zero": 17070.56818181818
         },
         "IA": {
-          "count": 640,
-          "sum": 22415482,
-          "average": 35024.190625,
-          "average w/o zero": 35024.190625
+          "count": 98,
+          "sum": 1411924,
+          "average": 14407.387755102041,
+          "average w/o zero": 14407.387755102041
         },
         "KY": {
-          "count": 707,
-          "sum": 22123634,
-          "average": 31292.26874115983,
-          "average w/o zero": 31292.26874115983
+          "count": 120,
+          "sum": 2006358,
+          "average": 16719.65,
+          "average w/o zero": 16719.65
         },
         "MO": {
-          "count": 692,
-          "sum": 23889710,
-          "average": 34522.70231213873,
-          "average w/o zero": 34572.678726483355
+          "count": 115,
+          "sum": 2641969,
+          "average": 22973.64347826087,
+          "average w/o zero": 23175.263157894737
         },
         "OK": {
-          "count": 279,
-          "sum": 7356075,
-          "average": 26365.860215053763,
-          "average w/o zero": 26365.860215053763
+          "count": 77,
+          "sum": 1749464,
+          "average": 22720.31168831169,
+          "average w/o zero": 22720.31168831169
         },
         "CO": {
-          "count": 252,
-          "sum": 8897575,
-          "average": 35307.8373015873,
-          "average w/o zero": 35307.8373015873
+          "count": 64,
+          "sum": 2464164,
+          "average": 38502.5625,
+          "average w/o zero": 38502.5625
         },
         "IL": {
-          "count": 718,
-          "sum": 28907002,
-          "average": 40260.44846796658,
-          "average w/o zero": 40260.44846796658
+          "count": 102,
+          "sum": 5388066,
+          "average": 52824.17647058824,
+          "average w/o zero": 52824.17647058824
         },
         "IN": {
-          "count": 675,
-          "sum": 25549069,
-          "average": 37850.472592592596,
-          "average w/o zero": 37850.472592592596
+          "count": 92,
+          "sum": 2921032,
+          "average": 31750.347826086956,
+          "average w/o zero": 31750.347826086956
         },
         "MS": {
-          "count": 518,
-          "sum": 15719650,
-          "average": 30346.81467181467,
-          "average w/o zero": 30346.81467181467
-        },
-        "ND": {
-          "count": 135,
-          "sum": 2812702,
-          "average": 20834.82962962963,
-          "average w/o zero": 20834.82962962963
+          "count": 82,
+          "sum": 1339021,
+          "average": 16329.524390243903,
+          "average w/o zero": 16329.524390243903
         },
         "NE": {
-          "count": 446,
-          "sum": 13215189,
-          "average": 29630.46860986547,
-          "average w/o zero": 29630.46860986547
+          "count": 93,
+          "sum": 851227,
+          "average": 9152.978494623656,
+          "average w/o zero": 9152.978494623656
         },
         "OH": {
-          "count": 567,
-          "sum": 23896746,
-          "average": 42145.93650793651,
-          "average w/o zero": 42145.93650793651
+          "count": 88,
+          "sum": 5232869,
+          "average": 59464.420454545456,
+          "average w/o zero": 59464.420454545456
         },
         "PA": {
-          "count": 380,
-          "sum": 17910508,
-          "average": 47132.915789473685,
-          "average w/o zero": 47132.915789473685
+          "count": 67,
+          "sum": 5732628,
+          "average": 85561.6119402985,
+          "average w/o zero": 85561.6119402985
         },
         "WA": {
-          "count": 195,
-          "sum": 8728427,
-          "average": 44761.1641025641,
-          "average w/o zero": 44761.1641025641
+          "count": 39,
+          "sum": 3195004,
+          "average": 81923.17948717948,
+          "average w/o zero": 81923.17948717948
         },
         "WI": {
-          "count": 316,
-          "sum": 11932208,
-          "average": 37760.15189873418,
-          "average w/o zero": 37760.15189873418
+          "count": 72,
+          "sum": 2725296,
+          "average": 37851.333333333336,
+          "average w/o zero": 37851.333333333336
         },
         "VT": {
-          "count": 79,
-          "sum": 5128907,
-          "average": 64922.873417721516,
-          "average w/o zero": 64922.873417721516
+          "count": 14,
+          "sum": 339439,
+          "average": 24245.64285714286,
+          "average w/o zero": 24245.64285714286
         },
         "MN": {
-          "count": 308,
-          "sum": 11450951,
-          "average": 37178.41233766234,
-          "average w/o zero": 37178.41233766234
+          "count": 87,
+          "sum": 2477753,
+          "average": 28479.919540229886,
+          "average w/o zero": 28479.919540229886
         },
         "FL": {
-          "count": 360,
-          "sum": 20819811,
-          "average": 57832.808333333334,
-          "average w/o zero": 57832.808333333334
-        },
-        "NC": {
-          "count": 420,
-          "sum": 18652256,
-          "average": 44410.13333333333,
-          "average w/o zero": 44410.13333333333
+          "count": 66,
+          "sum": 8633016,
+          "average": 130803.27272727272,
+          "average w/o zero": 130803.27272727272
         },
         "CA": {
-          "count": 85,
-          "sum": 17137454,
-          "average": 201617.10588235295,
-          "average w/o zero": 201617.10588235295
-        },
-        "NY": {
-          "count": 323,
-          "sum": 22148070,
-          "average": 68569.87616099071,
-          "average w/o zero": 68569.87616099071
+          "count": 58,
+          "sum": 14366336,
+          "average": 247695.44827586206,
+          "average w/o zero": 247695.44827586206
         },
         "WY": {
-          "count": 79,
-          "sum": 1514325,
-          "average": 19168.67088607595,
-          "average w/o zero": 19168.67088607595
+          "count": 23,
+          "sum": 280291,
+          "average": 12186.565217391304,
+          "average w/o zero": 12186.565217391304
         },
         "MI": {
-          "count": 227,
-          "sum": 8948071,
-          "average": 39418.81497797357,
-          "average w/o zero": 39418.81497797357
+          "count": 83,
+          "sum": 4629611,
+          "average": 55778.44578313253,
+          "average w/o zero": 55778.44578313253
         },
         "AK": {
-          "count": 20,
-          "sum": 122611,
-          "average": 6130.55,
+          "count": 23,
+          "sum": 122578,
+          "average": 5329.478260869565,
           "average w/o zero": 6130.55
         },
         "MD": {
-          "count": 98,
-          "sum": 5380369,
-          "average": 54901.72448979592,
-          "average w/o zero": 55467.83505154639
+          "count": 21,
+          "sum": 1772318,
+          "average": 84396.09523809524,
+          "average w/o zero": 88616.45
         },
         "KS": {
-          "count": 494,
-          "sum": 15409296,
-          "average": 31192.906882591094,
-          "average w/o zero": 31192.906882591094
+          "count": 105,
+          "sum": 1288401,
+          "average": 12270.485714285714,
+          "average w/o zero": 12270.485714285714
         },
         "TN": {
-          "count": 626,
-          "sum": 21935295,
-          "average": 35040.407348242814,
-          "average w/o zero": 35040.407348242814
+          "count": 95,
+          "sum": 3028213,
+          "average": 31875.926315789475,
+          "average w/o zero": 31875.926315789475
         },
         "TX": {
-          "count": 700,
-          "sum": 30463363,
-          "average": 43519.09,
-          "average w/o zero": 43519.09
+          "count": 254,
+          "sum": 11283353,
+          "average": 44422.649606299216,
+          "average w/o zero": 44422.649606299216
         },
         "ME": {
-          "count": 121,
-          "sum": 4454288,
-          "average": 36812.29752066116,
-          "average w/o zero": 36812.29752066116
+          "count": 16,
+          "sum": 750939,
+          "average": 46933.6875,
+          "average w/o zero": 46933.6875
         },
         "AZ": {
-          "count": 19,
-          "sum": 3195255,
-          "average": 168171.31578947368,
-          "average w/o zero": 168171.31578947368
+          "count": 15,
+          "sum": 3075981,
+          "average": 205065.4,
+          "average w/o zero": 205065.4
         },
         "GA": {
-          "count": 736,
-          "sum": 27552763,
-          "average": 37435.819293478264,
-          "average w/o zero": 37435.819293478264
+          "count": 159,
+          "sum": 4378391,
+          "average": 27537.05031446541,
+          "average w/o zero": 27537.05031446541
         },
         "AR": {
-          "count": 534,
-          "sum": 18666802,
-          "average": 34956.558052434455,
-          "average w/o zero": 34956.558052434455
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 6194368,
-          "average": 75541.0731707317,
-          "average w/o zero": 75541.0731707317
-        },
-        "SD": {
-          "count": 253,
-          "sum": 6147744,
-          "average": 24299.383399209488,
-          "average w/o zero": 24299.383399209488
+          "count": 75,
+          "sum": 1389129,
+          "average": 18521.72,
+          "average w/o zero": 18521.72
         },
         "AL": {
-          "count": 439,
-          "sum": 16401832,
-          "average": 37361.80410022779,
-          "average w/o zero": 37361.80410022779
+          "count": 67,
+          "sum": 2284847,
+          "average": 34102.19402985075,
+          "average w/o zero": 34102.19402985075
         },
         "OR": {
-          "count": 241,
-          "sum": 9211678,
-          "average": 38222.730290456435,
-          "average w/o zero": 38222.730290456435
-        },
-        "WV": {
-          "count": 338,
-          "sum": 9223334,
-          "average": 27287.970414201183,
-          "average w/o zero": 27287.970414201183
+          "count": 36,
+          "sum": 1808465,
+          "average": 50235.13888888889,
+          "average w/o zero": 50235.13888888889
         },
         "MA": {
-          "count": 49,
-          "sum": 5336842,
-          "average": 108915.14285714286,
-          "average w/o zero": 108915.14285714286
+          "count": 14,
+          "sum": 2928732,
+          "average": 209195.14285714287,
+          "average w/o zero": 209195.14285714287
         },
         "UT": {
-          "count": 106,
-          "sum": 4308708,
-          "average": 40648.188679245286,
-          "average w/o zero": 40648.188679245286
+          "count": 29,
+          "sum": 1133521,
+          "average": 39086.93103448276,
+          "average w/o zero": 39086.93103448276
         },
         "MT": {
-          "count": 186,
-          "sum": 4448275,
-          "average": 23915.456989247312,
-          "average w/o zero": 23915.456989247312
-        },
-        "NH": {
-          "count": 31,
-          "sum": 1709359,
-          "average": 55140.6129032258,
-          "average w/o zero": 55140.6129032258
-        },
-        "NM": {
-          "count": 92,
-          "sum": 2095416,
-          "average": 22776.260869565216,
-          "average w/o zero": 22776.260869565216
-        },
-        "RI": {
-          "count": 39,
-          "sum": 2134870,
-          "average": 54740.256410256414,
-          "average w/o zero": 54740.256410256414
+          "count": 56,
+          "sum": 519935,
+          "average": 9284.55357142857,
+          "average w/o zero": 9284.55357142857
         },
         "NV": {
-          "count": 70,
-          "sum": 2654158,
-          "average": 37916.54285714286,
-          "average w/o zero": 38466.217391304344
-        },
-        "DC": {
-          "count": 1,
-          "sum": 322793,
-          "average": 322793,
-          "average w/o zero": 322793
+          "count": 17,
+          "sum": 1261317,
+          "average": 74195.11764705883,
+          "average w/o zero": 78833
         },
         "CT": {
-          "count": 14,
-          "sum": 2586215,
-          "average": 184729.64285714287,
-          "average w/o zero": 184729.64285714287
+          "count": 8,
+          "sum": 1524992,
+          "average": 190624,
+          "average w/o zero": 190624
         },
         "HI": {
           "count": 5,
@@ -5539,306 +4351,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 110054.6
         },
         "DE": {
-          "count": 9,
-          "sum": 856507,
-          "average": 95167.44444444444,
-          "average w/o zero": 95167.44444444444
+          "count": 3,
+          "sum": 443781,
+          "average": 147927,
+          "average w/o zero": 147927
         }
       },
       "Housing.Homeownership Rate": {
-        "SC": {
-          "count": 146,
-          "sum": 10551.3,
-          "average": 72.26917808219179,
-          "average w/o zero": 72.26917808219179
-        },
         "LA": {
-          "count": 63,
-          "sum": 4381.599999999999,
-          "average": 69.54920634920634,
-          "average w/o zero": 69.54920634920634
+          "count": 64,
+          "sum": 4458.199999999999,
+          "average": 69.659375,
+          "average w/o zero": 69.659375
         },
         "VA": {
-          "count": 375,
-          "sum": 26569.20000000001,
-          "average": 70.8512,
-          "average w/o zero": 70.8512
+          "count": 132,
+          "sum": 9205.499999999998,
+          "average": 69.73863636363636,
+          "average w/o zero": 69.73863636363636
         },
         "ID": {
-          "count": 209,
-          "sum": 15168.899999999996,
-          "average": 72.57846889952152,
-          "average w/o zero": 72.57846889952152
+          "count": 44,
+          "sum": 3203.2000000000003,
+          "average": 72.8,
+          "average w/o zero": 72.8
         },
         "IA": {
-          "count": 640,
-          "sum": 46542.50000000004,
-          "average": 72.72265625,
-          "average w/o zero": 72.72265625
+          "count": 98,
+          "sum": 7332.299999999998,
+          "average": 74.81938775510204,
+          "average w/o zero": 74.81938775510204
         },
         "KY": {
-          "count": 707,
-          "sum": 51465.000000000015,
-          "average": 72.7934936350778,
-          "average w/o zero": 72.7934936350778
+          "count": 120,
+          "sum": 8620.7,
+          "average": 71.83916666666667,
+          "average w/o zero": 71.83916666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 50198.900000000016,
-          "average": 72.54176300578035,
-          "average w/o zero": 72.54176300578035
+          "count": 115,
+          "sum": 8267.5,
+          "average": 71.8913043478261,
+          "average w/o zero": 71.8913043478261
         },
         "OK": {
-          "count": 279,
-          "sum": 20320.50000000001,
-          "average": 72.83333333333333,
-          "average w/o zero": 72.83333333333333
+          "count": 77,
+          "sum": 5511.499999999999,
+          "average": 71.57792207792208,
+          "average w/o zero": 71.57792207792208
         },
         "CO": {
-          "count": 252,
-          "sum": 18117.00000000002,
-          "average": 71.89285714285714,
-          "average w/o zero": 71.89285714285714
+          "count": 64,
+          "sum": 4497.899999999999,
+          "average": 70.2796875,
+          "average w/o zero": 70.2796875
         },
         "IL": {
-          "count": 718,
-          "sum": 52159.00000000003,
-          "average": 72.64484679665738,
-          "average w/o zero": 72.64484679665738
+          "count": 102,
+          "sum": 7633.5,
+          "average": 74.83823529411765,
+          "average w/o zero": 74.83823529411765
         },
         "IN": {
-          "count": 675,
-          "sum": 49164.000000000044,
-          "average": 72.83555555555556,
-          "average w/o zero": 72.83555555555556
+          "count": 92,
+          "sum": 6850.299999999997,
+          "average": 74.45978260869565,
+          "average w/o zero": 74.45978260869565
         },
         "MS": {
-          "count": 518,
-          "sum": 37530.30000000001,
-          "average": 72.4523166023166,
-          "average w/o zero": 72.4523166023166
-        },
-        "ND": {
-          "count": 135,
-          "sum": 9876.499999999998,
-          "average": 73.15925925925926,
-          "average w/o zero": 73.15925925925926
+          "count": 82,
+          "sum": 5779.400000000001,
+          "average": 70.48048780487805,
+          "average w/o zero": 70.48048780487805
         },
         "NE": {
-          "count": 446,
-          "sum": 32336.499999999993,
-          "average": 72.50336322869956,
-          "average w/o zero": 72.50336322869956
+          "count": 93,
+          "sum": 6768.700000000002,
+          "average": 72.78172043010753,
+          "average w/o zero": 72.78172043010753
         },
         "OH": {
-          "count": 567,
-          "sum": 41151.20000000002,
-          "average": 72.57707231040564,
-          "average w/o zero": 72.57707231040564
+          "count": 88,
+          "sum": 6345.4000000000015,
+          "average": 72.10681818181818,
+          "average w/o zero": 72.10681818181818
         },
         "PA": {
-          "count": 380,
-          "sum": 27570.800000000032,
-          "average": 72.55473684210526,
-          "average w/o zero": 72.55473684210526
+          "count": 67,
+          "sum": 4893.899999999999,
+          "average": 73.04328358208956,
+          "average w/o zero": 73.04328358208956
         },
         "WA": {
-          "count": 195,
-          "sum": 14017.299999999997,
-          "average": 71.88358974358974,
-          "average w/o zero": 71.88358974358974
+          "count": 39,
+          "sum": 2668.3999999999996,
+          "average": 68.42051282051283,
+          "average w/o zero": 68.42051282051283
         },
         "WI": {
-          "count": 316,
-          "sum": 22905.400000000012,
-          "average": 72.48544303797469,
-          "average w/o zero": 72.48544303797469
+          "count": 72,
+          "sum": 5327.7,
+          "average": 73.99583333333334,
+          "average w/o zero": 73.99583333333334
         },
         "VT": {
-          "count": 79,
-          "sum": 5681.8,
-          "average": 71.92151898734177,
-          "average w/o zero": 71.92151898734177
+          "count": 14,
+          "sum": 1040.9,
+          "average": 74.35,
+          "average w/o zero": 74.35
         },
         "MN": {
-          "count": 308,
-          "sum": 22659.5,
-          "average": 73.5698051948052,
-          "average w/o zero": 73.5698051948052
+          "count": 87,
+          "sum": 6682.4000000000015,
+          "average": 76.80919540229885,
+          "average w/o zero": 76.80919540229885
         },
         "FL": {
-          "count": 360,
-          "sum": 25879.600000000006,
-          "average": 71.88777777777779,
-          "average w/o zero": 71.88777777777779
-        },
-        "NC": {
-          "count": 420,
-          "sum": 30046.500000000007,
-          "average": 71.53928571428571,
-          "average w/o zero": 71.53928571428571
+          "count": 66,
+          "sum": 4761.3,
+          "average": 72.14090909090909,
+          "average w/o zero": 72.14090909090909
         },
         "CA": {
-          "count": 85,
-          "sum": 5508.5,
-          "average": 64.80588235294118,
-          "average w/o zero": 64.80588235294118
-        },
-        "NY": {
-          "count": 323,
-          "sum": 22997.900000000012,
-          "average": 71.20092879256966,
-          "average w/o zero": 71.20092879256966
+          "count": 58,
+          "sum": 3604.4000000000005,
+          "average": 62.144827586206894,
+          "average w/o zero": 62.144827586206894
         },
         "WY": {
-          "count": 79,
-          "sum": 5822.9,
-          "average": 73.70759493670886,
-          "average w/o zero": 73.70759493670886
+          "count": 23,
+          "sum": 1682.0,
+          "average": 73.1304347826087,
+          "average w/o zero": 73.1304347826087
         },
         "MI": {
-          "count": 227,
-          "sum": 16906.200000000004,
-          "average": 74.47665198237885,
-          "average w/o zero": 74.47665198237885
+          "count": 83,
+          "sum": 6467.500000000003,
+          "average": 77.92168674698796,
+          "average w/o zero": 77.92168674698796
         },
         "AK": {
-          "count": 20,
-          "sum": 1232.5000000000002,
-          "average": 61.625,
-          "average w/o zero": 61.625
+          "count": 23,
+          "sum": 1417.8999999999999,
+          "average": 61.64782608695652,
+          "average w/o zero": 61.64782608695652
         },
         "MD": {
-          "count": 98,
-          "sum": 7048.8,
-          "average": 71.9265306122449,
-          "average w/o zero": 71.9265306122449
+          "count": 21,
+          "sum": 1488.3000000000002,
+          "average": 70.87142857142857,
+          "average w/o zero": 70.87142857142857
         },
         "KS": {
-          "count": 494,
-          "sum": 35815.00000000004,
-          "average": 72.5,
-          "average w/o zero": 72.5
+          "count": 105,
+          "sum": 7604.699999999996,
+          "average": 72.42571428571429,
+          "average w/o zero": 72.42571428571429
         },
         "TN": {
-          "count": 626,
-          "sum": 45546.400000000016,
-          "average": 72.75782747603834,
-          "average w/o zero": 72.75782747603834
+          "count": 95,
+          "sum": 6888.899999999997,
+          "average": 72.51473684210526,
+          "average w/o zero": 72.51473684210526
         },
         "TX": {
-          "count": 700,
-          "sum": 50347.100000000006,
-          "average": 71.92442857142858,
-          "average w/o zero": 71.92442857142858
+          "count": 254,
+          "sum": 18219.7,
+          "average": 71.73110236220472,
+          "average w/o zero": 71.73110236220472
         },
         "ME": {
-          "count": 121,
-          "sum": 8886.199999999999,
-          "average": 73.43966942148761,
-          "average w/o zero": 73.43966942148761
+          "count": 16,
+          "sum": 1194.5,
+          "average": 74.65625,
+          "average w/o zero": 74.65625
         },
         "AZ": {
-          "count": 19,
-          "sum": 1314.1,
-          "average": 69.16315789473684,
-          "average w/o zero": 69.16315789473684
+          "count": 15,
+          "sum": 1021.8000000000001,
+          "average": 68.12,
+          "average w/o zero": 68.12
         },
         "GA": {
-          "count": 736,
-          "sum": 52772.59999999996,
-          "average": 71.70190217391304,
-          "average w/o zero": 71.70190217391304
+          "count": 159,
+          "sum": 10838.7,
+          "average": 68.16792452830188,
+          "average w/o zero": 68.16792452830188
         },
         "AR": {
-          "count": 534,
-          "sum": 38563.10000000005,
-          "average": 72.21554307116105,
-          "average w/o zero": 72.21554307116105
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 5884.699999999998,
-          "average": 71.76463414634146,
-          "average w/o zero": 71.76463414634146
-        },
-        "SD": {
-          "count": 253,
-          "sum": 18327.900000000012,
-          "average": 72.44229249011858,
-          "average w/o zero": 72.44229249011858
+          "count": 75,
+          "sum": 5231.2,
+          "average": 69.74933333333334,
+          "average w/o zero": 69.74933333333334
         },
         "AL": {
-          "count": 439,
-          "sum": 31577.200000000023,
-          "average": 71.92984054669704,
-          "average w/o zero": 71.92984054669704
+          "count": 67,
+          "sum": 4800.0999999999985,
+          "average": 71.64328358208955,
+          "average w/o zero": 71.64328358208955
         },
         "OR": {
-          "count": 241,
-          "sum": 17265.199999999993,
-          "average": 71.63983402489626,
-          "average w/o zero": 71.63983402489626
-        },
-        "WV": {
-          "count": 338,
-          "sum": 24968.800000000007,
-          "average": 73.87218934911243,
-          "average w/o zero": 73.87218934911243
+          "count": 36,
+          "sum": 2384.5999999999995,
+          "average": 66.2388888888889,
+          "average w/o zero": 66.2388888888889
         },
         "MA": {
-          "count": 49,
-          "sum": 3479.3999999999996,
-          "average": 71.00816326530612,
-          "average w/o zero": 71.00816326530612
+          "count": 14,
+          "sum": 924.1999999999999,
+          "average": 66.01428571428572,
+          "average w/o zero": 66.01428571428572
         },
         "UT": {
-          "count": 106,
-          "sum": 7774.499999999998,
-          "average": 73.34433962264151,
-          "average w/o zero": 73.34433962264151
+          "count": 29,
+          "sum": 2180.4,
+          "average": 75.18620689655172,
+          "average w/o zero": 75.18620689655172
         },
         "MT": {
-          "count": 186,
-          "sum": 13386.4,
-          "average": 71.96989247311828,
-          "average w/o zero": 71.96989247311828
-        },
-        "NH": {
-          "count": 31,
-          "sum": 2266.2000000000003,
-          "average": 73.10322580645162,
-          "average w/o zero": 73.10322580645162
-        },
-        "NM": {
-          "count": 92,
-          "sum": 6691.699999999998,
-          "average": 72.73586956521739,
-          "average w/o zero": 72.73586956521739
-        },
-        "RI": {
-          "count": 39,
-          "sum": 2758.9,
-          "average": 70.74102564102564,
-          "average w/o zero": 70.74102564102564
+          "count": 56,
+          "sum": 4009.4999999999995,
+          "average": 71.59821428571429,
+          "average w/o zero": 71.59821428571429
         },
         "NV": {
-          "count": 70,
-          "sum": 5054.400000000001,
-          "average": 72.20571428571428,
-          "average w/o zero": 72.20571428571428
-        },
-        "DC": {
-          "count": 1,
-          "sum": 41.6,
-          "average": 41.6,
-          "average w/o zero": 41.6
+          "count": 17,
+          "sum": 1173.3999999999999,
+          "average": 69.02352941176471,
+          "average w/o zero": 69.02352941176471
         },
         "CT": {
-          "count": 14,
-          "sum": 971.2999999999998,
-          "average": 69.37857142857143,
-          "average w/o zero": 69.37857142857143
+          "count": 8,
+          "sum": 550.2,
+          "average": 68.775,
+          "average w/o zero": 68.775
         },
         "HI": {
           "count": 5,
@@ -5847,306 +4593,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 62.025000000000006
         },
         "DE": {
-          "count": 9,
-          "sum": 648.3000000000001,
-          "average": 72.03333333333333,
-          "average w/o zero": 72.03333333333333
+          "count": 3,
+          "sum": 217.3,
+          "average": 72.43333333333334,
+          "average w/o zero": 72.43333333333334
         }
       },
       "Housing.Median Value of Owner-Occupied Units": {
-        "SC": {
-          "count": 146,
-          "sum": 20309800,
-          "average": 139108.2191780822,
-          "average w/o zero": 139108.2191780822
-        },
         "LA": {
-          "count": 63,
-          "sum": 8145900,
-          "average": 129300,
-          "average w/o zero": 129300
+          "count": 64,
+          "sum": 8238900,
+          "average": 128732.8125,
+          "average w/o zero": 128732.8125
         },
         "VA": {
-          "count": 375,
-          "sum": 66487300,
-          "average": 177299.46666666667,
-          "average w/o zero": 177299.46666666667
+          "count": 132,
+          "sum": 28616600,
+          "average": 216792.42424242425,
+          "average w/o zero": 216792.42424242425
         },
         "ID": {
-          "count": 209,
-          "sum": 34137900,
-          "average": 163339.23444976076,
-          "average w/o zero": 163339.23444976076
+          "count": 44,
+          "sum": 8312900,
+          "average": 188929.54545454544,
+          "average w/o zero": 188929.54545454544
         },
         "IA": {
-          "count": 640,
-          "sum": 87303200,
-          "average": 136411.25,
-          "average w/o zero": 136411.25
+          "count": 98,
+          "sum": 11952900,
+          "average": 121968.36734693877,
+          "average w/o zero": 121968.36734693877
         },
         "KY": {
-          "count": 707,
-          "sum": 94033700,
-          "average": 133003.8189533239,
-          "average w/o zero": 133003.8189533239
+          "count": 120,
+          "sum": 13464000,
+          "average": 112200,
+          "average w/o zero": 112200
         },
         "MO": {
-          "count": 692,
-          "sum": 94225500,
-          "average": 136164.01734104045,
-          "average w/o zero": 136164.01734104045
+          "count": 115,
+          "sum": 13828500,
+          "average": 120247.82608695653,
+          "average w/o zero": 120247.82608695653
         },
         "OK": {
-          "count": 279,
-          "sum": 37073300,
-          "average": 132879.21146953406,
-          "average w/o zero": 132879.21146953406
+          "count": 77,
+          "sum": 8193100,
+          "average": 106403.8961038961,
+          "average w/o zero": 106403.8961038961
         },
         "CO": {
-          "count": 252,
-          "sum": 46125300,
-          "average": 183036.90476190476,
-          "average w/o zero": 183036.90476190476
+          "count": 64,
+          "sum": 17249000,
+          "average": 269515.625,
+          "average w/o zero": 269515.625
         },
         "IL": {
-          "count": 718,
-          "sum": 99463800,
-          "average": 138528.96935933147,
-          "average w/o zero": 138528.96935933147
+          "count": 102,
+          "sum": 12021800,
+          "average": 117860.7843137255,
+          "average w/o zero": 117860.7843137255
         },
         "IN": {
-          "count": 675,
-          "sum": 93369400,
-          "average": 138325.03703703705,
-          "average w/o zero": 138325.03703703705
+          "count": 92,
+          "sum": 11762100,
+          "average": 127848.91304347826,
+          "average w/o zero": 127848.91304347826
         },
         "MS": {
-          "count": 518,
-          "sum": 68016500,
-          "average": 131305.98455598456,
-          "average w/o zero": 131305.98455598456
-        },
-        "ND": {
-          "count": 135,
-          "sum": 18624600,
-          "average": 137960,
-          "average w/o zero": 137960
+          "count": 82,
+          "sum": 8032900,
+          "average": 97962.19512195123,
+          "average w/o zero": 97962.19512195123
         },
         "NE": {
-          "count": 446,
-          "sum": 62860300,
-          "average": 140942.37668161435,
-          "average w/o zero": 140942.37668161435
+          "count": 93,
+          "sum": 10359800,
+          "average": 111395.69892473119,
+          "average w/o zero": 111395.69892473119
         },
         "OH": {
-          "count": 567,
-          "sum": 80010100,
-          "average": 141111.28747795415,
-          "average w/o zero": 141111.28747795415
+          "count": 88,
+          "sum": 11848000,
+          "average": 134636.36363636365,
+          "average w/o zero": 134636.36363636365
         },
         "PA": {
-          "count": 380,
-          "sum": 55446400,
-          "average": 145911.57894736843,
-          "average w/o zero": 145911.57894736843
+          "count": 67,
+          "sum": 10437000,
+          "average": 155776.1194029851,
+          "average w/o zero": 155776.1194029851
         },
         "WA": {
-          "count": 195,
-          "sum": 33002500,
-          "average": 169243.58974358975,
-          "average w/o zero": 169243.58974358975
+          "count": 39,
+          "sum": 10001300,
+          "average": 256443.58974358975,
+          "average w/o zero": 256443.58974358975
         },
         "WI": {
-          "count": 316,
-          "sum": 47198900,
-          "average": 149363.6075949367,
-          "average w/o zero": 149363.6075949367
+          "count": 72,
+          "sum": 11696500,
+          "average": 162451.38888888888,
+          "average w/o zero": 162451.38888888888
         },
         "VT": {
-          "count": 79,
-          "sum": 14339400,
-          "average": 181511.3924050633,
-          "average w/o zero": 181511.3924050633
+          "count": 14,
+          "sum": 2975600,
+          "average": 212542.85714285713,
+          "average w/o zero": 212542.85714285713
         },
         "MN": {
-          "count": 308,
-          "sum": 45556800,
-          "average": 147911.6883116883,
-          "average w/o zero": 147911.6883116883
+          "count": 87,
+          "sum": 14259800,
+          "average": 163905.7471264368,
+          "average w/o zero": 163905.7471264368
         },
         "FL": {
-          "count": 360,
-          "sum": 54024600,
-          "average": 150068.33333333334,
-          "average w/o zero": 150068.33333333334
-        },
-        "NC": {
-          "count": 420,
-          "sum": 61606800,
-          "average": 146682.85714285713,
-          "average w/o zero": 146682.85714285713
+          "count": 66,
+          "sum": 11146300,
+          "average": 168883.33333333334,
+          "average w/o zero": 168883.33333333334
         },
         "CA": {
-          "count": 85,
-          "sum": 29034100,
-          "average": 341577.64705882355,
-          "average w/o zero": 341577.64705882355
-        },
-        "NY": {
-          "count": 323,
-          "sum": 53159600,
-          "average": 164580.80495356038,
-          "average w/o zero": 164580.80495356038
+          "count": 58,
+          "sum": 23999500,
+          "average": 413784.4827586207,
+          "average w/o zero": 413784.4827586207
         },
         "WY": {
-          "count": 79,
-          "sum": 14183000,
-          "average": 179531.64556962025,
-          "average w/o zero": 179531.64556962025
+          "count": 23,
+          "sum": 5421700,
+          "average": 235726.08695652173,
+          "average w/o zero": 235726.08695652173
         },
         "MI": {
-          "count": 227,
-          "sum": 30081200,
-          "average": 132516.29955947137,
-          "average w/o zero": 132516.29955947137
+          "count": 83,
+          "sum": 10909200,
+          "average": 131436.14457831325,
+          "average w/o zero": 131436.14457831325
         },
         "AK": {
-          "count": 20,
-          "sum": 4104900,
-          "average": 205245,
-          "average w/o zero": 205245
+          "count": 23,
+          "sum": 5124200,
+          "average": 222791.30434782608,
+          "average w/o zero": 222791.30434782608
         },
         "MD": {
-          "count": 98,
-          "sum": 17324400,
-          "average": 176779.5918367347,
-          "average w/o zero": 176779.5918367347
+          "count": 21,
+          "sum": 5657200,
+          "average": 269390.4761904762,
+          "average w/o zero": 269390.4761904762
         },
         "KS": {
-          "count": 494,
-          "sum": 65316100,
-          "average": 132218.82591093116,
-          "average w/o zero": 132218.82591093116
+          "count": 105,
+          "sum": 10904700,
+          "average": 103854.28571428571,
+          "average w/o zero": 103854.28571428571
         },
         "TN": {
-          "count": 626,
-          "sum": 87433200,
-          "average": 139669.6485623003,
-          "average w/o zero": 139669.6485623003
+          "count": 95,
+          "sum": 13078500,
+          "average": 137668.42105263157,
+          "average w/o zero": 137668.42105263157
         },
         "TX": {
-          "count": 700,
-          "sum": 93646399,
-          "average": 133780.57,
-          "average w/o zero": 133971.9599427754
+          "count": 254,
+          "sum": 30004699,
+          "average": 118128.73622047243,
+          "average w/o zero": 118595.65217391304
         },
         "ME": {
-          "count": 121,
-          "sum": 18508500,
-          "average": 152962.80991735536,
-          "average w/o zero": 152962.80991735536
+          "count": 16,
+          "sum": 2731700,
+          "average": 170731.25,
+          "average w/o zero": 170731.25
         },
         "AZ": {
-          "count": 19,
-          "sum": 3543400,
-          "average": 186494.73684210525,
-          "average w/o zero": 186494.73684210525
+          "count": 15,
+          "sum": 2400200,
+          "average": 160013.33333333334,
+          "average w/o zero": 160013.33333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 100215100,
-          "average": 136161.82065217392,
-          "average w/o zero": 136161.82065217392
+          "count": 159,
+          "sum": 20026400,
+          "average": 125952.20125786164,
+          "average w/o zero": 125952.20125786164
         },
         "AR": {
-          "count": 534,
-          "sum": 72098800,
-          "average": 135016.47940074906,
-          "average w/o zero": 135016.47940074906
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 16469100,
-          "average": 200842.68292682926,
-          "average w/o zero": 200842.68292682926
-        },
-        "SD": {
-          "count": 253,
-          "sum": 33958700,
-          "average": 134224.11067193677,
-          "average w/o zero": 134224.11067193677
+          "count": 75,
+          "sum": 7528500,
+          "average": 100380,
+          "average w/o zero": 100380
         },
         "AL": {
-          "count": 439,
-          "sum": 58235900,
-          "average": 132655.80865603645,
-          "average w/o zero": 132655.80865603645
+          "count": 67,
+          "sum": 7573400,
+          "average": 113035.82089552238,
+          "average w/o zero": 113035.82089552238
         },
         "OR": {
-          "count": 241,
-          "sum": 38360900,
-          "average": 159173.85892116182,
-          "average w/o zero": 159173.85892116182
-        },
-        "WV": {
-          "count": 338,
-          "sum": 43933400,
-          "average": 129980.47337278107,
-          "average w/o zero": 129980.47337278107
+          "count": 36,
+          "sum": 8533800,
+          "average": 237050,
+          "average w/o zero": 237050
         },
         "MA": {
-          "count": 49,
-          "sum": 12265400,
-          "average": 250314.2857142857,
-          "average w/o zero": 250314.2857142857
+          "count": 14,
+          "sum": 5945400,
+          "average": 424671.4285714286,
+          "average w/o zero": 424671.4285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 19126600,
-          "average": 180439.62264150943,
-          "average w/o zero": 180439.62264150943
+          "count": 29,
+          "sum": 6822600,
+          "average": 235262.06896551725,
+          "average w/o zero": 235262.06896551725
         },
         "MT": {
-          "count": 186,
-          "sum": 30654600,
-          "average": 164809.67741935485,
-          "average w/o zero": 164809.67741935485
-        },
-        "NH": {
-          "count": 31,
-          "sum": 5253100,
-          "average": 169454.83870967742,
-          "average w/o zero": 169454.83870967742
-        },
-        "NM": {
-          "count": 92,
-          "sum": 13966300,
-          "average": 151807.60869565216,
-          "average w/o zero": 151807.60869565216
-        },
-        "RI": {
-          "count": 39,
-          "sum": 7152900,
-          "average": 183407.6923076923,
-          "average w/o zero": 183407.6923076923
+          "count": 56,
+          "sum": 9845200,
+          "average": 175807.14285714287,
+          "average w/o zero": 175807.14285714287
         },
         "NV": {
-          "count": 70,
-          "sum": 11820200,
-          "average": 168860,
-          "average w/o zero": 168860
-        },
-        "DC": {
-          "count": 1,
-          "sum": 601500,
-          "average": 601500,
-          "average w/o zero": 601500
+          "count": 17,
+          "sum": 3324800,
+          "average": 195576.4705882353,
+          "average w/o zero": 195576.4705882353
         },
         "CT": {
-          "count": 14,
-          "sum": 3763900,
-          "average": 268850,
-          "average w/o zero": 268850
+          "count": 8,
+          "sum": 2154700,
+          "average": 269337.5,
+          "average w/o zero": 269337.5
         },
         "HI": {
           "count": 5,
@@ -6155,306 +4835,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 558100
         },
         "DE": {
-          "count": 9,
-          "sum": 1828200,
-          "average": 203133.33333333334,
-          "average w/o zero": 203133.33333333334
+          "count": 3,
+          "sum": 740000,
+          "average": 246666.66666666666,
+          "average w/o zero": 246666.66666666666
         }
       },
       "Housing.Households": {
-        "SC": {
-          "count": 146,
-          "sum": 5601430,
-          "average": 38365.95890410959,
-          "average w/o zero": 38365.95890410959
-        },
         "LA": {
-          "count": 63,
-          "sum": 1734683,
-          "average": 27534.650793650795,
-          "average w/o zero": 27534.650793650795
+          "count": 64,
+          "sum": 1739497,
+          "average": 27179.640625,
+          "average w/o zero": 27179.640625
         },
         "VA": {
-          "count": 375,
-          "sum": 15407646,
-          "average": 41087.056,
-          "average w/o zero": 41087.056
+          "count": 132,
+          "sum": 3149417,
+          "average": 23859.219696969696,
+          "average w/o zero": 23859.219696969696
         },
         "ID": {
-          "count": 209,
-          "sum": 6312135,
-          "average": 30201.602870813396,
-          "average w/o zero": 30201.602870813396
+          "count": 44,
+          "sum": 630008,
+          "average": 14318.363636363636,
+          "average w/o zero": 14318.363636363636
         },
         "IA": {
-          "count": 640,
-          "sum": 19303649,
-          "average": 30161.9515625,
-          "average w/o zero": 30161.9515625
+          "count": 98,
+          "sum": 1259304,
+          "average": 12850.040816326531,
+          "average w/o zero": 12850.040816326531
         },
         "KY": {
-          "count": 707,
-          "sum": 18937191,
-          "average": 26785.27722772277,
-          "average w/o zero": 26785.27722772277
+          "count": 120,
+          "sum": 1734618,
+          "average": 14455.15,
+          "average w/o zero": 14455.15
         },
         "MO": {
-          "count": 692,
-          "sum": 20733569,
-          "average": 29961.804913294796,
-          "average w/o zero": 29961.804913294796
+          "count": 115,
+          "sum": 2414521,
+          "average": 20995.834782608697,
+          "average w/o zero": 20995.834782608697
         },
         "OK": {
-          "count": 279,
-          "sum": 6283300,
-          "average": 22520.78853046595,
-          "average w/o zero": 22520.78853046595
+          "count": 77,
+          "sum": 1480061,
+          "average": 19221.571428571428,
+          "average w/o zero": 19221.571428571428
         },
         "CO": {
-          "count": 252,
-          "sum": 7650507,
-          "average": 30359.154761904763,
-          "average w/o zero": 30359.154761904763
+          "count": 64,
+          "sum": 2148994,
+          "average": 33578.03125,
+          "average w/o zero": 33578.03125
         },
         "IL": {
-          "count": 718,
-          "sum": 25058626,
-          "average": 34900.59331476323,
-          "average w/o zero": 34900.59331476323
+          "count": 102,
+          "sum": 4846134,
+          "average": 47511.117647058825,
+          "average w/o zero": 47511.117647058825
         },
         "IN": {
-          "count": 675,
-          "sum": 22119648,
-          "average": 32769.84888888889,
-          "average w/o zero": 32769.84888888889
+          "count": 92,
+          "sum": 2570419,
+          "average": 27939.33695652174,
+          "average w/o zero": 27939.33695652174
         },
         "MS": {
-          "count": 518,
-          "sum": 13401395,
-          "average": 25871.41891891892,
-          "average w/o zero": 25871.41891891892
-        },
-        "ND": {
-          "count": 135,
-          "sum": 2467746,
-          "average": 18279.6,
-          "average w/o zero": 18279.6
+          "count": 82,
+          "sum": 1104394,
+          "average": 13468.219512195123,
+          "average w/o zero": 13468.219512195123
         },
         "NE": {
-          "count": 446,
-          "sum": 11490731,
-          "average": 25763.970852017937,
-          "average w/o zero": 25763.970852017937
+          "count": 93,
+          "sum": 759176,
+          "average": 8163.182795698925,
+          "average w/o zero": 8163.182795698925
         },
         "OH": {
-          "count": 567,
-          "sum": 20720310,
-          "average": 36543.75661375662,
-          "average w/o zero": 36543.75661375662
+          "count": 88,
+          "sum": 4676358,
+          "average": 53140.431818181816,
+          "average w/o zero": 53140.431818181816
         },
         "PA": {
-          "count": 380,
-          "sum": 15553415,
-          "average": 40930.03947368421,
-          "average w/o zero": 40930.03947368421
+          "count": 67,
+          "sum": 5053106,
+          "average": 75419.49253731343,
+          "average w/o zero": 75419.49253731343
         },
         "WA": {
-          "count": 195,
-          "sum": 7611258,
-          "average": 39032.092307692306,
-          "average w/o zero": 39032.092307692306
+          "count": 39,
+          "sum": 2848396,
+          "average": 73035.79487179487,
+          "average w/o zero": 73035.79487179487
         },
         "WI": {
-          "count": 316,
-          "sum": 10259491,
-          "average": 32466.743670886077,
-          "average w/o zero": 32466.743670886077
+          "count": 72,
+          "sum": 2358156,
+          "average": 32752.166666666668,
+          "average w/o zero": 32752.166666666668
         },
         "VT": {
-          "count": 79,
-          "sum": 4501327,
-          "average": 56978.82278481012,
-          "average w/o zero": 56978.82278481012
+          "count": 14,
+          "sum": 260029,
+          "average": 18573.5,
+          "average w/o zero": 18573.5
         },
         "MN": {
-          "count": 308,
-          "sum": 9980525,
-          "average": 32404.301948051947,
-          "average w/o zero": 32404.301948051947
+          "count": 87,
+          "sum": 2185603,
+          "average": 25121.873563218393,
+          "average w/o zero": 25121.873563218393
         },
         "FL": {
-          "count": 360,
-          "sum": 17544003,
-          "average": 48733.34166666667,
-          "average w/o zero": 48733.34166666667
-        },
-        "NC": {
-          "count": 420,
-          "sum": 15902819,
-          "average": 37863.85476190476,
-          "average w/o zero": 37863.85476190476
+          "count": 66,
+          "sum": 6852939,
+          "average": 103832.40909090909,
+          "average w/o zero": 103832.40909090909
         },
         "CA": {
-          "count": 85,
-          "sum": 15457126,
-          "average": 181848.54117647058,
-          "average w/o zero": 181848.54117647058
-        },
-        "NY": {
-          "count": 323,
-          "sum": 19341547,
-          "average": 59880.95046439629,
-          "average w/o zero": 59880.95046439629
+          "count": 58,
+          "sum": 13044266,
+          "average": 224901.1379310345,
+          "average w/o zero": 224901.1379310345
         },
         "WY": {
-          "count": 79,
-          "sum": 1273650,
-          "average": 16122.151898734177,
-          "average w/o zero": 16122.151898734177
+          "count": 23,
+          "sum": 230101,
+          "average": 10004.391304347826,
+          "average w/o zero": 10004.391304347826
         },
         "MI": {
-          "count": 227,
-          "sum": 7538105,
-          "average": 33207.51101321586,
-          "average w/o zero": 33207.51101321586
+          "count": 83,
+          "sum": 3935041,
+          "average": 47410.132530120485,
+          "average w/o zero": 47410.132530120485
         },
         "AK": {
-          "count": 20,
-          "sum": 89420,
-          "average": 4471,
-          "average w/o zero": 4471
+          "count": 23,
+          "sum": 212210,
+          "average": 9226.521739130434,
+          "average w/o zero": 9226.521739130434
         },
         "MD": {
-          "count": 98,
-          "sum": 4998034,
-          "average": 51000.34693877551,
-          "average w/o zero": 51000.34693877551
+          "count": 21,
+          "sum": 1834732,
+          "average": 87368.19047619047,
+          "average w/o zero": 87368.19047619047
         },
         "KS": {
-          "count": 494,
-          "sum": 13405066,
-          "average": 27135.76113360324,
-          "average w/o zero": 27135.76113360324
+          "count": 105,
+          "sum": 1129227,
+          "average": 10754.542857142857,
+          "average w/o zero": 10754.542857142857
         },
         "TN": {
-          "count": 626,
-          "sum": 18862398,
-          "average": 30131.626198083068,
-          "average w/o zero": 30131.626198083068
+          "count": 95,
+          "sum": 2597292,
+          "average": 27339.915789473685,
+          "average w/o zero": 27339.915789473685
         },
         "TX": {
-          "count": 700,
-          "sum": 26377064,
-          "average": 37681.52,
-          "average w/o zero": 37681.52
+          "count": 254,
+          "sum": 9691647,
+          "average": 38156.0905511811,
+          "average w/o zero": 38156.0905511811
         },
         "ME": {
-          "count": 121,
-          "sum": 3796875,
-          "average": 31379.132231404958,
-          "average w/o zero": 31379.132231404958
+          "count": 16,
+          "sum": 559921,
+          "average": 34995.0625,
+          "average w/o zero": 34995.0625
         },
         "AZ": {
-          "count": 19,
-          "sum": 2675703,
-          "average": 140826.47368421053,
-          "average w/o zero": 140826.47368421053
+          "count": 15,
+          "sum": 2571268,
+          "average": 171417.86666666667,
+          "average w/o zero": 171417.86666666667
         },
         "GA": {
-          "count": 736,
-          "sum": 23638808,
-          "average": 32117.945652173912,
-          "average w/o zero": 32117.945652173912
+          "count": 159,
+          "sum": 3758798,
+          "average": 23640.238993710693,
+          "average w/o zero": 23640.238993710693
         },
         "AR": {
-          "count": 534,
-          "sum": 15974659,
-          "average": 29915.091760299627,
-          "average w/o zero": 29915.091760299627
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 5417041,
-          "average": 66061.4756097561,
-          "average w/o zero": 66061.4756097561
-        },
-        "SD": {
-          "count": 253,
-          "sum": 5286926,
-          "average": 20896.940711462452,
-          "average w/o zero": 20896.940711462452
+          "count": 75,
+          "sum": 1158071,
+          "average": 15440.946666666667,
+          "average w/o zero": 15440.946666666667
         },
         "AL": {
-          "count": 439,
-          "sum": 14039416,
-          "average": 31980.44646924829,
-          "average w/o zero": 31980.44646924829
+          "count": 67,
+          "sum": 1867893,
+          "average": 27879,
+          "average w/o zero": 27879
         },
         "OR": {
-          "count": 241,
-          "sum": 7952989,
-          "average": 32999.95435684647,
-          "average w/o zero": 32999.95435684647
-        },
-        "WV": {
-          "count": 338,
-          "sum": 7814062,
-          "average": 23118.526627218936,
-          "average w/o zero": 23118.526627218936
+          "count": 36,
+          "sum": 1611982,
+          "average": 44777.27777777778,
+          "average w/o zero": 44777.27777777778
         },
         "MA": {
-          "count": 49,
-          "sum": 4690545,
-          "average": 95725.40816326531,
-          "average w/o zero": 95725.40816326531
+          "count": 14,
+          "sum": 2617497,
+          "average": 186964.07142857142,
+          "average w/o zero": 186964.07142857142
         },
         "UT": {
-          "count": 106,
-          "sum": 3669307,
-          "average": 34616.1037735849,
-          "average w/o zero": 34616.1037735849
+          "count": 29,
+          "sum": 977313,
+          "average": 33700.44827586207,
+          "average w/o zero": 33700.44827586207
         },
         "MT": {
-          "count": 186,
-          "sum": 3765194,
-          "average": 20242.978494623654,
-          "average w/o zero": 20242.978494623654
-        },
-        "NH": {
-          "count": 31,
-          "sum": 1443893,
-          "average": 46577.1935483871,
-          "average w/o zero": 46577.1935483871
-        },
-        "NM": {
-          "count": 92,
-          "sum": 1742233,
-          "average": 18937.315217391304,
-          "average w/o zero": 18937.315217391304
-        },
-        "RI": {
-          "count": 39,
-          "sum": 1896097,
-          "average": 48617.8717948718,
-          "average w/o zero": 48617.8717948718
+          "count": 56,
+          "sum": 427871,
+          "average": 7640.553571428572,
+          "average w/o zero": 7640.553571428572
         },
         "NV": {
-          "count": 70,
-          "sum": 2302923,
-          "average": 32898.9,
-          "average w/o zero": 32898.9
-        },
-        "DC": {
-          "count": 1,
-          "sum": 284386,
-          "average": 284386,
-          "average w/o zero": 284386
+          "count": 17,
+          "sum": 1098602,
+          "average": 64623.64705882353,
+          "average w/o zero": 64623.64705882353
         },
         "CT": {
-          "count": 14,
-          "sum": 2349211,
-          "average": 167800.7857142857,
-          "average w/o zero": 167800.7857142857
+          "count": 8,
+          "sum": 1370746,
+          "average": 171343.25,
+          "average w/o zero": 171343.25
         },
         "HI": {
           "count": 5,
@@ -6463,306 +5077,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 91884.8
         },
         "DE": {
-          "count": 9,
-          "sum": 739904,
-          "average": 82211.55555555556,
-          "average w/o zero": 82211.55555555556
+          "count": 3,
+          "sum": 363322,
+          "average": 121107.33333333333,
+          "average w/o zero": 121107.33333333333
         }
       },
       "Housing.Persons per Household": {
-        "SC": {
-          "count": 146,
-          "sum": 365.8599999999999,
-          "average": 2.505890410958904,
-          "average w/o zero": 2.505890410958904
-        },
         "LA": {
-          "count": 63,
-          "sum": 163.5,
-          "average": 2.5952380952380953,
-          "average w/o zero": 2.5952380952380953
+          "count": 64,
+          "sum": 166.31000000000003,
+          "average": 2.59859375,
+          "average w/o zero": 2.59859375
         },
         "VA": {
-          "count": 375,
-          "sum": 934.59,
-          "average": 2.49224,
-          "average w/o zero": 2.49224
+          "count": 132,
+          "sum": 327.6899999999999,
+          "average": 2.4825,
+          "average w/o zero": 2.4825
         },
         "ID": {
-          "count": 209,
-          "sum": 523.66,
-          "average": 2.50555023923445,
-          "average w/o zero": 2.50555023923445
+          "count": 44,
+          "sum": 117.50999999999998,
+          "average": 2.6706818181818184,
+          "average w/o zero": 2.6706818181818184
         },
         "IA": {
-          "count": 640,
-          "sum": 1588.01,
-          "average": 2.481265625,
-          "average w/o zero": 2.481265625
+          "count": 98,
+          "sum": 229.36999999999998,
+          "average": 2.3405102040816326,
+          "average w/o zero": 2.3405102040816326
         },
         "KY": {
-          "count": 707,
-          "sum": 1757.659999999999,
-          "average": 2.486082036775106,
-          "average w/o zero": 2.486082036775106
+          "count": 120,
+          "sum": 300.4799999999999,
+          "average": 2.504,
+          "average w/o zero": 2.504
         },
         "MO": {
-          "count": 692,
-          "sum": 1721.9299999999994,
-          "average": 2.4883381502890174,
-          "average w/o zero": 2.4883381502890174
+          "count": 115,
+          "sum": 287.03999999999996,
+          "average": 2.496,
+          "average w/o zero": 2.496
         },
         "OK": {
-          "count": 279,
-          "sum": 699.3800000000001,
-          "average": 2.50673835125448,
-          "average w/o zero": 2.50673835125448
+          "count": 77,
+          "sum": 198.89,
+          "average": 2.582987012987013,
+          "average w/o zero": 2.582987012987013
         },
         "CO": {
-          "count": 252,
-          "sum": 620.4600000000002,
-          "average": 2.462142857142857,
-          "average w/o zero": 2.462142857142857
+          "count": 64,
+          "sum": 155.21999999999997,
+          "average": 2.4253125,
+          "average w/o zero": 2.4253125
         },
         "IL": {
-          "count": 718,
-          "sum": 1782.3400000000006,
-          "average": 2.482367688022284,
-          "average w/o zero": 2.482367688022284
+          "count": 102,
+          "sum": 246.46000000000006,
+          "average": 2.4162745098039218,
+          "average w/o zero": 2.4162745098039218
         },
         "IN": {
-          "count": 675,
-          "sum": 1680.9099999999996,
-          "average": 2.490237037037037,
-          "average w/o zero": 2.490237037037037
+          "count": 92,
+          "sum": 229.41000000000003,
+          "average": 2.4935869565217392,
+          "average w/o zero": 2.4935869565217392
         },
         "MS": {
-          "count": 518,
-          "sum": 1297.7700000000011,
-          "average": 2.50534749034749,
-          "average w/o zero": 2.50534749034749
-        },
-        "ND": {
-          "count": 135,
-          "sum": 323.8300000000001,
-          "average": 2.398740740740741,
-          "average w/o zero": 2.398740740740741
+          "count": 82,
+          "sum": 213.08999999999995,
+          "average": 2.598658536585366,
+          "average w/o zero": 2.598658536585366
         },
         "NE": {
-          "count": 446,
-          "sum": 1094.6400000000008,
-          "average": 2.4543497757847534,
-          "average w/o zero": 2.4543497757847534
+          "count": 93,
+          "sum": 215.4799999999999,
+          "average": 2.316989247311828,
+          "average w/o zero": 2.316989247311828
         },
         "OH": {
-          "count": 567,
-          "sum": 1408.65,
-          "average": 2.4843915343915346,
-          "average w/o zero": 2.4843915343915346
+          "count": 88,
+          "sum": 217.98999999999992,
+          "average": 2.477159090909091,
+          "average w/o zero": 2.477159090909091
         },
         "PA": {
-          "count": 380,
-          "sum": 938.91,
-          "average": 2.470815789473684,
-          "average w/o zero": 2.470815789473684
+          "count": 67,
+          "sum": 160.77000000000004,
+          "average": 2.39955223880597,
+          "average w/o zero": 2.39955223880597
         },
         "WA": {
-          "count": 195,
-          "sum": 487.0099999999998,
-          "average": 2.4974871794871794,
-          "average w/o zero": 2.4974871794871794
+          "count": 39,
+          "sum": 97.57000000000001,
+          "average": 2.5017948717948717,
+          "average w/o zero": 2.5017948717948717
         },
         "WI": {
-          "count": 316,
-          "sum": 773.2500000000002,
-          "average": 2.446993670886076,
-          "average w/o zero": 2.446993670886076
+          "count": 72,
+          "sum": 168.35999999999999,
+          "average": 2.3383333333333334,
+          "average w/o zero": 2.3383333333333334
         },
         "VT": {
-          "count": 79,
-          "sum": 195.57999999999998,
-          "average": 2.4756962025316454,
-          "average w/o zero": 2.4756962025316454
+          "count": 14,
+          "sum": 32.32,
+          "average": 2.3085714285714287,
+          "average w/o zero": 2.3085714285714287
         },
         "MN": {
-          "count": 308,
-          "sum": 757.2799999999997,
-          "average": 2.458701298701299,
-          "average w/o zero": 2.458701298701299
+          "count": 87,
+          "sum": 208.29000000000002,
+          "average": 2.3941379310344826,
+          "average w/o zero": 2.3941379310344826
         },
         "FL": {
-          "count": 360,
-          "sum": 906.2100000000004,
-          "average": 2.51725,
-          "average w/o zero": 2.51725
-        },
-        "NC": {
-          "count": 420,
-          "sum": 1045.9999999999993,
-          "average": 2.4904761904761905,
-          "average w/o zero": 2.4904761904761905
+          "count": 66,
+          "sum": 169.5999999999999,
+          "average": 2.56969696969697,
+          "average w/o zero": 2.56969696969697
         },
         "CA": {
-          "count": 85,
-          "sum": 226.55,
-          "average": 2.665294117647059,
-          "average w/o zero": 2.665294117647059
-        },
-        "NY": {
-          "count": 323,
-          "sum": 803.24,
-          "average": 2.4868111455108357,
-          "average w/o zero": 2.4868111455108357
+          "count": 58,
+          "sum": 160.0700000000001,
+          "average": 2.7598275862068964,
+          "average w/o zero": 2.7598275862068964
         },
         "WY": {
-          "count": 79,
-          "sum": 194.01000000000002,
-          "average": 2.4558227848101266,
-          "average w/o zero": 2.4558227848101266
+          "count": 23,
+          "sum": 56.25000000000001,
+          "average": 2.4456521739130435,
+          "average w/o zero": 2.4456521739130435
         },
         "MI": {
-          "count": 227,
-          "sum": 551.9699999999996,
-          "average": 2.4315859030837004,
-          "average w/o zero": 2.4315859030837004
+          "count": 83,
+          "sum": 197.22999999999988,
+          "average": 2.376265060240964,
+          "average w/o zero": 2.376265060240964
         },
         "AK": {
-          "count": 20,
-          "sum": 58.529999999999994,
-          "average": 2.9265,
-          "average w/o zero": 2.9265
+          "count": 23,
+          "sum": 66.08,
+          "average": 2.8730434782608696,
+          "average w/o zero": 2.8730434782608696
         },
         "MD": {
-          "count": 98,
-          "sum": 243.0500000000001,
-          "average": 2.4801020408163263,
-          "average w/o zero": 2.4801020408163263
+          "count": 21,
+          "sum": 53.470000000000006,
+          "average": 2.546190476190476,
+          "average w/o zero": 2.546190476190476
         },
         "KS": {
-          "count": 494,
-          "sum": 1217.450000000001,
-          "average": 2.4644736842105264,
-          "average w/o zero": 2.4644736842105264
+          "count": 105,
+          "sum": 251.30999999999995,
+          "average": 2.3934285714285712,
+          "average w/o zero": 2.3934285714285712
         },
         "TN": {
-          "count": 626,
-          "sum": 1560.9000000000003,
-          "average": 2.493450479233227,
-          "average w/o zero": 2.493450479233227
+          "count": 95,
+          "sum": 238.91,
+          "average": 2.514842105263158,
+          "average w/o zero": 2.514842105263158
         },
         "TX": {
-          "count": 700,
-          "sum": 1808.2200000000005,
-          "average": 2.5831714285714287,
-          "average w/o zero": 2.5831714285714287
+          "count": 254,
+          "sum": 699.33,
+          "average": 2.753267716535433,
+          "average w/o zero": 2.753267716535433
         },
         "ME": {
-          "count": 121,
-          "sum": 296.7999999999999,
-          "average": 2.452892561983471,
-          "average w/o zero": 2.452892561983471
+          "count": 16,
+          "sum": 36.92,
+          "average": 2.3075,
+          "average w/o zero": 2.3075
         },
         "AZ": {
-          "count": 19,
-          "sum": 50.22999999999999,
-          "average": 2.643684210526316,
-          "average w/o zero": 2.643684210526316
+          "count": 15,
+          "sum": 40.519999999999996,
+          "average": 2.7013333333333334,
+          "average w/o zero": 2.7013333333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 1846.1800000000005,
-          "average": 2.508396739130435,
-          "average w/o zero": 2.508396739130435
+          "count": 159,
+          "sum": 418.97,
+          "average": 2.6350314465408804,
+          "average w/o zero": 2.6350314465408804
         },
         "AR": {
-          "count": 534,
-          "sum": 1330.7800000000007,
-          "average": 2.4920973782771534,
-          "average w/o zero": 2.4920973782771534
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 205.81000000000003,
-          "average": 2.5098780487804877,
-          "average w/o zero": 2.5098780487804877
-        },
-        "SD": {
-          "count": 253,
-          "sum": 625.1599999999997,
-          "average": 2.47098814229249,
-          "average w/o zero": 2.47098814229249
+          "count": 75,
+          "sum": 185.63,
+          "average": 2.4750666666666667,
+          "average w/o zero": 2.4750666666666667
         },
         "AL": {
-          "count": 439,
-          "sum": 1098.690000000001,
-          "average": 2.5027107061503417,
-          "average w/o zero": 2.5027107061503417
+          "count": 67,
+          "sum": 172.15,
+          "average": 2.569402985074627,
+          "average w/o zero": 2.569402985074627
         },
         "OR": {
-          "count": 241,
-          "sum": 596.06,
-          "average": 2.473278008298755,
-          "average w/o zero": 2.473278008298755
-        },
-        "WV": {
-          "count": 338,
-          "sum": 833.5899999999996,
-          "average": 2.466242603550296,
-          "average w/o zero": 2.466242603550296
+          "count": 36,
+          "sum": 87.16000000000003,
+          "average": 2.421111111111111,
+          "average w/o zero": 2.421111111111111
         },
         "MA": {
-          "count": 49,
-          "sum": 122.75000000000001,
-          "average": 2.5051020408163267,
-          "average w/o zero": 2.5051020408163267
+          "count": 14,
+          "sum": 34.88000000000001,
+          "average": 2.4914285714285715,
+          "average w/o zero": 2.4914285714285715
         },
         "UT": {
-          "count": 106,
-          "sum": 277.6,
-          "average": 2.6188679245283017,
-          "average w/o zero": 2.6188679245283017
+          "count": 29,
+          "sum": 88.21000000000001,
+          "average": 3.0417241379310345,
+          "average w/o zero": 3.0417241379310345
         },
         "MT": {
-          "count": 186,
-          "sum": 453.61,
-          "average": 2.4387634408602152,
-          "average w/o zero": 2.4387634408602152
-        },
-        "NH": {
-          "count": 31,
-          "sum": 75.63,
-          "average": 2.4396774193548385,
-          "average w/o zero": 2.4396774193548385
-        },
-        "NM": {
-          "count": 92,
-          "sum": 235.11000000000004,
-          "average": 2.5555434782608697,
-          "average w/o zero": 2.5555434782608697
-        },
-        "RI": {
-          "count": 39,
-          "sum": 95.53000000000003,
-          "average": 2.4494871794871793,
-          "average w/o zero": 2.4494871794871793
+          "count": 56,
+          "sum": 133.96,
+          "average": 2.3921428571428573,
+          "average w/o zero": 2.3921428571428573
         },
         "NV": {
-          "count": 70,
-          "sum": 171.66,
-          "average": 2.4522857142857144,
-          "average w/o zero": 2.4522857142857144
-        },
-        "DC": {
-          "count": 1,
-          "sum": 2.3,
-          "average": 2.3,
-          "average w/o zero": 2.3
+          "count": 17,
+          "sum": 40.989999999999995,
+          "average": 2.4111764705882353,
+          "average w/o zero": 2.4111764705882353
         },
         "CT": {
-          "count": 14,
-          "sum": 34.59,
-          "average": 2.4707142857142856,
-          "average w/o zero": 2.4707142857142856
+          "count": 8,
+          "sum": 19.74,
+          "average": 2.4675000000000002,
+          "average w/o zero": 2.4675000000000002
         },
         "HI": {
           "count": 5,
@@ -6771,306 +5319,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2.678
         },
         "DE": {
-          "count": 9,
-          "sum": 22.029999999999998,
-          "average": 2.4477777777777776,
-          "average w/o zero": 2.4477777777777776
+          "count": 3,
+          "sum": 7.640000000000001,
+          "average": 2.546666666666667,
+          "average w/o zero": 2.546666666666667
         }
       },
       "Miscellaneous.Living in Same House +1 Years": {
-        "SC": {
-          "count": 146,
-          "sum": 12784.300000000001,
-          "average": 87.56369863013698,
-          "average w/o zero": 87.56369863013698
-        },
         "LA": {
-          "count": 63,
-          "sum": 5566.1,
-          "average": 88.35079365079365,
-          "average w/o zero": 88.35079365079365
+          "count": 64,
+          "sum": 5655.900000000001,
+          "average": 88.3734375,
+          "average w/o zero": 88.3734375
         },
         "VA": {
-          "count": 375,
-          "sum": 32580.90000000001,
-          "average": 86.8824,
-          "average w/o zero": 86.8824
+          "count": 132,
+          "sum": 11433.0,
+          "average": 86.61363636363636,
+          "average w/o zero": 86.61363636363636
         },
         "ID": {
-          "count": 209,
-          "sum": 18097.299999999996,
-          "average": 86.58995215311005,
-          "average w/o zero": 86.58995215311005
+          "count": 44,
+          "sum": 3705.0,
+          "average": 84.20454545454545,
+          "average w/o zero": 84.20454545454545
         },
         "IA": {
-          "count": 640,
-          "sum": 55876.39999999995,
-          "average": 87.306875,
-          "average w/o zero": 87.306875
+          "count": 98,
+          "sum": 8579.8,
+          "average": 87.54897959183674,
+          "average w/o zero": 87.54897959183674
         },
         "KY": {
-          "count": 707,
-          "sum": 61758.49999999995,
-          "average": 87.35289957567186,
-          "average w/o zero": 87.35289957567186
+          "count": 120,
+          "sum": 10454.099999999999,
+          "average": 87.1175,
+          "average w/o zero": 87.1175
         },
         "MO": {
-          "count": 692,
-          "sum": 60330.59999999994,
-          "average": 87.18294797687861,
-          "average w/o zero": 87.18294797687861
+          "count": 115,
+          "sum": 9924.3,
+          "average": 86.29826086956521,
+          "average w/o zero": 86.29826086956521
         },
         "OK": {
-          "count": 279,
-          "sum": 24314.20000000001,
-          "average": 87.14767025089606,
-          "average w/o zero": 87.14767025089606
+          "count": 77,
+          "sum": 6596.699999999997,
+          "average": 85.67142857142858,
+          "average w/o zero": 85.67142857142858
         },
         "CO": {
-          "count": 252,
-          "sum": 21825.99999999999,
-          "average": 86.61111111111111,
-          "average w/o zero": 86.61111111111111
+          "count": 64,
+          "sum": 5446.4000000000015,
+          "average": 85.1,
+          "average w/o zero": 85.1
         },
         "IL": {
-          "count": 718,
-          "sum": 62552.29999999991,
-          "average": 87.12019498607242,
-          "average w/o zero": 87.12019498607242
+          "count": 102,
+          "sum": 8951.300000000003,
+          "average": 87.7578431372549,
+          "average w/o zero": 87.7578431372549
         },
         "IN": {
-          "count": 675,
-          "sum": 58887.199999999946,
-          "average": 87.2402962962963,
-          "average w/o zero": 87.2402962962963
+          "count": 92,
+          "sum": 7983.999999999998,
+          "average": 86.78260869565217,
+          "average w/o zero": 86.78260869565217
         },
         "MS": {
-          "count": 518,
-          "sum": 45358.69999999996,
-          "average": 87.56505791505792,
-          "average w/o zero": 87.56505791505792
-        },
-        "ND": {
-          "count": 135,
-          "sum": 11840.000000000002,
-          "average": 87.70370370370371,
-          "average w/o zero": 87.70370370370371
+          "count": 82,
+          "sum": 7329.000000000001,
+          "average": 89.3780487804878,
+          "average w/o zero": 89.3780487804878
         },
         "NE": {
-          "count": 446,
-          "sum": 38941.19999999999,
-          "average": 87.31210762331838,
-          "average w/o zero": 87.31210762331838
+          "count": 93,
+          "sum": 8194.200000000003,
+          "average": 88.10967741935484,
+          "average w/o zero": 88.10967741935484
         },
         "OH": {
-          "count": 567,
-          "sum": 49423.1,
-          "average": 87.16596119929453,
-          "average w/o zero": 87.16596119929453
+          "count": 88,
+          "sum": 7664.000000000002,
+          "average": 87.0909090909091,
+          "average w/o zero": 87.0909090909091
         },
         "PA": {
-          "count": 380,
-          "sum": 33267.19999999999,
-          "average": 87.54526315789474,
-          "average w/o zero": 87.54526315789474
+          "count": 67,
+          "sum": 5928.200000000002,
+          "average": 88.48059701492538,
+          "average w/o zero": 88.48059701492538
         },
         "WA": {
-          "count": 195,
-          "sum": 16922.300000000003,
-          "average": 86.78102564102564,
-          "average w/o zero": 86.78102564102564
+          "count": 39,
+          "sum": 3269.1,
+          "average": 83.82307692307693,
+          "average w/o zero": 83.82307692307693
         },
         "WI": {
-          "count": 316,
-          "sum": 27455.600000000006,
-          "average": 86.88481012658228,
-          "average w/o zero": 86.88481012658228
+          "count": 72,
+          "sum": 6319.699999999997,
+          "average": 87.77361111111111,
+          "average w/o zero": 87.77361111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 6910.900000000001,
-          "average": 87.47974683544304,
-          "average w/o zero": 87.47974683544304
+          "count": 14,
+          "sum": 1239.7,
+          "average": 88.55,
+          "average w/o zero": 88.55
         },
         "MN": {
-          "count": 308,
-          "sum": 26947.199999999997,
-          "average": 87.49090909090908,
-          "average w/o zero": 87.49090909090908
+          "count": 87,
+          "sum": 7672.9000000000015,
+          "average": 88.19425287356322,
+          "average w/o zero": 88.19425287356322
         },
         "FL": {
-          "count": 360,
-          "sum": 31208.000000000007,
-          "average": 86.68888888888888,
-          "average w/o zero": 86.68888888888888
-        },
-        "NC": {
-          "count": 420,
-          "sum": 36657.299999999996,
-          "average": 87.27928571428572,
-          "average w/o zero": 87.27928571428572
+          "count": 66,
+          "sum": 5582.3,
+          "average": 84.58030303030303,
+          "average w/o zero": 84.58030303030303
         },
         "CA": {
-          "count": 85,
-          "sum": 7307.299999999998,
-          "average": 85.96823529411765,
-          "average w/o zero": 85.96823529411765
-        },
-        "NY": {
-          "count": 323,
-          "sum": 28191.4,
-          "average": 87.27987616099071,
-          "average w/o zero": 87.27987616099071
+          "count": 58,
+          "sum": 4988.9000000000015,
+          "average": 86.01551724137931,
+          "average w/o zero": 86.01551724137931
         },
         "WY": {
-          "count": 79,
-          "sum": 6837.000000000001,
-          "average": 86.54430379746836,
-          "average w/o zero": 86.54430379746836
+          "count": 23,
+          "sum": 1937.4999999999998,
+          "average": 84.23913043478261,
+          "average w/o zero": 84.23913043478261
         },
         "MI": {
-          "count": 227,
-          "sum": 19766.0,
-          "average": 87.0748898678414,
-          "average w/o zero": 87.0748898678414
+          "count": 83,
+          "sum": 7246.500000000001,
+          "average": 87.30722891566265,
+          "average w/o zero": 87.30722891566265
         },
         "AK": {
-          "count": 20,
-          "sum": 1651.5000000000002,
-          "average": 82.575,
-          "average w/o zero": 82.575
+          "count": 23,
+          "sum": 1892.3,
+          "average": 82.27391304347826,
+          "average w/o zero": 82.27391304347826
         },
         "MD": {
-          "count": 98,
-          "sum": 8532.800000000001,
-          "average": 87.06938775510204,
-          "average w/o zero": 87.06938775510204
+          "count": 21,
+          "sum": 1823.9999999999998,
+          "average": 86.85714285714286,
+          "average w/o zero": 86.85714285714286
         },
         "KS": {
-          "count": 494,
-          "sum": 43028.29999999999,
-          "average": 87.10182186234817,
-          "average w/o zero": 87.10182186234817
+          "count": 105,
+          "sum": 9141.0,
+          "average": 87.05714285714286,
+          "average w/o zero": 87.05714285714286
         },
         "TN": {
-          "count": 626,
-          "sum": 54712.999999999956,
-          "average": 87.40095846645367,
-          "average w/o zero": 87.40095846645367
+          "count": 95,
+          "sum": 8351.699999999999,
+          "average": 87.91263157894737,
+          "average w/o zero": 87.91263157894737
         },
         "TX": {
-          "count": 700,
-          "sum": 60793.79999999997,
-          "average": 86.84828571428571,
-          "average w/o zero": 86.84828571428571
+          "count": 254,
+          "sum": 21906.600000000002,
+          "average": 86.24645669291338,
+          "average w/o zero": 86.24645669291338
         },
         "ME": {
-          "count": 121,
-          "sum": 10591.3,
-          "average": 87.53140495867768,
-          "average w/o zero": 87.53140495867768
+          "count": 16,
+          "sum": 1396.8,
+          "average": 87.3,
+          "average w/o zero": 87.3
         },
         "AZ": {
-          "count": 19,
-          "sum": 1614.0000000000002,
-          "average": 84.94736842105263,
-          "average w/o zero": 84.94736842105263
+          "count": 15,
+          "sum": 1258.1,
+          "average": 83.87333333333333,
+          "average w/o zero": 83.87333333333333
         },
         "GA": {
-          "count": 736,
-          "sum": 64112.0999999999,
-          "average": 87.10883152173913,
-          "average w/o zero": 87.10883152173913
+          "count": 159,
+          "sum": 13872.900000000016,
+          "average": 87.25094339622642,
+          "average w/o zero": 87.25094339622642
         },
         "AR": {
-          "count": 534,
-          "sum": 46406.39999999996,
-          "average": 86.90337078651686,
-          "average w/o zero": 86.90337078651686
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 7196.7,
-          "average": 87.76463414634146,
-          "average w/o zero": 87.76463414634146
-        },
-        "SD": {
-          "count": 253,
-          "sum": 22142.500000000022,
-          "average": 87.5197628458498,
-          "average w/o zero": 87.5197628458498
+          "count": 75,
+          "sum": 6427.999999999999,
+          "average": 85.70666666666666,
+          "average w/o zero": 85.70666666666666
         },
         "AL": {
-          "count": 439,
-          "sum": 38324.799999999974,
-          "average": 87.3002277904328,
-          "average w/o zero": 87.3002277904328
+          "count": 67,
+          "sum": 5960.800000000001,
+          "average": 88.96716417910447,
+          "average w/o zero": 88.96716417910447
         },
         "OR": {
-          "count": 241,
-          "sum": 20896.799999999992,
-          "average": 86.70871369294606,
-          "average w/o zero": 86.70871369294606
-        },
-        "WV": {
-          "count": 338,
-          "sum": 29644.099999999977,
-          "average": 87.70443786982248,
-          "average w/o zero": 87.70443786982248
+          "count": 36,
+          "sum": 3014.2,
+          "average": 83.72777777777777,
+          "average w/o zero": 83.72777777777777
         },
         "MA": {
-          "count": 49,
-          "sum": 4319.5,
-          "average": 88.15306122448979,
-          "average w/o zero": 88.15306122448979
+          "count": 14,
+          "sum": 1232.1,
+          "average": 88.00714285714285,
+          "average w/o zero": 88.00714285714285
         },
         "UT": {
-          "count": 106,
-          "sum": 9284.199999999997,
-          "average": 87.5867924528302,
-          "average w/o zero": 87.5867924528302
+          "count": 29,
+          "sum": 2516.0999999999995,
+          "average": 86.76206896551724,
+          "average w/o zero": 86.76206896551724
         },
         "MT": {
-          "count": 186,
-          "sum": 16117.599999999991,
-          "average": 86.65376344086022,
-          "average w/o zero": 86.65376344086022
-        },
-        "NH": {
-          "count": 31,
-          "sum": 2715.2000000000003,
-          "average": 87.58709677419355,
-          "average w/o zero": 87.58709677419355
-        },
-        "NM": {
-          "count": 92,
-          "sum": 8078.299999999998,
-          "average": 87.80760869565218,
-          "average w/o zero": 87.80760869565218
-        },
-        "RI": {
-          "count": 39,
-          "sum": 3383.0999999999995,
-          "average": 86.74615384615385,
-          "average w/o zero": 86.74615384615385
+          "count": 56,
+          "sum": 4905.200000000001,
+          "average": 87.59285714285714,
+          "average w/o zero": 87.59285714285714
         },
         "NV": {
-          "count": 70,
-          "sum": 6046.7,
-          "average": 86.38142857142857,
-          "average w/o zero": 86.38142857142857
-        },
-        "DC": {
-          "count": 1,
-          "sum": 80.5,
-          "average": 80.5,
-          "average w/o zero": 80.5
+          "count": 17,
+          "sum": 1442.3999999999999,
+          "average": 84.84705882352941,
+          "average w/o zero": 84.84705882352941
         },
         "CT": {
-          "count": 14,
-          "sum": 1232.6000000000001,
-          "average": 88.04285714285714,
-          "average w/o zero": 88.04285714285714
+          "count": 8,
+          "sum": 702.8,
+          "average": 87.85,
+          "average w/o zero": 87.85
         },
         "HI": {
           "count": 5,
@@ -7079,306 +5561,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 88.02
         },
         "DE": {
-          "count": 9,
-          "sum": 771.3,
-          "average": 85.7,
-          "average w/o zero": 85.7
+          "count": 3,
+          "sum": 262.3,
+          "average": 87.43333333333334,
+          "average w/o zero": 87.43333333333334
         }
       },
       "Miscellaneous.Language Other than English at Home": {
-        "SC": {
-          "count": 146,
-          "sum": 941.5000000000001,
-          "average": 6.448630136986301,
-          "average w/o zero": 6.448630136986301
-        },
         "LA": {
-          "count": 63,
-          "sum": 382.40000000000015,
-          "average": 6.06984126984127,
-          "average w/o zero": 6.06984126984127
+          "count": 64,
+          "sum": 384.3000000000001,
+          "average": 6.0046875,
+          "average w/o zero": 6.0046875
         },
         "VA": {
-          "count": 375,
-          "sum": 2871.4000000000005,
-          "average": 7.657066666666667,
-          "average w/o zero": 7.677540106951872
+          "count": 132,
+          "sum": 1010.8999999999999,
+          "average": 7.658333333333333,
+          "average w/o zero": 7.658333333333333
         },
         "ID": {
-          "count": 209,
-          "sum": 1595.8000000000013,
-          "average": 7.635406698564593,
-          "average w/o zero": 7.635406698564593
+          "count": 44,
+          "sum": 498.89999999999986,
+          "average": 11.338636363636363,
+          "average w/o zero": 11.338636363636363
         },
         "IA": {
-          "count": 640,
-          "sum": 4220.900000000004,
-          "average": 6.59515625,
-          "average w/o zero": 6.605477308294209
+          "count": 98,
+          "sum": 599.9999999999997,
+          "average": 6.122448979591836,
+          "average w/o zero": 6.122448979591836
         },
         "KY": {
-          "count": 707,
-          "sum": 4138.999999999996,
-          "average": 5.854314002828854,
-          "average w/o zero": 5.862606232294618
+          "count": 120,
+          "sum": 404.79999999999995,
+          "average": 3.3733333333333335,
+          "average w/o zero": 3.3733333333333335
         },
         "MO": {
-          "count": 692,
-          "sum": 4137.099999999999,
-          "average": 5.978468208092486,
-          "average w/o zero": 5.98712011577424
+          "count": 115,
+          "sum": 476.99999999999994,
+          "average": 4.147826086956521,
+          "average w/o zero": 4.147826086956521
         },
         "OK": {
-          "count": 279,
-          "sum": 1952.7999999999995,
-          "average": 6.999283154121864,
-          "average w/o zero": 6.999283154121864
+          "count": 77,
+          "sum": 602.5,
+          "average": 7.824675324675325,
+          "average w/o zero": 7.824675324675325
         },
         "CO": {
-          "count": 252,
-          "sum": 2332.2000000000003,
-          "average": 9.254761904761905,
-          "average w/o zero": 9.254761904761905
+          "count": 64,
+          "sum": 868.5999999999999,
+          "average": 13.571875,
+          "average w/o zero": 13.571875
         },
         "IL": {
-          "count": 718,
-          "sum": 4713.899999999996,
-          "average": 6.5653203342618385,
-          "average w/o zero": 6.5744769874476985
+          "count": 102,
+          "sum": 614.5,
+          "average": 6.0245098039215685,
+          "average w/o zero": 6.0245098039215685
         },
         "IN": {
-          "count": 675,
-          "sum": 4396.099999999997,
-          "average": 6.512740740740741,
-          "average w/o zero": 6.522403560830861
+          "count": 92,
+          "sum": 509.29999999999995,
+          "average": 5.535869565217391,
+          "average w/o zero": 5.535869565217391
         },
         "MS": {
-          "count": 518,
-          "sum": 2994.0000000000005,
-          "average": 5.77992277992278,
-          "average w/o zero": 5.79110251450677
-        },
-        "ND": {
-          "count": 135,
-          "sum": 886.9999999999999,
-          "average": 6.57037037037037,
-          "average w/o zero": 6.57037037037037
+          "count": 82,
+          "sum": 243.50000000000003,
+          "average": 2.9695121951219514,
+          "average w/o zero": 3.006172839506173
         },
         "NE": {
-          "count": 446,
-          "sum": 3219.8000000000025,
-          "average": 7.219282511210762,
-          "average w/o zero": 7.235505617977528
+          "count": 93,
+          "sum": 581.4999999999995,
+          "average": 6.252688172043011,
+          "average w/o zero": 6.320652173913044
         },
         "OH": {
-          "count": 567,
-          "sum": 3574.9999999999986,
-          "average": 6.3051146384479715,
-          "average w/o zero": 6.31625441696113
+          "count": 88,
+          "sum": 423.39999999999986,
+          "average": 4.8113636363636365,
+          "average w/o zero": 4.8113636363636365
         },
         "PA": {
-          "count": 380,
-          "sum": 2563.099999999999,
-          "average": 6.745,
-          "average w/o zero": 6.745
+          "count": 67,
+          "sum": 464.0000000000001,
+          "average": 6.925373134328358,
+          "average w/o zero": 6.925373134328358
         },
         "WA": {
-          "count": 195,
-          "sum": 1730.9999999999998,
-          "average": 8.876923076923077,
-          "average w/o zero": 8.876923076923077
+          "count": 39,
+          "sum": 577.0000000000001,
+          "average": 14.794871794871796,
+          "average w/o zero": 14.794871794871796
         },
         "WI": {
-          "count": 316,
-          "sum": 2130.9000000000005,
-          "average": 6.743354430379747,
-          "average w/o zero": 6.743354430379747
+          "count": 72,
+          "sum": 399.7,
+          "average": 5.551388888888889,
+          "average w/o zero": 5.551388888888889
         },
         "VT": {
-          "count": 79,
-          "sum": 653.4999999999998,
-          "average": 8.272151898734178,
-          "average w/o zero": 8.272151898734178
+          "count": 14,
+          "sum": 68.9,
+          "average": 4.921428571428572,
+          "average w/o zero": 4.921428571428572
         },
         "MN": {
-          "count": 308,
-          "sum": 2201.9000000000005,
-          "average": 7.149025974025974,
-          "average w/o zero": 7.149025974025974
+          "count": 87,
+          "sum": 565.5,
+          "average": 6.5,
+          "average w/o zero": 6.5
         },
         "FL": {
-          "count": 360,
-          "sum": 3081.4000000000015,
-          "average": 8.559444444444445,
-          "average w/o zero": 8.559444444444445
-        },
-        "NC": {
-          "count": 420,
-          "sum": 3074.3000000000025,
-          "average": 7.319761904761905,
-          "average w/o zero": 7.319761904761905
+          "count": 66,
+          "sum": 977.6,
+          "average": 14.812121212121212,
+          "average w/o zero": 14.812121212121212
         },
         "CA": {
-          "count": 85,
-          "sum": 2123.4,
-          "average": 24.981176470588235,
-          "average w/o zero": 24.981176470588235
-        },
-        "NY": {
-          "count": 323,
-          "sum": 2536.200000000001,
-          "average": 7.852012383900929,
-          "average w/o zero": 7.852012383900929
+          "count": 58,
+          "sum": 1739.5,
+          "average": 29.99137931034483,
+          "average w/o zero": 29.99137931034483
         },
         "WY": {
-          "count": 79,
-          "sum": 524.8999999999999,
-          "average": 6.644303797468354,
-          "average w/o zero": 6.644303797468354
+          "count": 23,
+          "sum": 162.39999999999998,
+          "average": 7.060869565217391,
+          "average w/o zero": 7.060869565217391
         },
         "MI": {
-          "count": 227,
-          "sum": 1390.9999999999998,
-          "average": 6.127753303964758,
-          "average w/o zero": 6.127753303964758
+          "count": 83,
+          "sum": 391.20000000000016,
+          "average": 4.713253012048193,
+          "average w/o zero": 4.713253012048193
         },
         "AK": {
-          "count": 20,
-          "sum": 450.1,
-          "average": 22.505,
-          "average w/o zero": 22.505
+          "count": 23,
+          "sum": 493.1,
+          "average": 21.43913043478261,
+          "average w/o zero": 21.43913043478261
         },
         "MD": {
-          "count": 98,
-          "sum": 752.0999999999998,
-          "average": 7.674489795918367,
-          "average w/o zero": 7.75360824742268
+          "count": 21,
+          "sum": 213.4,
+          "average": 10.161904761904761,
+          "average w/o zero": 10.161904761904761
         },
         "KS": {
-          "count": 494,
-          "sum": 3683.4000000000005,
-          "average": 7.456275303643725,
-          "average w/o zero": 7.456275303643725
+          "count": 105,
+          "sum": 931.1000000000004,
+          "average": 8.867619047619048,
+          "average w/o zero": 8.867619047619048
         },
         "TN": {
-          "count": 626,
-          "sum": 3909.4999999999995,
-          "average": 6.24520766773163,
-          "average w/o zero": 6.2552
+          "count": 95,
+          "sum": 373.5999999999999,
+          "average": 3.9326315789473685,
+          "average w/o zero": 3.9326315789473685
         },
         "TX": {
-          "count": 700,
-          "sum": 9667.000000000002,
-          "average": 13.81,
-          "average w/o zero": 13.81
+          "count": 254,
+          "sum": 6859.499999999999,
+          "average": 27.005905511811022,
+          "average w/o zero": 27.005905511811022
         },
         "ME": {
-          "count": 121,
-          "sum": 775.3999999999996,
-          "average": 6.4082644628099175,
-          "average w/o zero": 6.4082644628099175
+          "count": 16,
+          "sum": 83.19999999999999,
+          "average": 5.2,
+          "average w/o zero": 5.2
         },
         "AZ": {
-          "count": 19,
-          "sum": 506.6,
-          "average": 26.66315789473684,
-          "average w/o zero": 26.66315789473684
+          "count": 15,
+          "sum": 451.0999999999999,
+          "average": 30.073333333333334,
+          "average w/o zero": 30.073333333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 5054.9000000000015,
-          "average": 6.868070652173913,
-          "average w/o zero": 6.877414965986395
+          "count": 159,
+          "sum": 1157.3999999999999,
+          "average": 7.279245283018868,
+          "average w/o zero": 7.279245283018868
         },
         "AR": {
-          "count": 534,
-          "sum": 3362.0000000000005,
-          "average": 6.295880149812734,
-          "average w/o zero": 6.3076923076923075
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 905.9999999999999,
-          "average": 11.048780487804878,
-          "average w/o zero": 11.048780487804878
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1722.599999999999,
-          "average": 6.808695652173913,
-          "average w/o zero": 6.808695652173913
+          "count": 75,
+          "sum": 373.6,
+          "average": 4.981333333333334,
+          "average w/o zero": 4.981333333333334
         },
         "AL": {
-          "count": 439,
-          "sum": 2579.4999999999977,
-          "average": 5.875854214123007,
-          "average w/o zero": 5.875854214123007
+          "count": 67,
+          "sum": 260.1000000000001,
+          "average": 3.882089552238806,
+          "average w/o zero": 3.882089552238806
         },
         "OR": {
-          "count": 241,
-          "sum": 1846.0,
-          "average": 7.659751037344399,
-          "average w/o zero": 7.659751037344399
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1845.7999999999988,
-          "average": 5.46094674556213,
-          "average w/o zero": 5.46094674556213
+          "count": 36,
+          "sum": 401.59999999999997,
+          "average": 11.155555555555555,
+          "average w/o zero": 11.155555555555555
         },
         "MA": {
-          "count": 49,
-          "sum": 584.7,
-          "average": 11.93265306122449,
-          "average w/o zero": 11.93265306122449
+          "count": 14,
+          "sum": 255.79999999999995,
+          "average": 18.271428571428572,
+          "average w/o zero": 18.271428571428572
         },
         "UT": {
-          "count": 106,
-          "sum": 898.0,
-          "average": 8.471698113207546,
-          "average w/o zero": 8.471698113207546
+          "count": 29,
+          "sum": 301.59999999999997,
+          "average": 10.4,
+          "average w/o zero": 10.4
         },
         "MT": {
-          "count": 186,
-          "sum": 1226.7000000000003,
-          "average": 6.59516129032258,
-          "average w/o zero": 6.59516129032258
-        },
-        "NH": {
-          "count": 31,
-          "sum": 203.19999999999996,
-          "average": 6.554838709677419,
-          "average w/o zero": 6.773333333333333
-        },
-        "NM": {
-          "count": 92,
-          "sum": 1542.5,
-          "average": 16.766304347826086,
-          "average w/o zero": 16.766304347826086
-        },
-        "RI": {
-          "count": 39,
-          "sum": 307.09999999999997,
-          "average": 7.874358974358974,
-          "average w/o zero": 7.874358974358974
+          "count": 56,
+          "sum": 257.5,
+          "average": 4.598214285714286,
+          "average w/o zero": 4.598214285714286
         },
         "NV": {
-          "count": 70,
-          "sum": 665.4000000000001,
-          "average": 9.505714285714285,
-          "average w/o zero": 9.505714285714285
-        },
-        "DC": {
-          "count": 1,
-          "sum": 17.2,
-          "average": 17.2,
-          "average w/o zero": 17.2
+          "count": 17,
+          "sum": 266.5,
+          "average": 15.676470588235293,
+          "average w/o zero": 15.676470588235293
         },
         "CT": {
-          "count": 14,
-          "sum": 220.0,
-          "average": 15.714285714285714,
-          "average w/o zero": 15.714285714285714
+          "count": 8,
+          "sum": 134.5,
+          "average": 16.8125,
+          "average w/o zero": 16.8125
         },
         "HI": {
           "count": 5,
@@ -7387,306 +5803,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 23.3
         },
         "DE": {
-          "count": 9,
-          "sum": 89.3,
-          "average": 9.922222222222222,
-          "average w/o zero": 9.922222222222222
+          "count": 3,
+          "sum": 36.4,
+          "average": 12.133333333333333,
+          "average w/o zero": 12.133333333333333
         }
       },
       "Education.High School or Higher": {
-        "SC": {
-          "count": 146,
-          "sum": 12553.000000000002,
-          "average": 85.97945205479452,
-          "average w/o zero": 85.97945205479452
-        },
         "LA": {
-          "count": 63,
-          "sum": 5174.7,
-          "average": 82.13809523809523,
-          "average w/o zero": 82.13809523809523
+          "count": 64,
+          "sum": 5252.299999999999,
+          "average": 82.0671875,
+          "average w/o zero": 82.0671875
         },
         "VA": {
-          "count": 375,
-          "sum": 32667.00000000004,
-          "average": 87.112,
-          "average w/o zero": 87.112
+          "count": 132,
+          "sum": 11446.6,
+          "average": 86.71666666666667,
+          "average w/o zero": 86.71666666666667
         },
         "ID": {
-          "count": 209,
-          "sum": 18451.90000000001,
-          "average": 88.2866028708134,
-          "average w/o zero": 88.2866028708134
+          "count": 44,
+          "sum": 3874.1999999999985,
+          "average": 88.05,
+          "average w/o zero": 88.05
         },
         "IA": {
-          "count": 640,
-          "sum": 55912.69999999999,
-          "average": 87.36359375,
-          "average w/o zero": 87.36359375
+          "count": 98,
+          "sum": 8980.599999999997,
+          "average": 91.63877551020408,
+          "average w/o zero": 91.63877551020408
         },
         "KY": {
-          "count": 707,
-          "sum": 61182.30000000005,
-          "average": 86.53790664780763,
-          "average w/o zero": 86.53790664780763
+          "count": 120,
+          "sum": 9851.300000000003,
+          "average": 82.09416666666667,
+          "average w/o zero": 82.09416666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 60234.30000000006,
-          "average": 87.04378612716764,
-          "average w/o zero": 87.04378612716764
+          "count": 115,
+          "sum": 9962.699999999997,
+          "average": 86.63217391304347,
+          "average w/o zero": 86.63217391304347
         },
         "OK": {
-          "count": 279,
-          "sum": 24397.300000000003,
-          "average": 87.44551971326165,
-          "average w/o zero": 87.44551971326165
+          "count": 77,
+          "sum": 6630.299999999999,
+          "average": 86.1077922077922,
+          "average w/o zero": 86.1077922077922
         },
         "CO": {
-          "count": 252,
-          "sum": 22387.000000000015,
-          "average": 88.83730158730158,
-          "average w/o zero": 88.83730158730158
+          "count": 64,
+          "sum": 5833.999999999999,
+          "average": 91.15625,
+          "average w/o zero": 91.15625
         },
         "IL": {
-          "count": 718,
-          "sum": 62664.600000000006,
-          "average": 87.2766016713092,
-          "average w/o zero": 87.2766016713092
+          "count": 102,
+          "sum": 9155.099999999999,
+          "average": 89.75588235294117,
+          "average w/o zero": 89.75588235294117
         },
         "IN": {
-          "count": 675,
-          "sum": 58804.2,
-          "average": 87.11733333333333,
-          "average w/o zero": 87.11733333333333
+          "count": 92,
+          "sum": 8112.1,
+          "average": 88.175,
+          "average w/o zero": 88.175
         },
         "MS": {
-          "count": 518,
-          "sum": 44443.599999999984,
-          "average": 85.7984555984556,
-          "average w/o zero": 85.7984555984556
-        },
-        "ND": {
-          "count": 135,
-          "sum": 12064.3,
-          "average": 89.36518518518518,
-          "average w/o zero": 89.36518518518518
+          "count": 82,
+          "sum": 6647.0999999999985,
+          "average": 81.06219512195122,
+          "average w/o zero": 81.06219512195122
         },
         "NE": {
-          "count": 446,
-          "sum": 39525.2,
-          "average": 88.62152466367714,
-          "average w/o zero": 88.62152466367714
+          "count": 93,
+          "sum": 8534.3,
+          "average": 91.76666666666667,
+          "average w/o zero": 91.76666666666667
         },
         "OH": {
-          "count": 567,
-          "sum": 49574.90000000001,
-          "average": 87.4336860670194,
-          "average w/o zero": 87.4336860670194
+          "count": 88,
+          "sum": 7833.2,
+          "average": 89.01363636363637,
+          "average w/o zero": 89.01363636363637
         },
         "PA": {
-          "count": 380,
-          "sum": 33240.90000000004,
-          "average": 87.47605263157895,
-          "average w/o zero": 87.47605263157895
+          "count": 67,
+          "sum": 6022.700000000001,
+          "average": 89.8910447761194,
+          "average w/o zero": 89.8910447761194
         },
         "WA": {
-          "count": 195,
-          "sum": 17246.199999999993,
-          "average": 88.44205128205128,
-          "average w/o zero": 88.44205128205128
+          "count": 39,
+          "sum": 3473.5,
+          "average": 89.06410256410257,
+          "average w/o zero": 89.06410256410257
         },
         "WI": {
-          "count": 316,
-          "sum": 28040.100000000024,
-          "average": 88.73449367088608,
-          "average w/o zero": 88.73449367088608
+          "count": 72,
+          "sum": 6615.299999999999,
+          "average": 91.87916666666666,
+          "average w/o zero": 91.87916666666666
         },
         "VT": {
-          "count": 79,
-          "sum": 6993.399999999997,
-          "average": 88.5240506329114,
-          "average w/o zero": 88.5240506329114
+          "count": 14,
+          "sum": 1285.8,
+          "average": 91.84285714285714,
+          "average w/o zero": 91.84285714285714
         },
         "MN": {
-          "count": 308,
-          "sum": 27298.400000000012,
-          "average": 88.63116883116884,
-          "average w/o zero": 88.63116883116884
+          "count": 87,
+          "sum": 8019.9000000000015,
+          "average": 92.18275862068965,
+          "average w/o zero": 92.18275862068965
         },
         "FL": {
-          "count": 360,
-          "sum": 31235.900000000034,
-          "average": 86.76638888888888,
-          "average w/o zero": 86.76638888888888
-        },
-        "NC": {
-          "count": 420,
-          "sum": 36278.90000000002,
-          "average": 86.37833333333333,
-          "average w/o zero": 86.37833333333333
+          "count": 66,
+          "sum": 5654.400000000002,
+          "average": 85.67272727272727,
+          "average w/o zero": 85.67272727272727
         },
         "CA": {
-          "count": 85,
-          "sum": 7273.9,
-          "average": 85.57529411764706,
-          "average w/o zero": 85.57529411764706
-        },
-        "NY": {
-          "count": 323,
-          "sum": 28416.20000000003,
-          "average": 87.97585139318886,
-          "average w/o zero": 87.97585139318886
+          "count": 58,
+          "sum": 4911.9,
+          "average": 84.68793103448276,
+          "average w/o zero": 84.68793103448276
         },
         "WY": {
-          "count": 79,
-          "sum": 7103.199999999999,
-          "average": 89.91392405063291,
-          "average w/o zero": 89.91392405063291
+          "count": 23,
+          "sum": 2135.3999999999996,
+          "average": 92.84347826086956,
+          "average w/o zero": 92.84347826086956
         },
         "MI": {
-          "count": 227,
-          "sum": 20035.000000000007,
-          "average": 88.25991189427313,
-          "average w/o zero": 88.25991189427313
+          "count": 83,
+          "sum": 7523.499999999998,
+          "average": 90.644578313253,
+          "average w/o zero": 90.644578313253
         },
         "AK": {
-          "count": 20,
-          "sum": 1798.8000000000002,
-          "average": 89.94,
-          "average w/o zero": 89.94
+          "count": 23,
+          "sum": 2083.8,
+          "average": 90.6,
+          "average w/o zero": 90.6
         },
         "MD": {
-          "count": 98,
-          "sum": 8651.099999999999,
-          "average": 88.2765306122449,
-          "average w/o zero": 88.2765306122449
+          "count": 21,
+          "sum": 1889.9,
+          "average": 89.9952380952381,
+          "average w/o zero": 89.9952380952381
         },
         "KS": {
-          "count": 494,
-          "sum": 43421.5,
-          "average": 87.89777327935222,
-          "average w/o zero": 87.89777327935222
+          "count": 105,
+          "sum": 9441.200000000003,
+          "average": 89.91619047619048,
+          "average w/o zero": 89.91619047619048
         },
         "TN": {
-          "count": 626,
-          "sum": 54201.900000000016,
-          "average": 86.58450479233227,
-          "average w/o zero": 86.58450479233227
+          "count": 95,
+          "sum": 7942.299999999999,
+          "average": 83.60315789473684,
+          "average w/o zero": 83.60315789473684
         },
         "TX": {
-          "count": 700,
-          "sum": 59504.8,
-          "average": 85.00685714285714,
-          "average w/o zero": 85.00685714285714
+          "count": 254,
+          "sum": 20534.999999999993,
+          "average": 80.84645669291339,
+          "average w/o zero": 80.84645669291339
         },
         "ME": {
-          "count": 121,
-          "sum": 10692.7,
-          "average": 88.3694214876033,
-          "average w/o zero": 88.3694214876033
+          "count": 16,
+          "sum": 1471.1000000000001,
+          "average": 91.94375,
+          "average w/o zero": 91.94375
         },
         "AZ": {
-          "count": 19,
-          "sum": 1616.6,
-          "average": 85.08421052631579,
-          "average w/o zero": 85.08421052631579
+          "count": 15,
+          "sum": 1267.1999999999998,
+          "average": 84.48,
+          "average w/o zero": 84.48
         },
         "GA": {
-          "count": 736,
-          "sum": 63270.80000000004,
-          "average": 85.96576086956522,
-          "average w/o zero": 85.96576086956522
+          "count": 159,
+          "sum": 13113.300000000003,
+          "average": 82.47358490566037,
+          "average w/o zero": 82.47358490566037
         },
         "AR": {
-          "count": 534,
-          "sum": 46284.30000000001,
-          "average": 86.6747191011236,
-          "average w/o zero": 86.6747191011236
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 7238.499999999998,
-          "average": 88.27439024390245,
-          "average w/o zero": 88.27439024390245
-        },
-        "SD": {
-          "count": 253,
-          "sum": 22235.200000000015,
-          "average": 87.88616600790513,
-          "average w/o zero": 87.88616600790513
+          "count": 75,
+          "sum": 6333.299999999997,
+          "average": 84.444,
+          "average w/o zero": 84.444
         },
         "AL": {
-          "count": 439,
-          "sum": 37768.70000000001,
-          "average": 86.03348519362187,
-          "average w/o zero": 86.03348519362187
+          "count": 67,
+          "sum": 5545.500000000002,
+          "average": 82.76865671641791,
+          "average w/o zero": 82.76865671641791
         },
         "OR": {
-          "count": 241,
-          "sum": 21167.699999999997,
-          "average": 87.83278008298755,
-          "average w/o zero": 87.83278008298755
-        },
-        "WV": {
-          "count": 338,
-          "sum": 29322.500000000022,
-          "average": 86.75295857988166,
-          "average w/o zero": 86.75295857988166
+          "count": 36,
+          "sum": 3213.5,
+          "average": 89.26388888888889,
+          "average w/o zero": 89.26388888888889
         },
         "MA": {
-          "count": 49,
-          "sum": 4357.7,
-          "average": 88.93265306122449,
-          "average w/o zero": 88.93265306122449
+          "count": 14,
+          "sum": 1283.2,
+          "average": 91.65714285714286,
+          "average w/o zero": 91.65714285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 9390.800000000001,
-          "average": 88.59245283018868,
-          "average w/o zero": 88.59245283018868
+          "count": 29,
+          "sum": 2663.7999999999997,
+          "average": 91.8551724137931,
+          "average w/o zero": 91.8551724137931
         },
         "MT": {
-          "count": 186,
-          "sum": 16624.899999999994,
-          "average": 89.38118279569892,
-          "average w/o zero": 89.38118279569892
-        },
-        "NH": {
-          "count": 31,
-          "sum": 2741.899999999999,
-          "average": 88.4483870967742,
-          "average w/o zero": 88.4483870967742
-        },
-        "NM": {
-          "count": 92,
-          "sum": 7961.699999999998,
-          "average": 86.54021739130435,
-          "average w/o zero": 86.54021739130435
-        },
-        "RI": {
-          "count": 39,
-          "sum": 3451.7999999999993,
-          "average": 88.50769230769231,
-          "average w/o zero": 88.50769230769231
+          "count": 56,
+          "sum": 5146.9,
+          "average": 91.90892857142858,
+          "average w/o zero": 91.90892857142858
         },
         "NV": {
-          "count": 70,
-          "sum": 6198.7,
-          "average": 88.55285714285714,
-          "average w/o zero": 88.55285714285714
-        },
-        "DC": {
-          "count": 1,
-          "sum": 90.9,
-          "average": 90.9,
-          "average w/o zero": 90.9
+          "count": 17,
+          "sum": 1497.1999999999998,
+          "average": 88.07058823529411,
+          "average w/o zero": 88.07058823529411
         },
         "CT": {
-          "count": 14,
-          "sum": 1274.2000000000003,
-          "average": 91.01428571428572,
-          "average w/o zero": 91.01428571428572
+          "count": 8,
+          "sum": 732.6999999999999,
+          "average": 91.5875,
+          "average w/o zero": 91.5875
         },
         "HI": {
           "count": 5,
@@ -7695,306 +6045,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 91.8
         },
         "DE": {
-          "count": 9,
-          "sum": 799.5999999999999,
-          "average": 88.84444444444445,
-          "average w/o zero": 88.84444444444445
+          "count": 3,
+          "sum": 267.1,
+          "average": 89.03333333333333,
+          "average w/o zero": 89.03333333333333
         }
       },
       "Education.Bachelor's Degree or Higher": {
-        "SC": {
-          "count": 146,
-          "sum": 3090.6000000000017,
-          "average": 21.16849315068493,
-          "average w/o zero": 21.16849315068493
-        },
         "LA": {
-          "count": 63,
-          "sum": 1091.2000000000003,
-          "average": 17.32063492063492,
-          "average w/o zero": 17.32063492063492
+          "count": 64,
+          "sum": 1104.8000000000002,
+          "average": 17.2625,
+          "average w/o zero": 17.2625
         },
         "VA": {
-          "count": 375,
-          "sum": 9186.89999999999,
-          "average": 24.4984,
-          "average w/o zero": 24.4984
+          "count": 132,
+          "sum": 3568.5999999999995,
+          "average": 27.034848484848485,
+          "average w/o zero": 27.034848484848485
         },
         "ID": {
-          "count": 209,
-          "sum": 4660.000000000001,
-          "average": 22.29665071770335,
-          "average w/o zero": 22.29665071770335
+          "count": 44,
+          "sum": 951.6999999999999,
+          "average": 21.629545454545454,
+          "average w/o zero": 21.629545454545454
         },
         "IA": {
-          "count": 640,
-          "sum": 13593.79999999999,
-          "average": 21.2403125,
-          "average w/o zero": 21.2403125
+          "count": 98,
+          "sum": 2154.3999999999996,
+          "average": 21.983673469387757,
+          "average w/o zero": 21.983673469387757
         },
         "KY": {
-          "count": 707,
-          "sum": 14316.599999999993,
-          "average": 20.24978783592645,
-          "average w/o zero": 20.24978783592645
+          "count": 120,
+          "sum": 1985.5000000000007,
+          "average": 16.545833333333334,
+          "average w/o zero": 16.545833333333334
         },
         "MO": {
-          "count": 692,
-          "sum": 14351.699999999986,
-          "average": 20.739450867052025,
-          "average w/o zero": 20.739450867052025
+          "count": 115,
+          "sum": 2163.9999999999995,
+          "average": 18.817391304347826,
+          "average w/o zero": 18.817391304347826
         },
         "OK": {
-          "count": 279,
-          "sum": 5835.4000000000015,
-          "average": 20.91541218637993,
-          "average w/o zero": 20.91541218637993
+          "count": 77,
+          "sum": 1498.3,
+          "average": 19.458441558441557,
+          "average w/o zero": 19.458441558441557
         },
         "CO": {
-          "count": 252,
-          "sum": 6198.6,
-          "average": 24.597619047619048,
-          "average w/o zero": 24.597619047619048
+          "count": 64,
+          "sum": 2043.0,
+          "average": 31.921875,
+          "average w/o zero": 31.921875
         },
         "IL": {
-          "count": 718,
-          "sum": 15347.399999999969,
-          "average": 21.375208913649026,
-          "average w/o zero": 21.375208913649026
+          "count": 102,
+          "sum": 2194.1,
+          "average": 21.51078431372549,
+          "average w/o zero": 21.51078431372549
         },
         "IN": {
-          "count": 675,
-          "sum": 14240.499999999995,
-          "average": 21.097037037037037,
-          "average w/o zero": 21.097037037037037
+          "count": 92,
+          "sum": 1828.1000000000004,
+          "average": 19.870652173913044,
+          "average w/o zero": 19.870652173913044
         },
         "MS": {
-          "count": 518,
-          "sum": 10351.599999999984,
-          "average": 19.983783783783785,
-          "average w/o zero": 19.983783783783785
-        },
-        "ND": {
-          "count": 135,
-          "sum": 2945.2999999999997,
-          "average": 21.817037037037036,
-          "average w/o zero": 21.817037037037036
+          "count": 82,
+          "sum": 1435.8000000000006,
+          "average": 17.509756097560977,
+          "average w/o zero": 17.509756097560977
         },
         "NE": {
-          "count": 446,
-          "sum": 10046.199999999988,
-          "average": 22.52511210762332,
-          "average w/o zero": 22.52511210762332
+          "count": 93,
+          "sum": 2113.3999999999996,
+          "average": 22.7247311827957,
+          "average w/o zero": 22.7247311827957
         },
         "OH": {
-          "count": 567,
-          "sum": 12054.299999999983,
-          "average": 21.25978835978836,
-          "average w/o zero": 21.25978835978836
+          "count": 88,
+          "sum": 1809.4999999999998,
+          "average": 20.5625,
+          "average w/o zero": 20.5625
         },
         "PA": {
-          "count": 380,
-          "sum": 8302.299999999996,
-          "average": 21.848157894736843,
-          "average w/o zero": 21.848157894736843
+          "count": 67,
+          "sum": 1581.6999999999998,
+          "average": 23.607462686567164,
+          "average w/o zero": 23.607462686567164
         },
         "WA": {
-          "count": 195,
-          "sum": 4397.500000000001,
-          "average": 22.55128205128205,
-          "average w/o zero": 22.55128205128205
+          "count": 39,
+          "sum": 1051.9,
+          "average": 26.97179487179487,
+          "average w/o zero": 26.97179487179487
         },
         "WI": {
-          "count": 316,
-          "sum": 6968.5,
-          "average": 22.05221518987342,
-          "average w/o zero": 22.05221518987342
+          "count": 72,
+          "sum": 1700.8999999999999,
+          "average": 23.62361111111111,
+          "average w/o zero": 23.62361111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 2021.6999999999996,
-          "average": 25.59113924050633,
-          "average w/o zero": 25.59113924050633
+          "count": 14,
+          "sum": 473.90000000000003,
+          "average": 33.85,
+          "average w/o zero": 33.85
         },
         "MN": {
-          "count": 308,
-          "sum": 6762.800000000004,
-          "average": 21.957142857142856,
-          "average w/o zero": 21.957142857142856
+          "count": 87,
+          "sum": 2084.5999999999995,
+          "average": 23.960919540229884,
+          "average w/o zero": 23.960919540229884
         },
         "FL": {
-          "count": 360,
-          "sum": 7903.700000000003,
-          "average": 21.954722222222223,
-          "average w/o zero": 21.954722222222223
-        },
-        "NC": {
-          "count": 420,
-          "sum": 9123.999999999993,
-          "average": 21.723809523809525,
-          "average w/o zero": 21.723809523809525
+          "count": 66,
+          "sum": 1471.9,
+          "average": 22.30151515151515,
+          "average w/o zero": 22.30151515151515
         },
         "CA": {
-          "count": 85,
-          "sum": 2248.7999999999997,
-          "average": 26.456470588235295,
-          "average w/o zero": 26.456470588235295
-        },
-        "NY": {
-          "count": 323,
-          "sum": 7701.300000000003,
-          "average": 23.843034055727554,
-          "average w/o zero": 23.843034055727554
+          "count": 58,
+          "sum": 1582.9000000000003,
+          "average": 27.291379310344826,
+          "average w/o zero": 27.291379310344826
         },
         "WY": {
-          "count": 79,
-          "sum": 1879.8999999999999,
-          "average": 23.79620253164557,
-          "average w/o zero": 23.79620253164557
+          "count": 23,
+          "sum": 595.9,
+          "average": 25.90869565217391,
+          "average w/o zero": 25.90869565217391
         },
         "MI": {
-          "count": 227,
-          "sum": 4732.1,
-          "average": 20.84625550660793,
-          "average w/o zero": 20.84625550660793
+          "count": 83,
+          "sum": 1854.1000000000001,
+          "average": 22.33855421686747,
+          "average w/o zero": 22.33855421686747
         },
         "AK": {
-          "count": 20,
-          "sum": 450.80000000000007,
-          "average": 22.54,
-          "average w/o zero": 22.54
+          "count": 23,
+          "sum": 558.7,
+          "average": 24.291304347826088,
+          "average w/o zero": 24.291304347826088
         },
         "MD": {
-          "count": 98,
-          "sum": 2469.6000000000013,
-          "average": 25.2,
-          "average w/o zero": 25.2
+          "count": 21,
+          "sum": 681.8000000000001,
+          "average": 32.46666666666667,
+          "average w/o zero": 32.46666666666667
         },
         "KS": {
-          "count": 494,
-          "sum": 10716.399999999981,
-          "average": 21.693117408906883,
-          "average w/o zero": 21.693117408906883
+          "count": 105,
+          "sum": 2441.2999999999997,
+          "average": 23.250476190476192,
+          "average w/o zero": 23.250476190476192
         },
         "TN": {
-          "count": 626,
-          "sum": 13049.999999999978,
-          "average": 20.84664536741214,
-          "average w/o zero": 20.84664536741214
+          "count": 95,
+          "sum": 1665.3999999999999,
+          "average": 17.530526315789473,
+          "average w/o zero": 17.530526315789473
         },
         "TX": {
-          "count": 700,
-          "sum": 14659.899999999983,
-          "average": 20.942714285714285,
-          "average w/o zero": 20.972675250357653
+          "count": 254,
+          "sum": 4840.099999999999,
+          "average": 19.05551181102362,
+          "average w/o zero": 19.13083003952569
         },
         "ME": {
-          "count": 121,
-          "sum": 2759.500000000002,
-          "average": 22.805785123966942,
-          "average w/o zero": 22.805785123966942
+          "count": 16,
+          "sum": 447.69999999999993,
+          "average": 27.98125,
+          "average w/o zero": 27.98125
         },
         "AZ": {
-          "count": 19,
-          "sum": 405.3,
-          "average": 21.33157894736842,
-          "average w/o zero": 21.33157894736842
+          "count": 15,
+          "sum": 305.09999999999997,
+          "average": 20.34,
+          "average w/o zero": 20.34
         },
         "GA": {
-          "count": 736,
-          "sum": 15003.199999999983,
-          "average": 20.38478260869565,
-          "average w/o zero": 20.38478260869565
+          "count": 159,
+          "sum": 2962.0999999999995,
+          "average": 18.629559748427674,
+          "average w/o zero": 18.629559748427674
         },
         "AR": {
-          "count": 534,
-          "sum": 10942.199999999975,
-          "average": 20.491011235955057,
-          "average w/o zero": 20.491011235955057
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 2149.4,
-          "average": 26.21219512195122,
-          "average w/o zero": 26.21219512195122
-        },
-        "SD": {
-          "count": 253,
-          "sum": 5345.700000000002,
-          "average": 21.12924901185771,
-          "average w/o zero": 21.12924901185771
+          "count": 75,
+          "sum": 1238.8,
+          "average": 16.517333333333333,
+          "average w/o zero": 16.517333333333333
         },
         "AL": {
-          "count": 439,
-          "sum": 8934.29999999999,
-          "average": 20.35148063781321,
-          "average w/o zero": 20.35148063781321
+          "count": 67,
+          "sum": 1209.5,
+          "average": 18.05223880597015,
+          "average w/o zero": 18.05223880597015
         },
         "OR": {
-          "count": 241,
-          "sum": 5291.700000000001,
-          "average": 21.95726141078838,
-          "average w/o zero": 21.95726141078838
-        },
-        "WV": {
-          "count": 338,
-          "sum": 6580.800000000001,
-          "average": 19.4698224852071,
-          "average w/o zero": 19.4698224852071
+          "count": 36,
+          "sum": 871.5999999999998,
+          "average": 24.211111111111112,
+          "average w/o zero": 24.211111111111112
         },
         "MA": {
-          "count": 49,
-          "sum": 1412.4999999999995,
-          "average": 28.8265306122449,
-          "average w/o zero": 28.8265306122449
+          "count": 14,
+          "sum": 586.0,
+          "average": 41.857142857142854,
+          "average w/o zero": 41.857142857142854
         },
         "UT": {
-          "count": 106,
-          "sum": 2467.6000000000004,
-          "average": 23.279245283018867,
-          "average w/o zero": 23.279245283018867
+          "count": 29,
+          "sum": 760.9999999999999,
+          "average": 26.241379310344826,
+          "average w/o zero": 26.241379310344826
         },
         "MT": {
-          "count": 186,
-          "sum": 4365.300000000002,
-          "average": 23.469354838709677,
-          "average w/o zero": 23.469354838709677
-        },
-        "NH": {
-          "count": 31,
-          "sum": 740.6000000000001,
-          "average": 23.89032258064516,
-          "average w/o zero": 23.89032258064516
-        },
-        "NM": {
-          "count": 92,
-          "sum": 1972.7000000000005,
-          "average": 21.442391304347826,
-          "average w/o zero": 21.442391304347826
-        },
-        "RI": {
-          "count": 39,
-          "sum": 1034.1999999999998,
-          "average": 26.517948717948716,
-          "average w/o zero": 26.517948717948716
+          "count": 56,
+          "sum": 1396.1000000000006,
+          "average": 24.930357142857144,
+          "average w/o zero": 24.930357142857144
         },
         "NV": {
-          "count": 70,
-          "sum": 1495.4000000000003,
-          "average": 21.362857142857145,
-          "average w/o zero": 21.362857142857145
-        },
-        "DC": {
-          "count": 1,
-          "sum": 58.5,
-          "average": 58.5,
-          "average w/o zero": 58.5
+          "count": 17,
+          "sum": 311.7,
+          "average": 18.33529411764706,
+          "average w/o zero": 18.33529411764706
         },
         "CT": {
-          "count": 14,
-          "sum": 502.0000000000001,
-          "average": 35.857142857142854,
-          "average w/o zero": 35.857142857142854
+          "count": 8,
+          "sum": 298.00000000000006,
+          "average": 37.25,
+          "average w/o zero": 37.25
         },
         "HI": {
           "count": 5,
@@ -8003,306 +6287,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 29.0
         },
         "DE": {
-          "count": 9,
-          "sum": 266.5,
-          "average": 29.61111111111111,
-          "average w/o zero": 29.61111111111111
+          "count": 3,
+          "sum": 88.2,
+          "average": 29.400000000000002,
+          "average w/o zero": 29.400000000000002
         }
       },
       "Sales.Accommodation and Food Services Sales": {
-        "SC": {
-          "count": 146,
-          "sum": 25376176,
-          "average": 173809.42465753425,
-          "average w/o zero": 213247.67226890757
-        },
         "LA": {
-          "count": 63,
-          "sum": 11150500,
-          "average": 176992.0634920635,
+          "count": 64,
+          "sum": 11150489,
+          "average": 174226.390625,
           "average w/o zero": 265493.59523809527
         },
         "VA": {
-          "count": 375,
-          "sum": 85555573,
-          "average": 228148.19466666668,
-          "average w/o zero": 277780.2272727273
+          "count": 132,
+          "sum": 17484698,
+          "average": 132459.83333333334,
+          "average w/o zero": 157521.88288288287
         },
         "ID": {
-          "count": 209,
-          "sum": 46922894,
-          "average": 224511.45454545456,
-          "average w/o zero": 302732.1806451613
+          "count": 44,
+          "sum": 1941229,
+          "average": 44118.84090909091,
+          "average w/o zero": 69335.89285714286
         },
         "IA": {
-          "count": 640,
-          "sum": 88555795,
-          "average": 138368.4296875,
-          "average w/o zero": 184111.3180873181
+          "count": 98,
+          "sum": 4488034,
+          "average": 45796.26530612245,
+          "average w/o zero": 74807.53333333334
         },
         "KY": {
-          "count": 707,
-          "sum": 104086973,
-          "average": 147223.44130127298,
-          "average w/o zero": 202114.7281553398
+          "count": 120,
+          "sum": 5619103,
+          "average": 46825.85833333333,
+          "average w/o zero": 96892.8448275862
         },
         "MO": {
-          "count": 692,
-          "sum": 114792276,
-          "average": 165884.79190751445,
-          "average w/o zero": 218239.73764258556
+          "count": 115,
+          "sum": 12062687,
+          "average": 104892.93043478261,
+          "average w/o zero": 135539.0224719101
         },
         "OK": {
-          "count": 279,
-          "sum": 26107434,
-          "average": 93575.03225806452,
-          "average w/o zero": 130541.515
+          "count": 77,
+          "sum": 6808477,
+          "average": 88421.77922077922,
+          "average w/o zero": 123794.89090909091
         },
         "CO": {
-          "count": 252,
-          "sum": 38697109,
-          "average": 153559.95634920636,
-          "average w/o zero": 192525.72139303482
+          "count": 64,
+          "sum": 13615371,
+          "average": 212740.171875,
+          "average w/o zero": 223203.34426229508
         },
         "IL": {
-          "count": 718,
-          "sum": 140844203,
-          "average": 196161.8426183844,
-          "average w/o zero": 250615.51423487545
+          "count": 102,
+          "sum": 27572340,
+          "average": 270317.0588235294,
+          "average w/o zero": 358085.9090909091
         },
         "IN": {
-          "count": 675,
-          "sum": 132013820,
-          "average": 195576.02962962963,
-          "average w/o zero": 250029.23674242425
+          "count": 92,
+          "sum": 11794354,
+          "average": 128199.5,
+          "average w/o zero": 149297.43037974683
         },
         "MS": {
-          "count": 518,
-          "sum": 61189121,
-          "average": 118125.71621621621,
-          "average w/o zero": 158115.1472868217
-        },
-        "ND": {
-          "count": 135,
-          "sum": 10580447,
-          "average": 78373.68148148149,
-          "average w/o zero": 105808.32
+          "count": 82,
+          "sum": 6199535,
+          "average": 75604.08536585367,
+          "average w/o zero": 108768.59649122808
         },
         "NE": {
-          "count": 446,
-          "sum": 49808025,
-          "average": 111677.18609865471,
-          "average w/o zero": 150937.27575757576
+          "count": 93,
+          "sum": 2871051,
+          "average": 30871.516129032258,
+          "average w/o zero": 42855.77611940299
         },
         "OH": {
-          "count": 567,
-          "sum": 117662523,
-          "average": 207517.67724867724,
-          "average w/o zero": 258034.52631578947
+          "count": 88,
+          "sum": 20500846,
+          "average": 232964.1590909091,
+          "average w/o zero": 246998.80722891566
         },
         "PA": {
-          "count": 380,
-          "sum": 73673029,
-          "average": 193876.39210526316,
-          "average w/o zero": 239200.71753246753
+          "count": 67,
+          "sum": 23302965,
+          "average": 347805.447761194,
+          "average w/o zero": 364109.34375
         },
         "WA": {
-          "count": 195,
-          "sum": 55425902,
-          "average": 284235.39487179485,
-          "average w/o zero": 369509.31333333335
+          "count": 39,
+          "sum": 14079300,
+          "average": 361007.6923076923,
+          "average w/o zero": 414098.67647058825
         },
         "WI": {
-          "count": 316,
-          "sum": 65885619,
-          "average": 208498.79430379748,
-          "average w/o zero": 258377.60784313726
+          "count": 72,
+          "sum": 9860939,
+          "average": 136957.48611111112,
+          "average w/o zero": 149409.16666666666
         },
         "VT": {
-          "count": 79,
-          "sum": 30893528,
-          "average": 391057.3164556962,
-          "average w/o zero": 468085.92424242425
+          "count": 14,
+          "sum": 1564272,
+          "average": 111733.71428571429,
+          "average w/o zero": 111733.71428571429
         },
         "MN": {
-          "count": 308,
-          "sum": 50890382,
-          "average": 165228.51298701297,
-          "average w/o zero": 216558.2340425532
+          "count": 87,
+          "sum": 11178194,
+          "average": 128484.98850574713,
+          "average w/o zero": 159691.15714285715
         },
         "FL": {
-          "count": 360,
-          "sum": 94691519,
-          "average": 263031.9972222222,
-          "average w/o zero": 318828.99663299666
-        },
-        "NC": {
-          "count": 420,
-          "sum": 83268282,
-          "average": 198257.8142857143,
-          "average w/o zero": 250057.77477477476
+          "count": 66,
+          "sum": 41551540,
+          "average": 629568.7878787878,
+          "average w/o zero": 681173.6885245901
         },
         "CA": {
-          "count": 85,
-          "sum": 106418530,
-          "average": 1251982.705882353,
-          "average w/o zero": 1347070.835443038
-        },
-        "NY": {
-          "count": 323,
-          "sum": 121990657,
-          "average": 377680.05263157893,
-          "average w/o zero": 453499.0743494424
+          "count": 58,
+          "sum": 90783317,
+          "average": 1565229.603448276,
+          "average w/o zero": 1650606.3636363635
         },
         "WY": {
-          "count": 79,
-          "sum": 5716830,
-          "average": 72364.93670886075,
-          "average w/o zero": 98570.0172413793
+          "count": 23,
+          "sum": 1597059,
+          "average": 69437.34782608696,
+          "average w/o zero": 79854.6
         },
         "MI": {
-          "count": 227,
-          "sum": 35329312,
-          "average": 155635.7356828194,
-          "average w/o zero": 185945.88947368422
+          "count": 83,
+          "sum": 17943195,
+          "average": 216183.07228915664,
+          "average w/o zero": 224290.35
         },
         "AK": {
-          "count": 20,
-          "sum": 791158,
-          "average": 39557.9,
-          "average w/o zero": 43954.444444444445
+          "count": 23,
+          "sum": 2009229,
+          "average": 87357.78260869565,
+          "average w/o zero": 95678.61904761905
         },
         "MD": {
-          "count": 98,
-          "sum": 23666864,
-          "average": 241498.61224489796,
-          "average w/o zero": 328710.4166666667
+          "count": 21,
+          "sum": 9802119,
+          "average": 466767.5714285714,
+          "average w/o zero": 700156.8571428572
         },
         "KS": {
-          "count": 494,
-          "sum": 77775089,
-          "average": 157439.45141700405,
-          "average w/o zero": 218473.6151685393
+          "count": 105,
+          "sum": 4231420,
+          "average": 40299.23809523809,
+          "average w/o zero": 71727.55932203389
         },
         "TN": {
-          "count": 626,
-          "sum": 83445605,
-          "average": 133299.68849840257,
-          "average w/o zero": 177170.50955414012
+          "count": 95,
+          "sum": 12198964,
+          "average": 128410.14736842105,
+          "average w/o zero": 179400.89705882352
         },
         "TX": {
-          "count": 700,
-          "sum": 139790938,
-          "average": 199701.34,
-          "average w/o zero": 267802.4827586207
+          "count": 254,
+          "sum": 51379644,
+          "average": 202282.06299212598,
+          "average w/o zero": 285446.9888888889
         },
         "ME": {
-          "count": 121,
-          "sum": 16113180,
-          "average": 133166.77685950414,
-          "average w/o zero": 181050.92134831462
+          "count": 16,
+          "sum": 2901347,
+          "average": 181334.1875,
+          "average w/o zero": 181334.1875
         },
         "AZ": {
-          "count": 19,
-          "sum": 14554071,
-          "average": 766003.7368421053,
-          "average w/o zero": 909631.5
+          "count": 15,
+          "sum": 13944961,
+          "average": 929664.0666666667,
+          "average w/o zero": 1072691
         },
         "GA": {
-          "count": 736,
-          "sum": 112951681,
-          "average": 153466.95788043478,
-          "average w/o zero": 203887.5144404332
+          "count": 159,
+          "sum": 18158849,
+          "average": 114206.59748427673,
+          "average w/o zero": 159292.49122807017
         },
         "AR": {
-          "count": 534,
-          "sum": 93850433,
-          "average": 175749.8745318352,
-          "average w/o zero": 230594.17690417691
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 31127435,
-          "average": 379602.8658536585,
-          "average w/o zero": 432327.0138888889
-        },
-        "SD": {
-          "count": 253,
-          "sum": 42777690,
-          "average": 169081.7786561265,
-          "average w/o zero": 227544.70744680852
+          "count": 75,
+          "sum": 3660810,
+          "average": 48810.8,
+          "average w/o zero": 67797.05555555556
         },
         "AL": {
-          "count": 439,
-          "sum": 62533226,
-          "average": 142444.7061503417,
-          "average w/o zero": 185012.83136094676
+          "count": 67,
+          "sum": 6769993,
+          "average": 101044.67164179105,
+          "average w/o zero": 141045.875
         },
         "OR": {
-          "count": 241,
-          "sum": 35441388,
-          "average": 147059.70124481327,
-          "average w/o zero": 187523.5978835979
-        },
-        "WV": {
-          "count": 338,
-          "sum": 35456143,
-          "average": 104899.83136094674,
-          "average w/o zero": 150242.64830508476
+          "count": 36,
+          "sum": 7720070,
+          "average": 214446.38888888888,
+          "average w/o zero": 227061.5294117647
         },
         "MA": {
-          "count": 49,
-          "sum": 28128180,
-          "average": 574044.4897959183,
-          "average w/o zero": 625071.6444444444
+          "count": 14,
+          "sum": 17508975,
+          "average": 1250641.0714285714,
+          "average w/o zero": 1250641.0714285714
         },
         "UT": {
-          "count": 106,
-          "sum": 17407644,
-          "average": 164223.05660377358,
-          "average w/o zero": 202417.02325581395
+          "count": 29,
+          "sum": 4789281,
+          "average": 165147.62068965516,
+          "average w/o zero": 165147.62068965516
         },
         "MT": {
-          "count": 186,
-          "sum": 17703806,
-          "average": 95181.75268817204,
-          "average w/o zero": 120436.97278911565
-        },
-        "NH": {
-          "count": 31,
-          "sum": 7684614,
-          "average": 247890.7741935484,
-          "average w/o zero": 284616.962962963
-        },
-        "NM": {
-          "count": 92,
-          "sum": 7424271,
-          "average": 80698.59782608696,
-          "average w/o zero": 109184.33823529411
-        },
-        "RI": {
-          "count": 39,
-          "sum": 8676080,
-          "average": 222463.58974358975,
-          "average w/o zero": 309864.3214285714
+          "count": 56,
+          "sum": 2404393,
+          "average": 42935.58928571428,
+          "average w/o zero": 48089.18
         },
         "NV": {
-          "count": 70,
-          "sum": 31978675,
-          "average": 456838.21428571426,
-          "average w/o zero": 627036.9411764706
-        },
-        "DC": {
-          "count": 1,
-          "sum": 5101602,
-          "average": 5101602,
-          "average w/o zero": 5101602
+          "count": 17,
+          "sum": 27468163,
+          "average": 1615774.294117647,
+          "average w/o zero": 1962014
         },
         "CT": {
-          "count": 14,
-          "sum": 15242549,
-          "average": 1088753.5,
-          "average w/o zero": 1088753.5
+          "count": 8,
+          "sum": 9542068,
+          "average": 1192758.5,
+          "average w/o zero": 1192758.5
         },
         "HI": {
           "count": 5,
@@ -8311,306 +6529,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2384176.5
         },
         "DE": {
-          "count": 9,
-          "sum": 3948797,
-          "average": 438755.22222222225,
-          "average w/o zero": 564117
+          "count": 3,
+          "sum": 2148437,
+          "average": 716145.6666666666,
+          "average w/o zero": 716145.6666666666
         }
       },
       "Miscellaneous.Manufacturers Shipments": {
-        "SC": {
-          "count": 146,
-          "sum": 294818072,
-          "average": 2019301.8630136987,
-          "average w/o zero": 2563638.3739130436
-        },
         "LA": {
-          "count": 63,
-          "sum": 149638087,
-          "average": 2375207.73015873,
+          "count": 64,
+          "sum": 149638076,
+          "average": 2338094.9375,
           "average w/o zero": 7125645.19047619
         },
         "VA": {
-          "count": 375,
-          "sum": 611111786,
-          "average": 1629631.4293333334,
-          "average w/o zero": 2222228.6763636363
+          "count": 132,
+          "sum": 88276885,
+          "average": 668764.2803030303,
+          "average w/o zero": 1014682.5287356322
         },
         "ID": {
-          "count": 209,
-          "sum": 303041334,
-          "average": 1449958.5358851675,
-          "average w/o zero": 2463758.37398374
+          "count": 44,
+          "sum": 6113874,
+          "average": 138951.68181818182,
+          "average w/o zero": 339675.55555555556
         },
         "IA": {
-          "count": 640,
-          "sum": 1071614351,
-          "average": 1674397.4234375,
-          "average w/o zero": 2435492.161363636
+          "count": 98,
+          "sum": 109694172,
+          "average": 1119328.2857142857,
+          "average w/o zero": 1337735.9512195121
         },
         "KY": {
-          "count": 707,
-          "sum": 956415713,
-          "average": 1352780.3578500708,
-          "average w/o zero": 2083700.3071895426
+          "count": 120,
+          "sum": 103767919,
+          "average": 864732.6583333333,
+          "average w/o zero": 1461527.5774647887
         },
         "MO": {
-          "count": 692,
-          "sum": 981392886,
-          "average": 1418197.8121387283,
-          "average w/o zero": 2166436.0154525386
+          "count": 115,
+          "sum": 96990410,
+          "average": 843394.8695652174,
+          "average w/o zero": 1469559.8333333333
         },
         "OK": {
-          "count": 279,
-          "sum": 353366046,
-          "average": 1266544.9677419355,
-          "average w/o zero": 2194828.2236024844
+          "count": 77,
+          "sum": 56312680,
+          "average": 731333.5064935065,
+          "average w/o zero": 1481923.9210526317
         },
         "CO": {
-          "count": 252,
-          "sum": 383468418,
-          "average": 1521700.0714285714,
-          "average w/o zero": 2556463.6
+          "count": 64,
+          "sum": 50250975,
+          "average": 785171.484375,
+          "average w/o zero": 1322401.605263158
         },
         "IL": {
-          "count": 718,
-          "sum": 1279093968,
-          "average": 1781467.922005571,
-          "average w/o zero": 2621099.381147541
+          "count": 102,
+          "sum": 252803838,
+          "average": 2478469,
+          "average w/o zero": 4213405
         },
         "IN": {
-          "count": 675,
-          "sum": 1187076456,
-          "average": 1758631.7866666666,
-          "average w/o zero": 2531084.695095949
+          "count": 92,
+          "sum": 232766443,
+          "average": 2530070.032608696,
+          "average w/o zero": 3062718.6710526315
         },
         "MS": {
-          "count": 518,
-          "sum": 723572970,
-          "average": 1396859.0154440154,
-          "average w/o zero": 2166392.1976047903
-        },
-        "ND": {
-          "count": 135,
-          "sum": 103842724,
-          "average": 769205.362962963,
-          "average w/o zero": 1527109.7205882352
+          "count": 82,
+          "sum": 39728215,
+          "average": 484490.4268292683,
+          "average w/o zero": 845289.3617021276
         },
         "NE": {
-          "count": 446,
-          "sum": 639951057,
-          "average": 1434867.8408071748,
-          "average w/o zero": 2559812.852
+          "count": 93,
+          "sum": 41632726,
+          "average": 447663.72043010755,
+          "average w/o zero": 1301043.65625
         },
         "OH": {
-          "count": 567,
-          "sum": 1124410138,
-          "average": 1983086.6631393298,
-          "average w/o zero": 2811029.9375
+          "count": 88,
+          "sum": 301066005,
+          "average": 3421204.602272727,
+          "average w/o zero": 4014215.3066666666
         },
         "PA": {
-          "count": 380,
-          "sum": 769234071,
-          "average": 2024300.1868421054,
-          "average w/o zero": 2767033.0683453237
+          "count": 67,
+          "sum": 220113716,
+          "average": 3285279.343283582,
+          "average w/o zero": 3668563.216666667
         },
         "WA": {
-          "count": 195,
-          "sum": 287318787,
-          "average": 1473429.6769230769,
-          "average w/o zero": 2414450.6134453784
+          "count": 39,
+          "sum": 50535315,
+          "average": 1295777.3076923077,
+          "average w/o zero": 2197195.2608695654
         },
         "WI": {
-          "count": 316,
-          "sum": 530853358,
-          "average": 1679915.6898734176,
-          "average w/o zero": 2435112.091743119
+          "count": 72,
+          "sum": 167124752,
+          "average": 2321177.111111111,
+          "average w/o zero": 2652775.412698413
         },
         "VT": {
-          "count": 79,
-          "sum": 169052751,
-          "average": 2139908.240506329,
-          "average w/o zero": 2726660.290322581
+          "count": 14,
+          "sum": 6850188,
+          "average": 489299.14285714284,
+          "average w/o zero": 761138.1111111111
         },
         "MN": {
-          "count": 308,
-          "sum": 463565074,
-          "average": 1505081.4090909092,
-          "average w/o zero": 2218019.9186602873
+          "count": 87,
+          "sum": 115078104,
+          "average": 1322736.8275862068,
+          "average w/o zero": 1692328.1323529412
         },
         "FL": {
-          "count": 360,
-          "sum": 709289580,
-          "average": 1970248.8333333333,
-          "average w/o zero": 3097340.7030567685
-        },
-        "NC": {
-          "count": 420,
-          "sum": 715740777,
-          "average": 1704144.7071428571,
-          "average w/o zero": 2476616.671280277
+          "count": 66,
+          "sum": 80715064,
+          "average": 1222955.5151515151,
+          "average w/o zero": 2181496.8378378376
         },
         "CA": {
-          "count": 85,
-          "sum": 536611598,
-          "average": 6313077.623529412,
-          "average w/o zero": 8655029.85483871
-        },
-        "NY": {
-          "count": 323,
-          "sum": 774935294,
-          "average": 2399180.476780186,
-          "average w/o zero": 3150146.9146341463
+          "count": 58,
+          "sum": 464748486,
+          "average": 8012904.931034483,
+          "average w/o zero": 11065444.333333334
         },
         "WY": {
-          "count": 79,
-          "sum": 40211398,
-          "average": 509005.03797468357,
-          "average w/o zero": 913904.1590909091
+          "count": 23,
+          "sum": 6869027,
+          "average": 298653.347826087,
+          "average w/o zero": 528395.1538461539
         },
         "MI": {
-          "count": 227,
-          "sum": 408588620,
-          "average": 1799949.8678414098,
-          "average w/o zero": 2476298.8
+          "count": 83,
+          "sum": 238296168,
+          "average": 2871038.1686746986,
+          "average w/o zero": 3264332.5753424657
         },
         "AK": {
-          "count": 20,
-          "sum": 2880259,
-          "average": 144012.95,
-          "average w/o zero": 480068.8333333333
+          "count": 23,
+          "sum": 3435452,
+          "average": 149367.47826086957,
+          "average w/o zero": 429452.125
         },
         "MD": {
-          "count": 98,
-          "sum": 183776337,
-          "average": 1875268.7448979593,
-          "average w/o zero": 2386708.675324675
+          "count": 21,
+          "sum": 35479574,
+          "average": 1689503.5238095238,
+          "average w/o zero": 1971089.2777777778
         },
         "KS": {
-          "count": 494,
-          "sum": 716887286,
-          "average": 1451188.83805668,
-          "average w/o zero": 2472032.8620689656
+          "count": 105,
+          "sum": 69450427,
+          "average": 661432.6380952381,
+          "average w/o zero": 1578434.0454545454
         },
         "TN": {
-          "count": 626,
-          "sum": 994493110,
-          "average": 1588647.14057508,
-          "average w/o zero": 2379175.5933014355
+          "count": 95,
+          "sum": 127173953,
+          "average": 1338673.1894736842,
+          "average w/o zero": 1673344.2368421052
         },
         "TX": {
-          "count": 700,
-          "sum": 1323963264,
-          "average": 1891376.0914285714,
-          "average w/o zero": 3277144.8514851485
+          "count": 254,
+          "sum": 634003311,
+          "average": 2496076.027559055,
+          "average w/o zero": 5925279.70093458
         },
         "ME": {
-          "count": 121,
-          "sum": 137726777,
-          "average": 1138237.826446281,
-          "average w/o zero": 1679600.0731707318
+          "count": 16,
+          "sum": 11369801,
+          "average": 710612.5625,
+          "average w/o zero": 947487.0833333334
         },
         "AZ": {
-          "count": 19,
-          "sum": 51196475,
-          "average": 2694551.3157894737,
-          "average w/o zero": 4654233
+          "count": 15,
+          "sum": 49818322,
+          "average": 3321221.466666667,
+          "average w/o zero": 5535376.444444444
         },
         "GA": {
-          "count": 736,
-          "sum": 1240014248,
-          "average": 1684801.9673913044,
-          "average w/o zero": 2632732.83014862
+          "count": 159,
+          "sum": 133741299,
+          "average": 841140.2452830189,
+          "average w/o zero": 1502719.8764044943
         },
         "AR": {
-          "count": 534,
-          "sum": 755183134,
-          "average": 1414200.6254681647,
-          "average w/o zero": 2214619.521994135
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 206338814,
-          "average": 2516327,
-          "average w/o zero": 3275222.587301587
-        },
-        "SD": {
-          "count": 253,
-          "sum": 226226187,
-          "average": 894174.6521739131,
-          "average w/o zero": 1753701.945736434
+          "count": 75,
+          "sum": 52763865,
+          "average": 703518.2,
+          "average w/o zero": 1122641.9787234042
         },
         "AL": {
-          "count": 439,
-          "sum": 710139294,
-          "average": 1617629.3712984056,
-          "average w/o zero": 2335989.4046052634
+          "count": 67,
+          "sum": 97858333,
+          "average": 1460572.134328358,
+          "average w/o zero": 1918794.294117647
         },
         "OR": {
-          "count": 241,
-          "sum": 444952984,
-          "average": 1846277.9419087137,
-          "average w/o zero": 2834101.3248407645
-        },
-        "WV": {
-          "count": 338,
-          "sum": 461530876,
-          "average": 1365475.9644970414,
-          "average w/o zero": 2177038.9716981133
+          "count": 36,
+          "sum": 50955473,
+          "average": 1415429.8055555555,
+          "average w/o zero": 1757087.9310344828
         },
         "MA": {
-          "count": 49,
-          "sum": 153668925,
-          "average": 3136100.5102040814,
-          "average w/o zero": 4043922.263157895
+          "count": 14,
+          "sum": 81902501,
+          "average": 5850178.642857143,
+          "average w/o zero": 6825210.25
         },
         "UT": {
-          "count": 106,
-          "sum": 188877370,
-          "average": 1781861.9811320754,
-          "average w/o zero": 2777614.529411765
+          "count": 29,
+          "sum": 45834690,
+          "average": 1580506.551724138,
+          "average w/o zero": 2864677.0625
         },
         "MT": {
-          "count": 186,
-          "sum": 262787331,
-          "average": 1412835.1129032257,
-          "average w/o zero": 2856395.2717391304
-        },
-        "NH": {
-          "count": 31,
-          "sum": 55111387,
-          "average": 1777786.677419355,
-          "average w/o zero": 2396151.086956522
-        },
-        "NM": {
-          "count": 92,
-          "sum": 60093495,
-          "average": 653190.1630434783,
-          "average w/o zero": 1430810.5952380951
-        },
-        "RI": {
-          "count": 39,
-          "sum": 83027865,
-          "average": 2128919.6153846155,
-          "average w/o zero": 2515997.909090909
+          "count": 56,
+          "sum": 9673361,
+          "average": 172738.5892857143,
+          "average w/o zero": 460654.5714285714
         },
         "NV": {
-          "count": 70,
-          "sum": 47486331,
-          "average": 678376.1571428571,
-          "average w/o zero": 1319075.138888889
-        },
-        "DC": {
-          "count": 1,
-          "sum": 309832,
-          "average": 309832,
-          "average w/o zero": 309832
+          "count": 17,
+          "sum": 14315316,
+          "average": 842077.4117647059,
+          "average w/o zero": 2045060.857142857
         },
         "CT": {
-          "count": 14,
-          "sum": 95637254,
-          "average": 6831232.428571428,
-          "average w/o zero": 7356712.692307692
+          "count": 8,
+          "sum": 55160095,
+          "average": 6895011.875,
+          "average w/o zero": 6895011.875
         },
         "HI": {
           "count": 5,
@@ -8619,306 +6771,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 283326
         },
         "DE": {
-          "count": 9,
-          "sum": 43601891,
-          "average": 4844654.555555556,
-          "average w/o zero": 6228844.714285715
+          "count": 3,
+          "sum": 22597384,
+          "average": 7532461.333333333,
+          "average w/o zero": 7532461.333333333
         }
       },
       "Sales.Retail Sales": {
-        "SC": {
-          "count": 146,
-          "sum": 186850460,
-          "average": 1279797.6712328766,
-          "average w/o zero": 1279797.6712328766
-        },
         "LA": {
-          "count": 63,
-          "sum": 61254085,
-          "average": 972287.0634920635,
-          "average w/o zero": 972287.0634920635
+          "count": 64,
+          "sum": 61396364,
+          "average": 959318.1875,
+          "average w/o zero": 959318.1875
         },
         "VA": {
-          "count": 375,
-          "sum": 552084671,
-          "average": 1472225.7893333333,
-          "average w/o zero": 1472225.7893333333
+          "count": 132,
+          "sum": 109651612,
+          "average": 830694.0303030303,
+          "average w/o zero": 830694.0303030303
         },
         "ID": {
-          "count": 209,
-          "sum": 211849689,
-          "average": 1013634.8755980862,
-          "average w/o zero": 1043594.8522167488
+          "count": 44,
+          "sum": 20355904,
+          "average": 462634.1818181818,
+          "average w/o zero": 508898.7
         },
         "IA": {
-          "count": 640,
-          "sum": 656763848,
-          "average": 1026193.5125,
-          "average w/o zero": 1032647.6289308176
+          "count": 98,
+          "sum": 44701143,
+          "average": 456134.112244898,
+          "average w/o zero": 456134.112244898
         },
         "KY": {
-          "count": 707,
-          "sum": 635271269,
-          "average": 898544.9349363508,
-          "average w/o zero": 908828.8369098712
+          "count": 120,
+          "sum": 54852455,
+          "average": 457103.7916666667,
+          "average w/o zero": 464851.5
         },
         "MO": {
-          "count": 692,
-          "sum": 707983972,
-          "average": 1023098.225433526,
-          "average w/o zero": 1029046.5348837209
+          "count": 115,
+          "sum": 90546581,
+          "average": 787361.5739130435,
+          "average w/o zero": 787361.5739130435
         },
         "OK": {
-          "count": 279,
-          "sum": 203901347,
-          "average": 730829.2007168459,
-          "average w/o zero": 746891.6227106227
+          "count": 77,
+          "sum": 50168675,
+          "average": 651541.2337662338,
+          "average w/o zero": 668915.96
         },
         "CO": {
-          "count": 252,
-          "sum": 258589046,
-          "average": 1026147.0079365079,
-          "average w/o zero": 1042697.9435483871
+          "count": 64,
+          "sum": 67815200,
+          "average": 1059612.5,
+          "average w/o zero": 1059612.5
         },
         "IL": {
-          "count": 718,
-          "sum": 852681278,
-          "average": 1187578.381615599,
-          "average w/o zero": 1192561.274125874
+          "count": 102,
+          "sum": 166634514,
+          "average": 1633671.705882353,
+          "average w/o zero": 1633671.705882353
         },
         "IN": {
-          "count": 675,
-          "sum": 763312703,
-          "average": 1130833.634074074,
-          "average w/o zero": 1137574.8837555887
+          "count": 92,
+          "sum": 85857962,
+          "average": 933238.7173913043,
+          "average w/o zero": 933238.7173913043
         },
         "MS": {
-          "count": 518,
-          "sum": 437070500,
-          "average": 843765.444015444,
-          "average w/o zero": 850331.7976653697
-        },
-        "ND": {
-          "count": 135,
-          "sum": 81553810,
-          "average": 604102.2962962963,
-          "average w/o zero": 647253.246031746
+          "count": 82,
+          "sum": 37053179,
+          "average": 451868.03658536583,
+          "average w/o zero": 457446.7901234568
         },
         "NE": {
-          "count": 446,
-          "sum": 386268038,
-          "average": 866071.8340807175,
-          "average w/o zero": 906733
+          "count": 93,
+          "sum": 29836890,
+          "average": 320826.77419354836,
+          "average w/o zero": 359481.9277108434
         },
         "OH": {
-          "count": 567,
-          "sum": 698259350,
-          "average": 1231497.971781305,
-          "average w/o zero": 1238048.5514184397
+          "count": 88,
+          "sum": 153553997,
+          "average": 1744931.7840909092,
+          "average w/o zero": 1744931.7840909092
         },
         "PA": {
-          "count": 380,
-          "sum": 519545791,
-          "average": 1367225.7657894737,
-          "average w/o zero": 1381770.8377659575
+          "count": 67,
+          "sum": 178794945,
+          "average": 2668581.268656716,
+          "average w/o zero": 2668581.268656716
         },
         "WA": {
-          "count": 195,
-          "sum": 278795147,
-          "average": 1429718.7025641026,
-          "average w/o zero": 1475106.947089947
+          "count": 39,
+          "sum": 118924049,
+          "average": 3049334.5897435895,
+          "average w/o zero": 3049334.5897435895
         },
         "WI": {
-          "count": 316,
-          "sum": 334919740,
-          "average": 1059872.594936709,
-          "average w/o zero": 1080386.470967742
+          "count": 72,
+          "sum": 78201822,
+          "average": 1086136.4166666667,
+          "average w/o zero": 1086136.4166666667
         },
         "VT": {
-          "count": 79,
-          "sum": 172951448,
-          "average": 2189258.835443038,
-          "average w/o zero": 2189258.835443038
+          "count": 14,
+          "sum": 9933751,
+          "average": 709553.6428571428,
+          "average w/o zero": 709553.6428571428
         },
         "MN": {
-          "count": 308,
-          "sum": 350693204,
-          "average": 1138614.2987012987,
-          "average w/o zero": 1149813.8918032786
+          "count": 87,
+          "sum": 78898182,
+          "average": 906875.6551724138,
+          "average w/o zero": 906875.6551724138
         },
         "FL": {
-          "count": 360,
-          "sum": 621605962,
-          "average": 1726683.2277777777,
-          "average w/o zero": 1726683.2277777777
-        },
-        "NC": {
-          "count": 420,
-          "sum": 538073095,
-          "average": 1281126.4166666667,
-          "average w/o zero": 1287256.2607655502
+          "count": 66,
+          "sum": 235505914,
+          "average": 3568271.4242424243,
+          "average w/o zero": 3568271.4242424243
         },
         "CA": {
-          "count": 85,
-          "sum": 566504989,
-          "average": 6664764.576470588,
-          "average w/o zero": 6664764.576470588
-        },
-        "NY": {
-          "count": 323,
-          "sum": 665635530,
-          "average": 2060791.1145510837,
-          "average w/o zero": 2060791.1145510837
+          "count": 58,
+          "sum": 481800461,
+          "average": 8306904.5,
+          "average w/o zero": 8306904.5
         },
         "WY": {
-          "count": 79,
-          "sum": 45698072,
-          "average": 578456.6075949367,
-          "average w/o zero": 601290.8552631579
+          "count": 23,
+          "sum": 9446043,
+          "average": 410697.52173913043,
+          "average w/o zero": 410697.52173913043
         },
         "MI": {
-          "count": 227,
-          "sum": 241722845,
-          "average": 1064858.348017621,
-          "average w/o zero": 1069570.1592920355
+          "count": 83,
+          "sum": 119302046,
+          "average": 1437374.0481927712,
+          "average w/o zero": 1437374.0481927712
         },
         "AK": {
-          "count": 20,
-          "sum": 3575329,
-          "average": 178766.45,
-          "average w/o zero": 210315.41176470587
+          "count": 23,
+          "sum": 9132106,
+          "average": 397048.0869565217,
+          "average w/o zero": 456606.95
         },
         "MD": {
-          "count": 98,
-          "sum": 176435385,
-          "average": 1800361.0714285714,
-          "average w/o zero": 1837868.8229166667
+          "count": 21,
+          "sum": 65247171,
+          "average": 3107008.1428571427,
+          "average w/o zero": 3107008.1428571427
         },
         "KS": {
-          "count": 494,
-          "sum": 452813202,
-          "average": 916625.914979757,
-          "average w/o zero": 933635.6721649484
+          "count": 105,
+          "sum": 38235493,
+          "average": 364147.5523809524,
+          "average w/o zero": 371218.5922330097
         },
         "TN": {
-          "count": 626,
-          "sum": 638632784,
-          "average": 1020180.1661341853,
-          "average w/o zero": 1025092.8041733548
+          "count": 95,
+          "sum": 91641605,
+          "average": 964648.4736842106,
+          "average w/o zero": 964648.4736842106
         },
         "TX": {
-          "count": 700,
-          "sum": 982875463,
-          "average": 1404107.8042857142,
-          "average w/o zero": 1441166.6583577713
+          "count": 254,
+          "sum": 353057266,
+          "average": 1389989.2362204725,
+          "average w/o zero": 1471072.5833333333
         },
         "ME": {
-          "count": 121,
-          "sum": 133196930,
-          "average": 1100801.0743801652,
-          "average w/o zero": 1119302.1176470588
+          "count": 16,
+          "sum": 21521714,
+          "average": 1345107.125,
+          "average w/o zero": 1345107.125
         },
         "AZ": {
-          "count": 19,
-          "sum": 89290109,
-          "average": 4699479.421052632,
-          "average w/o zero": 4699479.421052632
+          "count": 15,
+          "sum": 84716542,
+          "average": 5647769.466666667,
+          "average w/o zero": 5647769.466666667
         },
         "GA": {
-          "count": 736,
-          "sum": 775113064,
-          "average": 1053142.75,
-          "average w/o zero": 1061798.808219178
+          "count": 159,
+          "sum": 119753684,
+          "average": 753167.8238993711,
+          "average w/o zero": 762762.4585987261
         },
         "AR": {
-          "count": 534,
-          "sum": 533643436,
-          "average": 999332.2771535581,
-          "average w/o zero": 1010688.4507575758
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 208611735,
-          "average": 2544045.548780488,
-          "average w/o zero": 2544045.548780488
-        },
-        "SD": {
-          "count": 253,
-          "sum": 177874513,
-          "average": 703061.3162055336,
-          "average w/o zero": 728994.3114754099
+          "count": 75,
+          "sum": 36815256,
+          "average": 490870.08,
+          "average w/o zero": 490870.08
         },
         "AL": {
-          "count": 439,
-          "sum": 475819502,
-          "average": 1083871.3029612757,
-          "average w/o zero": 1083871.3029612757
+          "count": 67,
+          "sum": 58564965,
+          "average": 874103.9552238806,
+          "average w/o zero": 874103.9552238806
         },
         "OR": {
-          "count": 241,
-          "sum": 265578995,
-          "average": 1101987.531120332,
-          "average w/o zero": 1130123.6638297872
-        },
-        "WV": {
-          "count": 338,
-          "sum": 243680028,
-          "average": 720946.8284023668,
-          "average w/o zero": 729581.0538922156
+          "count": 36,
+          "sum": 49401889,
+          "average": 1372274.6944444445,
+          "average w/o zero": 1452997.3823529412
         },
         "MA": {
-          "count": 49,
-          "sum": 173196840,
-          "average": 3534629.387755102,
-          "average w/o zero": 3534629.387755102
+          "count": 14,
+          "sum": 92915380,
+          "average": 6636812.857142857,
+          "average w/o zero": 6636812.857142857
         },
         "UT": {
-          "count": 106,
-          "sum": 121439687,
-          "average": 1145657.424528302,
-          "average w/o zero": 1179026.4077669904
+          "count": 29,
+          "sum": 38019004,
+          "average": 1311000.1379310344,
+          "average w/o zero": 1408112.0740740742
         },
         "MT": {
-          "count": 186,
-          "sum": 132523593,
-          "average": 712492.4354838709,
-          "average w/o zero": 740355.6983240223
-        },
-        "NH": {
-          "count": 31,
-          "sum": 54784225,
-          "average": 1767233.064516129,
-          "average w/o zero": 1767233.064516129
-        },
-        "NM": {
-          "count": 92,
-          "sum": 55422623,
-          "average": 602419.8152173914,
-          "average w/o zero": 629803.0340909091
-        },
-        "RI": {
-          "count": 39,
-          "sum": 64703517,
-          "average": 1659064.5384615385,
-          "average w/o zero": 1702724.4210526317
+          "count": 56,
+          "sum": 15552291,
+          "average": 277719.48214285716,
+          "average w/o zero": 299083.3653846154
         },
         "NV": {
-          "count": 70,
-          "sum": 76033979,
-          "average": 1086199.7,
-          "average w/o zero": 1152030.6515151516
-        },
-        "DC": {
-          "count": 1,
-          "sum": 4439933,
-          "average": 4439933,
-          "average w/o zero": 4439933
+          "count": 17,
+          "sum": 38202104,
+          "average": 2247182.588235294,
+          "average w/o zero": 2546808.4
         },
         "CT": {
-          "count": 14,
-          "sum": 87456237,
-          "average": 6246874.071428572,
-          "average w/o zero": 6246874.071428572
+          "count": 8,
+          "sum": 51632467,
+          "average": 6454058.375,
+          "average w/o zero": 6454058.375
         },
         "HI": {
           "count": 5,
@@ -8927,306 +7013,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 5480255.666666667
         },
         "DE": {
-          "count": 9,
-          "sum": 28257127,
-          "average": 3139680.777777778,
-          "average w/o zero": 3532142.25
+          "count": 3,
+          "sum": 14456001,
+          "average": 4818667,
+          "average w/o zero": 4818667
         }
       },
       "Miscellaneous.Mean Travel Time to Work": {
-        "SC": {
-          "count": 146,
-          "sum": 3737.5999999999995,
-          "average": 25.6,
-          "average w/o zero": 25.6
-        },
         "LA": {
-          "count": 63,
-          "sum": 1706.2000000000003,
-          "average": 27.082539682539682,
-          "average w/o zero": 27.082539682539682
+          "count": 64,
+          "sum": 1748.0000000000002,
+          "average": 27.3125,
+          "average w/o zero": 27.3125
         },
         "VA": {
-          "count": 375,
-          "sum": 9802.199999999993,
-          "average": 26.1392,
-          "average w/o zero": 26.1392
+          "count": 132,
+          "sum": 3731.500000000001,
+          "average": 28.268939393939394,
+          "average w/o zero": 28.268939393939394
         },
         "ID": {
-          "count": 209,
-          "sum": 4958.799999999999,
-          "average": 23.726315789473684,
-          "average w/o zero": 23.726315789473684
+          "count": 44,
+          "sum": 982.1000000000001,
+          "average": 22.320454545454545,
+          "average w/o zero": 22.320454545454545
         },
         "IA": {
-          "count": 640,
-          "sum": 15523.80000000001,
-          "average": 24.2559375,
-          "average w/o zero": 24.2559375
+          "count": 98,
+          "sum": 1962.9999999999995,
+          "average": 20.03061224489796,
+          "average w/o zero": 20.03061224489796
         },
         "KY": {
-          "count": 707,
-          "sum": 17568.90000000001,
-          "average": 24.84992927864215,
-          "average w/o zero": 24.84992927864215
+          "count": 120,
+          "sum": 3149.2,
+          "average": 26.243333333333332,
+          "average w/o zero": 26.243333333333332
         },
         "MO": {
-          "count": 692,
-          "sum": 17123.79999999998,
-          "average": 24.745375722543354,
-          "average w/o zero": 24.745375722543354
+          "count": 115,
+          "sum": 2816.7000000000003,
+          "average": 24.49304347826087,
+          "average w/o zero": 24.49304347826087
         },
         "OK": {
-          "count": 279,
-          "sum": 6460.199999999997,
-          "average": 23.15483870967742,
-          "average w/o zero": 23.15483870967742
+          "count": 77,
+          "sum": 1722.0000000000002,
+          "average": 22.363636363636363,
+          "average w/o zero": 22.363636363636363
         },
         "CO": {
-          "count": 252,
-          "sum": 5772.399999999998,
-          "average": 22.906349206349205,
-          "average w/o zero": 22.906349206349205
+          "count": 64,
+          "sum": 1413.5000000000005,
+          "average": 22.0859375,
+          "average w/o zero": 22.0859375
         },
         "IL": {
-          "count": 718,
-          "sum": 17562.30000000002,
-          "average": 24.460027855153204,
-          "average w/o zero": 24.460027855153204
+          "count": 102,
+          "sum": 2455.2,
+          "average": 24.070588235294117,
+          "average w/o zero": 24.070588235294117
         },
         "IN": {
-          "count": 675,
-          "sum": 16628.400000000012,
-          "average": 24.634666666666668,
-          "average w/o zero": 24.634666666666668
+          "count": 92,
+          "sum": 2269.3,
+          "average": 24.666304347826088,
+          "average w/o zero": 24.666304347826088
         },
         "MS": {
-          "count": 518,
-          "sum": 13128.100000000004,
-          "average": 25.343822393822393,
-          "average w/o zero": 25.343822393822393
-        },
-        "ND": {
-          "count": 135,
-          "sum": 2845.4,
-          "average": 21.077037037037037,
-          "average w/o zero": 21.077037037037037
+          "count": 82,
+          "sum": 2189.3000000000006,
+          "average": 26.69878048780488,
+          "average w/o zero": 26.69878048780488
         },
         "NE": {
-          "count": 446,
-          "sum": 9951.899999999998,
-          "average": 22.313677130044844,
-          "average w/o zero": 22.313677130044844
+          "count": 93,
+          "sum": 1686.3999999999999,
+          "average": 18.133333333333333,
+          "average w/o zero": 18.133333333333333
         },
         "OH": {
-          "count": 567,
-          "sum": 13927.4,
-          "average": 24.56331569664903,
-          "average w/o zero": 24.56331569664903
+          "count": 88,
+          "sum": 2181.4000000000005,
+          "average": 24.788636363636364,
+          "average w/o zero": 24.788636363636364
         },
         "PA": {
-          "count": 380,
-          "sum": 9507.599999999991,
-          "average": 25.02,
-          "average w/o zero": 25.02
+          "count": 67,
+          "sum": 1742.8000000000004,
+          "average": 26.01194029850746,
+          "average w/o zero": 26.01194029850746
         },
         "WA": {
-          "count": 195,
-          "sum": 4626.599999999999,
-          "average": 23.726153846153846,
-          "average w/o zero": 23.726153846153846
+          "count": 39,
+          "sum": 942.5999999999999,
+          "average": 24.16923076923077,
+          "average w/o zero": 24.16923076923077
         },
         "WI": {
-          "count": 316,
-          "sum": 7377.599999999995,
-          "average": 23.346835443037975,
-          "average w/o zero": 23.346835443037975
+          "count": 72,
+          "sum": 1640.2000000000003,
+          "average": 22.780555555555555,
+          "average w/o zero": 22.780555555555555
         },
         "VT": {
-          "count": 79,
-          "sum": 2011.6000000000006,
-          "average": 25.463291139240507,
-          "average w/o zero": 25.463291139240507
+          "count": 14,
+          "sum": 347.0,
+          "average": 24.785714285714285,
+          "average w/o zero": 24.785714285714285
         },
         "MN": {
-          "count": 308,
-          "sum": 7165.499999999995,
-          "average": 23.26461038961039,
-          "average w/o zero": 23.26461038961039
+          "count": 87,
+          "sum": 1897.5000000000005,
+          "average": 21.810344827586206,
+          "average w/o zero": 21.810344827586206
         },
         "FL": {
-          "count": 360,
-          "sum": 9073.499999999996,
-          "average": 25.204166666666666,
-          "average w/o zero": 25.204166666666666
-        },
-        "NC": {
-          "count": 420,
-          "sum": 10568.900000000003,
-          "average": 25.16404761904762,
-          "average w/o zero": 25.16404761904762
+          "count": 66,
+          "sum": 1786.0000000000002,
+          "average": 27.060606060606062,
+          "average w/o zero": 27.060606060606062
         },
         "CA": {
-          "count": 85,
-          "sum": 2212.7,
-          "average": 26.031764705882352,
-          "average w/o zero": 26.031764705882352
-        },
-        "NY": {
-          "count": 323,
-          "sum": 8160.299999999991,
-          "average": 25.264086687306502,
-          "average w/o zero": 25.264086687306502
+          "count": 58,
+          "sum": 1516.8000000000002,
+          "average": 26.151724137931033,
+          "average w/o zero": 26.151724137931033
         },
         "WY": {
-          "count": 79,
-          "sum": 1790.1999999999996,
-          "average": 22.660759493670888,
-          "average w/o zero": 22.660759493670888
+          "count": 23,
+          "sum": 437.30000000000007,
+          "average": 19.01304347826087,
+          "average w/o zero": 19.01304347826087
         },
         "MI": {
-          "count": 227,
-          "sum": 5436.7999999999965,
-          "average": 23.950660792951542,
-          "average w/o zero": 23.950660792951542
+          "count": 83,
+          "sum": 1935.4000000000005,
+          "average": 23.318072289156625,
+          "average w/o zero": 23.318072289156625
         },
         "AK": {
-          "count": 20,
-          "sum": 196.69999999999996,
-          "average": 9.835,
-          "average w/o zero": 9.835
+          "count": 23,
+          "sum": 242.6,
+          "average": 10.547826086956523,
+          "average w/o zero": 10.547826086956523
         },
         "MD": {
-          "count": 98,
-          "sum": 2531.9000000000005,
-          "average": 25.835714285714285,
-          "average w/o zero": 25.835714285714285
+          "count": 21,
+          "sum": 642.9,
+          "average": 30.614285714285714,
+          "average w/o zero": 30.614285714285714
         },
         "KS": {
-          "count": 494,
-          "sum": 11103.799999999992,
-          "average": 22.47732793522267,
-          "average w/o zero": 22.47732793522267
+          "count": 105,
+          "sum": 1888.6000000000008,
+          "average": 17.986666666666668,
+          "average w/o zero": 17.986666666666668
         },
         "TN": {
-          "count": 626,
-          "sum": 15749.00000000001,
-          "average": 25.15814696485623,
-          "average w/o zero": 25.15814696485623
+          "count": 95,
+          "sum": 2565.6,
+          "average": 27.006315789473685,
+          "average w/o zero": 27.006315789473685
         },
         "TX": {
-          "count": 700,
-          "sum": 16845.00000000001,
-          "average": 24.064285714285713,
-          "average w/o zero": 24.11444921316166
+          "count": 254,
+          "sum": 5958.299999999998,
+          "average": 23.457874015748033,
+          "average w/o zero": 23.59407114624506
         },
         "ME": {
-          "count": 121,
-          "sum": 2975.7000000000003,
-          "average": 24.592561983471075,
-          "average w/o zero": 24.592561983471075
+          "count": 16,
+          "sum": 386.0,
+          "average": 24.125,
+          "average w/o zero": 24.125
         },
         "AZ": {
-          "count": 19,
-          "sum": 420.09999999999997,
-          "average": 22.110526315789475,
-          "average w/o zero": 22.110526315789475
+          "count": 15,
+          "sum": 334.0,
+          "average": 22.266666666666666,
+          "average w/o zero": 22.266666666666666
         },
         "GA": {
-          "count": 736,
-          "sum": 18513.100000000013,
-          "average": 25.15366847826087,
-          "average w/o zero": 25.15366847826087
+          "count": 159,
+          "sum": 4221.4000000000015,
+          "average": 26.549685534591195,
+          "average w/o zero": 26.549685534591195
         },
         "AR": {
-          "count": 534,
-          "sum": 13101.999999999996,
-          "average": 24.53558052434457,
-          "average w/o zero": 24.53558052434457
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 2199.0000000000005,
-          "average": 26.817073170731707,
-          "average w/o zero": 26.817073170731707
-        },
-        "SD": {
-          "count": 253,
-          "sum": 5581.699999999999,
-          "average": 22.06205533596838,
-          "average w/o zero": 22.06205533596838
+          "count": 75,
+          "sum": 1732.1000000000008,
+          "average": 23.094666666666665,
+          "average w/o zero": 23.094666666666665
         },
         "AL": {
-          "count": 439,
-          "sum": 11126.899999999987,
-          "average": 25.346013667425968,
-          "average w/o zero": 25.346013667425968
+          "count": 67,
+          "sum": 1790.6999999999998,
+          "average": 26.72686567164179,
+          "average w/o zero": 26.72686567164179
         },
         "OR": {
-          "count": 241,
-          "sum": 5718.299999999999,
-          "average": 23.72738589211618,
-          "average w/o zero": 23.72738589211618
-        },
-        "WV": {
-          "count": 338,
-          "sum": 8501.999999999995,
-          "average": 25.153846153846153,
-          "average w/o zero": 25.153846153846153
+          "count": 36,
+          "sum": 745.8000000000001,
+          "average": 20.716666666666665,
+          "average w/o zero": 20.716666666666665
         },
         "MA": {
-          "count": 49,
-          "sum": 1295.5000000000002,
-          "average": 26.43877551020408,
-          "average w/o zero": 26.43877551020408
+          "count": 14,
+          "sum": 360.1,
+          "average": 25.72142857142857,
+          "average w/o zero": 25.72142857142857
         },
         "UT": {
-          "count": 106,
-          "sum": 2449.1,
-          "average": 23.104716981132075,
-          "average w/o zero": 23.104716981132075
+          "count": 29,
+          "sum": 585.6,
+          "average": 20.193103448275863,
+          "average w/o zero": 20.193103448275863
         },
         "MT": {
-          "count": 186,
-          "sum": 4053.4000000000005,
-          "average": 21.79247311827957,
-          "average w/o zero": 21.79247311827957
-        },
-        "NH": {
-          "count": 31,
-          "sum": 788.3999999999999,
-          "average": 25.43225806451613,
-          "average w/o zero": 25.43225806451613
-        },
-        "NM": {
-          "count": 92,
-          "sum": 2073.3999999999996,
-          "average": 22.536956521739132,
-          "average w/o zero": 22.536956521739132
-        },
-        "RI": {
-          "count": 39,
-          "sum": 938.8,
-          "average": 24.07179487179487,
-          "average w/o zero": 24.07179487179487
+          "count": 56,
+          "sum": 984.6,
+          "average": 17.582142857142856,
+          "average w/o zero": 17.582142857142856
         },
         "NV": {
-          "count": 70,
-          "sum": 1616.3,
-          "average": 23.09,
-          "average w/o zero": 23.09
-        },
-        "DC": {
-          "count": 1,
-          "sum": 30.8,
-          "average": 30.8,
-          "average w/o zero": 30.8
+          "count": 17,
+          "sum": 392.20000000000005,
+          "average": 23.070588235294117,
+          "average w/o zero": 23.070588235294117
         },
         "CT": {
-          "count": 14,
-          "sum": 387.4,
-          "average": 27.67142857142857,
-          "average w/o zero": 27.67142857142857
+          "count": 8,
+          "sum": 212.0,
+          "average": 26.5,
+          "average w/o zero": 26.5
         },
         "HI": {
           "count": 5,
@@ -9235,306 +7255,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 20.740000000000002
         },
         "DE": {
-          "count": 9,
-          "sum": 235.79999999999998,
-          "average": 26.2,
-          "average w/o zero": 26.2
+          "count": 3,
+          "sum": 79.0,
+          "average": 26.333333333333332,
+          "average w/o zero": 26.333333333333332
         }
       },
       "Income.Median Houseold Income": {
-        "SC": {
-          "count": 146,
-          "sum": 7388550,
-          "average": 50606.50684931507,
-          "average w/o zero": 50606.50684931507
-        },
         "LA": {
-          "count": 63,
-          "sum": 2829833,
-          "average": 44917.98412698413,
-          "average w/o zero": 44917.98412698413
+          "count": 64,
+          "sum": 2871937,
+          "average": 44874.015625,
+          "average w/o zero": 44874.015625
         },
         "VA": {
-          "count": 375,
-          "sum": 21429127,
-          "average": 57144.33866666667,
-          "average w/o zero": 57144.33866666667
+          "count": 132,
+          "sum": 8051646,
+          "average": 60997.318181818184,
+          "average w/o zero": 60997.318181818184
         },
         "ID": {
-          "count": 209,
-          "sum": 11062215,
-          "average": 52929.25837320574,
-          "average w/o zero": 52929.25837320574
+          "count": 44,
+          "sum": 2240555,
+          "average": 50921.704545454544,
+          "average w/o zero": 50921.704545454544
         },
         "IA": {
-          "count": 640,
-          "sum": 33726248,
-          "average": 52697.2625,
-          "average w/o zero": 52697.2625
+          "count": 98,
+          "sum": 5614998,
+          "average": 57295.897959183676,
+          "average w/o zero": 57295.897959183676
         },
         "KY": {
-          "count": 707,
-          "sum": 36166685,
-          "average": 51155.1414427157,
-          "average w/o zero": 51155.1414427157
+          "count": 120,
+          "sum": 5385866,
+          "average": 44882.21666666667,
+          "average w/o zero": 44882.21666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 35787588,
-          "average": 51716.167630057804,
-          "average w/o zero": 51716.167630057804
+          "count": 115,
+          "sum": 5531053,
+          "average": 48096.11304347826,
+          "average w/o zero": 48096.11304347826
         },
         "OK": {
-          "count": 279,
-          "sum": 14349814,
-          "average": 51433.02508960573,
-          "average w/o zero": 51433.02508960573
+          "count": 77,
+          "sum": 3750726,
+          "average": 48710.72727272727,
+          "average w/o zero": 48710.72727272727
         },
         "CO": {
-          "count": 252,
-          "sum": 13606637,
-          "average": 53994.59126984127,
-          "average w/o zero": 53994.59126984127
+          "count": 64,
+          "sum": 3762867,
+          "average": 58794.796875,
+          "average w/o zero": 58794.796875
         },
         "IL": {
-          "count": 718,
-          "sum": 38023598,
-          "average": 52957.6573816156,
-          "average w/o zero": 52957.6573816156
+          "count": 102,
+          "sum": 5778942,
+          "average": 56656.294117647056,
+          "average w/o zero": 56656.294117647056
         },
         "IN": {
-          "count": 675,
-          "sum": 35613200,
-          "average": 52760.2962962963,
-          "average w/o zero": 52760.2962962963
+          "count": 92,
+          "sum": 5139727,
+          "average": 55866.59782608696,
+          "average w/o zero": 55866.59782608696
         },
         "MS": {
-          "count": 518,
-          "sum": 25650382,
-          "average": 49518.11196911197,
-          "average w/o zero": 49518.11196911197
-        },
-        "ND": {
-          "count": 135,
-          "sum": 7790930,
-          "average": 57710.59259259259,
-          "average w/o zero": 57710.59259259259
+          "count": 82,
+          "sum": 3248272,
+          "average": 39613.07317073171,
+          "average w/o zero": 39613.07317073171
         },
         "NE": {
-          "count": 446,
-          "sum": 23995464,
-          "average": 53801.488789237665,
-          "average w/o zero": 53801.488789237665
+          "count": 93,
+          "sum": 5086637,
+          "average": 54695.021505376346,
+          "average w/o zero": 54695.021505376346
         },
         "OH": {
-          "count": 567,
-          "sum": 30117684,
-          "average": 53117.608465608464,
-          "average w/o zero": 53117.608465608464
+          "count": 88,
+          "sum": 4910421,
+          "average": 55800.23863636364,
+          "average w/o zero": 55800.23863636364
         },
         "PA": {
-          "count": 380,
-          "sum": 20320684,
-          "average": 53475.484210526316,
-          "average w/o zero": 53475.484210526316
+          "count": 67,
+          "sum": 3822758,
+          "average": 57056.08955223881,
+          "average w/o zero": 57056.08955223881
         },
         "WA": {
-          "count": 195,
-          "sum": 10614238,
-          "average": 54431.989743589744,
-          "average w/o zero": 54431.989743589744
+          "count": 39,
+          "sum": 2316345,
+          "average": 59393.46153846154,
+          "average w/o zero": 59393.46153846154
         },
         "WI": {
-          "count": 316,
-          "sum": 17037852,
-          "average": 53917.25316455696,
-          "average w/o zero": 53917.25316455696
+          "count": 72,
+          "sum": 4198022,
+          "average": 58305.86111111111,
+          "average w/o zero": 58305.86111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 4497154,
-          "average": 56926,
-          "average w/o zero": 56926
+          "count": 14,
+          "sum": 836637,
+          "average": 59759.78571428572,
+          "average w/o zero": 59759.78571428572
         },
         "MN": {
-          "count": 308,
-          "sum": 16919541,
-          "average": 54933.57467532468,
-          "average w/o zero": 54933.57467532468
+          "count": 87,
+          "sum": 5364114,
+          "average": 61656.48275862069,
+          "average w/o zero": 61656.48275862069
         },
         "FL": {
-          "count": 360,
-          "sum": 18810381,
-          "average": 52251.058333333334,
-          "average w/o zero": 52251.058333333334
-        },
-        "NC": {
-          "count": 420,
-          "sum": 21693477,
-          "average": 51651.135714285716,
-          "average w/o zero": 51651.135714285716
+          "count": 66,
+          "sum": 3385098,
+          "average": 51289.36363636364,
+          "average w/o zero": 51289.36363636364
         },
         "CA": {
-          "count": 85,
-          "sum": 5396349,
-          "average": 63486.458823529414,
-          "average w/o zero": 63486.458823529414
-        },
-        "NY": {
-          "count": 323,
-          "sum": 17909466,
-          "average": 55447.26315789474,
-          "average w/o zero": 55447.26315789474
+          "count": 58,
+          "sum": 3927389,
+          "average": 67713.60344827586,
+          "average w/o zero": 67713.60344827586
         },
         "WY": {
-          "count": 79,
-          "sum": 4481296,
-          "average": 56725.26582278481,
-          "average w/o zero": 56725.26582278481
+          "count": 23,
+          "sum": 1422059,
+          "average": 61828.65217391304,
+          "average w/o zero": 61828.65217391304
         },
         "MI": {
-          "count": 227,
-          "sum": 11575521,
-          "average": 50993.484581497796,
-          "average w/o zero": 50993.484581497796
+          "count": 83,
+          "sum": 4300093,
+          "average": 51808.34939759036,
+          "average w/o zero": 51808.34939759036
         },
         "AK": {
-          "count": 20,
-          "sum": 1373182,
-          "average": 68659.1,
-          "average w/o zero": 68659.1
+          "count": 23,
+          "sum": 1620182,
+          "average": 70442.69565217392,
+          "average w/o zero": 70442.69565217392
         },
         "MD": {
-          "count": 98,
-          "sum": 5823590,
-          "average": 59424.38775510204,
-          "average w/o zero": 59424.38775510204
+          "count": 21,
+          "sum": 1589200,
+          "average": 75676.19047619047,
+          "average w/o zero": 75676.19047619047
         },
         "KS": {
-          "count": 494,
-          "sum": 26054990,
-          "average": 52742.89473684211,
-          "average w/o zero": 52742.89473684211
+          "count": 105,
+          "sum": 5550792,
+          "average": 52864.68571428571,
+          "average w/o zero": 52864.68571428571
         },
         "TN": {
-          "count": 626,
-          "sum": 32420300,
-          "average": 51789.61661341853,
-          "average w/o zero": 51789.61661341853
+          "count": 95,
+          "sum": 4480865,
+          "average": 47167,
+          "average w/o zero": 47167
         },
         "TX": {
-          "count": 700,
-          "sum": 36832240,
-          "average": 52617.485714285714,
-          "average w/o zero": 52617.485714285714
+          "count": 254,
+          "sum": 13423288,
+          "average": 52847.5905511811,
+          "average w/o zero": 52847.5905511811
         },
         "ME": {
-          "count": 121,
-          "sum": 6532045,
-          "average": 53983.842975206615,
-          "average w/o zero": 53983.842975206615
+          "count": 16,
+          "sum": 857100,
+          "average": 53568.75,
+          "average w/o zero": 53568.75
         },
         "AZ": {
-          "count": 19,
-          "sum": 955051,
-          "average": 50265.84210526316,
-          "average w/o zero": 50265.84210526316
+          "count": 15,
+          "sum": 734849,
+          "average": 48989.933333333334,
+          "average w/o zero": 48989.933333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 37249987,
-          "average": 50611.395380434784,
-          "average w/o zero": 50611.395380434784
+          "count": 159,
+          "sum": 7509520,
+          "average": 47229.6855345912,
+          "average w/o zero": 47229.6855345912
         },
         "AR": {
-          "count": 534,
-          "sum": 27148091,
-          "average": 50839.121722846445,
-          "average w/o zero": 50839.121722846445
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 5160680,
-          "average": 62935.12195121951,
-          "average w/o zero": 62935.12195121951
-        },
-        "SD": {
-          "count": 253,
-          "sum": 13261829,
-          "average": 52418.296442687744,
-          "average w/o zero": 52418.296442687744
+          "count": 75,
+          "sum": 3167753,
+          "average": 42236.706666666665,
+          "average w/o zero": 42236.706666666665
         },
         "AL": {
-          "count": 439,
-          "sum": 21915257,
-          "average": 49920.85876993166,
-          "average w/o zero": 49920.85876993166
+          "count": 67,
+          "sum": 2919515,
+          "average": 43574.850746268654,
+          "average w/o zero": 43574.850746268654
         },
         "OR": {
-          "count": 241,
-          "sum": 12771981,
-          "average": 52995.77178423236,
-          "average w/o zero": 52995.77178423236
-        },
-        "WV": {
-          "count": 338,
-          "sum": 16935568,
-          "average": 50105.230769230766,
-          "average w/o zero": 50105.230769230766
+          "count": 36,
+          "sum": 1942312,
+          "average": 53953.11111111111,
+          "average w/o zero": 53953.11111111111
         },
         "MA": {
-          "count": 49,
-          "sum": 3121060,
-          "average": 63695.102040816324,
-          "average w/o zero": 63695.102040816324
+          "count": 14,
+          "sum": 1088438,
+          "average": 77745.57142857143,
+          "average w/o zero": 77745.57142857143
         },
         "UT": {
-          "count": 106,
-          "sum": 5926621,
-          "average": 55911.518867924526,
-          "average w/o zero": 55911.518867924526
+          "count": 29,
+          "sum": 1828728,
+          "average": 63059.58620689655,
+          "average w/o zero": 63059.58620689655
         },
         "MT": {
-          "count": 186,
-          "sum": 9750788,
-          "average": 52423.591397849465,
-          "average w/o zero": 52423.591397849465
-        },
-        "NH": {
-          "count": 31,
-          "sum": 1796892,
-          "average": 57964.25806451613,
-          "average w/o zero": 57964.25806451613
-        },
-        "NM": {
-          "count": 92,
-          "sum": 4668220,
-          "average": 50741.52173913043,
-          "average w/o zero": 50741.52173913043
-        },
-        "RI": {
-          "count": 39,
-          "sum": 2249148,
-          "average": 57670.46153846154,
-          "average w/o zero": 57670.46153846154
+          "count": 56,
+          "sum": 2855101,
+          "average": 50983.94642857143,
+          "average w/o zero": 50983.94642857143
         },
         "NV": {
-          "count": 70,
-          "sum": 3920717,
-          "average": 56010.24285714285,
-          "average w/o zero": 56010.24285714285
-        },
-        "DC": {
-          "count": 1,
-          "sum": 86420,
-          "average": 86420,
-          "average w/o zero": 86420
+          "count": 17,
+          "sum": 1022034,
+          "average": 60119.64705882353,
+          "average w/o zero": 60119.64705882353
         },
         "CT": {
-          "count": 14,
-          "sum": 1040992,
-          "average": 74356.57142857143,
-          "average w/o zero": 74356.57142857143
+          "count": 8,
+          "sum": 633611,
+          "average": 79201.375,
+          "average w/o zero": 79201.375
         },
         "HI": {
           "count": 5,
@@ -9543,306 +7497,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 76428.6
         },
         "DE": {
-          "count": 9,
-          "sum": 581831,
-          "average": 64647.88888888889,
-          "average w/o zero": 64647.88888888889
+          "count": 3,
+          "sum": 197964,
+          "average": 65988,
+          "average w/o zero": 65988
         }
       },
       "Income.Per Capita Income": {
-        "SC": {
-          "count": 146,
-          "sum": 3920249,
-          "average": 26851.020547945205,
-          "average w/o zero": 26851.020547945205
-        },
         "LA": {
-          "count": 63,
-          "sum": 1539069,
-          "average": 24429.666666666668,
-          "average w/o zero": 24429.666666666668
+          "count": 64,
+          "sum": 1560723,
+          "average": 24386.296875,
+          "average w/o zero": 24386.296875
         },
         "VA": {
-          "count": 375,
-          "sum": 11143657,
-          "average": 29716.41866666667,
-          "average w/o zero": 29716.41866666667
+          "count": 132,
+          "sum": 4134533,
+          "average": 31322.219696969696,
+          "average w/o zero": 31322.219696969696
         },
         "ID": {
-          "count": 209,
-          "sum": 5778674,
-          "average": 27649.157894736843,
-          "average w/o zero": 27649.157894736843
+          "count": 44,
+          "sum": 1120393,
+          "average": 25463.477272727272,
+          "average w/o zero": 25463.477272727272
         },
         "IA": {
-          "count": 640,
-          "sum": 17685493,
-          "average": 27633.5828125,
-          "average w/o zero": 27633.5828125
+          "count": 98,
+          "sum": 2981910,
+          "average": 30427.65306122449,
+          "average w/o zero": 30427.65306122449
         },
         "KY": {
-          "count": 707,
-          "sum": 19045656,
-          "average": 26938.69306930693,
-          "average w/o zero": 26938.69306930693
+          "count": 120,
+          "sum": 2894096,
+          "average": 24117.466666666667,
+          "average w/o zero": 24117.466666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 18759488,
-          "average": 27109.086705202313,
-          "average w/o zero": 27109.086705202313
+          "count": 115,
+          "sum": 2871960,
+          "average": 24973.565217391304,
+          "average w/o zero": 24973.565217391304
         },
         "OK": {
-          "count": 279,
-          "sum": 7493799,
-          "average": 26859.494623655915,
-          "average w/o zero": 26859.494623655915
+          "count": 77,
+          "sum": 1944510,
+          "average": 25253.376623376622,
+          "average w/o zero": 25253.376623376622
         },
         "CO": {
-          "count": 252,
-          "sum": 7256658,
-          "average": 28796.261904761905,
-          "average w/o zero": 28796.261904761905
+          "count": 64,
+          "sum": 2046243,
+          "average": 31972.546875,
+          "average w/o zero": 31972.546875
         },
         "IL": {
-          "count": 718,
-          "sum": 19942397,
-          "average": 27774.92618384401,
-          "average w/o zero": 27774.92618384401
+          "count": 102,
+          "sum": 2995138,
+          "average": 29364.098039215685,
+          "average w/o zero": 29364.098039215685
         },
         "IN": {
-          "count": 675,
-          "sum": 18619304,
-          "average": 27584.154074074075,
-          "average w/o zero": 27584.154074074075
+          "count": 92,
+          "sum": 2577955,
+          "average": 28021.25,
+          "average w/o zero": 28021.25
         },
         "MS": {
-          "count": 518,
-          "sum": 13567633,
-          "average": 26192.341698841698,
-          "average w/o zero": 26192.341698841698
-        },
-        "ND": {
-          "count": 135,
-          "sum": 4170121,
-          "average": 30889.785185185185,
-          "average w/o zero": 30889.785185185185
+          "count": 82,
+          "sum": 1784193,
+          "average": 21758.451219512193,
+          "average w/o zero": 21758.451219512193
         },
         "NE": {
-          "count": 446,
-          "sum": 12652050,
-          "average": 28367.825112107625,
-          "average w/o zero": 28367.825112107625
+          "count": 93,
+          "sum": 2743367,
+          "average": 29498.56989247312,
+          "average w/o zero": 29498.56989247312
         },
         "OH": {
-          "count": 567,
-          "sum": 15803004,
-          "average": 27871.25925925926,
-          "average w/o zero": 27871.25925925926
+          "count": 88,
+          "sum": 2521394,
+          "average": 28652.204545454544,
+          "average w/o zero": 28652.204545454544
         },
         "PA": {
-          "count": 380,
-          "sum": 10726781,
-          "average": 28228.371052631577,
-          "average w/o zero": 28228.371052631577
+          "count": 67,
+          "sum": 2013530,
+          "average": 30052.68656716418,
+          "average w/o zero": 30052.68656716418
         },
         "WA": {
-          "count": 195,
-          "sum": 5544569,
-          "average": 28433.68717948718,
-          "average w/o zero": 28433.68717948718
+          "count": 39,
+          "sum": 1208464,
+          "average": 30986.25641025641,
+          "average w/o zero": 30986.25641025641
         },
         "WI": {
-          "count": 316,
-          "sum": 9012842,
-          "average": 28521.651898734177,
-          "average w/o zero": 28521.651898734177
+          "count": 72,
+          "sum": 2234474,
+          "average": 31034.36111111111,
+          "average w/o zero": 31034.36111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 2381110,
-          "average": 30140.632911392404,
-          "average w/o zero": 30140.632911392404
+          "count": 14,
+          "sum": 464583,
+          "average": 33184.5,
+          "average w/o zero": 33184.5
         },
         "MN": {
-          "count": 308,
-          "sum": 8838151,
-          "average": 28695.295454545456,
-          "average w/o zero": 28695.295454545456
+          "count": 87,
+          "sum": 2771011,
+          "average": 31850.701149425287,
+          "average w/o zero": 31850.701149425287
         },
         "FL": {
-          "count": 360,
-          "sum": 9967472,
-          "average": 27687.422222222223,
-          "average w/o zero": 27687.422222222223
-        },
-        "NC": {
-          "count": 420,
-          "sum": 11447539,
-          "average": 27256.045238095237,
-          "average w/o zero": 27256.045238095237
+          "count": 66,
+          "sum": 1818516,
+          "average": 27553.272727272728,
+          "average w/o zero": 27553.272727272728
         },
         "CA": {
-          "count": 85,
-          "sum": 2753506,
-          "average": 32394.188235294117,
-          "average w/o zero": 32394.188235294117
-        },
-        "NY": {
-          "count": 323,
-          "sum": 9438913,
-          "average": 29222.640866873066,
-          "average w/o zero": 29222.640866873066
+          "count": 58,
+          "sum": 1960320,
+          "average": 33798.620689655174,
+          "average w/o zero": 33798.620689655174
         },
         "WY": {
-          "count": 79,
-          "sum": 2327769,
-          "average": 29465.430379746835,
-          "average w/o zero": 29465.430379746835
+          "count": 23,
+          "sum": 739721,
+          "average": 32161.782608695652,
+          "average w/o zero": 32161.782608695652
         },
         "MI": {
-          "count": 227,
-          "sum": 6217118,
-          "average": 27388.18502202643,
-          "average w/o zero": 27388.18502202643
+          "count": 83,
+          "sum": 2330710,
+          "average": 28080.843373493975,
+          "average w/o zero": 28080.843373493975
         },
         "AK": {
-          "count": 20,
-          "sum": 664614,
-          "average": 33230.7,
-          "average w/o zero": 33230.7
+          "count": 23,
+          "sum": 789324,
+          "average": 34318.434782608696,
+          "average w/o zero": 34318.434782608696
         },
         "MD": {
-          "count": 98,
-          "sum": 3033337,
-          "average": 30952.418367346938,
-          "average w/o zero": 30952.418367346938
+          "count": 21,
+          "sum": 791751,
+          "average": 37702.42857142857,
+          "average w/o zero": 37702.42857142857
         },
         "KS": {
-          "count": 494,
-          "sum": 13649787,
-          "average": 27631.147773279354,
-          "average w/o zero": 27631.147773279354
+          "count": 105,
+          "sum": 2899606,
+          "average": 27615.295238095237,
+          "average w/o zero": 27615.295238095237
         },
         "TN": {
-          "count": 626,
-          "sum": 17025451,
-          "average": 27197.20607028754,
-          "average w/o zero": 27197.20607028754
+          "count": 95,
+          "sum": 2405865,
+          "average": 25324.894736842107,
+          "average w/o zero": 25324.894736842107
         },
         "TX": {
-          "count": 700,
-          "sum": 19030915,
-          "average": 27187.02142857143,
-          "average w/o zero": 27187.02142857143
+          "count": 254,
+          "sum": 6675248,
+          "average": 26280.503937007874,
+          "average w/o zero": 26280.503937007874
         },
         "ME": {
-          "count": 121,
-          "sum": 3433550,
-          "average": 28376.446280991735,
-          "average w/o zero": 28376.446280991735
+          "count": 16,
+          "sum": 482025,
+          "average": 30126.5625,
+          "average w/o zero": 30126.5625
         },
         "AZ": {
-          "count": 19,
-          "sum": 484330,
-          "average": 25491.052631578947,
-          "average w/o zero": 25491.052631578947
+          "count": 15,
+          "sum": 367504,
+          "average": 24500.266666666666,
+          "average w/o zero": 24500.266666666666
         },
         "GA": {
-          "count": 736,
-          "sum": 19601158,
-          "average": 26632.008152173912,
-          "average w/o zero": 26632.008152173912
+          "count": 159,
+          "sum": 3893025,
+          "average": 24484.43396226415,
+          "average w/o zero": 24484.43396226415
         },
         "AR": {
-          "count": 534,
-          "sum": 14321677,
-          "average": 26819.619850187268,
-          "average w/o zero": 26819.619850187268
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 2654281,
-          "average": 32369.280487804877,
-          "average w/o zero": 32369.280487804877
-        },
-        "SD": {
-          "count": 253,
-          "sum": 6969762,
-          "average": 27548.466403162056,
-          "average w/o zero": 27548.466403162056
+          "count": 75,
+          "sum": 1746378,
+          "average": 23285.04,
+          "average w/o zero": 23285.04
         },
         "AL": {
-          "count": 439,
-          "sum": 11590146,
-          "average": 26401.2437357631,
-          "average w/o zero": 26401.2437357631
+          "count": 67,
+          "sum": 1611293,
+          "average": 24049.149253731342,
+          "average w/o zero": 24049.149253731342
         },
         "OR": {
-          "count": 241,
-          "sum": 6735824,
-          "average": 27949.477178423236,
-          "average w/o zero": 27949.477178423236
-        },
-        "WV": {
-          "count": 338,
-          "sum": 8974007,
-          "average": 26550.316568047336,
-          "average w/o zero": 26550.316568047336
+          "count": 36,
+          "sum": 1042493,
+          "average": 28958.13888888889,
+          "average w/o zero": 28958.13888888889
         },
         "MA": {
-          "count": 49,
-          "sum": 1644286,
-          "average": 33556.857142857145,
-          "average w/o zero": 33556.857142857145
+          "count": 14,
+          "sum": 590563,
+          "average": 42183.07142857143,
+          "average w/o zero": 42183.07142857143
         },
         "UT": {
-          "count": 106,
-          "sum": 2961875,
-          "average": 27942.216981132075,
-          "average w/o zero": 27942.216981132075
+          "count": 29,
+          "sum": 773541,
+          "average": 26673.827586206895,
+          "average w/o zero": 26673.827586206895
         },
         "MT": {
-          "count": 186,
-          "sum": 5244877,
-          "average": 28198.263440860213,
-          "average w/o zero": 28198.263440860213
-        },
-        "NH": {
-          "count": 31,
-          "sum": 952810,
-          "average": 30735.8064516129,
-          "average w/o zero": 30735.8064516129
-        },
-        "NM": {
-          "count": 92,
-          "sum": 2468058,
-          "average": 26826.717391304348,
-          "average w/o zero": 26826.717391304348
-        },
-        "RI": {
-          "count": 39,
-          "sum": 1216179,
-          "average": 31184.076923076922,
-          "average w/o zero": 31184.076923076922
+          "count": 56,
+          "sum": 1620188,
+          "average": 28931.928571428572,
+          "average w/o zero": 28931.928571428572
         },
         "NV": {
-          "count": 70,
-          "sum": 2011351,
-          "average": 28733.585714285713,
-          "average w/o zero": 28733.585714285713
-        },
-        "DC": {
-          "count": 1,
-          "sum": 56147,
-          "average": 56147,
-          "average w/o zero": 56147
+          "count": 17,
+          "sum": 513208,
+          "average": 30188.70588235294,
+          "average w/o zero": 30188.70588235294
         },
         "CT": {
-          "count": 14,
-          "sum": 551109,
-          "average": 39364.92857142857,
-          "average w/o zero": 39364.92857142857
+          "count": 8,
+          "sum": 339844,
+          "average": 42480.5,
+          "average w/o zero": 42480.5
         },
         "HI": {
           "count": 5,
@@ -9851,306 +7739,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 36972
         },
         "DE": {
-          "count": 9,
-          "sum": 307997,
-          "average": 34221.88888888889,
-          "average w/o zero": 34221.88888888889
+          "count": 3,
+          "sum": 101868,
+          "average": 33956,
+          "average w/o zero": 33956
         }
       },
       "Employment.Nonemployer Establishments": {
-        "SC": {
-          "count": 146,
-          "sum": 1117254,
-          "average": 7652.424657534247,
-          "average w/o zero": 7652.424657534247
-        },
         "LA": {
-          "count": 63,
-          "sum": 384131,
-          "average": 6097.31746031746,
-          "average w/o zero": 6097.31746031746
+          "count": 64,
+          "sum": 385074,
+          "average": 6016.78125,
+          "average w/o zero": 6016.78125
         },
         "VA": {
-          "count": 375,
-          "sum": 3139772,
-          "average": 8372.725333333334,
-          "average w/o zero": 9290.470414201183
+          "count": 132,
+          "sum": 458882,
+          "average": 3476.378787878788,
+          "average w/o zero": 4834.621052631579
         },
         "ID": {
-          "count": 209,
-          "sum": 1240608,
-          "average": 5935.923444976077,
-          "average w/o zero": 5935.923444976077
+          "count": 44,
+          "sum": 135986,
+          "average": 3090.590909090909,
+          "average w/o zero": 3090.590909090909
         },
         "IA": {
-          "count": 640,
-          "sum": 3791988,
-          "average": 5924.98125,
-          "average w/o zero": 5924.98125
+          "count": 98,
+          "sum": 211341,
+          "average": 2156.5408163265306,
+          "average w/o zero": 2156.5408163265306
         },
         "KY": {
-          "count": 707,
-          "sum": 3651845,
-          "average": 5165.26874115983,
-          "average w/o zero": 5165.26874115983
+          "count": 120,
+          "sum": 295814,
+          "average": 2465.116666666667,
+          "average w/o zero": 2465.116666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 4004445,
-          "average": 5786.770231213873,
-          "average w/o zero": 5795.160636758321
+          "count": 115,
+          "sum": 404538,
+          "average": 3517.721739130435,
+          "average w/o zero": 3548.6754385964914
         },
         "OK": {
-          "count": 279,
-          "sum": 1215670,
-          "average": 4357.240143369176,
-          "average w/o zero": 4357.240143369176
+          "count": 77,
+          "sum": 291452,
+          "average": 3785.090909090909,
+          "average w/o zero": 3785.090909090909
         },
         "CO": {
-          "count": 252,
-          "sum": 1552596,
-          "average": 6161.0952380952385,
-          "average w/o zero": 6161.0952380952385
+          "count": 64,
+          "sum": 535299,
+          "average": 8364.046875,
+          "average w/o zero": 8364.046875
         },
         "IL": {
-          "count": 718,
-          "sum": 4991972,
-          "average": 6952.607242339833,
-          "average w/o zero": 6952.607242339833
+          "count": 102,
+          "sum": 996670,
+          "average": 9771.274509803921,
+          "average w/o zero": 9771.274509803921
         },
         "IN": {
-          "count": 675,
-          "sum": 4468978,
-          "average": 6620.708148148148,
-          "average w/o zero": 6620.708148148148
+          "count": 92,
+          "sum": 422619,
+          "average": 4593.684782608696,
+          "average w/o zero": 4593.684782608696
         },
         "MS": {
-          "count": 518,
-          "sum": 2569097,
-          "average": 4959.646718146718,
-          "average w/o zero": 4959.646718146718
-        },
-        "ND": {
-          "count": 135,
-          "sum": 431920,
-          "average": 3199.4074074074074,
-          "average w/o zero": 3199.4074074074074
+          "count": 82,
+          "sum": 222159,
+          "average": 2709.256097560976,
+          "average w/o zero": 2709.256097560976
         },
         "NE": {
-          "count": 446,
-          "sum": 2165436,
-          "average": 4855.237668161435,
-          "average w/o zero": 4855.237668161435
+          "count": 93,
+          "sum": 138728,
+          "average": 1491.6989247311828,
+          "average w/o zero": 1491.6989247311828
         },
         "OH": {
-          "count": 567,
-          "sum": 3963642,
-          "average": 6990.550264550265,
-          "average w/o zero": 6990.550264550265
+          "count": 88,
+          "sum": 802331,
+          "average": 9117.397727272728,
+          "average w/o zero": 9117.397727272728
         },
         "PA": {
-          "count": 380,
-          "sum": 2911084,
-          "average": 7660.747368421053,
-          "average w/o zero": 7660.747368421053
+          "count": 67,
+          "sum": 865041,
+          "average": 12911.059701492537,
+          "average w/o zero": 12911.059701492537
         },
         "WA": {
-          "count": 195,
-          "sum": 1442429,
-          "average": 7397.071794871795,
-          "average w/o zero": 7397.071794871795
+          "count": 39,
+          "sum": 491908,
+          "average": 12613.02564102564,
+          "average w/o zero": 12613.02564102564
         },
         "WI": {
-          "count": 316,
-          "sum": 1849974,
-          "average": 5854.348101265823,
-          "average w/o zero": 5854.348101265823
+          "count": 72,
+          "sum": 355166,
+          "average": 4932.861111111111,
+          "average w/o zero": 4932.861111111111
         },
         "VT": {
-          "count": 79,
-          "sum": 1093555,
-          "average": 13842.468354430379,
-          "average w/o zero": 13842.468354430379
+          "count": 14,
+          "sum": 62027,
+          "average": 4430.5,
+          "average w/o zero": 4430.5
         },
         "MN": {
-          "count": 308,
-          "sum": 1982073,
-          "average": 6435.301948051948,
-          "average w/o zero": 6435.301948051948
+          "count": 87,
+          "sum": 416487,
+          "average": 4787.206896551724,
+          "average w/o zero": 4787.206896551724
         },
         "FL": {
-          "count": 360,
-          "sum": 4015016,
-          "average": 11152.822222222223,
-          "average w/o zero": 11152.822222222223
-        },
-        "NC": {
-          "count": 420,
-          "sum": 3367003,
-          "average": 8016.67380952381,
-          "average w/o zero": 8016.67380952381
+          "count": 66,
+          "sum": 1830217,
+          "average": 27730.560606060608,
+          "average w/o zero": 27730.560606060608
         },
         "CA": {
-          "count": 85,
-          "sum": 4096647,
-          "average": 48195.84705882353,
-          "average w/o zero": 48195.84705882353
-        },
-        "NY": {
-          "count": 323,
-          "sum": 4384569,
-          "average": 13574.517027863778,
-          "average w/o zero": 13574.517027863778
+          "count": 58,
+          "sum": 3453769,
+          "average": 59547.74137931035,
+          "average w/o zero": 59547.74137931035
         },
         "WY": {
-          "count": 79,
-          "sum": 255287,
-          "average": 3231.481012658228,
-          "average w/o zero": 3231.481012658228
+          "count": 23,
+          "sum": 53042,
+          "average": 2306.1739130434785,
+          "average w/o zero": 2306.1739130434785
         },
         "MI": {
-          "count": 227,
-          "sum": 1387623,
-          "average": 6112.8766519823785,
-          "average w/o zero": 6112.8766519823785
+          "count": 83,
+          "sum": 730700,
+          "average": 8803.614457831325,
+          "average w/o zero": 8803.614457831325
         },
         "AK": {
-          "count": 20,
-          "sum": 21562,
-          "average": 1078.1,
+          "count": 23,
+          "sum": 21529,
+          "average": 936.0434782608696,
           "average w/o zero": 1078.1
         },
         "MD": {
-          "count": 98,
-          "sum": 992443,
-          "average": 10126.969387755102,
-          "average w/o zero": 10231.484536082475
+          "count": 21,
+          "sum": 376645,
+          "average": 17935.47619047619,
+          "average w/o zero": 18832.8
         },
         "KS": {
-          "count": 494,
-          "sum": 2586568,
-          "average": 5235.967611336032,
-          "average w/o zero": 5235.967611336032
+          "count": 105,
+          "sum": 202389,
+          "average": 1927.5142857142857,
+          "average w/o zero": 1927.5142857142857
         },
         "TN": {
-          "count": 626,
-          "sum": 3686410,
-          "average": 5888.833865814697,
-          "average w/o zero": 5888.833865814697
+          "count": 95,
+          "sum": 539987,
+          "average": 5684.073684210526,
+          "average w/o zero": 5684.073684210526
         },
         "TX": {
-          "count": 700,
-          "sum": 5971281,
-          "average": 8530.40142857143,
-          "average w/o zero": 8530.40142857143
+          "count": 254,
+          "sum": 2514301,
+          "average": 9898.822834645669,
+          "average w/o zero": 9898.822834645669
         },
         "ME": {
-          "count": 121,
-          "sum": 712014,
-          "average": 5884.413223140496,
-          "average w/o zero": 5884.413223140496
+          "count": 16,
+          "sum": 117341,
+          "average": 7333.8125,
+          "average w/o zero": 7333.8125
         },
         "AZ": {
-          "count": 19,
-          "sum": 529998,
-          "average": 27894.63157894737,
-          "average w/o zero": 27894.63157894737
+          "count": 15,
+          "sum": 502593,
+          "average": 33506.2,
+          "average w/o zero": 33506.2
         },
         "GA": {
-          "count": 736,
-          "sum": 4995561,
-          "average": 6787.447010869565,
-          "average w/o zero": 6787.447010869565
+          "count": 159,
+          "sum": 955621,
+          "average": 6010.194968553459,
+          "average w/o zero": 6010.194968553459
         },
         "AR": {
-          "count": 534,
-          "sum": 3194985,
-          "average": 5983.11797752809,
-          "average w/o zero": 5983.11797752809
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 1204634,
-          "average": 14690.658536585366,
-          "average w/o zero": 14690.658536585366
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1028903,
-          "average": 4066.810276679842,
-          "average w/o zero": 4066.810276679842
+          "count": 75,
+          "sum": 209179,
+          "average": 2789.0533333333333,
+          "average w/o zero": 2789.0533333333333
         },
         "AL": {
-          "count": 439,
-          "sum": 2761795,
-          "average": 6291.1047835990885,
-          "average w/o zero": 6291.1047835990885
+          "count": 67,
+          "sum": 336445,
+          "average": 5021.567164179104,
+          "average w/o zero": 5021.567164179104
         },
         "OR": {
-          "count": 241,
-          "sum": 1508167,
-          "average": 6257.954356846473,
-          "average w/o zero": 6257.954356846473
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1370638,
-          "average": 4055.1420118343194,
-          "average w/o zero": 4055.1420118343194
+          "count": 36,
+          "sum": 302653,
+          "average": 8407.027777777777,
+          "average w/o zero": 8407.027777777777
         },
         "MA": {
-          "count": 49,
-          "sum": 1040570,
-          "average": 21236.122448979593,
-          "average w/o zero": 21236.122448979593
+          "count": 14,
+          "sum": 573754,
+          "average": 40982.42857142857,
+          "average w/o zero": 40982.42857142857
         },
         "UT": {
-          "count": 106,
-          "sum": 743164,
-          "average": 7010.981132075472,
-          "average w/o zero": 7010.981132075472
+          "count": 29,
+          "sum": 246766,
+          "average": 8509.172413793103,
+          "average w/o zero": 8509.172413793103
         },
         "MT": {
-          "count": 186,
-          "sum": 734671,
-          "average": 3949.8440860215055,
-          "average w/o zero": 3949.8440860215055
-        },
-        "NH": {
-          "count": 31,
-          "sum": 316368,
-          "average": 10205.41935483871,
-          "average w/o zero": 10205.41935483871
-        },
-        "NM": {
-          "count": 92,
-          "sum": 359470,
-          "average": 3907.282608695652,
-          "average w/o zero": 3907.282608695652
-        },
-        "RI": {
-          "count": 39,
-          "sum": 359073,
-          "average": 9207,
-          "average w/o zero": 9207
+          "count": 56,
+          "sum": 93753,
+          "average": 1674.1607142857142,
+          "average w/o zero": 1674.1607142857142
         },
         "NV": {
-          "count": 70,
-          "sum": 473881,
-          "average": 6769.728571428572,
-          "average w/o zero": 6868
-        },
-        "DC": {
-          "count": 1,
-          "sum": 62583,
-          "average": 62583,
-          "average w/o zero": 62583
+          "count": 17,
+          "sum": 240618,
+          "average": 14154,
+          "average w/o zero": 15039.3125
         },
         "CT": {
-          "count": 14,
-          "sum": 517175,
-          "average": 36941.07142857143,
-          "average w/o zero": 36941.07142857143
+          "count": 8,
+          "sum": 286874,
+          "average": 35859.25,
+          "average w/o zero": 35859.25
         },
         "HI": {
           "count": 5,
@@ -10159,306 +7981,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 28147.25
         },
         "DE": {
-          "count": 9,
-          "sum": 144225,
-          "average": 16025,
-          "average w/o zero": 16025
+          "count": 3,
+          "sum": 68623,
+          "average": 22874.333333333332,
+          "average w/o zero": 22874.333333333332
         }
       },
       "Employment.Firms.Total": {
-        "SC": {
-          "count": 146,
-          "sum": 1185546,
-          "average": 8120.178082191781,
-          "average w/o zero": 8120.178082191781
-        },
         "LA": {
-          "count": 63,
-          "sum": 422844,
-          "average": 6711.809523809524,
-          "average w/o zero": 6711.809523809524
+          "count": 64,
+          "sum": 423750,
+          "average": 6621.09375,
+          "average w/o zero": 6621.09375
         },
         "VA": {
-          "count": 375,
-          "sum": 3515359,
-          "average": 9374.290666666666,
-          "average w/o zero": 9374.290666666666
+          "count": 132,
+          "sum": 671848,
+          "average": 5089.757575757576,
+          "average w/o zero": 5089.757575757576
         },
         "ID": {
-          "count": 209,
-          "sum": 1342317,
-          "average": 6422.56937799043,
-          "average w/o zero": 6422.56937799043
+          "count": 44,
+          "sum": 149678,
+          "average": 3401.7727272727275,
+          "average w/o zero": 3401.7727272727275
         },
         "IA": {
-          "count": 640,
-          "sum": 4171355,
-          "average": 6517.7421875,
-          "average w/o zero": 6517.7421875
+          "count": 98,
+          "sum": 266032,
+          "average": 2714.612244897959,
+          "average w/o zero": 2714.612244897959
         },
         "KY": {
-          "count": 707,
-          "sum": 4032391,
-          "average": 5703.52333804809,
-          "average w/o zero": 5703.52333804809
+          "count": 120,
+          "sum": 341494,
+          "average": 2845.7833333333333,
+          "average w/o zero": 2845.7833333333333
         },
         "MO": {
-          "count": 692,
-          "sum": 4454432,
-          "average": 6437.040462427745,
-          "average w/o zero": 6437.040462427745
+          "count": 115,
+          "sum": 504655,
+          "average": 4388.304347826087,
+          "average w/o zero": 4388.304347826087
         },
         "OK": {
-          "count": 279,
-          "sum": 1360457,
-          "average": 4876.1899641577065,
-          "average w/o zero": 4876.1899641577065
+          "count": 77,
+          "sum": 334268,
+          "average": 4341.142857142857,
+          "average w/o zero": 4341.142857142857
         },
         "CO": {
-          "count": 252,
-          "sum": 1724161,
-          "average": 6841.908730158731,
-          "average w/o zero": 6841.908730158731
+          "count": 64,
+          "sum": 556253,
+          "average": 8691.453125,
+          "average w/o zero": 8691.453125
         },
         "IL": {
-          "count": 718,
-          "sum": 5511624,
-          "average": 7676.356545961003,
-          "average w/o zero": 7676.356545961003
+          "count": 102,
+          "sum": 1152012,
+          "average": 11294.235294117647,
+          "average w/o zero": 11294.235294117647
         },
         "IN": {
-          "count": 675,
-          "sum": 4878963,
-          "average": 7228.093333333333,
-          "average w/o zero": 7228.093333333333
+          "count": 92,
+          "sum": 493700,
+          "average": 5366.304347826087,
+          "average w/o zero": 5366.304347826087
         },
         "MS": {
-          "count": 518,
-          "sum": 2839981,
-          "average": 5482.588803088803,
-          "average w/o zero": 5482.588803088803
-        },
-        "ND": {
-          "count": 135,
-          "sum": 494294,
-          "average": 3661.437037037037,
-          "average w/o zero": 3661.437037037037
+          "count": 82,
+          "sum": 242900,
+          "average": 2962.1951219512193,
+          "average w/o zero": 2962.1951219512193
         },
         "NE": {
-          "count": 446,
-          "sum": 2414168,
-          "average": 5412.932735426009,
-          "average w/o zero": 5412.932735426009
+          "count": 93,
+          "sum": 168403,
+          "average": 1810.784946236559,
+          "average w/o zero": 1810.784946236559
         },
         "OH": {
-          "count": 567,
-          "sum": 4415776,
-          "average": 7787.964726631393,
-          "average w/o zero": 7787.964726631393
+          "count": 88,
+          "sum": 926852,
+          "average": 10532.40909090909,
+          "average w/o zero": 10532.40909090909
         },
         "PA": {
-          "count": 380,
-          "sum": 3262898,
-          "average": 8586.573684210527,
-          "average w/o zero": 8586.573684210527
+          "count": 67,
+          "sum": 996293,
+          "average": 14870.044776119403,
+          "average w/o zero": 14870.044776119403
         },
         "WA": {
-          "count": 195,
-          "sum": 1561707,
-          "average": 8008.753846153846,
-          "average w/o zero": 8050.0360824742265
+          "count": 39,
+          "sum": 550175,
+          "average": 14107.051282051281,
+          "average w/o zero": 14107.051282051281
         },
         "WI": {
-          "count": 316,
-          "sum": 2074559,
-          "average": 6565.060126582279,
-          "average w/o zero": 6565.060126582279
+          "count": 72,
+          "sum": 445280,
+          "average": 6184.444444444444,
+          "average w/o zero": 6184.444444444444
         },
         "VT": {
-          "count": 79,
-          "sum": 1148681,
-          "average": 14540.26582278481,
-          "average w/o zero": 14540.26582278481
+          "count": 14,
+          "sum": 76973,
+          "average": 5498.071428571428,
+          "average w/o zero": 5498.071428571428
         },
         "MN": {
-          "count": 308,
-          "sum": 2252160,
-          "average": 7312.207792207792,
-          "average w/o zero": 7312.207792207792
+          "count": 87,
+          "sum": 499621,
+          "average": 5742.770114942528,
+          "average w/o zero": 5742.770114942528
         },
         "FL": {
-          "count": 360,
-          "sum": 4094611,
-          "average": 11373.919444444444,
-          "average w/o zero": 11373.919444444444
-        },
-        "NC": {
-          "count": 420,
-          "sum": 3564072,
-          "average": 8485.885714285714,
-          "average w/o zero": 8485.885714285714
+          "count": 66,
+          "sum": 1658670,
+          "average": 25131.363636363636,
+          "average w/o zero": 25131.363636363636
         },
         "CA": {
-          "count": 85,
-          "sum": 4236343,
-          "average": 49839.32941176471,
-          "average w/o zero": 49839.32941176471
-        },
-        "NY": {
-          "count": 323,
-          "sum": 4815005,
-          "average": 14907.136222910216,
-          "average w/o zero": 14907.136222910216
+          "count": 58,
+          "sum": 3587028,
+          "average": 61845.31034482759,
+          "average w/o zero": 61845.31034482759
         },
         "WY": {
-          "count": 79,
-          "sum": 289114,
-          "average": 3659.6708860759495,
-          "average w/o zero": 3659.6708860759495
+          "count": 23,
+          "sum": 63846,
+          "average": 2775.913043478261,
+          "average w/o zero": 2775.913043478261
         },
         "MI": {
-          "count": 227,
-          "sum": 1590800,
-          "average": 7007.929515418502,
-          "average w/o zero": 7007.929515418502
+          "count": 83,
+          "sum": 849493,
+          "average": 10234.855421686747,
+          "average w/o zero": 10234.855421686747
         },
         "AK": {
-          "count": 20,
-          "sum": 26687,
-          "average": 1334.35,
-          "average w/o zero": 1334.35
+          "count": 23,
+          "sum": 58072,
+          "average": 2524.8695652173915,
+          "average w/o zero": 2524.8695652173915
         },
         "MD": {
-          "count": 98,
-          "sum": 1124594,
-          "average": 11475.448979591836,
-          "average w/o zero": 11475.448979591836
+          "count": 21,
+          "sum": 450502,
+          "average": 21452.47619047619,
+          "average w/o zero": 21452.47619047619
         },
         "KS": {
-          "count": 494,
-          "sum": 2836126,
-          "average": 5741.145748987854,
-          "average w/o zero": 5741.145748987854
+          "count": 105,
+          "sum": 245494,
+          "average": 2338.038095238095,
+          "average w/o zero": 2338.038095238095
         },
         "TN": {
-          "count": 626,
-          "sum": 4041832,
-          "average": 6456.600638977636,
-          "average w/o zero": 6456.600638977636
+          "count": 95,
+          "sum": 564228,
+          "average": 5939.242105263158,
+          "average w/o zero": 5939.242105263158
         },
         "TX": {
-          "count": 700,
-          "sum": 6140865,
-          "average": 8772.664285714285,
-          "average w/o zero": 8810.42324246772
+          "count": 254,
+          "sum": 2399286,
+          "average": 9446.007874015748,
+          "average w/o zero": 9558.908366533864
         },
         "ME": {
-          "count": 121,
-          "sum": 802364,
-          "average": 6631.107438016529,
-          "average w/o zero": 6631.107438016529
+          "count": 16,
+          "sum": 141856,
+          "average": 8866,
+          "average w/o zero": 8866
         },
         "AZ": {
-          "count": 19,
-          "sum": 535899,
-          "average": 28205.21052631579,
-          "average w/o zero": 28205.21052631579
+          "count": 15,
+          "sum": 503826,
+          "average": 33588.4,
+          "average w/o zero": 33588.4
         },
         "GA": {
-          "count": 736,
-          "sum": 5374325,
-          "average": 7302.072010869565,
-          "average w/o zero": 7302.072010869565
+          "count": 159,
+          "sum": 950321,
+          "average": 5976.861635220126,
+          "average w/o zero": 5976.861635220126
         },
         "AR": {
-          "count": 534,
-          "sum": 3462277,
-          "average": 6483.664794007491,
-          "average w/o zero": 6483.664794007491
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 1296668,
-          "average": 15813.024390243903,
-          "average w/o zero": 15813.024390243903
-        },
-        "SD": {
-          "count": 253,
-          "sum": 1115496,
-          "average": 4409.075098814229,
-          "average w/o zero": 4409.075098814229
+          "count": 75,
+          "sum": 238342,
+          "average": 3177.8933333333334,
+          "average w/o zero": 3177.8933333333334
         },
         "AL": {
-          "count": 439,
-          "sum": 3032236,
-          "average": 6907.143507972665,
-          "average w/o zero": 6907.143507972665
+          "count": 67,
+          "sum": 384098,
+          "average": 5732.805970149254,
+          "average w/o zero": 5732.805970149254
         },
         "OR": {
-          "count": 241,
-          "sum": 1682203,
-          "average": 6980.095435684647,
-          "average w/o zero": 6980.095435684647
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1582085,
-          "average": 4680.724852071006,
-          "average w/o zero": 4680.724852071006
+          "count": 36,
+          "sum": 346128,
+          "average": 9614.666666666666,
+          "average w/o zero": 9614.666666666666
         },
         "MA": {
-          "count": 49,
-          "sum": 1128075,
-          "average": 23021.938775510203,
-          "average w/o zero": 23021.938775510203
+          "count": 14,
+          "sum": 614594,
+          "average": 43899.57142857143,
+          "average w/o zero": 43899.57142857143
         },
         "UT": {
-          "count": 106,
-          "sum": 834961,
-          "average": 7876.990566037736,
-          "average w/o zero": 7876.990566037736
+          "count": 29,
+          "sum": 254692,
+          "average": 8782.48275862069,
+          "average w/o zero": 8782.48275862069
         },
         "MT": {
-          "count": 186,
-          "sum": 837147,
-          "average": 4500.790322580645,
-          "average w/o zero": 4500.790322580645
-        },
-        "NH": {
-          "count": 31,
-          "sum": 335529,
-          "average": 10823.516129032258,
-          "average w/o zero": 10823.516129032258
-        },
-        "NM": {
-          "count": 92,
-          "sum": 401979,
-          "average": 4369.336956521739,
-          "average w/o zero": 4369.336956521739
-        },
-        "RI": {
-          "count": 39,
-          "sum": 401721,
-          "average": 10300.538461538461,
-          "average w/o zero": 10300.538461538461
+          "count": 56,
+          "sum": 114676,
+          "average": 2047.7857142857142,
+          "average w/o zero": 2047.7857142857142
         },
         "NV": {
-          "count": 70,
-          "sum": 486296,
-          "average": 6947.085714285714,
-          "average w/o zero": 6947.085714285714
-        },
-        "DC": {
-          "count": 1,
-          "sum": 63408,
-          "average": 63408,
-          "average w/o zero": 63408
+          "count": 17,
+          "sum": 228802,
+          "average": 13458.941176470587,
+          "average w/o zero": 13458.941176470587
         },
         "CT": {
-          "count": 14,
-          "sum": 573843,
-          "average": 40988.78571428572,
-          "average w/o zero": 40988.78571428572
+          "count": 8,
+          "sum": 329894,
+          "average": 41236.75,
+          "average w/o zero": 41236.75
         },
         "HI": {
           "count": 5,
@@ -10467,306 +8223,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 29865
         },
         "DE": {
-          "count": 9,
-          "sum": 156618,
-          "average": 17402,
-          "average w/o zero": 17402
+          "count": 3,
+          "sum": 74101,
+          "average": 24700.333333333332,
+          "average w/o zero": 24700.333333333332
         }
       },
       "Employment.Firms.Men-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 650064,
-          "average": 4452.493150684932,
-          "average w/o zero": 4452.493150684932
-        },
         "LA": {
-          "count": 63,
-          "sum": 217600,
-          "average": 3453.968253968254,
-          "average w/o zero": 3453.968253968254
+          "count": 64,
+          "sum": 218076,
+          "average": 3407.4375,
+          "average w/o zero": 3407.4375
         },
         "VA": {
-          "count": 375,
-          "sum": 1904270,
-          "average": 5078.053333333333,
-          "average w/o zero": 5078.053333333333
+          "count": 132,
+          "sum": 358234,
+          "average": 2713.8939393939395,
+          "average w/o zero": 2713.8939393939395
         },
         "ID": {
-          "count": 209,
-          "sum": 699727,
-          "average": 3347.976076555024,
-          "average w/o zero": 3347.976076555024
+          "count": 44,
+          "sum": 71329,
+          "average": 1621.1136363636363,
+          "average w/o zero": 1621.1136363636363
         },
         "IA": {
-          "count": 640,
-          "sum": 2224225,
-          "average": 3475.3515625,
-          "average w/o zero": 3480.790297339593
+          "count": 98,
+          "sum": 137598,
+          "average": 1404.061224489796,
+          "average w/o zero": 1404.061224489796
         },
         "KY": {
-          "count": 707,
-          "sum": 2145396,
-          "average": 3034.5063649222066,
-          "average w/o zero": 3043.114893617021
+          "count": 120,
+          "sum": 187275,
+          "average": 1560.625,
+          "average w/o zero": 1573.7394957983192
         },
         "MO": {
-          "count": 692,
-          "sum": 2348041,
-          "average": 3393.122832369942,
-          "average w/o zero": 3393.122832369942
+          "count": 115,
+          "sum": 262228,
+          "average": 2280.24347826087,
+          "average w/o zero": 2280.24347826087
         },
         "OK": {
-          "count": 279,
-          "sum": 727732,
-          "average": 2608.358422939068,
-          "average w/o zero": 2617.7410071942445
+          "count": 77,
+          "sum": 176488,
+          "average": 2292.051948051948,
+          "average w/o zero": 2292.051948051948
         },
         "CO": {
-          "count": 252,
-          "sum": 903540,
-          "average": 3585.4761904761904,
-          "average w/o zero": 3599.760956175299
+          "count": 64,
+          "sum": 287151,
+          "average": 4486.734375,
+          "average w/o zero": 4486.734375
         },
         "IL": {
-          "count": 718,
-          "sum": 2930568,
-          "average": 4081.5710306406686,
-          "average w/o zero": 4087.26359832636
+          "count": 102,
+          "sum": 615116,
+          "average": 6030.549019607844,
+          "average w/o zero": 6030.549019607844
         },
         "IN": {
-          "count": 675,
-          "sum": 2588444,
-          "average": 3834.731851851852,
-          "average w/o zero": 3834.731851851852
+          "count": 92,
+          "sum": 257971,
+          "average": 2804.032608695652,
+          "average w/o zero": 2804.032608695652
         },
         "MS": {
-          "count": 518,
-          "sum": 1510305,
-          "average": 2915.6467181467183,
-          "average w/o zero": 2915.6467181467183
-        },
-        "ND": {
-          "count": 135,
-          "sum": 264561,
-          "average": 1959.7111111111112,
-          "average w/o zero": 1989.1804511278197
+          "count": 82,
+          "sum": 127476,
+          "average": 1554.5853658536585,
+          "average w/o zero": 1554.5853658536585
         },
         "NE": {
-          "count": 446,
-          "sum": 1276003,
-          "average": 2860.993273542601,
-          "average w/o zero": 2906.612756264237
+          "count": 93,
+          "sum": 85125,
+          "average": 915.3225806451613,
+          "average w/o zero": 989.8255813953489
         },
         "OH": {
-          "count": 567,
-          "sum": 2379042,
-          "average": 4195.841269841269,
-          "average w/o zero": 4203.254416961131
+          "count": 88,
+          "sum": 517067,
+          "average": 5875.761363636364,
+          "average w/o zero": 5875.761363636364
         },
         "PA": {
-          "count": 380,
-          "sum": 1800233,
-          "average": 4737.4552631578945,
-          "average w/o zero": 4737.4552631578945
+          "count": 67,
+          "sum": 585715,
+          "average": 8742.014925373134,
+          "average w/o zero": 8742.014925373134
         },
         "WA": {
-          "count": 195,
-          "sum": 797910,
-          "average": 4091.846153846154,
-          "average w/o zero": 4112.938144329897
+          "count": 39,
+          "sum": 265257,
+          "average": 6801.461538461538,
+          "average w/o zero": 6801.461538461538
         },
         "WI": {
-          "count": 316,
-          "sum": 1095783,
-          "average": 3467.6677215189875,
-          "average w/o zero": 3467.6677215189875
+          "count": 72,
+          "sum": 240673,
+          "average": 3342.6805555555557,
+          "average w/o zero": 3342.6805555555557
         },
         "VT": {
-          "count": 79,
-          "sum": 615602,
-          "average": 7792.430379746836,
-          "average w/o zero": 7792.430379746836
+          "count": 14,
+          "sum": 41656,
+          "average": 2975.4285714285716,
+          "average w/o zero": 2975.4285714285716
         },
         "MN": {
-          "count": 308,
-          "sum": 1191204,
-          "average": 3867.5454545454545,
-          "average w/o zero": 3867.5454545454545
+          "count": 87,
+          "sum": 271793,
+          "average": 3124.057471264368,
+          "average w/o zero": 3124.057471264368
         },
         "FL": {
-          "count": 360,
-          "sum": 2176020,
-          "average": 6044.5,
-          "average w/o zero": 6044.5
-        },
-        "NC": {
-          "count": 420,
-          "sum": 1904971,
-          "average": 4535.645238095238,
-          "average w/o zero": 4535.645238095238
+          "count": 66,
+          "sum": 853707,
+          "average": 12934.954545454546,
+          "average w/o zero": 12934.954545454546
         },
         "CA": {
-          "count": 85,
-          "sum": 2215362,
-          "average": 26063.082352941175,
-          "average w/o zero": 26373.35714285714
-        },
-        "NY": {
-          "count": 323,
-          "sum": 2633952,
-          "average": 8154.650154798762,
-          "average w/o zero": 8154.650154798762
+          "count": 58,
+          "sum": 1865864,
+          "average": 32170.068965517243,
+          "average w/o zero": 32734.456140350878
         },
         "WY": {
-          "count": 79,
-          "sum": 151796,
-          "average": 1921.4683544303798,
-          "average w/o zero": 1921.4683544303798
+          "count": 23,
+          "sum": 30472,
+          "average": 1324.8695652173913,
+          "average w/o zero": 1324.8695652173913
         },
         "MI": {
-          "count": 227,
-          "sum": 850465,
-          "average": 3746.541850220264,
-          "average w/o zero": 3746.541850220264
+          "count": 83,
+          "sum": 451739,
+          "average": 5442.638554216867,
+          "average w/o zero": 5442.638554216867
         },
         "AK": {
-          "count": 20,
-          "sum": 14229,
-          "average": 711.45,
-          "average w/o zero": 711.45
+          "count": 23,
+          "sum": 29978,
+          "average": 1303.391304347826,
+          "average w/o zero": 1303.391304347826
         },
         "MD": {
-          "count": 98,
-          "sum": 609302,
-          "average": 6217.367346938776,
-          "average w/o zero": 6217.367346938776
+          "count": 21,
+          "sum": 234863,
+          "average": 11183.952380952382,
+          "average w/o zero": 11183.952380952382
         },
         "KS": {
-          "count": 494,
-          "sum": 1505340,
-          "average": 3047.246963562753,
-          "average w/o zero": 3059.6341463414633
+          "count": 105,
+          "sum": 127190,
+          "average": 1211.3333333333333,
+          "average w/o zero": 1211.3333333333333
         },
         "TN": {
-          "count": 626,
-          "sum": 2161722,
-          "average": 3453.230031948882,
-          "average w/o zero": 3458.7552
+          "count": 95,
+          "sum": 306154,
+          "average": 3222.6736842105265,
+          "average w/o zero": 3222.6736842105265
         },
         "TX": {
-          "count": 700,
-          "sum": 3252647,
-          "average": 4646.638571428572,
-          "average w/o zero": 4686.811239193084
+          "count": 254,
+          "sum": 1265962,
+          "average": 4984.102362204724,
+          "average w/o zero": 5063.848
         },
         "ME": {
-          "count": 121,
-          "sum": 436275,
-          "average": 3605.5785123966944,
-          "average w/o zero": 3605.5785123966944
+          "count": 16,
+          "sum": 80010,
+          "average": 5000.625,
+          "average w/o zero": 5000.625
         },
         "AZ": {
-          "count": 19,
-          "sum": 262699,
-          "average": 13826.263157894737,
-          "average w/o zero": 13826.263157894737
+          "count": 15,
+          "sum": 246377,
+          "average": 16425.133333333335,
+          "average w/o zero": 16425.133333333335
         },
         "GA": {
-          "count": 736,
-          "sum": 2839504,
-          "average": 3858.021739130435,
-          "average w/o zero": 3868.534059945504
+          "count": 159,
+          "sum": 486483,
+          "average": 3059.6415094339623,
+          "average w/o zero": 3059.6415094339623
         },
         "AR": {
-          "count": 534,
-          "sum": 1840356,
-          "average": 3446.3595505617977,
-          "average w/o zero": 3452.825515947467
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 746196,
-          "average": 9099.951219512195,
-          "average w/o zero": 9099.951219512195
-        },
-        "SD": {
-          "count": 253,
-          "sum": 586194,
-          "average": 2316.9723320158105,
-          "average w/o zero": 2326.1666666666665
+          "count": 75,
+          "sum": 125250,
+          "average": 1670,
+          "average w/o zero": 1670
         },
         "AL": {
-          "count": 439,
-          "sum": 1610387,
-          "average": 3668.3075170842826,
-          "average w/o zero": 3668.3075170842826
+          "count": 67,
+          "sum": 206593,
+          "average": 3083.4776119402986,
+          "average w/o zero": 3083.4776119402986
         },
         "OR": {
-          "count": 241,
-          "sum": 878160,
-          "average": 3643.817427385892,
-          "average w/o zero": 3674.3096234309623
-        },
-        "WV": {
-          "count": 338,
-          "sum": 836799,
-          "average": 2475.7366863905327,
-          "average w/o zero": 2483.0830860534124
+          "count": 36,
+          "sum": 167991,
+          "average": 4666.416666666667,
+          "average w/o zero": 4799.742857142857
         },
         "MA": {
-          "count": 49,
-          "sum": 650912,
-          "average": 13283.918367346938,
-          "average w/o zero": 13283.918367346938
+          "count": 14,
+          "sum": 359195,
+          "average": 25656.785714285714,
+          "average w/o zero": 25656.785714285714
         },
         "UT": {
-          "count": 106,
-          "sum": 436696,
-          "average": 4119.773584905661,
-          "average w/o zero": 4119.773584905661
+          "count": 29,
+          "sum": 133198,
+          "average": 4593.0344827586205,
+          "average w/o zero": 4593.0344827586205
         },
         "MT": {
-          "count": 186,
-          "sum": 440279,
-          "average": 2367.0913978494623,
-          "average w/o zero": 2367.0913978494623
-        },
-        "NH": {
-          "count": 31,
-          "sum": 184986,
-          "average": 5967.290322580645,
-          "average w/o zero": 5967.290322580645
-        },
-        "NM": {
-          "count": 92,
-          "sum": 205183,
-          "average": 2230.25,
-          "average w/o zero": 2230.25
-        },
-        "RI": {
-          "count": 39,
-          "sum": 221530,
-          "average": 5680.25641025641,
-          "average w/o zero": 5680.25641025641
+          "count": 56,
+          "sum": 56599,
+          "average": 1010.6964285714286,
+          "average w/o zero": 1010.6964285714286
         },
         "NV": {
-          "count": 70,
-          "sum": 246495,
-          "average": 3521.3571428571427,
-          "average w/o zero": 3521.3571428571427
-        },
-        "DC": {
-          "count": 1,
-          "sum": 30237,
-          "average": 30237,
-          "average w/o zero": 30237
+          "count": 17,
+          "sum": 114503,
+          "average": 6735.470588235294,
+          "average w/o zero": 6735.470588235294
         },
         "CT": {
-          "count": 14,
-          "sum": 329890,
-          "average": 23563.571428571428,
-          "average w/o zero": 23563.571428571428
+          "count": 8,
+          "sum": 188723,
+          "average": 23590.375,
+          "average w/o zero": 23590.375
         },
         "HI": {
           "count": 5,
@@ -10775,306 +8465,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 15179
         },
         "DE": {
-          "count": 9,
-          "sum": 86123,
-          "average": 9569.222222222223,
-          "average w/o zero": 9569.222222222223
+          "count": 3,
+          "sum": 38528,
+          "average": 12842.666666666666,
+          "average w/o zero": 12842.666666666666
         }
       },
       "Employment.Firms.Women-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 399146,
-          "average": 2733.876712328767,
-          "average w/o zero": 2733.876712328767
-        },
         "LA": {
-          "count": 63,
-          "sum": 151032,
-          "average": 2397.3333333333335,
-          "average w/o zero": 2397.3333333333335
+          "count": 64,
+          "sum": 151384,
+          "average": 2365.375,
+          "average w/o zero": 2365.375
         },
         "VA": {
-          "count": 375,
-          "sum": 1208577,
-          "average": 3222.872,
-          "average w/o zero": 3222.872
+          "count": 132,
+          "sum": 236966,
+          "average": 1795.1969696969697,
+          "average w/o zero": 1795.1969696969697
         },
         "ID": {
-          "count": 209,
-          "sum": 452617,
-          "average": 2165.6315789473683,
-          "average w/o zero": 2197.169902912621
+          "count": 44,
+          "sum": 45281,
+          "average": 1029.1136363636363,
+          "average w/o zero": 1078.1190476190477
         },
         "IA": {
-          "count": 640,
-          "sum": 1434036,
-          "average": 2240.68125,
-          "average w/o zero": 2244.18779342723
+          "count": 98,
+          "sum": 82110,
+          "average": 837.8571428571429,
+          "average w/o zero": 837.8571428571429
         },
         "KY": {
-          "count": 707,
-          "sum": 1383337,
-          "average": 1956.6294200848656,
-          "average w/o zero": 1967.7624466571835
+          "count": 120,
+          "sum": 106319,
+          "average": 885.9916666666667,
+          "average w/o zero": 885.9916666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 1541120,
-          "average": 2227.0520231213873,
-          "average w/o zero": 2233.5072463768115
+          "count": 115,
+          "sum": 163043,
+          "average": 1417.7652173913043,
+          "average w/o zero": 1417.7652173913043
         },
         "OK": {
-          "count": 279,
-          "sum": 443232,
-          "average": 1588.6451612903227,
-          "average w/o zero": 1611.7527272727273
+          "count": 77,
+          "sum": 105512,
+          "average": 1370.2857142857142,
+          "average w/o zero": 1370.2857142857142
         },
         "CO": {
-          "count": 252,
-          "sum": 589532,
-          "average": 2339.4126984126983,
-          "average w/o zero": 2367.598393574297
+          "count": 64,
+          "sum": 194768,
+          "average": 3043.25,
+          "average w/o zero": 3091.5555555555557
         },
         "IL": {
-          "count": 718,
-          "sum": 1929254,
-          "average": 2686.983286908078,
-          "average w/o zero": 2694.4888268156424
+          "count": 102,
+          "sum": 418131,
+          "average": 4099.323529411765,
+          "average w/o zero": 4099.323529411765
         },
         "IN": {
-          "count": 675,
-          "sum": 1693151,
-          "average": 2508.3718518518517,
-          "average w/o zero": 2512.093471810089
+          "count": 92,
+          "sum": 163417,
+          "average": 1776.2717391304348,
+          "average w/o zero": 1776.2717391304348
         },
         "MS": {
-          "count": 518,
-          "sum": 977596,
-          "average": 1887.2509652509652,
-          "average w/o zero": 1890.9013539651837
-        },
-        "ND": {
-          "count": 135,
-          "sum": 159473,
-          "average": 1181.2814814814815,
-          "average w/o zero": 1226.7153846153847
+          "count": 82,
+          "sum": 89418,
+          "average": 1090.4634146341464,
+          "average w/o zero": 1103.9259259259259
         },
         "NE": {
-          "count": 446,
-          "sum": 814819,
-          "average": 1826.9484304932735,
-          "average w/o zero": 1894.9279069767442
+          "count": 93,
+          "sum": 51948,
+          "average": 558.5806451612904,
+          "average w/o zero": 649.35
         },
         "OH": {
-          "count": 567,
-          "sum": 1513502,
-          "average": 2669.31569664903,
-          "average w/o zero": 2678.7646017699117
+          "count": 88,
+          "sum": 307649,
+          "average": 3496.0113636363635,
+          "average w/o zero": 3496.0113636363635
         },
         "PA": {
-          "count": 380,
-          "sum": 1092957,
-          "average": 2876.202631578947,
-          "average w/o zero": 2876.202631578947
+          "count": 67,
+          "sum": 305515,
+          "average": 4559.925373134329,
+          "average w/o zero": 4559.925373134329
         },
         "WA": {
-          "count": 195,
-          "sum": 535889,
-          "average": 2748.148717948718,
-          "average w/o zero": 2791.0885416666665
+          "count": 39,
+          "sum": 188027,
+          "average": 4821.205128205128,
+          "average w/o zero": 4948.078947368421
         },
         "WI": {
-          "count": 316,
-          "sum": 687333,
-          "average": 2175.1044303797466,
-          "average w/o zero": 2195.952076677316
+          "count": 72,
+          "sum": 134237,
+          "average": 1864.4027777777778,
+          "average w/o zero": 1890.661971830986
         },
         "VT": {
-          "count": 79,
-          "sum": 400040,
-          "average": 5063.797468354431,
-          "average w/o zero": 5063.797468354431
+          "count": 14,
+          "sum": 23436,
+          "average": 1674,
+          "average w/o zero": 1674
         },
         "MN": {
-          "count": 308,
-          "sum": 777995,
-          "average": 2525.9577922077924,
-          "average w/o zero": 2534.185667752443
+          "count": 87,
+          "sum": 158331,
+          "average": 1819.896551724138,
+          "average w/o zero": 1819.896551724138
         },
         "FL": {
-          "count": 360,
-          "sum": 1441315,
-          "average": 4003.652777777778,
-          "average w/o zero": 4014.8050139275765
-        },
-        "NC": {
-          "count": 420,
-          "sum": 1238138,
-          "average": 2947.947619047619,
-          "average w/o zero": 2947.947619047619
+          "count": 66,
+          "sum": 621407,
+          "average": 9415.257575757576,
+          "average w/o zero": 9415.257575757576
         },
         "CA": {
-          "count": 85,
-          "sum": 1568703,
-          "average": 18455.329411764706,
-          "average w/o zero": 18455.329411764706
-        },
-        "NY": {
-          "count": 323,
-          "sum": 1708874,
-          "average": 5290.631578947368,
-          "average w/o zero": 5290.631578947368
+          "count": 58,
+          "sum": 1321745,
+          "average": 22788.706896551725,
+          "average w/o zero": 22788.706896551725
         },
         "WY": {
-          "count": 79,
-          "sum": 89578,
-          "average": 1133.8987341772151,
-          "average w/o zero": 1133.8987341772151
+          "count": 23,
+          "sum": 19392,
+          "average": 843.1304347826087,
+          "average w/o zero": 843.1304347826087
         },
         "MI": {
-          "count": 227,
-          "sum": 552897,
-          "average": 2435.669603524229,
-          "average w/o zero": 2468.2901785714284
+          "count": 83,
+          "sum": 307364,
+          "average": 3703.1807228915663,
+          "average w/o zero": 3748.3414634146343
         },
         "AK": {
-          "count": 20,
-          "sum": 7662,
-          "average": 383.1,
-          "average w/o zero": 403.2631578947368
+          "count": 23,
+          "sum": 18640,
+          "average": 810.4347826086956,
+          "average w/o zero": 847.2727272727273
         },
         "MD": {
-          "count": 98,
-          "sum": 385803,
-          "average": 3936.765306122449,
-          "average w/o zero": 3977.3505154639174
+          "count": 21,
+          "sum": 170533,
+          "average": 8120.619047619048,
+          "average w/o zero": 8120.619047619048
         },
         "KS": {
-          "count": 494,
-          "sum": 951992,
-          "average": 1927.1093117408907,
-          "average w/o zero": 1950.8032786885246
+          "count": 105,
+          "sum": 77462,
+          "average": 737.7333333333333,
+          "average w/o zero": 744.8269230769231
         },
         "TN": {
-          "count": 626,
-          "sum": 1390697,
-          "average": 2221.5607028753993,
-          "average w/o zero": 2225.1152
+          "count": 95,
+          "sum": 196109,
+          "average": 2064.305263157895,
+          "average w/o zero": 2064.305263157895
         },
         "TX": {
-          "count": 700,
-          "sum": 2160937,
-          "average": 3087.052857142857,
-          "average w/o zero": 3145.468704512373
+          "count": 254,
+          "sum": 868161,
+          "average": 3417.9566929133857,
+          "average w/o zero": 3572.679012345679
         },
         "ME": {
-          "count": 121,
-          "sum": 261246,
-          "average": 2159.0578512396696,
-          "average w/o zero": 2159.0578512396696
+          "count": 16,
+          "sum": 42132,
+          "average": 2633.25,
+          "average w/o zero": 2633.25
         },
         "AZ": {
-          "count": 19,
-          "sum": 194430,
-          "average": 10233.157894736842,
-          "average w/o zero": 10233.157894736842
+          "count": 15,
+          "sum": 182575,
+          "average": 12171.666666666666,
+          "average w/o zero": 12171.666666666666
         },
         "GA": {
-          "count": 736,
-          "sum": 1928874,
-          "average": 2620.7527173913045,
-          "average w/o zero": 2638.6785225718195
+          "count": 159,
+          "sum": 377211,
+          "average": 2372.396226415094,
+          "average w/o zero": 2387.4113924050635
         },
         "AR": {
-          "count": 534,
-          "sum": 1183525,
-          "average": 2216.3389513108614,
-          "average w/o zero": 2228.860640301318
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 414690,
-          "average": 5057.195121951219,
-          "average w/o zero": 5057.195121951219
-        },
-        "SD": {
-          "count": 253,
-          "sum": 370931,
-          "average": 1466.1304347826087,
-          "average w/o zero": 1501.7449392712551
+          "count": 75,
+          "sum": 76213,
+          "average": 1016.1733333333333,
+          "average w/o zero": 1016.1733333333333
         },
         "AL": {
-          "count": 439,
-          "sum": 1069176,
-          "average": 2435.480637813212,
-          "average w/o zero": 2435.480637813212
+          "count": 67,
+          "sum": 137949,
+          "average": 2058.9402985074626,
+          "average w/o zero": 2058.9402985074626
         },
         "OR": {
-          "count": 241,
-          "sum": 574929,
-          "average": 2385.597510373444,
-          "average w/o zero": 2395.5375
-        },
-        "WV": {
-          "count": 338,
-          "sum": 547340,
-          "average": 1619.3491124260354,
-          "average w/o zero": 1624.154302670623
+          "count": 36,
+          "sum": 123286,
+          "average": 3424.6111111111113,
+          "average w/o zero": 3424.6111111111113
         },
         "MA": {
-          "count": 49,
-          "sum": 370444,
-          "average": 7560.081632653061,
-          "average w/o zero": 7560.081632653061
+          "count": 14,
+          "sum": 199391,
+          "average": 14242.214285714286,
+          "average w/o zero": 14242.214285714286
         },
         "UT": {
-          "count": 106,
-          "sum": 285418,
-          "average": 2692.622641509434,
-          "average w/o zero": 2771.0485436893205
+          "count": 29,
+          "sum": 76395,
+          "average": 2634.310344827586,
+          "average w/o zero": 2829.4444444444443
         },
         "MT": {
-          "count": 186,
-          "sum": 280842,
-          "average": 1509.9032258064517,
-          "average w/o zero": 1568.9497206703911
-        },
-        "NH": {
-          "count": 31,
-          "sum": 110473,
-          "average": 3563.6451612903224,
-          "average w/o zero": 3563.6451612903224
-        },
-        "NM": {
-          "count": 92,
-          "sum": 143938,
-          "average": 1564.5434782608695,
-          "average w/o zero": 1564.5434782608695
-        },
-        "RI": {
-          "count": 39,
-          "sum": 128980,
-          "average": 3307.1794871794873,
-          "average w/o zero": 3394.2105263157896
+          "count": 56,
+          "sum": 35450,
+          "average": 633.0357142857143,
+          "average w/o zero": 695.0980392156863
         },
         "NV": {
-          "count": 70,
-          "sum": 167210,
-          "average": 2388.714285714286,
-          "average w/o zero": 2458.970588235294
-        },
-        "DC": {
-          "count": 1,
-          "sum": 27064,
-          "average": 27064,
-          "average w/o zero": 27064
+          "count": 17,
+          "sum": 82548,
+          "average": 4855.764705882353,
+          "average w/o zero": 5159.25
         },
         "CT": {
-          "count": 14,
-          "sum": 185643,
-          "average": 13260.214285714286,
-          "average w/o zero": 13260.214285714286
+          "count": 8,
+          "sum": 106732,
+          "average": 13341.5,
+          "average w/o zero": 13341.5
         },
         "HI": {
           "count": 5,
@@ -11083,306 +8707,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 11123.5
         },
         "DE": {
-          "count": 9,
-          "sum": 50276,
-          "average": 5586.222222222223,
-          "average w/o zero": 6284.5
+          "count": 3,
+          "sum": 23996,
+          "average": 7998.666666666667,
+          "average w/o zero": 7998.666666666667
         }
       },
       "Employment.Firms.Minority-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 227221,
-          "average": 1556.3082191780823,
-          "average w/o zero": 1670.7426470588234
-        },
         "LA": {
-          "count": 63,
-          "sum": 126177,
-          "average": 2002.8095238095239,
-          "average w/o zero": 2002.8095238095239
+          "count": 64,
+          "sum": 126226,
+          "average": 1972.28125,
+          "average w/o zero": 1972.28125
         },
         "VA": {
-          "count": 375,
-          "sum": 850726,
-          "average": 2268.6026666666667,
-          "average w/o zero": 2554.7327327327325
+          "count": 132,
+          "sum": 185188,
+          "average": 1402.939393939394,
+          "average w/o zero": 1543.2333333333333
         },
         "ID": {
-          "count": 209,
-          "sum": 226186,
-          "average": 1082.2296650717703,
-          "average w/o zero": 1346.345238095238
+          "count": 44,
+          "sum": 10458,
+          "average": 237.6818181818182,
+          "average w/o zero": 337.35483870967744
         },
         "IA": {
-          "count": 640,
-          "sum": 869126,
-          "average": 1358.009375,
-          "average w/o zero": 1677.8494208494208
+          "count": 98,
+          "sum": 14294,
+          "average": 145.85714285714286,
+          "average w/o zero": 269.6981132075472
         },
         "KY": {
-          "count": 707,
-          "sum": 773904,
-          "average": 1094.6308345120226,
-          "average w/o zero": 1402
+          "count": 120,
+          "sum": 26891,
+          "average": 224.09166666666667,
+          "average w/o zero": 340.39240506329116
         },
         "MO": {
-          "count": 692,
-          "sum": 919521,
-          "average": 1328.7875722543354,
-          "average w/o zero": 1650.8456014362657
+          "count": 115,
+          "sum": 60796,
+          "average": 528.6608695652174,
+          "average w/o zero": 799.9473684210526
         },
         "OK": {
-          "count": 279,
-          "sum": 213656,
-          "average": 765.7921146953405,
-          "average w/o zero": 980.0733944954128
+          "count": 77,
+          "sum": 65031,
+          "average": 844.5584415584416,
+          "average w/o zero": 890.8356164383562
         },
         "CO": {
-          "count": 252,
-          "sum": 318482,
-          "average": 1263.8174603174602,
-          "average w/o zero": 1576.6435643564357
+          "count": 64,
+          "sum": 85926,
+          "average": 1342.59375,
+          "average w/o zero": 1684.8235294117646
         },
         "IL": {
-          "count": 718,
-          "sum": 1201471,
-          "average": 1673.357938718663,
-          "average w/o zero": 2022.6784511784513
+          "count": 102,
+          "sum": 311893,
+          "average": 3057.774509803922,
+          "average w/o zero": 3998.628205128205
         },
         "IN": {
-          "count": 675,
-          "sum": 1084921,
-          "average": 1607.2903703703703,
-          "average w/o zero": 1944.3028673835126
+          "count": 92,
+          "sum": 61325,
+          "average": 666.5760869565217,
+          "average w/o zero": 776.2658227848101
         },
         "MS": {
-          "count": 518,
-          "sum": 556156,
-          "average": 1073.6602316602316,
-          "average w/o zero": 1263.990909090909
-        },
-        "ND": {
-          "count": 135,
-          "sum": 71336,
-          "average": 528.4148148148148,
-          "average w/o zero": 891.7
+          "count": 82,
+          "sum": 74899,
+          "average": 913.4024390243902,
+          "average w/o zero": 913.4024390243902
         },
         "NE": {
-          "count": 446,
-          "sum": 377519,
-          "average": 846.4551569506726,
-          "average w/o zero": 1176.0716510903426
+          "count": 93,
+          "sum": 14218,
+          "average": 152.88172043010752,
+          "average w/o zero": 406.22857142857146
         },
         "OH": {
-          "count": 567,
-          "sum": 859708,
-          "average": 1516.2398589065256,
-          "average w/o zero": 1802.32285115304
+          "count": 88,
+          "sum": 122896,
+          "average": 1396.5454545454545,
+          "average w/o zero": 1517.2345679012346
         },
         "PA": {
-          "count": 380,
-          "sum": 633443,
-          "average": 1666.9552631578947,
-          "average w/o zero": 1925.3586626139818
+          "count": 67,
+          "sum": 131650,
+          "average": 1964.9253731343283,
+          "average w/o zero": 2158.1967213114754
         },
         "WA": {
-          "count": 195,
-          "sum": 292098,
-          "average": 1497.9384615384615,
-          "average w/o zero": 1884.5032258064516
+          "count": 39,
+          "sum": 92954,
+          "average": 2383.4358974358975,
+          "average w/o zero": 2512.2702702702704
         },
         "WI": {
-          "count": 316,
-          "sum": 329896,
-          "average": 1043.9746835443038,
-          "average w/o zero": 1324.8835341365461
+          "count": 72,
+          "sum": 40477,
+          "average": 562.1805555555555,
+          "average w/o zero": 674.6166666666667
         },
         "VT": {
-          "count": 79,
-          "sum": 323224,
-          "average": 4091.4430379746836,
-          "average w/o zero": 4552.450704225352
+          "count": 14,
+          "sum": 2347,
+          "average": 167.64285714285714,
+          "average w/o zero": 195.58333333333334
         },
         "MN": {
-          "count": 308,
-          "sum": 440822,
-          "average": 1431.2402597402597,
-          "average w/o zero": 1900.094827586207
+          "count": 87,
+          "sum": 47010,
+          "average": 540.3448275862069,
+          "average w/o zero": 796.7796610169491
         },
         "FL": {
-          "count": 360,
-          "sum": 1067801,
-          "average": 2966.113888888889,
-          "average w/o zero": 3379.1170886075947
-        },
-        "NC": {
-          "count": 420,
-          "sum": 847420,
-          "average": 2017.6666666666667,
-          "average w/o zero": 2321.698630136986
+          "count": 66,
+          "sum": 555649,
+          "average": 8418.924242424242,
+          "average w/o zero": 8418.924242424242
         },
         "CA": {
-          "count": 85,
-          "sum": 1878063,
-          "average": 22094.858823529412,
-          "average w/o zero": 23772.949367088608
-        },
-        "NY": {
-          "count": 323,
-          "sum": 1425566,
-          "average": 4413.517027863777,
-          "average w/o zero": 5019.598591549296
+          "count": 58,
+          "sum": 1622143,
+          "average": 27967.98275862069,
+          "average w/o zero": 28966.839285714286
         },
         "WY": {
-          "count": 79,
-          "sum": 24466,
-          "average": 309.69620253164555,
-          "average w/o zero": 394.61290322580646
+          "count": 23,
+          "sum": 4034,
+          "average": 175.3913043478261,
+          "average w/o zero": 201.7
         },
         "MI": {
-          "count": 227,
-          "sum": 287189,
-          "average": 1265.1497797356828,
-          "average w/o zero": 1604.4078212290503
+          "count": 83,
+          "sum": 158938,
+          "average": 1914.9156626506024,
+          "average w/o zero": 2238.56338028169
         },
         "AK": {
-          "count": 20,
-          "sum": 5626,
-          "average": 281.3,
-          "average w/o zero": 312.55555555555554
+          "count": 23,
+          "sum": 11756,
+          "average": 511.1304347826087,
+          "average w/o zero": 559.8095238095239
         },
         "MD": {
-          "count": 98,
-          "sum": 241689,
-          "average": 2466.214285714286,
-          "average w/o zero": 2778.0344827586205
+          "count": 21,
+          "sum": 142948,
+          "average": 6807.047619047619,
+          "average w/o zero": 6807.047619047619
         },
         "KS": {
-          "count": 494,
-          "sum": 484936,
-          "average": 981.6518218623481,
-          "average w/o zero": 1358.3641456582634
+          "count": 105,
+          "sum": 25805,
+          "average": 245.76190476190476,
+          "average w/o zero": 460.80357142857144
         },
         "TN": {
-          "count": 626,
-          "sum": 761961,
-          "average": 1217.1900958466454,
-          "average w/o zero": 1462.4971209213052
+          "count": 95,
+          "sum": 105295,
+          "average": 1108.3684210526317,
+          "average w/o zero": 1253.5119047619048
         },
         "TX": {
-          "count": 700,
-          "sum": 1886828,
-          "average": 2695.4685714285715,
-          "average w/o zero": 3176.4781144781145
+          "count": 254,
+          "sum": 1071628,
+          "average": 4219.007874015748,
+          "average w/o zero": 4599.261802575107
         },
         "ME": {
-          "count": 121,
-          "sum": 97872,
-          "average": 808.8595041322315,
-          "average w/o zero": 969.0297029702971
+          "count": 16,
+          "sum": 4350,
+          "average": 271.875,
+          "average w/o zero": 271.875
         },
         "AZ": {
-          "count": 19,
-          "sum": 141634,
-          "average": 7454.421052631579,
-          "average w/o zero": 7868.555555555556
+          "count": 15,
+          "sum": 135413,
+          "average": 9027.533333333333,
+          "average w/o zero": 9027.533333333333
         },
         "GA": {
-          "count": 736,
-          "sum": 1455220,
-          "average": 1977.2010869565217,
-          "average w/o zero": 2277.339593114241
+          "count": 159,
+          "sum": 372002,
+          "average": 2339.635220125786,
+          "average w/o zero": 2354.4430379746836
         },
         "AR": {
-          "count": 534,
-          "sum": 731779,
-          "average": 1370.3726591760299,
-          "average w/o zero": 1651.8713318284424
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 300397,
-          "average": 3663.378048780488,
-          "average w/o zero": 4059.4189189189187
-        },
-        "SD": {
-          "count": 253,
-          "sum": 200479,
-          "average": 792.4071146245059,
-          "average w/o zero": 1186.2662721893491
+          "count": 75,
+          "sum": 35955,
+          "average": 479.4,
+          "average w/o zero": 521.0869565217391
         },
         "AL": {
-          "count": 439,
-          "sum": 701915,
-          "average": 1598.895216400911,
-          "average w/o zero": 1832.6762402088773
+          "count": 67,
+          "sum": 92362,
+          "average": 1378.5373134328358,
+          "average w/o zero": 1378.5373134328358
         },
         "OR": {
-          "count": 241,
-          "sum": 275069,
-          "average": 1141.3651452282159,
-          "average w/o zero": 1361.7277227722773
-        },
-        "WV": {
-          "count": 338,
-          "sum": 273323,
-          "average": 808.6479289940828,
-          "average w/o zero": 1071.8549019607842
+          "count": 36,
+          "sum": 41572,
+          "average": 1154.7777777777778,
+          "average w/o zero": 1385.7333333333333
         },
         "MA": {
-          "count": 49,
-          "sum": 218368,
-          "average": 4456.489795918367,
-          "average w/o zero": 4852.622222222222
+          "count": 14,
+          "sum": 90044,
+          "average": 6431.714285714285,
+          "average w/o zero": 6431.714285714285
         },
         "UT": {
-          "count": 106,
-          "sum": 147171,
-          "average": 1388.4056603773586,
-          "average w/o zero": 1672.3977272727273
+          "count": 29,
+          "sum": 24401,
+          "average": 841.4137931034483,
+          "average w/o zero": 1060.9130434782608
         },
         "MT": {
-          "count": 186,
-          "sum": 135208,
-          "average": 726.9247311827957,
-          "average w/o zero": 1016.6015037593985
-        },
-        "NH": {
-          "count": 31,
-          "sum": 67513,
-          "average": 2177.8387096774195,
-          "average w/o zero": 2500.4814814814813
-        },
-        "NM": {
-          "count": 92,
-          "sum": 157688,
-          "average": 1714,
-          "average w/o zero": 2160.109589041096
-        },
-        "RI": {
-          "count": 39,
-          "sum": 50445,
-          "average": 1293.4615384615386,
-          "average w/o zero": 1441.2857142857142
+          "count": 56,
+          "sum": 5469,
+          "average": 97.66071428571429,
+          "average w/o zero": 176.41935483870967
         },
         "NV": {
-          "count": 70,
-          "sum": 102761,
-          "average": 1468.0142857142857,
-          "average w/o zero": 2055.22
-        },
-        "DC": {
-          "count": 1,
-          "sum": 29983,
-          "average": 29983,
-          "average w/o zero": 29983
+          "count": 17,
+          "sum": 71869,
+          "average": 4227.588235294118,
+          "average w/o zero": 5133.5
         },
         "CT": {
-          "count": 14,
-          "sum": 111018,
-          "average": 7929.857142857143,
-          "average w/o zero": 7929.857142857143
+          "count": 8,
+          "sum": 56185,
+          "average": 7023.125,
+          "average w/o zero": 7023.125
         },
         "HI": {
           "count": 5,
@@ -11391,306 +8949,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 18585.75
         },
         "DE": {
-          "count": 9,
-          "sum": 24592,
-          "average": 2732.4444444444443,
-          "average w/o zero": 3074
+          "count": 3,
+          "sum": 14445,
+          "average": 4815,
+          "average w/o zero": 4815
         }
       },
       "Employment.Firms.Nonminority-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 912063,
-          "average": 6247.006849315068,
-          "average w/o zero": 6247.006849315068
-        },
         "LA": {
-          "count": 63,
-          "sum": 280240,
-          "average": 4448.253968253968,
-          "average w/o zero": 4448.253968253968
+          "count": 64,
+          "sum": 281044,
+          "average": 4391.3125,
+          "average w/o zero": 4391.3125
         },
         "VA": {
-          "count": 375,
-          "sum": 2525884,
-          "average": 6735.690666666666,
-          "average w/o zero": 6735.690666666666
+          "count": 132,
+          "sum": 456150,
+          "average": 3455.681818181818,
+          "average w/o zero": 3455.681818181818
         },
         "ID": {
-          "count": 209,
-          "sum": 1058532,
-          "average": 5064.746411483254,
-          "average w/o zero": 5064.746411483254
+          "count": 44,
+          "sum": 132157,
+          "average": 3003.568181818182,
+          "average w/o zero": 3003.568181818182
         },
         "IA": {
-          "count": 640,
-          "sum": 3136916,
-          "average": 4901.43125,
-          "average w/o zero": 4901.43125
+          "count": 98,
+          "sum": 238556,
+          "average": 2434.2448979591836,
+          "average w/o zero": 2434.2448979591836
         },
         "KY": {
-          "count": 707,
-          "sum": 3095022,
-          "average": 4377.683168316832,
-          "average w/o zero": 4377.683168316832
+          "count": 120,
+          "sum": 299761,
+          "average": 2498.008333333333,
+          "average w/o zero": 2498.008333333333
         },
         "MO": {
-          "count": 692,
-          "sum": 3354634,
-          "average": 4847.736994219653,
-          "average w/o zero": 4847.736994219653
+          "count": 115,
+          "sum": 421271,
+          "average": 3663.2260869565216,
+          "average w/o zero": 3663.2260869565216
         },
         "OK": {
-          "count": 279,
-          "sum": 1087128,
-          "average": 3896.516129032258,
-          "average w/o zero": 3896.516129032258
+          "count": 77,
+          "sum": 251580,
+          "average": 3267.2727272727275,
+          "average w/o zero": 3267.2727272727275
         },
         "CO": {
-          "count": 252,
-          "sum": 1331601,
-          "average": 5284.130952380952,
-          "average w/o zero": 5284.130952380952
+          "count": 64,
+          "sum": 445320,
+          "average": 6958.125,
+          "average w/o zero": 6958.125
         },
         "IL": {
-          "count": 718,
-          "sum": 4096421,
-          "average": 5705.321727019498,
-          "average w/o zero": 5705.321727019498
+          "count": 102,
+          "sum": 801359,
+          "average": 7856.4607843137255,
+          "average w/o zero": 7856.4607843137255
         },
         "IN": {
-          "count": 675,
-          "sum": 3599915,
-          "average": 5333.207407407407,
-          "average w/o zero": 5333.207407407407
+          "count": 92,
+          "sum": 410316,
+          "average": 4459.95652173913,
+          "average w/o zero": 4459.95652173913
         },
         "MS": {
-          "count": 518,
-          "sum": 2169911,
-          "average": 4189.017374517374,
-          "average w/o zero": 4197.119922630561
-        },
-        "ND": {
-          "count": 135,
-          "sum": 400564,
-          "average": 2967.140740740741,
-          "average w/o zero": 2967.140740740741
+          "count": 82,
+          "sum": 157943,
+          "average": 1926.1341463414635,
+          "average w/o zero": 1949.9135802469136
         },
         "NE": {
-          "count": 446,
-          "sum": 1937302,
-          "average": 4343.726457399103,
-          "average w/o zero": 4353.487640449438
+          "count": 93,
+          "sum": 146084,
+          "average": 1570.7956989247311,
+          "average w/o zero": 1570.7956989247311
         },
         "OH": {
-          "count": 567,
-          "sum": 3380835,
-          "average": 5962.671957671958,
-          "average w/o zero": 5962.671957671958
+          "count": 88,
+          "sum": 767671,
+          "average": 8723.53409090909,
+          "average w/o zero": 8723.53409090909
         },
         "PA": {
-          "count": 380,
-          "sum": 2501290,
-          "average": 6582.3421052631575,
-          "average w/o zero": 6582.3421052631575
+          "count": 67,
+          "sum": 826149,
+          "average": 12330.58208955224,
+          "average w/o zero": 12330.58208955224
         },
         "WA": {
-          "count": 195,
-          "sum": 1199548,
-          "average": 6151.528205128205,
-          "average w/o zero": 6183.237113402062
+          "count": 39,
+          "sum": 429812,
+          "average": 11020.820512820514,
+          "average w/o zero": 11020.820512820514
         },
         "WI": {
-          "count": 316,
-          "sum": 1654810,
-          "average": 5236.7405063291135,
-          "average w/o zero": 5270.095541401274
+          "count": 72,
+          "sum": 385219,
+          "average": 5350.263888888889,
+          "average w/o zero": 5425.619718309859
         },
         "VT": {
-          "count": 79,
-          "sum": 781868,
-          "average": 9897.06329113924,
-          "average w/o zero": 9897.06329113924
+          "count": 14,
+          "sum": 70932,
+          "average": 5066.571428571428,
+          "average w/o zero": 5066.571428571428
         },
         "MN": {
-          "count": 308,
-          "sum": 1726189,
-          "average": 5604.50974025974,
-          "average w/o zero": 5604.50974025974
+          "count": 87,
+          "sum": 432667,
+          "average": 4973.183908045977,
+          "average w/o zero": 4973.183908045977
         },
         "FL": {
-          "count": 360,
-          "sum": 2874663,
-          "average": 7985.175,
-          "average w/o zero": 7985.175
-        },
-        "NC": {
-          "count": 420,
-          "sum": 2580400,
-          "average": 6143.809523809524,
-          "average w/o zero": 6143.809523809524
+          "count": 66,
+          "sum": 1047036,
+          "average": 15864.181818181818,
+          "average w/o zero": 15864.181818181818
         },
         "CA": {
-          "count": 85,
-          "sum": 2209051,
-          "average": 25988.835294117645,
-          "average w/o zero": 25988.835294117645
-        },
-        "NY": {
-          "count": 323,
-          "sum": 3217544,
-          "average": 9961.43653250774,
-          "average w/o zero": 9961.43653250774
+          "count": 58,
+          "sum": 1833210,
+          "average": 31607.068965517243,
+          "average w/o zero": 31607.068965517243
         },
         "WY": {
-          "count": 79,
-          "sum": 250752,
-          "average": 3174.0759493670885,
-          "average w/o zero": 3174.0759493670885
+          "count": 23,
+          "sum": 55967,
+          "average": 2433.3478260869565,
+          "average w/o zero": 2433.3478260869565
         },
         "MI": {
-          "count": 227,
-          "sum": 1245897,
-          "average": 5488.533039647577,
-          "average w/o zero": 5512.8185840707965
+          "count": 83,
+          "sum": 663401,
+          "average": 7992.78313253012,
+          "average w/o zero": 7992.78313253012
         },
         "AK": {
-          "count": 20,
-          "sum": 19536,
-          "average": 976.8,
-          "average w/o zero": 976.8
+          "count": 23,
+          "sum": 43011,
+          "average": 1870.0434782608695,
+          "average w/o zero": 1870.0434782608695
         },
         "MD": {
-          "count": 98,
-          "sum": 839049,
-          "average": 8561.724489795919,
-          "average w/o zero": 8561.724489795919
+          "count": 21,
+          "sum": 290978,
+          "average": 13856.095238095239,
+          "average w/o zero": 13856.095238095239
         },
         "KS": {
-          "count": 494,
-          "sum": 2229447,
-          "average": 4513.05060728745,
-          "average w/o zero": 4513.05060728745
+          "count": 105,
+          "sum": 206941,
+          "average": 1970.8666666666666,
+          "average w/o zero": 1970.8666666666666
         },
         "TN": {
-          "count": 626,
-          "sum": 3122030,
-          "average": 4987.268370607028,
-          "average w/o zero": 4987.268370607028
+          "count": 95,
+          "sum": 438730,
+          "average": 4618.210526315789,
+          "average w/o zero": 4618.210526315789
         },
         "TX": {
-          "count": 700,
-          "sum": 4014771,
-          "average": 5735.387142857143,
-          "average w/o zero": 5760.073170731707
+          "count": 254,
+          "sum": 1240469,
+          "average": 4883.736220472441,
+          "average w/o zero": 4942.107569721115
         },
         "ME": {
-          "count": 121,
-          "sum": 671493,
-          "average": 5549.528925619835,
-          "average w/o zero": 5549.528925619835
+          "count": 16,
+          "sum": 132202,
+          "average": 8262.625,
+          "average w/o zero": 8262.625
         },
         "AZ": {
-          "count": 19,
-          "sum": 370799,
-          "average": 19515.736842105263,
-          "average w/o zero": 19515.736842105263
+          "count": 15,
+          "sum": 346301,
+          "average": 23086.733333333334,
+          "average w/o zero": 23086.733333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 3720712,
-          "average": 5055.315217391304,
-          "average w/o zero": 5055.315217391304
+          "count": 159,
+          "sum": 545568,
+          "average": 3431.245283018868,
+          "average w/o zero": 3431.245283018868
         },
         "AR": {
-          "count": 534,
-          "sum": 2588763,
-          "average": 4847.8707865168535,
-          "average w/o zero": 4847.8707865168535
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 949464,
-          "average": 11578.829268292682,
-          "average w/o zero": 11578.829268292682
-        },
-        "SD": {
-          "count": 253,
-          "sum": 867029,
-          "average": 3426.99209486166,
-          "average w/o zero": 3440.59126984127
+          "count": 75,
+          "sum": 191489,
+          "average": 2553.1866666666665,
+          "average w/o zero": 2553.1866666666665
         },
         "AL": {
-          "count": 439,
-          "sum": 2211211,
-          "average": 5036.927107061503,
-          "average w/o zero": 5036.927107061503
+          "count": 67,
+          "sum": 276122,
+          "average": 4121.223880597015,
+          "average w/o zero": 4121.223880597015
         },
         "OR": {
-          "count": 241,
-          "sum": 1335440,
-          "average": 5541.244813278008,
-          "average w/o zero": 5541.244813278008
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1243393,
-          "average": 3678.6775147928993,
-          "average w/o zero": 3678.6775147928993
+          "count": 36,
+          "sum": 287764,
+          "average": 7993.444444444444,
+          "average w/o zero": 7993.444444444444
         },
         "MA": {
-          "count": 49,
-          "sum": 870551,
-          "average": 17766.34693877551,
-          "average w/o zero": 17766.34693877551
+          "count": 14,
+          "sum": 502203,
+          "average": 35871.642857142855,
+          "average w/o zero": 35871.642857142855
         },
         "UT": {
-          "count": 106,
-          "sum": 655904,
-          "average": 6187.773584905661,
-          "average w/o zero": 6187.773584905661
+          "count": 29,
+          "sum": 220073,
+          "average": 7588.724137931034,
+          "average w/o zero": 7588.724137931034
         },
         "MT": {
-          "count": 186,
-          "sum": 666973,
-          "average": 3585.8763440860216,
-          "average w/o zero": 3585.8763440860216
-        },
-        "NH": {
-          "count": 31,
-          "sum": 255487,
-          "average": 8241.516129032258,
-          "average w/o zero": 8241.516129032258
-        },
-        "NM": {
-          "count": 92,
-          "sum": 227140,
-          "average": 2468.913043478261,
-          "average w/o zero": 2468.913043478261
-        },
-        "RI": {
-          "count": 39,
-          "sum": 334949,
-          "average": 8588.435897435897,
-          "average w/o zero": 8588.435897435897
+          "count": 56,
+          "sum": 103569,
+          "average": 1849.4464285714287,
+          "average w/o zero": 1849.4464285714287
         },
         "NV": {
-          "count": 70,
-          "sum": 360248,
-          "average": 5146.4,
-          "average w/o zero": 5146.4
-        },
-        "DC": {
-          "count": 1,
-          "sum": 29521,
-          "average": 29521,
-          "average w/o zero": 29521
+          "count": 17,
+          "sum": 145461,
+          "average": 8556.529411764706,
+          "average w/o zero": 8556.529411764706
         },
         "CT": {
-          "count": 14,
-          "sum": 441237,
-          "average": 31516.928571428572,
-          "average w/o zero": 31516.928571428572
+          "count": 8,
+          "sum": 260587,
+          "average": 32573.375,
+          "average w/o zero": 32573.375
         },
         "HI": {
           "count": 5,
@@ -11699,306 +9191,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 9687.5
         },
         "DE": {
-          "count": 9,
-          "sum": 124443,
-          "average": 13827,
-          "average w/o zero": 13827
+          "count": 3,
+          "sum": 55027,
+          "average": 18342.333333333332,
+          "average w/o zero": 18342.333333333332
         }
       },
       "Employment.Firms.Veteran-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 126249,
-          "average": 864.7191780821918,
-          "average w/o zero": 882.8601398601398
-        },
         "LA": {
-          "count": 63,
-          "sum": 42577,
-          "average": 675.8253968253969,
-          "average w/o zero": 675.8253968253969
+          "count": 64,
+          "sum": 42621,
+          "average": 665.953125,
+          "average w/o zero": 665.953125
         },
         "VA": {
-          "count": 375,
-          "sum": 340561,
-          "average": 908.1626666666667,
-          "average w/o zero": 940.7762430939226
+          "count": 132,
+          "sum": 77018,
+          "average": 583.469696969697,
+          "average w/o zero": 611.2539682539683
         },
         "ID": {
-          "count": 209,
-          "sum": 132033,
-          "average": 631.7368421052631,
-          "average w/o zero": 687.671875
+          "count": 44,
+          "sum": 12856,
+          "average": 292.1818181818182,
+          "average w/o zero": 347.4594594594595
         },
         "IA": {
-          "count": 640,
-          "sum": 407958,
-          "average": 637.434375,
-          "average w/o zero": 663.3463414634147
+          "count": 98,
+          "sum": 26039,
+          "average": 265.7040816326531,
+          "average w/o zero": 277.01063829787233
         },
         "KY": {
-          "count": 707,
-          "sum": 399679,
-          "average": 565.3168316831683,
-          "average w/o zero": 603.7447129909366
+          "count": 120,
+          "sum": 33454,
+          "average": 278.78333333333336,
+          "average w/o zero": 301.3873873873874
         },
         "MO": {
-          "count": 692,
-          "sum": 436562,
-          "average": 630.8699421965318,
-          "average w/o zero": 654.5157421289356
+          "count": 115,
+          "sum": 49661,
+          "average": 431.83478260869566,
+          "average w/o zero": 447.39639639639637
         },
         "OK": {
-          "count": 279,
-          "sum": 139068,
-          "average": 498.4516129032258,
-          "average w/o zero": 545.364705882353
+          "count": 77,
+          "sum": 36477,
+          "average": 473.72727272727275,
+          "average w/o zero": 506.625
         },
         "CO": {
-          "count": 252,
-          "sum": 164843,
-          "average": 654.1388888888889,
-          "average w/o zero": 732.6355555555556
+          "count": 64,
+          "sum": 51883,
+          "average": 810.671875,
+          "average w/o zero": 997.75
         },
         "IL": {
-          "count": 718,
-          "sum": 519836,
-          "average": 724.0055710306407,
-          "average w/o zero": 752.2952243125904
+          "count": 102,
+          "sum": 89705,
+          "average": 879.4607843137255,
+          "average w/o zero": 915.3571428571429
         },
         "IN": {
-          "count": 675,
-          "sum": 463781,
-          "average": 687.0829629629629,
-          "average w/o zero": 715.7114197530864
+          "count": 92,
+          "sum": 45793,
+          "average": 497.75,
+          "average w/o zero": 503.2197802197802
         },
         "MS": {
-          "count": 518,
-          "sum": 281715,
-          "average": 543.8513513513514,
-          "average w/o zero": 567.9737903225806
-        },
-        "ND": {
-          "count": 135,
-          "sum": 47771,
-          "average": 353.85925925925926,
-          "average w/o zero": 438.26605504587155
+          "count": 82,
+          "sum": 27234,
+          "average": 332.1219512195122,
+          "average w/o zero": 336.22222222222223
         },
         "NE": {
-          "count": 446,
-          "sum": 240494,
-          "average": 539.2242152466367,
-          "average w/o zero": 607.3080808080808
+          "count": 93,
+          "sum": 16748,
+          "average": 180.08602150537635,
+          "average w/o zero": 226.32432432432432
         },
         "OH": {
-          "count": 567,
-          "sum": 430035,
-          "average": 758.4391534391534,
-          "average w/o zero": 786.1700182815357
+          "count": 88,
+          "sum": 91979,
+          "average": 1045.215909090909,
+          "average w/o zero": 1045.215909090909
         },
         "PA": {
-          "count": 380,
-          "sum": 318214,
-          "average": 837.4052631578948,
-          "average w/o zero": 864.7119565217391
+          "count": 67,
+          "sum": 98695,
+          "average": 1473.0597014925372,
+          "average w/o zero": 1473.0597014925372
         },
         "WA": {
-          "count": 195,
-          "sum": 150168,
-          "average": 770.0923076923077,
-          "average w/o zero": 873.0697674418604
+          "count": 39,
+          "sum": 49665,
+          "average": 1273.4615384615386,
+          "average w/o zero": 1342.2972972972973
         },
         "WI": {
-          "count": 316,
-          "sum": 203277,
-          "average": 643.2816455696203,
-          "average w/o zero": 686.7466216216217
+          "count": 72,
+          "sum": 40280,
+          "average": 559.4444444444445,
+          "average w/o zero": 567.3239436619718
         },
         "VT": {
-          "count": 79,
-          "sum": 96962,
-          "average": 1227.367088607595,
-          "average w/o zero": 1275.8157894736842
+          "count": 14,
+          "sum": 8284,
+          "average": 591.7142857142857,
+          "average w/o zero": 591.7142857142857
         },
         "MN": {
-          "count": 308,
-          "sum": 205057,
-          "average": 665.7694805194806,
-          "average w/o zero": 714.4843205574913
+          "count": 87,
+          "sum": 45979,
+          "average": 528.4942528735633,
+          "average w/o zero": 560.719512195122
         },
         "FL": {
-          "count": 360,
-          "sum": 385009,
-          "average": 1069.4694444444444,
-          "average w/o zero": 1119.2122093023256
-        },
-        "NC": {
-          "count": 420,
-          "sum": 343656,
-          "average": 818.2285714285714,
-          "average w/o zero": 861.2932330827068
+          "count": 66,
+          "sum": 161448,
+          "average": 2446.181818181818,
+          "average w/o zero": 2446.181818181818
         },
         "CA": {
-          "count": 85,
-          "sum": 300664,
-          "average": 3537.2235294117645,
-          "average w/o zero": 3711.901234567901
-        },
-        "NY": {
-          "count": 323,
-          "sum": 394969,
-          "average": 1222.814241486068,
-          "average w/o zero": 1257.8630573248408
+          "count": 58,
+          "sum": 254108,
+          "average": 4381.172413793103,
+          "average w/o zero": 4537.642857142857
         },
         "WY": {
-          "count": 79,
-          "sum": 28568,
-          "average": 361.62025316455697,
-          "average w/o zero": 414.0289855072464
+          "count": 23,
+          "sum": 6511,
+          "average": 283.0869565217391,
+          "average w/o zero": 310.04761904761904
         },
         "MI": {
-          "count": 227,
-          "sum": 144176,
-          "average": 635.136563876652,
-          "average w/o zero": 667.4814814814815
+          "count": 83,
+          "sum": 72451,
+          "average": 872.9036144578313,
+          "average w/o zero": 894.4567901234568
         },
         "AK": {
-          "count": 20,
-          "sum": 2959,
-          "average": 147.95,
-          "average w/o zero": 211.35714285714286
+          "count": 23,
+          "sum": 6811,
+          "average": 296.1304347826087,
+          "average w/o zero": 400.6470588235294
         },
         "MD": {
-          "count": 98,
-          "sum": 109790,
-          "average": 1120.3061224489795,
-          "average w/o zero": 1143.6458333333333
+          "count": 21,
+          "sum": 42250,
+          "average": 2011.904761904762,
+          "average w/o zero": 2011.904761904762
         },
         "KS": {
-          "count": 494,
-          "sum": 278095,
-          "average": 562.9453441295547,
-          "average w/o zero": 633.4738041002278
+          "count": 105,
+          "sum": 21500,
+          "average": 204.76190476190476,
+          "average w/o zero": 262.1951219512195
         },
         "TN": {
-          "count": 626,
-          "sum": 401775,
-          "average": 641.8130990415335,
-          "average w/o zero": 669.625
+          "count": 95,
+          "sum": 59972,
+          "average": 631.2842105263157,
+          "average w/o zero": 638
         },
         "TX": {
-          "count": 700,
-          "sum": 572495,
-          "average": 817.85,
-          "average w/o zero": 893.1279251170047
+          "count": 254,
+          "sum": 215073,
+          "average": 846.7440944881889,
+          "average w/o zero": 995.7083333333334
         },
         "ME": {
-          "count": 121,
-          "sum": 82395,
-          "average": 680.9504132231405,
-          "average w/o zero": 735.6696428571429
+          "count": 16,
+          "sum": 15794,
+          "average": 987.125,
+          "average w/o zero": 987.125
         },
         "AZ": {
-          "count": 19,
-          "sum": 49259,
-          "average": 2592.5789473684213,
-          "average w/o zero": 2736.6111111111113
+          "count": 15,
+          "sum": 46953,
+          "average": 3130.2,
+          "average w/o zero": 3130.2
         },
         "GA": {
-          "count": 736,
-          "sum": 512249,
-          "average": 695.9904891304348,
-          "average w/o zero": 728.6614509246089
+          "count": 159,
+          "sum": 97613,
+          "average": 613.9182389937107,
+          "average w/o zero": 642.1907894736842
         },
         "AR": {
-          "count": 534,
-          "sum": 339885,
-          "average": 636.4887640449438,
-          "average w/o zero": 671.7094861660079
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 108954,
-          "average": 1328.7073170731708,
-          "average w/o zero": 1361.925
-        },
-        "SD": {
-          "count": 253,
-          "sum": 107649,
-          "average": 425.4901185770751,
-          "average w/o zero": 493.802752293578
+          "count": 75,
+          "sum": 26312,
+          "average": 350.82666666666665,
+          "average w/o zero": 355.56756756756755
         },
         "AL": {
-          "count": 439,
-          "sum": 303200,
-          "average": 690.6605922551253,
-          "average w/o zero": 706.7599067599068
+          "count": 67,
+          "sum": 42363,
+          "average": 632.2835820895523,
+          "average w/o zero": 632.2835820895523
         },
         "OR": {
-          "count": 241,
-          "sum": 162907,
-          "average": 675.9626556016598,
-          "average w/o zero": 730.5246636771301
-        },
-        "WV": {
-          "count": 338,
-          "sum": 158624,
-          "average": 469.301775147929,
-          "average w/o zero": 506.7859424920128
+          "count": 36,
+          "sum": 31337,
+          "average": 870.4722222222222,
+          "average w/o zero": 921.6764705882352
         },
         "MA": {
-          "count": 49,
-          "sum": 101216,
-          "average": 2065.6326530612246,
-          "average w/o zero": 2153.531914893617
+          "count": 14,
+          "sum": 58604,
+          "average": 4186,
+          "average w/o zero": 4186
         },
         "UT": {
-          "count": 106,
-          "sum": 73535,
-          "average": 693.7264150943396,
-          "average w/o zero": 750.3571428571429
+          "count": 29,
+          "sum": 18805,
+          "average": 648.448275862069,
+          "average w/o zero": 752.2
         },
         "MT": {
-          "count": 186,
-          "sum": 83829,
-          "average": 450.69354838709677,
-          "average w/o zero": 527.2264150943396
-        },
-        "NH": {
-          "count": 31,
-          "sum": 35641,
-          "average": 1149.7096774193549,
-          "average w/o zero": 1149.7096774193549
-        },
-        "NM": {
-          "count": 92,
-          "sum": 34609,
-          "average": 376.1847826086956,
-          "average w/o zero": 443.70512820512823
-        },
-        "RI": {
-          "count": 39,
-          "sum": 39154,
-          "average": 1003.9487179487179,
-          "average w/o zero": 1058.2162162162163
+          "count": 56,
+          "sum": 11510,
+          "average": 205.53571428571428,
+          "average w/o zero": 280.7317073170732
         },
         "NV": {
-          "count": 70,
-          "sum": 47831,
-          "average": 683.3,
-          "average w/o zero": 797.1833333333333
-        },
-        "DC": {
-          "count": 1,
-          "sum": 5070,
-          "average": 5070,
-          "average w/o zero": 5070
+          "count": 17,
+          "sum": 23095,
+          "average": 1358.5294117647059,
+          "average w/o zero": 1649.642857142857
         },
         "CT": {
-          "count": 14,
-          "sum": 50825,
-          "average": 3630.3571428571427,
-          "average w/o zero": 3630.3571428571427
+          "count": 8,
+          "sum": 31123,
+          "average": 3890.375,
+          "average w/o zero": 3890.375
         },
         "HI": {
           "count": 5,
@@ -12007,306 +9433,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2802.25
         },
         "DE": {
-          "count": 9,
-          "sum": 14594,
-          "average": 1621.5555555555557,
-          "average w/o zero": 2084.8571428571427
+          "count": 3,
+          "sum": 7219,
+          "average": 2406.3333333333335,
+          "average w/o zero": 2406.3333333333335
         }
       },
       "Employment.Firms.Nonveteran-Owned": {
-        "SC": {
-          "count": 146,
-          "sum": 993123,
-          "average": 6802.212328767123,
-          "average w/o zero": 6802.212328767123
-        },
         "LA": {
-          "count": 63,
-          "sum": 356645,
-          "average": 5661.0317460317465,
-          "average w/o zero": 5661.0317460317465
+          "count": 64,
+          "sum": 357475,
+          "average": 5585.546875,
+          "average w/o zero": 5585.546875
         },
         "VA": {
-          "count": 375,
-          "sum": 2987440,
-          "average": 7966.506666666667,
-          "average w/o zero": 7966.506666666667
+          "count": 132,
+          "sum": 553984,
+          "average": 4196.848484848485,
+          "average w/o zero": 4196.848484848485
         },
         "ID": {
-          "count": 209,
-          "sum": 1127865,
-          "average": 5396.483253588517,
-          "average w/o zero": 5396.483253588517
+          "count": 44,
+          "sum": 125360,
+          "average": 2849.090909090909,
+          "average w/o zero": 2849.090909090909
         },
         "IA": {
-          "count": 640,
-          "sum": 3526221,
-          "average": 5509.7203125,
-          "average w/o zero": 5509.7203125
+          "count": 98,
+          "sum": 219532,
+          "average": 2240.122448979592,
+          "average w/o zero": 2240.122448979592
         },
         "KY": {
-          "count": 707,
-          "sum": 3398242,
-          "average": 4806.5657708628005,
-          "average w/o zero": 4806.5657708628005
+          "count": 120,
+          "sum": 285925,
+          "average": 2382.7083333333335,
+          "average w/o zero": 2382.7083333333335
         },
         "MO": {
-          "count": 692,
-          "sum": 3759422,
-          "average": 5432.690751445087,
-          "average w/o zero": 5432.690751445087
+          "count": 115,
+          "sum": 420374,
+          "average": 3655.426086956522,
+          "average w/o zero": 3655.426086956522
         },
         "OK": {
-          "count": 279,
-          "sum": 1137864,
-          "average": 4078.3655913978496,
-          "average w/o zero": 4078.3655913978496
+          "count": 77,
+          "sum": 275846,
+          "average": 3582.4155844155844,
+          "average w/o zero": 3582.4155844155844
         },
         "CO": {
-          "count": 252,
-          "sum": 1455632,
-          "average": 5776.31746031746,
-          "average w/o zero": 5776.31746031746
+          "count": 64,
+          "sum": 472293,
+          "average": 7379.578125,
+          "average w/o zero": 7379.578125
         },
         "IL": {
-          "count": 718,
-          "sum": 4693730,
-          "average": 6537.228412256268,
-          "average w/o zero": 6537.228412256268
+          "count": 102,
+          "sum": 1012619,
+          "average": 9927.637254901962,
+          "average w/o zero": 9927.637254901962
         },
         "IN": {
-          "count": 675,
-          "sum": 4145719,
-          "average": 6141.805925925926,
-          "average w/o zero": 6141.805925925926
+          "count": 92,
+          "sum": 417312,
+          "average": 4536,
+          "average w/o zero": 4536
         },
         "MS": {
-          "count": 518,
-          "sum": 2393062,
-          "average": 4619.810810810811,
-          "average w/o zero": 4619.810810810811
-        },
-        "ND": {
-          "count": 135,
-          "sum": 414773,
-          "average": 3072.392592592593,
-          "average w/o zero": 3072.392592592593
+          "count": 82,
+          "sum": 200929,
+          "average": 2450.3536585365855,
+          "average w/o zero": 2450.3536585365855
         },
         "NE": {
-          "count": 446,
-          "sum": 2026894,
-          "average": 4544.605381165919,
-          "average w/o zero": 4554.81797752809
+          "count": 93,
+          "sum": 139005,
+          "average": 1494.6774193548388,
+          "average w/o zero": 1510.9239130434783
         },
         "OH": {
-          "count": 567,
-          "sum": 3739318,
-          "average": 6594.917107583774,
-          "average w/o zero": 6594.917107583774
+          "count": 88,
+          "sum": 783732,
+          "average": 8906.045454545454,
+          "average w/o zero": 8906.045454545454
         },
         "PA": {
-          "count": 380,
-          "sum": 2766240,
-          "average": 7279.578947368421,
-          "average w/o zero": 7279.578947368421
+          "count": 67,
+          "sum": 844466,
+          "average": 12603.970149253732,
+          "average w/o zero": 12603.970149253732
         },
         "WA": {
-          "count": 195,
-          "sum": 1316088,
-          "average": 6749.169230769231,
-          "average w/o zero": 6783.958762886598
+          "count": 39,
+          "sum": 464302,
+          "average": 11905.179487179486,
+          "average w/o zero": 11905.179487179486
         },
         "WI": {
-          "count": 316,
-          "sum": 1741081,
-          "average": 5509.75,
-          "average w/o zero": 5509.75
+          "count": 72,
+          "sum": 375602,
+          "average": 5216.694444444444,
+          "average w/o zero": 5216.694444444444
         },
         "VT": {
-          "count": 79,
-          "sum": 996191,
-          "average": 12610.012658227848,
-          "average w/o zero": 12610.012658227848
+          "count": 14,
+          "sum": 63717,
+          "average": 4551.214285714285,
+          "average w/o zero": 4551.214285714285
         },
         "MN": {
-          "count": 308,
-          "sum": 1924555,
-          "average": 6248.555194805195,
-          "average w/o zero": 6248.555194805195
+          "count": 87,
+          "sum": 423132,
+          "average": 4863.586206896552,
+          "average w/o zero": 4863.586206896552
         },
         "FL": {
-          "count": 360,
-          "sum": 3502407,
-          "average": 9728.908333333333,
-          "average w/o zero": 9728.908333333333
-        },
-        "NC": {
-          "count": 420,
-          "sum": 3028251,
-          "average": 7210.121428571429,
-          "average w/o zero": 7210.121428571429
+          "count": 66,
+          "sum": 1422558,
+          "average": 21553.909090909092,
+          "average w/o zero": 21553.909090909092
         },
         "CA": {
-          "count": 85,
-          "sum": 3773438,
-          "average": 44393.388235294115,
-          "average w/o zero": 44393.388235294115
-        },
-        "NY": {
-          "count": 323,
-          "sum": 4203243,
-          "average": 13013.136222910216,
-          "average w/o zero": 13013.136222910216
+          "count": 58,
+          "sum": 3190841,
+          "average": 55014.5,
+          "average w/o zero": 55014.5
         },
         "WY": {
-          "count": 79,
-          "sum": 239955,
-          "average": 3037.4050632911394,
-          "average w/o zero": 3037.4050632911394
+          "count": 23,
+          "sum": 51844,
+          "average": 2254.086956521739,
+          "average w/o zero": 2254.086956521739
         },
         "MI": {
-          "count": 227,
-          "sum": 1364659,
-          "average": 6011.713656387666,
-          "average w/o zero": 6011.713656387666
+          "count": 83,
+          "sum": 739059,
+          "average": 8904.325301204819,
+          "average w/o zero": 8904.325301204819
         },
         "AK": {
-          "count": 20,
-          "sum": 21722,
-          "average": 1086.1,
-          "average w/o zero": 1086.1
+          "count": 23,
+          "sum": 47120,
+          "average": 2048.695652173913,
+          "average w/o zero": 2048.695652173913
         },
         "MD": {
-          "count": 98,
-          "sum": 953502,
-          "average": 9729.612244897959,
-          "average w/o zero": 9729.612244897959
+          "count": 21,
+          "sum": 387293,
+          "average": 18442.52380952381,
+          "average w/o zero": 18442.52380952381
         },
         "KS": {
-          "count": 494,
-          "sum": 2384017,
-          "average": 4825.9453441295545,
-          "average w/o zero": 4835.734279918864
+          "count": 105,
+          "sum": 205632,
+          "average": 1958.4,
+          "average w/o zero": 1958.4
         },
         "TN": {
-          "count": 626,
-          "sum": 3411051,
-          "average": 5448.963258785942,
-          "average w/o zero": 5448.963258785942
+          "count": 95,
+          "sum": 473536,
+          "average": 4984.58947368421,
+          "average w/o zero": 4984.58947368421
         },
         "TX": {
-          "count": 700,
-          "sum": 5245716,
-          "average": 7493.88,
-          "average w/o zero": 7526.134863701578
+          "count": 254,
+          "sum": 2072053,
+          "average": 8157.688976377953,
+          "average w/o zero": 8255.191235059761
         },
         "ME": {
-          "count": 121,
-          "sum": 670224,
-          "average": 5539.0413223140495,
-          "average w/o zero": 5539.0413223140495
+          "count": 16,
+          "sum": 116610,
+          "average": 7288.125,
+          "average w/o zero": 7288.125
         },
         "AZ": {
-          "count": 19,
-          "sum": 457000,
-          "average": 24052.63157894737,
-          "average w/o zero": 24052.63157894737
+          "count": 15,
+          "sum": 428766,
+          "average": 28584.4,
+          "average w/o zero": 28584.4
         },
         "GA": {
-          "count": 736,
-          "sum": 4583253,
-          "average": 6227.245923913043,
-          "average w/o zero": 6227.245923913043
+          "count": 159,
+          "sum": 806618,
+          "average": 5073.069182389937,
+          "average w/o zero": 5073.069182389937
         },
         "AR": {
-          "count": 534,
-          "sum": 2921440,
-          "average": 5470.861423220974,
-          "average w/o zero": 5470.861423220974
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 1128094,
-          "average": 13757.243902439024,
-          "average w/o zero": 13757.243902439024
-        },
-        "SD": {
-          "count": 253,
-          "sum": 938628,
-          "average": 3709.99209486166,
-          "average w/o zero": 3724.714285714286
+          "count": 75,
+          "sum": 195044,
+          "average": 2600.5866666666666,
+          "average w/o zero": 2600.5866666666666
         },
         "AL": {
-          "count": 439,
-          "sum": 2559356,
-          "average": 5829.968109339407,
-          "average w/o zero": 5829.968109339407
+          "count": 67,
+          "sum": 320119,
+          "average": 4777.895522388059,
+          "average w/o zero": 4777.895522388059
         },
         "OR": {
-          "count": 241,
-          "sum": 1416696,
-          "average": 5878.406639004149,
-          "average w/o zero": 5878.406639004149
-        },
-        "WV": {
-          "count": 338,
-          "sum": 1329410,
-          "average": 3933.165680473373,
-          "average w/o zero": 3933.165680473373
+          "count": 36,
+          "sum": 291200,
+          "average": 8088.888888888889,
+          "average w/o zero": 8088.888888888889
         },
         "MA": {
-          "count": 49,
-          "sum": 975945,
-          "average": 19917.244897959183,
-          "average w/o zero": 19917.244897959183
+          "count": 14,
+          "sum": 527682,
+          "average": 37691.57142857143,
+          "average w/o zero": 37691.57142857143
         },
         "UT": {
-          "count": 106,
-          "sum": 715771,
-          "average": 6752.556603773585,
-          "average w/o zero": 6752.556603773585
+          "count": 29,
+          "sum": 220948,
+          "average": 7618.896551724138,
+          "average w/o zero": 7618.896551724138
         },
         "MT": {
-          "count": 186,
-          "sum": 702124,
-          "average": 3774.8602150537636,
-          "average w/o zero": 3774.8602150537636
-        },
-        "NH": {
-          "count": 31,
-          "sum": 282284,
-          "average": 9105.935483870968,
-          "average w/o zero": 9105.935483870968
-        },
-        "NM": {
-          "count": 92,
-          "sum": 345031,
-          "average": 3750.336956521739,
-          "average w/o zero": 3750.336956521739
-        },
-        "RI": {
-          "count": 39,
-          "sum": 337874,
-          "average": 8663.435897435897,
-          "average w/o zero": 8663.435897435897
+          "count": 56,
+          "sum": 94070,
+          "average": 1679.8214285714287,
+          "average w/o zero": 1679.8214285714287
         },
         "NV": {
-          "count": 70,
-          "sum": 407152,
-          "average": 5816.457142857143,
-          "average w/o zero": 5816.457142857143
-        },
-        "DC": {
-          "count": 1,
-          "sum": 54217,
-          "average": 54217,
-          "average w/o zero": 54217
+          "count": 17,
+          "sum": 191771,
+          "average": 11280.64705882353,
+          "average w/o zero": 11280.64705882353
         },
         "CT": {
-          "count": 14,
-          "sum": 495812,
-          "average": 35415.142857142855,
-          "average w/o zero": 35415.142857142855
+          "count": 8,
+          "sum": 282119,
+          "average": 35264.875,
+          "average w/o zero": 35264.875
         },
         "HI": {
           "count": 5,
@@ -12315,306 +9675,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 25410.25
         },
         "DE": {
-          "count": 9,
-          "sum": 131628,
-          "average": 14625.333333333334,
-          "average w/o zero": 14625.333333333334
+          "count": 3,
+          "sum": 60546,
+          "average": 20182,
+          "average w/o zero": 20182
         }
       },
       "Population.Population per Square Mile": {
-        "SC": {
-          "count": 146,
-          "sum": 27334.899999999987,
-          "average": 187.2253424657534,
-          "average w/o zero": 187.2253424657534
-        },
         "LA": {
-          "count": 63,
-          "sum": 9979.499999999996,
-          "average": 158.4047619047619,
-          "average w/o zero": 158.4047619047619
+          "count": 64,
+          "sum": 10003.299999999996,
+          "average": 156.3015625,
+          "average w/o zero": 156.3015625
         },
         "VA": {
-          "count": 375,
-          "sum": 178888.0999999999,
-          "average": 477.03493333333336,
-          "average w/o zero": 477.03493333333336
+          "count": 132,
+          "sum": 111752.2,
+          "average": 846.6075757575758,
+          "average w/o zero": 846.6075757575758
         },
         "ID": {
-          "count": 209,
-          "sum": 21546.500000000015,
-          "average": 103.0933014354067,
-          "average w/o zero": 103.0933014354067
+          "count": 44,
+          "sum": 1537.6999999999996,
+          "average": 34.94772727272727,
+          "average w/o zero": 34.94772727272727
         },
         "IA": {
-          "count": 640,
-          "sum": 95975.10000000008,
-          "average": 149.96109375,
-          "average w/o zero": 149.96109375
+          "count": 98,
+          "sum": 5244.400000000002,
+          "average": 53.51428571428571,
+          "average w/o zero": 53.51428571428571
         },
         "KY": {
-          "count": 707,
-          "sum": 93095.39999999997,
-          "average": 131.67666195190947,
-          "average w/o zero": 131.67666195190947
+          "count": 120,
+          "sum": 14076.799999999997,
+          "average": 117.30666666666667,
+          "average w/o zero": 117.30666666666667
         },
         "MO": {
-          "count": 692,
-          "sum": 97536.49999999999,
-          "average": 140.94869942196533,
-          "average w/o zero": 140.94869942196533
+          "count": 115,
+          "sum": 15152.000000000002,
+          "average": 131.75652173913045,
+          "average w/o zero": 131.75652173913045
         },
         "OK": {
-          "count": 279,
-          "sum": 28650.40000000001,
-          "average": 102.68960573476703,
-          "average w/o zero": 102.68960573476703
+          "count": 77,
+          "sum": 5270.2,
+          "average": 68.44415584415584,
+          "average w/o zero": 68.44415584415584
         },
         "CO": {
-          "count": 252,
-          "sum": 33410.90000000001,
-          "average": 132.5829365079365,
-          "average w/o zero": 132.5829365079365
+          "count": 64,
+          "sum": 9337.599999999999,
+          "average": 145.9,
+          "average w/o zero": 145.9
         },
         "IL": {
-          "count": 718,
-          "sum": 116938.00000000007,
-          "average": 162.86629526462394,
-          "average w/o zero": 162.86629526462394
+          "count": 102,
+          "sum": 20014.39999999999,
+          "average": 196.21960784313725,
+          "average w/o zero": 196.21960784313725
         },
         "IN": {
-          "count": 675,
-          "sum": 109587.50000000007,
-          "average": 162.35185185185185,
-          "average w/o zero": 162.35185185185185
+          "count": 92,
+          "sum": 16348.000000000004,
+          "average": 177.69565217391303,
+          "average w/o zero": 177.69565217391303
         },
         "MS": {
-          "count": 518,
-          "sum": 65662.19999999998,
-          "average": 126.76100386100386,
-          "average w/o zero": 126.76100386100386
-        },
-        "ND": {
-          "count": 135,
-          "sum": 11892.499999999998,
-          "average": 88.0925925925926,
-          "average w/o zero": 88.0925925925926
+          "count": 82,
+          "sum": 5103.4,
+          "average": 62.23658536585366,
+          "average w/o zero": 62.23658536585366
         },
         "NE": {
-          "count": 446,
-          "sum": 49864.79999999999,
-          "average": 111.80448430493273,
-          "average w/o zero": 111.80448430493273
+          "count": 93,
+          "sum": 3936.6,
+          "average": 42.329032258064515,
+          "average w/o zero": 42.329032258064515
         },
         "OH": {
-          "count": 567,
-          "sum": 101298.10000000005,
-          "average": 178.65626102292768,
-          "average w/o zero": 178.65626102292768
+          "count": 88,
+          "sum": 25645.99999999999,
+          "average": 291.4318181818182,
+          "average w/o zero": 291.4318181818182
         },
         "PA": {
-          "count": 380,
-          "sum": 84591.50000000004,
-          "average": 222.6092105263158,
-          "average w/o zero": 222.6092105263158
+          "count": 67,
+          "sum": 31310.800000000007,
+          "average": 467.32537313432834,
+          "average w/o zero": 467.32537313432834
         },
         "WA": {
-          "count": 195,
-          "sum": 22880.600000000006,
-          "average": 117.33641025641026,
-          "average w/o zero": 117.33641025641026
+          "count": 39,
+          "sum": 5106.4000000000015,
+          "average": 130.93333333333334,
+          "average w/o zero": 130.93333333333334
         },
         "WI": {
-          "count": 316,
-          "sum": 40857.69999999996,
-          "average": 129.29651898734178,
-          "average w/o zero": 129.29651898734178
+          "count": 72,
+          "sum": 11858.700000000004,
+          "average": 164.70416666666668,
+          "average w/o zero": 164.70416666666668
         },
         "VT": {
-          "count": 79,
-          "sum": 23288.3,
-          "average": 294.7886075949367,
-          "average w/o zero": 294.7886075949367
+          "count": 14,
+          "sum": 1015.5999999999999,
+          "average": 72.54285714285714,
+          "average w/o zero": 72.54285714285714
         },
         "MN": {
-          "count": 308,
-          "sum": 42371.10000000001,
-          "average": 137.5685064935065,
-          "average w/o zero": 137.5685064935065
+          "count": 87,
+          "sum": 11366.8,
+          "average": 130.65287356321838,
+          "average w/o zero": 130.65287356321838
         },
         "FL": {
-          "count": 360,
-          "sum": 77249.90000000002,
-          "average": 214.58305555555555,
-          "average w/o zero": 214.58305555555555
-        },
-        "NC": {
-          "count": 420,
-          "sum": 84120.80000000003,
-          "average": 200.28761904761905,
-          "average w/o zero": 200.28761904761905
+          "count": 66,
+          "sum": 21345.700000000004,
+          "average": 323.419696969697,
+          "average w/o zero": 323.419696969697
         },
         "CA": {
-          "count": 85,
-          "sum": 80483.79999999996,
-          "average": 946.8682352941177,
-          "average w/o zero": 946.8682352941177
-        },
-        "NY": {
-          "count": 323,
-          "sum": 258882.90000000002,
-          "average": 801.4950464396285,
-          "average w/o zero": 801.4950464396285
+          "count": 58,
+          "sum": 38468.59999999999,
+          "average": 663.251724137931,
+          "average w/o zero": 663.251724137931
         },
         "WY": {
-          "count": 79,
-          "sum": 5394.4,
-          "average": 68.28354430379747,
-          "average w/o zero": 68.28354430379747
+          "count": 23,
+          "sum": 146.4,
+          "average": 6.3652173913043475,
+          "average w/o zero": 6.3652173913043475
         },
         "MI": {
-          "count": 227,
-          "sum": 32074.300000000003,
-          "average": 141.2964757709251,
-          "average w/o zero": 141.2964757709251
+          "count": 83,
+          "sum": 15700.199999999999,
+          "average": 189.15903614457832,
+          "average w/o zero": 189.15903614457832
         },
         "AK": {
-          "count": 20,
-          "sum": 32.60000000000001,
-          "average": 1.6300000000000001,
-          "average w/o zero": 1.6300000000000001
+          "count": 23,
+          "sum": 218.49999999999997,
+          "average": 9.5,
+          "average w/o zero": 9.5
         },
         "MD": {
-          "count": 98,
-          "sum": 31142.3,
-          "average": 317.7785714285714,
-          "average w/o zero": 317.7785714285714
+          "count": 21,
+          "sum": 17130.899999999998,
+          "average": 815.7571428571429,
+          "average w/o zero": 815.7571428571429
         },
         "KS": {
-          "count": 494,
-          "sum": 57535.1,
-          "average": 116.46781376518219,
-          "average w/o zero": 116.46781376518219
+          "count": 105,
+          "sum": 5174.800000000001,
+          "average": 49.28380952380952,
+          "average w/o zero": 49.28380952380952
         },
         "TN": {
-          "count": 626,
-          "sum": 94026.1999999999,
-          "average": 150.20159744408946,
-          "average w/o zero": 150.20159744408946
+          "count": 95,
+          "sum": 13271.300000000001,
+          "average": 139.6978947368421,
+          "average w/o zero": 139.6978947368421
         },
         "TX": {
-          "count": 700,
-          "sum": 98701.09999999999,
-          "average": 141.00157142857142,
-          "average w/o zero": 141.00157142857142
+          "count": 254,
+          "sum": 26618.90000000001,
+          "average": 104.7988188976378,
+          "average w/o zero": 104.7988188976378
         },
         "ME": {
-          "count": 121,
-          "sum": 16660.100000000006,
-          "average": 137.68677685950414,
-          "average w/o zero": 137.68677685950414
+          "count": 16,
+          "sum": 1450.6,
+          "average": 90.6625,
+          "average w/o zero": 90.6625
         },
         "AZ": {
-          "count": 19,
-          "sum": 1407.4999999999998,
-          "average": 74.07894736842105,
-          "average w/o zero": 74.07894736842105
+          "count": 15,
+          "sum": 780.6999999999999,
+          "average": 52.04666666666667,
+          "average w/o zero": 52.04666666666667
         },
         "GA": {
-          "count": 736,
-          "sum": 124312.10000000012,
-          "average": 168.90230978260868,
-          "average w/o zero": 168.90230978260868
+          "count": 159,
+          "sum": 30779.1,
+          "average": 193.57924528301888,
+          "average w/o zero": 193.57924528301888
         },
         "AR": {
-          "count": 534,
-          "sum": 71187.3,
-          "average": 133.30955056179775,
-          "average w/o zero": 133.30955056179775
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 55903.80000000001,
-          "average": 681.7536585365854,
-          "average w/o zero": 681.7536585365854
-        },
-        "SD": {
-          "count": 253,
-          "sum": 25759.8,
-          "average": 101.81739130434782,
-          "average w/o zero": 101.81739130434782
+          "count": 75,
+          "sum": 4076.4000000000005,
+          "average": 54.352000000000004,
+          "average w/o zero": 54.352000000000004
         },
         "AL": {
-          "count": 439,
-          "sum": 63394.799999999974,
-          "average": 144.40728929384966,
-          "average w/o zero": 144.40728929384966
+          "count": 67,
+          "sum": 6043.9,
+          "average": 90.20746268656717,
+          "average w/o zero": 90.20746268656717
         },
         "OR": {
-          "count": 241,
-          "sum": 37116.399999999994,
-          "average": 154.00995850622408,
-          "average w/o zero": 154.00995850622408
-        },
-        "WV": {
-          "count": 338,
-          "sum": 38355.09999999999,
-          "average": 113.47662721893491,
-          "average w/o zero": 113.47662721893491
+          "count": 36,
+          "sum": 3983.1,
+          "average": 110.64166666666667,
+          "average w/o zero": 110.64166666666667
         },
         "MA": {
-          "count": 49,
-          "sum": 38951.200000000004,
-          "average": 794.9224489795919,
-          "average w/o zero": 794.9224489795919
+          "count": 14,
+          "sum": 21956.0,
+          "average": 1568.2857142857142,
+          "average w/o zero": 1568.2857142857142
         },
         "UT": {
-          "count": 106,
-          "sum": 15807.0,
-          "average": 149.12264150943395,
-          "average w/o zero": 149.12264150943395
+          "count": 29,
+          "sum": 3391.7000000000007,
+          "average": 116.9551724137931,
+          "average w/o zero": 116.9551724137931
         },
         "MT": {
-          "count": 186,
-          "sum": 15230.100000000004,
-          "average": 81.88225806451612,
-          "average w/o zero": 81.88225806451612
-        },
-        "NH": {
-          "count": 31,
-          "sum": 4929.8,
-          "average": 159.0258064516129,
-          "average w/o zero": 159.0258064516129
-        },
-        "NM": {
-          "count": 92,
-          "sum": 9741.1,
-          "average": 105.88152173913043,
-          "average w/o zero": 105.88152173913043
-        },
-        "RI": {
-          "count": 39,
-          "sum": 11707.800000000001,
-          "average": 300.2,
-          "average w/o zero": 300.2
+          "count": 56,
+          "sum": 411.70000000000016,
+          "average": 7.351785714285715,
+          "average w/o zero": 7.351785714285715
         },
         "NV": {
-          "count": 70,
-          "sum": 6675.5,
-          "average": 95.36428571428571,
-          "average w/o zero": 95.36428571428571
-        },
-        "DC": {
-          "count": 1,
-          "sum": 9856.6,
-          "average": 9856.6,
-          "average w/o zero": 9856.6
+          "count": 17,
+          "sum": 821.5000000000001,
+          "average": 48.32352941176471,
+          "average w/o zero": 48.32352941176471
         },
         "CT": {
-          "count": 14,
-          "sum": 10705.300000000003,
-          "average": 764.6642857142857,
-          "average w/o zero": 764.6642857142857
+          "count": 8,
+          "sum": 5780.299999999999,
+          "average": 722.5375,
+          "average w/o zero": 722.5375
         },
         "HI": {
           "count": 5,
@@ -12623,306 +9917,240 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 376.32
         },
         "DE": {
-          "count": 9,
-          "sum": 3834.2,
-          "average": 426.02222222222224,
-          "average w/o zero": 426.02222222222224
+          "count": 3,
+          "sum": 1750.6999999999998,
+          "average": 583.5666666666667,
+          "average w/o zero": 583.5666666666667
         }
       },
       "Miscellaneous.Land Area": {
-        "SC": {
-          "count": 146,
-          "sum": 92239.56000000001,
-          "average": 631.777808219178,
-          "average w/o zero": 631.777808219178
-        },
         "LA": {
-          "count": 63,
-          "sum": 42579.25,
-          "average": 675.8611111111111,
-          "average w/o zero": 675.8611111111111
+          "count": 64,
+          "sum": 43203.93,
+          "average": 675.06140625,
+          "average w/o zero": 675.06140625
         },
         "VA": {
-          "count": 375,
-          "sum": 192647.87,
-          "average": 513.7276533333334,
-          "average w/o zero": 513.7276533333334
+          "count": 132,
+          "sum": 39475.84,
+          "average": 299.05939393939394,
+          "average w/o zero": 299.05939393939394
         },
         "ID": {
-          "count": 209,
-          "sum": 266443.35,
-          "average": 1274.8485645933015,
-          "average w/o zero": 1274.8485645933015
+          "count": 44,
+          "sum": 82643.19000000002,
+          "average": 1878.2543181818182,
+          "average w/o zero": 1878.2543181818182
         },
         "IA": {
-          "count": 640,
-          "sum": 429372.98999999993,
-          "average": 670.895296875,
-          "average w/o zero": 670.895296875
+          "count": 98,
+          "sum": 55284.150000000016,
+          "average": 564.1239795918367,
+          "average w/o zero": 564.1239795918367
         },
         "KY": {
-          "count": 707,
-          "sum": 475513.6799999997,
-          "average": 672.5794625176803,
-          "average w/o zero": 672.5794625176803
+          "count": 120,
+          "sum": 39486.38,
+          "average": 329.05316666666664,
+          "average w/o zero": 329.05316666666664
         },
         "MO": {
-          "count": 692,
-          "sum": 487196.9200000001,
-          "average": 704.0417919075145,
-          "average w/o zero": 704.0417919075145
+          "count": 115,
+          "sum": 68741.54000000001,
+          "average": 597.7525217391304,
+          "average w/o zero": 597.7525217391304
         },
         "OK": {
-          "count": 279,
-          "sum": 276478.00000000006,
-          "average": 990.9605734767025,
-          "average w/o zero": 990.9605734767025
+          "count": 77,
+          "sum": 68594.98999999996,
+          "average": 890.844025974026,
+          "average w/o zero": 890.844025974026
         },
         "CO": {
-          "count": 252,
-          "sum": 350912.38999999996,
-          "average": 1392.509484126984,
-          "average w/o zero": 1392.509484126984
+          "count": 64,
+          "sum": 103641.92999999998,
+          "average": 1619.40515625,
+          "average w/o zero": 1619.40515625
         },
         "IL": {
-          "count": 718,
-          "sum": 477522.5600000002,
-          "average": 665.0732033426184,
-          "average w/o zero": 665.0732033426184
+          "count": 102,
+          "sum": 55519.02000000002,
+          "average": 544.3041176470588,
+          "average w/o zero": 544.3041176470588
         },
         "IN": {
-          "count": 675,
-          "sum": 434787.3,
-          "average": 644.1293333333333,
-          "average w/o zero": 644.1293333333333
+          "count": 92,
+          "sum": 35826.159999999996,
+          "average": 389.41478260869565,
+          "average w/o zero": 389.41478260869565
         },
         "MS": {
-          "count": 518,
-          "sum": 349054.2699999997,
-          "average": 673.8499420849421,
-          "average w/o zero": 673.8499420849421
-        },
-        "ND": {
-          "count": 135,
-          "sum": 137580.51000000007,
-          "average": 1019.1148888888889,
-          "average w/o zero": 1019.1148888888889
+          "count": 82,
+          "sum": 46923.29,
+          "average": 572.235243902439,
+          "average w/o zero": 572.235243902439
         },
         "NE": {
-          "count": 446,
-          "sum": 408236.3100000001,
-          "average": 915.3280493273543,
-          "average w/o zero": 915.3280493273543
+          "count": 93,
+          "sum": 76824.21999999999,
+          "average": 826.0668817204302,
+          "average w/o zero": 826.0668817204302
         },
         "OH": {
-          "count": 567,
-          "sum": 377452.1699999998,
-          "average": 665.7004761904761,
-          "average w/o zero": 665.7004761904761
+          "count": 88,
+          "sum": 40860.73,
+          "average": 464.3264772727273,
+          "average w/o zero": 464.3264772727273
         },
         "PA": {
-          "count": 380,
-          "sum": 258005.90999999995,
-          "average": 678.9629210526316,
-          "average w/o zero": 678.9629210526316
+          "count": 67,
+          "sum": 44742.71000000001,
+          "average": 667.8016417910447,
+          "average w/o zero": 667.8016417910447
         },
         "WA": {
-          "count": 195,
-          "sum": 232707.16999999995,
-          "average": 1193.3701025641026,
-          "average w/o zero": 1193.3701025641026
+          "count": 39,
+          "sum": 66455.54999999997,
+          "average": 1703.9884615384615,
+          "average w/o zero": 1703.9884615384615
         },
         "WI": {
-          "count": 316,
-          "sum": 280763.7999999998,
-          "average": 888.4930379746836,
-          "average w/o zero": 888.4930379746836
+          "count": 72,
+          "sum": 54157.86999999999,
+          "average": 752.1926388888888,
+          "average w/o zero": 752.1926388888888
         },
         "VT": {
-          "count": 79,
-          "sum": 56136.359999999986,
-          "average": 710.586835443038,
-          "average w/o zero": 710.586835443038
+          "count": 14,
+          "sum": 9216.669999999998,
+          "average": 658.3335714285714,
+          "average w/o zero": 658.3335714285714
         },
         "MN": {
-          "count": 308,
-          "sum": 282683.8199999999,
-          "average": 917.8046103896104,
-          "average w/o zero": 917.8046103896104
+          "count": 87,
+          "sum": 79626.79000000001,
+          "average": 915.250459770115,
+          "average w/o zero": 915.250459770115
         },
         "FL": {
-          "count": 360,
-          "sum": 258544.80000000008,
-          "average": 718.18,
-          "average w/o zero": 718.18
-        },
-        "NC": {
-          "count": 420,
-          "sum": 285847.54999999976,
-          "average": 680.5894047619048,
-          "average w/o zero": 680.5894047619048
+          "count": 66,
+          "sum": 51727.06,
+          "average": 783.7433333333333,
+          "average w/o zero": 783.7433333333333
         },
         "CA": {
-          "count": 85,
-          "sum": 196527.25000000003,
-          "average": 2312.085294117647,
-          "average w/o zero": 2312.085294117647
-        },
-        "NY": {
-          "count": 323,
-          "sum": 213825.62,
-          "average": 661.9988235294118,
-          "average w/o zero": 661.9988235294118
+          "count": 58,
+          "sum": 155779.21000000002,
+          "average": 2685.848448275862,
+          "average w/o zero": 2685.848448275862
         },
         "WY": {
-          "count": 79,
-          "sum": 171735.45999999996,
-          "average": 2173.866582278481,
-          "average w/o zero": 2173.866582278481
+          "count": 23,
+          "sum": 97093.13999999998,
+          "average": 4221.440869565217,
+          "average w/o zero": 4221.440869565217
         },
         "MI": {
-          "count": 227,
-          "sum": 163361.52000000014,
-          "average": 719.6542731277533,
-          "average w/o zero": 719.6542731277533
+          "count": 83,
+          "sum": 56538.92000000001,
+          "average": 681.1918072289156,
+          "average w/o zero": 681.1918072289156
         },
         "AK": {
-          "count": 20,
-          "sum": 330482.2,
-          "average": 16524.11,
-          "average w/o zero": 16524.11
+          "count": 23,
+          "sum": 337759.15,
+          "average": 14685.18043478261,
+          "average w/o zero": 14685.18043478261
         },
         "MD": {
-          "count": 98,
-          "sum": 63514.97999999999,
-          "average": 648.1120408163265,
-          "average w/o zero": 648.1120408163265
+          "count": 21,
+          "sum": 8495.449999999999,
+          "average": 404.5452380952381,
+          "average w/o zero": 404.5452380952381
         },
         "KS": {
-          "count": 494,
-          "sum": 415116.7499999999,
-          "average": 840.3173076923077,
-          "average w/o zero": 840.3173076923077
+          "count": 105,
+          "sum": 81758.76000000001,
+          "average": 778.6548571428572,
+          "average w/o zero": 778.6548571428572
         },
         "TN": {
-          "count": 626,
-          "sum": 427559.5399999995,
-          "average": 683.0024600638977,
-          "average w/o zero": 683.0024600638977
+          "count": 95,
+          "sum": 41235.00000000001,
+          "average": 434.0526315789474,
+          "average w/o zero": 434.0526315789474
         },
         "TX": {
-          "count": 700,
-          "sum": 556246.6,
-          "average": 794.638,
-          "average w/o zero": 794.638
+          "count": 254,
+          "sum": 261231.80000000008,
+          "average": 1028.4716535433072,
+          "average w/o zero": 1028.4716535433072
         },
         "ME": {
-          "count": 121,
-          "sum": 123373.79999999997,
-          "average": 1019.6181818181818,
-          "average w/o zero": 1019.6181818181818
+          "count": 16,
+          "sum": 30842.92,
+          "average": 1927.6825000000001,
+          "average w/o zero": 1927.6825000000001
         },
         "AZ": {
-          "count": 19,
-          "sum": 117594.26999999999,
-          "average": 6189.172105263158,
-          "average w/o zero": 6189.172105263158
+          "count": 15,
+          "sum": 113594.08999999998,
+          "average": 7572.939333333334,
+          "average w/o zero": 7572.939333333334
         },
         "GA": {
-          "count": 736,
-          "sum": 476437.24999999977,
-          "average": 647.3332201086956,
-          "average w/o zero": 647.3332201086956
+          "count": 159,
+          "sum": 57513.539999999986,
+          "average": 361.72037735849057,
+          "average w/o zero": 361.72037735849057
         },
         "AR": {
-          "count": 534,
-          "sum": 388402.81999999995,
-          "average": 727.3461048689138,
-          "average w/o zero": 727.3461048689138
-        },
-        "NJ": {
-          "count": 82,
-          "sum": 47168.32000000001,
-          "average": 575.2234146341464,
-          "average w/o zero": 575.2234146341464
-        },
-        "SD": {
-          "count": 253,
-          "sum": 268491.48,
-          "average": 1061.2311462450593,
-          "average w/o zero": 1061.2311462450593
+          "count": 75,
+          "sum": 52035.48000000001,
+          "average": 693.8064,
+          "average w/o zero": 693.8064
         },
         "AL": {
-          "count": 439,
-          "sum": 280019.80000000016,
-          "average": 637.8583143507973,
-          "average w/o zero": 637.8583143507973
+          "count": 67,
+          "sum": 50645.39000000001,
+          "average": 755.9013432835822,
+          "average w/o zero": 755.9013432835822
         },
         "OR": {
-          "count": 241,
-          "sum": 273276.0099999999,
-          "average": 1133.9253526970954,
-          "average w/o zero": 1133.9253526970954
-        },
-        "WV": {
-          "count": 338,
-          "sum": 242614.82,
-          "average": 717.795325443787,
-          "average w/o zero": 717.795325443787
+          "count": 36,
+          "sum": 95988.05,
+          "average": 2666.3347222222224,
+          "average w/o zero": 2666.3347222222224
         },
         "MA": {
-          "count": 49,
-          "sum": 29804.090000000004,
-          "average": 608.2467346938776,
-          "average w/o zero": 608.2467346938776
+          "count": 14,
+          "sum": 7800.08,
+          "average": 557.1485714285715,
+          "average w/o zero": 557.1485714285715
         },
         "UT": {
-          "count": 106,
-          "sum": 154792.26000000004,
-          "average": 1460.3043396226415,
-          "average w/o zero": 1460.3043396226415
+          "count": 29,
+          "sum": 82169.62,
+          "average": 2833.435172413793,
+          "average w/o zero": 2833.435172413793
         },
         "MT": {
-          "count": 186,
-          "sum": 311549.4300000002,
-          "average": 1674.9969354838709,
-          "average w/o zero": 1674.9969354838709
-        },
-        "NH": {
-          "count": 31,
-          "sum": 21793.45,
-          "average": 703.0145161290322,
-          "average w/o zero": 703.0145161290322
-        },
-        "NM": {
-          "count": 92,
-          "sum": 185213.55999999994,
-          "average": 2013.1908695652173,
-          "average w/o zero": 2013.1908695652173
-        },
-        "RI": {
-          "count": 39,
-          "sum": 28414.180000000004,
-          "average": 728.5687179487179,
-          "average w/o zero": 728.5687179487179
+          "count": 56,
+          "sum": 145545.84000000003,
+          "average": 2599.032857142857,
+          "average w/o zero": 2599.032857142857
         },
         "NV": {
-          "count": 70,
-          "sum": 169181.77,
-          "average": 2416.8824285714286,
-          "average w/o zero": 2416.8824285714286
-        },
-        "DC": {
-          "count": 1,
-          "sum": 61.05,
-          "average": 61.05,
-          "average w/o zero": 61.05
+          "count": 17,
+          "sum": 109781.17999999998,
+          "average": 6457.716470588235,
+          "average w/o zero": 6457.716470588235
         },
         "CT": {
-          "count": 14,
-          "sum": 8075.4,
-          "average": 576.8142857142857,
-          "average w/o zero": 576.8142857142857
+          "count": 8,
+          "sum": 4842.360000000001,
+          "average": 605.295,
+          "average w/o zero": 605.295
         },
         "HI": {
           "count": 5,
@@ -12931,16 +10159,15 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1284.526
         },
         "DE": {
-          "count": 9,
-          "sum": 5152.8,
-          "average": 572.5333333333333,
-          "average w/o zero": 572.5333333333333
+          "count": 3,
+          "sum": 1948.5500000000002,
+          "average": 649.5166666666667,
+          "average w/o zero": 649.5166666666667
         }
       }
     },
     "name": "State",
     "indexes": [
-      "SC",
       "LA",
       "VA",
       "ID",
@@ -12952,7 +10179,6 @@ VISUALIZER_DATA_BARS = [
       "IL",
       "IN",
       "MS",
-      "ND",
       "NE",
       "OH",
       "PA",
@@ -12961,9 +10187,7 @@ VISUALIZER_DATA_BARS = [
       "VT",
       "MN",
       "FL",
-      "NC",
       "CA",
-      "NY",
       "WY",
       "MI",
       "AK",
@@ -12975,34 +10199,27 @@ VISUALIZER_DATA_BARS = [
       "AZ",
       "GA",
       "AR",
-      "NJ",
-      "SD",
       "AL",
       "OR",
-      "WV",
       "MA",
       "UT",
       "MT",
-      "NH",
-      "NM",
-      "RI",
       "NV",
-      "DC",
       "CT",
       "HI",
       "DE"
     ],
     "best_indexes": [
-      "GA",
-      "IL",
-      "KY",
       "TX",
+      "GA",
+      "VA",
+      "KY",
       "MO",
-      "IN",
+      "KS",
+      "IL",
       "IA",
       "TN",
-      "OH",
-      "AR"
+      "NE"
     ],
     "pretty": "State"
   }
