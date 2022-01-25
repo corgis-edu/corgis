@@ -55,8 +55,7 @@ var $builtinmodule = function(name)
 					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Population'}, {"type": "LiteralStr", "value": 'Age'}, {"type": "LiteralStr", "value": 'Miscellaneous'}, {"type": "LiteralStr", "value": 'Ethnicities'}, {"type": "LiteralStr", "value": 'Housing'}, {"type": "LiteralStr", "value": 'Education'}, {"type": "LiteralStr", "value": 'Sales'}, {"type": "LiteralStr", "value": 'Income'}, {"type": "LiteralStr", "value": 'Employment'}], "values": [
 						{"type": "StrType"}, 
 						{"type": "StrType"}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Population Percent Change'}, {"type": "LiteralStr", "value": '2020 Population'}, {"type": "LiteralStr", "value": '2010 Population'}, {"type": "LiteralStr", "value": 'Population per Square Mile'}], "values": [
-							{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '2020 Population'}, {"type": "LiteralStr", "value": '2010 Population'}, {"type": "LiteralStr", "value": 'Population per Square Mile'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
