@@ -15,7 +15,6 @@ Splash,county-demographics-icon.png,,,
 Properties,Name,Type,Index,Description
 ,County,string,,County name
 ,State,string,TRUE,State name
-,Population.Population Percent Change,float,,"The difference between the population of an area from April 1, 2020 to July 1, 2019"
 ,Population.2020 Population,int,,"The population of people in a specified geographic area on April 1, 2020"
 ,Population.2010 Population,int,,"The population of people in a specified geographic area on April 1, 2010"
 ,Age.Percent Under 5 Years,float,,"Estimated percentage of population whose ages are under 5 years old are produced for the United States, states, and counties, as well as for the Commonwealth of Puerto Rico and its municipios (county-equivalents for Puerto Rico)."

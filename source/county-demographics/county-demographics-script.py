@@ -16,7 +16,7 @@ only_state_list = []
 
 for county in county_list :
 	only_county_list.append(county.split(',')[0])
-	only_state_list.append(county.split(',')[1].replace(' ', ''))
+	only_state_list.append(county.split(',')[1].strip())
 
 final_df_selected['county'] = only_county_list
 final_df_selected['state'] = only_state_list
