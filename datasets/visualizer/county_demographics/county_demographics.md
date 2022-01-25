@@ -19,7 +19,7 @@ extras: visualizer
 
 # Overview
 
-The following data set is information obtained about counties in the United States from 2007 through 2014 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
+The following data set is information obtained about counties in the United States from 2010 through 2019 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
 
 
 <http://www.census.gov/quickfacts/table/PST045215/00>

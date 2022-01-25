@@ -30,60 +30,60 @@ def _tifa_definitions():
                 "name": 'get_report',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Population'}, {"type": "LiteralStr", "value": 'Age'}, {"type": "LiteralStr", "value": 'Miscellaneous'}, {"type": "LiteralStr", "value": 'Ethnicities'}, {"type": "LiteralStr", "value": 'Housing'}, {"type": "LiteralStr", "value": 'Education'}, {"type": "LiteralStr", "value": 'Sales'}, {"type": "LiteralStr", "value": 'Income'}, {"type": "LiteralStr", "value": 'Employment'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'Age'}, {"type": "LiteralStr", "value": 'Education'}, {"type": "LiteralStr", "value": 'Employment'}, {"type": "LiteralStr", "value": 'Ethnicities'}, {"type": "LiteralStr", "value": 'Housing'}, {"type": "LiteralStr", "value": 'Income'}, {"type": "LiteralStr", "value": 'Miscellaneous'}, {"type": "LiteralStr", "value": 'Population'}, {"type": "LiteralStr", "value": 'Sales'}], "values": [
 						{"type": "StrType"}, 
 						{"type": "StrType"}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '2020 Population'}, {"type": "LiteralStr", "value": '2010 Population'}, {"type": "LiteralStr", "value": 'Population per Square Mile'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Percent 65 and Older'}, {"type": "LiteralStr", "value": 'Percent Under 18 Years'}, {"type": "LiteralStr", "value": 'Percent Under 5 Years'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Percent Under 5 Years'}, {"type": "LiteralStr", "value": 'Percent Under 18 Years'}, {"type": "LiteralStr", "value": 'Percent 65 and Older'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Percent Female'}, {"type": "LiteralStr", "value": 'Veterans'}, {"type": "LiteralStr", "value": 'Foreign Born'}, {"type": "LiteralStr", "value": 'Living in Same House +1 Years'}, {"type": "LiteralStr", "value": 'Language Other than English at Home'}, {"type": "LiteralStr", "value": 'Manufacturers Shipments'}, {"type": "LiteralStr", "value": 'Mean Travel Time to Work'}, {"type": "LiteralStr", "value": 'Land Area'}], "values": [
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": "Bachelor's Degree or Higher"}, {"type": "LiteralStr", "value": 'High School or Higher'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White Alone'}, {"type": "LiteralStr", "value": 'Black Alone'}, {"type": "LiteralStr", "value": 'American Indian and Alaska Native Alone'}, {"type": "LiteralStr", "value": 'Asian Alone'}, {"type": "LiteralStr", "value": 'Native Hawaiian and Other Pacific Islander Alone'}, {"type": "LiteralStr", "value": 'Two or More Races'}, {"type": "LiteralStr", "value": 'Hispanic or Latino'}, {"type": "LiteralStr", "value": 'White Alone, not Hispanic or Latino'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Nonemployer Establishments'}, {"type": "LiteralStr", "value": 'Firms'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Women-Owned'}, {"type": "LiteralStr", "value": 'Men-Owned'}, {"type": "LiteralStr", "value": 'Minority-Owned'}, {"type": "LiteralStr", "value": 'Nonminority-Owned'}, {"type": "LiteralStr", "value": 'Veteran-Owned'}, {"type": "LiteralStr", "value": 'Nonveteran-Owned'}], "values": [
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
+								{"type": "NumType"}]}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'American Indian and Alaska Native Alone'}, {"type": "LiteralStr", "value": 'Asian Alone'}, {"type": "LiteralStr", "value": 'Black Alone'}, {"type": "LiteralStr", "value": 'Hispanic or Latino'}, {"type": "LiteralStr", "value": 'Native Hawaiian and Other Pacific Islander Alone'}, {"type": "LiteralStr", "value": 'Two or More Races'}, {"type": "LiteralStr", "value": 'White Alone'}, {"type": "LiteralStr", "value": 'White Alone\t not Hispanic or Latino'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}, 
-							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Housing Units'}, {"type": "LiteralStr", "value": 'Homeownership Rate'}, {"type": "LiteralStr", "value": 'Median Value of Owner-Occupied Units'}, {"type": "LiteralStr", "value": 'Households'}, {"type": "LiteralStr", "value": 'Persons per Household'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'High School or Higher'}, {"type": "LiteralStr", "value": "Bachelor's Degree or Higher"}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Homeownership Rate'}, {"type": "LiteralStr", "value": 'Households'}, {"type": "LiteralStr", "value": 'Housing Units'}, {"type": "LiteralStr", "value": 'Median Value of Owner-Occupied Units'}, {"type": "LiteralStr", "value": 'Persons per Household'}], "values": [
 							{"type": "NumType"}, 
-							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Accommodation and Food Services Sales'}, {"type": "LiteralStr", "value": 'Retail Sales'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Median Houseold Income'}, {"type": "LiteralStr", "value": 'Per Capita Income'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Nonemployer Establishments'}, {"type": "LiteralStr", "value": 'Firms'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Foreign Born'}, {"type": "LiteralStr", "value": 'Land Area'}, {"type": "LiteralStr", "value": 'Language Other than English at Home'}, {"type": "LiteralStr", "value": 'Living in Same House +1 Years'}, {"type": "LiteralStr", "value": 'Manufacturers Shipments'}, {"type": "LiteralStr", "value": 'Mean Travel Time to Work'}, {"type": "LiteralStr", "value": 'Percent Female'}, {"type": "LiteralStr", "value": 'Veterans'}], "values": [
 							{"type": "NumType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Men-Owned'}, {"type": "LiteralStr", "value": 'Women-Owned'}, {"type": "LiteralStr", "value": 'Minority-Owned'}, {"type": "LiteralStr", "value": 'Nonminority-Owned'}, {"type": "LiteralStr", "value": 'Veteran-Owned'}, {"type": "LiteralStr", "value": 'Nonveteran-Owned'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}]}]}}
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '2020 Population'}, {"type": "LiteralStr", "value": '2010 Population'}, {"type": "LiteralStr", "value": 'Population per Square Mile'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}, 
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Accommodation and Food Services Sales'}, {"type": "LiteralStr", "value": 'Retail Sales'}], "values": [
+							{"type": "NumType"}, 
+							{"type": "NumType"}]}]}}
             },
         }
     }
