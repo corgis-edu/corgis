@@ -38,6 +38,7 @@ column_list.remove('county')
 
 for col in column_list :
 	if (is_string_dtype(final_df_selected_with_state_code[col])) :
+		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('-', '-1')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('$', '')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('F', '0')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('D', '-1')
@@ -46,7 +47,6 @@ for col in column_list :
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('%', '')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('Z', '0')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace(',', '')
-		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('-', '-1')
 		final_df_selected_with_state_code[col] = final_df_selected_with_state_code[col].str.replace('0-11', '-1')
 
 final_df_selected_with_state_code.to_csv("county-demographics-corgis.csv", mode = "w", index = False, header = None)
