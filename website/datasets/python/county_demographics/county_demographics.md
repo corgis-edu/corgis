@@ -89,7 +89,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"Acadia Parish"</code>
+                <code>"Abbeville County"</code>
              
                 
              </td> 
@@ -101,7 +101,7 @@ $(document).ready(function() {
                        str</span></td> 
              <td>
              
-                <code>"LA"</code>
+                <code>"SC"</code>
              
                 
              </td> 
@@ -320,21 +320,9 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Population' title='Dictionary (4 keys)'>
+<div id='explore-Population' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Population Percent Change"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>0.4</code>
-             
-                
-             </td> 
-             <td>The difference between the population of an area from April 1, 2020 to July 1, 2019</td> </tr>
         
         <tr> <td><code>"2020 Population"</code></td>
              <td><span data-toggle="tooltip"
@@ -342,7 +330,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>57576</code>
+                <code>24295</code>
              
                 
              </td> 
@@ -354,7 +342,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>61773</code>
+                <code>25417</code>
              
                 
              </td> 
@@ -366,7 +354,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>94.3</code>
+                <code>51.8</code>
              
                 
              </td> 
@@ -374,8 +362,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
 
     
 
@@ -393,12 +379,6 @@ $(document).ready(function() {
         $(this).parent().css("maxWidth", "600px");
       }
     });
-    
-    $("#btn-explore-Population-Population-Percent-Change").click(function() {
-        $( "#explore-Population-Population-Percent-Change" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
     
     $("#btn-explore-Population-2020-Population").click(function() {
         $( "#explore-Population-2020-Population" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
@@ -431,7 +411,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>6.9</code>
+                <code>4.7</code>
              
                 
              </td> 
@@ -443,7 +423,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>25.8</code>
+                <code>19.8</code>
              
                 
              </td> 
@@ -455,7 +435,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>15.8</code>
+                <code>22.4</code>
              
                 
              </td> 
@@ -512,7 +492,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>51.1</code>
+                <code>51.6</code>
              
                 
              </td> 
@@ -524,7 +504,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>2690</code>
+                <code>1559</code>
              
                 
              </td> 
@@ -536,7 +516,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1.3</code>
+                <code>1.8</code>
              
                 
              </td> 
@@ -548,7 +528,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>89.8</code>
+                <code>90.4</code>
              
                 
              </td> 
@@ -560,7 +540,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>10.0</code>
+                <code>2.8</code>
              
                 
              </td> 
@@ -572,7 +552,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>-11</code>
+                <code>598825</code>
              
                 
              </td> 
@@ -584,7 +564,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>28.9</code>
+                <code>28.1</code>
              
                 
              </td> 
@@ -596,7 +576,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>655.12</code>
+                <code>490.48</code>
              
                 
              </td> 
@@ -693,7 +673,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>79.7</code>
+                <code>70.2</code>
              
                 
              </td> 
@@ -705,7 +685,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>18.0</code>
+                <code>27.6</code>
              
                 
              </td> 
@@ -717,7 +697,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.4</code>
+                <code>0.3</code>
              
                 
              </td> 
@@ -729,7 +709,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.3</code>
+                <code>0.4</code>
              
                 
              </td> 
@@ -753,7 +733,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>1.6</code>
+                <code>1.4</code>
              
                 
              </td> 
@@ -765,7 +745,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2.8</code>
+                <code>1.6</code>
              
                 
              </td> 
@@ -777,7 +757,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>77.3</code>
+                <code>68.9</code>
              
                 
              </td> 
@@ -874,7 +854,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>26657</code>
+                <code>12245</code>
              
                 
              </td> 
@@ -886,7 +866,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>71.1</code>
+                <code>75.0</code>
              
                 
              </td> 
@@ -898,7 +878,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>118000</code>
+                <code>90800</code>
              
                 
              </td> 
@@ -910,7 +890,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>22236</code>
+                <code>9660</code>
              
                 
              </td> 
@@ -922,7 +902,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>2.76</code>
+                <code>2.46</code>
              
                 
              </td> 
@@ -995,7 +975,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>79.0</code>
+                <code>81.7</code>
              
                 
              </td> 
@@ -1007,7 +987,7 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>13.3</code>
+                <code>15.6</code>
              
                 
              </td> 
@@ -1056,7 +1036,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>52706</code>
+                <code>12507</code>
              
                 
              </td> 
@@ -1068,7 +1048,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>602739</code>
+                <code>91371</code>
              
                 
              </td> 
@@ -1117,7 +1097,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>43396</code>
+                <code>38741</code>
              
                 
              </td> 
@@ -1129,7 +1109,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>23122</code>
+                <code>22646</code>
              
                 
              </td> 
@@ -1178,7 +1158,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>4533</code>
+                <code>1416</code>
              
                 
              </td> 
@@ -1239,7 +1219,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>4664</code>
+                <code>1450</code>
              
                 
              </td> 
@@ -1251,7 +1231,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>2629</code>
+                <code>689</code>
              
                 
              </td> 
@@ -1263,7 +1243,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>1516</code>
+                <code>543</code>
              
                 
              </td> 
@@ -1275,7 +1255,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>705</code>
+                <code>317</code>
              
                 
              </td> 
@@ -1287,7 +1267,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>3734</code>
+                <code>1080</code>
              
                 
              </td> 
@@ -1299,7 +1279,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>388</code>
+                <code>187</code>
              
                 
              </td> 
@@ -1311,7 +1291,7 @@ $(document).ready(function() {
                        int</span></td> 
              <td>
              
-                <code>4007</code>
+                <code>1211</code>
              
                 
              </td> 
