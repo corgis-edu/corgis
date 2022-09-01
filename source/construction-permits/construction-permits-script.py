@@ -11,8 +11,9 @@ for year in range(2015, 2020) : #2020
 	for month in range(1,13) :
 		if (year == 2019) and (month == 11) :
 			break
+
 		units_filename = "tb2u" + str(year) + "%02d.csv" % month
-		valuations_filename = "tb2u" + str(year) + "%02d.csv" % month
+		valuations_filename = "tb2v" + str(year) + "%02d.csv" % month
 		#
 		units_data = pd.read_csv(dirname + units_filename, header = None, index_col = 0)
 		valuations_data = pd.read_csv(dirname + valuations_filename, header = None, index_col = 0)
@@ -20,7 +21,7 @@ for year in range(2015, 2020) : #2020
 		del units_data[1]
 		del units_data[6]
 		del valuations_data[1]
-		del valuations_data[6]
+
 		units_data.columns = units_column_list
 		valuations_data.columns = valuations_column_list
 		#
@@ -100,4 +101,6 @@ for i in range(len(original_corgis_data)) :
 original_corgis_data["Period.full"] = period_full_list
 
 final_corgis_data = pd.concat([original_corgis_data, final_dict2], axis = 0)
-final_corgis_data.to_csv("construction-permits-corgis.csv", mode = "w", index = True, header = None)
+final_corgis_data.to_csv("construction-permits-corgis-updated.csv", mode = "w", index = True, header = None)
+
+print("Generated new csv")
