@@ -39,7 +39,8 @@ jobs:
         run: |
           git config --global user.name 'Github Bot'
           git config --global user.email 'githubbot@users.noreply.github.com'
-          git commit -am "Rebuilt all datasets"
+          git add .
+          git commit -a -m "Rebuilt all datasets"
           git push
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
