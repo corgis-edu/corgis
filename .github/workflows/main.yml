@@ -33,6 +33,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           python3 ./corgis.py "*" python,visualizer,json,csv,blockpy,teaser
+          python3 ./index.py 
           echo "Finished up"
       # Push back changes to website
       - name: Commit built datasets
