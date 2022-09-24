@@ -14,8 +14,8 @@ style: dataset
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
-<span class='text-muted'>By Austin Cory Bart, Joung Min Choi, Bo Guan</span><br>
-<span class='text-muted'>Version 3.0.0, created 10/18/2021</span><br>
+<span class='text-muted'>By Austin Cory Bart, Joung Min Choi, Bo Guan, Sam Donald</span><br>
+<span class='text-muted'>Version 3.1.0, created 9/1/2022</span><br>
 <span class='text-muted'>Tags: construction, permits, us, united states, america, government, buildings, private, units, valuation, housing</span>
 
 # Overview

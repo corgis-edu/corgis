@@ -362,7 +362,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
@@ -652,7 +652,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
@@ -942,7 +942,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
@@ -1232,7 +1232,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
@@ -1522,7 +1522,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
@@ -1812,7 +1812,7 @@
             "name": "construction permits",
             "title": "Construction Permits",
             "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.0.0"
+            "version": "3.1.0"
         },
         "school-scores": {
             "name": "school scores",
