@@ -1,0 +1,47 @@
+Name,Covid_behaviors,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/23/2022,,,
+Data File,covid-19_behaviors-corgis.csv,,,
+Overview,Behavioural analysis on how different populations are responding to the pandemic,,,
+Data Source,https://github.com/YouGov-Data/covid-19-tracker,,,
+Description,Behavioral analysis of how populations are responding to the pandemic - based on a monthly survey where respondents note counts of various activities along with a 0-100 score related to how much they agree with a given statement,,,
+Tags,"Covid-19, social response, healthcare",,,
+Acknowledgement,"Jones, Sarah P., Imperial College London Big Data Analytical Unit and YouGov Plc. 2020, Imperial College London YouGov Covid Data Hub, v1.0, YouGov Plc, April 2020",,,
+Row,Report,,,
+Row Explanation,covid-report,,,
+Icon,covid-mask.png,,,
+Splash,covid-mask.png,,,
+Properties,Name,Type,Index,Description
+,Country,string,x,Nameof country
+,Days since outbreak,int,x,Count of days passed since Covid-19 outbreak began
+,Counts.Household contacts,float,,Number of household contacts for the previous day (averaged by country)
+,Counts.Total contacts,float,,Total number of contacts for the previous day (averaged by country)
+,Counts.Times left home,float,,Number of times the respondent left the house on the previous day (averaged by country)
+,Counts.Handwashes,float,,Number of times the respondent washed their hands on the previous day (averaged by country)
+,Scores.Isolate.Willingness if symptoms,float,,Score (0-100) related to how much the respondent would be willing to isolate if syptomatic (100 = very willing)
+,Scores.Isolate.Willingness if advised,float,,Score (0-100) related to how much the respondent would be willing to isolate if advised (100 = very willing)
+,Scores.Isolate.Difficulty,float,,Score (0-100) related to how difficult isolating would be (100 = very difficult)
+,Scores.Masks.Outside home,float,,Score (0-100) related to how often the respondent wears a mask outside (100 = all the time)
+,Scores.Masks.Grocery store,float,,Score (0-100) related to how often the respondent wears a mask while at a grocery store (100 = all the time)
+,Scores.Masks.Clothing store,float,,Score (0-100) related to how often the respondent wears a mask while at a clothing store (100 = all the time)
+,Scores.Masks.Work,float,,Score (0-100) related to how often the respondent wears a mask while at work (100 = all the time)
+,Scores.Masks.Public transport,float,,Score (0-100) related to how often the respondent wears a mask while on public transport (100 = all the time)
+,Scores.Avoidance.Symptomatic people,float,,Score (0-100) related to how much effort the respondent takes to avoid symptomatic people (100 = maximum effort)
+,Scores.Avoidance.Going out,float,,Score (0-100) related to how much effort the respondent takes to avoid going out (100 = maximum effort)
+,Scores.Avoidance.Healthcare settings,float,,Score (0-100) related to how much effort the respondent takes to avoid healthcare settings people (100 = maximum effort)
+,Scores.Avoidance.Public transport,float,,Score (0-100) related to how much effort the respondent takes to avoid public transport (100 = maximum effort)
+,Scores.Avoidance.Working outside home,float,,Score (0-100) related to how much effort the respondent takes to avoid working outside the home (100 = maximum effort)
+,Scores.Avoidance.Children going to school,float,,Score (0-100) related to how much effort the respondent and their children takes to avoid school (100 = maximum effort)
+,Scores.Avoidance.Having guests,float,,Score (0-100) related to how much effort the respondent takes to avoid having guests (100 = maximum effort)
+,Scores.Avoidance.Gatherings.Small,float,,Score (0-100) related to how much effort the respondent takes to avoid small gatherings (100 = maximum effort)
+,Scores.Avoidance.Gatherings.Medium,float,,Score (0-100) related to how much effort the respondent takes to avoid medium gatherings (100 = maximum effort)
+,Scores.Avoidance.Gatherings.Large,float,,Score (0-100) related to how much effort the respondent takes to avoid large gatherings (100 = maximum effort)
+,Scores.Avoidance.Crowded areas,float,,Score (0-100) related to how much effort the respondent takes to avoid crowded areas (100 = maximum effort)
+,Scores.Avoidance.Shops,float,,Score (0-100) related to how much effort the respondent takes to avoid shops (100 = maximum effort)
+,Scores.Precautions.Cleaned surfaces,float,,Score (0-100) related to how much effort the respondent takes to clean surfaces (100 = maximum effort)
+,Scores.Precautions.Covered mouth sneeze,float,,Score (0-100) related to how much effort the respondent takes to cover their mouth while sneezing (100 = maximum effort)
+,Scores.Precautions.Used hand sanitiser,float,,Score (0-100) related to how much effort the respondent takes to use hand sanitiser (100 = maximum effort)
+,Scores.Outlooks.Covid is dangerous,float,,Score (0-100) related to how dangergerous the respondent thinks Covid is (100 = very dangerous)
+,Scores.Outlooks.Likely to get covid,float,,Score (0-100) related to how likely the respondent thinks they are to contract Covid (100 = certain)
+,Scores.Outlooks.Life greatly impacted,float,,Score (0-100) related to how much the respondents live is impacted (100 = maximum impact)

@@ -1,0 +1,35 @@
+Name,Emissions,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/23/2022,,,
+Data File,emissions-corgis.csv,,,
+Overview,"A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",,,
+Data Source,https://github.com/owid/co2-data,,,
+Description,The dataset allows for comparisons of various countries and regions in relation to overall emission trends along with their sources,,,
+Tags,"emissions, CO2, CO2 share, N2O, CH4",,,
+Acknowledgement,"This data has been collected, aggregated, and documented by Hannah Ritchie, Max Roser, Edouard Mathieu, Bobbie Macdonald and Pablo Rosado.",,,
+Row,Emissions,,,
+Row Explanation,emission report,,,
+Icon,co2-emission.png,,,
+Splash,co2-emission.png,,,
+Properties,Name,Type,Index,Description
+,Year,int,x,The year of the emission report
+,Country.Name,string,x,The name of a country
+,Country.Code,string,,Abbreviation of country
+,Country.GDP,float,,A countries gross domestic product for a given year
+,Country.Population,int,,A countries population for a given year
+,Emissions.Production.CH4,float,,The total amount of CH4 produced (kilotons) 
+,Emissions.Production.N2O,float,,The total amount of N2O produced (kilotons) 
+,Emissions.Production.CO2.Cement,float,,The total amount of CO2 produced (kilotons) related to the cement production
+,Emissions.Production.CO2.Coal,float,,The total amount of CO2 produced (kilotons) related to the coal industry
+,Emissions.Production.CO2.Gas,float,,The total amount of CO2 produced (kilotons) related to gas consumption
+,Emissions.Production.CO2.Oil,float,,The total amount of CO2 produced (kilotons) related to oil consumption
+,Emissions.Production.CO2.Flaring,float,,The total amount of CO2 produced (kilotons) related to flaring
+,Emissions.Production.CO2.Other,float,,The total amount of CO2 produced (kilotons) related to flaring other areas (such that CO2 total is sum of components)
+,Emissions.Production.CO2.Total,float,,The total amount of CO2 produced (kilotons) 
+,Emissions.Global Share.CO2.Cement,float,,The share of global CO2 produced (kilotons) related to the cement production
+,Emissions.Global Share.CO2.Coal,float,,The share of global CO2 produced (kilotons) related to the coal industry
+,Emissions.Global Share.CO2.Gas,float,,The share of global CO2 produced (kilotons) related to gas consumption
+,Emissions.Global Share.CO2.Oil,float,,The share of global CO2 produced (kilotons) related to oil consumption
+,Emissions.Global Share.CO2.Flaring,float,,The share of global CO2 produced (kilotons) related to flaring
+,Emissions.Global Share.CO2.Total,float,,The share of global CO2 produced (kilotons) 
