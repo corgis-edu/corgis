@@ -42,6 +42,12 @@
             "meta": "source/electricity/electricity-meta.csv",
             "data": "source/electricity/electricity-corgis.csv"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "directory": "source/global-emissions",
+            "meta": "source/global-emissions/global-emissions-meta.csv",
+            "data": "source/global-emissions/global-emissions-corgis.csv"
+        },
         "music": {
             "name": "music",
             "directory": "source/music",
@@ -282,6 +288,12 @@
             "meta": "source/earthquakes/earthquakes-meta.csv",
             "data": "source/earthquakes/earthquakes-corgis.csv"
         },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "directory": "source/covid-behaviors",
+            "meta": "source/covid-behaviors/covid-behaviors-meta.csv",
+            "data": "source/covid-behaviors/covid-behaviors-corgis.csv"
+        },
         "cars": {
             "name": "cars",
             "directory": "source/cars",
@@ -340,6 +352,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -579,6 +597,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
@@ -630,6 +654,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -869,6 +899,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
@@ -920,6 +956,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -1159,6 +1201,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
@@ -1210,6 +1258,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -1449,6 +1503,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
@@ -1500,6 +1560,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -1739,6 +1805,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
@@ -1790,6 +1862,12 @@
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
         },
+        "global-emissions": {
+            "name": "global-emissions",
+            "title": "Global-Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
         "music": {
             "name": "music",
             "title": "Music",
@@ -2029,6 +2107,12 @@
             "title": "Earthquakes",
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
+        },
+        "covid-behaviors": {
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
+            "overview": "Behavioural analysis on how different populations are responding to the pandemic",
+            "version": "1.0.0"
         },
         "cars": {
             "name": "cars",
