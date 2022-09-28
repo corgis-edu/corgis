@@ -51,7 +51,7 @@ def main():
     df_final = df_final[output_col_ordered]
 
     # Exporting to csv
-    df_final.to_csv("emissions-corgis.csv", header=False, index=False)
+    df_final.to_csv("global-emissions-corgis.csv", header=False, index=False)
 
 
 if __name__ == '__main__':

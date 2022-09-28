@@ -49,7 +49,7 @@ def main():
     df_final = df_.fillna(0)
 
     # Exporting to csv
-    df_final.to_csv("covid-19_behaviors-data.csv", header=False, index=False)
+    df_final.to_csv("covid-behaviors-data.csv", header=False, index=False)
 
 
 if __name__ == '__main__':
