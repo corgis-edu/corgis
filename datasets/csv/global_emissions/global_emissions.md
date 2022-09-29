@@ -5,10 +5,10 @@ style: dataset
 
 <img class="img-thumbnail float-right"
      src="/images/datasets/global-emissions-icon.png"
-     alt="global-emissions icon"
+     alt="global emissions icon"
      role="presentation">
 
-# Global-Emissions CSV File
+# Global Emissions CSV File
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 

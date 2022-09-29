@@ -7,10 +7,10 @@ style: dataset
 
 <img class="img-thumbnail float-right"
      src="/images/datasets/global-emissions-icon.png"
-     alt="global-emissions icon"
+     alt="global emissions icon"
      role="presentation">
 
-# Global-Emissions Python Library
+# Global Emissions Python Library
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
@@ -36,7 +36,7 @@ Each row represents *emission report*.
 
 <button type='button'
         class='btn btn-info'
-        id='btn-explore'>Explore global-emissions data</button>
+        id='btn-explore'>Explore global emissions data</button>
 
 <script>
 $(document).ready(function() {

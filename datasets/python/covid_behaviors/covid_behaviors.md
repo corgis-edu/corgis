@@ -7,10 +7,10 @@ style: dataset
 
 <img class="img-thumbnail float-right"
      src="/images/datasets/covid-behaviors-icon.png"
-     alt="covid-behaviors icon"
+     alt="covid behaviors icon"
      role="presentation">
 
-# Covid-Behaviors Python Library
+# Covid Behaviors Python Library
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
@@ -36,7 +36,7 @@ Each row represents *covid-report*.
 
 <button type='button'
         class='btn btn-info'
-        id='btn-explore'>Explore covid-behaviors data</button>
+        id='btn-explore'>Explore covid behaviors data</button>
 
 <script>
 $(document).ready(function() {

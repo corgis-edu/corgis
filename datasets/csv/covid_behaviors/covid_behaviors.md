@@ -5,10 +5,10 @@ style: dataset
 
 <img class="img-thumbnail float-right"
      src="/images/datasets/covid-behaviors-icon.png"
-     alt="covid-behaviors icon"
+     alt="covid behaviors icon"
      role="presentation">
 
-# Covid-Behaviors CSV File
+# Covid Behaviors CSV File
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 

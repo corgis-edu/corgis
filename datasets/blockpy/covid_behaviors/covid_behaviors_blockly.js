@@ -110,7 +110,7 @@ Blockly.Blocks['covid_behaviors_get'] = {
     this.updateShape_("(None)");
     this.setInputsInline(false);
     this.setOutput(true, "Array");
-    this.setTooltip('Returns a list of covid-behaviors data.');
+    this.setTooltip('Returns a list of covid behaviors data.');
   },
   mutationToDom: function() {
     var container = document.createElement('mutation');
@@ -178,6 +178,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['covid_behaviors'] 
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - covid-behaviors'] = '<category name="Data - Covid-Behaviors" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - covid behaviors'] = '<category name="Data - Covid Behaviors" colour="45">'+
                     '<block type="covid_behaviors_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

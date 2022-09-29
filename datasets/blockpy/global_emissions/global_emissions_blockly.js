@@ -174,7 +174,7 @@ Blockly.Blocks['global_emissions_get'] = {
     this.updateShape_("(None)");
     this.setInputsInline(false);
     this.setOutput(true, "Array");
-    this.setTooltip('Returns a list of global-emissions data.');
+    this.setTooltip('Returns a list of global emissions data.');
   },
   mutationToDom: function() {
     var container = document.createElement('mutation');
@@ -242,6 +242,6 @@ BlockMirrorTextToBlocks.prototype.MODULE_FUNCTION_SIGNATURES['global_emissions']
     },
 };
 
-BlockMirrorBlockEditor.EXTRA_TOOLS['Data - global-emissions'] = '<category name="Data - Global-Emissions" colour="45">'+
+BlockMirrorBlockEditor.EXTRA_TOOLS['Data - global emissions'] = '<category name="Data - Global Emissions" colour="45">'+
                     '<block type="global_emissions_get"><mutation index="(None)" index_value=""></mutation></block>'+
                 '</category>';

@@ -5,10 +5,10 @@ style: dataset
 
 <img class="img-thumbnail float-right"
      src="/images/datasets/covid-behaviors-icon.png"
-     alt="covid-behaviors icon"
+     alt="covid behaviors icon"
      role="presentation">
 
-# Covid-Behaviors BlockPy Library
+# Covid Behaviors BlockPy Library
 
 <p class='lead'>From the CORGIS Dataset Project</p>
 
