@@ -1,5 +1,5 @@
 def snake_case(string):
-    return string.replace(" ", "_").lower()
+    return string.replace(" ", "_").replace("-", "_").lower()
 
 
 def camel_case_caps(string):
@@ -12,7 +12,7 @@ def camel_case(string):
 
 
 def flat_case(string):
-    return string.replace(" ", "").replace("_", "").lower()
+    return string.replace(" ", "").replace("-", "").replace("_", "").lower()
 
 
 def kebab_case(string):
