@@ -10,8 +10,8 @@ Tags,"pandemic, global health, death, monkey pox",,,
 Acknowledgement,"This data has been collected, aggregated, and documented by Edouard Mathieu, Fiona Spooner, Cody Peters",,,
 Row,Report,,,
 Row Explanation,Daily report of cases and deaths,,,
-Icon,monkeypox-icon.jpg,,,
-Splash,monkeypox-icon.jpg,,,
+Icon,monkeypox-icon.JPG,,,
+Splash,monkeypox-icon.JPG,,,
 Properties,Name,Type,Index,Description
 ,Country.Iso code,string,,Country code
 ,Country.Full,string,x,The name of a country
