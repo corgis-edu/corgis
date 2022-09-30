@@ -1,0 +1,53 @@
+Name,consumer-price-index,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/27/2022,,,
+Data File,consumer-price-corgis.csv,,,
+Overview,Data on the 2022 monkeypox outbreak,,,
+Data Source,https://github.com/owid/owid-datasets/tree/master/datasets,,,
+Description,Data related to USA consumer price index from 1900 onwards (normalized to 1900),,,
+Tags,"consumer goods, price trends",,,
+Acknowledgement,,,,
+Row,Report,,,
+Row Explanation,Yearly report of normalized prices,,,
+Icon,consumer-price-index-icon.png,,,
+Splash,consumer-price-index-icon.png,,,
+Properties,Name,Type,Index,Description
+,Year,int,x,Year
+,Data.Meat.Beef,float,,Normalized price of good based on 1900 price
+,Data.Meat.Lamb,float,,Normalized price of good based on 1900 price
+,Data.Meat.Pork,float,,Normalized price of good based on 1900 price
+,Data.Meat.Average,float,,Average normalized price of good based on 1900 price
+,Data.Fuel.Coal,float,,Normalized price of good based on 1900 price
+,Data.Fuel.Natural gas,float,,Normalized price of good based on 1900 price
+,Data.Fuel.Petroleum,float,,Normalized price of good based on 1900 price
+,Data.Fuel.Average,float,,Average normalized price of good based on 1900 price
+,Data.Grain.Corn,float,,Normalized price of good based on 1900 price
+,Data.Grain.Rice,float,,Normalized price of good based on 1900 price
+,Data.Grain.Rye,float,,Normalized price of good based on 1900 price
+,Data.Grain.Wheat,float,,Normalized price of good based on 1900 price
+,Data.Grain.Average,float,,Average normalized price of good based on 1900 price
+,Data.Metal.Aluminum,float,,Normalized price of good based on 1900 price
+,Data.Metal.Chromium,float,,Normalized price of good based on 1900 price
+,Data.Metal.Copper,float,,Normalized price of good based on 1900 price
+,Data.Metal.Lead,float,,Normalized price of good based on 1900 price
+,Data.Metal.Manganese,float,,Normalized price of good based on 1900 price
+,Data.Metal.Nickel,float,,Normalized price of good based on 1900 price
+,Data.Metal.Steel,float,,Normalized price of good based on 1900 price
+,Data.Metal.Tin,float,,Normalized price of good based on 1900 price
+,Data.Metal.Zinc,float,,Normalized price of good based on 1900 price
+,Data.Metal.Iron ore,float,,Normalized price of good based on 1900 price
+,Data.Metal.Gold,float,,Normalized price of good based on 1900 price
+,Data.Metal.Platinum,float,,Normalized price of good based on 1900 price
+,Data.Metal.Silver,float,,Normalized price of good based on 1900 price
+,Data.Metal.Average,float,,Average normalized price of good based on 1900 price
+,Data.Plant extract.Cocoa,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Coffee,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Cotton,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Cottonseed,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Palm oil,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Rubber,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Sugar,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Tea,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Tobacco,float,,Normalized price of good based on 1900 price
+,Data.Plant extract.Average,float,,Average normalized price of good based on 1900 price

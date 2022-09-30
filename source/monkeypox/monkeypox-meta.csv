@@ -1,0 +1,29 @@
+Name,monkeypox,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/27/2022,,,
+Data File,monkeypox-corgis.csv,,,
+Overview,Data on the 2022 monkeypox outbreak,,,
+Data Source,https://github.com/owid/monkeypox,,,
+Description,"Data on the 2022 monkeypox outbreak is collated by the World Health Organization, and is updated as new information is reported.",,,
+Tags,"pandemic, global health, death, monkey pox",,,
+Acknowledgement,"This data has been collected, aggregated, and documented by Edouard Mathieu, Fiona Spooner, Cody Peters",,,
+Row,Report,,,
+Row Explanation,Daily report of cases and deaths,,,
+Icon,monkeypox-icon.jpg,,,
+Splash,monkeypox-icon.jpg,,,
+Properties,Name,Type,Index,Description
+,Country.Iso code,string,,Country code
+,Country.Full,string,x,The name of a country
+,Date.Full,string,,Full date (YYYY-MM-DD)
+,Date.Year,int,x,Year
+,Date.Month,int,,Month
+,Date.Day,int,,Day
+,Data.Cases.New,int,,New cases reported on the given day
+,Data.Cases.Total,int,,Total cases reported prior to the given day
+,Data.Cases.New per million,float,,New cases per million people in the country reported on the given day
+,Data.Cases.Total per million,float,,Total cases per million people in the country prior to the given day
+,Data.Deaths.New,int,,New deaths reported on the given day
+,Data.Deaths.Total,int,,Total deaths reported prior to the given day
+,Data.Deaths.New per million,float,,New deaths per million people in the country reported on the given day
+,Data.Deaths.Total per million,float,,Total deaths per million people in the country prior to the given day

@@ -1,0 +1,23 @@
+Name,covid-mobility,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/28/2022,,,
+Data File,covid-mobility-corgis.csv,,,
+Overview,Mobility analysis on how different populations are responding to the pandemic,,,
+Data Source,https://github.com/owid/owid-datasets/tree/master/datasets/Google%20Mobility%20Trends%20(2020),,,
+Description,"Mobility analysis on how different populations are responding to the pandemic sourced from Google. A baseline day represents a normal value for that day of the week. The baseline day is the median value from the 5?week period Jan 3 – Feb 6, 2020.",,,
+Tags,"Covid-19, social response, healthcare",,,
+Acknowledgement,,,,
+Row,Report,,,
+Row Explanation,covid-report,,,
+Icon,covid-mobility-icon.png,,,
+Splash,covid-mobility-icon.png,,,
+Properties,Name,Type,Index,Description
+,Country,string,x,Nameof country
+,Days since outbreak,int,x,Count of days passed since Covid-19 outbreak began
+,Location.Retail,float,,Change in retail activity from baseline (January average)
+,Location.Grocery,float,,Change in grocery activity from baseline (January average)
+,Location.Parks,float,,Change in park activity from baseline (January average)
+,Location.Public transport,float,,Change in public transport activity from baseline (January average)
+,Location.Workplace,float,,Change in workplace activity from baseline (January average)
+,Location.Residential,float,,Change in residential activity from baseline (January average)
