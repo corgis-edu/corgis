@@ -48,6 +48,12 @@
             "meta": "source/global-emissions/global-emissions-meta.csv",
             "data": "source/global-emissions/global-emissions-corgis.csv"
         },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "directory": "source/covid-mobility",
+            "meta": "source/covid-mobility/covid-mobility-meta.csv",
+            "data": "source/covid-mobility/covid-mobility-corgis.csv"
+        },
         "music": {
             "name": "music",
             "directory": "source/music",
@@ -126,6 +132,12 @@
             "meta": "source/covid/covid-meta.csv",
             "data": "source/covid/covid-corgis.csv"
         },
+        "smoking": {
+            "name": "smoking",
+            "directory": "source/smoking",
+            "meta": "source/smoking/smoking-meta.csv",
+            "data": "source/smoking/smoking-corgis.csv"
+        },
         "state-demographics": {
             "name": "state-demographics",
             "directory": "source/state-demographics",
@@ -197,6 +209,12 @@
             "directory": "source/graduates",
             "meta": "source/graduates/graduates-meta.csv",
             "data": "source/graduates/graduates-corgis.csv"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "directory": "source/monkeypox",
+            "meta": "source/monkeypox/monkeypox-meta.csv",
+            "data": "source/monkeypox/monkeypox-corgis.csv"
         },
         "drugs": {
             "name": "drugs",
@@ -353,9 +371,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -436,6 +460,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -507,6 +537,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -599,8 +635,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -655,9 +691,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -738,6 +780,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -809,6 +857,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -901,8 +955,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -957,9 +1011,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -1040,6 +1100,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -1111,6 +1177,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -1203,8 +1275,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1259,9 +1331,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -1342,6 +1420,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -1413,6 +1497,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -1505,8 +1595,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1561,9 +1651,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -1644,6 +1740,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -1715,6 +1817,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -1807,8 +1915,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1863,9 +1971,15 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
+            "name": "global-emissions",
+            "title": "Global-Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "title": "Covid-Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
         "music": {
@@ -1946,6 +2060,12 @@
             "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
             "version": "2.0.0"
         },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends",
+            "version": "1.0.0"
+        },
         "state-demographics": {
             "name": "state demographics",
             "title": "State Demographics",
@@ -2017,6 +2137,12 @@
             "title": "Graduates",
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
+        },
+        "monkeypox": {
+            "name": "monkeypox",
+            "title": "Monkeypox",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "drugs": {
             "name": "drugs",
@@ -2109,8 +2235,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid behaviors",
-            "title": "Covid Behaviors",
+            "name": "covid-behaviors",
+            "title": "Covid-Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
