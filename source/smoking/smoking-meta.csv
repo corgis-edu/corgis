@@ -1,0 +1,24 @@
+Name,smoking,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,9/27/2022,,,
+Data File,smoking-corgis.csv,,,
+Overview,Smoking trends,,,
+Data Source,https://github.com/owid/monkeypox,,,
+Description,Smoking trends broken down by gender and country since 1980,,,
+Tags,"global health, smoking",,,
+Acknowledgement,,,,
+Row,Report,,,
+Row Explanation,Yearly report of smoking metrics,,,
+Icon,smoking-icon.jpg,,,
+Splash,smoking-icon.jpg,,,
+Properties,Name,Type,Index,Description
+,Country,string,x,Country
+,Year,int,x,Year
+,Data.Daily cigarettes,string,,Average amount of cigarettes smoked per day by smokers
+,Data.Percentage.Male,float,,Percentage of the male population who are smokers
+,Data.Percentage.Female,float,,Percentage of the female population who are smokers
+,Data.Percentage.Total,float,,Percentage of the total population who are smokers
+,Data.Smokers.Male,int,,Total number of male smokers
+,Data.Smokers.Female,int,,Total number of female smokers
+,Data.Smokers.Total,int,,Total number smokers
