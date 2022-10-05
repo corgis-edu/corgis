@@ -162,6 +162,12 @@
             "meta": "source/business-dynamics/business-dynamics-meta.csv",
             "data": "source/business-dynamics/business-dynamics-corgis.csv"
         },
+        "consumer-price-index": {
+            "name": "consumer-price-index",
+            "directory": "source/consumer-price-index",
+            "meta": "source/consumer-price-index/consumer-price-index-meta.csv",
+            "data": "source/consumer-price-index/consumer-price-index-corgis.csv"
+        },
         "finance": {
             "name": "finance",
             "directory": "source/finance",
@@ -371,14 +377,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -489,6 +495,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -635,8 +647,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -691,14 +703,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -809,6 +821,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -955,8 +973,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1011,14 +1029,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1129,6 +1147,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -1275,8 +1299,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1331,14 +1355,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1449,6 +1473,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -1595,8 +1625,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1651,14 +1681,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1769,6 +1799,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -1915,8 +1951,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -1971,14 +2007,14 @@
             "version": "2.0.0"
         },
         "global-emissions": {
-            "name": "global-emissions",
-            "title": "Global-Emissions",
+            "name": "global emissions",
+            "title": "Global Emissions",
             "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
             "version": "1.0.0"
         },
         "covid-mobility": {
-            "name": "covid-mobility",
-            "title": "Covid-Mobility",
+            "name": "covid mobility",
+            "title": "Covid Mobility",
             "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
@@ -2089,6 +2125,12 @@
             "title": "Business Dynamics",
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
+        },
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data on the 2022 monkeypox outbreak",
+            "version": "1.0.0"
         },
         "finance": {
             "name": "finance",
@@ -2235,8 +2277,8 @@
             "version": "2.0.0"
         },
         "covid-behaviors": {
-            "name": "covid-behaviors",
-            "title": "Covid-Behaviors",
+            "name": "covid behaviors",
+            "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
