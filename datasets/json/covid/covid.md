@@ -13,12 +13,12 @@ style: dataset
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Dennis Kafura, Melanie Sutphin, Joung Min Choi and Bo Guan</span><br>
-<span class='text-muted'>Version 2.0.0, created 10/22/2021</span><br>
+<span class='text-muted'>Version 2.0.1, created 10/22/2021</span><br>
 <span class='text-muted'>Tags: Covid, Covid-19, pandemic, infection, world health</span>
 
 # Overview
 
-The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. 
+Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.
 
 
 <https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data>

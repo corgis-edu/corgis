@@ -1,88 +1,16 @@
 {
     "_sources": {
-        "food": {
-            "name": "food",
-            "directory": "source/food",
-            "meta": "source/food/food-meta.csv",
-            "data": "source/food/food-corgis.csv"
+        "video-games": {
+            "name": "video-games",
+            "directory": "source/video-games",
+            "meta": "source/video-games/video-games-meta.csv",
+            "data": "source/video-games/video-games-corgis.csv"
         },
-        "construction-spending": {
-            "name": "construction-spending",
-            "directory": "source/construction-spending",
-            "meta": "source/construction-spending/construction-spending-meta.csv",
-            "data": "source/construction-spending/construction-spending-corgis.csv"
-        },
-        "construction-permits": {
-            "name": "construction-permits",
-            "directory": "source/construction-permits",
-            "meta": "source/construction-permits/construction-permits-meta.csv",
-            "data": "source/construction-permits/construction-permits-corgis.csv"
-        },
-        "slavery": {
-            "name": "slavery",
-            "directory": "source/slavery",
-            "meta": "source/slavery/slavery-meta.csv",
-            "data": "source/slavery/slavery-corgis.csv"
-        },
-        "suicide-attacks": {
-            "name": "suicide-attacks",
-            "directory": "source/suicide-attacks",
-            "meta": "source/suicide-attacks/suicide-attacks-meta.csv",
-            "data": "source/suicide-attacks/suicide-attacks-corgis.csv"
-        },
-        "election": {
-            "name": "election",
-            "directory": "source/election",
-            "meta": "source/election/election-meta.csv",
-            "data": "source/election/election-corgis.csv"
-        },
-        "electricity": {
-            "name": "electricity",
-            "directory": "source/electricity",
-            "meta": "source/electricity/electricity-meta.csv",
-            "data": "source/electricity/electricity-corgis.csv"
-        },
-        "global-emissions": {
-            "name": "global-emissions",
-            "directory": "source/global-emissions",
-            "meta": "source/global-emissions/global-emissions-meta.csv",
-            "data": "source/global-emissions/global-emissions-corgis.csv"
-        },
-        "covid-mobility": {
-            "name": "covid-mobility",
-            "directory": "source/covid-mobility",
-            "meta": "source/covid-mobility/covid-mobility-meta.csv",
-            "data": "source/covid-mobility/covid-mobility-corgis.csv"
-        },
-        "music": {
-            "name": "music",
-            "directory": "source/music",
-            "meta": "source/music/music-meta.csv",
-            "data": "source/music/music-corgis.csv"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "directory": "source/hydropower",
-            "meta": "source/hydropower/hydropower-meta.csv",
-            "data": "source/hydropower/hydropower-corgis.csv"
-        },
-        "emissions": {
-            "name": "emissions",
-            "directory": "source/emissions",
-            "meta": "source/emissions/emissions-meta.csv",
-            "data": "source/emissions/emissions-corgis.csv"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "directory": "source/skyscrapers",
-            "meta": "source/skyscrapers/skyscrapers-meta.csv",
-            "data": "source/skyscrapers/skyscrapers-corgis.csv"
-        },
-        "energy": {
-            "name": "energy",
-            "directory": "source/energy",
-            "meta": "source/energy/energy-meta.csv",
-            "data": "source/energy/energy-corgis.csv"
+        "global-development": {
+            "name": "global-development",
+            "directory": "source/global-development",
+            "meta": "source/global-development/global-development-meta.csv",
+            "data": "source/global-development/global-development-corgis.csv"
         },
         "tate": {
             "name": "tate",
@@ -90,95 +18,17 @@
             "meta": "source/tate/tate-meta.csv",
             "data": "source/tate/tate-corgis.csv"
         },
-        "cancer": {
-            "name": "cancer",
-            "directory": "source/cancer",
-            "meta": "source/cancer/cancer-meta.csv",
-            "data": "source/cancer/cancer-corgis.csv"
+        "injuries": {
+            "name": "injuries",
+            "directory": "source/injuries",
+            "meta": "source/injuries/injuries-meta.csv",
+            "data": "source/injuries/injuries-corgis.csv"
         },
-        "labor": {
-            "name": "labor",
-            "directory": "source/labor",
-            "meta": "source/labor/labor-meta.csv",
-            "data": "source/labor/labor-corgis.csv"
-        },
-        "real-estate": {
-            "name": "real-estate",
-            "directory": "source/real-estate",
-            "meta": "source/real-estate/real-estate-meta.csv",
-            "data": "source/real-estate/real-estate-corgis.csv"
-        },
-        "medal-of-honor": {
-            "name": "medal-of-honor",
-            "directory": "source/medal-of-honor",
-            "meta": "source/medal-of-honor/medal-of-honor-meta.csv",
-            "data": "source/medal-of-honor/medal-of-honor-corgis.csv"
-        },
-        "weather": {
-            "name": "weather",
-            "directory": "source/weather",
-            "meta": "source/weather/weather-meta.csv",
-            "data": "source/weather/weather-corgis.csv"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "directory": "source/billionaires",
-            "meta": "source/billionaires/billionaires-meta.csv",
-            "data": "source/billionaires/billionaires-corgis.csv"
-        },
-        "covid": {
-            "name": "covid",
-            "directory": "source/covid",
-            "meta": "source/covid/covid-meta.csv",
-            "data": "source/covid/covid-corgis.csv"
-        },
-        "smoking": {
-            "name": "smoking",
-            "directory": "source/smoking",
-            "meta": "source/smoking/smoking-meta.csv",
-            "data": "source/smoking/smoking-corgis.csv"
-        },
-        "state-demographics": {
-            "name": "state-demographics",
-            "directory": "source/state-demographics",
-            "meta": "source/state-demographics/state-demographics-meta.csv",
-            "data": "source/state-demographics/state-demographics-corgis.csv"
-        },
-        "aids": {
-            "name": "aids",
-            "directory": "source/aids",
-            "meta": "source/aids/aids-meta.csv",
-            "data": "source/aids/aids-corgis.csv"
-        },
-        "airlines": {
-            "name": "airlines",
-            "directory": "source/airlines",
-            "meta": "source/airlines/airlines-meta.csv",
-            "data": "source/airlines/airlines-corgis.csv"
-        },
-        "business-dynamics": {
-            "name": "business-dynamics",
-            "directory": "source/business-dynamics",
-            "meta": "source/business-dynamics/business-dynamics-meta.csv",
-            "data": "source/business-dynamics/business-dynamics-corgis.csv"
-        },
-        "consumer-price-index": {
-            "name": "consumer-price-index",
-            "directory": "source/consumer-price-index",
-            "meta": "source/consumer-price-index/consumer-price-index-meta.csv",
-            "data": "source/consumer-price-index/consumer-price-index-corgis.csv"
-        },
-        "finance": {
-            "name": "finance",
-            "directory": "source/finance",
-            "meta": "source/finance/finance-meta.csv",
-            "data": "source/finance/finance-corgis.csv"
-        },
-        "classics": {
-            "name": "classics",
-            "directory": "source/classics",
-            "meta": "source/classics/classics-meta.csv",
-            "data": "source/classics/classics-corgis.csv"
+        "covid-mobility": {
+            "name": "covid-mobility",
+            "directory": "source/covid-mobility",
+            "meta": "source/covid-mobility/covid-mobility-meta.csv",
+            "data": "source/covid-mobility/covid-mobility-corgis.csv"
         },
         "school-scores": {
             "name": "school-scores",
@@ -186,17 +36,59 @@
             "meta": "source/school-scores/school-scores-meta.csv",
             "data": "source/school-scores/school-scores-corgis.csv"
         },
-        "county-demographics": {
-            "name": "county-demographics",
-            "directory": "source/county-demographics",
-            "meta": "source/county-demographics/county-demographics-meta.csv",
-            "data": "source/county-demographics/county-demographics-corgis.csv"
+        "supreme-court": {
+            "name": "supreme-court",
+            "directory": "source/supreme-court",
+            "meta": "source/supreme-court/supreme-court-meta.csv",
+            "data": "source/supreme-court/supreme-court-corgis.csv"
         },
-        "state-fragility": {
-            "name": "state-fragility",
-            "directory": "source/state-fragility",
-            "meta": "source/state-fragility/state-fragility-meta.csv",
-            "data": "source/state-fragility/state-fragility-corgis.csv"
+        "opioids": {
+            "name": "opioids",
+            "directory": "source/opioids",
+            "meta": "source/opioids/opioids-meta.csv",
+            "data": "source/opioids/opioids-corgis.csv"
+        },
+        "business-dynamics": {
+            "name": "business-dynamics",
+            "directory": "source/business-dynamics",
+            "meta": "source/business-dynamics/business-dynamics-meta.csv",
+            "data": "source/business-dynamics/business-dynamics-corgis.csv"
+        },
+        "hydropower": {
+            "name": "hydropower",
+            "directory": "source/hydropower",
+            "meta": "source/hydropower/hydropower-meta.csv",
+            "data": "source/hydropower/hydropower-corgis.csv"
+        },
+        "slavery": {
+            "name": "slavery",
+            "directory": "source/slavery",
+            "meta": "source/slavery/slavery-meta.csv",
+            "data": "source/slavery/slavery-corgis.csv"
+        },
+        "covid": {
+            "name": "covid",
+            "directory": "source/covid",
+            "meta": "source/covid/covid-meta.csv",
+            "data": "source/covid/covid-corgis.csv"
+        },
+        "electricity": {
+            "name": "electricity",
+            "directory": "source/electricity",
+            "meta": "source/electricity/electricity-meta.csv",
+            "data": "source/electricity/electricity-corgis.csv"
+        },
+        "construction-permits": {
+            "name": "construction-permits",
+            "directory": "source/construction-permits",
+            "meta": "source/construction-permits/construction-permits-meta.csv",
+            "data": "source/construction-permits/construction-permits-corgis.csv"
+        },
+        "smoking": {
+            "name": "smoking",
+            "directory": "source/smoking",
+            "meta": "source/smoking/smoking-meta.csv",
+            "data": "source/smoking/smoking-corgis.csv"
         },
         "wind-turbines": {
             "name": "wind-turbines",
@@ -204,11 +96,125 @@
             "meta": "source/wind-turbines/wind-turbines-meta.csv",
             "data": "source/wind-turbines/wind-turbines-corgis.csv"
         },
-        "police-shootings": {
-            "name": "police-shootings",
-            "directory": "source/police-shootings",
-            "meta": "source/police-shootings/police-shootings-meta.csv",
-            "data": "source/police-shootings/police-shootings-corgis.csv"
+        "aids": {
+            "name": "aids",
+            "directory": "source/aids",
+            "meta": "source/aids/aids-meta.csv",
+            "data": "source/aids/aids-corgis.csv"
+        },
+        "weather": {
+            "name": "weather",
+            "directory": "source/weather",
+            "meta": "source/weather/weather-meta.csv",
+            "data": "source/weather/weather-corgis.csv"
+        },
+        "county-demographics": {
+            "name": "county-demographics",
+            "directory": "source/county-demographics",
+            "meta": "source/county-demographics/county-demographics-meta.csv",
+            "data": "source/county-demographics/county-demographics-corgis.csv"
+        },
+        "consumer-price-index": {
+            "name": "consumer-price-index",
+            "directory": "source/consumer-price-index",
+            "meta": "source/consumer-price-index/consumer-price-index-meta.csv",
+            "data": "source/consumer-price-index/consumer-price-index-corgis.csv"
+        },
+        "cancer": {
+            "name": "cancer",
+            "directory": "source/cancer",
+            "meta": "source/cancer/cancer-meta.csv",
+            "data": "source/cancer/cancer-corgis.csv"
+        },
+        "food-access": {
+            "name": "food-access",
+            "directory": "source/food-access",
+            "meta": "source/food-access/food-access-meta.csv",
+            "data": "source/food-access/food-access-corgis.csv"
+        },
+        "drugs": {
+            "name": "drugs",
+            "directory": "source/drugs",
+            "meta": "source/drugs/drugs-meta.csv",
+            "data": "source/drugs/drugs-corgis.csv"
+        },
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "directory": "source/skyscrapers",
+            "meta": "source/skyscrapers/skyscrapers-meta.csv",
+            "data": "source/skyscrapers/skyscrapers-corgis.csv"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "directory": "source/hospitals",
+            "meta": "source/hospitals/hospitals-meta.csv",
+            "data": "source/hospitals/hospitals-corgis.csv"
+        },
+        "election": {
+            "name": "election",
+            "directory": "source/election",
+            "meta": "source/election/election-meta.csv",
+            "data": "source/election/election-corgis.csv"
+        },
+        "state-demographics": {
+            "name": "state-demographics",
+            "directory": "source/state-demographics",
+            "meta": "source/state-demographics/state-demographics-meta.csv",
+            "data": "source/state-demographics/state-demographics-corgis.csv"
+        },
+        "retail-services": {
+            "name": "retail-services",
+            "directory": "source/retail-services",
+            "meta": "source/retail-services/retail-services-meta.csv",
+            "data": "source/retail-services/retail-services-corgis.csv"
+        },
+        "publishers": {
+            "name": "publishers",
+            "directory": "source/publishers",
+            "meta": "source/publishers/publishers-meta.csv",
+            "data": "source/publishers/publishers-corgis.csv"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "directory": "source/billionaires",
+            "meta": "source/billionaires/billionaires-meta.csv",
+            "data": "source/billionaires/billionaires-corgis.csv"
+        },
+        "real-estate": {
+            "name": "real-estate",
+            "directory": "source/real-estate",
+            "meta": "source/real-estate/real-estate-meta.csv",
+            "data": "source/real-estate/real-estate-corgis.csv"
+        },
+        "cars": {
+            "name": "cars",
+            "directory": "source/cars",
+            "meta": "source/cars/cars-meta.csv",
+            "data": "source/cars/cars-corgis.csv"
+        },
+        "medal-of-honor": {
+            "name": "medal-of-honor",
+            "directory": "source/medal-of-honor",
+            "meta": "source/medal-of-honor/medal-of-honor-meta.csv",
+            "data": "source/medal-of-honor/medal-of-honor-corgis.csv"
+        },
+        "state-crime": {
+            "name": "state-crime",
+            "directory": "source/state-crime",
+            "meta": "source/state-crime/state-crime-meta.csv",
+            "data": "source/state-crime/state-crime-corgis.csv"
+        },
+        "broadway": {
+            "name": "broadway",
+            "directory": "source/broadway",
+            "meta": "source/broadway/broadway-meta.csv",
+            "data": "source/broadway/broadway-corgis.csv"
+        },
+        "global-emissions": {
+            "name": "global-emissions",
+            "directory": "source/global-emissions",
+            "meta": "source/global-emissions/global-emissions-meta.csv",
+            "data": "source/global-emissions/global-emissions-corgis.csv"
         },
         "graduates": {
             "name": "graduates",
@@ -222,83 +228,23 @@
             "meta": "source/monkeypox/monkeypox-meta.csv",
             "data": "source/monkeypox/monkeypox-corgis.csv"
         },
-        "drugs": {
-            "name": "drugs",
-            "directory": "source/drugs",
-            "meta": "source/drugs/drugs-meta.csv",
-            "data": "source/drugs/drugs-corgis.csv"
+        "finance": {
+            "name": "finance",
+            "directory": "source/finance",
+            "meta": "source/finance/finance-meta.csv",
+            "data": "source/finance/finance-corgis.csv"
         },
-        "publishers": {
-            "name": "publishers",
-            "directory": "source/publishers",
-            "meta": "source/publishers/publishers-meta.csv",
-            "data": "source/publishers/publishers-corgis.csv"
+        "suicide-attacks": {
+            "name": "suicide-attacks",
+            "directory": "source/suicide-attacks",
+            "meta": "source/suicide-attacks/suicide-attacks-meta.csv",
+            "data": "source/suicide-attacks/suicide-attacks-corgis.csv"
         },
-        "health": {
-            "name": "health",
-            "directory": "source/health",
-            "meta": "source/health/health-meta.csv",
-            "data": "source/health/health-corgis.csv"
-        },
-        "broadway": {
-            "name": "broadway",
-            "directory": "source/broadway",
-            "meta": "source/broadway/broadway-meta.csv",
-            "data": "source/broadway/broadway-corgis.csv"
-        },
-        "video-games": {
-            "name": "video-games",
-            "directory": "source/video-games",
-            "meta": "source/video-games/video-games-meta.csv",
-            "data": "source/video-games/video-games-corgis.csv"
-        },
-        "supreme-court": {
-            "name": "supreme-court",
-            "directory": "source/supreme-court",
-            "meta": "source/supreme-court/supreme-court-meta.csv",
-            "data": "source/supreme-court/supreme-court-corgis.csv"
-        },
-        "injuries": {
-            "name": "injuries",
-            "directory": "source/injuries",
-            "meta": "source/injuries/injuries-meta.csv",
-            "data": "source/injuries/injuries-corgis.csv"
-        },
-        "retail-services": {
-            "name": "retail-services",
-            "directory": "source/retail-services",
-            "meta": "source/retail-services/retail-services-meta.csv",
-            "data": "source/retail-services/retail-services-corgis.csv"
-        },
-        "global-development": {
-            "name": "global-development",
-            "directory": "source/global-development",
-            "meta": "source/global-development/global-development-meta.csv",
-            "data": "source/global-development/global-development-corgis.csv"
-        },
-        "state-crime": {
-            "name": "state-crime",
-            "directory": "source/state-crime",
-            "meta": "source/state-crime/state-crime-meta.csv",
-            "data": "source/state-crime/state-crime-corgis.csv"
-        },
-        "opioids": {
-            "name": "opioids",
-            "directory": "source/opioids",
-            "meta": "source/opioids/opioids-meta.csv",
-            "data": "source/opioids/opioids-corgis.csv"
-        },
-        "food-access": {
-            "name": "food-access",
-            "directory": "source/food-access",
-            "meta": "source/food-access/food-access-meta.csv",
-            "data": "source/food-access/food-access-corgis.csv"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "directory": "source/hospitals",
-            "meta": "source/hospitals/hospitals-meta.csv",
-            "data": "source/hospitals/hospitals-corgis.csv"
+        "energy": {
+            "name": "energy",
+            "directory": "source/energy",
+            "meta": "source/energy/energy-meta.csv",
+            "data": "source/energy/energy-corgis.csv"
         },
         "ingredients": {
             "name": "ingredients",
@@ -312,17 +258,71 @@
             "meta": "source/earthquakes/earthquakes-meta.csv",
             "data": "source/earthquakes/earthquakes-corgis.csv"
         },
+        "classics": {
+            "name": "classics",
+            "directory": "source/classics",
+            "meta": "source/classics/classics-meta.csv",
+            "data": "source/classics/classics-corgis.csv"
+        },
         "covid-behaviors": {
             "name": "covid-behaviors",
             "directory": "source/covid-behaviors",
             "meta": "source/covid-behaviors/covid-behaviors-meta.csv",
             "data": "source/covid-behaviors/covid-behaviors-corgis.csv"
         },
-        "cars": {
-            "name": "cars",
-            "directory": "source/cars",
-            "meta": "source/cars/cars-meta.csv",
-            "data": "source/cars/cars-corgis.csv"
+        "food": {
+            "name": "food",
+            "directory": "source/food",
+            "meta": "source/food/food-meta.csv",
+            "data": "source/food/food-corgis.csv"
+        },
+        "state-fragility": {
+            "name": "state-fragility",
+            "directory": "source/state-fragility",
+            "meta": "source/state-fragility/state-fragility-meta.csv",
+            "data": "source/state-fragility/state-fragility-corgis.csv"
+        },
+        "police-shootings": {
+            "name": "police-shootings",
+            "directory": "source/police-shootings",
+            "meta": "source/police-shootings/police-shootings-meta.csv",
+            "data": "source/police-shootings/police-shootings-corgis.csv"
+        },
+        "health": {
+            "name": "health",
+            "directory": "source/health",
+            "meta": "source/health/health-meta.csv",
+            "data": "source/health/health-corgis.csv"
+        },
+        "labor": {
+            "name": "labor",
+            "directory": "source/labor",
+            "meta": "source/labor/labor-meta.csv",
+            "data": "source/labor/labor-corgis.csv"
+        },
+        "airlines": {
+            "name": "airlines",
+            "directory": "source/airlines",
+            "meta": "source/airlines/airlines-meta.csv",
+            "data": "source/airlines/airlines-corgis.csv"
+        },
+        "music": {
+            "name": "music",
+            "directory": "source/music",
+            "meta": "source/music/music-meta.csv",
+            "data": "source/music/music-corgis.csv"
+        },
+        "construction-spending": {
+            "name": "construction-spending",
+            "directory": "source/construction-spending",
+            "meta": "source/construction-spending/construction-spending-meta.csv",
+            "data": "source/construction-spending/construction-spending-corgis.csv"
+        },
+        "emissions": {
+            "name": "emissions",
+            "directory": "source/emissions",
+            "meta": "source/emissions/emissions-meta.csv",
+            "data": "source/emissions/emissions-corgis.csv"
         }
     },
     "_builders": {
@@ -334,89 +334,17 @@
         "csv": "2.0.0"
     },
     "python": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -424,70 +352,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -496,28 +388,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -526,23 +448,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -556,83 +562,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -646,103 +592,85 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     },
     "visualizer": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -750,70 +678,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -822,28 +714,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -852,23 +774,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -882,83 +888,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -972,103 +918,85 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     },
     "blockpy": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -1076,70 +1004,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -1148,28 +1040,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -1178,23 +1100,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -1208,83 +1214,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -1298,103 +1244,85 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     },
     "teaser": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -1402,70 +1330,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -1474,28 +1366,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -1504,23 +1426,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -1534,83 +1540,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -1624,103 +1570,85 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     },
     "json": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -1728,70 +1656,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -1800,28 +1692,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -1830,23 +1752,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -1860,83 +1866,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -1950,103 +1896,85 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     },
     "csv": {
-        "food": {
-            "name": "food",
-            "title": "Food",
-            "overview": "Statistics for various food items",
-            "version": "3.0.0"
-        },
-        "construction-spending": {
-            "name": "construction spending",
-            "title": "Construction Spending",
-            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+        "video-games": {
+            "name": "video games",
+            "title": "Video Games",
+            "overview": "This library has data about video games, including their play time and sales.",
             "version": "2.0.0"
         },
-        "construction-permits": {
-            "name": "construction permits",
-            "title": "Construction Permits",
-            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
-            "version": "3.1.0"
-        },
-        "slavery": {
-            "name": "slavery",
-            "title": "Slavery",
-            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+        "global-development": {
+            "name": "global development",
+            "title": "Global Development",
+            "overview": "Reports of country's development over time",
             "version": "2.0.0"
-        },
-        "suicide-attacks": {
-            "name": "suicide attacks",
-            "title": "Suicide Attacks",
-            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
-            "version": "3.0.0"
-        },
-        "election": {
-            "name": "election",
-            "title": "Election",
-            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
-            "version": "2.0.0"
-        },
-        "electricity": {
-            "name": "electricity",
-            "title": "Electricity",
-            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
-            "version": "2.0.0"
-        },
-        "global-emissions": {
-            "name": "global emissions",
-            "title": "Global Emissions",
-            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
-            "version": "1.0.0"
-        },
-        "covid-mobility": {
-            "name": "covid mobility",
-            "title": "Covid Mobility",
-            "overview": "Mobility analysis on how different populations are responding to the pandemic",
-            "version": "1.0.0"
-        },
-        "music": {
-            "name": "music",
-            "title": "Music",
-            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
-            "version": "2.0.0"
-        },
-        "hydropower": {
-            "name": "hydropower",
-            "title": "Hydropower",
-            "overview": "Records about dams in the United States such as location, dimensions, and project information",
-            "version": "2.0.0"
-        },
-        "emissions": {
-            "name": "emissions",
-            "title": "Emissions",
-            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
-            "version": "1.0.0"
-        },
-        "skyscrapers": {
-            "name": "skyscrapers",
-            "title": "Skyscrapers",
-            "overview": "Information about tall buildings constructed all over the world.",
-            "version": "2.0.0"
-        },
-        "energy": {
-            "name": "energy",
-            "title": "Energy",
-            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
-            "version": "3.0.0"
         },
         "tate": {
             "name": "tate",
@@ -2054,70 +1982,34 @@
             "overview": "This dataset is about the Tate art collection, with metadata about paintings, drawings, sculptures, and more.",
             "version": "2.0.0"
         },
-        "cancer": {
-            "name": "cancer",
-            "title": "Cancer",
-            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+        "injuries": {
+            "name": "injuries",
+            "title": "Injuries",
+            "overview": "A sampling of work-related injury and illness data from the US.",
+            "version": "2.0.0"
+        },
+        "covid-mobility": {
+            "name": "covid mobility",
+            "title": "Covid Mobility",
+            "overview": "Mobility analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "labor": {
-            "name": "labor",
-            "title": "Labor",
-            "overview": "Employment status of the civilian population by race, sex, and age.",
+        "school-scores": {
+            "name": "school scores",
+            "title": "School Scores",
+            "overview": "SAT scores for students across the United States, organized by year and state.",
             "version": "2.0.0"
         },
-        "real-estate": {
-            "name": "real estate",
-            "title": "Real Estate",
-            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+        "supreme-court": {
+            "name": "supreme court",
+            "title": "Supreme Court",
+            "overview": "This dataset contains information about supreme court cases for the several decades.",
             "version": "3.0.0"
         },
-        "medal-of-honor": {
-            "name": "medal of honor",
-            "title": "Medal Of Honor",
-            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
-            "version": "2.0.0"
-        },
-        "weather": {
-            "name": "weather",
-            "title": "Weather",
-            "overview": "Weekly weather records in 2016 across the U.S.",
-            "version": "2.0.0"
-        },
-        "billionaires": {
-            "name": "billionaires",
-            "title": "Billionaires",
-            "overview": "Information about over 2000 billionaires from around the world.",
-            "version": "2.0.0"
-        },
-        "covid": {
-            "name": "covid",
-            "title": "Covid",
-            "overview": "Since the beginning of the coronavirus pandemic, the Epidemic INtelligence team of the European Center for Disease Control and Prevention (ECDC) has been collecting on daily basis the number of COVID-19 cases and deaths, based on reports from health authorities worldwide. This helps to monitor and interpret the dynamics of the COVID-19 pandemic not only in the European Union (EU), the European Economic Area (EEA), but also worldwide. Every day a team of epidemiologists screens up to 500 relevant sources to collect the latest figures. The data screening is followed by ECDC standard epidemic intelligence process for which every single data entry is validated and documented in an ECDC database.",
-            "version": "2.0.0"
-        },
-        "smoking": {
-            "name": "smoking",
-            "title": "Smoking",
-            "overview": "Smoking trends",
-            "version": "1.0.0"
-        },
-        "state-demographics": {
-            "name": "state demographics",
-            "title": "State Demographics",
-            "overview": "Demographic information for the states in the United States.",
-            "version": "3.0.0"
-        },
-        "aids": {
-            "name": "aids",
-            "title": "Aids",
-            "overview": "Records of AIDS related statistics from several countries.",
-            "version": "3.0.0"
-        },
-        "airlines": {
-            "name": "airlines",
-            "title": "Airlines",
-            "overview": "Information about flight delays in major aiports since 2003.",
+        "opioids": {
+            "name": "opioids",
+            "title": "Opioids",
+            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
             "version": "2.0.0"
         },
         "business-dynamics": {
@@ -2126,28 +2018,58 @@
             "overview": "The Business Dynamics Statistics (BDS) includes measures of establishment openings and closings, firm startups, job creation and destruction by firm size, age, and industrial sector, and several other statistics on business dynamics for the US.",
             "version": "3.0.0"
         },
-        "consumer-price-index": {
-            "name": "consumer price index",
-            "title": "Consumer Price Index",
-            "overview": "Data on the 2022 monkeypox outbreak",
-            "version": "1.0.0"
-        },
-        "finance": {
-            "name": "finance",
-            "title": "Finance",
-            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
-            "version": "3.0.0"
-        },
-        "classics": {
-            "name": "classics",
-            "title": "Classics",
-            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+        "hydropower": {
+            "name": "hydropower",
+            "title": "Hydropower",
+            "overview": "Records about dams in the United States such as location, dimensions, and project information",
             "version": "2.0.0"
         },
-        "school-scores": {
-            "name": "school scores",
-            "title": "School Scores",
-            "overview": "SAT scores for students across the United States, organized by year and state.",
+        "slavery": {
+            "name": "slavery",
+            "title": "Slavery",
+            "overview": "This dataset has financial records of New Orleans slave sales, 1856-1861. There are almost 16,000 sales recorded in this dataset.",
+            "version": "2.0.0"
+        },
+        "covid": {
+            "name": "covid",
+            "title": "Covid",
+            "overview": "The data set contains daily reports of Covid-19 cases and deaths in countries worldwide. The data also shows the country's population and the number of cases per 100,000 people on a rolling 14 day average. ",
+            "version": "2.0.1"
+        },
+        "electricity": {
+            "name": "electricity",
+            "title": "Electricity",
+            "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
+            "version": "2.0.0"
+        },
+        "construction-permits": {
+            "name": "construction permits",
+            "title": "Construction Permits",
+            "overview": "This dataset provides data on the number and valuation of new housing units authorized by building permits.",
+            "version": "3.1.0"
+        },
+        "smoking": {
+            "name": "smoking",
+            "title": "Smoking",
+            "overview": "Smoking trends broken down by gender and country since 1980",
+            "version": "1.0.0"
+        },
+        "wind-turbines": {
+            "name": "wind turbines",
+            "title": "Wind Turbines",
+            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
+            "version": "0.0.2"
+        },
+        "aids": {
+            "name": "aids",
+            "title": "Aids",
+            "overview": "Records of AIDS related statistics from several countries.",
+            "version": "3.0.0"
+        },
+        "weather": {
+            "name": "weather",
+            "title": "Weather",
+            "overview": "Weekly weather records in 2016 across the U.S.",
             "version": "2.0.0"
         },
         "county-demographics": {
@@ -2156,23 +2078,107 @@
             "overview": "Demographic information for counties in the United States.",
             "version": "3.0.0"
         },
-        "state-fragility": {
-            "name": "state fragility",
-            "title": "State Fragility",
-            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+        "consumer-price-index": {
+            "name": "consumer price index",
+            "title": "Consumer Price Index",
+            "overview": "Data related to USA consumer price index, tracking the prices of various commonly purchased goods",
+            "version": "1.0.1"
+        },
+        "cancer": {
+            "name": "cancer",
+            "title": "Cancer",
+            "overview": "Cumulative cancer deaths for the period 2007-2013 are reported for each U.S. state.",
+            "version": "1.0.0"
+        },
+        "food-access": {
+            "name": "food access",
+            "title": "Food Access",
+            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
             "version": "3.0.0"
         },
-        "wind-turbines": {
-            "name": "wind turbines",
-            "title": "Wind Turbines",
-            "overview": "This dataset provides locations and technical specifications of wind turbines in the United States, almost all of which are utility-scale. Utility-scale turbines are ones that generate power and feed it into the grid, supplying a utility with energy. They are usually much larger than turbines that would feed a homeowner or business.",
-            "version": "0.0.2"
+        "drugs": {
+            "name": "drugs",
+            "title": "Drugs",
+            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+            "version": "3.0.0"
         },
-        "police-shootings": {
-            "name": "police shootings",
-            "title": "Police Shootings",
-            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
-            "version": "0.0.2"
+        "skyscrapers": {
+            "name": "skyscrapers",
+            "title": "Skyscrapers",
+            "overview": "Information about tall buildings constructed all over the world.",
+            "version": "2.0.0"
+        },
+        "hospitals": {
+            "name": "hospitals",
+            "title": "Hospitals",
+            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
+            "version": "1.0.0"
+        },
+        "election": {
+            "name": "election",
+            "title": "Election",
+            "overview": "A breakdown of how each county voted in the 2016 Presidential primaries.",
+            "version": "2.0.0"
+        },
+        "state-demographics": {
+            "name": "state demographics",
+            "title": "State Demographics",
+            "overview": "Demographic information for the states in the United States.",
+            "version": "3.0.0"
+        },
+        "retail-services": {
+            "name": "retail services",
+            "title": "Retail Services",
+            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
+            "version": "2.0.0"
+        },
+        "publishers": {
+            "name": "publishers",
+            "title": "Publishers",
+            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
+            "version": "2.0.0"
+        },
+        "billionaires": {
+            "name": "billionaires",
+            "title": "Billionaires",
+            "overview": "Information about over 2000 billionaires from around the world.",
+            "version": "2.0.0"
+        },
+        "real-estate": {
+            "name": "real estate",
+            "title": "Real Estate",
+            "overview": "Real estate information in the United States, including inventory, building, and customer data.",
+            "version": "3.0.0"
+        },
+        "cars": {
+            "name": "cars",
+            "title": "Cars",
+            "overview": "This is a dataset about cars and how much fuel they use.",
+            "version": "2.0.0"
+        },
+        "medal-of-honor": {
+            "name": "medal of honor",
+            "title": "Medal Of Honor",
+            "overview": "This dataset has records for the awarding of the United States Medal of Honor, one of the military's highest honors.",
+            "version": "2.0.0"
+        },
+        "state-crime": {
+            "name": "state crime",
+            "title": "State Crime",
+            "overview": "Records about the crime rates and totals for US states over time.",
+            "version": "3.0.0"
+        },
+        "broadway": {
+            "name": "broadway",
+            "title": "Broadway",
+            "overview": "This library holds data about Broadway shows, such as tickets sold.",
+            "version": "2.0.0"
+        },
+        "global-emissions": {
+            "name": "global emissions",
+            "title": "Global Emissions",
+            "overview": "A collection of key metrics maintained by Our World in Data - updated regularly and includes data on CO2 emissions, other greenhouse gases, energy mix, and other relevant metrics.",
+            "version": "1.0.0"
         },
         "graduates": {
             "name": "graduates",
@@ -2186,83 +2192,23 @@
             "overview": "Data on the 2022 monkeypox outbreak",
             "version": "1.0.0"
         },
-        "drugs": {
-            "name": "drugs",
-            "title": "Drugs",
-            "overview": "This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) among different age groups and states.",
+        "finance": {
+            "name": "finance",
+            "title": "Finance",
+            "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
         },
-        "publishers": {
-            "name": "publishers",
-            "title": "Publishers",
-            "overview": "E-book sales on Amazon, including daily and total earnings for 54,000 titles.\n",
-            "version": "2.0.0"
-        },
-        "health": {
-            "name": "health",
-            "title": "Health",
-            "overview": "This library holds data about reports of diseases in America.",
-            "version": "2.0.0"
-        },
-        "broadway": {
-            "name": "broadway",
-            "title": "Broadway",
-            "overview": "This library holds data about Broadway shows, such as tickets sold.",
-            "version": "2.0.0"
-        },
-        "video-games": {
-            "name": "video games",
-            "title": "Video Games",
-            "overview": "This library has data about video games, including their play time and sales.",
-            "version": "2.0.0"
-        },
-        "supreme-court": {
-            "name": "supreme court",
-            "title": "Supreme Court",
-            "overview": "This dataset contains information about supreme court cases for the several decades.",
+        "suicide-attacks": {
+            "name": "suicide attacks",
+            "title": "Suicide Attacks",
+            "overview": "This dataset has about suicide attacks all over the world for the past three decades.",
             "version": "3.0.0"
         },
-        "injuries": {
-            "name": "injuries",
-            "title": "Injuries",
-            "overview": "A sampling of work-related injury and illness data from the US.",
-            "version": "2.0.0"
-        },
-        "retail-services": {
-            "name": "retail services",
-            "title": "Retail Services",
-            "overview": "Monthly sales, inventories, and inventory/sales ratios for retail trade and food services.",
-            "version": "2.0.0"
-        },
-        "global-development": {
-            "name": "global development",
-            "title": "Global Development",
-            "overview": "Reports of country's development over time",
-            "version": "2.0.0"
-        },
-        "state-crime": {
-            "name": "state crime",
-            "title": "State Crime",
-            "overview": "Records about the crime rates and totals for US states over time.",
+        "energy": {
+            "name": "energy",
+            "title": "Energy",
+            "overview": "United States Government reports on consumption, production, import, and export of various fuel sources.",
             "version": "3.0.0"
-        },
-        "opioids": {
-            "name": "opioids",
-            "title": "Opioids",
-            "overview": "The data set shows the number and rates of deaths due to opioid overdose.",
-            "version": "2.0.0"
-        },
-        "food-access": {
-            "name": "food access",
-            "title": "Food Access",
-            "overview": "Data about counties ability to access supermarkets, supercenters, grocery stores, or other sources of healthy and affordable food.",
-            "version": "3.0.0"
-        },
-        "hospitals": {
-            "name": "hospitals",
-            "title": "Hospitals",
-            "overview": "To help consumers make informed decisions about health care, the Centers for Medicare & Medicaid Services (CMS) collects data about the cost and quality of care at over 4,000 Medicare-qualified hospitals.",
-            "version": "1.0.0"
         },
         "ingredients": {
             "name": "ingredients",
@@ -2276,17 +2222,71 @@
             "overview": "Records from different earthquake occurences across the world.",
             "version": "2.0.0"
         },
+        "classics": {
+            "name": "classics",
+            "title": "Classics",
+            "overview": "Records and computed statistics about the top 1000 books on Project Gutenberg.",
+            "version": "2.0.0"
+        },
         "covid-behaviors": {
             "name": "covid behaviors",
             "title": "Covid Behaviors",
             "overview": "Behavioural analysis on how different populations are responding to the pandemic",
             "version": "1.0.0"
         },
-        "cars": {
-            "name": "cars",
-            "title": "Cars",
-            "overview": "This is a dataset about cars and how much fuel they use.",
+        "food": {
+            "name": "food",
+            "title": "Food",
+            "overview": "Statistics for various food items",
+            "version": "3.0.0"
+        },
+        "state-fragility": {
+            "name": "state fragility",
+            "title": "State Fragility",
+            "overview": "The State Fragility Index scores for countries around the world from 1995 to 2018",
+            "version": "3.0.0"
+        },
+        "police-shootings": {
+            "name": "police shootings",
+            "title": "Police Shootings",
+            "overview": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015 by culling local news reports, law enforcement websites and social media and by monitoring independent databases. The Post conducted additional reporting in many cases. ",
+            "version": "0.0.2"
+        },
+        "health": {
+            "name": "health",
+            "title": "Health",
+            "overview": "This library holds data about reports of diseases in America.",
             "version": "2.0.0"
+        },
+        "labor": {
+            "name": "labor",
+            "title": "Labor",
+            "overview": "Employment status of the civilian population by race, sex, and age.",
+            "version": "2.0.0"
+        },
+        "airlines": {
+            "name": "airlines",
+            "title": "Airlines",
+            "overview": "Information about flight delays in major aiports since 2003.",
+            "version": "2.0.0"
+        },
+        "music": {
+            "name": "music",
+            "title": "Music",
+            "overview": "The Music library is a compilation of over one million contemporary songs and information about their audio features and metadata.",
+            "version": "2.0.0"
+        },
+        "construction-spending": {
+            "name": "construction spending",
+            "title": "Construction Spending",
+            "overview": "Estimates of the total dollar value of construction work done in the U.S.",
+            "version": "2.0.0"
+        },
+        "emissions": {
+            "name": "emissions",
+            "title": "Emissions",
+            "overview": "The  Emissions Database for Atmospheric Research (EDGAR) supported by the European Union shows green house gas emissons by country. This data set contains data from 1970 through 2012. ",
+            "version": "1.0.0"
         }
     }
 }

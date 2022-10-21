@@ -15,7 +15,7 @@ style: dataset
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Sam Donald</span><br>
-<span class='text-muted'>Version 1.0.0, created 9/27/2022</span><br>
+<span class='text-muted'>Version 1.0.1, created 9/27/2022</span><br>
 <span class='text-muted'>Tags: consumer goods, price trends</span>
 
 # Overview

@@ -1968,32 +1968,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4833722,
       "Rates": {
         "Property": {
-          "All": 285.2,
-          "Burglary": 3351.3,
-          "Larceny": 877.8,
-          "Motor": 2254.8
+          "All": 3351.3,
+          "Burglary": 877.8,
+          "Larceny": 2254.8,
+          "Motor": 218.7
         },
         "Violent": {
           "All": 430.8,
-          "Assault": 96.2,
+          "Assault": 285.2,
           "Murder": 7.2,
           "Rape": 42.3,
-          "Robbery": 29.5
+          "Robbery": 96.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 13787,
-          "Burglary": 161993,
-          "Larceny": 42429,
-          "Motor": 108993
+          "All": 161993,
+          "Burglary": 42429,
+          "Larceny": 108993,
+          "Motor": 10571
         },
         "Violent": {
           "All": 20826,
-          "Assault": 4648,
+          "Assault": 13787,
           "Murder": 347,
           "Rape": 2044,
-          "Robbery": 1428
+          "Robbery": 4648
         }
       }
     }
@@ -2005,32 +2005,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4849377,
       "Rates": {
         "Property": {
-          "All": 283.4,
-          "Burglary": 3177.6,
-          "Larceny": 819.0,
-          "Motor": 2149.5
+          "All": 3177.6,
+          "Burglary": 819.0,
+          "Larceny": 2149.5,
+          "Motor": 209.1
         },
         "Violent": {
           "All": 427.4,
-          "Assault": 96.9,
+          "Assault": 283.4,
           "Murder": 5.7,
           "Rape": 41.3,
-          "Robbery": 29.6
+          "Robbery": 96.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 13745,
-          "Burglary": 154094,
-          "Larceny": 39715,
-          "Motor": 104238
+          "All": 154094,
+          "Burglary": 39715,
+          "Larceny": 104238,
+          "Motor": 10141
         },
         "Violent": {
           "All": 20727,
-          "Assault": 4701,
+          "Assault": 13745,
           "Murder": 276,
           "Rape": 2005,
-          "Robbery": 1436
+          "Robbery": 4701
         }
       }
     }
@@ -2042,32 +2042,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4858979,
       "Rates": {
         "Property": {
-          "All": 328.3,
-          "Burglary": 2978.9,
-          "Larceny": 725.6,
-          "Motor": 2040.7
+          "All": 2978.9,
+          "Burglary": 725.6,
+          "Larceny": 2040.7,
+          "Motor": 212.7
         },
         "Violent": {
           "All": 472.4,
-          "Assault": 94.9,
+          "Assault": 328.3,
           "Murder": 7.2,
           "Rape": 42.0,
-          "Robbery": 30.0
+          "Robbery": 94.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 15954,
-          "Burglary": 144746,
-          "Larceny": 35255,
-          "Motor": 99156
+          "All": 144746,
+          "Burglary": 35255,
+          "Larceny": 99156,
+          "Motor": 10335
         },
         "Violent": {
           "All": 22952,
-          "Assault": 4611,
+          "Assault": 15954,
           "Murder": 348,
           "Rape": 2039,
-          "Robbery": 1456
+          "Robbery": 4611
         }
       }
     }
@@ -4188,32 +4188,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 735132,
       "Rates": {
         "Property": {
-          "All": 425.5,
-          "Burglary": 2885.2,
-          "Larceny": 396.7,
-          "Motor": 2258.0
+          "All": 2885.2,
+          "Burglary": 396.7,
+          "Larceny": 2258.0,
+          "Motor": 230.6
         },
         "Violent": {
           "All": 640.4,
-          "Assault": 84.9,
+          "Assault": 425.5,
           "Murder": 4.6,
           "Rape": 125.4,
-          "Robbery": 87.6
+          "Robbery": 84.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 3128,
-          "Burglary": 21210,
-          "Larceny": 2916,
-          "Motor": 16599
+          "All": 21210,
+          "Burglary": 2916,
+          "Larceny": 16599,
+          "Motor": 1695
         },
         "Violent": {
           "All": 4708,
-          "Assault": 624,
+          "Assault": 3128,
           "Murder": 34,
           "Rape": 922,
-          "Robbery": 644
+          "Robbery": 624
         }
       }
     }
@@ -4225,32 +4225,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 736732,
       "Rates": {
         "Property": {
-          "All": 440.2,
-          "Burglary": 2760.0,
-          "Larceny": 427.6,
-          "Motor": 2096.4
+          "All": 2760.0,
+          "Burglary": 427.6,
+          "Larceny": 2096.4,
+          "Motor": 236.0
         },
         "Violent": {
           "All": 635.8,
-          "Assault": 85.4,
+          "Assault": 440.2,
           "Murder": 5.6,
           "Rape": 104.7,
-          "Robbery": 75.3
+          "Robbery": 85.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 3243,
-          "Burglary": 20334,
-          "Larceny": 3150,
-          "Motor": 15445
+          "All": 20334,
+          "Burglary": 3150,
+          "Larceny": 15445,
+          "Motor": 1739
         },
         "Violent": {
           "All": 4684,
-          "Assault": 629,
+          "Assault": 3243,
           "Murder": 41,
           "Rape": 771,
-          "Robbery": 555
+          "Robbery": 629
         }
       }
     }
@@ -4262,32 +4262,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 738432,
       "Rates": {
         "Property": {
-          "All": 497.1,
-          "Burglary": 2817.6,
-          "Larceny": 475.5,
-          "Motor": 2065.1
+          "All": 2817.6,
+          "Burglary": 475.5,
+          "Larceny": 2065.1,
+          "Motor": 277.1
         },
         "Violent": {
           "All": 730.2,
-          "Assault": 103.1,
+          "Assault": 497.1,
           "Murder": 8.0,
           "Rape": 122.0,
-          "Robbery": 88.0
+          "Robbery": 103.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 3671,
-          "Burglary": 20806,
-          "Larceny": 3511,
-          "Motor": 15249
+          "All": 20806,
+          "Burglary": 3511,
+          "Larceny": 15249,
+          "Motor": 2046
         },
         "Violent": {
           "All": 5392,
-          "Assault": 761,
+          "Assault": 3671,
           "Murder": 59,
           "Rape": 901,
-          "Robbery": 650
+          "Robbery": 761
         }
       }
     }
@@ -6408,32 +6408,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6626624,
       "Rates": {
         "Property": {
-          "All": 263.9,
-          "Burglary": 3399.1,
-          "Larceny": 732.4,
-          "Motor": 2403.5
+          "All": 3399.1,
+          "Burglary": 732.4,
+          "Larceny": 2403.5,
+          "Motor": 263.2
         },
         "Violent": {
           "All": 416.5,
-          "Assault": 101.1,
+          "Assault": 263.9,
           "Murder": 5.4,
           "Rape": 46.0,
-          "Robbery": 35.4
+          "Robbery": 101.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 17490,
-          "Burglary": 225243,
-          "Larceny": 48533,
-          "Motor": 159272
+          "All": 225243,
+          "Burglary": 48533,
+          "Larceny": 159272,
+          "Motor": 17438
         },
         "Violent": {
           "All": 27599,
-          "Assault": 6702,
+          "Assault": 17490,
           "Murder": 357,
           "Rape": 3050,
-          "Robbery": 2343
+          "Robbery": 6702
         }
       }
     }
@@ -6445,32 +6445,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6731484,
       "Rates": {
         "Property": {
-          "All": 252.1,
-          "Burglary": 3197.5,
-          "Larceny": 647.1,
-          "Motor": 2289.1
+          "All": 3197.5,
+          "Burglary": 647.1,
+          "Larceny": 2289.1,
+          "Motor": 261.3
         },
         "Violent": {
           "All": 399.9,
-          "Assault": 92.8,
+          "Assault": 252.1,
           "Murder": 4.7,
           "Rape": 50.2,
-          "Robbery": 36.6
+          "Robbery": 92.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 16970,
-          "Burglary": 215240,
-          "Larceny": 43562,
-          "Motor": 154091
+          "All": 215240,
+          "Burglary": 43562,
+          "Larceny": 154091,
+          "Motor": 17587
         },
         "Violent": {
           "All": 26916,
-          "Assault": 6249,
+          "Assault": 16970,
           "Murder": 319,
           "Rape": 3378,
-          "Robbery": 2464
+          "Robbery": 6249
         }
       }
     }
@@ -6482,32 +6482,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6828065,
       "Rates": {
         "Property": {
-          "All": 267.1,
-          "Burglary": 3033.2,
-          "Larceny": 555.9,
-          "Motor": 2231.5
+          "All": 3033.2,
+          "Burglary": 555.9,
+          "Larceny": 2231.5,
+          "Motor": 245.8
         },
         "Violent": {
           "All": 410.2,
-          "Assault": 93.1,
+          "Assault": 267.1,
           "Murder": 4.5,
           "Rape": 45.5,
-          "Robbery": 33.6
+          "Robbery": 93.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 18235,
-          "Burglary": 207107,
-          "Larceny": 37957,
-          "Motor": 152365
+          "All": 207107,
+          "Burglary": 37957,
+          "Larceny": 152365,
+          "Motor": 16785
         },
         "Violent": {
           "All": 28012,
-          "Assault": 6360,
+          "Assault": 18235,
           "Murder": 309,
           "Rape": 3108,
-          "Robbery": 2294
+          "Robbery": 6360
         }
       }
     }
@@ -8628,32 +8628,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2959373,
       "Rates": {
         "Property": {
-          "All": 330.5,
-          "Burglary": 3602.6,
-          "Larceny": 1030.1,
-          "Motor": 2380.6
+          "All": 3602.6,
+          "Burglary": 1030.1,
+          "Larceny": 2380.6,
+          "Motor": 191.9
         },
         "Violent": {
           "All": 460.3,
-          "Assault": 76.3,
+          "Assault": 330.5,
           "Murder": 5.4,
           "Rape": 48.1,
-          "Robbery": 33.6
+          "Robbery": 76.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 9781,
-          "Burglary": 106613,
-          "Larceny": 30485,
-          "Motor": 70450
+          "All": 106613,
+          "Burglary": 30485,
+          "Larceny": 70450,
+          "Motor": 5678
         },
         "Violent": {
           "All": 13621,
-          "Assault": 2258,
+          "Assault": 9781,
           "Murder": 159,
           "Rape": 1423,
-          "Robbery": 993
+          "Robbery": 2258
         }
       }
     }
@@ -8665,32 +8665,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2966369,
       "Rates": {
         "Property": {
-          "All": 346.0,
-          "Burglary": 3338.0,
-          "Larceny": 835.7,
-          "Motor": 2313.5
+          "All": 3338.0,
+          "Burglary": 835.7,
+          "Larceny": 2313.5,
+          "Motor": 188.8
         },
         "Violent": {
           "All": 480.1,
-          "Assault": 69.1,
+          "Assault": 346.0,
           "Murder": 5.6,
           "Rape": 59.4,
-          "Robbery": 39.8
+          "Robbery": 69.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 10265,
-          "Burglary": 99018,
-          "Larceny": 24790,
-          "Motor": 68627
+          "All": 99018,
+          "Burglary": 24790,
+          "Larceny": 68627,
+          "Motor": 5601
         },
         "Violent": {
           "All": 14243,
-          "Assault": 2050,
+          "Assault": 10265,
           "Murder": 165,
           "Rape": 1763,
-          "Robbery": 1182
+          "Robbery": 2050
         }
       }
     }
@@ -8702,32 +8702,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2978204,
       "Rates": {
         "Property": {
-          "All": 380.0,
-          "Burglary": 3251.5,
-          "Larceny": 760.2,
-          "Motor": 2297.5
+          "All": 3251.5,
+          "Burglary": 760.2,
+          "Larceny": 2297.5,
+          "Motor": 193.8
         },
         "Violent": {
           "All": 521.3,
-          "Assault": 70.4,
+          "Assault": 380.0,
           "Murder": 6.1,
           "Rape": 64.8,
-          "Robbery": 43.7
+          "Robbery": 70.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 11316,
-          "Burglary": 96836,
-          "Larceny": 22640,
-          "Motor": 68424
+          "All": 96836,
+          "Burglary": 22640,
+          "Larceny": 68424,
+          "Motor": 5772
         },
         "Violent": {
           "All": 15526,
-          "Assault": 2098,
+          "Assault": 11316,
           "Murder": 181,
           "Rape": 1931,
-          "Robbery": 1300
+          "Robbery": 2098
         }
       }
     }
@@ -10848,32 +10848,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 38332521,
       "Rates": {
         "Property": {
-          "All": 232.3,
-          "Burglary": 2658.1,
-          "Larceny": 605.4,
-          "Motor": 1621.5
+          "All": 2658.1,
+          "Burglary": 605.4,
+          "Larceny": 1621.5,
+          "Motor": 431.2
         },
         "Violent": {
           "All": 402.1,
-          "Assault": 139.9,
+          "Assault": 232.3,
           "Murder": 4.6,
           "Rape": 25.3,
-          "Robbery": 19.5
+          "Robbery": 139.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 89029,
-          "Burglary": 1018907,
-          "Larceny": 232058,
-          "Motor": 621557
+          "All": 1018907,
+          "Burglary": 232058,
+          "Larceny": 621557,
+          "Motor": 165292
         },
         "Violent": {
           "All": 154129,
-          "Assault": 53640,
+          "Assault": 89029,
           "Murder": 1746,
           "Rape": 9714,
-          "Robbery": 7464
+          "Robbery": 53640
         }
       }
     }
@@ -10885,32 +10885,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 38802500,
       "Rates": {
         "Property": {
-          "All": 236.6,
-          "Burglary": 2441.1,
-          "Larceny": 522.3,
-          "Motor": 1527.4
+          "All": 2441.1,
+          "Burglary": 522.3,
+          "Larceny": 1527.4,
+          "Motor": 391.3
         },
         "Violent": {
           "All": 396.1,
-          "Assault": 125.5,
+          "Assault": 236.6,
           "Murder": 4.4,
           "Rape": 29.7,
-          "Robbery": 21.6
+          "Robbery": 125.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 91803,
-          "Burglary": 947192,
-          "Larceny": 202670,
-          "Motor": 592670
+          "All": 947192,
+          "Burglary": 202670,
+          "Larceny": 592670,
+          "Motor": 151852
         },
         "Violent": {
           "All": 153709,
-          "Assault": 48680,
+          "Assault": 91803,
           "Murder": 1699,
           "Rape": 11527,
-          "Robbery": 8398
+          "Robbery": 48680
         }
       }
     }
@@ -10922,32 +10922,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 39144818,
       "Rates": {
         "Property": {
-          "All": 253.8,
-          "Burglary": 2618.3,
-          "Larceny": 504.3,
-          "Motor": 1677.1
+          "All": 2618.3,
+          "Burglary": 504.3,
+          "Larceny": 1677.1,
+          "Motor": 436.8
         },
         "Violent": {
           "All": 426.3,
-          "Assault": 135.0,
+          "Assault": 253.8,
           "Murder": 4.8,
           "Rape": 32.7,
-          "Robbery": 24.0
+          "Robbery": 135.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 99349,
-          "Burglary": 1024914,
-          "Larceny": 197404,
-          "Motor": 656517
+          "All": 1024914,
+          "Burglary": 197404,
+          "Larceny": 656517,
+          "Motor": 170993
         },
         "Violent": {
           "All": 166883,
-          "Assault": 52862,
+          "Assault": 99349,
           "Murder": 1861,
           "Rape": 12811,
-          "Robbery": 9387
+          "Robbery": 52862
         }
       }
     }
@@ -13068,32 +13068,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5268367,
       "Rates": {
         "Property": {
-          "All": 189.1,
-          "Burglary": 2658.5,
-          "Larceny": 476.1,
-          "Motor": 1944.5
+          "All": 2658.5,
+          "Burglary": 476.1,
+          "Larceny": 1944.5,
+          "Motor": 237.9
         },
         "Violent": {
           "All": 308.0,
-          "Assault": 59.8,
+          "Assault": 189.1,
           "Murder": 3.4,
           "Rape": 55.7,
-          "Robbery": 38.9
+          "Robbery": 59.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 9963,
-          "Burglary": 140057,
-          "Larceny": 25081,
-          "Motor": 102443
+          "All": 140057,
+          "Burglary": 25081,
+          "Larceny": 102443,
+          "Motor": 12533
         },
         "Violent": {
           "All": 16226,
-          "Assault": 3151,
+          "Assault": 9963,
           "Murder": 178,
           "Rape": 2934,
-          "Robbery": 2050
+          "Robbery": 3151
         }
       }
     }
@@ -13105,32 +13105,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5355866,
       "Rates": {
         "Property": {
-          "All": 192.8,
-          "Burglary": 2530.1,
-          "Larceny": 438.2,
-          "Motor": 1857.1
+          "All": 2530.1,
+          "Burglary": 438.2,
+          "Larceny": 1857.1,
+          "Motor": 234.8
         },
         "Violent": {
           "All": 309.1,
-          "Assault": 56.7,
+          "Assault": 192.8,
           "Murder": 2.8,
           "Rape": 56.7,
-          "Robbery": 39.6
+          "Robbery": 56.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 10325,
-          "Burglary": 135510,
-          "Larceny": 23472,
-          "Motor": 99464
+          "All": 135510,
+          "Burglary": 23472,
+          "Larceny": 99464,
+          "Motor": 12574
         },
         "Violent": {
           "All": 16554,
-          "Assault": 3039,
+          "Assault": 10325,
           "Murder": 151,
           "Rape": 3039,
-          "Robbery": 2121
+          "Robbery": 3039
         }
       }
     }
@@ -13142,32 +13142,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5456574,
       "Rates": {
         "Property": {
-          "All": 197.2,
-          "Burglary": 2641.5,
-          "Larceny": 429.8,
-          "Motor": 1918.5
+          "All": 2641.5,
+          "Burglary": 429.8,
+          "Larceny": 1918.5,
+          "Motor": 293.2
         },
         "Violent": {
           "All": 321.0,
-          "Assault": 60.9,
+          "Assault": 197.2,
           "Murder": 3.2,
           "Rape": 59.7,
-          "Robbery": 43.6
+          "Robbery": 60.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 10759,
-          "Burglary": 144136,
-          "Larceny": 23454,
-          "Motor": 104682
+          "All": 144136,
+          "Burglary": 23454,
+          "Larceny": 104682,
+          "Motor": 16000
         },
         "Violent": {
           "All": 17515,
-          "Assault": 3323,
+          "Assault": 10759,
           "Murder": 176,
           "Rape": 3257,
-          "Robbery": 2377
+          "Robbery": 3323
         }
       }
     }
@@ -15288,32 +15288,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3596080,
       "Rates": {
         "Property": {
-          "All": 135.4,
-          "Burglary": 1974.1,
-          "Larceny": 358.5,
-          "Motor": 1442.6
+          "All": 1974.1,
+          "Burglary": 358.5,
+          "Larceny": 1442.6,
+          "Motor": 173.0
         },
         "Violent": {
           "All": 262.5,
-          "Assault": 98.2,
+          "Assault": 135.4,
           "Murder": 2.4,
           "Rape": 26.6,
-          "Robbery": 18.6
+          "Robbery": 98.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 4869,
-          "Burglary": 70990,
-          "Larceny": 12892,
-          "Motor": 51876
+          "All": 70990,
+          "Burglary": 12892,
+          "Larceny": 51876,
+          "Motor": 6222
         },
         "Violent": {
           "All": 9440,
-          "Assault": 3530,
+          "Assault": 4869,
           "Murder": 86,
           "Rape": 955,
-          "Robbery": 668
+          "Robbery": 3530
         }
       }
     }
@@ -15325,32 +15325,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3596677,
       "Rates": {
         "Property": {
-          "All": 125.0,
-          "Burglary": 1920.4,
-          "Larceny": 332.4,
-          "Motor": 1418.1
+          "All": 1920.4,
+          "Burglary": 332.4,
+          "Larceny": 1418.1,
+          "Motor": 169.9
         },
         "Violent": {
           "All": 236.9,
-          "Assault": 87.8,
+          "Assault": 125.0,
           "Murder": 2.4,
           "Rape": 21.7,
-          "Robbery": 15.9
+          "Robbery": 87.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 4495,
-          "Burglary": 69070,
-          "Larceny": 11955,
-          "Motor": 51005
+          "All": 69070,
+          "Burglary": 11955,
+          "Larceny": 51005,
+          "Motor": 6110
         },
         "Violent": {
           "All": 8522,
-          "Assault": 3159,
+          "Assault": 4495,
           "Murder": 86,
           "Rape": 782,
-          "Robbery": 571
+          "Robbery": 3159
         }
       }
     }
@@ -15362,32 +15362,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3590886,
       "Rates": {
         "Property": {
-          "All": 113.1,
-          "Burglary": 1812.0,
-          "Larceny": 280.0,
-          "Motor": 1355.5
+          "All": 1812.0,
+          "Burglary": 280.0,
+          "Larceny": 1355.5,
+          "Motor": 176.5
         },
         "Violent": {
           "All": 218.5,
-          "Assault": 80.5,
+          "Assault": 113.1,
           "Murder": 3.3,
           "Rape": 21.5,
-          "Robbery": 16.2
+          "Robbery": 80.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 4063,
-          "Burglary": 65066,
-          "Larceny": 10053,
-          "Motor": 48675
+          "All": 65066,
+          "Burglary": 10053,
+          "Larceny": 48675,
+          "Motor": 6338
         },
         "Violent": {
           "All": 7845,
-          "Assault": 2892,
+          "Assault": 4063,
           "Murder": 117,
           "Rape": 773,
-          "Robbery": 582
+          "Robbery": 2892
         }
       }
     }
@@ -17508,32 +17508,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 925749,
       "Rates": {
         "Property": {
-          "All": 313.7,
-          "Burglary": 3065.5,
-          "Larceny": 662.3,
-          "Motor": 2259.4
+          "All": 3065.5,
+          "Burglary": 662.3,
+          "Larceny": 2259.4,
+          "Motor": 143.9
         },
         "Violent": {
           "All": 491.4,
-          "Assault": 132.4,
+          "Assault": 313.7,
           "Murder": 4.2,
           "Rape": 41.0,
-          "Robbery": 28.7
+          "Robbery": 132.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 2904,
-          "Burglary": 28379,
-          "Larceny": 6131,
-          "Motor": 20916
+          "All": 28379,
+          "Burglary": 6131,
+          "Larceny": 20916,
+          "Motor": 1332
         },
         "Violent": {
           "All": 4549,
-          "Assault": 1226,
+          "Assault": 2904,
           "Murder": 39,
           "Rape": 380,
-          "Robbery": 266
+          "Robbery": 1226
         }
       }
     }
@@ -17545,32 +17545,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 935614,
       "Rates": {
         "Property": {
-          "All": 306.4,
-          "Burglary": 2982.0,
-          "Larceny": 616.5,
-          "Motor": 2230.1
+          "All": 2982.0,
+          "Burglary": 616.5,
+          "Larceny": 2230.1,
+          "Motor": 135.4
         },
         "Violent": {
           "All": 489.1,
-          "Assault": 135.6,
+          "Assault": 306.4,
           "Murder": 5.8,
           "Rape": 41.3,
-          "Robbery": 26.6
+          "Robbery": 135.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 2867,
-          "Burglary": 27900,
-          "Larceny": 5768,
-          "Motor": 20865
+          "All": 27900,
+          "Burglary": 5768,
+          "Larceny": 20865,
+          "Motor": 1267
         },
         "Violent": {
           "All": 4576,
-          "Assault": 1269,
+          "Assault": 2867,
           "Murder": 54,
           "Rape": 386,
-          "Robbery": 249
+          "Robbery": 1269
         }
       }
     }
@@ -17582,32 +17582,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 945934,
       "Rates": {
         "Property": {
-          "All": 325.7,
-          "Burglary": 2691.0,
-          "Larceny": 504.6,
-          "Motor": 2061.6
+          "All": 2691.0,
+          "Burglary": 504.6,
+          "Larceny": 2061.6,
+          "Motor": 124.9
         },
         "Violent": {
           "All": 499.0,
-          "Assault": 130.6,
+          "Assault": 325.7,
           "Murder": 6.7,
           "Rape": 36.0,
-          "Robbery": 25.7
+          "Robbery": 130.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 3081,
-          "Burglary": 25455,
-          "Larceny": 4773,
-          "Motor": 19501
+          "All": 25455,
+          "Burglary": 4773,
+          "Larceny": 19501,
+          "Motor": 1181
         },
         "Violent": {
           "All": 4720,
-          "Assault": 1235,
+          "Assault": 3081,
           "Murder": 63,
           "Rape": 341,
-          "Robbery": 243
+          "Robbery": 1235
         }
       }
     }
@@ -19728,32 +19728,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 646449,
       "Rates": {
         "Property": {
-          "All": 592.5,
-          "Burglary": 4808.3,
-          "Larceny": 513.0,
-          "Motor": 3795.0
+          "All": 4808.3,
+          "Burglary": 513.0,
+          "Larceny": 3795.0,
+          "Motor": 500.3
         },
         "Violent": {
           "All": 1300.3,
-          "Assault": 630.8,
+          "Assault": 592.5,
           "Murder": 15.9,
           "Rape": 61.1,
-          "Robbery": 42.7
+          "Robbery": 630.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 3830,
-          "Burglary": 31083,
-          "Larceny": 3316,
-          "Motor": 24533
+          "All": 31083,
+          "Burglary": 3316,
+          "Larceny": 24533,
+          "Motor": 3234
         },
         "Violent": {
           "All": 8406,
-          "Assault": 4078,
+          "Assault": 3830,
           "Murder": 103,
           "Rape": 395,
-          "Robbery": 276
+          "Robbery": 4078
         }
       }
     }
@@ -19765,32 +19765,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 658893,
       "Rates": {
         "Property": {
-          "All": 626.1,
-          "Burglary": 5182.5,
-          "Larceny": 526.0,
-          "Motor": 4082.3
+          "All": 5182.5,
+          "Burglary": 526.0,
+          "Larceny": 4082.3,
+          "Motor": 574.1
         },
         "Violent": {
           "All": 1244.4,
-          "Assault": 530.7,
+          "Assault": 626.1,
           "Murder": 15.9,
           "Rape": 71.6,
-          "Robbery": 53.4
+          "Robbery": 530.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 4125,
-          "Burglary": 34147,
-          "Larceny": 3466,
-          "Motor": 26898
+          "All": 34147,
+          "Burglary": 3466,
+          "Larceny": 26898,
+          "Motor": 3783
         },
         "Violent": {
           "All": 8199,
-          "Assault": 3497,
+          "Assault": 4125,
           "Murder": 105,
           "Rape": 472,
-          "Robbery": 352
+          "Robbery": 3497
         }
       }
     }
@@ -19802,32 +19802,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 672228,
       "Rates": {
         "Property": {
-          "All": 614.8,
-          "Burglary": 4676.2,
-          "Larceny": 442.0,
-          "Motor": 3748.7
+          "All": 4676.2,
+          "Burglary": 442.0,
+          "Larceny": 3748.7,
+          "Motor": 485.5
         },
         "Violent": {
           "All": 1269.1,
-          "Assault": 556.7,
+          "Assault": 614.8,
           "Murder": 24.1,
           "Rape": 73.5,
-          "Robbery": 54.4
+          "Robbery": 556.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 4133,
-          "Burglary": 31435,
-          "Larceny": 2971,
-          "Motor": 25200
+          "All": 31435,
+          "Burglary": 2971,
+          "Larceny": 25200,
+          "Motor": 3264
         },
         "Violent": {
           "All": 8531,
-          "Assault": 3742,
+          "Assault": 4133,
           "Murder": 162,
           "Rape": 494,
-          "Robbery": 366
+          "Robbery": 3742
         }
       }
     }
@@ -21948,32 +21948,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 19552860,
       "Rates": {
         "Property": {
-          "All": 312.3,
-          "Burglary": 3105.3,
-          "Larceny": 710.5,
-          "Motor": 2216.3
+          "All": 3105.3,
+          "Burglary": 710.5,
+          "Larceny": 2216.3,
+          "Motor": 178.6
         },
         "Violent": {
           "All": 470.4,
-          "Assault": 118.7,
+          "Assault": 312.3,
           "Murder": 5.0,
           "Rape": 34.6,
-          "Robbery": 24.1
+          "Robbery": 118.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 61054,
-          "Burglary": 607172,
-          "Larceny": 138916,
-          "Motor": 433344
+          "All": 607172,
+          "Burglary": 138916,
+          "Larceny": 433344,
+          "Motor": 34912
         },
         "Violent": {
           "All": 91986,
-          "Assault": 23200,
+          "Assault": 61054,
           "Murder": 972,
           "Rape": 6760,
-          "Robbery": 4722
+          "Robbery": 23200
         }
       }
     }
@@ -21985,32 +21985,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 19893297,
       "Rates": {
         "Property": {
-          "All": 366.4,
-          "Burglary": 3415.5,
-          "Larceny": 719.9,
-          "Motor": 2481.5
+          "All": 3415.5,
+          "Burglary": 719.9,
+          "Larceny": 2481.5,
+          "Motor": 214.0
         },
         "Violent": {
           "All": 540.5,
-          "Assault": 125.2,
+          "Assault": 366.4,
           "Murder": 5.8,
           "Rape": 43.0,
-          "Robbery": 30.4
+          "Robbery": 125.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 72895,
-          "Burglary": 679446,
-          "Larceny": 143220,
-          "Motor": 493647
+          "All": 679446,
+          "Burglary": 143220,
+          "Larceny": 493647,
+          "Motor": 42579
         },
         "Violent": {
           "All": 107521,
-          "Assault": 24914,
+          "Assault": 72895,
           "Murder": 1149,
           "Rape": 8563,
-          "Robbery": 6051
+          "Robbery": 24914
         }
       }
     }
@@ -22022,32 +22022,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 20271272,
       "Rates": {
         "Property": {
-          "All": 315.2,
-          "Burglary": 2813.2,
-          "Larceny": 539.0,
-          "Motor": 2073.6
+          "All": 2813.2,
+          "Burglary": 539.0,
+          "Larceny": 2073.6,
+          "Motor": 200.6
         },
         "Violent": {
           "All": 461.9,
-          "Assault": 104.3,
+          "Assault": 315.2,
           "Murder": 5.1,
           "Rape": 37.3,
-          "Robbery": 26.8
+          "Robbery": 104.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 63895,
-          "Burglary": 570270,
-          "Larceny": 109268,
-          "Motor": 420341
+          "All": 570270,
+          "Burglary": 109268,
+          "Larceny": 420341,
+          "Motor": 40661
         },
         "Violent": {
           "All": 93626,
-          "Assault": 21137,
+          "Assault": 63895,
           "Murder": 1041,
           "Rape": 7553,
-          "Robbery": 5430
+          "Robbery": 21137
         }
       }
     }
@@ -24168,32 +24168,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9992167,
       "Rates": {
         "Property": {
-          "All": 209.3,
-          "Burglary": 3346.6,
-          "Larceny": 823.2,
-          "Motor": 2254.9
+          "All": 3346.6,
+          "Burglary": 823.2,
+          "Larceny": 2254.9,
+          "Motor": 268.5
         },
         "Violent": {
           "All": 365.7,
-          "Assault": 125.0,
+          "Assault": 209.3,
           "Murder": 5.6,
           "Rape": 25.8,
-          "Robbery": 19.9
+          "Robbery": 125.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 20915,
-          "Burglary": 334399,
-          "Larceny": 82258,
-          "Motor": 225315
+          "All": 334399,
+          "Burglary": 82258,
+          "Larceny": 225315,
+          "Motor": 26826
         },
         "Violent": {
           "All": 36541,
-          "Assault": 12488,
+          "Assault": 20915,
           "Murder": 556,
           "Rape": 2582,
-          "Robbery": 1984
+          "Robbery": 12488
         }
       }
     }
@@ -24205,32 +24205,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 10097343,
       "Rates": {
         "Property": {
-          "All": 218.4,
-          "Burglary": 3281.2,
-          "Larceny": 756.9,
-          "Motor": 2258.4
+          "All": 3281.2,
+          "Burglary": 756.9,
+          "Larceny": 2258.4,
+          "Motor": 266.0
         },
         "Violent": {
           "All": 377.3,
-          "Assault": 123.0,
+          "Assault": 218.4,
           "Murder": 5.7,
           "Rape": 30.2,
-          "Robbery": 21.4
+          "Robbery": 123.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 22052,
-          "Burglary": 331316,
-          "Larceny": 76428,
-          "Motor": 228034
+          "All": 331316,
+          "Burglary": 76428,
+          "Larceny": 228034,
+          "Motor": 26854
         },
         "Violent": {
           "All": 38097,
-          "Assault": 12417,
+          "Assault": 22052,
           "Murder": 580,
           "Rape": 3048,
-          "Robbery": 2159
+          "Robbery": 12417
         }
       }
     }
@@ -24242,32 +24242,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 10214860,
       "Rates": {
         "Property": {
-          "All": 220.8,
-          "Burglary": 3022.3,
-          "Larceny": 649.8,
-          "Motor": 2113.3
+          "All": 3022.3,
+          "Burglary": 649.8,
+          "Larceny": 2113.3,
+          "Motor": 259.2
         },
         "Violent": {
           "All": 378.3,
-          "Assault": 119.9,
+          "Assault": 220.8,
           "Murder": 6.0,
           "Rape": 31.6,
-          "Robbery": 22.5
+          "Robbery": 119.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 22557,
-          "Burglary": 308723,
-          "Larceny": 66374,
-          "Motor": 215867
+          "All": 308723,
+          "Burglary": 66374,
+          "Larceny": 215867,
+          "Motor": 26482
         },
         "Violent": {
           "All": 38643,
-          "Assault": 12247,
+          "Assault": 22557,
           "Murder": 615,
           "Rape": 3224,
-          "Robbery": 2296
+          "Robbery": 12247
         }
       }
     }
@@ -26388,32 +26388,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1404054,
       "Rates": {
         "Property": {
-          "All": 142.2,
-          "Burglary": 3053.7,
-          "Larceny": 536.5,
-          "Motor": 2254.8
+          "All": 3053.7,
+          "Burglary": 536.5,
+          "Larceny": 2254.8,
+          "Motor": 262.4
         },
         "Violent": {
           "All": 251.6,
-          "Assault": 80.6,
+          "Assault": 142.2,
           "Murder": 1.5,
           "Rape": 27.4,
-          "Robbery": 21.1
+          "Robbery": 80.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 1996,
-          "Burglary": 42875,
-          "Larceny": 7533,
-          "Motor": 31658
+          "All": 42875,
+          "Burglary": 7533,
+          "Larceny": 31658,
+          "Motor": 3684
         },
         "Violent": {
           "All": 3533,
-          "Assault": 1131,
+          "Assault": 1996,
           "Murder": 21,
           "Rape": 385,
-          "Robbery": 296
+          "Robbery": 1131
         }
       }
     }
@@ -26425,32 +26425,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1419561,
       "Rates": {
         "Property": {
-          "All": 148.1,
-          "Burglary": 3050.0,
-          "Larceny": 547.9,
-          "Motor": 2228.9
+          "All": 3050.0,
+          "Burglary": 547.9,
+          "Larceny": 2228.9,
+          "Motor": 273.3
         },
         "Violent": {
           "All": 259.2,
-          "Assault": 78.0,
+          "Assault": 148.1,
           "Murder": 1.8,
           "Rape": 31.3,
-          "Robbery": 22.1
+          "Robbery": 78.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 2102,
-          "Burglary": 43297,
-          "Larceny": 7778,
-          "Motor": 31640
+          "All": 43297,
+          "Burglary": 7778,
+          "Larceny": 31640,
+          "Motor": 3879
         },
         "Violent": {
           "All": 3680,
-          "Assault": 1107,
+          "Assault": 2102,
           "Murder": 26,
           "Rape": 445,
-          "Robbery": 314
+          "Robbery": 1107
         }
       }
     }
@@ -26462,32 +26462,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1431603,
       "Rates": {
         "Property": {
-          "All": 168.9,
-          "Burglary": 3796.2,
-          "Larceny": 458.0,
-          "Motor": 2934.5
+          "All": 3796.2,
+          "Burglary": 458.0,
+          "Larceny": 2934.5,
+          "Motor": 403.7
         },
         "Violent": {
           "All": 293.4,
-          "Assault": 84.0,
+          "Assault": 168.9,
           "Murder": 1.3,
           "Rape": 39.2,
-          "Robbery": 27.9
+          "Robbery": 84.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 2418,
-          "Burglary": 54346,
-          "Larceny": 6557,
-          "Motor": 42010
+          "All": 54346,
+          "Burglary": 6557,
+          "Larceny": 42010,
+          "Motor": 5779
         },
         "Violent": {
           "All": 4201,
-          "Assault": 1203,
+          "Assault": 2418,
           "Murder": 19,
           "Rape": 561,
-          "Robbery": 400
+          "Robbery": 1203
         }
       }
     }
@@ -28608,32 +28608,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1612136,
       "Rates": {
         "Property": {
-          "All": 161.0,
-          "Burglary": 1864.3,
-          "Larceny": 411.9,
-          "Motor": 1357.1
+          "All": 1864.3,
+          "Burglary": 411.9,
+          "Larceny": 1357.1,
+          "Motor": 95.3
         },
         "Violent": {
           "All": 217.0,
-          "Assault": 13.6,
+          "Assault": 161.0,
           "Murder": 1.7,
           "Rape": 40.6,
-          "Robbery": 28.3
+          "Robbery": 13.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 2596,
-          "Burglary": 30055,
-          "Larceny": 6640,
-          "Motor": 21879
+          "All": 30055,
+          "Burglary": 6640,
+          "Larceny": 21879,
+          "Motor": 1536
         },
         "Violent": {
           "All": 3498,
-          "Assault": 220,
+          "Assault": 2596,
           "Murder": 27,
           "Rape": 655,
-          "Robbery": 457
+          "Robbery": 220
         }
       }
     }
@@ -28645,32 +28645,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1634464,
       "Rates": {
         "Property": {
-          "All": 160.5,
-          "Burglary": 1854.8,
-          "Larceny": 393.3,
-          "Motor": 1359.9
+          "All": 1854.8,
+          "Burglary": 393.3,
+          "Larceny": 1359.9,
+          "Motor": 101.6
         },
         "Violent": {
           "All": 212.2,
-          "Assault": 12.5,
+          "Assault": 160.5,
           "Murder": 2.0,
           "Rape": 37.3,
-          "Robbery": 28.6
+          "Robbery": 12.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 2623,
-          "Burglary": 30316,
-          "Larceny": 6428,
-          "Motor": 22227
+          "All": 30316,
+          "Burglary": 6428,
+          "Larceny": 22227,
+          "Motor": 1661
         },
         "Violent": {
           "All": 3468,
-          "Assault": 204,
+          "Assault": 2623,
           "Murder": 32,
           "Rape": 609,
-          "Robbery": 468
+          "Robbery": 204
         }
       }
     }
@@ -28682,32 +28682,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1654930,
       "Rates": {
         "Property": {
-          "All": 160.1,
-          "Burglary": 1743.8,
-          "Larceny": 370.0,
-          "Motor": 1260.7
+          "All": 1743.8,
+          "Burglary": 370.0,
+          "Larceny": 1260.7,
+          "Motor": 113.1
         },
         "Violent": {
           "All": 215.6,
-          "Assault": 11.6,
+          "Assault": 160.1,
           "Murder": 1.9,
           "Rape": 41.9,
-          "Robbery": 32.2
+          "Robbery": 11.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 2650,
-          "Burglary": 28858,
-          "Larceny": 6124,
-          "Motor": 20863
+          "All": 28858,
+          "Burglary": 6124,
+          "Larceny": 20863,
+          "Motor": 1871
         },
         "Violent": {
           "All": 3568,
-          "Assault": 192,
+          "Assault": 2650,
           "Murder": 32,
           "Rape": 694,
-          "Robbery": 533
+          "Robbery": 192
         }
       }
     }
@@ -30828,32 +30828,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12882135,
       "Rates": {
         "Property": {
-          "All": 204.0,
-          "Burglary": 2274.3,
-          "Larceny": 452.1,
-          "Motor": 1659.8
+          "All": 2274.3,
+          "Burglary": 452.1,
+          "Larceny": 1659.8,
+          "Motor": 162.5
         },
         "Violent": {
           "All": 380.2,
-          "Assault": 137.6,
+          "Assault": 204.0,
           "Murder": 5.5,
           "Rape": 33.1,
-          "Robbery": 25.4
+          "Robbery": 137.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 26283,
-          "Burglary": 292983,
-          "Larceny": 58237,
-          "Motor": 213813
+          "All": 292983,
+          "Burglary": 58237,
+          "Larceny": 213813,
+          "Motor": 20933
         },
         "Violent": {
           "All": 48974,
-          "Assault": 17722,
+          "Assault": 26283,
           "Murder": 706,
           "Rape": 4263,
-          "Robbery": 3276
+          "Robbery": 17722
         }
       }
     }
@@ -30865,32 +30865,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12880580,
       "Rates": {
         "Property": {
-          "All": 213.7,
-          "Burglary": 2075.9,
-          "Larceny": 388.2,
-          "Motor": 1552.2
+          "All": 2075.9,
+          "Burglary": 388.2,
+          "Larceny": 1552.2,
+          "Motor": 135.5
         },
         "Violent": {
           "All": 370.0,
-          "Assault": 118.8,
+          "Assault": 213.7,
           "Murder": 5.3,
           "Rape": 32.3,
-          "Robbery": 23.9
+          "Robbery": 118.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 27520,
-          "Burglary": 267385,
-          "Larceny": 50008,
-          "Motor": 199926
+          "All": 267385,
+          "Burglary": 50008,
+          "Larceny": 199926,
+          "Motor": 17451
         },
         "Violent": {
           "All": 47663,
-          "Assault": 15299,
+          "Assault": 27520,
           "Murder": 685,
           "Rape": 4159,
-          "Robbery": 3081
+          "Robbery": 15299
         }
       }
     }
@@ -30902,32 +30902,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12859995,
       "Rates": {
         "Property": {
-          "All": 224.6,
-          "Burglary": 1988.6,
-          "Larceny": 361.1,
-          "Motor": 1490.2
+          "All": 1988.6,
+          "Burglary": 361.1,
+          "Larceny": 1490.2,
+          "Motor": 137.3
         },
         "Violent": {
           "All": 383.8,
-          "Assault": 115.9,
+          "Assault": 224.6,
           "Murder": 5.8,
           "Rape": 37.5,
-          "Robbery": 27.6
+          "Robbery": 115.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 28879,
-          "Burglary": 255729,
-          "Larceny": 46443,
-          "Motor": 191634
+          "All": 255729,
+          "Burglary": 46443,
+          "Larceny": 191634,
+          "Motor": 17652
         },
         "Violent": {
           "All": 49354,
-          "Assault": 14910,
+          "Assault": 28879,
           "Murder": 744,
           "Rape": 4821,
-          "Robbery": 3549
+          "Robbery": 14910
         }
       }
     }
@@ -33048,32 +33048,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6570902,
       "Rates": {
         "Property": {
-          "All": 211.3,
-          "Burglary": 2854.0,
-          "Larceny": 653.0,
-          "Motor": 1984.9
+          "All": 2854.0,
+          "Burglary": 653.0,
+          "Larceny": 1984.9,
+          "Motor": 216.2
         },
         "Violent": {
           "All": 357.4,
-          "Assault": 108.2,
+          "Assault": 211.3,
           "Murder": 5.4,
           "Rape": 32.6,
-          "Robbery": 25.0
+          "Robbery": 108.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 13882,
-          "Burglary": 187536,
-          "Larceny": 42909,
-          "Motor": 130423
+          "All": 187536,
+          "Burglary": 42909,
+          "Larceny": 130423,
+          "Motor": 14204
         },
         "Violent": {
           "All": 23487,
-          "Assault": 7108,
+          "Assault": 13882,
           "Murder": 355,
           "Rape": 2142,
-          "Robbery": 1646
+          "Robbery": 7108
         }
       }
     }
@@ -33085,32 +33085,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6596855,
       "Rates": {
         "Property": {
-          "All": 222.6,
-          "Burglary": 2649.4,
-          "Larceny": 559.3,
-          "Motor": 1880.0
+          "All": 2649.4,
+          "Burglary": 559.3,
+          "Larceny": 1880.0,
+          "Motor": 210.1
         },
         "Violent": {
           "All": 365.3,
-          "Assault": 104.5,
+          "Assault": 222.6,
           "Murder": 5.0,
           "Rape": 33.1,
-          "Robbery": 24.5
+          "Robbery": 104.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 14686,
-          "Burglary": 174776,
-          "Larceny": 36893,
-          "Motor": 124022
+          "All": 174776,
+          "Burglary": 36893,
+          "Larceny": 124022,
+          "Motor": 13861
         },
         "Violent": {
           "All": 24099,
-          "Assault": 6897,
+          "Assault": 14686,
           "Murder": 330,
           "Rape": 2186,
-          "Robbery": 1615
+          "Robbery": 6897
         }
       }
     }
@@ -33122,32 +33122,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6619680,
       "Rates": {
         "Property": {
-          "All": 238.2,
-          "Burglary": 2596.0,
-          "Larceny": 519.8,
-          "Motor": 1872.0
+          "All": 2596.0,
+          "Burglary": 519.8,
+          "Larceny": 1872.0,
+          "Motor": 204.2
         },
         "Violent": {
           "All": 387.5,
-          "Assault": 107.4,
+          "Assault": 238.2,
           "Murder": 5.6,
           "Rape": 36.3,
-          "Robbery": 27.0
+          "Robbery": 107.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 15765,
-          "Burglary": 171847,
-          "Larceny": 34410,
-          "Motor": 123918
+          "All": 171847,
+          "Burglary": 34410,
+          "Larceny": 123918,
+          "Motor": 13519
         },
         "Violent": {
           "All": 25653,
-          "Assault": 7111,
+          "Assault": 15765,
           "Murder": 373,
           "Rape": 2404,
-          "Robbery": 1789
+          "Robbery": 7111
         }
       }
     }
@@ -35268,32 +35268,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3090416,
       "Rates": {
         "Property": {
-          "All": 204.6,
-          "Burglary": 2193.9,
-          "Larceny": 513.5,
-          "Motor": 1543.0
+          "All": 2193.9,
+          "Burglary": 513.5,
+          "Larceny": 1543.0,
+          "Motor": 137.4
         },
         "Violent": {
           "All": 271.4,
-          "Assault": 30.4,
+          "Assault": 204.6,
           "Murder": 1.4,
           "Rape": 35.0,
-          "Robbery": 24.5
+          "Robbery": 30.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 6323,
-          "Burglary": 67800,
-          "Larceny": 15868,
-          "Motor": 47686
+          "All": 67800,
+          "Burglary": 15868,
+          "Larceny": 47686,
+          "Motor": 4246
         },
         "Violent": {
           "All": 8388,
-          "Assault": 939,
+          "Assault": 6323,
           "Murder": 43,
           "Rape": 1083,
-          "Robbery": 757
+          "Robbery": 939
         }
       }
     }
@@ -35305,32 +35305,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3107126,
       "Rates": {
         "Property": {
-          "All": 201.6,
-          "Burglary": 2093.8,
-          "Larceny": 464.4,
-          "Motor": 1495.8
+          "All": 2093.8,
+          "Burglary": 464.4,
+          "Larceny": 1495.8,
+          "Motor": 133.6
         },
         "Violent": {
           "All": 273.5,
-          "Assault": 33.6,
+          "Assault": 201.6,
           "Murder": 1.9,
           "Rape": 36.3,
-          "Robbery": 26.6
+          "Robbery": 33.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 6264,
-          "Burglary": 65056,
-          "Larceny": 14428,
-          "Motor": 46477
+          "All": 65056,
+          "Burglary": 14428,
+          "Larceny": 46477,
+          "Motor": 4151
         },
         "Violent": {
           "All": 8497,
-          "Assault": 1045,
+          "Assault": 6264,
           "Murder": 60,
           "Rape": 1128,
-          "Robbery": 828
+          "Robbery": 1045
         }
       }
     }
@@ -35342,32 +35342,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3123899,
       "Rates": {
         "Property": {
-          "All": 213.2,
-          "Burglary": 2047.3,
-          "Larceny": 476.7,
-          "Motor": 1431.6
+          "All": 2047.3,
+          "Burglary": 476.7,
+          "Larceny": 1431.6,
+          "Motor": 139.0
         },
         "Violent": {
           "All": 286.1,
-          "Assault": 33.5,
+          "Assault": 213.2,
           "Murder": 2.3,
           "Rape": 37.0,
-          "Robbery": 27.2
+          "Robbery": 33.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 6661,
-          "Burglary": 63957,
-          "Larceny": 14892,
-          "Motor": 44723
+          "All": 63957,
+          "Burglary": 14892,
+          "Larceny": 44723,
+          "Motor": 4342
         },
         "Violent": {
           "All": 8936,
-          "Assault": 1047,
+          "Assault": 6661,
           "Murder": 72,
           "Rape": 1156,
-          "Robbery": 851
+          "Robbery": 1047
         }
       }
     }
@@ -37488,32 +37488,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2893957,
       "Rates": {
         "Property": {
-          "All": 248.1,
-          "Burglary": 2946.8,
-          "Larceny": 600.4,
-          "Motor": 2117.0
+          "All": 2946.8,
+          "Burglary": 600.4,
+          "Larceny": 2117.0,
+          "Motor": 229.5
         },
         "Violent": {
           "All": 339.9,
-          "Assault": 46.6,
+          "Assault": 248.1,
           "Murder": 3.9,
           "Rape": 41.3,
-          "Robbery": 28.9
+          "Robbery": 46.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 7181,
-          "Burglary": 85280,
-          "Larceny": 17375,
-          "Motor": 61264
+          "All": 85280,
+          "Burglary": 17375,
+          "Larceny": 61264,
+          "Motor": 6641
         },
         "Violent": {
           "All": 9838,
-          "Assault": 1350,
+          "Assault": 7181,
           "Murder": 112,
           "Rape": 1195,
-          "Robbery": 835
+          "Robbery": 1350
         }
       }
     }
@@ -37525,32 +37525,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2904021,
       "Rates": {
         "Property": {
-          "All": 250.0,
-          "Burglary": 2735.2,
-          "Larceny": 545.0,
-          "Motor": 1952.4
+          "All": 2735.2,
+          "Burglary": 545.0,
+          "Larceny": 1952.4,
+          "Motor": 237.8
         },
         "Violent": {
           "All": 348.6,
-          "Assault": 46.9,
+          "Assault": 250.0,
           "Murder": 3.1,
           "Rape": 48.6,
-          "Robbery": 37.0
+          "Robbery": 46.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 7259,
-          "Burglary": 79431,
-          "Larceny": 15828,
-          "Motor": 56697
+          "All": 79431,
+          "Burglary": 15828,
+          "Larceny": 56697,
+          "Motor": 6906
         },
         "Violent": {
           "All": 10123,
-          "Assault": 1362,
+          "Assault": 7259,
           "Murder": 91,
           "Rape": 1411,
-          "Robbery": 1075
+          "Robbery": 1362
         }
       }
     }
@@ -37562,32 +37562,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2911641,
       "Rates": {
         "Property": {
-          "All": 267.6,
-          "Burglary": 2720.1,
-          "Larceny": 527.6,
-          "Motor": 1953.5
+          "All": 2720.1,
+          "Burglary": 527.6,
+          "Larceny": 1953.5,
+          "Motor": 238.9
         },
         "Violent": {
           "All": 389.9,
-          "Assault": 62.4,
+          "Assault": 267.6,
           "Murder": 4.4,
           "Rape": 55.5,
-          "Robbery": 43.0
+          "Robbery": 62.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 7792,
-          "Burglary": 79199,
-          "Larceny": 15362,
-          "Motor": 56880
+          "All": 79199,
+          "Burglary": 15362,
+          "Larceny": 56880,
+          "Motor": 6957
         },
         "Violent": {
           "All": 11353,
-          "Assault": 1818,
+          "Assault": 7792,
           "Murder": 128,
           "Rape": 1615,
-          "Robbery": 1251
+          "Robbery": 1818
         }
       }
     }
@@ -39708,32 +39708,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4395295,
       "Rates": {
         "Property": {
-          "All": 95.5,
-          "Burglary": 2362.9,
-          "Larceny": 596.4,
-          "Motor": 1629.3
+          "All": 2362.9,
+          "Burglary": 596.4,
+          "Larceny": 1629.3,
+          "Motor": 137.2
         },
         "Violent": {
           "All": 209.8,
-          "Assault": 73.9,
+          "Assault": 95.5,
           "Murder": 3.8,
           "Rape": 36.7,
-          "Robbery": 25.6
+          "Robbery": 73.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 4198,
-          "Burglary": 103857,
-          "Larceny": 26213,
-          "Motor": 71612
+          "All": 103857,
+          "Burglary": 26213,
+          "Larceny": 71612,
+          "Motor": 6032
         },
         "Violent": {
           "All": 9222,
-          "Assault": 3246,
+          "Assault": 4198,
           "Murder": 167,
           "Rape": 1611,
-          "Robbery": 1126
+          "Robbery": 3246
         }
       }
     }
@@ -39745,32 +39745,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4413457,
       "Rates": {
         "Property": {
-          "All": 99.8,
-          "Burglary": 2246.9,
-          "Larceny": 526.7,
-          "Motor": 1577.1
+          "All": 2246.9,
+          "Burglary": 526.7,
+          "Larceny": 1577.1,
+          "Motor": 143.2
         },
         "Violent": {
           "All": 211.6,
-          "Assault": 75.6,
+          "Assault": 99.8,
           "Murder": 3.6,
           "Rape": 32.6,
-          "Robbery": 20.0
+          "Robbery": 75.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 4404,
-          "Burglary": 99166,
-          "Larceny": 23244,
-          "Motor": 69604
+          "All": 99166,
+          "Burglary": 23244,
+          "Larceny": 69604,
+          "Motor": 6318
         },
         "Violent": {
           "All": 9340,
-          "Assault": 3336,
+          "Assault": 4404,
           "Murder": 160,
           "Rape": 1440,
-          "Robbery": 883
+          "Robbery": 3336
         }
       }
     }
@@ -39782,32 +39782,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4425092,
       "Rates": {
         "Property": {
-          "All": 105.5,
-          "Burglary": 2177.6,
-          "Larceny": 503.0,
-          "Motor": 1498.7
+          "All": 2177.6,
+          "Burglary": 503.0,
+          "Larceny": 1498.7,
+          "Motor": 175.9
         },
         "Violent": {
           "All": 218.7,
-          "Assault": 74.7,
+          "Assault": 105.5,
           "Murder": 4.7,
           "Rape": 33.7,
-          "Robbery": 22.5
+          "Robbery": 74.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 4668,
-          "Burglary": 96362,
-          "Larceny": 22260,
-          "Motor": 66320
+          "All": 96362,
+          "Burglary": 22260,
+          "Larceny": 66320,
+          "Motor": 7782
         },
         "Violent": {
           "All": 9676,
-          "Assault": 3307,
+          "Assault": 4668,
           "Murder": 209,
           "Rape": 1492,
-          "Robbery": 997
+          "Robbery": 3307
         }
       }
     }
@@ -41928,32 +41928,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4625470,
       "Rates": {
         "Property": {
-          "All": 352.8,
-          "Burglary": 3582.0,
-          "Larceny": 890.4,
-          "Motor": 2493.6
+          "All": 3582.0,
+          "Burglary": 890.4,
+          "Larceny": 2493.6,
+          "Motor": 198.0
         },
         "Violent": {
           "All": 518.5,
-          "Assault": 119.9,
+          "Assault": 352.8,
           "Murder": 10.8,
           "Rape": 35.0,
-          "Robbery": 26.9
+          "Robbery": 119.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 16319,
-          "Burglary": 165686,
-          "Larceny": 41184,
-          "Motor": 115342
+          "All": 165686,
+          "Burglary": 41184,
+          "Larceny": 115342,
+          "Motor": 9160
         },
         "Violent": {
           "All": 23984,
-          "Assault": 5548,
+          "Assault": 16319,
           "Murder": 498,
           "Rape": 1619,
-          "Robbery": 1244
+          "Robbery": 5548
         }
       }
     }
@@ -41965,32 +41965,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4649676,
       "Rates": {
         "Property": {
-          "All": 352.4,
-          "Burglary": 3458.8,
-          "Larceny": 824.5,
-          "Motor": 2421.6
+          "All": 3458.8,
+          "Burglary": 824.5,
+          "Larceny": 2421.6,
+          "Motor": 212.7
         },
         "Violent": {
           "All": 514.7,
-          "Assault": 122.5,
+          "Assault": 352.4,
           "Murder": 10.3,
           "Rape": 29.6,
-          "Robbery": 21.3
+          "Robbery": 122.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 16387,
-          "Burglary": 160824,
-          "Larceny": 38337,
-          "Motor": 112596
+          "All": 160824,
+          "Burglary": 38337,
+          "Larceny": 112596,
+          "Motor": 9891
         },
         "Violent": {
           "All": 23934,
-          "Assault": 5695,
+          "Assault": 16387,
           "Murder": 477,
           "Rape": 1375,
-          "Robbery": 992
+          "Robbery": 5695
         }
       }
     }
@@ -42002,32 +42002,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4670724,
       "Rates": {
         "Property": {
-          "All": 373.7,
-          "Burglary": 3353.4,
-          "Larceny": 759.0,
-          "Motor": 2385.8
+          "All": 3353.4,
+          "Burglary": 759.0,
+          "Larceny": 2385.8,
+          "Motor": 208.6
         },
         "Violent": {
           "All": 539.7,
-          "Assault": 118.8,
+          "Assault": 373.7,
           "Murder": 10.3,
           "Rape": 36.9,
-          "Robbery": 27.0
+          "Robbery": 118.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 17454,
-          "Burglary": 156629,
-          "Larceny": 35453,
-          "Motor": 111435
+          "All": 156629,
+          "Burglary": 35453,
+          "Larceny": 111435,
+          "Motor": 9741
         },
         "Violent": {
           "All": 25208,
-          "Assault": 5550,
+          "Assault": 17454,
           "Murder": 481,
           "Rape": 1723,
-          "Robbery": 1260
+          "Robbery": 5550
         }
       }
     }
@@ -44148,32 +44148,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1328302,
       "Rates": {
         "Property": {
-          "All": 68.7,
-          "Burglary": 2292.2,
-          "Larceny": 488.1,
-          "Motor": 1735.3
+          "All": 2292.2,
+          "Burglary": 488.1,
+          "Larceny": 1735.3,
+          "Motor": 68.8
         },
         "Violent": {
           "All": 129.3,
-          "Assault": 25.2,
+          "Assault": 68.7,
           "Murder": 1.8,
           "Rape": 33.7,
-          "Robbery": 25.9
+          "Robbery": 25.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 912,
-          "Burglary": 30447,
-          "Larceny": 6483,
-          "Motor": 23050
+          "All": 30447,
+          "Burglary": 6483,
+          "Larceny": 23050,
+          "Motor": 914
         },
         "Violent": {
           "All": 1718,
-          "Assault": 335,
+          "Assault": 912,
           "Murder": 24,
           "Rape": 447,
-          "Robbery": 344
+          "Robbery": 335
         }
       }
     }
@@ -44185,32 +44185,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1330089,
       "Rates": {
         "Property": {
-          "All": 66.9,
-          "Burglary": 1986.4,
-          "Larceny": 378.2,
-          "Motor": 1548.2
+          "All": 1986.4,
+          "Burglary": 378.2,
+          "Larceny": 1548.2,
+          "Motor": 60.1
         },
         "Violent": {
           "All": 127.8,
-          "Assault": 22.9,
+          "Assault": 66.9,
           "Murder": 1.6,
           "Rape": 36.5,
-          "Robbery": 27.1
+          "Robbery": 22.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 890,
-          "Burglary": 26421,
-          "Larceny": 5030,
-          "Motor": 20592
+          "All": 26421,
+          "Burglary": 5030,
+          "Larceny": 20592,
+          "Motor": 799
         },
         "Violent": {
           "All": 1700,
-          "Assault": 304,
+          "Assault": 890,
           "Murder": 21,
           "Rape": 485,
-          "Robbery": 360
+          "Robbery": 304
         }
       }
     }
@@ -44222,32 +44222,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1329328,
       "Rates": {
         "Property": {
-          "All": 69.3,
-          "Burglary": 1830.0,
-          "Larceny": 352.4,
-          "Motor": 1416.4
+          "All": 1830.0,
+          "Burglary": 352.4,
+          "Larceny": 1416.4,
+          "Motor": 61.2
         },
         "Violent": {
           "All": 130.1,
-          "Assault": 23.4,
+          "Assault": 69.3,
           "Murder": 1.7,
           "Rape": 35.7,
-          "Robbery": 26.6
+          "Robbery": 23.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 921,
-          "Burglary": 24327,
-          "Larceny": 4684,
-          "Motor": 18829
+          "All": 24327,
+          "Burglary": 4684,
+          "Larceny": 18829,
+          "Motor": 814
         },
         "Violent": {
           "All": 1729,
-          "Assault": 311,
+          "Assault": 921,
           "Murder": 23,
           "Rape": 474,
-          "Robbery": 354
+          "Robbery": 311
         }
       }
     }
@@ -46368,32 +46368,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5928814,
       "Rates": {
         "Property": {
-          "All": 272.0,
-          "Burglary": 2663.5,
-          "Larceny": 538.9,
-          "Motor": 1898.3
+          "All": 2663.5,
+          "Burglary": 538.9,
+          "Larceny": 1898.3,
+          "Motor": 226.3
         },
         "Violent": {
           "All": 473.8,
-          "Assault": 169.5,
+          "Assault": 272.0,
           "Murder": 6.4,
           "Rape": 25.8,
-          "Robbery": 19.9
+          "Robbery": 169.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 16128,
-          "Burglary": 157913,
-          "Larceny": 31949,
-          "Motor": 112546
+          "All": 157913,
+          "Burglary": 31949,
+          "Larceny": 112546,
+          "Motor": 13418
         },
         "Violent": {
           "All": 28089,
-          "Assault": 10048,
+          "Assault": 16128,
           "Murder": 381,
           "Rape": 1532,
-          "Robbery": 1177
+          "Robbery": 10048
         }
       }
     }
@@ -46405,32 +46405,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5976407,
       "Rates": {
         "Property": {
-          "All": 253.2,
-          "Burglary": 2507.5,
-          "Larceny": 468.7,
-          "Motor": 1819.6
+          "All": 2507.5,
+          "Burglary": 468.7,
+          "Larceny": 1819.6,
+          "Motor": 219.2
         },
         "Violent": {
           "All": 446.1,
-          "Assault": 159.7,
+          "Assault": 253.2,
           "Murder": 6.1,
           "Rape": 27.1,
-          "Robbery": 19.1
+          "Robbery": 159.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 15133,
-          "Burglary": 149859,
-          "Larceny": 28012,
-          "Motor": 108745
+          "All": 149859,
+          "Burglary": 28012,
+          "Larceny": 108745,
+          "Motor": 13102
         },
         "Violent": {
           "All": 26661,
-          "Assault": 9544,
+          "Assault": 15133,
           "Murder": 365,
           "Rape": 1619,
-          "Robbery": 1144
+          "Robbery": 9544
         }
       }
     }
@@ -46442,32 +46442,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6006401,
       "Rates": {
         "Property": {
-          "All": 256.7,
-          "Burglary": 2315.0,
-          "Larceny": 427.5,
-          "Motor": 1668.5
+          "All": 2315.0,
+          "Burglary": 427.5,
+          "Larceny": 1668.5,
+          "Motor": 218.9
         },
         "Violent": {
           "All": 457.2,
-          "Assault": 164.2,
+          "Assault": 256.7,
           "Murder": 8.6,
           "Rape": 27.7,
-          "Robbery": 19.7
+          "Robbery": 164.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 15417,
-          "Burglary": 139048,
-          "Larceny": 25678,
-          "Motor": 100219
+          "All": 139048,
+          "Burglary": 25678,
+          "Larceny": 100219,
+          "Motor": 13151
         },
         "Violent": {
           "All": 27462,
-          "Assault": 9863,
+          "Assault": 15417,
           "Murder": 516,
           "Rape": 1666,
-          "Robbery": 1184
+          "Robbery": 9863
         }
       }
     }
@@ -48588,32 +48588,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6692824,
       "Rates": {
         "Property": {
-          "All": 270.5,
-          "Burglary": 2051.2,
-          "Larceny": 459.2,
-          "Motor": 1455.7
+          "All": 2051.2,
+          "Burglary": 459.2,
+          "Larceny": 1455.7,
+          "Motor": 136.3
         },
         "Violent": {
           "All": 413.4,
-          "Assault": 100.2,
+          "Assault": 270.5,
           "Murder": 2.0,
           "Rape": 40.6,
-          "Robbery": 31.2
+          "Robbery": 100.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 18106,
-          "Burglary": 137285,
-          "Larceny": 30735,
-          "Motor": 97428
+          "All": 137285,
+          "Burglary": 30735,
+          "Larceny": 97428,
+          "Motor": 9122
         },
         "Violent": {
           "All": 27667,
-          "Assault": 6706,
+          "Assault": 18106,
           "Murder": 137,
           "Rape": 2718,
-          "Robbery": 2089
+          "Robbery": 6706
         }
       }
     }
@@ -48625,32 +48625,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6745408,
       "Rates": {
         "Property": {
-          "All": 267.6,
-          "Burglary": 1857.1,
-          "Larceny": 370.1,
-          "Motor": 1364.5
+          "All": 1857.1,
+          "Burglary": 370.1,
+          "Larceny": 1364.5,
+          "Motor": 122.5
         },
         "Violent": {
           "All": 391.4,
-          "Assault": 89.5,
+          "Assault": 267.6,
           "Murder": 2.0,
           "Rape": 32.3,
-          "Robbery": 24.1
+          "Robbery": 89.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 18051,
-          "Burglary": 125267,
-          "Larceny": 24964,
-          "Motor": 92043
+          "All": 125267,
+          "Burglary": 24964,
+          "Larceny": 92043,
+          "Motor": 8260
         },
         "Violent": {
           "All": 26399,
-          "Assault": 6036,
+          "Assault": 18051,
           "Murder": 132,
           "Rape": 2180,
-          "Robbery": 1629
+          "Robbery": 6036
         }
       }
     }
@@ -48662,32 +48662,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6794422,
       "Rates": {
         "Property": {
-          "All": 280.7,
-          "Burglary": 1690.7,
-          "Larceny": 322.2,
-          "Motor": 1249.7
+          "All": 1690.7,
+          "Burglary": 322.2,
+          "Larceny": 1249.7,
+          "Motor": 118.8
         },
         "Violent": {
           "All": 390.9,
-          "Assault": 77.8,
+          "Assault": 280.7,
           "Murder": 1.9,
           "Rape": 30.5,
-          "Robbery": 23.7
+          "Robbery": 77.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 19071,
-          "Burglary": 114871,
-          "Larceny": 21890,
-          "Motor": 84912
+          "All": 114871,
+          "Burglary": 21890,
+          "Larceny": 84912,
+          "Motor": 8069
         },
         "Violent": {
           "All": 26562,
-          "Assault": 5288,
+          "Assault": 19071,
           "Murder": 128,
           "Rape": 2075,
-          "Robbery": 1608
+          "Robbery": 5288
         }
       }
     }
@@ -50808,32 +50808,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9895622,
       "Rates": {
         "Property": {
-          "All": 274.8,
-          "Burglary": 2327.6,
-          "Larceny": 569.4,
-          "Motor": 1510.0
+          "All": 2327.6,
+          "Burglary": 569.4,
+          "Larceny": 1510.0,
+          "Motor": 248.3
         },
         "Violent": {
           "All": 449.9,
-          "Assault": 102.1,
+          "Assault": 274.8,
           "Murder": 6.4,
           "Rape": 66.6,
-          "Robbery": 46.5
+          "Robbery": 102.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 27194,
-          "Burglary": 230334,
-          "Larceny": 56344,
-          "Motor": 149423
+          "All": 230334,
+          "Burglary": 56344,
+          "Larceny": 149423,
+          "Motor": 24567
         },
         "Violent": {
           "All": 44523,
-          "Assault": 10105,
+          "Assault": 27194,
           "Murder": 631,
           "Rape": 6593,
-          "Robbery": 4606
+          "Robbery": 10105
         }
       }
     }
@@ -50845,32 +50845,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9909877,
       "Rates": {
         "Property": {
-          "All": 277.7,
-          "Burglary": 2043.9,
-          "Larceny": 445.9,
-          "Motor": 1384.5
+          "All": 2043.9,
+          "Burglary": 445.9,
+          "Larceny": 1384.5,
+          "Motor": 213.5
         },
         "Violent": {
           "All": 427.3,
-          "Assault": 80.9,
+          "Assault": 277.7,
           "Murder": 5.4,
           "Rape": 63.3,
-          "Robbery": 40.9
+          "Robbery": 80.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 27519,
-          "Burglary": 202547,
-          "Larceny": 44184,
-          "Motor": 137206
+          "All": 202547,
+          "Burglary": 44184,
+          "Larceny": 137206,
+          "Motor": 21157
         },
         "Violent": {
           "All": 42348,
-          "Assault": 8021,
+          "Assault": 27519,
           "Murder": 535,
           "Rape": 6273,
-          "Robbery": 4049
+          "Robbery": 8021
         }
       }
     }
@@ -50882,32 +50882,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9922576,
       "Rates": {
         "Property": {
-          "All": 266.2,
-          "Burglary": 1885.6,
-          "Larceny": 403.5,
-          "Motor": 1323.2
+          "All": 1885.6,
+          "Burglary": 403.5,
+          "Larceny": 1323.2,
+          "Motor": 158.9
         },
         "Violent": {
           "All": 415.5,
-          "Assault": 78.6,
+          "Assault": 266.2,
           "Murder": 5.8,
           "Rape": 65.0,
-          "Robbery": 42.0
+          "Robbery": 78.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 26414,
-          "Burglary": 187101,
-          "Larceny": 40041,
-          "Motor": 131296
+          "All": 187101,
+          "Burglary": 40041,
+          "Larceny": 131296,
+          "Motor": 15764
         },
         "Violent": {
           "All": 41231,
-          "Assault": 7796,
+          "Assault": 26414,
           "Murder": 571,
           "Rape": 6450,
-          "Robbery": 4163
+          "Robbery": 7796
         }
       }
     }
@@ -53028,32 +53028,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5420380,
       "Rates": {
         "Property": {
-          "All": 127.5,
-          "Burglary": 2420.4,
-          "Larceny": 419.0,
-          "Motor": 1854.4
+          "All": 2420.4,
+          "Burglary": 419.0,
+          "Larceny": 1854.4,
+          "Motor": 147.0
         },
         "Violent": {
           "All": 234.4,
-          "Assault": 67.8,
+          "Assault": 127.5,
           "Murder": 2.1,
           "Rape": 37.0,
-          "Robbery": 25.9
+          "Robbery": 67.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 6909,
-          "Burglary": 131195,
-          "Larceny": 22713,
-          "Motor": 100516
+          "All": 131195,
+          "Burglary": 22713,
+          "Larceny": 100516,
+          "Motor": 7966
         },
         "Violent": {
           "All": 12705,
-          "Assault": 3674,
+          "Assault": 6909,
           "Murder": 114,
           "Rape": 2008,
-          "Robbery": 1403
+          "Robbery": 3674
         }
       }
     }
@@ -53065,32 +53065,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5457173,
       "Rates": {
         "Property": {
-          "All": 123.3,
-          "Burglary": 2297.5,
-          "Larceny": 380.7,
-          "Motor": 1763.5
+          "All": 2297.5,
+          "Burglary": 380.7,
+          "Larceny": 1763.5,
+          "Motor": 153.3
         },
         "Violent": {
           "All": 229.1,
-          "Assault": 67.6,
+          "Assault": 123.3,
           "Murder": 1.6,
           "Rape": 36.7,
-          "Robbery": 26.6
+          "Robbery": 67.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 6729,
-          "Burglary": 125377,
-          "Larceny": 20773,
-          "Motor": 96237
+          "All": 125377,
+          "Burglary": 20773,
+          "Larceny": 96237,
+          "Motor": 8367
         },
         "Violent": {
           "All": 12505,
-          "Assault": 3687,
+          "Assault": 6729,
           "Murder": 88,
           "Rape": 2001,
-          "Robbery": 1452
+          "Robbery": 3687
         }
       }
     }
@@ -53102,32 +53102,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5489594,
       "Rates": {
         "Property": {
-          "All": 129.2,
-          "Burglary": 2222.1,
-          "Larceny": 351.6,
-          "Motor": 1725.2
+          "All": 2222.1,
+          "Burglary": 351.6,
+          "Larceny": 1725.2,
+          "Motor": 145.4
         },
         "Violent": {
           "All": 242.6,
-          "Assault": 68.7,
+          "Assault": 129.2,
           "Murder": 2.4,
           "Rape": 42.3,
-          "Robbery": 30.7
+          "Robbery": 68.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 7094,
-          "Burglary": 121984,
-          "Larceny": 19299,
-          "Motor": 94704
+          "All": 121984,
+          "Burglary": 19299,
+          "Larceny": 94704,
+          "Motor": 7981
         },
         "Violent": {
           "All": 13319,
-          "Assault": 3771,
+          "Assault": 7094,
           "Murder": 133,
           "Rape": 2321,
-          "Robbery": 1686
+          "Robbery": 3771
         }
       }
     }
@@ -55248,32 +55248,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2991207,
       "Rates": {
         "Property": {
-          "All": 156.5,
-          "Burglary": 2724.7,
-          "Larceny": 835.6,
-          "Motor": 1742.3
+          "All": 2724.7,
+          "Burglary": 835.6,
+          "Larceny": 1742.3,
+          "Motor": 146.7
         },
         "Violent": {
           "All": 274.6,
-          "Assault": 80.5,
+          "Assault": 156.5,
           "Murder": 6.5,
           "Rape": 31.1,
-          "Robbery": 23.9
+          "Robbery": 80.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 4680,
-          "Burglary": 81500,
-          "Larceny": 24995,
-          "Motor": 52117
+          "All": 81500,
+          "Burglary": 24995,
+          "Larceny": 52117,
+          "Motor": 4388
         },
         "Violent": {
           "All": 8214,
-          "Assault": 2409,
+          "Assault": 4680,
           "Murder": 195,
           "Rape": 930,
-          "Robbery": 715
+          "Robbery": 2409
         }
       }
     }
@@ -55285,32 +55285,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2994079,
       "Rates": {
         "Property": {
-          "All": 153.4,
-          "Burglary": 2921.2,
-          "Larceny": 813.3,
-          "Motor": 1956.9
+          "All": 2921.2,
+          "Burglary": 813.3,
+          "Larceny": 1956.9,
+          "Motor": 150.9
         },
         "Violent": {
           "All": 278.5,
-          "Assault": 81.2,
+          "Assault": 153.4,
           "Murder": 8.6,
           "Rape": 35.3,
-          "Robbery": 25.5
+          "Robbery": 81.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 4592,
-          "Burglary": 87462,
-          "Larceny": 24352,
-          "Motor": 58591
+          "All": 87462,
+          "Burglary": 24352,
+          "Larceny": 58591,
+          "Motor": 4519
         },
         "Violent": {
           "All": 8338,
-          "Assault": 2430,
+          "Assault": 4592,
           "Murder": 258,
           "Rape": 1058,
-          "Robbery": 764
+          "Robbery": 2430
         }
       }
     }
@@ -55322,32 +55322,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2992333,
       "Rates": {
         "Property": {
-          "All": 150.3,
-          "Burglary": 2833.6,
-          "Larceny": 828.8,
-          "Motor": 1863.0
+          "All": 2833.6,
+          "Burglary": 828.8,
+          "Larceny": 1863.0,
+          "Motor": 141.8
         },
         "Violent": {
           "All": 275.8,
-          "Assault": 76.7,
+          "Assault": 150.3,
           "Murder": 8.7,
           "Rape": 40.2,
-          "Robbery": 28.8
+          "Robbery": 76.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 4498,
-          "Burglary": 84790,
-          "Larceny": 24799,
-          "Motor": 55748
+          "All": 84790,
+          "Burglary": 24799,
+          "Larceny": 55748,
+          "Motor": 4243
         },
         "Violent": {
           "All": 8254,
-          "Assault": 2294,
+          "Assault": 4498,
           "Murder": 259,
           "Rape": 1203,
-          "Robbery": 862
+          "Robbery": 2294
         }
       }
     }
@@ -57468,32 +57468,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6044171,
       "Rates": {
         "Property": {
-          "All": 298.7,
-          "Burglary": 3137.0,
-          "Larceny": 643.0,
-          "Motor": 2223.9
+          "All": 3137.0,
+          "Burglary": 643.0,
+          "Larceny": 2223.9,
+          "Motor": 270.1
         },
         "Violent": {
           "All": 433.4,
-          "Assault": 90.7,
+          "Assault": 298.7,
           "Murder": 6.1,
           "Rape": 37.8,
-          "Robbery": 26.5
+          "Robbery": 90.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 18055,
-          "Burglary": 189606,
-          "Larceny": 38865,
-          "Motor": 134416
+          "All": 189606,
+          "Burglary": 38865,
+          "Larceny": 134416,
+          "Motor": 16325
         },
         "Violent": {
           "All": 26197,
-          "Assault": 5484,
+          "Assault": 18055,
           "Murder": 371,
           "Rape": 2287,
-          "Robbery": 1599
+          "Robbery": 5484
         }
       }
     }
@@ -57505,32 +57505,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6063589,
       "Rates": {
         "Property": {
-          "All": 304.8,
-          "Burglary": 2906.5,
-          "Larceny": 581.5,
-          "Motor": 2055.3
+          "All": 2906.5,
+          "Burglary": 581.5,
+          "Larceny": 2055.3,
+          "Motor": 269.8
         },
         "Violent": {
           "All": 442.9,
-          "Assault": 92.2,
+          "Assault": 304.8,
           "Murder": 6.6,
           "Rape": 39.2,
-          "Robbery": 28.1
+          "Robbery": 92.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 18482,
-          "Burglary": 176237,
-          "Larceny": 35258,
-          "Motor": 124622
+          "All": 176237,
+          "Burglary": 35258,
+          "Larceny": 124622,
+          "Motor": 16357
         },
         "Violent": {
           "All": 26856,
-          "Assault": 5592,
+          "Assault": 18482,
           "Murder": 403,
           "Rape": 2379,
-          "Robbery": 1706
+          "Robbery": 5592
         }
       }
     }
@@ -57542,32 +57542,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6083672,
       "Rates": {
         "Property": {
-          "All": 342.4,
-          "Burglary": 2854.2,
-          "Larceny": 559.0,
-          "Motor": 2015.8
+          "All": 2854.2,
+          "Burglary": 559.0,
+          "Larceny": 2015.8,
+          "Motor": 279.4
         },
         "Violent": {
           "All": 497.4,
-          "Assault": 104.8,
+          "Assault": 342.4,
           "Murder": 8.3,
           "Rape": 42.0,
-          "Robbery": 30.5
+          "Robbery": 104.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 20830,
-          "Burglary": 173642,
-          "Larceny": 34006,
-          "Motor": 122637
+          "All": 173642,
+          "Burglary": 34006,
+          "Larceny": 122637,
+          "Motor": 16999
         },
         "Violent": {
           "All": 30261,
-          "Assault": 6376,
+          "Assault": 20830,
           "Murder": 502,
           "Rape": 2553,
-          "Robbery": 1854
+          "Robbery": 6376
         }
       }
     }
@@ -59688,32 +59688,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1015165,
       "Rates": {
         "Property": {
-          "All": 190.2,
-          "Burglary": 2556.5,
-          "Larceny": 400.3,
-          "Motor": 1974.0
+          "All": 2556.5,
+          "Burglary": 400.3,
+          "Larceny": 1974.0,
+          "Motor": 182.2
         },
         "Violent": {
           "All": 252.9,
-          "Assault": 20.1,
+          "Assault": 190.2,
           "Murder": 2.2,
           "Rape": 40.4,
-          "Robbery": 28.3
+          "Robbery": 20.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 1931,
-          "Burglary": 25953,
-          "Larceny": 4064,
-          "Motor": 20039
+          "All": 25953,
+          "Burglary": 4064,
+          "Larceny": 20039,
+          "Motor": 1850
         },
         "Violent": {
           "All": 2567,
-          "Assault": 204,
+          "Assault": 1931,
           "Murder": 22,
           "Rape": 410,
-          "Robbery": 287
+          "Robbery": 204
         }
       }
     }
@@ -59725,32 +59725,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1023579,
       "Rates": {
         "Property": {
-          "All": 247.4,
-          "Burglary": 2472.9,
-          "Larceny": 351.2,
-          "Motor": 1922.1
+          "All": 2472.9,
+          "Burglary": 351.2,
+          "Larceny": 1922.1,
+          "Motor": 199.6
         },
         "Violent": {
           "All": 323.7,
-          "Assault": 19.8,
+          "Assault": 247.4,
           "Murder": 3.6,
           "Rape": 52.9,
-          "Robbery": 42.0
+          "Robbery": 19.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 2532,
-          "Burglary": 25312,
-          "Larceny": 3595,
-          "Motor": 19674
+          "All": 25312,
+          "Burglary": 3595,
+          "Larceny": 19674,
+          "Motor": 2043
         },
         "Violent": {
           "All": 3313,
-          "Assault": 203,
+          "Assault": 2532,
           "Murder": 37,
           "Rape": 541,
-          "Robbery": 430
+          "Robbery": 203
         }
       }
     }
@@ -59762,32 +59762,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1032949,
       "Rates": {
         "Property": {
-          "All": 272.8,
-          "Burglary": 2623.6,
-          "Larceny": 371.6,
-          "Motor": 2017.9
+          "All": 2623.6,
+          "Burglary": 371.6,
+          "Larceny": 2017.9,
+          "Motor": 234.1
         },
         "Violent": {
           "All": 349.6,
-          "Assault": 20.3,
+          "Assault": 272.8,
           "Murder": 3.5,
           "Rape": 53.0,
-          "Robbery": 41.7
+          "Robbery": 20.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 2818,
-          "Burglary": 27100,
-          "Larceny": 3838,
-          "Motor": 20844
+          "All": 27100,
+          "Burglary": 3838,
+          "Larceny": 20844,
+          "Motor": 2418
         },
         "Violent": {
           "All": 3611,
-          "Assault": 210,
+          "Assault": 2818,
           "Murder": 36,
           "Rape": 547,
-          "Robbery": 431
+          "Robbery": 210
         }
       }
     }
@@ -61908,32 +61908,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1868516,
       "Rates": {
         "Property": {
-          "All": 160.5,
-          "Burglary": 2623.4,
-          "Larceny": 476.3,
-          "Motor": 1908.2
+          "All": 2623.4,
+          "Burglary": 476.3,
+          "Larceny": 1908.2,
+          "Motor": 238.9
         },
         "Violent": {
           "All": 262.1,
-          "Assault": 55.7,
+          "Assault": 160.5,
           "Murder": 3.1,
           "Rape": 42.9,
-          "Robbery": 33.0
+          "Robbery": 55.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 2999,
-          "Burglary": 49018,
-          "Larceny": 8900,
-          "Motor": 35655
+          "All": 49018,
+          "Burglary": 8900,
+          "Larceny": 35655,
+          "Motor": 4463
         },
         "Violent": {
           "All": 4897,
-          "Assault": 1040,
+          "Assault": 2999,
           "Murder": 57,
           "Rape": 801,
-          "Robbery": 616
+          "Robbery": 1040
         }
       }
     }
@@ -61945,32 +61945,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1881503,
       "Rates": {
         "Property": {
-          "All": 176.2,
-          "Burglary": 2523.5,
-          "Larceny": 422.5,
-          "Motor": 1864.1
+          "All": 2523.5,
+          "Burglary": 422.5,
+          "Larceny": 1864.1,
+          "Motor": 236.8
         },
         "Violent": {
           "All": 280.4,
-          "Assault": 55.4,
+          "Assault": 176.2,
           "Murder": 2.9,
           "Rape": 45.8,
-          "Robbery": 33.0
+          "Robbery": 55.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 3316,
-          "Burglary": 47479,
-          "Larceny": 7950,
-          "Motor": 35074
+          "All": 47479,
+          "Burglary": 7950,
+          "Larceny": 35074,
+          "Motor": 4455
         },
         "Violent": {
           "All": 5275,
-          "Assault": 1043,
+          "Assault": 3316,
           "Murder": 54,
           "Rape": 862,
-          "Robbery": 620
+          "Robbery": 1043
         }
       }
     }
@@ -61982,32 +61982,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1896190,
       "Rates": {
         "Property": {
-          "All": 173.1,
-          "Burglary": 2241.1,
-          "Larceny": 338.7,
-          "Motor": 1691.4
+          "All": 2241.1,
+          "Burglary": 338.7,
+          "Larceny": 1691.4,
+          "Motor": 211.0
         },
         "Violent": {
           "All": 274.9,
-          "Assault": 52.4,
+          "Assault": 173.1,
           "Murder": 3.3,
           "Rape": 46.0,
-          "Robbery": 34.4
+          "Robbery": 52.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 3283,
-          "Burglary": 42495,
-          "Larceny": 6422,
-          "Motor": 32072
+          "All": 42495,
+          "Burglary": 6422,
+          "Larceny": 32072,
+          "Motor": 4001
         },
         "Violent": {
           "All": 5212,
-          "Assault": 994,
+          "Assault": 3283,
           "Murder": 62,
           "Rape": 873,
-          "Robbery": 652
+          "Robbery": 994
         }
       }
     }
@@ -64128,32 +64128,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2790136,
       "Rates": {
         "Property": {
-          "All": 360.6,
-          "Burglary": 2837.7,
-          "Larceny": 826.0,
-          "Motor": 1653.4
+          "All": 2837.7,
+          "Burglary": 826.0,
+          "Larceny": 1653.4,
+          "Motor": 358.3
         },
         "Violent": {
           "All": 603.0,
-          "Assault": 185.8,
+          "Assault": 360.6,
           "Murder": 5.8,
           "Rape": 50.8,
-          "Robbery": 39.1
+          "Robbery": 185.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 10060,
-          "Burglary": 79177,
-          "Larceny": 23047,
-          "Motor": 46132
+          "All": 79177,
+          "Burglary": 23047,
+          "Larceny": 46132,
+          "Motor": 9998
         },
         "Violent": {
           "All": 16824,
-          "Assault": 5183,
+          "Assault": 10060,
           "Murder": 163,
           "Rape": 1418,
-          "Robbery": 1090
+          "Robbery": 5183
         }
       }
     }
@@ -64165,32 +64165,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2839099,
       "Rates": {
         "Property": {
-          "All": 372.1,
-          "Burglary": 2625.4,
-          "Larceny": 772.3,
-          "Motor": 1494.3
+          "All": 2625.4,
+          "Burglary": 772.3,
+          "Larceny": 1494.3,
+          "Motor": 358.7
         },
         "Violent": {
           "All": 635.6,
-          "Assault": 209.7,
+          "Assault": 372.1,
           "Murder": 6.0,
           "Rape": 47.8,
-          "Robbery": 35.0
+          "Robbery": 209.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 10564,
-          "Burglary": 74538,
-          "Larceny": 21927,
-          "Motor": 42426
+          "All": 74538,
+          "Burglary": 21927,
+          "Larceny": 42426,
+          "Motor": 10185
         },
         "Violent": {
           "All": 18045,
-          "Assault": 5954,
+          "Assault": 10564,
           "Murder": 170,
           "Rape": 1357,
-          "Robbery": 995
+          "Robbery": 5954
         }
       }
     }
@@ -64202,32 +64202,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2890845,
       "Rates": {
         "Property": {
-          "All": 413.9,
-          "Burglary": 2668.3,
-          "Larceny": 773.5,
-          "Motor": 1502.2
+          "All": 2668.3,
+          "Burglary": 773.5,
+          "Larceny": 1502.2,
+          "Motor": 392.7
         },
         "Violent": {
           "All": 695.9,
-          "Assault": 217.5,
+          "Assault": 413.9,
           "Murder": 6.2,
           "Rape": 58.4,
-          "Robbery": 42.8
+          "Robbery": 217.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 11965,
-          "Burglary": 77137,
-          "Larceny": 22360,
-          "Motor": 43426
+          "All": 77137,
+          "Burglary": 22360,
+          "Larceny": 43426,
+          "Motor": 11351
         },
         "Violent": {
           "All": 20118,
-          "Assault": 6287,
+          "Assault": 11965,
           "Murder": 178,
           "Rape": 1688,
-          "Robbery": 1238
+          "Robbery": 6287
         }
       }
     }
@@ -66348,32 +66348,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1323459,
       "Rates": {
         "Property": {
-          "All": 112.7,
-          "Burglary": 2194.3,
-          "Larceny": 373.0,
-          "Motor": 1750.3
+          "All": 2194.3,
+          "Burglary": 373.0,
+          "Larceny": 1750.3,
+          "Motor": 71.0
         },
         "Violent": {
           "All": 215.3,
-          "Assault": 49.0,
+          "Assault": 112.7,
           "Murder": 1.7,
           "Rape": 51.8,
-          "Robbery": 36.2
+          "Robbery": 49.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 1492,
-          "Burglary": 29040,
-          "Larceny": 4936,
-          "Motor": 23164
+          "All": 29040,
+          "Burglary": 4936,
+          "Larceny": 23164,
+          "Motor": 940
         },
         "Violent": {
           "All": 2849,
-          "Assault": 649,
+          "Assault": 1492,
           "Murder": 22,
           "Rape": 686,
-          "Robbery": 479
+          "Robbery": 649
         }
       }
     }
@@ -66385,32 +66385,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1326813,
       "Rates": {
         "Property": {
-          "All": 110.0,
-          "Burglary": 1962.7,
-          "Larceny": 313.7,
-          "Motor": 1584.4
+          "All": 1962.7,
+          "Burglary": 313.7,
+          "Larceny": 1584.4,
+          "Motor": 64.6
         },
         "Violent": {
           "All": 196.1,
-          "Assault": 40.5,
+          "Assault": 110.0,
           "Murder": 0.9,
           "Rape": 44.8,
-          "Robbery": 34.5
+          "Robbery": 40.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 1459,
-          "Burglary": 26041,
-          "Larceny": 4162,
-          "Motor": 21022
+          "All": 26041,
+          "Burglary": 4162,
+          "Larceny": 21022,
+          "Motor": 857
         },
         "Violent": {
           "All": 2602,
-          "Assault": 537,
+          "Assault": 1459,
           "Murder": 12,
           "Rape": 594,
-          "Robbery": 458
+          "Robbery": 537
         }
       }
     }
@@ -66422,32 +66422,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1330608,
       "Rates": {
         "Property": {
-          "All": 116.0,
-          "Burglary": 1745.7,
-          "Larceny": 260.6,
-          "Motor": 1418.2
+          "All": 1745.7,
+          "Burglary": 260.6,
+          "Larceny": 1418.2,
+          "Motor": 67.0
         },
         "Violent": {
           "All": 199.3,
-          "Assault": 35.2,
+          "Assault": 116.0,
           "Murder": 1.1,
           "Rape": 47.1,
-          "Robbery": 34.6
+          "Robbery": 35.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 1543,
-          "Burglary": 23229,
-          "Larceny": 3467,
-          "Motor": 18871
+          "All": 23229,
+          "Burglary": 3467,
+          "Larceny": 18871,
+          "Motor": 891
         },
         "Violent": {
           "All": 2652,
-          "Assault": 468,
+          "Assault": 1543,
           "Murder": 14,
           "Rape": 627,
-          "Robbery": 461
+          "Robbery": 468
         }
       }
     }
@@ -68568,32 +68568,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8899339,
       "Rates": {
         "Property": {
-          "All": 135.6,
-          "Burglary": 1882.8,
-          "Larceny": 403.1,
-          "Motor": 1325.2
+          "All": 1882.8,
+          "Burglary": 403.1,
+          "Larceny": 1325.2,
+          "Motor": 154.5
         },
         "Violent": {
           "All": 288.5,
-          "Assault": 135.8,
+          "Assault": 135.6,
           "Murder": 4.5,
           "Rape": 12.6,
-          "Robbery": 9.7
+          "Robbery": 135.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 12071,
-          "Burglary": 167556,
-          "Larceny": 35873,
-          "Motor": 117936
+          "All": 167556,
+          "Burglary": 35873,
+          "Larceny": 117936,
+          "Motor": 13747
         },
         "Violent": {
           "All": 25674,
-          "Assault": 12082,
+          "Assault": 12071,
           "Murder": 401,
           "Rape": 1120,
-          "Robbery": 861
+          "Robbery": 12082
         }
       }
     }
@@ -68605,32 +68605,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8938175,
       "Rates": {
         "Property": {
-          "All": 125.6,
-          "Burglary": 1734.1,
-          "Larceny": 354.8,
-          "Motor": 1248.3
+          "All": 1734.1,
+          "Burglary": 354.8,
+          "Larceny": 1248.3,
+          "Motor": 131.0
         },
         "Violent": {
           "All": 261.2,
-          "Assault": 117.5,
+          "Assault": 125.6,
           "Murder": 3.9,
           "Rape": 14.3,
-          "Robbery": 10.7
+          "Robbery": 117.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 11225,
-          "Burglary": 154993,
-          "Larceny": 31710,
-          "Motor": 111578
+          "All": 154993,
+          "Burglary": 31710,
+          "Larceny": 111578,
+          "Motor": 11705
         },
         "Violent": {
           "All": 23346,
-          "Assault": 10498,
+          "Assault": 11225,
           "Murder": 349,
           "Rape": 1274,
-          "Robbery": 953
+          "Robbery": 10498
         }
       }
     }
@@ -68642,32 +68642,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8958013,
       "Rates": {
         "Property": {
-          "All": 127.4,
-          "Burglary": 1626.5,
-          "Larceny": 312.1,
-          "Motor": 1182.9
+          "All": 1626.5,
+          "Burglary": 312.1,
+          "Larceny": 1182.9,
+          "Motor": 131.5
         },
         "Violent": {
           "All": 255.4,
-          "Assault": 108.6,
+          "Assault": 127.4,
           "Murder": 4.1,
           "Rape": 15.3,
-          "Robbery": 11.4
+          "Robbery": 108.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 11414,
-          "Burglary": 145701,
-          "Larceny": 27960,
-          "Motor": 105963
+          "All": 145701,
+          "Burglary": 27960,
+          "Larceny": 105963,
+          "Motor": 11778
         },
         "Violent": {
           "All": 22879,
-          "Assault": 9729,
+          "Assault": 11414,
           "Murder": 363,
           "Rape": 1373,
-          "Robbery": 1019
+          "Robbery": 9729
         }
       }
     }
@@ -70788,32 +70788,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2085287,
       "Rates": {
         "Property": {
-          "All": 449.9,
-          "Burglary": 3704.8,
-          "Larceny": 1029.9,
-          "Motor": 2391.8
+          "All": 3704.8,
+          "Burglary": 1029.9,
+          "Larceny": 2391.8,
+          "Motor": 283.2
         },
         "Violent": {
           "All": 613.0,
-          "Assault": 86.8,
+          "Assault": 449.9,
           "Murder": 6.0,
           "Rape": 70.3,
-          "Robbery": 54.0
+          "Robbery": 86.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 9382,
-          "Burglary": 77256,
-          "Larceny": 21476,
-          "Motor": 49875
+          "All": 77256,
+          "Burglary": 21476,
+          "Larceny": 49875,
+          "Motor": 5905
         },
         "Violent": {
           "All": 12782,
-          "Assault": 1810,
+          "Assault": 9382,
           "Murder": 125,
           "Rape": 1465,
-          "Robbery": 1126
+          "Robbery": 1810
         }
       }
     }
@@ -70825,32 +70825,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2085572,
       "Rates": {
         "Property": {
-          "All": 421.8,
-          "Burglary": 3542.3,
-          "Larceny": 887.3,
-          "Motor": 2353.4
+          "All": 3542.3,
+          "Burglary": 887.3,
+          "Larceny": 2353.4,
+          "Motor": 301.6
         },
         "Violent": {
           "All": 597.4,
-          "Assault": 100.0,
+          "Assault": 421.8,
           "Murder": 4.8,
           "Rape": 70.7,
-          "Robbery": 51.4
+          "Robbery": 100.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 8797,
-          "Burglary": 73877,
-          "Larceny": 18505,
-          "Motor": 49082
+          "All": 73877,
+          "Burglary": 18505,
+          "Larceny": 49082,
+          "Motor": 6290
         },
         "Violent": {
           "All": 12459,
-          "Assault": 2086,
+          "Assault": 8797,
           "Murder": 101,
           "Rape": 1475,
-          "Robbery": 1071
+          "Robbery": 2086
         }
       }
     }
@@ -70862,32 +70862,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2085109,
       "Rates": {
         "Property": {
-          "All": 451.2,
-          "Burglary": 3697.4,
-          "Larceny": 819.4,
-          "Motor": 2469.1
+          "All": 3697.4,
+          "Burglary": 819.4,
+          "Larceny": 2469.1,
+          "Motor": 408.9
         },
         "Violent": {
           "All": 656.1,
-          "Assault": 119.2,
+          "Assault": 451.2,
           "Murder": 5.6,
           "Rape": 80.2,
-          "Robbery": 58.3
+          "Robbery": 119.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 9407,
-          "Burglary": 77094,
-          "Larceny": 17085,
-          "Motor": 51483
+          "All": 77094,
+          "Burglary": 17085,
+          "Larceny": 51483,
+          "Motor": 8526
         },
         "Violent": {
           "All": 13681,
-          "Assault": 2485,
+          "Assault": 9407,
           "Murder": 117,
           "Rape": 1672,
-          "Robbery": 1215
+          "Robbery": 2485
         }
       }
     }
@@ -72823,32 +72823,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 19651127,
       "Rates": {
         "Property": {
-          "All": 234.7,
-          "Burglary": 1824.8,
-          "Larceny": 287.2,
-          "Motor": 1458.8
+          "All": 1824.8,
+          "Burglary": 287.2,
+          "Larceny": 1458.8,
+          "Motor": 78.8
         },
         "Violent": {
           "All": 393.7,
-          "Assault": 138.6,
+          "Assault": 234.7,
           "Murder": 3.3,
           "Rape": 17.1,
-          "Robbery": 13.1
+          "Robbery": 138.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 46130,
-          "Burglary": 358598,
-          "Larceny": 56442,
-          "Motor": 286674
+          "All": 358598,
+          "Burglary": 56442,
+          "Larceny": 286674,
+          "Motor": 15482
         },
         "Violent": {
           "All": 77372,
-          "Assault": 27241,
+          "Assault": 46130,
           "Murder": 648,
           "Rape": 3353,
-          "Robbery": 2577
+          "Robbery": 27241
         }
       }
     }
@@ -72860,32 +72860,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 19746227,
       "Rates": {
         "Property": {
-          "All": 229.4,
-          "Burglary": 1718.2,
-          "Larceny": 257.2,
-          "Motor": 1381.4
+          "All": 1718.2,
+          "Burglary": 257.2,
+          "Larceny": 1381.4,
+          "Motor": 79.7
         },
         "Violent": {
           "All": 381.8,
-          "Assault": 121.8,
+          "Assault": 229.4,
           "Murder": 3.1,
           "Rape": 27.5,
-          "Robbery": 19.8
+          "Robbery": 121.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 45303,
-          "Burglary": 339282,
-          "Larceny": 50781,
-          "Motor": 272765
+          "All": 339282,
+          "Burglary": 50781,
+          "Larceny": 272765,
+          "Motor": 15736
         },
         "Violent": {
           "All": 75398,
-          "Assault": 24045,
+          "Assault": 45303,
           "Murder": 617,
           "Rape": 5433,
-          "Robbery": 3918
+          "Robbery": 24045
         }
       }
     }
@@ -72897,32 +72897,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 19795791,
       "Rates": {
         "Property": {
-          "All": 225.0,
-          "Burglary": 1604.0,
-          "Larceny": 223.7,
-          "Motor": 1303.0
+          "All": 1604.0,
+          "Burglary": 223.7,
+          "Larceny": 1303.0,
+          "Motor": 77.4
         },
         "Violent": {
           "All": 379.7,
-          "Assault": 120.9,
+          "Assault": 225.0,
           "Murder": 3.1,
           "Rape": 30.7,
-          "Robbery": 22.2
+          "Robbery": 120.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 44546,
-          "Burglary": 317529,
-          "Larceny": 44276,
-          "Motor": 257940
+          "All": 317529,
+          "Burglary": 44276,
+          "Larceny": 257940,
+          "Motor": 15313
         },
         "Violent": {
           "All": 75165,
-          "Assault": 23936,
+          "Assault": 44546,
           "Murder": 609,
           "Rape": 6074,
-          "Robbery": 4389
+          "Robbery": 23936
         }
       }
     }
@@ -75043,32 +75043,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9848060,
       "Rates": {
         "Property": {
-          "All": 218.4,
-          "Burglary": 3128.0,
-          "Larceny": 921.0,
-          "Motor": 2058.7
+          "All": 3128.0,
+          "Burglary": 921.0,
+          "Larceny": 2058.7,
+          "Motor": 148.3
         },
         "Violent": {
           "All": 342.2,
-          "Assault": 94.9,
+          "Assault": 218.4,
           "Murder": 4.8,
           "Rape": 24.1,
-          "Robbery": 18.5
+          "Robbery": 94.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 21513,
-          "Burglary": 308049,
-          "Larceny": 90702,
-          "Motor": 202741
+          "All": 308049,
+          "Burglary": 90702,
+          "Larceny": 202741,
+          "Motor": 14606
         },
         "Violent": {
           "All": 33700,
-          "Assault": 9349,
+          "Assault": 21513,
           "Murder": 469,
           "Rape": 2369,
-          "Robbery": 1821
+          "Robbery": 9349
         }
       }
     }
@@ -75080,32 +75080,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 9943964,
       "Rates": {
         "Property": {
-          "All": 215.4,
-          "Burglary": 2873.1,
-          "Larceny": 798.2,
-          "Motor": 1937.8
+          "All": 2873.1,
+          "Burglary": 798.2,
+          "Larceny": 1937.8,
+          "Motor": 137.1
         },
         "Violent": {
           "All": 329.5,
-          "Assault": 84.6,
+          "Assault": 215.4,
           "Murder": 5.1,
           "Rape": 24.3,
-          "Robbery": 17.5
+          "Robbery": 84.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 21421,
-          "Burglary": 285697,
-          "Larceny": 79373,
-          "Motor": 192694
+          "All": 285697,
+          "Burglary": 79373,
+          "Larceny": 192694,
+          "Motor": 13630
         },
         "Violent": {
           "All": 32767,
-          "Assault": 8416,
+          "Assault": 21421,
           "Murder": 510,
           "Rape": 2420,
-          "Robbery": 1740
+          "Robbery": 8416
         }
       }
     }
@@ -75117,32 +75117,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 10042802,
       "Rates": {
         "Property": {
-          "All": 227.3,
-          "Burglary": 2750.1,
-          "Larceny": 745.2,
-          "Motor": 1871.1
+          "All": 2750.1,
+          "Burglary": 745.2,
+          "Larceny": 1871.1,
+          "Motor": 133.8
         },
         "Violent": {
           "All": 347.0,
-          "Assault": 87.9,
+          "Assault": 227.3,
           "Murder": 5.1,
           "Rape": 26.7,
-          "Robbery": 19.3
+          "Robbery": 87.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 22826,
-          "Burglary": 276183,
-          "Larceny": 74841,
-          "Motor": 187907
+          "All": 276183,
+          "Burglary": 74841,
+          "Larceny": 187907,
+          "Motor": 13435
         },
         "Violent": {
           "All": 34852,
-          "Assault": 8825,
+          "Assault": 22826,
           "Murder": 517,
           "Rape": 2684,
-          "Robbery": 1939
+          "Robbery": 8825
         }
       }
     }
@@ -77263,32 +77263,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 723393,
       "Rates": {
         "Property": {
-          "All": 199.9,
-          "Burglary": 2094.0,
-          "Larceny": 405.6,
-          "Motor": 1492.7
+          "All": 2094.0,
+          "Burglary": 405.6,
+          "Larceny": 1492.7,
+          "Motor": 195.7
         },
         "Violent": {
           "All": 270.1,
-          "Assault": 22.4,
+          "Assault": 199.9,
           "Murder": 2.2,
           "Rape": 45.6,
-          "Robbery": 31.8
+          "Robbery": 22.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 1446,
-          "Burglary": 15148,
-          "Larceny": 2934,
-          "Motor": 10798
+          "All": 15148,
+          "Burglary": 2934,
+          "Larceny": 10798,
+          "Motor": 1416
         },
         "Violent": {
           "All": 1954,
-          "Assault": 162,
+          "Assault": 1446,
           "Murder": 16,
           "Rape": 330,
-          "Robbery": 230
+          "Robbery": 162
         }
       }
     }
@@ -77300,32 +77300,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 739482,
       "Rates": {
         "Property": {
-          "All": 190.3,
-          "Burglary": 2110.3,
-          "Larceny": 366.1,
-          "Motor": 1539.5
+          "All": 2110.3,
+          "Burglary": 366.1,
+          "Larceny": 1539.5,
+          "Motor": 204.7
         },
         "Violent": {
           "All": 265.1,
-          "Assault": 23.4,
+          "Assault": 190.3,
           "Murder": 3.0,
           "Rape": 48.4,
-          "Robbery": 37.3
+          "Robbery": 23.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 1407,
-          "Burglary": 15605,
-          "Larceny": 2707,
-          "Motor": 11384
+          "All": 15605,
+          "Burglary": 2707,
+          "Larceny": 11384,
+          "Motor": 1514
         },
         "Violent": {
           "All": 1960,
-          "Assault": 173,
+          "Assault": 1407,
           "Murder": 22,
           "Rape": 358,
-          "Robbery": 276
+          "Robbery": 173
         }
       }
     }
@@ -77337,32 +77337,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 756927,
       "Rates": {
         "Property": {
-          "All": 171.5,
-          "Burglary": 2116.5,
-          "Larceny": 395.9,
-          "Motor": 1511.4
+          "All": 2116.5,
+          "Burglary": 395.9,
+          "Larceny": 1511.4,
+          "Motor": 209.1
         },
         "Violent": {
           "All": 239.4,
-          "Assault": 19.6,
+          "Assault": 171.5,
           "Murder": 2.8,
           "Rape": 45.6,
-          "Robbery": 36.5
+          "Robbery": 19.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 1298,
-          "Burglary": 16020,
-          "Larceny": 2997,
-          "Motor": 11440
+          "All": 16020,
+          "Burglary": 2997,
+          "Larceny": 11440,
+          "Motor": 1583
         },
         "Violent": {
           "All": 1812,
-          "Assault": 148,
+          "Assault": 1298,
           "Murder": 21,
           "Rape": 345,
-          "Robbery": 276
+          "Robbery": 148
         }
       }
     }
@@ -79483,32 +79483,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 11570808,
       "Rates": {
         "Property": {
-          "All": 123.2,
-          "Burglary": 2927.5,
-          "Larceny": 790.2,
-          "Motor": 1968.5
+          "All": 2927.5,
+          "Burglary": 790.2,
+          "Larceny": 1968.5,
+          "Motor": 168.8
         },
         "Violent": {
           "All": 286.2,
-          "Assault": 124.2,
+          "Assault": 123.2,
           "Murder": 3.9,
           "Rape": 34.9,
-          "Robbery": 24.4
+          "Robbery": 124.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 14257,
-          "Burglary": 338731,
-          "Larceny": 91433,
-          "Motor": 227766
+          "All": 338731,
+          "Burglary": 91433,
+          "Larceny": 227766,
+          "Motor": 19532
         },
         "Violent": {
           "All": 33121,
-          "Assault": 14368,
+          "Assault": 14257,
           "Murder": 455,
           "Rape": 4041,
-          "Robbery": 2824
+          "Robbery": 14368
         }
       }
     }
@@ -79520,32 +79520,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 11594163,
       "Rates": {
         "Property": {
-          "All": 127.4,
-          "Burglary": 2799.1,
-          "Larceny": 680.0,
-          "Motor": 1963.6
+          "All": 2799.1,
+          "Burglary": 680.0,
+          "Larceny": 1963.6,
+          "Motor": 155.4
         },
         "Violent": {
           "All": 284.9,
-          "Assault": 110.0,
+          "Assault": 127.4,
           "Murder": 4.0,
           "Rape": 43.5,
-          "Robbery": 35.3
+          "Robbery": 110.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 14771,
-          "Burglary": 324528,
-          "Larceny": 78845,
-          "Motor": 227668
+          "All": 324528,
+          "Burglary": 78845,
+          "Larceny": 227668,
+          "Motor": 18015
         },
         "Violent": {
           "All": 33030,
-          "Assault": 12753,
+          "Assault": 14771,
           "Murder": 464,
           "Rape": 5042,
-          "Robbery": 4097
+          "Robbery": 12753
         }
       }
     }
@@ -79557,32 +79557,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 11613423,
       "Rates": {
         "Property": {
-          "All": 135.1,
-          "Burglary": 2587.7,
-          "Larceny": 596.7,
-          "Motor": 1842.6
+          "All": 2587.7,
+          "Burglary": 596.7,
+          "Larceny": 1842.6,
+          "Motor": 148.4
         },
         "Violent": {
           "All": 291.9,
-          "Assault": 108.1,
+          "Assault": 135.1,
           "Murder": 4.3,
           "Rape": 44.3,
-          "Robbery": 35.8
+          "Robbery": 108.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 15695,
-          "Burglary": 300525,
-          "Larceny": 69303,
-          "Motor": 213993
+          "All": 300525,
+          "Burglary": 69303,
+          "Larceny": 213993,
+          "Motor": 17229
         },
         "Violent": {
           "All": 33898,
-          "Assault": 12554,
+          "Assault": 15695,
           "Murder": 500,
           "Rape": 5149,
-          "Robbery": 4154
+          "Robbery": 12554
         }
       }
     }
@@ -81703,32 +81703,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3850568,
       "Rates": {
         "Property": {
-          "All": 300.8,
-          "Burglary": 3273.7,
-          "Larceny": 866.1,
-          "Motor": 2116.4
+          "All": 3273.7,
+          "Burglary": 866.1,
+          "Larceny": 2116.4,
+          "Motor": 291.2
         },
         "Violent": {
           "All": 441.2,
-          "Assault": 78.7,
+          "Assault": 300.8,
           "Murder": 5.1,
           "Rape": 56.6,
-          "Robbery": 43.5
+          "Robbery": 78.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 11583,
-          "Burglary": 126057,
-          "Larceny": 33348,
-          "Motor": 81495
+          "All": 126057,
+          "Burglary": 33348,
+          "Larceny": 81495,
+          "Motor": 11214
         },
         "Violent": {
           "All": 16989,
-          "Assault": 3031,
+          "Assault": 11583,
           "Murder": 195,
           "Rape": 2180,
-          "Robbery": 1675
+          "Robbery": 3031
         }
       }
     }
@@ -81740,32 +81740,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3878051,
       "Rates": {
         "Property": {
-          "All": 277.0,
-          "Burglary": 2990.7,
-          "Larceny": 760.9,
-          "Motor": 1956.9
+          "All": 2990.7,
+          "Burglary": 760.9,
+          "Larceny": 1956.9,
+          "Motor": 272.9
         },
         "Violent": {
           "All": 406.0,
-          "Assault": 78.6,
+          "Assault": 277.0,
           "Murder": 4.5,
           "Rape": 45.8,
-          "Robbery": 32.9
+          "Robbery": 78.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 10744,
-          "Burglary": 115982,
-          "Larceny": 29508,
-          "Motor": 75891
+          "All": 115982,
+          "Burglary": 29508,
+          "Larceny": 75891,
+          "Motor": 10583
         },
         "Violent": {
           "All": 15744,
-          "Assault": 3048,
+          "Assault": 10744,
           "Murder": 175,
           "Rape": 1777,
-          "Robbery": 1277
+          "Robbery": 3048
         }
       }
     }
@@ -81777,32 +81777,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3911338,
       "Rates": {
         "Property": {
-          "All": 291.9,
-          "Burglary": 2885.9,
-          "Larceny": 726.2,
-          "Motor": 1892.5
+          "All": 2885.9,
+          "Burglary": 726.2,
+          "Larceny": 1892.5,
+          "Motor": 267.2
         },
         "Violent": {
           "All": 422.0,
-          "Assault": 76.8,
+          "Assault": 291.9,
           "Murder": 6.0,
           "Rape": 47.3,
-          "Robbery": 34.6
+          "Robbery": 76.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 11418,
-          "Burglary": 112878,
-          "Larceny": 28406,
-          "Motor": 74022
+          "All": 112878,
+          "Burglary": 28406,
+          "Larceny": 74022,
+          "Motor": 10450
         },
         "Violent": {
           "All": 16506,
-          "Assault": 3005,
+          "Assault": 11418,
           "Murder": 234,
           "Rape": 1849,
-          "Robbery": 1352
+          "Robbery": 3005
         }
       }
     }
@@ -83923,32 +83923,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3930065,
       "Rates": {
         "Property": {
-          "All": 142.7,
-          "Burglary": 3173.9,
-          "Larceny": 528.5,
-          "Motor": 2394.5
+          "All": 3173.9,
+          "Burglary": 528.5,
+          "Larceny": 2394.5,
+          "Motor": 250.9
         },
         "Violent": {
           "All": 254.0,
-          "Assault": 61.0,
+          "Assault": 142.7,
           "Murder": 2.0,
           "Rape": 48.3,
-          "Robbery": 37.1
+          "Robbery": 61.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 5610,
-          "Burglary": 124737,
-          "Larceny": 20769,
-          "Motor": 94106
+          "All": 124737,
+          "Burglary": 20769,
+          "Larceny": 94106,
+          "Motor": 9862
         },
         "Violent": {
           "All": 9984,
-          "Assault": 2397,
+          "Assault": 5610,
           "Murder": 80,
           "Rape": 1897,
-          "Robbery": 1459
+          "Robbery": 2397
         }
       }
     }
@@ -83960,32 +83960,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 3970239,
       "Rates": {
         "Property": {
-          "All": 140.8,
-          "Burglary": 2879.0,
-          "Larceny": 434.0,
-          "Motor": 2204.6
+          "All": 2879.0,
+          "Burglary": 434.0,
+          "Larceny": 2204.6,
+          "Motor": 240.5
         },
         "Violent": {
           "All": 232.3,
-          "Assault": 52.7,
+          "Assault": 140.8,
           "Murder": 2.0,
           "Rape": 36.7,
-          "Robbery": 26.5
+          "Robbery": 52.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 5592,
-          "Burglary": 114305,
-          "Larceny": 17230,
-          "Motor": 87526
+          "All": 114305,
+          "Burglary": 17230,
+          "Larceny": 87526,
+          "Motor": 9549
         },
         "Violent": {
           "All": 9224,
-          "Assault": 2093,
+          "Assault": 5592,
           "Murder": 81,
           "Rape": 1458,
-          "Robbery": 1052
+          "Robbery": 2093
         }
       }
     }
@@ -83997,32 +83997,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4028977,
       "Rates": {
         "Property": {
-          "All": 164.6,
-          "Burglary": 2946.6,
-          "Larceny": 455.1,
-          "Motor": 2229.7
+          "All": 2946.6,
+          "Burglary": 455.1,
+          "Larceny": 2229.7,
+          "Motor": 261.8
         },
         "Violent": {
           "All": 259.8,
-          "Assault": 53.3,
+          "Assault": 164.6,
           "Murder": 2.5,
           "Rape": 39.5,
-          "Robbery": 28.9
+          "Robbery": 53.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 6630,
-          "Burglary": 118719,
-          "Larceny": 18336,
-          "Motor": 89836
+          "All": 118719,
+          "Burglary": 18336,
+          "Larceny": 89836,
+          "Motor": 10547
         },
         "Violent": {
           "All": 10468,
-          "Assault": 2146,
+          "Assault": 6630,
           "Murder": 99,
           "Rape": 1593,
-          "Robbery": 1164
+          "Robbery": 2146
         }
       }
     }
@@ -86143,32 +86143,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12773801,
       "Rates": {
         "Property": {
-          "All": 185.7,
-          "Burglary": 2060.8,
-          "Larceny": 407.3,
-          "Motor": 1545.6
+          "All": 2060.8,
+          "Burglary": 407.3,
+          "Larceny": 1545.6,
+          "Motor": 107.8
         },
         "Violent": {
           "All": 335.4,
-          "Assault": 115.6,
+          "Assault": 185.7,
           "Murder": 4.7,
           "Rape": 29.5,
-          "Robbery": 20.7
+          "Robbery": 115.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 23719,
-          "Burglary": 263240,
-          "Larceny": 52034,
-          "Motor": 197436
+          "All": 263240,
+          "Burglary": 52034,
+          "Larceny": 197436,
+          "Motor": 13770
         },
         "Violent": {
           "All": 42849,
-          "Assault": 14762,
+          "Assault": 23719,
           "Murder": 594,
           "Rape": 3774,
-          "Robbery": 2638
+          "Robbery": 14762
         }
       }
     }
@@ -86180,32 +86180,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12787209,
       "Rates": {
         "Property": {
-          "All": 173.5,
-          "Burglary": 1931.7,
-          "Larceny": 357.5,
-          "Motor": 1472.2
+          "All": 1931.7,
+          "Burglary": 357.5,
+          "Larceny": 1472.2,
+          "Motor": 102.0
         },
         "Violent": {
           "All": 314.1,
-          "Assault": 105.8,
+          "Assault": 173.5,
           "Murder": 4.8,
           "Rape": 29.9,
-          "Robbery": 21.8
+          "Robbery": 105.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 22189,
-          "Burglary": 247016,
-          "Larceny": 45720,
-          "Motor": 188256
+          "All": 247016,
+          "Burglary": 45720,
+          "Larceny": 188256,
+          "Motor": 13040
         },
         "Violent": {
           "All": 40164,
-          "Assault": 13534,
+          "Assault": 22189,
           "Murder": 614,
           "Rape": 3827,
-          "Robbery": 2787
+          "Robbery": 13534
         }
       }
     }
@@ -86217,32 +86217,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 12802503,
       "Rates": {
         "Property": {
-          "All": 174.8,
-          "Burglary": 1812.8,
-          "Larceny": 309.8,
-          "Motor": 1408.2
+          "All": 1812.8,
+          "Burglary": 309.8,
+          "Larceny": 1408.2,
+          "Motor": 94.8
         },
         "Violent": {
           "All": 315.1,
-          "Assault": 101.6,
+          "Assault": 174.8,
           "Murder": 5.1,
           "Rape": 33.6,
-          "Robbery": 24.4
+          "Robbery": 101.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 22373,
-          "Burglary": 232085,
-          "Larceny": 39664,
-          "Motor": 180287
+          "All": 232085,
+          "Burglary": 39664,
+          "Larceny": 180287,
+          "Motor": 12134
         },
         "Violent": {
           "All": 40339,
-          "Assault": 13003,
+          "Assault": 22373,
           "Murder": 658,
           "Rape": 4305,
-          "Robbery": 3122
+          "Robbery": 13003
         }
       }
     }
@@ -88363,32 +88363,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1051511,
       "Rates": {
         "Property": {
-          "All": 147.4,
-          "Burglary": 2442.0,
-          "Larceny": 533.2,
-          "Motor": 1696.4
+          "All": 2442.0,
+          "Burglary": 533.2,
+          "Larceny": 1696.4,
+          "Motor": 212.4
         },
         "Violent": {
           "All": 257.2,
-          "Assault": 65.0,
+          "Assault": 147.4,
           "Murder": 2.9,
           "Rape": 41.8,
-          "Robbery": 29.2
+          "Robbery": 65.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 1550,
-          "Burglary": 25678,
-          "Larceny": 5607,
-          "Motor": 17838
+          "All": 25678,
+          "Burglary": 5607,
+          "Larceny": 17838,
+          "Motor": 2233
         },
         "Violent": {
           "All": 2705,
-          "Assault": 684,
+          "Assault": 1550,
           "Murder": 31,
           "Rape": 440,
-          "Robbery": 307
+          "Robbery": 684
         }
       }
     }
@@ -88400,32 +88400,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1055173,
       "Rates": {
         "Property": {
-          "All": 132.5,
-          "Burglary": 2173.6,
-          "Larceny": 457.1,
-          "Motor": 1542.8
+          "All": 2173.6,
+          "Burglary": 457.1,
+          "Larceny": 1542.8,
+          "Motor": 173.7
         },
         "Violent": {
           "All": 219.2,
-          "Assault": 50.1,
+          "Assault": 132.5,
           "Murder": 2.4,
           "Rape": 34.2,
-          "Robbery": 24.0
+          "Robbery": 50.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 1398,
-          "Burglary": 22935,
-          "Larceny": 4823,
-          "Motor": 16279
+          "All": 22935,
+          "Burglary": 4823,
+          "Larceny": 16279,
+          "Motor": 1833
         },
         "Violent": {
           "All": 2313,
-          "Assault": 529,
+          "Assault": 1398,
           "Murder": 25,
           "Rape": 361,
-          "Robbery": 253
+          "Robbery": 529
         }
       }
     }
@@ -88437,32 +88437,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1056298,
       "Rates": {
         "Property": {
-          "All": 143.7,
-          "Burglary": 1897.5,
-          "Larceny": 373.7,
-          "Motor": 1392.3
+          "All": 1897.5,
+          "Burglary": 373.7,
+          "Larceny": 1392.3,
+          "Motor": 131.5
         },
         "Violent": {
           "All": 242.5,
-          "Assault": 52.6,
+          "Assault": 143.7,
           "Murder": 2.7,
           "Rape": 43.5,
-          "Robbery": 32.0
+          "Robbery": 52.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 1518,
-          "Burglary": 20043,
-          "Larceny": 3947,
-          "Motor": 14707
+          "All": 20043,
+          "Burglary": 3947,
+          "Larceny": 14707,
+          "Motor": 1389
         },
         "Violent": {
           "All": 2562,
-          "Assault": 556,
+          "Assault": 1518,
           "Murder": 29,
           "Rape": 459,
-          "Robbery": 338
+          "Robbery": 556
         }
       }
     }
@@ -90583,32 +90583,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4774839,
       "Rates": {
         "Property": {
-          "All": 373.6,
-          "Burglary": 3624.2,
-          "Larceny": 857.8,
-          "Motor": 2502.9
+          "All": 3624.2,
+          "Burglary": 857.8,
+          "Larceny": 2502.9,
+          "Motor": 263.5
         },
         "Violent": {
           "All": 508.5,
-          "Assault": 83.2,
+          "Assault": 373.6,
           "Murder": 6.2,
           "Rape": 45.5,
-          "Robbery": 31.8
+          "Robbery": 83.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 17838,
-          "Burglary": 173049,
-          "Larceny": 40958,
-          "Motor": 119511
+          "All": 173049,
+          "Burglary": 40958,
+          "Larceny": 119511,
+          "Motor": 12580
         },
         "Violent": {
           "All": 24278,
-          "Assault": 3972,
+          "Assault": 17838,
           "Murder": 297,
           "Rape": 2171,
-          "Robbery": 1518
+          "Robbery": 3972
         }
       }
     }
@@ -90620,32 +90620,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4832482,
       "Rates": {
         "Property": {
-          "All": 365.8,
-          "Burglary": 3460.3,
-          "Larceny": 759.9,
-          "Motor": 2433.4
+          "All": 3460.3,
+          "Burglary": 759.9,
+          "Larceny": 2433.4,
+          "Motor": 267.0
         },
         "Violent": {
           "All": 497.7,
-          "Assault": 82.7,
+          "Assault": 365.8,
           "Murder": 6.4,
           "Rape": 42.8,
-          "Robbery": 30.6
+          "Robbery": 82.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 17676,
-          "Burglary": 167217,
-          "Larceny": 36721,
-          "Motor": 117594
+          "All": 167217,
+          "Burglary": 36721,
+          "Larceny": 117594,
+          "Motor": 12902
         },
         "Violent": {
           "All": 24052,
-          "Assault": 3997,
+          "Assault": 17676,
           "Murder": 311,
           "Rape": 2068,
-          "Robbery": 1480
+          "Robbery": 3997
         }
       }
     }
@@ -90657,32 +90657,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 4896146,
       "Rates": {
         "Property": {
-          "All": 369.1,
-          "Burglary": 3293.3,
-          "Larceny": 705.7,
-          "Motor": 2322.7
+          "All": 3293.3,
+          "Burglary": 705.7,
+          "Larceny": 2322.7,
+          "Motor": 264.9
         },
         "Violent": {
           "All": 504.5,
-          "Assault": 80.3,
+          "Assault": 369.1,
           "Murder": 8.1,
           "Rape": 46.9,
-          "Robbery": 34.9
+          "Robbery": 80.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 18073,
-          "Burglary": 161245,
-          "Larceny": 34551,
-          "Motor": 113724
+          "All": 161245,
+          "Burglary": 34551,
+          "Larceny": 113724,
+          "Motor": 12970
         },
         "Violent": {
           "All": 24700,
-          "Assault": 3931,
+          "Assault": 18073,
           "Murder": 399,
           "Rape": 2297,
-          "Robbery": 1707
+          "Robbery": 3931
         }
       }
     }
@@ -92803,32 +92803,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 844877,
       "Rates": {
         "Property": {
-          "All": 236.2,
-          "Burglary": 1914.7,
-          "Larceny": 399.1,
-          "Motor": 1404.6
+          "All": 1914.7,
+          "Burglary": 399.1,
+          "Larceny": 1404.6,
+          "Motor": 111.0
         },
         "Violent": {
           "All": 316.5,
-          "Assault": 18.8,
+          "Assault": 236.2,
           "Murder": 2.4,
           "Rape": 59.1,
-          "Robbery": 41.3
+          "Robbery": 18.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 1996,
-          "Burglary": 16177,
-          "Larceny": 3372,
-          "Motor": 11867
+          "All": 16177,
+          "Burglary": 3372,
+          "Larceny": 11867,
+          "Motor": 938
         },
         "Violent": {
           "All": 2674,
-          "Assault": 159,
+          "Assault": 1996,
           "Murder": 20,
           "Rape": 499,
-          "Robbery": 349
+          "Robbery": 159
         }
       }
     }
@@ -92840,32 +92840,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 853175,
       "Rates": {
         "Property": {
-          "All": 245.7,
-          "Burglary": 1863.9,
-          "Larceny": 330.3,
-          "Motor": 1415.5
+          "All": 1863.9,
+          "Burglary": 330.3,
+          "Larceny": 1415.5,
+          "Motor": 118.0
         },
         "Violent": {
           "All": 326.5,
-          "Assault": 23.4,
+          "Assault": 245.7,
           "Murder": 2.3,
           "Rape": 55.1,
-          "Robbery": 48.4
+          "Robbery": 23.4
         }
       },
       "Totals": {
         "Property": {
-          "All": 2096,
-          "Burglary": 15902,
-          "Larceny": 2818,
-          "Motor": 12077
+          "All": 15902,
+          "Burglary": 2818,
+          "Larceny": 12077,
+          "Motor": 1007
         },
         "Violent": {
           "All": 2786,
-          "Assault": 200,
+          "Assault": 2096,
           "Murder": 20,
           "Rape": 470,
-          "Robbery": 413
+          "Robbery": 200
         }
       }
     }
@@ -92877,32 +92877,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 858469,
       "Rates": {
         "Property": {
-          "All": 296.6,
-          "Burglary": 1943.0,
-          "Larceny": 344.8,
-          "Motor": 1459.8
+          "All": 1943.0,
+          "Burglary": 344.8,
+          "Larceny": 1459.8,
+          "Motor": 138.4
         },
         "Violent": {
           "All": 383.1,
-          "Assault": 25.2,
+          "Assault": 296.6,
           "Murder": 3.7,
           "Rape": 57.7,
-          "Robbery": 51.4
+          "Robbery": 25.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 2546,
-          "Burglary": 16680,
-          "Larceny": 2960,
-          "Motor": 12532
+          "All": 16680,
+          "Burglary": 2960,
+          "Larceny": 12532,
+          "Motor": 1188
         },
         "Violent": {
           "All": 3289,
-          "Assault": 216,
+          "Assault": 2546,
           "Murder": 32,
           "Rape": 495,
-          "Robbery": 441
+          "Robbery": 216
         }
       }
     }
@@ -95023,32 +95023,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6495978,
       "Rates": {
         "Property": {
-          "All": 436.9,
-          "Burglary": 3180.9,
-          "Larceny": 785.1,
-          "Motor": 2213.7
+          "All": 3180.9,
+          "Burglary": 785.1,
+          "Larceny": 2213.7,
+          "Motor": 182.1
         },
         "Violent": {
           "All": 590.6,
-          "Assault": 112.5,
+          "Assault": 436.9,
           "Murder": 5.0,
           "Rape": 36.2,
-          "Robbery": 25.3
+          "Robbery": 112.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 28378,
-          "Burglary": 206629,
-          "Larceny": 50999,
-          "Motor": 143802
+          "All": 206629,
+          "Burglary": 50999,
+          "Larceny": 143802,
+          "Motor": 11828
         },
         "Violent": {
           "All": 38364,
-          "Assault": 7307,
+          "Assault": 28378,
           "Murder": 328,
           "Rape": 2351,
-          "Robbery": 1642
+          "Robbery": 7307
         }
       }
     }
@@ -95060,32 +95060,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6549352,
       "Rates": {
         "Property": {
-          "All": 453.2,
-          "Burglary": 3060.6,
-          "Larceny": 712.2,
-          "Motor": 2156.0
+          "All": 3060.6,
+          "Burglary": 712.2,
+          "Larceny": 2156.0,
+          "Motor": 192.4
         },
         "Violent": {
           "All": 608.4,
-          "Assault": 110.9,
+          "Assault": 453.2,
           "Murder": 5.7,
           "Rape": 38.6,
-          "Robbery": 28.4
+          "Robbery": 110.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 29681,
-          "Burglary": 200447,
-          "Larceny": 46642,
-          "Motor": 141206
+          "All": 200447,
+          "Burglary": 46642,
+          "Larceny": 141206,
+          "Motor": 12599
         },
         "Violent": {
           "All": 39848,
-          "Assault": 7265,
+          "Assault": 29681,
           "Murder": 371,
           "Rape": 2531,
-          "Robbery": 1861
+          "Robbery": 7265
         }
       }
     }
@@ -95097,32 +95097,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6600299,
       "Rates": {
         "Property": {
-          "All": 452.2,
-          "Burglary": 2936.2,
-          "Larceny": 655.2,
-          "Motor": 2086.0
+          "All": 2936.2,
+          "Burglary": 655.2,
+          "Larceny": 2086.0,
+          "Motor": 195.0
         },
         "Violent": {
           "All": 612.1,
-          "Assault": 113.2,
+          "Assault": 452.2,
           "Murder": 6.2,
           "Rape": 40.5,
-          "Robbery": 29.8
+          "Robbery": 113.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 29844,
-          "Burglary": 193796,
-          "Larceny": 43247,
-          "Motor": 137679
+          "All": 193796,
+          "Burglary": 43247,
+          "Larceny": 137679,
+          "Motor": 12870
         },
         "Violent": {
           "All": 40400,
-          "Assault": 7474,
+          "Assault": 29844,
           "Murder": 406,
           "Rape": 2676,
-          "Robbery": 1966
+          "Robbery": 7474
         }
       }
     }
@@ -97243,32 +97243,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 26448193,
       "Rates": {
         "Property": {
-          "All": 246.9,
-          "Burglary": 3258.2,
-          "Larceny": 721.8,
-          "Motor": 2287.8
+          "All": 3258.2,
+          "Burglary": 721.8,
+          "Larceny": 2287.8,
+          "Motor": 248.6
         },
         "Violent": {
           "All": 408.3,
-          "Assault": 120.2,
+          "Assault": 246.9,
           "Murder": 4.3,
           "Rape": 36.9,
-          "Robbery": 28.4
+          "Robbery": 120.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 65292,
-          "Burglary": 861734,
-          "Larceny": 190898,
-          "Motor": 605091
+          "All": 861734,
+          "Burglary": 190898,
+          "Larceny": 605091,
+          "Motor": 65745
         },
         "Violent": {
           "All": 107998,
-          "Assault": 31801,
+          "Assault": 65292,
           "Murder": 1139,
           "Rape": 9766,
-          "Robbery": 7504
+          "Robbery": 31801
         }
       }
     }
@@ -97280,32 +97280,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 26956958,
       "Rates": {
         "Property": {
-          "All": 243.6,
-          "Burglary": 3019.4,
-          "Larceny": 627.8,
-          "Motor": 2137.3
+          "All": 3019.4,
+          "Burglary": 627.8,
+          "Larceny": 2137.3,
+          "Motor": 254.3
         },
         "Violent": {
           "All": 405.9,
-          "Assault": 115.7,
+          "Assault": 243.6,
           "Murder": 4.4,
           "Rape": 42.3,
-          "Robbery": 30.6
+          "Robbery": 115.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 65656,
-          "Burglary": 813934,
-          "Larceny": 169234,
-          "Motor": 576154
+          "All": 813934,
+          "Burglary": 169234,
+          "Larceny": 576154,
+          "Motor": 68546
         },
         "Violent": {
           "All": 109414,
-          "Assault": 31181,
+          "Assault": 65656,
           "Murder": 1184,
           "Rape": 11393,
-          "Robbery": 8236
+          "Robbery": 31181
         }
       }
     }
@@ -97317,32 +97317,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 27469114,
       "Rates": {
         "Property": {
-          "All": 246.6,
-          "Burglary": 2831.3,
-          "Larceny": 557.2,
-          "Motor": 2028.5
+          "All": 2831.3,
+          "Burglary": 557.2,
+          "Larceny": 2028.5,
+          "Motor": 245.7
         },
         "Violent": {
           "All": 412.2,
-          "Assault": 116.3,
+          "Assault": 246.6,
           "Murder": 4.8,
           "Rape": 44.6,
-          "Robbery": 32.5
+          "Robbery": 116.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 67727,
-          "Burglary": 777739,
-          "Larceny": 153054,
-          "Motor": 557200
+          "All": 777739,
+          "Burglary": 153054,
+          "Larceny": 557200,
+          "Motor": 67485
         },
         "Violent": {
           "All": 113227,
-          "Assault": 31934,
+          "Assault": 67727,
           "Murder": 1316,
           "Rape": 12250,
-          "Robbery": 8925
+          "Robbery": 31934
         }
       }
     }
@@ -99463,32 +99463,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 316128839,
       "Rates": {
         "Property": {
-          "All": 229.1,
-          "Burglary": 2730.7,
-          "Larceny": 610.0,
-          "Motor": 1899.4
+          "All": 2730.7,
+          "Burglary": 610.0,
+          "Larceny": 1899.4,
+          "Motor": 221.3
         },
         "Violent": {
           "All": 377.1,
-          "Assault": 109.1,
+          "Assault": 229.1,
           "Murder": 4.5,
           "Rape": 34.4,
-          "Robbery": 25.2
+          "Robbery": 109.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 724149,
-          "Burglary": 8632512,
-          "Larceny": 1928465,
-          "Motor": 6004453
+          "All": 8632512,
+          "Burglary": 1928465,
+          "Larceny": 6004453,
+          "Motor": 699594
         },
         "Violent": {
           "All": 1191988,
-          "Assault": 345031,
+          "Assault": 724149,
           "Murder": 14196,
           "Rape": 108612,
-          "Robbery": 79770
+          "Robbery": 345031
         }
       }
     }
@@ -99500,32 +99500,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 318857056,
       "Rates": {
         "Property": {
-          "All": 232.5,
-          "Burglary": 2596.1,
-          "Larceny": 542.5,
-          "Motor": 1837.3
+          "All": 2596.1,
+          "Burglary": 542.5,
+          "Larceny": 1837.3,
+          "Motor": 216.2
         },
         "Violent": {
           "All": 375.7,
-          "Assault": 102.2,
+          "Assault": 232.5,
           "Murder": 4.5,
           "Rape": 36.6,
-          "Robbery": 26.4
+          "Robbery": 102.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 741291,
-          "Burglary": 8277829,
-          "Larceny": 1729806,
-          "Motor": 5858496
+          "All": 8277829,
+          "Burglary": 1729806,
+          "Larceny": 5858496,
+          "Motor": 689527
         },
         "Violent": {
           "All": 1197987,
-          "Assault": 325802,
+          "Assault": 741291,
           "Murder": 14249,
           "Rape": 116645,
-          "Robbery": 84041
+          "Robbery": 325802
         }
       }
     }
@@ -99537,32 +99537,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 321418820,
       "Rates": {
         "Property": {
-          "All": 237.8,
-          "Burglary": 2487.0,
-          "Larceny": 491.4,
-          "Motor": 1775.4
+          "All": 2487.0,
+          "Burglary": 491.4,
+          "Larceny": 1775.4,
+          "Motor": 220.2
         },
         "Violent": {
           "All": 383.2,
-          "Assault": 101.9,
+          "Assault": 237.8,
           "Murder": 4.9,
           "Rape": 38.6,
-          "Robbery": 28.1
+          "Robbery": 101.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 764449,
-          "Burglary": 7993631,
-          "Larceny": 1579527,
-          "Motor": 5706346
+          "All": 7993631,
+          "Burglary": 1579527,
+          "Larceny": 5706346,
+          "Motor": 707758
         },
         "Violent": {
           "All": 1231566,
-          "Assault": 327374,
+          "Assault": 764449,
           "Murder": 15696,
           "Rape": 124047,
-          "Robbery": 90185
+          "Robbery": 327374
         }
       }
     }
@@ -101683,32 +101683,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2900872,
       "Rates": {
         "Property": {
-          "All": 130.4,
-          "Burglary": 2950.4,
-          "Larceny": 459.6,
-          "Motor": 2233.4
+          "All": 2950.4,
+          "Burglary": 459.6,
+          "Larceny": 2233.4,
+          "Motor": 257.3
         },
         "Violent": {
           "All": 224.0,
-          "Assault": 42.8,
+          "Assault": 130.4,
           "Murder": 1.7,
           "Rape": 49.0,
-          "Robbery": 34.3
+          "Robbery": 42.8
         }
       },
       "Totals": {
         "Property": {
-          "All": 3784,
-          "Burglary": 85586,
-          "Larceny": 13333,
-          "Motor": 64788
+          "All": 85586,
+          "Burglary": 13333,
+          "Larceny": 64788,
+          "Motor": 7465
         },
         "Violent": {
           "All": 6498,
-          "Assault": 1243,
+          "Assault": 3784,
           "Murder": 49,
           "Rape": 1422,
-          "Robbery": 994
+          "Robbery": 1243
         }
       }
     }
@@ -101720,32 +101720,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2942902,
       "Rates": {
         "Property": {
-          "All": 119.4,
-          "Burglary": 2878.5,
-          "Larceny": 391.4,
-          "Motor": 2239.1
+          "All": 2878.5,
+          "Burglary": 391.4,
+          "Larceny": 2239.1,
+          "Motor": 248.0
         },
         "Violent": {
           "All": 215.6,
-          "Assault": 44.6,
+          "Assault": 119.4,
           "Murder": 2.3,
           "Rape": 49.4,
-          "Robbery": 32.1
+          "Robbery": 44.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 3513,
-          "Burglary": 84711,
-          "Larceny": 11518,
-          "Motor": 65895
+          "All": 84711,
+          "Burglary": 11518,
+          "Larceny": 65895,
+          "Motor": 7298
         },
         "Violent": {
           "All": 6346,
-          "Assault": 1312,
+          "Assault": 3513,
           "Murder": 67,
           "Rape": 1454,
-          "Robbery": 945
+          "Robbery": 1312
         }
       }
     }
@@ -101757,32 +101757,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 2995919,
       "Rates": {
         "Property": {
-          "All": 135.1,
-          "Burglary": 2980.0,
-          "Larceny": 416.2,
-          "Motor": 2273.2
+          "All": 2980.0,
+          "Burglary": 416.2,
+          "Larceny": 2273.2,
+          "Motor": 290.6
         },
         "Violent": {
           "All": 236.0,
-          "Assault": 44.3,
+          "Assault": 135.1,
           "Murder": 1.8,
           "Rape": 54.9,
-          "Robbery": 36.6
+          "Robbery": 44.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 4046,
-          "Burglary": 89278,
-          "Larceny": 12468,
-          "Motor": 68103
+          "All": 89278,
+          "Burglary": 12468,
+          "Larceny": 68103,
+          "Motor": 8707
         },
         "Violent": {
           "All": 7071,
-          "Assault": 1326,
+          "Assault": 4046,
           "Murder": 54,
           "Rape": 1645,
-          "Robbery": 1098
+          "Robbery": 1326
         }
       }
     }
@@ -103903,32 +103903,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 626630,
       "Rates": {
         "Property": {
-          "All": 87.1,
-          "Burglary": 2214.2,
-          "Larceny": 528.7,
-          "Motor": 1632.2
+          "All": 2214.2,
+          "Burglary": 528.7,
+          "Larceny": 1632.2,
+          "Motor": 53.3
         },
         "Violent": {
           "All": 121.1,
-          "Assault": 11.6,
+          "Assault": 87.1,
           "Murder": 1.6,
           "Rape": 20.7,
-          "Robbery": 14.5
+          "Robbery": 11.6
         }
       },
       "Totals": {
         "Property": {
-          "All": 546,
-          "Burglary": 13875,
-          "Larceny": 3313,
-          "Motor": 10228
+          "All": 13875,
+          "Burglary": 3313,
+          "Larceny": 10228,
+          "Motor": 334
         },
         "Violent": {
           "All": 759,
-          "Assault": 73,
+          "Assault": 546,
           "Murder": 10,
           "Rape": 130,
-          "Robbery": 91
+          "Robbery": 73
         }
       }
     }
@@ -103940,32 +103940,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 626562,
       "Rates": {
         "Property": {
-          "All": 68.9,
-          "Burglary": 1524.4,
-          "Larceny": 324.6,
-          "Motor": 1160.8
+          "All": 1524.4,
+          "Burglary": 324.6,
+          "Larceny": 1160.8,
+          "Motor": 38.9
         },
         "Violent": {
           "All": 99.3,
-          "Assault": 11.2,
+          "Assault": 68.9,
           "Murder": 1.6,
           "Rape": 17.6,
-          "Robbery": 15.8
+          "Robbery": 11.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 432,
-          "Burglary": 9551,
-          "Larceny": 2034,
-          "Motor": 7273
+          "All": 9551,
+          "Burglary": 2034,
+          "Larceny": 7273,
+          "Motor": 244
         },
         "Violent": {
           "All": 622,
-          "Assault": 70,
+          "Assault": 432,
           "Murder": 10,
           "Rape": 110,
-          "Robbery": 99
+          "Robbery": 70
         }
       }
     }
@@ -103977,32 +103977,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 626042,
       "Rates": {
         "Property": {
-          "All": 78.6,
-          "Burglary": 1406.6,
-          "Larceny": 314.4,
-          "Motor": 1063.8
+          "All": 1406.6,
+          "Burglary": 314.4,
+          "Larceny": 1063.8,
+          "Motor": 28.4
         },
         "Violent": {
           "All": 118.0,
-          "Assault": 16.1,
+          "Assault": 78.6,
           "Murder": 1.6,
           "Rape": 21.7,
-          "Robbery": 19.3
+          "Robbery": 16.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 492,
-          "Burglary": 8806,
-          "Larceny": 1968,
-          "Motor": 6660
+          "All": 8806,
+          "Burglary": 1968,
+          "Larceny": 6660,
+          "Motor": 178
         },
         "Violent": {
           "All": 739,
-          "Assault": 101,
+          "Assault": 492,
           "Murder": 10,
           "Rape": 136,
-          "Robbery": 121
+          "Robbery": 101
         }
       }
     }
@@ -106123,32 +106123,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8260405,
       "Rates": {
         "Property": {
-          "All": 109.7,
-          "Burglary": 2065.9,
-          "Larceny": 322.5,
-          "Motor": 1640.1
+          "All": 2065.9,
+          "Burglary": 322.5,
+          "Larceny": 1640.1,
+          "Motor": 103.3
         },
         "Violent": {
           "All": 196.2,
-          "Assault": 55.3,
+          "Assault": 109.7,
           "Murder": 3.8,
           "Rape": 27.4,
-          "Robbery": 19.1
+          "Robbery": 55.3
         }
       },
       "Totals": {
         "Property": {
-          "All": 9062,
-          "Burglary": 170654,
-          "Larceny": 26640,
-          "Motor": 135478
+          "All": 170654,
+          "Burglary": 26640,
+          "Larceny": 135478,
+          "Motor": 8536
         },
         "Violent": {
           "All": 16205,
-          "Assault": 4565,
+          "Assault": 9062,
           "Murder": 316,
           "Rape": 2262,
-          "Robbery": 1581
+          "Robbery": 4565
         }
       }
     }
@@ -106160,32 +106160,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8326289,
       "Rates": {
         "Property": {
-          "All": 112.9,
-          "Burglary": 1930.3,
-          "Larceny": 277.7,
-          "Motor": 1560.5
+          "All": 1930.3,
+          "Burglary": 277.7,
+          "Larceny": 1560.5,
+          "Motor": 92.1
         },
         "Violent": {
           "All": 196.2,
-          "Assault": 51.5,
+          "Assault": 112.9,
           "Murder": 4.1,
           "Rape": 27.7,
-          "Robbery": 17.2
+          "Robbery": 51.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 9400,
-          "Burglary": 160720,
-          "Larceny": 23122,
-          "Motor": 129933
+          "All": 160720,
+          "Burglary": 23122,
+          "Larceny": 129933,
+          "Motor": 7665
         },
         "Violent": {
           "All": 16340,
-          "Assault": 4292,
+          "Assault": 9400,
           "Murder": 338,
           "Rape": 2310,
-          "Robbery": 1432
+          "Robbery": 4292
         }
       }
     }
@@ -106197,32 +106197,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 8382993,
       "Rates": {
         "Property": {
-          "All": 110.2,
-          "Burglary": 1866.5,
-          "Larceny": 254.6,
-          "Motor": 1515.2
+          "All": 1866.5,
+          "Burglary": 254.6,
+          "Larceny": 1515.2,
+          "Motor": 96.8
         },
         "Violent": {
           "All": 195.6,
-          "Assault": 53.0,
+          "Assault": 110.2,
           "Murder": 4.6,
           "Rape": 27.9,
-          "Robbery": 17.8
+          "Robbery": 53.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 9235,
-          "Burglary": 156470,
-          "Larceny": 21340,
-          "Motor": 127019
+          "All": 156470,
+          "Burglary": 21340,
+          "Larceny": 127019,
+          "Motor": 8111
         },
         "Violent": {
           "All": 16399,
-          "Assault": 4441,
+          "Assault": 9235,
           "Murder": 383,
           "Rape": 2340,
-          "Robbery": 1493
+          "Robbery": 4441
         }
       }
     }
@@ -108343,32 +108343,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 6971406,
       "Rates": {
         "Property": {
-          "All": 166.4,
-          "Burglary": 3710.3,
-          "Larceny": 837.0,
-          "Motor": 2465.9
+          "All": 3710.3,
+          "Burglary": 837.0,
+          "Larceny": 2465.9,
+          "Motor": 407.4
         },
         "Violent": {
           "All": 289.1,
-          "Assault": 83.5,
+          "Assault": 166.4,
           "Murder": 2.3,
           "Rape": 36.9,
-          "Robbery": 25.8
+          "Robbery": 83.5
         }
       },
       "Totals": {
         "Property": {
-          "All": 11601,
-          "Burglary": 258662,
-          "Larceny": 58353,
-          "Motor": 171910
+          "All": 258662,
+          "Burglary": 58353,
+          "Larceny": 171910,
+          "Motor": 28399
         },
         "Violent": {
           "All": 20153,
-          "Assault": 5819,
+          "Assault": 11601,
           "Murder": 160,
           "Rape": 2573,
-          "Robbery": 1797
+          "Robbery": 5819
         }
       }
     }
@@ -108380,32 +108380,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 7061530,
       "Rates": {
         "Property": {
-          "All": 164.7,
-          "Burglary": 3706.1,
-          "Larceny": 783.0,
-          "Motor": 2489.1
+          "All": 3706.1,
+          "Burglary": 783.0,
+          "Larceny": 2489.1,
+          "Motor": 434.0
         },
         "Violent": {
           "All": 285.2,
-          "Assault": 79.9,
+          "Assault": 164.7,
           "Murder": 2.5,
           "Rape": 38.2,
-          "Robbery": 30.7
+          "Robbery": 79.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 11627,
-          "Burglary": 261706,
-          "Larceny": 55290,
-          "Motor": 175769
+          "All": 261706,
+          "Burglary": 55290,
+          "Larceny": 175769,
+          "Motor": 30647
         },
         "Violent": {
           "All": 20136,
-          "Assault": 5640,
+          "Assault": 11627,
           "Murder": 174,
           "Rape": 2695,
-          "Robbery": 2171
+          "Robbery": 5640
         }
       }
     }
@@ -108417,32 +108417,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 7170351,
       "Rates": {
         "Property": {
-          "All": 167.8,
-          "Burglary": 3463.8,
-          "Larceny": 711.2,
-          "Motor": 2378.0
+          "All": 3463.8,
+          "Burglary": 711.2,
+          "Larceny": 2378.0,
+          "Motor": 374.7
         },
         "Violent": {
           "All": 284.4,
-          "Assault": 76.0,
+          "Assault": 167.8,
           "Murder": 2.9,
           "Rape": 37.7,
-          "Robbery": 30.6
+          "Robbery": 76.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 12029,
-          "Burglary": 248369,
-          "Larceny": 50993,
-          "Motor": 170509
+          "All": 248369,
+          "Burglary": 50993,
+          "Larceny": 170509,
+          "Motor": 26867
         },
         "Violent": {
           "All": 20394,
-          "Assault": 5449,
+          "Assault": 12029,
           "Murder": 211,
           "Rape": 2705,
-          "Robbery": 2193
+          "Robbery": 5449
         }
       }
     }
@@ -110563,32 +110563,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1854304,
       "Rates": {
         "Property": {
-          "All": 226.7,
-          "Burglary": 2103.9,
-          "Larceny": 521.7,
-          "Motor": 1478.9
+          "All": 2103.9,
+          "Burglary": 521.7,
+          "Larceny": 1478.9,
+          "Motor": 103.3
         },
         "Violent": {
           "All": 300.3,
-          "Assault": 35.1,
+          "Assault": 226.7,
           "Murder": 3.3,
           "Rape": 35.2,
-          "Robbery": 24.6
+          "Robbery": 35.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 4203,
-          "Burglary": 39013,
-          "Larceny": 9674,
-          "Motor": 27423
+          "All": 39013,
+          "Burglary": 9674,
+          "Larceny": 27423,
+          "Motor": 1916
         },
         "Violent": {
           "All": 5568,
-          "Assault": 651,
+          "Assault": 4203,
           "Murder": 61,
           "Rape": 653,
-          "Robbery": 456
+          "Robbery": 651
         }
       }
     }
@@ -110600,32 +110600,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1850326,
       "Rates": {
         "Property": {
-          "All": 235.5,
-          "Burglary": 2034.7,
-          "Larceny": 484.9,
-          "Motor": 1447.3
+          "All": 2034.7,
+          "Burglary": 484.9,
+          "Larceny": 1447.3,
+          "Motor": 102.5
         },
         "Violent": {
           "All": 302.0,
-          "Assault": 35.2,
+          "Assault": 235.5,
           "Murder": 4.0,
           "Rape": 27.3,
-          "Robbery": 15.4
+          "Robbery": 35.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 4358,
-          "Burglary": 37648,
-          "Larceny": 8973,
-          "Motor": 26779
+          "All": 37648,
+          "Burglary": 8973,
+          "Larceny": 26779,
+          "Motor": 1896
         },
         "Violent": {
           "All": 5588,
-          "Assault": 651,
+          "Assault": 4358,
           "Murder": 74,
           "Rape": 505,
-          "Robbery": 285
+          "Robbery": 651
         }
       }
     }
@@ -110637,32 +110637,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 1844128,
       "Rates": {
         "Property": {
-          "All": 256.4,
-          "Burglary": 2020.0,
-          "Larceny": 497.3,
-          "Motor": 1401.3
+          "All": 2020.0,
+          "Burglary": 497.3,
+          "Larceny": 1401.3,
+          "Motor": 121.4
         },
         "Violent": {
           "All": 337.9,
-          "Assault": 41.2,
+          "Assault": 256.4,
           "Murder": 3.8,
           "Rape": 36.4,
-          "Robbery": 22.8
+          "Robbery": 41.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 4729,
-          "Burglary": 37251,
-          "Larceny": 9170,
-          "Motor": 25842
+          "All": 37251,
+          "Burglary": 9170,
+          "Larceny": 25842,
+          "Motor": 2239
         },
         "Violent": {
           "All": 6231,
-          "Assault": 760,
+          "Assault": 4729,
           "Murder": 70,
           "Rape": 672,
-          "Robbery": 420
+          "Robbery": 760
         }
       }
     }
@@ -112783,32 +112783,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5742713,
       "Rates": {
         "Property": {
-          "All": 161.6,
-          "Burglary": 2188.7,
-          "Larceny": 424.0,
-          "Motor": 1636.0
+          "All": 2188.7,
+          "Burglary": 424.0,
+          "Larceny": 1636.0,
+          "Motor": 128.6
         },
         "Violent": {
           "All": 277.9,
-          "Assault": 84.2,
+          "Assault": 161.6,
           "Murder": 2.8,
           "Rape": 29.4,
-          "Robbery": 22.6
+          "Robbery": 84.2
         }
       },
       "Totals": {
         "Property": {
-          "All": 9278,
-          "Burglary": 125688,
-          "Larceny": 24347,
-          "Motor": 93953
+          "All": 125688,
+          "Burglary": 24347,
+          "Larceny": 93953,
+          "Motor": 7388
         },
         "Violent": {
           "All": 15961,
-          "Assault": 4834,
+          "Assault": 9278,
           "Murder": 162,
           "Rape": 1687,
-          "Robbery": 1296
+          "Robbery": 4834
         }
       }
     }
@@ -112820,32 +112820,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5757564,
       "Rates": {
         "Property": {
-          "All": 170.4,
-          "Burglary": 2088.3,
-          "Larceny": 368.5,
-          "Motor": 1547.6
+          "All": 2088.3,
+          "Burglary": 368.5,
+          "Larceny": 1547.6,
+          "Motor": 172.3
         },
         "Violent": {
           "All": 290.3,
-          "Assault": 88.0,
+          "Assault": 170.4,
           "Murder": 2.9,
           "Rape": 29.1,
-          "Robbery": 20.3
+          "Robbery": 88.0
         }
       },
       "Totals": {
         "Property": {
-          "All": 9809,
-          "Burglary": 120238,
-          "Larceny": 21216,
-          "Motor": 89103
+          "All": 120238,
+          "Burglary": 21216,
+          "Larceny": 89103,
+          "Motor": 9919
         },
         "Violent": {
           "All": 16714,
-          "Assault": 5066,
+          "Assault": 9809,
           "Murder": 165,
           "Rape": 1674,
-          "Robbery": 1168
+          "Robbery": 5066
         }
       }
     }
@@ -112857,32 +112857,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 5771337,
       "Rates": {
         "Property": {
-          "All": 180.1,
-          "Burglary": 1974.0,
-          "Larceny": 338.8,
-          "Motor": 1444.8
+          "All": 1974.0,
+          "Burglary": 338.8,
+          "Larceny": 1444.8,
+          "Motor": 190.3
         },
         "Violent": {
           "All": 305.8,
-          "Assault": 90.7,
+          "Assault": 180.1,
           "Murder": 4.2,
           "Rape": 30.8,
-          "Robbery": 21.2
+          "Robbery": 90.7
         }
       },
       "Totals": {
         "Property": {
-          "All": 10395,
-          "Burglary": 113924,
-          "Larceny": 19554,
-          "Motor": 83385
+          "All": 113924,
+          "Burglary": 19554,
+          "Larceny": 83385,
+          "Motor": 10985
         },
         "Violent": {
           "All": 17647,
-          "Assault": 5232,
+          "Assault": 10395,
           "Murder": 240,
           "Rape": 1780,
-          "Robbery": 1224
+          "Robbery": 5232
         }
       }
     }
@@ -115003,32 +115003,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 582658,
       "Rates": {
         "Property": {
-          "All": 157.2,
-          "Burglary": 2198.4,
-          "Larceny": 335.5,
-          "Motor": 1763.6
+          "All": 2198.4,
+          "Burglary": 335.5,
+          "Larceny": 1763.6,
+          "Motor": 99.2
         },
         "Violent": {
           "All": 205.1,
-          "Assault": 12.9,
+          "Assault": 157.2,
           "Murder": 2.9,
           "Rape": 32.1,
-          "Robbery": 24.7
+          "Robbery": 12.9
         }
       },
       "Totals": {
         "Property": {
-          "All": 916,
-          "Burglary": 12809,
-          "Larceny": 1955,
-          "Motor": 10276
+          "All": 12809,
+          "Burglary": 1955,
+          "Larceny": 10276,
+          "Motor": 578
         },
         "Violent": {
           "All": 1195,
-          "Assault": 75,
+          "Assault": 916,
           "Murder": 17,
           "Rape": 187,
-          "Robbery": 144
+          "Robbery": 75
         }
       }
     }
@@ -115040,32 +115040,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 584153,
       "Rates": {
         "Property": {
-          "All": 153.9,
-          "Burglary": 1964.7,
-          "Larceny": 289.1,
-          "Motor": 1572.4
+          "All": 1964.7,
+          "Burglary": 289.1,
+          "Larceny": 1572.4,
+          "Motor": 103.2
         },
         "Violent": {
           "All": 195.5,
-          "Assault": 9.1,
+          "Assault": 153.9,
           "Murder": 2.7,
           "Rape": 29.8,
-          "Robbery": 21.6
+          "Robbery": 9.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 899,
-          "Burglary": 11477,
-          "Larceny": 1689,
-          "Motor": 9185
+          "All": 11477,
+          "Burglary": 1689,
+          "Larceny": 9185,
+          "Motor": 603
         },
         "Violent": {
           "All": 1142,
-          "Assault": 53,
+          "Assault": 899,
           "Murder": 16,
           "Rape": 174,
-          "Robbery": 126
+          "Robbery": 53
         }
       }
     }
@@ -115077,32 +115077,32 @@ blockpy._IMPORTED_COMPLETE_DATASETS["state_crime"] = Sk.ffi.remapToPy([
       "Population": 586107,
       "Rates": {
         "Property": {
-          "All": 179.8,
-          "Burglary": 1902.6,
-          "Larceny": 300.6,
-          "Motor": 1500.9
+          "All": 1902.6,
+          "Burglary": 300.6,
+          "Larceny": 1500.9,
+          "Motor": 101.0
         },
         "Violent": {
           "All": 222.1,
-          "Assault": 10.1,
+          "Assault": 179.8,
           "Murder": 2.7,
           "Rape": 29.5,
-          "Robbery": 21.3
+          "Robbery": 10.1
         }
       },
       "Totals": {
         "Property": {
-          "All": 1054,
-          "Burglary": 11151,
-          "Larceny": 1762,
-          "Motor": 8797
+          "All": 11151,
+          "Burglary": 1762,
+          "Larceny": 8797,
+          "Motor": 592
         },
         "Violent": {
           "All": 1302,
-          "Assault": 59,
+          "Assault": 1054,
           "Murder": 16,
           "Rape": 173,
-          "Robbery": 125
+          "Robbery": 59
         }
       }
     }
