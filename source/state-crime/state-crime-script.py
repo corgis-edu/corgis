@@ -134,8 +134,9 @@ n = len(state_list)
 for i in range(len(years)):
     data = df_list2[i]
     year = years[i]
-    
-    if year == '2016':
+
+    # Fixing offset for new data
+    if year in ["2012", "2013", "2014", "2015", "2016"]:
         k = 1
     else:
         k = 0
