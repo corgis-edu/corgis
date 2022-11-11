@@ -1,0 +1,1272 @@
+1,1,"Gagarin, Yuri",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,1,pilot,1961,Vostok 1,Vostok 1,Vostok 2,Vostok 3,1.77,1.77,0.0,0.0
+2,2,"Titov, Gherman",male,1935,U.S.S.R/Russia,True,TsPK-1,1960,1,pilot,1961,Vostok 2,Vostok 2,Vostok 2,Vostok 2,25.0,25.3,0.0,0.0
+3,1,"Glenn, John H., Jr.",male,1921,U.S.,True,NASA Astronaut Group 1,1959,2,pilot,1962,MA-6,MA-6,MA-6,MA-6,5.0,218.0,0.0,0.0
+3,1,"Glenn, John H., Jr.",male,1921,U.S.,True,NASA Astronaut Group 2,1959,2,PSP,1998,STS-95,STS-95,STS-95,STS-95,213.0,218.0,0.0,0.0
+4,2,"Carpenter, M. Scott",male,1925,U.S.,True,NASA- 1,1959,1,Pilot,1962,Mercury-Atlas 7,Mercury-Atlas 7,Mercury-Atlas 7,Mercury-Atlas 7,5.0,5.0,0.0,0.0
+5,2,"Nikolayev, Andriyan",male,1929,U.S.S.R/Russia,True,TsPK-1,1960,2,pilot,1962,Vostok 3,Vostok 3,Vostok 3,Vostok 3,94.0,519.33,0.0,0.0
+5,2,"Nikolayev, Andriyan",male,1929,U.S.S.R/Russia,True,TsPK-2,1960,2,pilot,1970,Soyuz 9,Soyuz 9,Soyuz 9,Soyuz 9,424.0,519.33,0.0,0.0
+6,4,"Popovich, Pavel",male,1930,U.S.S.R/Russia,True,TsPK-1,1960,2,pilot,1962,Vostok 4,Vostok 4,Vostok 4,Vostok 4,70.93,448.45,0.0,0.0
+6,4,"Popovich, Pavel",male,1930,U.S.S.R/Russia,True,TsPK-2,1960,2,commander,1974,Soyuz 14,Soyuz 14,Soyuz 14,Soyuz 14,377.0,448.45,0.0,0.0
+7,3,"Schirra, Walter M., Jr.",male,1923,U.S.,True,1959 NASA group 1,1959,3,pilot,1962,Mercury-Atlas 8,Mercury-Atlas 8,Mercury-Atlas 8,Mercury-Atlas 8,9.22,295.2,0.0,0.0
+7,3,"Schirra, Walter M., Jr.",male,1923,U.S.,True,1960 NASA group 1,1959,3,commander,1965,Gemini 6A,Gemini 6A,Gemini 6A,Gemini 6A,25.87,295.2,0.0,0.0
+7,3,"Schirra, Walter M., Jr.",male,1923,U.S.,True,1961 NASA group 1,1959,3,commander,1968,Apollo 7,Apollo 7,Apollo 7,Apollo 7,260.13,295.2,0.0,0.0
+8,4,"Cooper, L. Gordon, Jr.",male,1927,U.S.,True,NASA- 1,1959,2,pilot,1963,Mercury-Atlas 9,Mercury-Atlas 9,Mercury-Atlas 9,Mercury-Atlas 9,34.32,225.0,0.0,0.0
+8,4,"Cooper, L. Gordon, Jr.",male,1927,U.S.,True,NASA- 1,1959,2,commander,1965,Gemini 5,Gemini 5,Gemini 5,Gemini 5,191.92,225.0,0.0,0.0
+9,5,"Bykovsky, Valery",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,3,pilot,1963,Vostok 5,Vostok 5,Vostok 5,Vostok 5,119.13,497.8,0.0,0.0
+9,5,"Bykovsky, Valery",male,1934,U.S.S.R/Russia,True,TsPK-2,1960,3,commander,1976,Soyuz 22,Soyuz 22,Soyuz 22,Soyuz 22,189.0,497.8,0.0,0.0
+9,5,"Bykovsky, Valery",male,1934,U.S.S.R/Russia,True,TsPK-3,1960,3,commander,1978,Soyuz 31/29,Soyuz 31,Salyut 6,Soyuz 29,188.0,497.8,0.0,0.0
+10,6,"Tereshkova, Valentina",female,1937,U.S.S.R/Russia,True,VVS Women,1962,1,pilot,1963,Vostok 6,Vostok 6,Vostok 6,Vostok 6,70.83,70.83,0.0,0.0
+11,7,"Komarov, Vladimir",male,1927,U.S.S.R/Russia,True,TsPK-1,1960,2,commander,1964,Voskhod 1,Voskhod 1,Voskhod 1,Voskhod 1,24.28,51.07,0.0,0.0
+11,7,"Komarov, Vladimir",male,1927,U.S.S.R/Russia,True,TsPK-2,1960,2,commander,1967,Soyuz 1,Soyuz 1,Soyuz 1,Soyuz 1,26.78,51.07,0.0,0.0
+12,8,"Feoktistov, Konstantin",male,1926,U.S.S.R/Russia,False,Voskhod-1 / TsKBEM-1,1964,1,MSP,1964,Voskhod 1,Voskhod 1,Voskhod 1,Voskhod 1,24.28,24.28,0.0,0.0
+13,9,"Yegorov, Boris",male,1937,U.S.S.R/Russia,False,Voskhod-1,1964,1,MSP,1964,Voskhod 1,Voskhod 1,Voskhod 1,Voskhod 1,24.28,24.28,0.0,0.0
+14,10,"Belyayev, Pavel",male,1925,U.S.S.R/Russia,True,TsPK-1,1960,1,commander,1965,Voskhod 2,Voskhod 2,Voskhod 2,Voskhod 2,26.03,26.03,0.0,0.0
+15,11,"Leonov, Aleksei",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,2,pilot,1965,Voskhod 2,Voskhod 2,Voskhod 2,Voskhod 2,26.03,168.53,0.73,0.73
+15,11,"Leonov, Aleksei",male,1934,U.S.S.R/Russia,True,TsPK-2,1960,2,commander,1975,Soyuz 19,Soyuz 19,Soyuz 19/Apollo,Soyuz 19,142.0,168.53,0.0,0.73
+16,5,"Grissom, Virgil I.",male,1926,U.S.,True,NASA Astronaut Group 2,1959,1,commander,1965,Gemini 3,Gemini 3,Gemini 3,Gemini 3,4.86,4.86,0.0,0.0
+17,6,"Young, John W.",male,1930,U.S.,True,1962 NASA group 2,1962,6,pilot,1965,Gemini 3,Gemini 3,Gemini 3,Gemini 3,4.86,835.65,0.0,20.23
+17,6,"Young, John W.",male,1930,U.S.,True,1963 NASA group 2,1962,6,pilot,1966,Gemini 10,Gemini 10,Gemini 10,Gemini 10,70.77,835.65,0.0,20.23
+17,6,"Young, John W.",male,1930,U.S.,True,1964 NASA group 2,1962,6,pilot,1969,Apollo 10,Apollo 10,Apollo 10,Apollo 10,192.05,835.65,0.0,20.23
+17,6,"Young, John W.",male,1930,U.S.,True,1965 NASA group 2,1962,6,commander,1972,Apollo 16,Apollo 16,Apollo 16,Apollo 16,265.85,835.65,20.23,20.23
+17,6,"Young, John W.",male,1930,U.S.,True,1966 NASA group 2,1962,6,commander,1981,STS-1,STS-1,STS-1,STS-1,54.5,835.65,0.0,20.23
+17,6,"Young, John W.",male,1930,U.S.,True,1967 NASA group 2,1962,6,commander,1983,STS-9,STS-9,STS-9,STS-9,240.0,835.65,0.0,20.23
+18,7,"McDivitt, James A.",male,1929,U.S.,True,NASA- 2,1962,2,commander,1965,Gemini 4,Gemini 4,Gemini 4,Gemini 4,97.0,338.0,0.0,0.0
+18,7,"McDivitt, James A.",male,1929,U.S.,True,NASA- 2,1962,2,commander,1969,Apollo 9,Apollo 9,Apollo 9,Apollo 9,241.0,338.0,0.0,0.0
+19,8,"White, Edward H., II",male,1930,U.S.,True,1962 NASA group 2,1962,1,pilot,1965,Gemini 4,Gemini 4,Gemini 4,Gemini 4,97.93,97.93,0.33,0.33
+20,9,"Conrad, Charles, Jr.",male,1930,U.S.,True,NASA- 2,1962,4,pilot,1965,Gemini 5,Gemini 5,Gemini 5,Gemini 5,191.0,1179.0,0.0,12.77
+20,9,"Conrad, Charles, Jr.",male,1930,U.S.,True,NASA- 2,1962,4,commander,1966,Gemini 11,Gemini 11,Gemini 11,Gemini 11,71.0,1179.0,0.0,12.77
+20,9,"Conrad, Charles, Jr.",male,1930,U.S.,True,NASA- 2,1962,4,commander,1969,Apollo 12,Apollo 12,Apollo 12,Apollo 12,244.0,1179.0,7.75,12.77
+20,9,"Conrad, Charles, Jr.",male,1930,U.S.,True,NASA- 2,1962,4,commander,1973,Skylab 2,Skylab 2,Skylab 2,Skylab 2,673.0,1179.0,5.02,12.77
+21,10,"Borman, Frank",male,1928,U.S.,True,NASA- 2,1962,2,commander,1965,Gemini 7,Gemini 7,Gemini 7,Gemini 7,330.58,477.0,0.0,0.0
+21,10,"Borman, Frank",male,1928,U.S.,True,NASA- 2,1962,2,commander,1968,Apollo 8,Apollo 8,Apollo 8,Apollo 8,147.0,477.0,0.0,0.0
+22,11,"Lovell, James A., Jr.",male,1928,U.S.,True,NASA- 2,1962,4,pilot,1965,Gemini 7,Gemini 7,Gemini 7,Gemini 7,330.58,715.05,0.0,0.0
+22,11,"Lovell, James A., Jr.",male,1928,U.S.,True,NASA- 2,1962,4,commander,1966,Gemini 12,Gemini 12,Gemini 12,Gemini 12,94.0,715.05,0.0,0.0
+22,11,"Lovell, James A., Jr.",male,1928,U.S.,True,NASA- 2,1962,4,pilot,1968,Apollo 8,Apollo 8,Apollo 8,Apollo 8,147.0,715.05,0.0,0.0
+22,11,"Lovell, James A., Jr.",male,1928,U.S.,True,NASA- 2,1962,4,commander,1970,Apollo 13,Apollo 13,Apollo 13,Apollo 13,142.0,715.05,0.0,0.0
+23,12,"Stafford, Thomas P.",male,1930,U.S.,True,1996 NASA group,1962,4,pilot,1965,gemini 6A,gemini 6A,gemini 6A,gemini 6A,25.86,508.0,0.0,0.0
+23,12,"Stafford, Thomas P.",male,1930,U.S.,True,1996 NASA group,1962,4,commander,1966,Gemini 9A,Gemini 9A,Gemini 9A,Gemini 9A,72.0,508.0,0.0,0.0
+23,12,"Stafford, Thomas P.",male,1930,U.S.,True,1996 NASA group,1962,4,commander,1969,Apollo 10,Apollo 10,Apollo 10,Apollo 10,192.0,508.0,0.0,0.0
+23,12,"Stafford, Thomas P.",male,1930,U.S.,True,1996 NASA group,1962,4,commander,1975,ASTP,ASTP,ASTP,ASTP,217.0,508.0,0.0,0.0
+24,13,"Armstrong, Neil A.",male,1930,U.S.,False,"1958 USAF Man in Space Soonest, 1960 USAF Dyna-Soar, NASA- 2",1962,2,commander,1966,Gemini 8,Gemini 8,Gemini 8,Gemini 8,11.0,206.0,0.0,2.51
+24,13,"Armstrong, Neil A.",male,1930,U.S.,False,"1958 USAF Man in Space Soonest, 1960 USAF Dyna-Soar, NASA- 2",1962,2,commander,1969,Apollo 11,Apollo 11,Apollo 11,Apollo 11,195.0,206.0,2.52,2.51
+25,14,"Scott, David R.",male,1932,U.S.,True,1963 NASA group 3,1963,3,pilot,1966,Gemini 8,Gemini 8,Gemini 8,Gemini 8,240.68,546.0,0.0,19.9
+25,14,"Scott, David R.",male,1932,U.S.,True,1963 NASA group 3,1963,3,pilot,1969,Apollo 9,Apollo 9,Apollo 9,Apollo 9,241.0,546.0,1.13,19.9
+25,14,"Scott, David R.",male,1932,U.S.,True,1963 NASA group 3,1963,3,commander,1971,Apollo 15,Apollo 15,Apollo 15,Apollo 15,312.0,546.0,18.77,19.9
+26,15,"Cernan, Eugene A.",male,1934,U.S.,True,NASA- 3,1963,3,pilot,1966,Gemini 9A,Gemini 9A,Gemini 9A,Gemini 9A,72.0,565.0,2.12,24.18
+26,15,"Cernan, Eugene A.",male,1934,U.S.,True,NASA- 3,1963,3,pilot,1969,Apollo 10,Apollo 10,Apollo 10,Apollo 10,192.05,565.0,0.0,24.18
+26,15,"Cernan, Eugene A.",male,1934,U.S.,True,NASA- 3,1963,3,commander,1972,Apollo 17,Apollo 17,Apollo 17,Apollo 17,302.0,565.0,22.13,24.18
+27,16,"Collins, Michael",male,1930,U.S.,False,NASA- 3,1963,2,pilot,1966,Gemini 10,Gemini 10,Gemini 10,Gemini 10,71.0,266.0,1.47,1.47
+27,16,"Collins, Michael",male,1930,U.S.,False,NASA- 3,1963,2,pilot,1969,Apollo 11,Apollo 11,Apollo 11,Apollo 11,195.0,266.0,0.0,1.47
+28,17,"Gordon, Richard F., Jr.",male,1929,U.S.,True,NASA Astronaut Group 3,1963,2,pilot,1966,Gemini 11,Gemini 11,Gemini 11,Gemini 11,71.28,315.88,0.0,2.68
+28,17,"Gordon, Richard F., Jr.",male,1929,U.S.,True,NASA Astronaut Group 4,1963,2,pilot,1969,Apollo 12,Apollo 12,Apollo 12,Apollo 12,244.6,315.88,2.68,2.68
+29,18,"Aldrin, Edwin Eugene, Jr.",male,1930,U.S.,True,NASA- 3,1963,2,pilot,1966,Gemini 12,Gemini 12,Gemini 12,Gemini 12,94.58,289.0,5.5,8.0
+29,18,"Aldrin, Edwin Eugene, Jr.",male,1930,U.S.,True,NASA- 3,1963,2,pilot,1969,Apollo 11,Apollo 11,Apollo 11,Apollo 11,195.0,289.0,2.5,8.0
+30,19,"Eisele, Donn F.",male,1930,U.S.,True,NASA- 3,1963,1,pilot,1968,Apollo 7,Apollo 7,Apollo 7,Apollo 7,260.13,260.0,0.0,0.0
+31,20,"Cunningham, Ronnie Walter",male,1932,U.S.,False,NASA- 3,1963,1,pilot,1968,Apollo 7,Apollo 7,Apollo 7,Apollo 7,260.13,260.13,0.0,0.0
+100,50,"Savinykh, Viktor",male,1940,U.S.S.R/Russia,False,NPOE-4,1978,3,flight engineer,1985,Salyut 7,Soyuz T13,Salyut 7,Soyuz T14,4035.0,6065.63,0.0,5.0
+100,50,"Savinykh, Viktor",male,1940,U.S.S.R/Russia,False,NPOE-4,1978,3,flight engineer,1988,2,Soyuz TM5,Mir EP,Soyuz TM4,236.0,6065.63,0.0,5.0
+101,1,Jugderdemidiin Gurragchaa,male,1947,Mongolia,False,1978 Intercosmos Group,1978,1,flight engineer,1981,Soyuz 39,Soyuz 39,Soyuz 39,Soyuz 39,188.7,188.7,0.0,0.0
+102,44,"Crippen, Robert L.",male,1937,U.S.,True,NASA- 7,1969,4,pilot,1981,STS-1,STS-1,STS-1,STS-1,54.0,565.0,0.0,0.0
+102,44,"Crippen, Robert L.",male,1937,U.S.,True,NASA- 7,1969,4,commander,1983,STS-7,STS-7,STS-7,STS-7,146.0,565.0,0.0,0.0
+102,44,"Crippen, Robert L.",male,1937,U.S.,True,NASA- 7,1969,4,commander,1984,STS-41-C,STS-41-C,STS-41-C,STS-41-C,168.0,565.0,0.0,0.0
+102,44,"Crippen, Robert L.",male,1937,U.S.,True,NASA- 7,1969,4,commander,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.0,565.0,0.0,0.0
+103,1,Dumitru Prunariu,male,1952,Romania,False,1978 Intercosmos Group,1978,1,MSP,1981,Soyuz 40,Soyuz 40,Soyuz 40,Soyuz 40,188.7,188.7,0.0,0.0
+104,45,"Engle, Joe H.",male,1932,U.S.,True,NASA- 5,1966,2,commander,1981,STS-2,STS-2,STS-2,STS-2,30.0,224.0,0.0,0.0
+104,45,"Engle, Joe H.",male,1932,U.S.,True,NASA- 5,1966,2,commander,1985,STS-51-I,STS-51-I,STS-51-I,STS-51-I,170.0,224.0,0.0,0.0
+105,46,"Truly, Richard H.",male,1937,U.S.,True,1965 USAF MOL group 1,1969,2,pilot,1981,STS-2,STS-2,STS-2,STS-2,54.21,199.34,0.0,0.0
+105,46,"Truly, Richard H.",male,1937,U.S.,True,1965 USAF MOL group 1,1969,2,commander,1983,STS-8,STS-8,STS-8,STS-8,145.13,199.34,0.0,0.0
+106,47,"Fullerton, Charles G.",male,1936,U.S.,True,"USAF MOL Group 2 
+ NASA- 7",1969,2,pilot,1982,STS-3,STS-3,STS-3,STS-3,192.0,382.0,0.0,0.0
+106,47,"Fullerton, Charles G.",male,1936,U.S.,True,"USAF MOL Group 2 
+ NASA- 7",1969,2,commander,1985,STS-51-F,STS-51-F,STS-51-F,STS-51-F,190.0,382.0,0.0,0.0
+107,51,"Berezovoy, Anatoly",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,1,commander,1982,Salyut 7,Soyuz T5,Salyut 7,Soyuz T7,5073.0,5073.07,2.55,2.55
+108,1,"Chrtien, Jean-Loup",male,1938,France,True,CNES-1,1980,3,MSP,1982,Salyut 7,Soyuz T-6,Salyut 7,Soyuz T-6,190.0,1043.32,0.0,5.95
+108,1,"Chrtien, Jean-Loup",male,1938,France,True,CNES-1,1980,3,MSP,1988,Mir Aragatz,Soyuz TM-7,Mir,Soyuz TM-6,594.0,1043.32,5.95,5.95
+108,1,"Chrtien, Jean-Loup",male,1938,France,True,CNES-1,1980,3,MSP,1997,STS-86,STS-86,STS-86,STS-86,259.3,1043.32,0.0,5.95
+109,48,"Hartsfield, Henry W., Jr.",male,1933,U.S.,True,NASA Astronaut Group 7,1969,3,pilot,1982,STS-4,STS-4,STS-4,STS-4,169.0,481.0,0.0,0.0
+109,48,"Hartsfield, Henry W., Jr.",male,1933,U.S.,True,NASA Astronaut Group 7,1969,3,commander,1984,STS-41-D,STS-41-D,STS-41-D,STS-41-D,144.0,481.0,0.0,0.0
+109,48,"Hartsfield, Henry W., Jr.",male,1933,U.S.,True,NASA Astronaut Group 7,1969,3,commander,1985,STS-61-A,STS-61-A,STS-61-A,STS-61-A,168.0,481.0,0.0,0.0
+110,52,"Serebrov, Aleksandr",male,1944,U.S.S.R/Russia,False,NPOE-4,1978,4,flight engineer,1982,Salyut 7,Soyuz T7,Salyut 7,Soyuz T5,189.0,8950.87,0.0,31.82
+32,12,"Beregovoi, Georgi",male,1921,U.S.S.R/Russia,True,TsPK-2,1964,1,commander,1968,Soyuz 3,Soyuz 3,Soyuz 3,Soyuz 3,94.83,94.83,0.0,0.0
+33,21,"Anders, William Alison",male,1933,U.S.,False,NASA- 3,1963,1,pilot,1968,Apollo 8,Apollo 8,Apollo 8,Apollo 8,147.0,147.0,0.0,0.0
+34,13,"Shatalov, Vladimir",male,1927,U.S.S.R/Russia,True,TsPK-2,1963,3,commander,1969,Soyuz 4,Soyuz 4,Soyuz 4/Soyuz 5,Soyuz 4,71.33,237.92,0.0,0.0
+34,13,"Shatalov, Vladimir",male,1927,U.S.S.R/Russia,True,TsPK-3,1963,3,commander,1969,Soyuz 8,Soyuz 8,Soyuz 8,Soyuz 8,118.0,237.92,0.0,0.0
+34,13,"Shatalov, Vladimir",male,1927,U.S.S.R/Russia,True,TsPK-4,1963,3,commander,1971,Soyuz 10,Soyuz 10,Soyuz 10,Soyuz 10,47.0,237.92,0.0,0.0
+35,14,"Volynov, Boris",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,2,commander,1969,Soyuz 5,Soyuz 5,Soyuz 5/Soyuz 4,Soyuz 5,72.0,1255.28,0.0,0.0
+35,14,"Volynov, Boris",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,2,commander,1976,Soyuz 21,Soyuz 21,Soyuz 21,Soyuz 21,1182.0,1255.28,0.0,0.0
+36,15,"Yeliseyev, Aleksei",male,1934,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,3,flight engineer,1969,Soyuz 5/4,Soyuz 5,Soyuz 5/4,Soyuz 4,47.0,214.33,0.62,0.62
+36,15,"Yeliseyev, Aleksei",male,1934,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-2,1968,3,flight engineer,1969,Soyuz 8,Soyuz 8,Soyuz 8,Soyuz 8,118.0,214.33,0.0,0.62
+36,15,"Yeliseyev, Aleksei",male,1934,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-3,1968,3,flight engineer,1971,Soyuz 10,Soyuz 10,Salyut 1,Soyuz 10,47.0,214.33,0.0,0.62
+37,16,"Khrunov, Yevgeny",male,1933,U.S.S.R/Russia,True,TsPK-1,1960,1,MSP,1969,Soyuz 5/4,Soyuz 5,Soyuz 5/4,Soyuz 4,48.17,47.75,0.62,0.62
+38,22,"Schweickart, Russell L.",male,1935,U.S.,False,1963 NASA group 3,1963,1,pilot,1969,apollo 9,apollo 9,apollo 9,apollo 9,241.0,241.0,1.13,1.13
+39,17,"Shonin, Georgi",male,1935,U.S.S.R/Russia,True,TsPK-1,1960,1,commander,1969,Soyuz 6,Soyuz 6,Soyuz 6,Soyuz 6,118.0,118.7,0.0,0.0
+40,18,"Kubasov, Valeri",male,1935,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,3,flight engineer,1969,Soyuz 6,Soyuz 6,Soyuz 6,Soyuz 6,118.0,449.95,0.0,0.0
+40,18,"Kubasov, Valeri",male,1935,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-2,1968,3,flight engineer,1975,Soyuz 19,Soyuz 19,Soyuz 19/Apollo,Soyuz 19,142.0,449.95,0.0,0.0
+40,18,"Kubasov, Valeri",male,1935,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-3,1968,3,commander,1980,Soyuz 36/35,Soyuz 36,Salyut 6,Soyuz 35,188.0,449.95,0.0,0.0
+41,19,"Filipchenko, Anatoly",male,1928,U.S.S.R/Russia,True,TsPK-2,1963,2,commander,1969,Soyuz 7,Soyuz 7,Soyuz 7,Soyuz 7,118.0,261.05,0.0,0.0
+41,19,"Filipchenko, Anatoly",male,1928,U.S.S.R/Russia,True,TsPK-3,1963,2,commander,1974,Soyuz 16,Soyuz 16,Soyuz 16,Soyuz 16,142.0,261.05,0.0,0.0
+42,20,"Volkov, Vladislav",male,1935,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,2,flight engineer,1969,Soyuz 7,Soyuz 7,Soyuz 7,Soyuz 7,118.0,689.02,0.0,0.0
+42,20,"Volkov, Vladislav",male,1935,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,2,flight engineer,1971,Soyuz 11,Soyuz 11,Salyut 1,Soyuz 11,570.0,689.02,0.0,0.0
+43,21,"Gorbatko, Viktor",male,1934,U.S.S.R/Russia,True,TsPK-1,1960,3,MSP,1969,Soyuz 7,Soyuz 7,Soyuz 7,Soyuz 7,118.0,732.78,0.0,0.0
+43,21,"Gorbatko, Viktor",male,1934,U.S.S.R/Russia,True,TsPK-2,1960,3,commander,1977,Soyuz 24,Soyuz 24,Salyut 5,Soyuz 24,425.0,732.78,0.0,0.0
+43,21,"Gorbatko, Viktor",male,1934,U.S.S.R/Russia,True,TsPK-3,1960,3,commander,1980,Soyuz 37/36,Soyuz 37,Salyut 6,Soyuz 36,188.0,732.78,0.0,0.0
+44,23,"Bean, Alan Lavern",male,1932,U.S.,True,1963 NASA group 3,1963,2,pilot,1969,Apollo 12,Apollo 12,Apollo 12,Apollo 12,244.81,1671.75,6.4,9.32
+44,23,"Bean, Alan Lavern",male,1932,U.S.,True,1963 NASA group 3,1963,2,commander,1973,Skylab 3,Apollo CSM-117,Skylab 3,Apollo CSM-117,1427.23,1671.75,2.68,9.32
+45,24,"Swigert, John L., Jr.",male,1931,U.S.,False,1966 NASA group 5,1966,1,pilot,1970,Apollo 13,Apollo 13,Apollo 13,Apollo 13,142.0,142.0,0.0,0.0
+46,25,"Haise, Fred W., Jr.",male,1933,U.S.,False,NASA Astronaut Group 5,1966,1,pilot,1970,Apollo 13,Apollo 13,Apollo 13,Apollo 13,142.0,142.0,0.0,0.0
+47,22,"Sevastyanov, Vitali",male,1935,U.S.S.R/Russia,False,Mishin-Group / TsKBEM-1,1968,2,flight engineer,1970,Soyuz 9,Soyuz 9,Soyuz 9,Soyuz 9,424.0,1936.3,0.0,0.0
+47,22,"Sevastyanov, Vitali",male,1935,U.S.S.R/Russia,False,Mishin-Group / TsKBEM-2,1968,2,flight engineer,1975,Soyuz 18,Soyuz 18,Salyut 5,Soyuz 18,1511.0,1936.3,0.0,0.0
+48,26,"Shepard, Alan B., Jr.",male,1923,U.S.,True,1959 NASA group 1,1959,2,commander,1971,Apollo 14,Apollo 14,Apollo 14,Apollo 14,216.0,216.25,9.25,9.25
+49,27,"Roosa, Stuart A.",male,1933,U.S.,True,1966 NASA group 5,1966,1,pilot,1971,Apollo 14,Apollo 14,Apollo 14,Apollo 14,216.0,216.0,0.0,0.0
+50,28,"Mitchell, Edgar D.",male,1930,U.S.,True,NASA- 5,1966,1,pilot,1971,Apollo 14,Apollo 14,Apollo 14,Apollo 14,216.0,216.0,9.38,9.38
+51,23,"Rukavishnikov, Nikolai",male,1932,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,3,flight engineer,1971,Soyuz 10,Soyuz 10,Soyuz 10,Soyuz 10,47.0,237.15,0.0,0.0
+51,23,"Rukavishnikov, Nikolai",male,1932,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-2,1968,3,flight engineer,1974,Soyuz 16,Soyuz 16,Soyuz 16,Soyuz 16,142.0,237.15,0.0,0.0
+51,23,"Rukavishnikov, Nikolai",male,1932,U.S.S.R/Russia,True,Korolyov-Group / Mishin-Group / TsKBEM-3,1968,3,commander,1979,Soyuz 33,Soyuz 33,Soyuz 33,Soyuz 33,47.0,237.15,0.0,0.0
+52,24,"Dobrovolski, Georgi",male,1928,U.S.S.R/Russia,True,TsPK-2,1963,1,commander,1971,Soyuz 11,Soyuz 11,Salyut 1,Soyuz 11,570.0,570.35,0.0,0.0
+53,25,"Patsayev, Viktor",male,1933,U.S.S.R/Russia,False,TsKBEM-1,1968,1,flight engineer,1971,Soyuz 11,Soyuz 11,Salyut 1,Soyuz 11,570.0,570.35,0.0,0.0
+54,29,"Worden, Alfred M.",male,1932,U.S.,True,1966 NASA group 5,1966,1,pilot,1971,Apollo 15,Apollo 15,Apollo 15,Apollo 15,295.2,295.2,0.63,0.63
+55,30,"Irwin, James B.",male,1930,U.S.,True,NASA- 5,1966,1,pilot,1971,Apollo 15,Apollo 15,Apollo 15,Apollo 15,295.0,295.0,18.5,18.5
+56,31,"Mattingly, Thomas K., II",male,1936,U.S.,True,NASA- 5,1966,3,pilot,1972,Apollo 16,Apollo 16,Apollo 16,Apollo 16,266.0,508.0,1.38,1.38
+56,31,"Mattingly, Thomas K., II",male,1936,U.S.,True,NASA- 5,1966,3,commander,1982,STS-4,STS-4,STS-4,STS-4,169.0,508.0,0.0,1.38
+56,31,"Mattingly, Thomas K., II",male,1936,U.S.,True,NASA- 5,1966,3,commander,1985,STS-151-C,STS-151-C,STS-151-C,STS-151-C,73.0,508.0,0.0,1.38
+57,32,"Duke, Jr. Charles Moss",male,1935,U.S.,True,NASA- 5,1966,1,pilot,1972,Apollo 16,Apollo 16,Apollo 16,Apollo 16,265.0,265.0,20.25,20.25
+58,33,"Evans, Ronald E.",male,1933,U.S.,True,NASA- 5,1966,1,pilot,1972,Apollo 17,Apollo 17,Apollo 17,Apollo 17,301.0,301.0,1.4,1.4
+59,34,"Schmitt, Harrison H.",male,1935,U.S.,False,NASA-4,1965,1,pilot,1972,Apollo 17,Apollo 17,Apollo 17,Apollo 17,301.0,301.0,22.07,22.07
+60,35,"Weitz, Paul J.",male,1932,U.S.,True,1966 NASA group 5,1966,2,pilot,1973,Skylab-2,Apollo Sk.2,Apollo Sk.2,Apollo Sk.2,267.0,793.22,2.27,2.27
+60,35,"Weitz, Paul J.",male,1932,U.S.,True,1966 NASA group 5,1966,2,commander,1983,STS-6,STS-6,STS-6,STS-6,120.0,793.22,0.0,2.27
+61,36,"Kerwin, Joseph P.",male,1932,U.S.,True,NASA- 4,1965,1,MSP,1973,Skylab 2,Apollo Sk.2,Apollo Sk.2,Apollo Sk.2,672.0,672.0,3.42,3.42
+62,37,"Lousma, Jack R.",male,1936,U.S.,True,NASA- 5,1966,2,pilot,1973,Skylab 3,Apollo Sk.3,Skylab 3,Skylab 3,1427.0,1619.0,11.0,11.0
+62,37,"Lousma, Jack R.",male,1936,U.S.,True,NASA- 5,1966,2,commander,1982,STS-3,STS-3,STS-3,STS-3,192.0,1619.0,0.0,11.0
+63,38,"Garriott, Owen K.",male,1930,U.S.,False,NASA Astronaut Group 4,1965,2,MSP,1973,Skylab 3,Apollo Sk.3,Skylab,Apollo Sk.3,1427.0,1674.0,13.72,13.72
+63,38,"Garriott, Owen K.",male,1930,U.S.,False,NASA Astronaut Group 5,1965,2,MSP,1983,STS-9,STS-9,STS-9,STS-9,247.0,1674.0,0.0,13.72
+64,26,"Lazarev, Vasili",male,1928,U.S.S.R/Russia,True,Voskhod-1 / TsPK-3,1964,1,commander,1973,Soyuz 12,Soyuz 12,Soyuz 12,Soyuz 12,47.0,47.25,0.0,0.0
+65,27,"Makarov, Oleg",male,1933,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-1,1968,3,flight engineer,1973,Soyuz 12,Soyuz 12,Soyuz 12,Soyuz 12,47.0,497.33,0.0,0.0
+65,27,"Makarov, Oleg",male,1933,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-2,1968,3,flight engineer,1978,Soyuz 27/26,Soyuz 27,Salyut 6,Soyuz 26,142.0,497.33,0.0,0.0
+65,27,"Makarov, Oleg",male,1933,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-3,1968,3,flight engineer,1980,Soyuz T3,Soyuz T3,Salyut 6,Soyuz T3,307.0,497.33,0.0,0.0
+66,39,"Carr, Gerald P.",male,1932,U.S.,True,NASA- 5,1966,1,commander,1974,Skylab 4,Skylab 4,Skylab 4,Skylab 4,2017.0,2017.0,15.85,15.85
+67,40,"Pogue, William R.",male,1930,U.S.,True,NASA-5,1966,1,pilot,1973,Skylab 4,Skylab 4,Skylab 4,Skylab 4,2017.0,2017.0,13.62,13.62
+68,41,"Gibson, Edward G.",male,1936,U.S.,False,NASA Astronaut Group 4,1965,1,MSP,1973,Skylab 4,Skylab 4,Skylab 4,Skylab 4,2017.0,2017.0,15.35,15.35
+69,28,"Klimuk, Pyotr",male,1942,U.S.S.R/Russia,True,TsPK-3,1965,3,commander,1973,Soyuz 13,Soyuz 13,Soyuz 13,Soyuz 13,188.0,1890.28,0.0,0.0
+69,28,"Klimuk, Pyotr",male,1942,U.S.S.R/Russia,True,TsPK-4,1965,3,commander,1975,Saluyt 4,Soyuz 18,Saluyt 4,Soyuz 18,1511.0,1890.28,0.0,0.0
+69,28,"Klimuk, Pyotr",male,1942,U.S.S.R/Russia,True,TsPK-5,1965,3,commander,1978,Saluyt 6,Soyuz 30,Saluyt 6,Soyuz 30,190.0,1890.28,0.0,0.0
+70,29,"Lebedev, Valentin",male,1942,U.S.S.R/Russia,False,TsKBEM-2 / AN-4,1972,2,flight engineer,1973,Soyuz 13,Soyuz 13,Soyuz 13,Soyuz 13,188.0,5261.98,0.0,2.55
+70,29,"Lebedev, Valentin",male,1942,U.S.S.R/Russia,False,TsKBEM-2 / AN-5,1972,2,flight engineer,1982,Salyut 7,Soyuz T5,Salyut 7,Soyuz T7,5313.0,5261.98,2.55,2.55
+71,30,"Artyukhin, Yuri",male,1930,U.S.S.R/Russia,True,TsPK-2,1963,1,flight engineer,1974,Soyuz 14,Soyuz 14,Salyut 3,Soyuz 14,377.0,377.5,0.0,0.0
+72,31,"Sarafanov, Gennadi",male,1942,U.S.S.R/Russia,True,TsPK-3,1965,1,commander,1974,Soyuz 15,Soyuz 15,Soyuz 15,Soyuz 15,48.0,48.2,0.0,0.0
+73,32,"Dyomin, Lev",male,1926,U.S.S.R/Russia,True,TsPK-2,1963,1,flight engineer,1974,Soyuz 15,Soyuz 15,Soyuz 15,Soyuz 15,48.0,48.2,0.0,0.0
+74,33,"Gubarev, Aleksei",male,1931,U.S.S.R/Russia,True,TsPK-2,1963,2,commander,1975,Salyut 4,Soyuz 17,Salyut 4,Soyuz 17,709.0,899.6,0.0,0.0
+74,33,"Gubarev, Aleksei",male,1931,U.S.S.R/Russia,True,TsPK-3,1963,2,commander,1978,Salyut 6,Soyuz 28,Salyut 6,Soyuz 28,190.0,899.6,0.0,0.0
+75,34,"Grechko, Georgi",male,1931,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-3,1968,3,flight engineer,1975,Salyut 4,Soyuz 17,Salyut 4,Soyuz 17,709.0,3236.53,0.0,1.01
+75,34,"Grechko, Georgi",male,1931,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-4,1968,3,flight engineer,1977,Salyut 6,Soyuz 26,Salyut 6,Soyuz 27,2314.0,3236.53,1.01,1.01
+75,34,"Grechko, Georgi",male,1931,U.S.S.R/Russia,False,Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-5,1968,3,flight engineer,1985,Soyuz 7,Soyuz T14,Soyuz 7,Soyuz T13,213.0,3236.53,0.0,1.01
+76,42,"Brand, Vance D.",male,1931,U.S.,False,NASA- 5,1966,4,pilot,1975,ASTP,ASTP,ASTP,ASTP,217.5,746.0,0.0,0.0
+76,42,"Brand, Vance D.",male,1931,U.S.,False,NASA- 5,1966,4,commander,1982,STS-5,STS-5,STS-5,STS-5,122.25,746.0,0.0,0.0
+76,42,"Brand, Vance D.",male,1931,U.S.,False,NASA- 5,1966,4,commander,1984,STS-41-B,STS-41-B,STS-41-B,STS-41-B,191.25,746.0,0.0,0.0
+76,42,"Brand, Vance D.",male,1931,U.S.,False,NASA- 5,1966,4,commander,1990,STS-35,STS-35,STS-35,STS-35,215.0,746.0,0.0,0.0
+77,43,"Slayton, Donald K.",male,1924,U.S.,False,1959 NASA group 1,1959,1,pilot,1975,ASTP,ASTP,ASTP,ASTP,217.47,217.47,0.0,0.0
+78,35,"Zholobov, Vitali",male,1937,U.S.S.R/Russia,True,TsPK-2,1963,1,flight engineer,1976,Soyuz 21,Soyuz 21,Salyut 5,Soyuz 21,1182.0,1182.38,0.0,0.0
+79,36,"Aksyonov, Vladimir",male,1935,U.S.S.R/Russia,True,TsKBEM-3,1973,2,flight engineer,1976,Soyuz 22,Soyuz 22,Soyuz 22,Soyuz 22,189.0,284.18,0.0,0.0
+79,36,"Aksyonov, Vladimir",male,1935,U.S.S.R/Russia,True,TsKBEM-4,1973,2,flight engineer,1980,Soyuz T2,Soyuz T2,Salyut 6,Soyuz T2,94.0,284.18,0.0,0.0
+80,37,"Zudov, Vyacheslav",male,1942,U.S.S.R/Russia,True,TsPK-3,1965,1,commander,1976,Soyuz 23,Soyuz 23,Soyuz 23,Soyuz 23,48.0,48.1,0.0,0.0
+81,38,"Rozhdestvensky, Valery",male,1939,U.S.S.R/Russia,True,TsPK-3,1965,1,flight engineer,1976,Soyuz 23,Soyuz 23,Soyuz 23,Soyuz 23,48.0,48.1,0.0,0.0
+82,39,"Glazkov, Yuri",male,1939,U.S.S.R/Russia,True,TsPK-3,1965,1,flight engineer,1977,Soyuz 24,Soyuz 24,Salyut 5,Soyuz 24,425.0,425.42,0.0,0.0
+83,40,"Kovalyonok, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-4,1967,3,commander,1977,Soyuz 25,Soyuz 25,Soyuz 25,Soyuz 25,48.0,5193.13,0.0,2.33
+83,40,"Kovalyonok, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1967,3,commander,1978,Salyut 6,Soyuz 29,Salyut 6,Soyuz 31,3350.0,5193.13,2.33,2.33
+83,40,"Kovalyonok, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-6,1967,3,commander,1981,Salyut 6,Soyuz T4,Salyut 6,Soyuz T4,1793.0,5193.13,0.0,2.33
+84,41,"Ryumin, Valery",male,1939,U.S.S.R/Russia,False,TsKBEM-3,1973,4,flight engineer,1977,Soyuz 25,Soyuz 25,Soyuz 25,Soyuz 25,48.0,8921.4,0.0,1.38
+84,41,"Ryumin, Valery",male,1939,U.S.S.R/Russia,False,TsKBEM-3,1973,4,flight engineer,1979,Salyut 6,Soyuz 32,Salyut 6,Soyuz 34,4200.0,8921.4,1.38,1.38
+84,41,"Ryumin, Valery",male,1939,U.S.S.R/Russia,False,TsKBEM-3,1973,4,flight engineer,1980,Salyut 6,Soyuz 35,Salyut 6,Soyuz 37,4436.0,8921.4,0.0,1.38
+84,41,"Ryumin, Valery",male,1939,U.S.S.R/Russia,False,TsKBEM-3,1973,4,MSP,1998,STS 91,STS 91,STS 91,STS 91,235.0,8921.4,0.0,1.38
+85,42,"Romanenko, Yuri",male,1944,U.S.S.R/Russia,True,TsPK-5,1970,3,commander,1977,Soyuz 26/27,Soyuz 26,Salyut 6,Soyuz 27,2314.0,10338.35,1.47,10.27
+85,42,"Romanenko, Yuri",male,1944,U.S.S.R/Russia,True,TsPK-5,1970,3,commander,1980,Soyuz 38,Soyuz 38,Salyut 6,Soyuz 38,188.0,10338.35,0.0,10.27
+85,42,"Romanenko, Yuri",male,1944,U.S.S.R/Russia,True,TsPK-5,1970,3,commander,1987,2,Soyuz TM2/3,Mir,Soyuz TM2/3,7835.0,10338.35,8.8,10.27
+86,43,"Dzhanibekov, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,5,commander,1978,Soyuz 27/26,Soyuz 27,Salyut 6,Soyuz 26,142.0,3495.93,0.0,8.57
+86,43,"Dzhanibekov, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,5,commander,1981,Soyuz 39,Soyuz 39,Salyut 6,Soyuz 39,188.0,3495.93,0.0,8.57
+86,43,"Dzhanibekov, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,5,commander,1982,Salyut 7,Soyuz T6,Salyut 7,Soyuz T6,189.0,3495.93,0.0,8.57
+86,43,"Dzhanibekov, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,5,commander,1984,Salyut 7,Soyuz T12,Salyut 7,Soyuz T12,283.0,3495.93,3.57,8.57
+86,43,"Dzhanibekov, Vladimir",male,1942,U.S.S.R/Russia,True,TsPK-5,1970,5,commander,1985,Salyut 7,Soyuz T13,Salyut 7,Soyuz T13,2691.0,3495.93,5.0,8.57
+87,1,Vladimir Remek,male,1948,Czechoslovakia,True,Air Gorce Group 6 - USSR,1976,1,pilot,1978,Soyuz 28,Soyuz 28,Soyuz 28,Soyuz 28,190.28,190.28,0.0,0.0
+88,44,"Ivanchenkov, Aleksandr",male,1940,U.S.S.R/Russia,True,TsKBEM-3,1973,2,flight engineer,1978,Salyut 6,Soyuz 29,Salyut 6,Soyuz 31,3350.0,3540.62,2.33,2.33
+88,44,"Ivanchenkov, Aleksandr",male,1940,U.S.S.R/Russia,True,TsKBEM-4,1973,2,flight engineer,1982,Salyut 7,Soyuz T6,Salyut 7,Soyuz T6,189.0,3540.62,0.0,2.33
+89,1,Miroslaw Hermaszewske,male,1941,Poland,True,1976 Intercosmos Group,1976,1,pilot,1978,Soyuz 30,Soyuz 30,Soyuz 30,Soyuz 30,190.03,190.03,0.0,0.0
+90,1,"Jahn, Sigmund",male,1937,Germany,True,Interkosmos-1,1976,1,MSP,1978,Soyuz 31,Soyuz 31,Soyuz 31,Soyuz 29,188.82,188.82,0.0,0.0
+91,45,"Lyakhov, Vladimir",male,1941,U.S.S.R/Russia,True,TsPK-4,1967,3,commander,1979,Salyut 6,Soyuz 32,Salyut 6,Soyuz 34,4200.0,7999.78,1.38,7.12
+91,45,"Lyakhov, Vladimir",male,1941,U.S.S.R/Russia,True,TsPK-4,1967,3,commander,1983,Salyut 7,Soyuz T9,Salyut 7,Soyuz T9,3586.0,7999.78,5.73,7.12
+91,45,"Lyakhov, Vladimir",male,1941,U.S.S.R/Russia,True,TsPK-4,1967,3,commander,1988,3,Soyuz TM6,Mir,Soyuz TM5,212.0,7999.78,0.0,7.12
+92,1,Georgi Ivanov,male,1940,Bulgaria,True,1978 Intercosmos Group,1978,1,pilot,1979,Soyuz 33,Soyuz 33,Soyuz 33,Soyuz 33,47.0,47.0,0.0,0.0
+93,46,"Popov, Leonid",male,1945,U.S.S.R/Russia,True,TsPK-5,1970,3,commander,1980,Salyut 6,Soyuz 35,Salyut 6,Soyuz 37,4436.0,4814.75,0.0,0.0
+93,46,"Popov, Leonid",male,1945,U.S.S.R/Russia,True,TsPK-6,1970,3,commander,1981,Salyut 6,Soyuz 40,Salyut 6,Soyuz 40,188.0,4814.75,0.0,0.0
+93,46,"Popov, Leonid",male,1945,U.S.S.R/Russia,True,TsPK-7,1970,3,commander,1982,Salyut 7,Soyuz T7,Salyut 7,Soyuz T5,189.0,4814.75,0.0,0.0
+95,47,"Malyshev, Yuri",male,1941,U.S.S.R/Russia,True,TsPK-4,1967,2,commander,1980,Salyut 7,Soyuz T2,Salyut 7,Soyuz T2,94.0,283.98,0.0,0.0
+95,47,"Malyshev, Yuri",male,1941,U.S.S.R/Russia,True,TsPK-5,1967,2,commander,1984,Salyut 7,Soyuz T11,Salyut 7,Soyuz T10,189.0,283.98,0.0,0.0
+96,1,Pham Tuan,male,1947,Vietnam,True,1979 Intercosmos Group,1979,1,MSP,1980,Salyut 6,Soyuz 37,Salyut 6,Soyuz 36,188.7,188.7,0.0,0.0
+97,1,Arnaldo Tamayo Mendez,male,1942,Cuba,True,1978 Intercosmos Group,1978,1,pilot,1980,Soyuz 38,Soyuz 38,Soyuz 38,Soyuz 38,1887.71,188.71,0.0,0.0
+98,48,"Kizim, Leonid",male,1941,U.S.S.R/Russia,True,TsPK-3,1965,3,commander,1980,Salyut 6,Soyuz T3,Salyut 6,Soyuz T3,307.0,8993.93,0.0,31.48
+98,48,"Kizim, Leonid",male,1941,U.S.S.R/Russia,True,TsPK-4,1965,3,commander,1984,Salyut 7,Soyuz T10,Salyut 7,Soyuz T11,5686.0,8993.93,22.83,31.48
+98,48,"Kizim, Leonid",male,1941,U.S.S.R/Russia,True,TsPK-5,1965,3,commander,1986,1,Soyuz T15,Mir/Salyut 7,Soyuz T15,3000.0,8993.93,8.83,31.48
+99,49,"Strekalov, Gennadi",male,1940,U.S.S.R/Russia,False,TsKBEM-3,1973,5,MSP,1980,Salyut 6,Soyuz T3,Salyut 6,Soyuz T3,307.0,6454.37,0.0,20.93
+99,49,"Strekalov, Gennadi",male,1940,U.S.S.R/Russia,False,TsKBEM-3,1973,5,flight engineer,1983,Soyuz T8,Soyuz T8,Soyuz T8,Soyuz T8,48.0,6454.37,0.0,20.93
+99,49,"Strekalov, Gennadi",male,1940,U.S.S.R/Russia,False,TsKBEM-3,1973,5,flight engineer,1984,Salyut 7,Soyuz T11,Salyut 7,Soyuz T10,189.0,6454.37,0.0,20.93
+99,49,"Strekalov, Gennadi",male,1940,U.S.S.R/Russia,False,TsKBEM-3,1973,5,flight engineer,1990,7,Soyuz TM10,Mir,Soyuz TM10,3140.0,6454.37,2.75,20.93
+99,49,"Strekalov, Gennadi",male,1940,U.S.S.R/Russia,False,TsKBEM-3,1973,5,flight engineer,1995,18,Soyuz TM21,Mir,STS71,2768.0,6454.37,18.18,20.93
+100,50,"Savinykh, Viktor",male,1940,U.S.S.R/Russia,False,NPOE-4,1978,3,flight engineer,1981,Salyut 6,Soyuz T4,Salyut 6,Soyuz T4,1793.0,6065.63,5.0,5.0
+110,52,"Serebrov, Aleksandr",male,1944,U.S.S.R/Russia,False,NPOE-4,1978,4,MSP,1983,Soyuz T8,Soyuz T8,Soyuz T8,Soyuz T8,48.0,8950.87,0.0,31.82
+110,52,"Serebrov, Aleksandr",male,1944,U.S.S.R/Russia,False,NPOE-4,1978,4,flight engineer,1990,5,Soyuz TM8,Mir,Soyuz TM8,3990.0,8950.87,17.6,31.82
+110,52,"Serebrov, Aleksandr",male,1944,U.S.S.R/Russia,False,NPOE-4,1978,4,flight engineer,1993,14,Soyuz TM17,Mir,Soyuz TM17,4721.0,8950.87,14.22,31.82
+111,53,"Savitskaya, Svetlana",female,1948,U.S.S.R/Russia,False,MAP,1980,2,MSP,1982,Salyut 7,Soyuz T7,Salyut 7,Soyuz T5,189.0,473.1,0.0,3.58
+111,53,"Savitskaya, Svetlana",female,1948,U.S.S.R/Russia,False,MAP,1980,2,flight engineer,1984,Salyut 7,Soyuz T12,Salyut 7,Soyuz T12,283.0,473.1,3.58,3.58
+112,49,"Overmyer, Robert F.",male,1936,U.S.,True,MOL-2 / NASA-7,1966,2,pilot,1982,STS-5,STS-5,STS-5,STS-5,122.0,290.0,0.0,0.0
+112,49,"Overmyer, Robert F.",male,1936,U.S.,True,MOL-2 / NASA-7,1966,2,commander,1985,STS-51-B,STS-51-B,STS-51-B,STS-51-B,168.0,290.0,0.0,0.0
+113,50,"Allen, Joseph P.",male,1937,U.S.,False,NASA- 6,1967,2,MSP,1982,STS-5,STS-5,STS-5,STS-5,122.0,314.0,0.0,11.7
+113,50,"Allen, Joseph P.",male,1937,U.S.,False,NASA- 6,1967,2,MSP,1984,STS-51-A,STS-51-A,STS-51-A,STS-51-A,191.0,314.0,11.7,11.7
+114,51,"Lenoir, William B.",male,1939,U.S.,False,NASA- 6,1967,1,MSP,1982,STS-5,STS-5,STS-5,STS-5,122.0,122.0,0.0,0.0
+115,52,"Bobko, Karol J.",male,1937,U.S.,True,"1966 USAF MOL Gropu 2, NASA- 7",1969,3,pilot,1983,STS-6,STS-6,STS-6,STS-6,122.0,386.0,0.0,0.0
+115,52,"Bobko, Karol J.",male,1937,U.S.,True,"1966 USAF MOL Gropu 2, NASA- 7",1969,3,commander,1985,STS-51-D,STS-51-D,STS-51-D,STS-51-D,236.0,386.0,0.0,0.0
+115,52,"Bobko, Karol J.",male,1937,U.S.,True,"1966 USAF MOL Gropu 2, NASA- 7",1969,3,commander,1985,STS-51-J,STS-51-J,STS-51-J,STS-51-J,98.0,386.0,0.0,0.0
+116,53,"Peterson, Donald H.",male,1933,U.S.,True,MOL-3 / NASA-7,1969,1,MSP,1983,STS-6,STS-6,STS-6,STS-6,120.0,120.0,3.83,3.83
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1983,STS-6,STS-6,STS-6,STS-6,120.0,1281.0,3.87,25.9
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1985,STS-51F,STS-51F,STS-51F,STS-51F,191.0,1281.0,0.0,25.9
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1989,STS-33,STS-33,STS-33,STS-33,168.0,1281.0,0.0,25.9
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1991,STS-44,STS-44,STS-44,STS-44,167.0,1281.0,0.0,25.9
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1993,STS-61,STS-61,STS-61,STS-61,260.0,1281.0,22.03,25.9
+117,54,"Musgrave, Franklin Story",male,1935,U.S.,False,NASA-6,1967,6,MSP,1996,STS-80,STS-80,STS-80,STS-80,424.0,1281.0,0.0,25.9
+118,54,"Titov, Vladimir",male,1947,U.S.S.R/Russia,True,TsPK-6,1976,4,commander,1983,Soyuz T8,Soyuz T8,Soyuz T8,Soyuz T8,48.0,9288.75,0.0,18.8
+118,54,"Titov, Vladimir",male,1947,U.S.S.R/Russia,True,TsPK-7,1976,4,commander,1988,3,Soyuz TM4,Mir,Soyuz TM6,8782.0,9288.75,13.78,18.8
+118,54,"Titov, Vladimir",male,1947,U.S.S.R/Russia,True,TsPK-8,1976,4,MSP,1995,STS63,STS63,STS63,STS63,198.0,9288.75,0.0,18.8
+118,54,"Titov, Vladimir",male,1947,U.S.S.R/Russia,True,TsPK-9,1976,4,commander,1997,24,STS86,Mir,STS86,259.0,9288.75,5.02,18.8
+119,55,"Hauck, Frederick H.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,pilot,1983,STS-7,STS-7,STS-7,STS-7,146.0,434.0,0.0,0.0
+119,55,"Hauck, Frederick H.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,commander,1984,STS-51-A,STS-51-A,STS-51-A,STS-51-A,191.0,434.0,0.0,0.0
+119,55,"Hauck, Frederick H.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,commander,1988,STS-26,STS-26,STS-26,STS-26,97.0,434.0,0.0,0.0
+120,56,"Fabian, John M.",male,1939,U.S.,True,NASA- 8,1978,2,MSP,1983,STS-7,STS-7,STS-7,STS-7,146.0,316.0,0.0,0.0
+120,56,"Fabian, John M.",male,1939,U.S.,True,NASA- 8,1978,2,MSP,1985,STS-51-G,STS-51-G,STS-51-G,STS-51-G,170.0,316.0,0.0,0.0
+121,57,"Ride, Sally K.",female,1951,U.S.,False,NASA-8,1978,2,MSP,1983,STS-7,STS-7,STS-7,STS-7,147.0,343.0,0.0,0.0
+121,57,"Ride, Sally K.",female,1951,U.S.,False,NASA-8,1978,2,MSP,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.0,343.0,0.0,0.0
+122,58,"Thagard, Norman E.",male,1943,U.S.,False,1978 NASA group,1978,5,MSP,1983,STS-7,STS-7,STS-7,STS-7,147.0,3373.4,0.0,0.0
+122,58,"Thagard, Norman E.",male,1943,U.S.,False,1978 NASA group,1978,5,MSP,1985,STS-51B,STS-51B,STS-51B,STS-51B,168.0,3373.4,0.0,0.0
+122,58,"Thagard, Norman E.",male,1943,U.S.,False,1978 NASA group,1978,5,MSP,1989,STS-30,STS-30,STS-30,STS-30,97.0,3373.4,0.0,0.0
+122,58,"Thagard, Norman E.",male,1943,U.S.,False,1978 NASA group,1978,5,MSP,1992,STS-42,STS-42,STS-42,STS-42,192.0,3373.4,0.0,0.0
+122,58,"Thagard, Norman E.",male,1943,U.S.,False,1978 NASA group,1978,5,MSP,1995,18,Soyuz-TM21,Mir,STS-71,2760.0,3373.4,0.0,0.0
+123,55,"Aleksandrov, Aleksandr",male,1943,U.S.S.R/Russia,False,NPOE-4,1978,2,flight engineer,1983,Salyut 7,Soyuz T9,Salyut 7,Soyuz T9,3586.0,7434.03,5.86,5.86
+123,55,"Aleksandrov, Aleksandr",male,1943,U.S.S.R/Russia,False,NPOE-4,1978,2,flight engineer,1987,2,Soyuz TM3,Mir,Soyuz TM3,3847.0,7434.03,0.0,5.86
+124,59,"Brandenstein, Daniel C.",male,1943,U.S.,True,NASA- 8,1978,4,pilot,1983,STS-8,STS-8,STS-8,STS-8,145.0,789.0,0.0,0.0
+124,59,"Brandenstein, Daniel C.",male,1943,U.S.,True,NASA- 8,1978,4,commander,1985,STS-51-G,STS-51-G,STS-51-G,STS-51-G,170.0,789.0,0.0,0.0
+124,59,"Brandenstein, Daniel C.",male,1943,U.S.,True,NASA- 8,1978,4,commander,1990,STS-32,STS-32,STS-32,STS-32,261.0,789.0,0.0,0.0
+124,59,"Brandenstein, Daniel C.",male,1943,U.S.,True,NASA- 8,1978,4,commander,1992,STS-49,STS-49,STS-49,STS-49,213.0,789.0,0.0,0.0
+125,60,"Bluford, Guion S., Jr.",male,1942,U.S.,True,NASA- 8,1978,4,MSP,1983,STS-8,STS-8,STS-8,STS-8,31.0,688.0,0.0,0.0
+125,60,"Bluford, Guion S., Jr.",male,1942,U.S.,True,NASA- 8,1978,4,MSP,1985,STS-61-A,STS-61-A,STS-61-A,STS-61-A,168.0,688.0,0.0,0.0
+125,60,"Bluford, Guion S., Jr.",male,1942,U.S.,True,NASA- 8,1978,4,MSP,1991,STS-39,STS-39,STS-39,STS-39,199.0,688.0,0.0,0.0
+125,60,"Bluford, Guion S., Jr.",male,1942,U.S.,True,NASA- 8,1978,4,MSP,1992,STS-53,STS-53,STS-53,STS-53,175.0,688.0,0.0,0.0
+126,61,"Gardner, Dale A.",male,1948,U.S.,True,NASA Astronaut Group 8,1978,2,MSP,1983,STS-8,STS-8,"STS-8, INSAT-1B",STS-8,145.0,336.0,0.0,12.0
+126,61,"Gardner, Dale A.",male,1948,U.S.,True,NASA Astronaut Group 8,1978,2,MSP,1984,STS-51A,STS-51A,STS-51A,STS-51A,191.0,336.0,12.0,12.0
+127,62,"Thornton, William E.",male,1929,U.S.,False,1967 NASA group,1967,2,MSP,1983,STS-8,STS-8,STS-8,STS-8,145.0,313.26,0.0,0.0
+127,62,"Thornton, William E.",male,1929,U.S.,False,1967 NASA group,1967,2,MSP,1985,STS-51-B,STS-51-B,STS-51-B,STS-51-B,169.0,313.26,0.0,0.0
+128,63,"Shaw, Brewster H., Jr.",male,1945,U.S.,True,1978 NASA group 8,1978,3,pilot,1983,STS-9,STS-9,STS-9,STS-9,247.75,533.75,0.0,0.0
+128,63,"Shaw, Brewster H., Jr.",male,1945,U.S.,True,1979 NASA group 8,1978,3,commander,1985,STS-61-B,STS-61-B,STS-61-B,STS-61-B,165.0,533.75,0.0,0.0
+128,63,"Shaw, Brewster H., Jr.",male,1945,U.S.,True,1980 NASA group 8,1978,3,commander,1989,STS-28,STS-28,STS-28,STS-28,121.0,533.75,0.0,0.0
+129,64,"Parker, Robert A. R.",male,1936,U.S.,False,NASA-6,1967,2,MSP,1983,STS-9,STS-9,STS-9,STS-9,248.0,463.0,0.0,0.0
+129,64,"Parker, Robert A. R.",male,1936,U.S.,False,NASA-6,1967,2,MSP,1990,STS-35,STS-35,STS-35,STS-35,215.0,463.0,0.0,0.0
+130,65,"Lichtenberg, Byron Kurt",male,1948,U.S.,True,NASA-9,1982,2,PSP,1983,Spacelab 1,STS-9,STS-9,STS-9,247.94,462.31,0.0,0.0
+130,65,"Lichtenberg, Byron Kurt",male,1948,U.S.,True,NASA-9,1982,2,PSP,1992,Atlas-1,STS-45,STS-45,STS-45,214.37,462.31,0.0,0.0
+131,1,"Merbold, Ulf",male,1941,Germany,False,ESA-1,1978,3,PSP,1983,STS-9,STS-9,STS-9,STS-9,248.0,1197.6,0.0,0.0
+131,1,"Merbold, Ulf",male,1941,Germany,False,ESA-1,1978,3,PSP,1992,STS-42,STS-42,STS-42,STS-42,193.0,1197.6,0.0,0.0
+131,1,"Merbold, Ulf",male,1941,Germany,False,ESA-1,1978,3,MSP,1994,Euromir 94,Soyuz TM-20,Euromir 94,Soyuz TM-19,756.6,1197.6,0.0,0.0
+132,66,"Gibson, Robert L.",male,1946,U.S.,True,NASA Astronaut Group 8,1978,5,pilot,1984,STS-41-B,STS-41-B,STS-41-B,STS-41-B,191.25,868.13,0.0,0.0
+132,66,"Gibson, Robert L.",male,1946,U.S.,True,NASA Astronaut Group 8,1978,5,commander,1986,STS-61-C,STS-61-C,STS-61-C,STS-61-C,146.0,868.13,0.0,0.0
+132,66,"Gibson, Robert L.",male,1946,U.S.,True,NASA Astronaut Group 8,1978,5,commander,1988,STS-27,STS-27,STS-27,STS-27,105.0,868.13,0.0,0.0
+132,66,"Gibson, Robert L.",male,1946,U.S.,True,NASA Astronaut Group 8,1978,5,commander,1992,STS-47,STS-47,STS-47,STS-47,190.5,868.13,0.0,0.0
+132,66,"Gibson, Robert L.",male,1946,U.S.,True,NASA Astronaut Group 8,1978,5,commander,1995,STS-71,STS-71,STS-71,STS-71,235.38,868.13,0.0,0.0
+133,67,"McNair, Ronald E.",male,1950,U.S.,False,NASA- 8,1978,2,MSP,1984,STS-41-B,STS-41-B,STS-41-B,STS-41-B,191.0,191.0,12.02,12.02
+133,67,"McNair, Ronald E.",male,1950,U.S.,False,NASA- 8,1978,2,MSP,1986,STS-51-L,STS-51-L,explosion,explosion,0.0,191.0,0.0,12.02
+134,68,"Stewart, Robert L.",male,1942,U.S.,True,1978 NASA group,1978,2,MSP,1984,STS-41 B,STS-41 B,STS-41 B,STS-41 B,191.5,289.2,11.95,11.95
+134,68,"Stewart, Robert L.",male,1942,U.S.,True,1978 NASA group,1978,2,MSP,1985,STS-51 J,STS-51 J,STS-51 J,STS-51 J,97.7,289.2,0.0,11.95
+135,69,"McCandless, Bruce, II",male,1937,U.S.,True,NASA- 5,1966,2,MSP,1984,STS-41-B,STS-41-B,STS-41-B,STS-41-B,191.0,312.0,11.95,11.95
+135,69,"McCandless, Bruce, II",male,1937,U.S.,True,NASA- 5,1966,2,MSP,1990,STS-31,STS-31,STS-31,STS-31,121.0,312.0,0.0,11.95
+136,56,"Solovyov, Vladimir",male,1946,U.S.S.R/Russia,False,NPOE-4,1978,2,flight engineer,1984,Salyut 7,Soyuz T10,Salyut 7,Soyuz T11,5686.0,8686.82,22.83,31.67
+136,56,"Solovyov, Vladimir",male,1946,U.S.S.R/Russia,False,NPOE-4,1978,2,flight engineer,1986,1,Soyuz T15,Mir/Salyut 7,Soyuz T15,3000.0,8686.82,8.83,31.67
+137,57,"Atkov, Oleg",male,1949,U.S.S.R/Russia,False,AMN,1983,1,MSP,1984,Salyut 7,Soyuz T-10,Salyut 7,Soyuz T-11,5686.0,5686.82,0.0,0.0
+138,1,Rakesh Sharma,male,1949,India,True,1982 Soviet Intercosmos Space Program,1982,1,pilot,1984,Salyut 7,Soyuz T-10,Salyut 7,Soyuz T-11,4365.8,4365.8,0.0,0.0
+139,70,"Scobee, Francis R.",male,1939,U.S.,True,1978 NASA group 8,1978,2,pilot,1984,STS-41-C,STS-41-C,STS-41-C,STS-41-C,168.0,168.0,0.0,0.0
+139,70,"Scobee, Francis R.",male,1939,U.S.,True,1978 NASA group 8,1978,2,commander,1986,STS-51-L,STS-51-L,explosion,explosion,0.0,168.0,0.0,0.0
+140,71,"Hart, Terry J.",male,1946,U.S.,False,NASA Astronaut Group 8,1978,1,MSP,1984,STS-41-C,STS-41-C,STS-41-C,STS-41-C,167.67,167.67,0.0,0.0
+141,72,"Van Hoften, James D. A.",male,1944,U.S.,False,1978 NASA group,1978,2,MSP,1984,STS-41 C,STS-41 C,STS-41 C,STS-41 C,167.0,337.95,10.13,21.89
+141,72,"Van Hoften, James D. A.",male,1944,U.S.,False,1978 NASA group,1978,2,MSP,1985,STS-51I,STS-51I,STS-51I,STS-51I,171.0,337.95,11.76,21.89
+142,73,"Nelson, George D.",male,1950,U.S.,False,NASA-8,1978,3,MSP,1984,STS-41C,STS-41C,STS-41C,STS-41C,168.0,411.0,10.1,10.1
+142,73,"Nelson, George D.",male,1950,U.S.,False,NASA-8,1978,3,MSP,1986,STS-61C,STS-61C,STS-61C,STS-61C,146.0,411.0,0.0,10.1
+142,73,"Nelson, George D.",male,1950,U.S.,False,NASA-8,1978,3,MSP,1988,STS-26,STS-26,STS-26,STS-26,97.0,411.0,0.0,10.1
+143,58,"Volk, Igor",male,1937,U.S.S.R/Russia,True,LII-1,1977,1,MSP,1984,Salyut 7,Soyuz T12,Salyut 7,Soyuz T12,283.0,283.23,0.0,0.0
+144,74,"Coats, Michael L.",male,1952,U.S.,True,NASA- 8,1978,3,pilot,1984,STS-41-D,STS-41-D,STS-41-D,STS-41-D,145.0,464.0,0.0,0.0
+144,74,"Coats, Michael L.",male,1952,U.S.,True,NASA- 8,1978,3,commander,1989,STS-29,STS-29,STS-29,STS-29,120.0,464.0,0.0,0.0
+144,74,"Coats, Michael L.",male,1952,U.S.,True,NASA- 8,1978,3,commander,1991,STS-39,STS-39,STS-39,STS-39,199.0,464.0,0.0,0.0
+145,75,"Mullane, Richard M.",male,1945,U.S.,True,NASA-8,1978,3,MSP,1984,STS-41D,STS-41D,STS-41D,STS-41D,145.0,356.0,0.0,0.0
+145,75,"Mullane, Richard M.",male,1945,U.S.,True,NASA-8,1978,3,MSP,1988,STS-27,STS-27,STS-27,STS-27,105.0,356.0,0.0,0.0
+145,75,"Mullane, Richard M.",male,1945,U.S.,True,NASA-8,1978,3,MSP,1990,STS-36,STS-36,STS-36,STS-36,106.0,356.0,0.0,0.0
+146,76,"Hawley, Steven A.",male,1951,U.S.,False,NASA Astronaut Group 8,1978,5,MSP,1984,STS-41-D,STS-41-D,STS-41-D,STS-41-D,144.0,768.0,0.0,0.0
+146,76,"Hawley, Steven A.",male,1951,U.S.,False,NASA Astronaut Group 8,1978,5,MSP,1986,STS-61-C,STS-61-C,STS-61-C,STS-61-C,146.0,768.0,0.0,0.0
+146,76,"Hawley, Steven A.",male,1951,U.S.,False,NASA Astronaut Group 8,1978,5,MSP,1990,STS-31,STS-31,STS-31,STS-31,121.0,768.0,0.0,0.0
+146,76,"Hawley, Steven A.",male,1951,U.S.,False,NASA Astronaut Group 8,1978,5,MSP,1997,STS-82,STS-82,STS-82,STS-82,239.0,768.0,0.0,0.0
+146,76,"Hawley, Steven A.",male,1951,U.S.,False,NASA Astronaut Group 8,1978,5,MSP,1999,STS-93,STS-93,STS-93,STS-93,118.0,768.0,0.0,0.0
+147,77,"Resnik, Judith A.",female,1949,U.S.,False,NASA-8,1978,2,MSP,1984,STS-41-D,STS-41-D,STS-41-D,STS-41-D,144.0,144.0,0.0,0.0
+147,77,"Resnik, Judith A.",female,1949,U.S.,False,NASA-9,1978,2,MSP,1985,STS-51-L,STS-51-L,explosion,explosion,0.0,144.0,0.0,0.0
+148,78,"Walker, Charles David",male,1948,U.S.,False,PS,1983,3,PSP,1984,STS-41D,STS-41D,STS-41D,STS-41D,144.98,478.29,0.0,0.0
+148,78,"Walker, Charles David",male,1948,U.S.,False,PS,1983,3,PSP,1985,STS-51D,STS-51D,STS-51D,STS-51D,168.15,478.29,0.0,0.0
+148,78,"Walker, Charles David",male,1948,U.S.,False,PS,1983,3,PSP,1985,STS-61B,STS-61B,STS-61B,STS-61B,165.16,478.29,0.0,0.0
+149,79,"McBride, Jon A.",male,1943,U.S.,True,NASA- 8,1978,1,pilot,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.0,197.0,0.0,0.0
+150,80,"Sullivan, Kathryn D.",female,1951,U.S.,False,1978 NASA group,1978,3,MSP,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.5,532.0,3.45,3.45
+150,80,"Sullivan, Kathryn D.",female,1951,U.S.,False,1978 NASA group,1978,3,MSP,1990,STS-31,STS-31,STS-31,STS-31,121.0,532.0,0.0,3.45
+150,80,"Sullivan, Kathryn D.",female,1951,U.S.,False,1978 NASA group,1978,3,MSP,1992,STS-45,STS-45,STS-45,STS-45,213.5,532.0,0.0,3.45
+151,81,"Leestma, David C.",male,1949,U.S.,True,NASA- 9,1980,3,MSP,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.0,532.0,1.0,3.5
+151,81,"Leestma, David C.",male,1949,U.S.,True,NASA- 9,1980,3,MSP,1989,STS-28,STS-28,STS-28,STS-28,121.0,532.0,0.0,3.5
+151,81,"Leestma, David C.",male,1949,U.S.,True,NASA- 9,1980,3,MSP,1992,STS-45,STS-45,STS-45,STS-45,214.0,532.0,0.0,3.5
+152,82,"Scully-Power, Paul Desmond",male,1944,U.S.,False,PS,1984,1,PSP,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.67,197.67,0.0,0.0
+153,1,"Garneau, Marc Joseph Jean-Pierre",male,1949,Canada,True,1983 NRC Group,1983,3,PSP,1984,STS-41-G,STS-41-G,STS-41-G,STS-41-G,197.0,697.67,0.0,0.0
+153,1,"Garneau, Marc Joseph Jean-Pierre",male,1949,Canada,True,1983 NRC Group,1983,3,MSP,1996,STS-77,STS-77,STS-77,STS-77,240.67,697.67,0.0,0.0
+153,1,"Garneau, Marc Joseph Jean-Pierre",male,1949,Canada,True,1983 NRC Group,1983,3,MSP,2000,STS-97,STS-97,STS-97,STS-97,260.0,697.67,0.0,0.0
+154,83,"Walker, David Mathieson",male,1944,U.S.,True,1978 NASA group 8,1978,4,pilot,1984,STS-51-A,STS-51-A,STS-51-A,STS-51-A,191.0,724.45,0.0,0.0
+154,83,"Walker, David Mathieson",male,1944,U.S.,True,1978 NASA group 8,1978,4,commander,1989,STS-30,STS-30,STS-30,STS-30,96.0,724.45,0.0,0.0
+154,83,"Walker, David Mathieson",male,1944,U.S.,True,1978 NASA group 8,1978,4,commander,1992,STS-53,STS-53,STS-53,STS-53,175.0,724.45,0.0,0.0
+154,83,"Walker, David Mathieson",male,1944,U.S.,True,1978 NASA group 8,1978,4,commander,1995,STS-69,STS-69,STS-69,STS-69,44.0,724.45,0.0,0.0
+155,84,"Fisher, Anna L.",female,1949,U.S.,False,NASA- 8,1978,1,MSP,1984,STS-51-A,STS-51-A,STS-51-A,STS-51-A,191.0,191.0,0.0,0.0
+156,85,"Shriver, Loren J.",male,1944,U.S.,True,1978 NASA group,1978,3,pilot,1985,STS-51-C,STS-51-C,STS-51-C,STS-51-C,73.5,386.0,0.0,0.0
+156,85,"Shriver, Loren J.",male,1944,U.S.,True,1978 NASA group,1978,3,commander,1990,STS-31,STS-31,STS-31,STS-31,121.0,386.0,0.0,0.0
+156,85,"Shriver, Loren J.",male,1944,U.S.,True,1978 NASA group,1978,3,commander,1992,STS-46,STS-46,STS-46,STS-46,191.0,386.0,0.0,0.0
+157,86,"Onizuka, Ellison S.",male,1946,U.S.,True,NASA-8,1978,2,MSP,1985,STS 51-C,STS 51-C,STS 51-C,STS 51-C,74.0,74.0,0.0,0.0
+157,86,"Onizuka, Ellison S.",male,1946,U.S.,True,NASA-8,1978,2,MSP,1986,STS 51-L,STS 51-L,explosion,explosion,0.0,74.0,0.0,0.0
+158,87,"Buchli, James F.",male,1945,U.S.,True,NASA- 8,1978,4,MSP,1985,STS-51-C,STS-51-C,STS-51-C,STS-51-C,73.5,490.0,0.0,0.0
+158,87,"Buchli, James F.",male,1945,U.S.,True,NASA- 8,1978,4,MSP,1985,STS-61-A,STS-61-A,STS-61-A,STS-61-A,168.0,490.0,0.0,0.0
+158,87,"Buchli, James F.",male,1945,U.S.,True,NASA- 8,1978,4,MSP,1989,STS-29,STS-29,STS-29,STS-29,120.0,490.0,0.0,0.0
+158,87,"Buchli, James F.",male,1945,U.S.,True,NASA- 8,1978,4,MSP,1991,STS-48,STS-48,STS-48,STS-48,128.5,490.0,0.0,0.0
+159,88,"Payton, Gary Eugene",male,1948,U.S.,True,1979 USAF group,1979,1,PSP,1985,STS-51C,STS-51C,STS-51C,STS-51C,73.675,73.675,0.0,0.0
+160,89,"Williams, Donald E.",male,1942,U.S.,True,1981 NASA group 8,1978,2,pilot,1985,STS-51-D,STS-51-D,STS-51-D,STS-51-D,167.0,286.0,0.0,0.0
+160,89,"Williams, Donald E.",male,1942,U.S.,True,1981 NASA group 8,1978,2,commander,1989,STS-34,STS-34,STS-34,STS-34,119.0,286.0,0.0,0.0
+161,90,"Seddon, Margaret Rhea",female,1947,U.S.,False,NASA-8,1978,3,MSP,1985,STS-51-D,STS-51-D,STS-51-D,STS-51-D,168.0,722.0,0.0,0.0
+161,90,"Seddon, Margaret Rhea",female,1947,U.S.,False,NASA-8,1978,3,MSP,1991,STS-40,STS-40,STS-40,STS-40,218.0,722.0,0.0,0.0
+161,90,"Seddon, Margaret Rhea",female,1947,U.S.,False,NASA-8,1978,3,MSP,1993,STS-58,STS-58,STS-58,STS-58,336.0,722.0,0.0,0.0
+162,91,"Griggs, S. David",male,1947,U.S.,False,NASA Astronaut Group 8,1978,1,MSP,1985,STS-51-D,STS-51-D,STS-51-D,STS-51-D,168.0,168.0,3.17,3.17
+163,92,"Hoffman, Jeffrey A.",male,1944,U.S.,False,NASA- 8,1978,5,MSP,1985,STS-51-D,STS-51-D,STS-51-D,STS-51-D,167.0,1211.9,3.17,25.2
+163,92,"Hoffman, Jeffrey A.",male,1944,U.S.,False,NASA- 8,1978,5,MSP,1990,STS-35,STS-35,STS-35,STS-35,215.0,1211.9,0.0,25.2
+163,92,"Hoffman, Jeffrey A.",male,1944,U.S.,False,NASA- 8,1978,5,MSP,1992,STS-46,STS-46,STS-46,STS-46,191.0,1211.9,0.0,25.2
+163,92,"Hoffman, Jeffrey A.",male,1944,U.S.,False,NASA- 8,1978,5,MSP,1993,STS-61,STS-61,STS-61,STS-61,259.0,1211.9,22.03,25.2
+163,92,"Hoffman, Jeffrey A.",male,1944,U.S.,False,NASA- 8,1978,5,MSP,1996,STS-75,STS-75,STS-75,STS-75,377.0,1211.9,0.0,25.2
+164,93,"Garn, Edwin Jacob",male,1932,U.S.,True,PS,1985,1,PSP,1985,STS-51D,STS-51D,STS-51D,STS-51D,168.15,168.15,0.0,0.0
+165,94,"Gregory, Frederick D.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,pilot,1985,STS-51-B,STS-51-B,STS-51-B,STS-51-B,168.0,455.0,0.0,0.0
+165,94,"Gregory, Frederick D.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,commander,1989,STS-33,STS-33,STS-33,STS-33,120.0,455.0,0.0,0.0
+165,94,"Gregory, Frederick D.",male,1941,U.S.,True,NASA Astronaut Group 8,1978,3,commander,1991,STS-44,STS-44,STS-44,STS-44,166.0,455.0,0.0,0.0
+166,95,"Lind, Don L.",male,1930,U.S.,True,NASA- 5,1966,1,MSP,1985,STS-51-B,STS-51-B,STS-51-B,STS-51-B,168.0,168.0,0.0,0.0
+167,96,"Lodewijk, van der Berg",male,1932,U.S.,False,PS,1983,1,PSP,1985,Spacelab-3,STS-51-B,STS-51-B,STS-51-B,168.525,168.525,0.0,0.0
+168,97,"Wang, Taylor Gun-Jin",male,1940,U.S.,False,Spacelab-3 mission payload specialist,1984,1,PSP,1985,spacelab-3,STS-51B,STS-51B,STS-51B,168.525,168.525,0.0,0.0
+169,98,"Creighton, John O.",male,1943,U.S.,True,NASA- 8,1978,3,pilot,1985,STS-51-G,STS-51-G,STS-51-G,STS-51-G,170.0,404.0,0.0,0.0
+169,98,"Creighton, John O.",male,1943,U.S.,True,NASA- 8,1978,3,commander,1990,STS-36,STS-36,STS-36,STS-36,106.0,404.0,0.0,0.0
+169,98,"Creighton, John O.",male,1943,U.S.,True,NASA- 8,1978,3,commander,1991,STS-48,STS-48,STS-48,STS-48,128.0,404.0,0.0,0.0
+170,99,"Nagel, Steven R.",male,1946,U.S.,True,NASA-8,1978,4,MSP,1985,STS-51G,STS-51G,STS-51G,STS-51G,170.0,522.0,0.0,0.0
+170,99,"Nagel, Steven R.",male,1946,U.S.,True,NASA-8,1978,4,pilot,1985,STS-61A,STS-61A,STS-61A,STS-61A,169.0,522.0,0.0,0.0
+170,99,"Nagel, Steven R.",male,1946,U.S.,True,NASA-8,1978,4,commander,1991,STS-37,STS-37,STS-37,STS-37,143.0,522.0,0.0,0.0
+170,99,"Nagel, Steven R.",male,1946,U.S.,True,NASA-8,1978,4,commander,1993,STS-55,STS-55,STS-55,STS-55,240.0,522.0,0.0,0.0
+171,100,"Lucid, Shannon W.",female,1943,U.S.,False,NASA- 8,1978,5,MSP,1985,STS-51-G,STS-51-G,STS-51-G,STS-51-G,169.0,5353.0,0.0,0.0
+171,100,"Lucid, Shannon W.",female,1943,U.S.,False,NASA- 8,1978,5,MSP,1989,STS-34,STS-34,STS-34,STS-34,119.0,5353.0,0.0,0.0
+171,100,"Lucid, Shannon W.",female,1943,U.S.,False,NASA- 8,1978,5,MSP,1991,STS-43,STS-43,STS-43,STS-43,213.0,5353.0,0.0,0.0
+171,100,"Lucid, Shannon W.",female,1943,U.S.,False,NASA- 8,1978,5,MSP,1993,STS-58,STS-58,STS-58,STS-58,336.0,5353.0,0.0,0.0
+171,100,"Lucid, Shannon W.",female,1943,U.S.,False,NASA- 8,1978,5,MSP,1996,22,STS-79,Mir,STS-76,4516.0,5353.0,0.0,0.0
+172,2,"Baudry, Patrick",male,1946,France,True,CNES-1,1980,1,PSP,1985,STS-51G,STS-51G,STS-51G,STS-51G,169.63,169.63,0.0,0.0
+173,1,"Al-saud, Sultan bin Salman",male,1956,Saudi Arabia,False,Saudi-Arabia,1985,1,PSP,1985,STS-51G,STS-51G,STS-51G,STS-51G,170.0,170.0,0.0,0.0
+174,101,"Bridges, Roy D., Jr.",male,1943,U.S.,True,NASA- 9,1980,1,pilot,1985,STS-51-F,STS-51-F,STS-51-F,STS-51-F,190.0,190.0,0.0,0.0
+175,102,"Henize, Karl G.",male,1926,U.S.,False,NASA- 6,1967,1,MSP,1985,STS-51-F,STS-51-F,STS-51-F,STS-51-F,190.0,190.75,0.0,0.0
+176,103,"England, Anthony W.",male,1942,U.S.,False,NASA- 6,1967,1,MSP,1985,STS-51-F,STS-51-F,STS-51-F,STS-51-F,190.0,190.0,0.0,0.0
+177,104,"Acton, Loren Wilbur",male,1936,U.S.,False,PS for Spacelab-2,1978,1,PSP,1978,Spacelab-2,STS-51-F,STS-51-F,STS-51-F,190.94,190.94,0.0,0.0
+178,105,"Bartoe, John-David Francis",male,1944,U.S.,False,PS for Spacelab-2,1978,1,PSP,1978,STS-51-F,STS-51-F,STS-51-F,STS-51-F,190.94,190.94,0.0,0.0
+179,106,"Covey, Richard O.",male,1946,U.S.,True,NASA- 8,1978,4,pilot,1985,STS-51-I,STS-51-I,STS-51-I,STS-51-I,170.0,645.0,0.0,0.0
+179,106,"Covey, Richard O.",male,1946,U.S.,True,NASA- 8,1978,4,pilot,1988,STS-26,STS-26,STS-26,STS-26,97.0,645.0,0.0,0.0
+179,106,"Covey, Richard O.",male,1946,U.S.,True,NASA- 8,1978,4,commander,1990,STS-38,STS-38,STS-38,STS-38,118.0,645.0,0.0,0.0
+179,106,"Covey, Richard O.",male,1946,U.S.,True,NASA- 8,1978,4,commander,1993,STS-61,STS-61,STS-61,STS-61,260.0,645.0,0.0,0.0
+180,107,"Lounge, John M.",male,1946,U.S.,False,NASA- 9,1980,3,MSP,1985,STS-51-I,STS-51-I,STS-51-I,STS-51-I,170.0,482.0,0.0,0.0
+180,107,"Lounge, John M.",male,1946,U.S.,False,NASA- 9,1980,3,MSP,1988,STS-26,STS-26,STS-26,STS-26,97.0,482.0,0.0,0.0
+180,107,"Lounge, John M.",male,1946,U.S.,False,NASA- 9,1980,3,MSP,1990,STS-35,STS-35,STS-35,STS-35,215.0,482.0,0.0,0.0
+181,108,"Fisher, William F.",male,1946,U.S.,False,NASA- 9,1980,1,MSP,1985,STS-51-I,STS-51-I,STS-51-I,STS-51-I,170.0,170.0,11.76,11.76
+182,59,"Vasyutin, Vladimir",male,1952,U.S.S.R/Russia,True,TsPK-6,1976,1,commander,1985,Salyut 7,Soyuz T14,Salyut 7,Soyuz T14,1557.0,1557.87,0.0,0.0
+183,60,"Volkov, Alexander",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,3,MSP,1985,Salyut 7,Soyuz T14,Salyut 7,Soyuz T14,1557.0,9395.87,0.0,10.2
+183,60,"Volkov, Alexander",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,3,MSP,1989,4,Soyuz TM7,Mir,Soyuz TM7,3635.0,9395.87,6.0,10.2
+183,60,"Volkov, Alexander",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,3,MSP,1992,10,Soyuz TM13,Mir,Soyuz TM13,4202.0,9395.87,4.2,10.2
+184,109,"Grabe, Ronald J.",male,1945,U.S.,True,NASA Astronaut Group 9,1980,4,pilot,1985,STS-51-J,STS-51-J,STS-51-J,STS-51-J,97.73,626.73,0.0,0.0
+184,109,"Grabe, Ronald J.",male,1945,U.S.,True,NASA Astronaut Group 10,1980,4,pilot,1989,STS-30,STS-30,STS-30,STS-30,97.0,626.73,0.0,0.0
+184,109,"Grabe, Ronald J.",male,1945,U.S.,True,NASA Astronaut Group 11,1980,4,commander,1992,STS-42,STS-42,STS-42,STS-42,193.0,626.73,0.0,0.0
+184,109,"Grabe, Ronald J.",male,1945,U.S.,True,NASA Astronaut Group 12,1980,4,commander,1993,STS-57,STS-57,STS-57,STS-57,239.0,626.73,0.0,0.0
+185,110,"Hilmers, David C.",male,1950,U.S.,True,NASA- 9,1980,4,MSP,1985,STS-51-J,STS-51-J,STS-51-J,STS-51-J,97.0,493.0,0.0,0.0
+185,110,"Hilmers, David C.",male,1950,U.S.,True,NASA- 10,1980,4,MSP,1988,STS-26,STS-26,STS-26,STS-26,97.0,493.0,0.0,0.0
+185,110,"Hilmers, David C.",male,1950,U.S.,True,NASA- 11,1980,4,MSP,1990,STS-36,STS-36,STS-36,STS-36,106.0,493.0,0.0,0.0
+185,110,"Hilmers, David C.",male,1950,U.S.,True,NASA- 12,1980,4,MSP,1992,STS-42,STS-42,STS-42,STS-42,193.0,493.0,0.0,0.0
+186,111,"Pailes, William Arthur",male,1936,U.S.,True,USAF group,1982,1,PSP,1985,STS-51-J,STS-51-J,STS-51-J,STS-51-J,98.11,98.11,0.0,0.0
+187,112,"Dunbar, Bonnie J.",female,1949,U.S.,False,NASA- 9,1980,5,MSP,1985,STS-61-A,STS-61-A,STS-61-A,STS-61-A,168.0,1208.0,0.0,0.0
+187,112,"Dunbar, Bonnie J.",female,1949,U.S.,False,NASA- 9,1980,5,MSP,1990,STS-32,STS-32,STS-32,STS-32,261.0,1208.0,0.0,0.0
+187,112,"Dunbar, Bonnie J.",female,1949,U.S.,False,NASA- 9,1980,5,MSP,1992,STS-50,STS-50,STS-50,STS-50,331.0,1208.0,0.0,0.0
+187,112,"Dunbar, Bonnie J.",female,1949,U.S.,False,NASA- 9,1980,5,MSP,1995,STS-71,STS-71,STS-71,STS-71,235.0,1208.0,0.0,0.0
+187,112,"Dunbar, Bonnie J.",female,1949,U.S.,False,NASA- 9,1980,5,MSP,1998,STS-89,STS-89,STS-89,STS-89,211.0,1208.0,0.0,0.0
+188,2,"Furrer, Reinhard Alfred",male,1940,Germany,False,DLR-1,1982,1,PSP,1985,STS-61A,STS-61A,STS-61A,STS-61A,168.73,168.73,0.0,0.0
+189,3,"Messerschmid, Ernst Willi",male,1945,Germany,True,DLR-1,1982,1,PSP,1985,STS-61A,STS-61A,STS-61A,STS-61A,168.73,168.73,0.0,0.0
+190,1,"Ockels, Wubbo Johannes",male,1946,Netherland,False,1978 ESA Group,1978,1,PSP,1985,STS-61-A,STS-61-A,STS-61-A,STS-61-A,168.73,168.73,0.0,0.0
+191,113,"O'Connor, Bryan D.",male,1946,U.S.,True,NASA-9,1980,2,pilot,1985,STS-61B Atlantis,STS-61B Atlantis,STS-61B Atlantis,STS-61B Atlantis,165.0,386.0,0.0,0.0
+191,113,"O'Connor, Bryan D.",male,1946,U.S.,True,NASA-9,1980,2,commander,1991,STS-40 Columbia,STS-40 Columbia,STS-40 Columbia,STS-40 Columbia,218.0,386.0,0.0,0.0
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1985,STS-61,STS-61,STS-61,STS-61,165.0,1393.0,12.2,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1988,STS-27,STS-27,STS-27,STS-27,105.0,1393.0,0.0,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1991,STS-37,STS-37,STS-37,STS-37,143.0,1393.0,10.58,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1993,STS-55,STS-55,STS-55,STS-55,239.0,1393.0,0.0,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1995,STS-74,STS-74,STS-74,STS-74,129.0,1393.0,7.25,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,1998,STS-88,STS-88,STS-88,STS-88,283.0,1393.0,14.38,58.53
+192,114,"Ross, Jerry L.",male,1948,U.S.,True,NASA-9,1980,7,MSP,2002,STS-110,STS-110,STS-110,STS-110,259.0,1393.0,14.12,58.53
+193,115,"Cleave, Mary L.",female,1947,U.S.,False,NASA- 9,1980,2,MSP,1985,STS-30,STS-30,STS-30,STS-30,97.0,262.0,0.0,0.0
+193,115,"Cleave, Mary L.",female,1947,U.S.,False,NASA- 9,1980,2,MSP,1989,STS-61-B,STS-61-B,STS-61-B,STS-61-B,165.0,262.0,0.0,0.0
+194,116,"Spring, Sherwood C.",male,1944,U.S.,True,1980 NASA group,1980,1,MSP,1985,STS-61-B,STS-61-B,STS-61-B,STS-61-B,165.0,165.0,12.17,12.17
+195,1,"Neri Vela, Rodolfl",male,1952,Mexico,False,1985 NASA Group,1985,1,PSP,1985,STS-61-B,STS-61-B,STS-61-B,STS-61-B,165.07,165.67,0.0,0.0
+196,117,"Bolden, Charles F., Jr.",male,1946,U.S.,True,NASA- 9,1980,4,pilot,1986,STS-61-C,STS-61-C,STS-61-C,STS-61-C,74.0,680.0,0.0,0.0
+196,117,"Bolden, Charles F., Jr.",male,1946,U.S.,True,NASA- 9,1980,4,pilot,1990,STS-31,STS-31,STS-31,STS-31,121.0,680.0,0.0,0.0
+196,117,"Bolden, Charles F., Jr.",male,1946,U.S.,True,NASA- 9,1980,4,commander,1992,STS-45,STS-45,STS-45,STS-45,214.0,680.0,0.0,0.0
+196,117,"Bolden, Charles F., Jr.",male,1946,U.S.,True,NASA- 9,1980,4,commander,1994,STS-60,STS-60,STS-60,STS-60,199.0,680.0,0.0,0.0
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1986,STS-61-C,STS-61-C,STS-61-C,STS-61-C,146.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1989,STS-34,STS-34,STS-34,STS-34,120.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1992,STS-46,STS-46,STS-46,STS-46,191.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1994,STS-60,STS-60,STS-60,STS-60,199.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1996,STS-75,STS-75,STS-75,STS-75,377.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,1998,STS-91,STS-91,STS-91,STS-91,236.0,1601.0,0.0,19.52
+197,118,"Chang-Diaz, Franklin R.",male,1950,U.S.,False,NASA- 9,1980,7,MSP,2002,STS-111,STS-111,STS-111,STS-111,333.0,1601.0,19.52,19.52
+198,119,"Cenker, Robert Joseph",male,1948,U.S.,False,PS by RCA,1985,1,PSP,1986,STS-61C,STS-61C,STS-61C,STS-61C,146.42,146.42,0.0,0.0
+199,120,"Nelson, William Clarence",male,1942,U.S.,False,Congress Observer,1984,1,PSP,1986,STS-61C,STS-61C,STS-61C,STS-61C,6.03,6.03,0.0,0.0
+200,121,"Smith, Michael John",male,1945,U.S.,True,1980 NASA group 9,1980,1,pilot,1986,STS-51L,STS-51L,explosion,explosion,0.61,0.61,0.0,0.0
+201,122,"Jarvis, Gregory Bruce",male,1944,U.S.,False,PS by SAL,1984,1,PSP,1986,STS-51L,STS-51L,explosion,explosion,0.61,0.61,0.0,0.0
+202,123,"McAuliffe, Sharon Christa Corrigan",female,1948,U.S.,False,1985 Teacher in Space,1985,1,PSP,1986,STS-51L,STS-51L,explosion,explosion,0.61,0.61,0.0,0.0
+203,61,"Laveykin, Aleksandr",male,1951,U.S.S.R/Russia,False,NPOE-4,1978,1,flight engineer,1987,2,Soyuz TM2,Mir,Soyuz TM2,4179.0,4179.42,8.8,8.8
+204,62,"Viktorenko, Aleksandr",male,1947,U.S.S.R/Russia,True,TsPK-7,1978,4,commander,1987,1,Soyuz TM3,Mir EP,Soyuz TM2,191.0,11737.55,0.0,19.65
+204,62,"Viktorenko, Aleksandr",male,1947,U.S.S.R/Russia,True,TsPK-7,1978,4,commander,1990,5,Soyuz TM8,Mir,Soyuz TM8,3990.0,11737.55,17.6,19.65
+204,62,"Viktorenko, Aleksandr",male,1947,U.S.S.R/Russia,True,TsPK-7,1978,4,commander,1992,11,Soyuz TM14,Mir,Soyuz TM14,3494.0,11737.55,2.05,19.65
+204,62,"Viktorenko, Aleksandr",male,1947,U.S.S.R/Russia,True,TsPK-7,1978,4,commander,1994,17,Soyuz TM20,Mir,Soyuz TM20,4061.0,11737.55,0.0,19.65
+205,1,"Faris, M. Achmed",male,1951,Syria,True,Syria,1985,1,MSP,1987,1,Soyuz TM-3,Mir EP,Soyuz TM-2,191.0,191.0,0.0,0.0
+206,63,"Manarov, Musa",male,1951,U.S.S.R/Russia,True,NPOE-4,1978,2,flight engineer,1987,3,Soyuz TM4,Mir,Soyuz TM6,8782.0,12984.47,13.78,34.38
+206,63,"Manarov, Musa",male,1951,U.S.S.R/Russia,True,NPOE-4,1978,2,flight engineer,1990,8,Soyuz TM11,Mir,Soyuz TM11,4201.0,12984.47,20.75,34.38
+207,64,"Levchenko, Anatoli",male,1941,U.S.S.R/Russia,True,LII-1,1977,1,MSP,1987,Soyuz TM4/3,Soyuz TM4,Soyuz TM4,Soyuz TM3,189.0,189.97,0.0,0.0
+208,65,"Solovyev, Anatoly",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,5,commander,1988,2,Soyuz TM5,Mir EP,Soyuz TM4,236.0,15624.03,0.0,78.8
+208,65,"Solovyev, Anatoly",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,5,commander,1990,6,Soyuz TM9,Mir,Soyuz TM9,4297.0,15624.03,10.78,78.8
+208,65,"Solovyev, Anatoly",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,5,commander,1993,12,Soyuz TM15,Mir,Soyuz TM15,4533.0,15624.03,18.35,78.8
+208,65,"Solovyev, Anatoly",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,5,commander,1995,19,STS71,Mir,Soyuz TM21,1811.0,15624.03,14.53,78.8
+208,65,"Solovyev, Anatoly",male,1948,U.S.S.R/Russia,True,TsPK-6,1976,5,commander,1997,24,Soyuz TM26,Mir,Soyuz TM26,4745.0,15624.03,89.13,78.8
+209,2,"Aleksandrov, Aleksandr",male,1951,Bulgaria,True,1978 Intercosmos Group,1978,1,pilot,1988,2,Soyuz TM-5,Mir EP,Soyuz TM-4,47.0,47.0,0.0,0.0
+210,66,"Polyakov, Valeri",male,1942,U.S.S.R/Russia,False,IMBP-1,1972,2,flight engineer,1988,3,Soyuz TM6,Mir,Soyuz TM7,5782.0,16288.53,0.0,0.0
+210,66,"Polyakov, Valeri",male,1942,U.S.S.R/Russia,False,IMBP-1,1972,2,MSP,1994,15,Soyuz TM18,Mir,Soyuz TM20,10505.0,16288.53,0.0,0.0
+211,1,"Mohmand, Abdul Ahad",male,1959,Afghanistan,True,Afghanistan,1988,1,MSP,1988,3,Soyuz TM-6,Mir EP,Soyuz TM-5,212.0,212.0,0.0,0.0
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,flight engineer,1988,4,Soyuz TM7,Mir,Soyuz TM7,3635.0,19281.65,0.0,41.43
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,flight engineer,1991,9,Soyuz TM12,Mir,Soyuz TM13,7484.0,19281.65,34.48,41.43
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,flight engineer,1994,STS60,STS60,STS60,STS60,199.0,19281.65,0.0,41.43
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,flight engineer,1998,STS88,STS88,STS88,STS88,283.0,19281.65,0.0,41.43
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,flight engineer,2000,1,Soyuz TM31,ISS,STS102,3383.0,19281.65,0.0,41.43
+212,67,"Krikalev, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-7,1985,6,commander,2005,11,Soyuz TMA6,ISS,Soyuz TMA6,4296.0,19281.65,4.95,41.43
+213,124,"Gardner, Guy S.",male,1948,U.S.,True,NASA Astronaut Group 9,1980,2,pilot,1988,STS-27,STS-27,STS-27,STS-27,105.0,320.16,0.0,0.0
+213,124,"Gardner, Guy S.",male,1948,U.S.,True,NASA Astronaut Group 9,1980,2,pilot,1990,STS-35,STS-35,STS-35,STS-35,215.0,320.16,0.0,0.0
+214,125,"Shepherd, William M.",male,1949,U.S.,True,1984 NASA group 10,1984,4,MSP,1988,STS-27,STS-27,STS-27,STS-27,105.0,3721.0,0.0,0.0
+214,125,"Shepherd, William M.",male,1949,U.S.,True,1984 NASA group 10,1984,4,MSP,1990,STS-41,STS-41,STS-41,STS-41,98.0,3721.0,0.0,0.0
+214,125,"Shepherd, William M.",male,1949,U.S.,True,1984 NASA group 10,1984,4,MSP,1992,STS-52,STS-52,STS-52,STS-52,237.0,3721.0,0.0,0.0
+214,125,"Shepherd, William M.",male,1949,U.S.,True,1984 NASA group 10,1984,4,flight engineer,2000,1,soyuz TM-31,ISS,STS-102,3281.0,3721.0,0.0,0.0
+215,126,"Blaha, John E.",male,1942,U.S.,True,NASA- 9,1980,5,pilot,1989,STS-29,STS-29,STS-29,STS-29,120.0,3864.0,0.0,0.0
+215,126,"Blaha, John E.",male,1942,U.S.,True,NASA- 9,1980,5,pilot,1989,STS-33,STS-33,STS-33,STS-33,120.0,3864.0,0.0,0.0
+215,126,"Blaha, John E.",male,1942,U.S.,True,NASA- 9,1980,5,commander,1991,STS-43,STS-43,STS-43,STS-43,213.0,3864.0,0.0,0.0
+215,126,"Blaha, John E.",male,1942,U.S.,True,NASA- 9,1980,5,commander,1993,STS-58,STS-58,STS-58,STS-58,336.0,3864.0,0.0,0.0
+215,126,"Blaha, John E.",male,1942,U.S.,True,NASA- 9,1980,5,MSP,1996,22,STS-79,Mir,STS-81,3077.0,3864.0,0.0,0.0
+216,127,"Springer, Robert C.",male,1942,U.S.,True,1980 NASA group,1980,2,MSP,1989,STS-29,STS-29,STS-29,STS-29,119.0,237.0,0.0,0.0
+216,127,"Springer, Robert C.",male,1942,U.S.,True,1980 NASA group,1980,2,MSP,1990,STS-38,STS-38,STS-38,STS-38,118.0,237.0,0.0,0.0
+217,128,"Bagian, James P.",male,1952,U.S.,False,NASA- 9,1980,2,MSP,1989,STS-29,STS-29,STS-29,STS-29,120.0,338.0,0.0,0.0
+217,128,"Bagian, James P.",male,1952,U.S.,False,NASA- 9,1980,2,MSP,1991,STS-40,STS-40,STS-40,STS-40,218.0,338.0,0.0,0.0
+218,129,"Lee, Mark C.",male,1952,U.S.,True,NASA- 10,1984,4,MSP,1989,STS-30,STS-30,STS-30,STS-30,97.0,789.76,0.0,26.02
+218,129,"Lee, Mark C.",male,1952,U.S.,True,NASA- 10,1984,4,MSP,1992,STS-47,STS-47,STS-47,STS-47,190.0,789.76,0.0,26.02
+218,129,"Lee, Mark C.",male,1952,U.S.,True,NASA- 10,1984,4,MSP,1994,STS-64,STS-64,STS-64,STS-64,262.0,789.76,6.85,26.02
+218,129,"Lee, Mark C.",male,1952,U.S.,True,NASA- 10,1984,4,MSP,1997,STS-82,STS-82,STS-82,STS-82,239.0,789.76,19.17,26.02
+219,130,"Richards, Richard N.",male,1946,U.S.,True,NASA-9,1980,4,pilot,1989,STS-28,STS-28,STS-28,STS-28,120.0,813.0,0.0,0.0
+219,130,"Richards, Richard N.",male,1946,U.S.,True,NASA-9,1980,4,commander,1990,STS-41,STS-41,STS-41,STS-41,96.0,813.0,0.0,0.0
+219,130,"Richards, Richard N.",male,1946,U.S.,True,NASA-9,1980,4,commander,1992,STS-50,STS-50,STS-50,STS-50,336.0,813.0,0.0,0.0
+219,130,"Richards, Richard N.",male,1946,U.S.,True,NASA-9,1980,4,commander,1994,STS-64,STS-64,STS-64,STS-64,242.0,813.0,0.0,0.0
+220,131,"Adamson, James C.",male,1946,U.S.,True,NASA- 10,1984,2,MSP,1989,STS-28,STS-28,STS-28,STS-28,121.0,334.0,0.0,0.0
+220,131,"Adamson, James C.",male,1946,U.S.,True,NASA- 10,1984,2,MSP,1991,STS-43,STS-43,STS-43,STS-43,213.0,334.0,0.0,0.0
+221,132,"Brown, Mark N.",male,1951,U.S.,True,NASA- 10,1984,2,MSP,1989,STS-28,STS-28,STS-28,STS-28,121.0,249.0,0.0,0.0
+221,132,"Brown, Mark N.",male,1951,U.S.,True,NASA- 10,1984,2,MSP,1991,STS-48,STS-48,STS-48,STS-48,128.0,249.0,0.0,0.0
+222,133,"McCulley, Michael J.",male,1943,U.S.,True,NASA- 10,1984,1,pilot,1989,STS-34,STS-34,STS-34,STS-34,119.0,119.0,0.0,0.0
+223,134,"Baker, Ellen S.",female,1953,U.S.,False,NASA- 10,1984,3,MSP,1989,STS-34,STS-34,STS-34,STS-34,120.0,686.0,0.0,0.0
+223,134,"Baker, Ellen S.",female,1953,U.S.,False,NASA- 10,1984,3,MSP,1992,STS-50,STS-50,STS-50,STS-50,331.0,686.0,0.0,0.0
+223,134,"Baker, Ellen S.",female,1953,U.S.,False,NASA- 10,1984,3,MSP,1995,STS-71,STS-71,STS-71,STS-71,235.0,686.0,0.0,0.0
+224,135,"Carter, Manley Lanier, Jr.",male,1947,U.S.,True,NASA- 10,1984,1,MSP,1989,STS-33,STS-33,STS-33,STS-33,120.0,120.0,0.0,0.0
+225,136,"Thornton, Kathryn C.",female,1952,U.S.,False,1984 NASA group,1984,4,MSP,1989,STS-33,STS-33,STS-33,STS-33,120.0,975.23,0.0,21.18
+225,136,"Thornton, Kathryn C.",female,1952,U.S.,False,1984 NASA group,1984,4,MSP,1992,STS-49,STS-49,STS-49,STS-49,213.0,975.23,7.75,21.18
+225,136,"Thornton, Kathryn C.",female,1952,U.S.,False,1984 NASA group,1984,4,MSP,1993,STS-61,STS-61,STS-61,STS-61,264.0,975.23,13.43,21.18
+225,136,"Thornton, Kathryn C.",female,1952,U.S.,False,1984 NASA group,1984,4,MSP,1995,STS-73,STS-73,STS-73,STS-73,360.0,975.23,0.0,21.18
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,pilot,1990,STS-32,STS-32,STS-32,STS-32,261.0,1594.38,0.0,0.0
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,commander,1992,STS-52,STS-52,STS-52,STS-52,236.0,1594.38,0.0,0.0
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,commander,1995,STS-63,STS-63,STS-63,STS-63,198.0,1594.38,0.0,0.0
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,commander,1997,STS-86,STS-86,STS-86,STS-86,259.0,1594.38,0.0,0.0
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,commander,2001,STS-102,STS-102,STS-102,STS-102,307.0,1594.38,0.0,0.0
+226,137,"Wetherbee, James D.",male,1952,U.S.,True,1984 NASA group 10,1984,6,commander,2002,STS-113,STS-113,STS-113,STS-113,330.0,1594.38,0.0,0.0
+227,138,"Ivins, Marsha S.",female,1951,U.S.,False,NASA- 10,1984,5,MSP,1990,STS-32,STS-32,STS-32,STS-32,261.0,1341.8,0.0,0.0
+227,138,"Ivins, Marsha S.",female,1951,U.S.,False,NASA- 10,1984,5,MSP,1992,STS-46,STS-46,STS-46,STS-46,191.0,1341.8,0.0,0.0
+227,138,"Ivins, Marsha S.",female,1951,U.S.,False,NASA- 10,1984,5,MSP,1994,STS-62,STS-62,STS-62,STS-62,335.0,1341.8,0.0,0.0
+227,138,"Ivins, Marsha S.",female,1951,U.S.,False,NASA- 10,1984,5,MSP,1997,STS-81,STS-81,STS-81,STS-81,244.0,1341.8,0.0,0.0
+227,138,"Ivins, Marsha S.",female,1951,U.S.,False,NASA- 10,1984,5,MSP,2001,STS-98,STS-98,STS-98,STS-98,309.0,1341.8,0.0,0.0
+228,139,"Low, G. David",male,1956,U.S.,False,NASA- 10,1984,3,MSP,1990,STS-32,STS-32,STS-32,STS-32,261.0,713.0,0.0,5.83
+228,139,"Low, G. David",male,1956,U.S.,False,NASA- 10,1984,3,MSP,1991,STS-43,STS-43,STS-43,STS-43,213.0,713.0,0.0,5.83
+228,139,"Low, G. David",male,1956,U.S.,False,NASA- 10,1984,3,MSP,1993,STS-57,STS-57,STS-57,STS-57,239.0,713.0,5.83,5.83
+229,68,"Balandin, Aleksandr",male,1953,U.S.S.R/Russia,False,NPOE-4,1978,1,flight engineer,1990,6,Soyuz TM9,Mir,Soyuz TM9,4297.0,4297.28,10.78,10.78
+230,140,"Casper, John H.",male,1943,U.S.,True,NASA- 10,1984,4,pilot,1990,STS-36,STS-36,STS-36,STS-36,106.0,825.0,0.0,0.0
+230,140,"Casper, John H.",male,1943,U.S.,True,NASA- 10,1984,4,commander,1993,STS-54,STS-54,STS-54,STS-54,143.0,825.0,0.0,0.0
+230,140,"Casper, John H.",male,1943,U.S.,True,NASA- 10,1984,4,commander,1994,STS-62,STS-62,STS-62,STS-62,335.0,825.0,0.0,0.0
+230,140,"Casper, John H.",male,1943,U.S.,True,NASA- 10,1984,4,commander,1996,STS-77,STS-77,STS-77,STS-77,241.0,825.0,0.0,0.0
+231,141,"Thuot, Pierre J.",male,1955,U.S.,True,1985 NASA group,1985,3,MSP,1990,STS-36,STS-36,STS-36,STS-36,106.0,654.85,0.0,17.7
+231,141,"Thuot, Pierre J.",male,1955,U.S.,True,1985 NASA group,1985,3,MSP,1992,STS-49,STS-49,STS-49,STS-49,213.0,654.85,17.7,17.7
+231,141,"Thuot, Pierre J.",male,1955,U.S.,True,1985 NASA group,1985,3,MSP,1994,STS-62,STS-62,STS-62,STS-62,335.0,654.85,0.0,17.7
+232,69,"Manakov, Gennadi",male,1950,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,2,commander,1990,7,Soyuz TM10,Mir,Soyuz TM10,3140.0,7437.3,2.75,12.72
+232,69,"Manakov, Gennadi",male,1950,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,2,commander,1993,13,Soyuz TM16,Mir,Soyuz TM16,4296.0,7437.3,9.97,12.72
+233,142,"Cabana, Robert D.",male,1949,U.S.,True,NASA- 11,1985,4,pilot,1990,STS-41,STS-41,STS-41,STS-41,98.0,910.0,0.0,0.0
+233,142,"Cabana, Robert D.",male,1949,U.S.,True,NASA- 11,1985,4,pilot,1992,STS-53,STS-53,STS-53,STS-53,175.0,910.0,0.0,0.0
+233,142,"Cabana, Robert D.",male,1949,U.S.,True,NASA- 11,1985,4,commander,1994,STS-65,STS-65,STS-65,STS-65,354.0,910.0,0.0,0.0
+233,142,"Cabana, Robert D.",male,1949,U.S.,True,NASA- 11,1985,4,commander,1998,STS-88,STS-88,STS-88,STS-88,283.0,910.0,0.0,0.0
+234,143,"Melnick, Bruce E.",male,1949,U.S.,True,NASA- 12,1987,2,MSP,1990,STS-41,STS-41,STS-41,STS-41,98.0,311.0,0.0,0.0
+234,143,"Melnick, Bruce E.",male,1949,U.S.,True,NASA- 13,1987,2,MSP,1992,STS-49,STS-49,STS-49,STS-49,213.0,311.0,0.0,0.0
+235,144,"Akers, Thomas D.",male,1951,U.S.,True,NASA- 12,1987,4,MSP,1990,STS-41,STS-41,STS-41,STS-41,98.0,814.0,0.0,30.15
+235,144,"Akers, Thomas D.",male,1951,U.S.,True,NASA- 12,1987,4,MSP,1992,STS-49,STS-49,STS-49,STS-49,213.0,814.0,16.72,30.15
+235,144,"Akers, Thomas D.",male,1951,U.S.,True,NASA- 12,1987,4,MSP,1993,STS-61,STS-61,STS-61,STS-61,260.0,814.0,13.43,30.15
+235,144,"Akers, Thomas D.",male,1951,U.S.,True,NASA- 12,1987,4,MSP,1996,STS-79,STS-79,STS-79,STS-79,243.0,814.0,0.0,30.15
+236,145,"Culbertson, Frank L., Jr.",male,1949,U.S.,True,NASA- 10,1984,3,pilot,1990,STS-38,STS-38,STS-38,STS-38,118.0,3447.0,0.0,5.07
+236,145,"Culbertson, Frank L., Jr.",male,1949,U.S.,True,NASA- 10,1984,3,commander,1993,STS-51,STS-51,STS-51,STS-51,236.0,3447.0,0.0,5.07
+236,145,"Culbertson, Frank L., Jr.",male,1949,U.S.,True,NASA- 10,1984,3,commander,2001,3,STS-105,ISS,STS-108,3093.0,3447.0,5.07,5.07
+237,146,"Meade, Carl J.",male,1950,U.S.,True,NASA- 11,1985,3,MSP,1990,STS-38,STS-38,STS-38,STS-38,117.0,710.0,0.0,6.85
+237,146,"Meade, Carl J.",male,1950,U.S.,True,NASA- 11,1985,3,MSP,1992,STS-50,STS-50,STS-50,STS-50,331.0,710.0,0.0,6.85
+237,146,"Meade, Carl J.",male,1950,U.S.,True,NASA- 11,1985,3,MSP,1994,STS-64,STS-64,STS-64,STS-64,262.0,710.0,6.85,6.85
+238,147,"Gemar, Charles D.",male,1955,U.S.,True,NASA Astronaut Group 11,1985,3,MSP,1990,STS-38,STS-38,STS-38,STS-38,118.0,581.5,0.0,0.0
+238,147,"Gemar, Charles D.",male,1955,U.S.,True,NASA Astronaut Group 11,1985,3,MSP,1991,STS-48,STS-48,STS-48,STS-48,128.5,581.5,0.0,0.0
+238,147,"Gemar, Charles D.",male,1955,U.S.,True,NASA Astronaut Group 11,1985,3,MSP,1994,STS-62,STS-62,STS-62,STS-62,335.0,581.5,0.0,0.0
+239,148,"Durrance, Samuel Thornton",male,1943,U.S.,False,PS for Astro-1,1984,2,PSP,1990,Astro-1,STS-35,STS-35,STS-35,215.15,614.69,0.0,0.0
+239,148,"Durrance, Samuel Thornton",male,1943,U.S.,False,PS for Astro-2,1984,2,PSP,1995,Astro-2,STS-67,STS-67,STS-67,399.54,614.69,0.0,0.0
+240,149,"Parise, Ronald Anthony",male,1951,U.S.,False,PS for Astro-1,1984,2,PSP,1990,STS-35,STS-35,STS-35,STS-35,215.15,614.69,0.0,0.0
+240,149,"Parise, Ronald Anthony",male,1951,U.S.,False,PS for Astro-1,1984,2,PSP,1995,STS-67,STS-67,STS-67,STS-67,399.54,614.69,0.0,0.0
+241,70,"Afanasyev, Viktor Mikhaylovich",male,1948,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,4,commander,1991,8,Soyuz TM11,Mir,Soyuz TM11,4201.0,13338.55,20.75,38.05
+241,70,"Afanasyev, Viktor Mikhaylovich",male,1948,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,4,commander,1994,15,Soyuz TM18,Mir,Soyuz TM18,4368.0,13338.55,0.0,38.05
+241,70,"Afanasyev, Viktor Mikhaylovich",male,1948,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,4,commander,1999,27,Soyuz TM29,Mir,Soyuz TM29,4532.0,13338.55,17.47,38.05
+241,70,"Afanasyev, Viktor Mikhaylovich",male,1948,U.S.S.R/Russia,True,GKNII-2 / TsPK-9,1985,4,commander,2001,Soyuz TM33/32,Soyuz TM33,Soyuz TM33,Soyuz TM32,236.208,13338.55,0.0,38.05
+242,1,"Akiyama, Toyohiro",male,1942,Japan,False,TBS,1989,1,Other (Journalist),1990,Soyuz TM-11/10,Soyuz TM-11,Soyuz TM-11,Soyuz TM-10,189.9,189.9,0.0,0.0
+243,150,"Cameron, Kenneth D.",male,1949,U.S.,True,NASA- 10,1984,3,pilot,1991,STS-37,STS-37,STS-37,STS-37,143.0,561.0,0.0,0.0
+243,150,"Cameron, Kenneth D.",male,1949,U.S.,True,NASA- 10,1984,3,commander,1993,STS-56,STS-56,STS-56,STS-56,222.0,561.0,0.0,0.0
+243,150,"Cameron, Kenneth D.",male,1949,U.S.,True,NASA- 10,1984,3,commander,1995,STS-74,STS-74,STS-74,STS-74,196.0,561.0,0.0,0.0
+244,151,"Godwin, Linda M.",female,1952,U.S.,False,NASA Astronaut Group 11,1985,4,MSP,1991,STS-37,STS-37,STS-37,STS-37,143.5,917.99,0.0,10.23
+244,151,"Godwin, Linda M.",female,1952,U.S.,False,NASA Astronaut Group 12,1985,4,MSP,1994,STS-59,STS-59,STS-59,STS-59,269.82,917.99,0.0,10.23
+244,151,"Godwin, Linda M.",female,1952,U.S.,False,NASA Astronaut Group 13,1985,4,MSP,1996,STS-76,STS-76,STS-76,STS-76,221.67,917.99,6.03,10.23
+244,151,"Godwin, Linda M.",female,1952,U.S.,False,NASA Astronaut Group 14,1985,4,MSP,2001,STS-108,STS-108,STS-108,STS-108,283.0,917.99,4.2,10.23
+245,152,"Apt, Jerome",male,1949,U.S.,False,NASA- 11,1985,4,MSP,1991,STS-37,STS-37,STS-37,STS-37,143.5,847.0,10.82,10.82
+245,152,"Apt, Jerome",male,1949,U.S.,False,NASA- 11,1985,4,MSP,1992,STS-47,STS-47,STS-47,STS-47,190.5,847.0,0.0,10.82
+245,152,"Apt, Jerome",male,1949,U.S.,False,NASA- 11,1985,4,MSP,1994,STS-59,STS-59,STS-59,STS-59,270.0,847.0,0.0,10.82
+245,152,"Apt, Jerome",male,1949,U.S.,False,NASA- 11,1985,4,MSP,1996,STS-79,STS-79,STS-79,STS-79,243.0,847.0,0.0,10.82
+246,153,"Hammond, L. Blaine, Jr.",male,1952,U.S.,True,NASA Astronaut Group 10,1984,2,pilot,1991,STS-39,STS-39,STS-39,STS-39,199.0,461.0,0.0,0.0
+246,153,"Hammond, L. Blaine, Jr.",male,1952,U.S.,True,NASA Astronaut Group 11,1984,2,pilot,1994,STS-64,STS-64,STS-64,STS-64,262.0,461.0,0.0,0.0
+247,154,"Harbaugh, Gregory J.",male,1956,U.S.,False,NASA Astronaut Group 12,1987,4,MSP,1991,STS-39,STS-39,STS-39,STS-39,199.0,816.0,0.0,18.49
+247,154,"Harbaugh, Gregory J.",male,1956,U.S.,False,NASA Astronaut Group 13,1987,4,MSP,1993,STS-54,STS-54,STS-54,STS-54,143.0,816.0,4.47,18.49
+247,154,"Harbaugh, Gregory J.",male,1956,U.S.,False,NASA Astronaut Group 14,1987,4,MSP,1995,STS-71,STS-71,STS-71,STS-71,235.0,816.0,0.0,18.49
+247,154,"Harbaugh, Gregory J.",male,1956,U.S.,False,NASA Astronaut Group 15,1987,4,MSP,1997,STS-82,STS-82,STS-82,STS-82,239.0,816.0,14.02,18.49
+248,155,"McMonagle, Donald R.",male,1952,U.S.,True,NASA- 12,1987,3,MSP,1991,STS-39,STS-39,STS-39,STS-39,199.0,604.0,0.0,0.0
+248,155,"McMonagle, Donald R.",male,1952,U.S.,True,NASA- 12,1987,3,pilot,1993,STS-54,STS-54,STS-54,STS-54,143.0,604.0,0.0,0.0
+248,155,"McMonagle, Donald R.",male,1952,U.S.,True,NASA- 12,1987,3,commander,1994,STS-66,STS-66,STS-66,STS-66,262.0,604.0,0.0,0.0
+249,155,"Veach, Charles Lacy",male,1944,U.S.,False,1984 NASA group 10,1984,2,MSP,1991,STS-39,STS-39,STS-39,STS-39,192.0,436.3,0.0,0.0
+249,155,"Veach, Charles Lacy",male,1944,U.S.,False,1984 NASA group 10,1984,2,MSP,1992,STS-52,STS-52,STS-52,STS-52,240.0,436.3,0.0,0.0
+250,157,"Hieb, Richard J.",male,1955,U.S.,False,NASA- 11,1985,3,MSP,1991,STS-39,STS-39,STS-39,STS-39,199.0,765.0,0.0,17.7
+250,157,"Hieb, Richard J.",male,1955,U.S.,False,NASA- 12,1985,3,MSP,1992,STS-49,STS-49,STS-49,STS-49,213.0,765.0,17.7,17.7
+250,157,"Hieb, Richard J.",male,1955,U.S.,False,NASA- 13,1985,3,MSP,1994,STS-65,STS-65,STS-65,STS-65,353.0,765.0,0.0,17.7
+251,71,"Artsebarsky, Anatoly",male,1956,U.S.S.R/Russia,True,GKNII-2 / RAN-5 / TsPK-9,1985,1,commander,1991,9,Soyuz TM12,Mir,Soyuz TM12,3471.0,3471.35,32.28,32.28
+252,1,Helen Sharman,female,1963,U.K.,False,1989 Juno,1989,1,MSP,1991,Soyuz TM-12/11,Soyuz TM-12,Soyuz TM-12,Soyuz TM-11,189.22,189.22,0.0,0.0
+253,158,"Gutierrez, Sidney M.",male,1951,U.S.,True,NASA Astronaut Group 10,1984,2,MSP,1991,STS-40,STS-40,STS-40,STS-40,218.0,487.0,0.0,0.0
+253,158,"Gutierrez, Sidney M.",male,1951,U.S.,True,NASA Astronaut Group 11,1984,2,commander,1994,STS-59,STS-59,STS-59,STS-59,269.0,487.0,0.0,0.0
+254,159,"Jernigan, Tamara E.",female,1959,U.S.,False,NASA- 11,1985,5,MSP,1991,STS-40,STS-40,STS-40,STS-40,218.0,1511.0,0.0,7.92
+254,159,"Jernigan, Tamara E.",female,1959,U.S.,False,NASA- 12,1985,5,MSP,1992,STS-52,STS-52,STS-52,STS-52,236.0,1511.0,0.0,7.92
+254,159,"Jernigan, Tamara E.",female,1959,U.S.,False,NASA- 13,1985,5,MSP,1995,STS-67,STS-67,STS-67,STS-67,399.0,1511.0,0.0,7.92
+254,159,"Jernigan, Tamara E.",female,1959,U.S.,False,NASA- 14,1985,5,MSP,1996,STS-80,STS-80,STS-80,STS-80,423.0,1511.0,0.0,7.92
+254,159,"Jernigan, Tamara E.",female,1959,U.S.,False,NASA- 15,1985,5,MSP,1999,STS-96,STS-96,STS-96,STS-96,235.0,1511.0,7.92,7.92
+255,160,"Gaffney, Andrew",male,1946,U.S.,False,Spacelab-4 / SLS-1,1984,1,PSP,1991,STS-40,STS-40,STS-40,STS-40,218.0,218.0,0.0,0.0
+256,161,"Hughes-Fulford, Millie Elizabeth",female,1945,U.S.,False,NASA PS,1983,1,PSP,1991,STS-40,STS-40,STS-40,STS-40,218.37,218.37,0.0,0.0
+257,162,"Baker, Michael A.",male,1953,U.S.,True,NASA- 11,1985,4,pilot,1991,STS-43,STS-43,STS-43,STS-43,213.0,965.0,0.0,0.0
+257,162,"Baker, Michael A.",male,1953,U.S.,True,NASA- 11,1985,4,pilot,1992,STS-52,STS-52,STS-52,STS-52,237.0,965.0,0.0,0.0
+257,162,"Baker, Michael A.",male,1953,U.S.,True,NASA- 11,1985,4,commander,1994,STS-68,STS-68,STS-68,STS-68,270.0,965.0,0.0,0.0
+257,162,"Baker, Michael A.",male,1953,U.S.,True,NASA- 11,1985,4,commander,1997,STS-81,STS-81,STS-81,STS-81,245.0,965.0,0.0,0.0
+258,163,"Reightler, Kenneth S., Jr.",male,1951,U.S.,True,NASA-12,1987,2,pilot,1991,STS-48,STS-48,STS-48,STS-48,120.0,312.0,0.0,0.0
+258,163,"Reightler, Kenneth S., Jr.",male,1951,U.S.,True,NASA-12,1987,2,pilot,1994,STS-60,STS-60,STS-60,STS-60,192.0,312.0,0.0,0.0
+259,72,"Aubakirov, Toktar",male,1946,U.S.S.R/Russia,True,Kazakhstan,1991,1,MSP,1991,10,Soyuz TM13,Mir,Soyuz TM12,190.0,190.2,0.0,0.0
+260,1,"Viehbock, Franz",male,1960,Austria,False,Austria,1989,1,MSP,1991,Soyuz TM13/12,Soyuz TM13,Soyuz TM13,Soyuz TM12,190.2,190.2,0.0,0.0
+261,164,"Henricks, Terence T.",male,1952,U.S.,True,NASA- 11,1985,4,pilot,1991,STS-44,STS-44,STS-44,STS-44,166.0,190.75,0.0,0.0
+261,164,"Henricks, Terence T.",male,1952,U.S.,True,NASA- 12,1985,4,pilot,1993,STS-55,STS-55,STS-55,STS-55,239.0,190.75,0.0,0.0
+261,164,"Henricks, Terence T.",male,1952,U.S.,True,NASA- 13,1985,4,commander,1995,STS-70,STS-70,STS-70,STS-70,214.0,190.75,0.0,0.0
+261,164,"Henricks, Terence T.",male,1952,U.S.,True,NASA- 14,1985,4,commander,1996,STS-78,STS-78,STS-78,STS-78,405.0,190.75,0.0,0.0
+262,165,"Voss, James S.",male,1949,U.S.,True,1987 NASA group,1987,5,MSP,1991,STS-44,STS-44,STS-44,STS-44,166.0,1000.0,0.0,23.08
+262,165,"Voss, James S.",male,1949,U.S.,True,1987 NASA group,1987,5,MSP,1992,STS-53,STS-53,STS-53,STS-53,175.0,1000.0,0.0,23.08
+262,165,"Voss, James S.",male,1949,U.S.,True,1987 NASA group,1987,5,MSP,1995,STS-69,STS-69,STS-69,STS-69,260.0,1000.0,6.77,23.08
+262,165,"Voss, James S.",male,1949,U.S.,True,1987 NASA group,1987,5,MSP,2000,STS-101,STS-101,STS-101,STS-101,236.0,1000.0,6.73,23.08
+262,165,"Voss, James S.",male,1949,U.S.,True,1987 NASA group,1987,5,MSP,2001,2,STS-102,ISS,STS-105,163.0,1000.0,9.58,23.08
+263,166,"Runco, Mario, Jr.",male,1952,U.S.,True,NASA-12,1987,3,MSP,1991,STS-44,STS-44,STS-44,STS-44,166.0,549.0,0.0,4.47
+263,166,"Runco, Mario, Jr.",male,1952,U.S.,True,NASA-12,1987,3,MSP,1993,STS-54,STS-54,STS-54,STS-54,143.0,549.0,4.47,4.47
+263,166,"Runco, Mario, Jr.",male,1952,U.S.,True,NASA-12,1987,3,MSP,1996,STS-77,STS-77,STS-77,STS-77,240.0,549.0,0.0,4.47
+264,167,"Hennen, Thomas John",male,1952,U.S.,True,Terra Scout,1988,1,PSP,1991,STS-44,STS-44,STS-44,STS-44,167.11,167.11,0.0,0.0
+265,168,"Oswald, Stephen S.",male,1951,U.S.,True,NASA-11,1985,3,pilot,1992,STS-42,STS-42,STS-42,STS-42,193.0,814.0,0.0,0.0
+265,168,"Oswald, Stephen S.",male,1951,U.S.,True,NASA-11,1985,3,pilot,1993,STS-67,STS-67,STS-67,STS-67,222.0,814.0,0.0,0.0
+265,168,"Oswald, Stephen S.",male,1951,U.S.,True,NASA-11,1985,3,commander,1995,STS-42,STS-42,STS-42,STS-42,399.0,814.0,0.0,0.0
+266,169,"Readdy, William F.",male,1952,U.S.,False,NASA-12,1987,3,MSP,1992,STS-42,STS-42,STS-42,STS-42,193.0,672.0,0.0,0.0
+266,169,"Readdy, William F.",male,1952,U.S.,False,NASA-12,1987,3,pilot,1993,STS-51,STS-51,STS-51,STS-51,236.0,672.0,0.0,0.0
+266,169,"Readdy, William F.",male,1952,U.S.,False,NASA-12,1987,3,commander,1996,STS-79,STS-79,STS-79,STS-79,243.0,672.0,0.0,0.0
+267,2,"Bondar, Roberta Lynn",female,1945,Canada,False,1983 NRC Group,1983,1,PSP,1992,STS-42,STS-42,STS-42,STS-42,193.77,193.77,0.0,0.0
+268,73,"Kaleri, Aleksandr",male,1956,U.S.S.R/Russia,False,NPOE-6,1984,5,flight engineer,1992,11,Soyuz TM14,Mir,Soyuz TM14,3494.0,18462.62,2.05,23.58
+268,73,"Kaleri, Aleksandr",male,1956,U.S.S.R/Russia,False,NPOE-6,1984,5,flight engineer,1996,21,Soyuz TM24,Mir,Soyuz TM24,4721.0,18462.62,12.6,23.58
+268,73,"Kaleri, Aleksandr",male,1956,U.S.S.R/Russia,False,NPOE-6,1984,5,flight engineer,2000,28,Soyuz TM30,Mir,Soyuz TM30,1747.0,18462.62,5.05,23.58
+268,73,"Kaleri, Aleksandr",male,1956,U.S.S.R/Russia,False,NPOE-6,1984,5,flight engineer,2003,8,Soyuz TMA3,ISS,Soyuz TMA3,4674.0,18462.62,3.92,23.58
+268,73,"Kaleri, Aleksandr",male,1956,U.S.S.R/Russia,False,NPOE-6,1984,5,flight engineer,2010,25,Soyuz TMA01M,ISS,Soyuz TMA01M,3824.0,18462.62,0.0,23.58
+269,4,"Flade, Klaus-Dietrich",male,1952,Germany,True,DLR-3,1990,1,MSP,1992,Soyuz TM-14/13,Soyuz TM-14,Soyuz TM-14,Soyuz TM-13,189.95,189.95,0.0,0.0
+270,170,"Duffy, Brian",male,1953,U.S.,True,NASA- 11,1985,4,pilot,1992,STS-45,STS-45,STS-45,STS-45,214.0,976.0,0.0,0.0
+270,170,"Duffy, Brian",male,1953,U.S.,True,NASA- 11,1985,4,pilot,1993,STS-57,STS-57,STS-57,STS-57,240.0,976.0,0.0,0.0
+270,170,"Duffy, Brian",male,1953,U.S.,True,NASA- 11,1985,4,commander,1996,STS-72,STS-72,STS-72,STS-72,214.0,976.0,0.0,0.0
+270,170,"Duffy, Brian",male,1953,U.S.,True,NASA- 11,1985,4,commander,2000,STS-92,STS-92,STS-92,STS-92,310.0,976.0,0.0,0.0
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,MSP,1992,STS-45,STS-45,STS-45,STS-45,214.0,8976.0,0.0,22.73
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,MSP,1993,STS-56,STS-56,STS-56,STS-56,222.0,8976.0,0.0,22.73
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,MSP,1995,STS-63,STS-63,STS-63,STS-63,198.5,8976.0,4.65,22.73
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,MSP,1997,23,STS-84,Mir,STS-86,3470.0,8976.0,7.0,22.73
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,MSP,1999,STS-103,STS-103,STS-103,STS-103,191.0,8976.0,8.17,22.73
+271,171,"Foale, C. Michael",male,1957,U.S.,False,NASA- 12,1987,6,commander,2003,8,Soyuz TMA-3,ISS,Soyuz TMA-3,4674.5,8976.0,3.92,22.73
+272,1,"Frimout, David",male,1941,Belgium,False,ATLAS-1,1985,1,PSP,1992,STS-45,STS-45,STS-45,STS-45,214.15,214.15,0.0,0.0
+273,172,"Chilton, Kevin P.",male,1954,U.S.,True,NASA- 12,1987,3,pilot,1992,STS-49,STS-49,STS-49,STS-49,213.0,704.0,0.0,0.0
+273,172,"Chilton, Kevin P.",male,1954,U.S.,True,NASA- 12,1987,3,pilot,1994,STS-59,STS-59,STS-59,STS-59,270.0,704.0,0.0,0.0
+273,172,"Chilton, Kevin P.",male,1954,U.S.,True,NASA- 12,1987,3,commander,1996,STS-76,STS-76,STS-76,STS-76,221.0,704.0,0.0,0.0
+274,173,"Bowersox, Kenneth D.",male,1956,U.S.,True,NASA- 12,1987,5,pilot,1992,STS-50,STS-50,STS-50,STS-50,331.0,5304.0,0.0,13.28
+274,173,"Bowersox, Kenneth D.",male,1956,U.S.,True,NASA- 12,1987,5,pilot,1993,STS-61,STS-61,STS-61,STS-61,260.0,5304.0,0.0,13.28
+274,173,"Bowersox, Kenneth D.",male,1956,U.S.,True,NASA- 12,1987,5,commander,1995,STS-73,STS-73,STS-73,STS-73,382.0,5304.0,0.0,13.28
+274,173,"Bowersox, Kenneth D.",male,1956,U.S.,True,NASA- 12,1987,5,commander,1997,STS-82,STS-82,STS-82,STS-82,239.0,5304.0,0.0,13.28
+274,173,"Bowersox, Kenneth D.",male,1956,U.S.,True,NASA- 12,1987,5,commander,2002,6,STS-113,ISS,Soyuz TMA-1,3865.0,5304.0,13.28,13.28
+275,174,"DeLucas, Lawrence James",male,1950,U.S.,False,United States Microgravity Labratory-1,1990,1,PSP,1992,STS-50,STS-50,STS-50,STS-50,331.53,331.53,0.0,0.0
+276,175,"Trinh, Eugene Huu-Chau",male,1950,U.S.,False,Spacelab-3,1983,1,PSP,1992,STS-50,STS-50,STS-50,STS-50,331.53,331.53,0.0,0.0
+277,74,"Avdeyev, Sergei",male,1956,U.S.S.R/Russia,False,NPOE-8,1987,3,flight engineer,1993,12,Soyuz TM15,Mir,Soyuz TM15,4533.0,17942.23,18.35,41.0
+277,74,"Avdeyev, Sergei",male,1956,U.S.S.R/Russia,False,NPOE-8,1987,3,flight engineer,1995,20,Soyuz TM22,Mir,Soyuz TM22,4297.0,17942.23,5.27,41.0
+277,74,"Avdeyev, Sergei",male,1956,U.S.S.R/Russia,False,NPOE-8,1987,3,flight engineer,1998,26,Soyuz TM28,Mir,Soyuz TM29,9110.0,17942.23,17.38,41.0
+278,3,"Tognini, Michel",male,1949,France,True,CNES-2/EAC,1985,2,MSP,1992,Antares,Soyuz TM-15,Soyuz TM-15,Soyuz TM-14,331.0,449.77,0.0,0.0
+278,3,"Tognini, Michel",male,1949,France,True,CNES-2/EAC,1985,2,MSP,1999,STS-93,STS-93,STS-93,STS-93,118.8,449.77,0.0,0.0
+279,176,"Allen, Andrew M.",male,1955,U.S.,True,NASA- 12,1987,3,pilot,1992,STS-46,STS-46,STS-46,STS-46,191.0,904.0,0.0,0.0
+279,176,"Allen, Andrew M.",male,1955,U.S.,True,NASA- 12,1987,3,pilot,1994,STS-62,STS-62,STS-62,STS-62,335.0,904.0,0.0,0.0
+279,176,"Allen, Andrew M.",male,1955,U.S.,True,NASA- 12,1987,3,commander,1996,STS-75,STS-75,STS-75,STS-75,378.0,904.0,0.0,0.0
+280,1,"Nicollier, Claude",male,1944,Switzerland,False,1978 ESA Group,1978,4,PSP,1992,STS-46,STS-46,STS-46,STS-46,191.25,1184.07,0.0,8.16
+280,1,"Nicollier, Claude",male,1944,Switzerland,False,1978 ESA Group,1978,4,PSP,1993,STS-61-A,STS-61-A,STS-61-A,STS-61-A,259.97,1184.07,0.0,8.16
+280,1,"Nicollier, Claude",male,1944,Switzerland,False,1978 ESA Group,1978,4,MSP,1996,STS-75,STS-75,STS-75,STS-75,541.67,1184.07,0.0,8.16
+280,1,"Nicollier, Claude",male,1944,Switzerland,False,1978 ESA Group,1978,4,MSP,1999,STS-103,STS-103,STS-103,STS-103,191.18,1184.07,8.16,8.16
+281,1,Franco Malerba,male,1946,Italy,False,1989 ESA Group,1998,1,PSP,1992,sts-46,STS-46,STS-46,STS-46,191.25,191.25,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,pilot,1992,STS-47,STS-47,STS-47,STS-47,190.5,1381.0,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,pilot,1994,STS-66,STS-66,STS-66,STS-66,262.5,1381.0,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,pilot,1996,STS-77,STS-77,STS-77,STS-77,240.5,1381.0,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,commander,1997,STS-85,STS-85,STS-85,STS-85,284.5,1381.0,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,commander,1998,STS-95,STS-95,STS-95,STS-95,213.5,1381.0,0.0,0.0
+282,177,"Brown, Curtis L., Jr.",male,1956,U.S.,True,NASA- 12,1987,6,commander,1999,STS-103,STS-103,STS-103,STS-103,191.0,1381.0,0.0,0.0
+283,178,"Davis, Nancy Jan",female,1953,U.S.,False,NASA- 12,1987,3,MSP,1992,STS-47,STS-47,STS-47,STS-47,190.5,673.0,0.0,0.0
+283,178,"Davis, Nancy Jan",female,1953,U.S.,False,NASA- 12,1987,3,MSP,1994,STS-60,STS-60,STS-60,STS-60,199.0,673.0,0.0,0.0
+283,178,"Davis, Nancy Jan",female,1953,U.S.,False,NASA- 12,1987,3,MSP,1997,STS-85,STS-85,STS-85,STS-85,284.0,673.0,0.0,0.0
+284,179,"Jemison, Mae C.",female,1956,U.S.,False,NASA- 12,1987,1,MSP,1992,STS-47,STS-47,STS-47,STS-47,190.5,190.5,0.0,0.0
+285,2,"Mohri, Mamoru",male,1948,Japan,False,NASDA-1,1985,2,PSP,1992,STS-47,STS-47,STS-47,STS-47,190.5,190.5,0.0,0.0
+285,2,"Mohri, Mamoru",male,1948,Japan,False,NASDA-1,1985,2,MSP,2000,STS-99,STS-99,STS-99,STS-99,269.7,190.5,0.0,0.0
+286,3,Steven MacLean,male,1954,Canada,True,1983 NRC Group,1983,2,PSP,1992,STS-52,STS-52,STS-52,STS-52,236.93,520.03,0.0,7.18
+286,3,Steven MacLean,male,1954,Canada,True,1983 NRC Group,1983,2,MSP,2006,STS-115,STS-115,STS-115,STS-115,283.1,520.03,7.18,7.18
+287,180,"Clifford, Michael R.",male,1952,U.S.,True,NASA- 13,1990,3,MSP,1992,STS-53,STS-53,STS-53,STS-53,175.0,666.0,0.0,6.03
+287,180,"Clifford, Michael R.",male,1952,U.S.,True,NASA- 13,1990,3,MSP,1994,STS-59,STS-59,STS-59,STS-59,270.0,666.0,0.0,6.03
+287,180,"Clifford, Michael R.",male,1952,U.S.,True,NASA- 13,1990,3,MSP,1996,STS-76,STS-76,STS-76,STS-76,221.0,666.0,6.03,6.03
+288,181,"Helms, Susan J.",female,1958,U.S.,True,NASA- 13,1990,5,MSP,1993,STS-54,STS-54,STS-54,STS-54,143.0,5054.0,0.0,8.93
+288,181,"Helms, Susan J.",female,1958,U.S.,True,NASA- 13,1990,5,MSP,1994,STS-64,STS-64,STS-64,STS-64,262.0,5054.0,0.0,8.93
+288,181,"Helms, Susan J.",female,1958,U.S.,True,NASA- 13,1990,5,MSP,1996,STS-78,STS-78,STS-78,STS-78,405.0,5054.0,0.0,8.93
+288,181,"Helms, Susan J.",female,1958,U.S.,True,NASA- 13,1990,5,MSP,2000,STS-101,STS-101,STS-101,STS-101,237.0,5054.0,0.0,8.93
+288,181,"Helms, Susan J.",female,1958,U.S.,True,NASA- 13,1990,5,flight engineer,2001,2,STS-102,ISS,STS-105,4007.0,5054.0,8.93,8.93
+289,75,"Poleshchuk, Aleksandr",male,1953,U.S.S.R/Russia,True,NPOE-9,1989,1,flight engineer,1993,13,Soyuz TM16,Mir,Soyuz TM16,4296.0,4296.72,9.97,9.97
+290,182,"Cockrell, Kenneth D.",male,1950,U.S.,False,NASA- 13,1990,5,MSP,1993,STS-56,STS-56,STS-56,STS-56,222.0,1560.0,0.0,0.0
+290,182,"Cockrell, Kenneth D.",male,1950,U.S.,False,NASA- 13,1990,5,pilot,1995,STS-69,STS-69,STS-69,STS-69,260.5,1560.0,0.0,0.0
+290,182,"Cockrell, Kenneth D.",male,1950,U.S.,False,NASA- 13,1990,5,commander,1996,STS-80,STS-80,STS-80,STS-80,424.0,1560.0,0.0,0.0
+290,182,"Cockrell, Kenneth D.",male,1950,U.S.,False,NASA- 13,1990,5,commander,2001,STS-98,STS-98,STS-98,STS-98,309.0,1560.0,0.0,0.0
+290,182,"Cockrell, Kenneth D.",male,1950,U.S.,False,NASA- 13,1990,5,commander,2002,STS-111,STS-111,STS-111,STS-111,333.0,1560.0,0.0,0.0
+291,183,"Ochoa, Ellen",female,1958,U.S.,False,NASA-13,1990,4,MSP,1993,STS-56,STS-56,STS-56,STS-56,222.0,978.0,0.0,0.0
+291,183,"Ochoa, Ellen",female,1958,U.S.,False,NASA-13,1990,4,MSP,1994,STS-66,STS-66,STS-66,STS-66,263.0,978.0,0.0,0.0
+291,183,"Ochoa, Ellen",female,1958,U.S.,False,NASA-13,1990,4,MSP,1999,STS-96,STS-96,STS-96,STS-96,235.0,978.0,0.0,0.0
+291,183,"Ochoa, Ellen",female,1958,U.S.,False,NASA-13,1990,4,MSP,2002,STS-110,STS-110,STS-110,STS-110,260.0,978.0,0.0,0.0
+292,184,"Precourt, Charles J., Jr.",male,1955,U.S.,True,NASA-13,1990,4,MSP,1993,STS-55,STS-55,STS-55,STS-55,240.0,932.0,0.0,0.0
+292,184,"Precourt, Charles J., Jr.",male,1955,U.S.,True,NASA-13,1990,4,pilot,1995,STS-71,STS-71,STS-71,STS-71,235.0,932.0,0.0,0.0
+292,184,"Precourt, Charles J., Jr.",male,1955,U.S.,True,NASA-13,1990,4,commander,1997,STS-84,STS-84,STS-84,STS-84,221.0,932.0,0.0,0.0
+292,184,"Precourt, Charles J., Jr.",male,1955,U.S.,True,NASA-13,1990,4,commander,1998,STS-91,STS-91,STS-91,STS-91,235.0,932.0,0.0,0.0
+293,185,"Harris, Bernard A., Jr.",male,1956,U.S.,False,NASA Astronaut Group 13,1990,2,MSP,1993,STS-55,STS-55,STS-55,STS-55,239.0,437.0,4.65,4.65
+293,185,"Harris, Bernard A., Jr.",male,1956,U.S.,False,NASA Astronaut Group 14,1990,2,MSP,1995,STS-63,STS-63,STS-63,STS-63,198.0,437.0,0.0,4.65
+294,5,"Walter, Ulrich",male,1954,Germany,False,DLR-2/EAC,1987,1,PSP,1993,STS-55,STS-55,STS-55,STS-55,239.67,239.67,0.0,0.0
+295,6,"Schlegel, Hans",male,1951,Germany,False,DLR-2/EAC,1987,2,PSP,1993,STS-55,STS-55,STS-55,STS-55,240.0,546.0,0.0,6.75
+295,6,"Schlegel, Hans",male,1951,Germany,False,DLR-2/EAC,1987,2,MSP,2008,STS-122,STS-122,STS-122,STS-122,306.0,546.0,6.75,6.75
+296,186,"Currie, Nancy J.",female,1958,U.S.,True,NASA- 13,1990,4,MSP,1993,STS-57,STS-57,STS-57,STS-57,240.0,999.0,0.0,0.0
+296,186,"Currie, Nancy J.",female,1958,U.S.,True,NASA- 13,1990,4,MSP,1995,STS-70,STS-70,STS-70,STS-70,214.0,999.0,0.0,0.0
+296,186,"Currie, Nancy J.",female,1958,U.S.,True,NASA- 13,1990,4,MSP,1998,STS-88,STS-88,STS-88,STS-88,283.0,999.0,0.0,0.0
+296,186,"Currie, Nancy J.",female,1958,U.S.,True,NASA- 13,1990,4,MSP,2002,STS-109,STS-109,STS-109,STS-109,262.0,999.0,0.0,0.0
+297,187,"Wisoff, Peter J. K.",male,1958,U.S.,False,1990 NASA group,1990,4,MSP,1993,STS-57,STS-57,STS-57,STS-57,239.0,1064.15,5.83,19.88
+297,187,"Wisoff, Peter J. K.",male,1958,U.S.,False,1990 NASA group,1990,4,MSP,1994,STS-68,STS-68,STS-68,STS-68,269.0,1064.15,0.0,19.88
+297,187,"Wisoff, Peter J. K.",male,1958,U.S.,False,1990 NASA group,1990,4,MSP,1997,STS-81,STS-81,STS-81,STS-81,240.0,1064.15,0.0,19.88
+297,187,"Wisoff, Peter J. K.",male,1958,U.S.,False,1990 NASA group,1990,4,MSP,2000,STS-92,STS-92,STS-92,STS-92,309.0,1064.15,14.05,19.88
+298,188,"Voss, Janice E.",female,1956,U.S.,False,1990 NASA group,1990,5,MSP,1993,STS-57,STS-57,STS-57,STS-57,239.73,1199.81,0.0,0.0
+298,188,"Voss, Janice E.",female,1956,U.S.,False,1990 NASA group,1990,5,MSP,1995,STS-63,STS-63,STS-63,STS-63,198.47,1199.81,0.0,0.0
+298,188,"Voss, Janice E.",female,1956,U.S.,False,1990 NASA group,1990,5,MSP,1997,STS-83,STS-83,STS-83,STS-83,95.21,1199.81,0.0,0.0
+298,188,"Voss, Janice E.",female,1956,U.S.,False,1990 NASA group,1990,5,MSP,1997,STS-94,STS-94,STS-94,STS-94,396.8,1199.81,0.0,0.0
+298,188,"Voss, Janice E.",female,1956,U.S.,False,1990 NASA group,1990,5,MSP,2000,STS-99,STS-99,STS-99,STS-99,269.6,1199.81,0.0,0.0
+299,76,"Tsibliyev, Vasili",male,1954,U.S.S.R/Russia,True,TsPK-8,1987,2,commander,1993,14,Soyuz TM17,Mir,Soyuz TM17,4721.0,9159.87,14.22,19.18
+299,76,"Tsibliyev, Vasili",male,1954,U.S.S.R/Russia,True,TsPK-8,1987,2,commander,1997,23,Soyuz TM25,Mir,Soyuz TM25,4438.0,9159.87,5.22,19.18
+300,4,"Haigner, Jean-Pierre",male,1948,France,True,CNES-2/EAC,1985,2,MSP,1993,Soyuz TM-17 / Soyuz TM-16,Soyuz TM-17,Soyuz TM-17,Soyuz TM-16,496.0,5028.0,6.32,6.32
+300,4,"Haigner, Jean-Pierre",male,1948,France,True,CNES-2/EAC,1985,2,flight engineer,1999,27,Soyuz TM-29,Mir,Soyuz TM-29,4532.0,5028.0,0.0,6.32
+301,189,"Newman, James H.",male,1956,U.S.,False,NASA-13,1990,4,MSP,1993,STS-51,STS-51,STS-51,STS-51,236.0,1032.0,7.08,43.03
+301,189,"Newman, James H.",male,1956,U.S.,False,NASA-13,1990,4,MSP,1995,STS-69,STS-69,STS-69,STS-69,260.0,1032.0,0.0,43.03
+301,189,"Newman, James H.",male,1956,U.S.,False,NASA-13,1990,4,MSP,1998,STS-88,STS-88,STS-88,STS-88,283.0,1032.0,21.38,43.03
+301,189,"Newman, James H.",male,1956,U.S.,False,NASA-13,1990,4,MSP,2002,STS-109,STS-109,STS-109,STS-109,262.0,1032.0,14.57,43.03
+302,190,"Bursch, Daniel W.",male,1957,U.S.,True,NASA- 13,1990,4,MSP,1993,STS-51,STS-51,STS-51,STS-51,236.0,5448.0,0.0,11.77
+302,190,"Bursch, Daniel W.",male,1957,U.S.,True,NASA- 13,1990,4,MSP,1994,STS-68,STS-68,STS-68,STS-68,169.0,5448.0,0.0,11.77
+302,190,"Bursch, Daniel W.",male,1957,U.S.,True,NASA- 13,1990,4,MSP,1996,STS-77,STS-77,STS-77,STS-77,241.0,5448.0,0.0,11.77
+302,190,"Bursch, Daniel W.",male,1957,U.S.,True,NASA- 13,1990,4,flight engineer,2001,4,STS-108,ISS,STS-111,4802.0,5448.0,11.77,11.77
+303,191,"Walz, Carl E.",male,1955,U.S.,True,1990 NASA group,1990,4,MSP,1993,STS-51,STS-51,STS-51,STS-51,236.18,5533.06,7.08,18.91
+303,191,"Walz, Carl E.",male,1955,U.S.,True,1990 NASA group,1990,4,MSP,1994,STS-65,STS-65,STS-65,STS-65,360.0,5533.06,0.0,18.91
+303,191,"Walz, Carl E.",male,1955,U.S.,True,1990 NASA group,1990,4,MSP,1996,STS-79,STS-79,STS-79,STS-79,243.0,5533.06,0.0,18.91
+303,191,"Walz, Carl E.",male,1955,U.S.,True,1990 NASA group,1990,4,MSP,2001,4,STS-108,ISS,STS-111,4704.0,5533.06,11.83,18.91
+304,192,"Searfoss, Richard A.",male,1956,U.S.,True,1990 NASA group 13,1990,3,pilot,1993,STS-58,STS-58,STS-58,STS-58,338.0,938.0,0.0,0.0
+304,192,"Searfoss, Richard A.",male,1956,U.S.,True,1990 NASA group 13,1990,3,pilot,1996,STS-76,STS-76,STS-76,STS-76,216.0,938.0,0.0,0.0
+304,192,"Searfoss, Richard A.",male,1956,U.S.,True,1990 NASA group 13,1990,3,commander,1998,STS-90,STS-90,STS-90,STS-90,384.0,938.0,0.0,0.0
+305,193,"McArthur, William S., Jr.",male,1951,U.S.,True,NASA- 13,1990,4,MSP,1993,STS-58,STS-58,STS-58,STS-58,336.0,5396.0,0.0,24.35
+305,193,"McArthur, William S., Jr.",male,1951,U.S.,True,NASA- 13,1990,4,MSP,1995,STS-74,STS-74,STS-74,STS-74,196.0,5396.0,0.0,24.35
+305,193,"McArthur, William S., Jr.",male,1951,U.S.,True,NASA- 13,1990,4,MSP,2000,STS-92,STS-92,STS-92,STS-92,309.0,5396.0,13.27,24.35
+305,193,"McArthur, William S., Jr.",male,1951,U.S.,True,NASA- 13,1990,4,flight engineer,2006,12,Soyuz TMA-7,ISS,Soyuz TMA-7,4555.0,5396.0,11.08,24.35
+306,194,"Wolf, David A.",male,1956,U.S.,False,1990 NASA group,1990,4,MSP,1993,STS-58,STS-58,STS-58,STS-58,336.0,4040.95,0.0,41.95
+306,194,"Wolf, David A.",male,1956,U.S.,False,1990 NASA group,1990,4,MSP,1997,24,STS-86,Mir,STS-89,3072.0,4040.95,3.87,41.95
+306,194,"Wolf, David A.",male,1956,U.S.,False,1990 NASA group,1990,4,MSP,2002,STS-112,STS-112,STS-112,STS-112,259.0,4040.95,19.68,41.95
+306,194,"Wolf, David A.",male,1956,U.S.,False,1990 NASA group,1990,4,MSP,2009,STS-127,STS-127,STS-127,STS-127,376.0,4040.95,18.4,41.95
+307,195,"Fettman, Martin Joseph",male,1956,U.S.,False,PS for STS-58,1992,1,PSP,1993,STS-58,STS-58,STS-58,STS-58,336.47,336.47,0.0,0.0
+308,77,Yuri Vladimirovich Usachyov,male,1957,U.S.S.R/Russia,True,1989 NPOE Cosmonaut Group,1989,4,flight engineer,1994,Mir EO-15,Soyuz TM-18,Mir,Soyuz TM-18,4368.45,13270.42,0.0,31.15
+308,77,Yuri Vladimirovich Usachyov,male,1957,U.S.S.R/Russia,True,1989 NPOE Cosmonaut Group,1989,4,flight engineer,1996,Mir EO-21,Soyuz TM-23,Mir,Soyuz TM-23,4651.12,13270.42,30.5,31.15
+308,77,Yuri Vladimirovich Usachyov,male,1957,U.S.S.R/Russia,True,1989 NPOE Cosmonaut Group,1989,4,MSP,2000,STS 101,STS 101,Spacehub,STS 101,236.17,13270.42,0.0,31.15
+308,77,Yuri Vladimirovich Usachyov,male,1957,U.S.S.R/Russia,True,1989 NPOE Cosmonaut Group,1989,4,commander,2001,2,STS 102,ISS,STS 102,4014.68,13270.42,0.65,31.15
+309,196,"Sega, Ronald M.",male,1952,U.S.,False,1990 NASA group 13,1990,2,MSP,1994,STS-60,STS-60,STS-60,STS-60,199.0,420.0,0.0,0.0
+309,196,"Sega, Ronald M.",male,1952,U.S.,False,1990 NASA group 13,1990,2,MSP,1996,STS-76,STS-76,STS-76,STS-76,221.0,420.0,0.0,0.0
+310,197,"Jones, Thomas D.",male,1955,U.S.,False,NASA- 13,1990,4,MSP,1994,STS-59,STS-59,STS-59,STS-59,269.0,1272.82,0.0,19.82
+310,197,"Jones, Thomas D.",male,1955,U.S.,False,NASA- 14,1990,4,MSP,1994,STS-68,STS-68,STS-68,STS-68,269.0,1272.82,0.0,19.82
+310,197,"Jones, Thomas D.",male,1955,U.S.,False,NASA- 14,1990,4,MSP,1996,STS-80,STS-80,STS-80,STS-80,423.0,1272.82,0.0,19.82
+310,197,"Jones, Thomas D.",male,1955,U.S.,False,NASA- 14,1990,4,MSP,2001,STS-98,STS-98,STS-98,STS-98,309.0,1272.82,19.82,19.82
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,commander,1994,16,Soyuz TM19,Mir,Soyuz TM19,3022.0,16872.47,11.12,34.83
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,Flight engineer,2000,STS106,STS106,STS106,STS106,283.0,16872.47,6.23,34.83
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,commander,2003,7,Soyuz TMA2,ISS,Soyuz TMA2,4438.0,16872.47,0.0,34.83
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,commander,2007,16,Soyuz TMA11,ISS,Soyuz TMA11,4603.0,16872.47,6.92,34.83
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,commander,2012,32,Soyuz TMA05M,ISS,Soyuz TMA05M,3047.0,16872.47,5.85,34.83
+311,78,"Malenchenko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-8,1987,6,commander,2015,46,Soyuz TMA19M,ISS,in space,1477.0,16872.47,4.72,34.83
+312,79,"Musabayev, Talgat",male,1951,U.S.S.R/Russia,True,MGA/Kazakhstan,1990,3,flight engineer,1994,16,Soyuz TM19,Mir,Soyuz TM19,3002.0,8193.8,11.12,42.6
+312,79,"Musabayev, Talgat",male,1951,U.S.S.R/Russia,True,MGA/Kazakhstan,1990,3,commander,1998,25,Soyuz TM27,Mir,Soyuz TM27,4980.0,8193.8,31.48,42.6
+312,79,"Musabayev, Talgat",male,1951,U.S.S.R/Russia,True,MGA/Kazakhstan,1990,3,commander,2001,Soyuz TM32/31,Soyuz TM32,Soyuz TM32,Soyuz TM31,190.0,8193.8,0.0,42.6
+313,198,"Halsell, James D., Jr.",male,1956,U.S.,True,NASA Astronaut Group 13,1990,5,pilot,1994,STS-65,STS-65,STS-65,STS-65,353.0,1257.0,0.0,0.0
+313,198,"Halsell, James D., Jr.",male,1956,U.S.,True,NASA Astronaut Group 14,1990,5,pilot,1995,STS-74,STS-74,STS-74,STS-74,196.0,1257.0,0.0,0.0
+313,198,"Halsell, James D., Jr.",male,1956,U.S.,True,NASA Astronaut Group 15,1990,5,commander,1997,STS-83,STS-83,STS-83,STS-83,95.0,1257.0,0.0,0.0
+313,198,"Halsell, James D., Jr.",male,1956,U.S.,True,NASA Astronaut Group 16,1990,5,commander,1997,STS-94,STS-94,STS-94,STS-94,376.0,1257.0,0.0,0.0
+313,198,"Halsell, James D., Jr.",male,1956,U.S.,True,NASA Astronaut Group 17,1990,5,commander,2000,STS-101,STS-101,STS-101,STS-101,237.0,1257.0,0.0,0.0
+314,199,"Chiao, Leroy",male,1960,U.S.,False,NASA- 13,1990,4,MSP,1994,STS-65,STS-65,STS-65,STS-65,354.0,5503.0,0.0,36.09
+314,199,"Chiao, Leroy",male,1960,U.S.,False,NASA- 13,1990,4,MSP,1996,STS-72,STS-72,STS-72,STS-72,214.0,5503.0,12.85,36.09
+314,199,"Chiao, Leroy",male,1960,U.S.,False,NASA- 13,1990,4,MSP,2000,STS-92,STS-92,STS-92,STS-92,310.0,5503.0,13.27,36.09
+314,199,"Chiao, Leroy",male,1960,U.S.,False,NASA- 13,1990,4,commander,2004,10,Soyuz TMA-5,ISS,Soyuz TMA-5,4627.0,5503.0,9.97,36.09
+315,200,"Thomas, Donald A.",male,1955,U.S.,False,1990 NASA group,1990,4,MSP,1994,STS-65,STS-65,STS-65,STS-65,353.0,1038.0,0.0,0.0
+315,200,"Thomas, Donald A.",male,1955,U.S.,False,1990 NASA group,1990,4,MSP,1995,STS-70,STS-70,STS-70,STS-70,214.0,1038.0,0.0,0.0
+315,200,"Thomas, Donald A.",male,1955,U.S.,False,1990 NASA group,1990,4,MSP,1997,STS-83,STS-83,STS-83,STS-83,95.0,1038.0,0.0,0.0
+315,200,"Thomas, Donald A.",male,1955,U.S.,False,1990 NASA group,1990,4,MSP,1997,STS-94,STS-94,STS-94,STS-94,376.0,1038.0,0.0,0.0
+316,3,"Mukai, Chiaki",female,1952,Japan,False,NASDA-1,1985,2,PSP,1994,STS-65,STS-65,STS-65,STS-65,354.0,568.0,0.0,0.0
+316,3,"Mukai, Chiaki",female,1952,Japan,False,NASDA-1,1985,2,PSP,1998,STS-95,STS-95,STS-95,STS-95,214.0,568.0,0.0,0.0
+317,210,"Linenger, Jerry M.",male,1955,U.S.,True,NASA- 14,1992,2,MSP,1994,STS-64,STS-64,STS-64,STS-64,262.0,3218.83,0.0,0.0
+317,210,"Linenger, Jerry M.",male,1955,U.S.,True,NASA- 15,1992,2,MSP,1997,22,STS-81,Mir,STS-84,3172.0,3218.83,0.0,0.0
+318,202,"Wilcutt, Terrence W.",male,1949,U.S.,True,1990 NASA group,1990,4,pilot,1994,STS-68,STS-68,STS-68,STS-68,269.0,1008.0,0.0,0.0
+318,202,"Wilcutt, Terrence W.",male,1949,U.S.,True,1990 NASA group,1990,4,pilot,1996,STS-79,STS-79,STS-79,STS-79,243.0,1008.0,0.0,0.0
+318,202,"Wilcutt, Terrence W.",male,1949,U.S.,True,1990 NASA group,1990,4,commander,1998,STS-89,STS-89,STS-89,STS-89,211.0,1008.0,0.0,0.0
+318,202,"Wilcutt, Terrence W.",male,1949,U.S.,True,1990 NASA group,1990,4,commander,2000,STS-106,STS-106,STS-106,STS-106,283.0,1008.0,0.0,0.0
+319,203,"Smith, Steven L.",male,1958,U.S.,False,1992 NASA group,1992,4,MSP,1994,STS-68,STS-68,STS-68,STS-68,264.0,960.0,0.0,49.8
+319,203,"Smith, Steven L.",male,1958,U.S.,False,1993 NASA group,1992,4,MSP,1997,STS-82,STS-82,STS-82,STS-82,240.0,960.0,19.17,49.8
+319,203,"Smith, Steven L.",male,1958,U.S.,False,1994 NASA group,1992,4,MSP,1999,STS-103,STS-103,STS-103,STS-103,192.0,960.0,16.38,49.8
+319,203,"Smith, Steven L.",male,1958,U.S.,False,1995 NASA group,1992,4,MSP,2002,STS-110,STS-110,STS-110,STS-110,264.0,960.0,14.25,49.8
+320,80,"Kondakova, Yelena V.",female,1957,U.S.S.R/Russia,False,NPOE-9,1989,2,flight engineer,1994,17,Soyuz TM20,Mir,Soyuz TM20,4061.0,4282.68,0.0,0.0
+320,80,"Kondakova, Yelena V.",female,1957,U.S.S.R/Russia,False,NPOE-9,1989,2,MSP,1997,23,STS84,STS84,STS84,221.0,4282.68,0.0,0.0
+321,204,"Tanner, Joseph R.",male,1950,U.S.,False,1992 NASA group,1992,4,MSP,1994,STS-66,STS-66,STS-66,STS-66,262.0,1045.25,0.0,46.48
+321,204,"Tanner, Joseph R.",male,1950,U.S.,False,1992 NASA group,1992,4,MSP,1997,STS-82,STS-82,STS-82,STS-82,239.0,1045.25,14.02,46.48
+321,204,"Tanner, Joseph R.",male,1950,U.S.,False,1992 NASA group,1992,4,MSP,2000,STS-97,STS-97,STS-97,STS-97,259.0,1045.25,19.33,46.48
+321,204,"Tanner, Joseph R.",male,1950,U.S.,False,1992 NASA group,1992,4,MSP,2006,STS-115,STS-115,STS-115,STS-115,283.0,1045.25,13.13,46.48
+322,5,"Clervoy, Jean-Franois",male,1958,France,True,CNES-2/ESA-2/EAC,1985,3,MSP,1994,STS-66,STS-66,STS-66,STS-66,263.0,675.1,0.0,0.0
+322,5,"Clervoy, Jean-Franois",male,1958,France,True,CNES-2/ESA-2/EAC,1985,3,MSP,1997,STS-84,STS-84,STS-84,STS-84,221.1,675.1,0.0,0.0
+322,5,"Clervoy, Jean-Franois",male,1958,France,True,CNES-2/ESA-2/EAC,1985,3,MSP,1999,STS-103,STS-103,STS-103,STS-103,191.0,675.1,0.0,0.0
+323,205,"Parazynski, Scott E.",male,1961,U.S.,False,NASA-14,1992,5,MSP,1994,STS-66,STS-66,STS-66,STS-66,262.0,1379.0,0.0,47.08
+323,205,"Parazynski, Scott E.",male,1961,U.S.,False,NASA-14,1992,5,MSP,1997,STS-86,STS-86,STS-86,STS-86,259.0,1379.0,5.017,47.08
+323,205,"Parazynski, Scott E.",male,1961,U.S.,False,NASA-14,1992,5,MSP,1998,STS-95,STS-95,STS-95,STS-95,213.0,1379.0,0.0,47.08
+323,205,"Parazynski, Scott E.",male,1961,U.S.,False,NASA-14,1992,5,MSP,2001,STS-100,STS-100,STS-100,STS-100,283.0,1379.0,14.83,47.08
+323,205,"Parazynski, Scott E.",male,1961,U.S.,False,NASA-14,1992,5,MSP,2007,STS-120,STS-120,STS-120,STS-120,362.0,1379.0,27.23,47.08
+324,206,"Collins, Eileen M.",female,1956,U.S.,True,NASA- 13,1990,4,pilot,1995,STS-63,STS-63,STS-63,STS-63,198.5,872.0,0.0,0.0
+324,206,"Collins, Eileen M.",female,1956,U.S.,True,NASA- 13,1990,4,pilot,1997,STS-84,STS-84,STS-84,STS-84,120.0,872.0,0.0,0.0
+324,206,"Collins, Eileen M.",female,1956,U.S.,True,NASA- 13,1990,4,commander,1999,STS-93,STS-93,STS-93,STS-93,119.0,872.0,0.0,0.0
+324,206,"Collins, Eileen M.",female,1956,U.S.,True,NASA- 13,1990,4,commander,2005,STS-114,STS-114,STS-114,STS-114,333.0,872.0,0.0,0.0
+325,207,"Gregory, William G.",male,1957,U.S.,True,NASA Astronaut Group 13,1990,1,pilot,1995,STS-67,STS-67,STS-67,STS-67,399.0,399.0,0.0,0.0
+326,208,"Grunsfeld, John M.",male,1958,U.S.,False,NASA Astronaut Group 14,1992,5,MSP,1995,STS-67,STS-67,STS-67,STS-67,399.0,1405.0,0.0,59.5
+326,208,"Grunsfeld, John M.",male,1958,U.S.,False,NASA Astronaut Group 15,1992,5,MSP,1997,STS-81,STS-81,STS-81,STS-81,244.0,1405.0,0.0,59.5
+326,208,"Grunsfeld, John M.",male,1958,U.S.,False,NASA Astronaut Group 16,1992,5,MSP,1999,STS-103,STS-103,STS-103,STS-103,191.0,1405.0,16.33,59.5
+326,208,"Grunsfeld, John M.",male,1958,U.S.,False,NASA Astronaut Group 17,1992,5,MSP,2002,STS-109,STS-109,STS-109,STS-109,262.0,1405.0,21.15,59.5
+326,208,"Grunsfeld, John M.",male,1958,U.S.,False,NASA Astronaut Group 18,1992,5,MSP,2009,STS-125,STS-125,STS-125,STS-125,309.0,1405.0,20.97,59.5
+327,209,"Lawrence, Wendy B.",female,1959,U.S.,True,NASA- 14,1992,4,MSP,1995,STS-67,STS-67,STS-67,STS-67,399.0,1226.0,0.0,0.0
+327,209,"Lawrence, Wendy B.",female,1959,U.S.,True,NASA- 14,1992,4,MSP,1997,STS-86,STS-86,STS-86,STS-86,259.0,1226.0,0.0,0.0
+327,209,"Lawrence, Wendy B.",female,1959,U.S.,True,NASA- 14,1992,4,MSP,1998,STS-91,STS-91,STS-91,STS-91,235.0,1226.0,0.0,0.0
+327,209,"Lawrence, Wendy B.",female,1959,U.S.,True,NASA- 14,1992,4,MSP,2005,STS-114,STS-114,STS-114,STS-114,333.0,1226.0,0.0,0.0
+328,81,"Dezhurov, Vladimir N.",male,1962,U.S.S.R/Russia,True,TsPK-8,1987,2,commander,1995,18,Soyuz TM21,Mir,STS71,2768.0,5861.47,18.18,36.87
+328,81,"Dezhurov, Vladimir N.",male,1962,U.S.S.R/Russia,True,TsPK-8,1987,2,commander,2001,3,STS-105,ISS,STS-108,3092.0,5861.47,18.67,36.87
+329,82,"Budarin, Nikolai",male,1953,U.S.S.R/Russia,False,NPOE-9,1989,3,flight engineer,1995,19,STS71,Mir,Soyuz TM21,1811.0,10657.42,14.53,46.02
+329,82,"Budarin, Nikolai",male,1953,U.S.S.R/Russia,False,NPOE-9,1989,3,flight engineer,1998,25,Soyuz TM27,Mir,Soyuz TM27,4980.0,10657.42,31.48,46.02
+329,82,"Budarin, Nikolai",male,1953,U.S.S.R/Russia,False,NPOE-9,1989,3,flight engineer,2002,6,STS113,ISS,Soyuz TMA1,3865.0,10657.42,0.0,46.02
+330,210,Kregel Kevin R.,male,1956,U.S.,False,NASA- 14,1992,4,pilot,1995,STS-70,STS-70,STS-70,STS-70,214.0,1266.35,0.0,0.0
+330,210,Kregel Kevin R.,male,1956,U.S.,False,NASA- 14,1992,4,pilot,1996,STS-78,STS-78,STS-78,STS-78,405.0,1266.35,0.0,0.0
+330,210,Kregel Kevin R.,male,1956,U.S.,False,NASA- 14,1992,4,commander,1997,STS-87,STS-87,STS-87,STS-87,376.0,1266.35,0.0,0.0
+330,210,Kregel Kevin R.,male,1956,U.S.,False,NASA- 14,1992,4,commander,2000,STS-99,STS-99,STS-99,STS-99,269.0,1266.35,0.0,0.0
+331,211,"Weber, Mary E.",female,1962,U.S.,False,1992 NASA group,1992,2,MSP,1995,STS-70,STS-70,STS-70,STS-70,236.0,450.5,0.0,0.0
+331,211,"Weber, Mary E.",female,1962,U.S.,False,1992 NASA group,1992,2,MSP,2000,STS-101,STS-101,STS-101,STS-101,214.0,450.5,0.0,0.0
+332,83,"Gidzenko, Yuri",male,1962,U.S.S.R/Russia,True,TsPK-8,1987,3,commander,1995,20,Soyuz TM22,Mir,Soyuz TM22,4297.0,7918.73,3.1,3.1
+332,83,"Gidzenko, Yuri",male,1962,U.S.S.R/Russia,True,TsPK-8,1987,3,commander,2000,1,Soyuz TM31,ISS,STS102,3383.0,7918.73,0.0,3.1
+332,83,"Gidzenko, Yuri",male,1962,U.S.S.R/Russia,True,TsPK-8,1987,3,commander,2002,Soyuz  3,Soyuz TM34,Soyuz TM34,Soyuz TM33,237.0,7918.73,0.0,3.1
+333,7,"Reiter, Thomas",male,1958,Germany,True,ESA-2/EAC,1992,2,flight engineer,1995,20,Soyuz TM-22,Mir,Soyuz TM-22,4297.6,8405.58,8.35,14.25
+333,7,"Reiter, Thomas",male,1958,Germany,True,ESA-2/EAC,1992,2,flight engineer,2006,13,STS-121,ISS,STS-116,4108.0,8405.58,5.9,14.25
+334,212,"Gernhardt, Michael L.",male,1956,U.S.,False,NASA Astronaut Group 14,1992,4,MSP,1995,STS-69,STS-69,STS-69,STS-69,260.5,1039.05,6.76,23.26
+334,212,"Gernhardt, Michael L.",male,1956,U.S.,False,NASA Astronaut Group 15,1992,4,MSP,1997,STS-83,STS-83,STS-83,STS-83,95.2,1039.05,0.0,23.26
+334,212,"Gernhardt, Michael L.",male,1956,U.S.,False,NASA Astronaut Group 16,1992,4,MSP,1997,STS-94,STS-94,STS-94,STS-94,376.75,1039.05,0.0,23.26
+334,212,"Gernhardt, Michael L.",male,1956,U.S.,False,NASA Astronaut Group 17,1992,4,MSP,2001,STS-104,STS-104,STS-104,STS-104,306.6,1039.05,16.5,23.26
+335,213,"Rominger, Kent V.",male,1956,U.S.,True,NASA-14,1992,5,pilot,1995,STS-73,STS-73,STS-73,STS-73,381.0,1608.0,0.0,0.0
+335,213,"Rominger, Kent V.",male,1956,U.S.,True,NASA-14,1992,5,pilot,1996,STS-80,STS-80,STS-80,STS-80,423.0,1608.0,0.0,0.0
+335,213,"Rominger, Kent V.",male,1956,U.S.,True,NASA-14,1992,5,pilot,1997,STS-85,STS-85,STS-85,STS-85,55.0,1608.0,0.0,0.0
+335,213,"Rominger, Kent V.",male,1956,U.S.,True,NASA-14,1992,5,commander,1999,STS-96,STS-96,STS-96,STS-96,235.0,1608.0,0.0,0.0
+335,213,"Rominger, Kent V.",male,1956,U.S.,True,NASA-14,1992,5,commander,2001,STS-100,STS-100,STS-100,STS-100,285.0,1608.0,0.0,0.0
+336,214,"Coleman, Catherine G.",female,1960,U.S.,True,NASA- 14,1992,3,MSP,1995,STS-73,STS-73,STS-73,STS-73,382.0,500.0,0.0,0.0
+336,214,"Coleman, Catherine G.",female,1960,U.S.,True,NASA- 14,1992,3,MSP,1999,STS-93,STS-93,STS-93,STS-93,119.0,500.0,0.0,0.0
+336,214,"Coleman, Catherine G.",female,1960,U.S.,True,NASA- 14,1992,3,flight engineer,2011,26,Soyuz TMA-20,ISS,Soyuz TMA-20,3823.0,500.0,0.0,0.0
+337,215,"Lopez-Alegria, Michael E.",male,1958,U.S.,True,NASA- 14,1992,4,MSP,1995,STS-73,STS-73,STS-73,STS-73,381.0,6190.67,0.0,67.67
+337,215,"Lopez-Alegria, Michael E.",male,1958,U.S.,True,NASA- 15,1992,4,MSP,2000,STS-92,STS-92,STS-92,STS-92,309.0,6190.67,14.05,67.67
+337,215,"Lopez-Alegria, Michael E.",male,1958,U.S.,True,NASA- 16,1992,4,MSP,2002,STS-113,STS-113,STS-113,STS-113,330.0,6190.67,19.92,67.67
+337,215,"Lopez-Alegria, Michael E.",male,1958,U.S.,True,NASA- 17,1992,4,flight engineer,2007,14,Soyuz TMA-9,ISS,Soyuz TMA-9,5168.0,6190.67,33.7,67.67
+338,216,"Leslie, Fred Weldon",male,1951,U.S.,False,PS for STS-73,1994,1,PSP,1995,STS-73,STS-73,STS-73,STS-73,382.02,382.02,0.0,0.0
+339,217,"Sacco, Albert Jr.",male,1949,U.S.,False,PS for STS-73,1994,1,PSP,1995,STS-73,STS-73,STS-73,STS-73,382.02,382.02,0.0,0.0
+340,4,Chris Hadfield,male,1959,Canada,True,1992 CSA Group,1992,3,pilot,1995,STS-74,STS-74,STS-74,STS-74,196.5,4191.82,0.0,14.83
+340,4,Chris Hadfield,male,1959,Canada,True,1992 CSA Group,1992,3,pilot,2001,STS-100,STS-100,STS-100,STS-100,285.5,4191.82,14.83,14.83
+340,4,Chris Hadfield,male,1959,Canada,True,1992 CSA Group,1992,3,pilot,2012,34,Soyuz TMA-07M,ISS,Soyuz TMA-07M,3710.32,4191.82,0.0,14.83
+341,218,"Jett, Brent W.",male,1958,U.S.,True,NASA- 14,1992,4,pilot,1996,STS-72,STS-72,STS-72,STS-72,214.0,1002.02,0.0,0.0
+341,218,"Jett, Brent W.",male,1958,U.S.,True,NASA- 15,1992,4,pilot,1997,STS-81,STS-81,STS-81,STS-81,244.0,1002.02,0.0,0.0
+341,218,"Jett, Brent W.",male,1958,U.S.,True,NASA- 16,1992,4,commander,2000,STS-97,STS-97,STS-97,STS-97,259.0,1002.02,0.0,0.0
+341,218,"Jett, Brent W.",male,1958,U.S.,True,NASA- 17,1992,4,commander,2006,STS-115,STS-115,STS-115,STS-115,283.0,1002.02,0.0,0.0
+342,219,"Scott, Winston E.",male,1950,U.S.,True,1992 NASA group 14,1992,2,MSP,1996,STS-72,STS-72,STS-72,STS-72,214.0,590.0,6.68,19.38
+342,219,"Scott, Winston E.",male,1950,U.S.,True,1992 NASA group 14,1992,2,MSP,1997,STS-87,STS-87,STS-87,STS-87,376.0,590.0,12.7,19.38
+343,4,"Wakata, Koichi",male,1963,Japan,False,NASDA-2,1992,4,MSP,1996,STS-72,STS-72,STS-72,STS-72,214.0,8336.5,0.0,0.0
+343,4,"Wakata, Koichi",male,1963,Japan,False,NASDA-2,1992,4,MSP,2000,STS-92,STS-92,STS-92,STS-92,309.75,8336.5,0.0,0.0
+343,4,"Wakata, Koichi",male,1963,Japan,False,NASDA-2,1992,4,flight engineer,2009,18,STS-119,ISS,STS-127,3303.0,8336.5,0.0,0.0
+343,4,"Wakata, Koichi",male,1963,Japan,False,NASDA-2,1992,4,commander,2013,38,Soyuz TMA-11M,ISS,Soyuz TMA-11M,4509.75,8336.5,0.0,0.0
+344,220,"Barry, Daniel T.",male,1953,U.S.,False,NASA- 14,1992,3,MSP,1996,STS-72,STS-72,STS-72,STS-72,214.0,734.0,6.15,25.82
+344,220,"Barry, Daniel T.",male,1953,U.S.,False,NASA- 14,1992,3,MSP,1999,STS-96,STS-96,STS-96,STS-96,235.0,734.0,7.92,25.82
+344,220,"Barry, Daniel T.",male,1953,U.S.,False,NASA- 14,1992,3,MSP,2001,STS-105,STS-105,STS-105,STS-105,285.0,734.0,11.75,25.82
+345,84,"Onufrienko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-10,1989,2,commander,1996,21,Soyuz TM23,Mir,Soyuz TM23,4651.0,9350.77,30.5,42.53
+345,84,"Onufrienko, Yuri",male,1961,U.S.S.R/Russia,True,TsPK-11,1989,2,commander,2001,4,STS108,ISS,STS111,4699.0,9350.77,12.03,42.53
+346,221,"Horowitz, Scott J.",male,1957,U.S.,True,NASA- 14,1992,4,pilot,1996,STS-75,STS-75,STS-75,STS-75,378.0,1138.68,0.0,0.0
+346,221,"Horowitz, Scott J.",male,1957,U.S.,True,NASA- 15,1992,4,pilot,1997,STS-82,STS-82,STS-82,STS-82,277.0,1138.68,0.0,0.0
+346,221,"Horowitz, Scott J.",male,1957,U.S.,True,NASA- 16,1992,4,pilot,2000,STS-101,STS-101,STS-101,STS-101,237.0,1138.68,0.0,0.0
+346,221,"Horowitz, Scott J.",male,1957,U.S.,True,NASA- 17,1992,4,commander,2001,STS-105,STS-105,STS-105,STS-105,285.0,1138.68,0.0,0.0
+347,2,"Cheli, Maurizio",male,1959,Italy,True,1992 ESA Group,1992,1,MSP,1996,STS-75,STS-75,STS-75,STS-75,377.68,377.68,0.0,0.0
+348,3,"Guidoni, Umberto",male,1954,Italy,False,1996 NASA Group,1996,2,MSP,1996,STS-75,STS-75,STS-75,STS-75,377.67,663.17,0.0,0.0
+348,3,"Guidoni, Umberto",male,1954,Italy,False,1996 NASA Group,1996,2,MSP,2001,STS-100,STS-100,STS-100,STS-100,285.5,663.17,0.0,0.0
+349,222,"Thomas, Andrew S. W.",male,1951,Australia,False,1992 NASA group,1992,4,MSP,1983,STS-77,STS-77,STS-77,STS-77,240.0,4264.0,0.0,6.35
+349,222,"Thomas, Andrew S. W.",male,1951,Australia,False,1992 NASA group,1992,4,MSP,1998,24,STS-89,Mir,STS-91,3384.0,4264.0,0.0,6.35
+349,222,"Thomas, Andrew S. W.",male,1951,Australia,False,1992 NASA group,1992,4,MSP,2001,STS-102,STS-102,STS-102,STS-102,307.0,4264.0,6.35,6.35
+349,222,"Thomas, Andrew S. W.",male,1951,Australia,False,1992 NASA group,1992,4,MSP,2005,STS-114,STS-114,STS-114,STS-114,333.0,4264.0,0.0,6.35
+350,223,"Linnehan, Richard M.",male,1957,U.S.,False,NASA- 14,1992,4,MSP,1996,STS-78,STS-78,STS-78,STS-78,405.0,1427.0,0.0,42.2
+350,223,"Linnehan, Richard M.",male,1957,U.S.,False,NASA- 14,1992,4,MSP,1998,STS-90,STS-90,STS-90,STS-90,382.0,1427.0,0.0,42.2
+350,223,"Linnehan, Richard M.",male,1957,U.S.,False,NASA- 14,1992,4,MSP,2002,STS-109,STS-109,STS-109,STS-109,262.0,1427.0,20.92,42.2
+350,223,"Linnehan, Richard M.",male,1957,U.S.,False,NASA- 14,1992,4,MSP,2008,STS-123,STS-123,STS-123,STS-123,378.0,1427.0,21.28,42.2
+351,224,"Brady, Charles E., Jr.",male,1951,U.S.,True,NASA- 14,1992,1,MSP,1996,STS-78,STS-78,STS-78,STS-78,405.0,405.0,0.0,0.0
+352,6,"Favier, Jean-Jacques",male,1949,France,False,CNES-2,1985,1,PSP,1996,STS-78,STS-78,STS-78,STS-78,405.8,405.8,0.0,0.0
+353,5,Robert Thirsk,male,1953,Canada,False,1983 NRC Group,1983,2,MSP,1996,STS-78,STS-78,STS-78,STS-78,405.8,4917.8,0.0,0.0
+353,5,Robert Thirsk,male,1953,Canada,False,1983 NRC Group,1983,2,flight engineer,2009,20,Soyuz TMA-15,ISS,Soyuz TMA-15,4512.0,4917.8,0.0,0.0
+354,85,"Korzun, Valery",male,1953,U.S.S.R/Russia,True,TsPK-8,1987,2,commander,1996,22,Soyuz TM24,Mir,Soyuz TM24,4721.0,9159.68,12.6,22.33
+354,85,"Korzun, Valery",male,1953,U.S.S.R/Russia,True,TsPK-9,1987,2,commander,2002,5,STS111,ISS,STS113,4438.0,9159.68,9.73,22.33
+355,7,"Andr-Deshays, Claudie (Haigner)",female,1957,France,False,CNES-2/EAC,1985,2,MSP,1996,Soyuz TM-24/23,Soyuz TM-24,Soyuz TM-24,Soyuz TM-23,378.4,614.37,0.0,0.0
+355,7,"Andr-Deshays, Claudie (Haigner)",female,1957,France,False,CNES-2/EAC,1985,2,flight engineer,2001,Soyuz TM-33/32,Soyuz TM-33,Soyuz TM-33,Soyuz TM-32,236.0,614.37,0.0,0.0
+356,86,"Lazutkin, Aleksandr",male,1957,U.S.S.R/Russia,False,NPOE-10,1992,1,flight engineer,1997,23,Soyuz TM25,Mir,Soyuz TM25,4438.0,4438.12,0.0,0.0
+357,8,"Ewald, Reinhold",male,1956,Germany,False,DLR-3/EAC,1990,1,MSP,1997,Soyuz TM-25/24,Soyuz TM-25,Soyuz TM-25,Soyuz TM-24,472.57,472.57,0.0,0.0
+358,225,"Kilrain-Still, Susan L.",female,1961,U.S.,True,NASA- 15,1995,2,pilot,1997,STS-83,STS-83,STS-83,STS-83,95.0,471.0,0.0,0.0
+358,225,"Kilrain-Still, Susan L.",female,1961,U.S.,True,NASA- 15,1995,2,pilot,1997,STS-94,STS-94,STS-94,STS-94,376.0,471.0,0.0,0.0
+359,226,"Crouch, Roger Keith",male,1940,U.S.,False,PS for STS-42,1995,2,PSP,1997,STS-83,STS-83,STS-83,STS-83,95.54,4576.07,0.0,0.0
+359,226,"Crouch, Roger Keith",male,1940,U.S.,False,PS for STS-43,1995,2,PSP,1997,STS-94,STS-94,STS-94,STS-94,377.01,4576.07,0.0,0.0
+360,227,"Linteris, Gregory Thomas",male,1957,U.S.,False,PS for STS-42,1995,2,PSP,1997,STS-83,STS-83,STS-83,STS-83,95.54,4576.07,0.0,0.0
+360,227,"Linteris, Gregory Thomas",male,1957,U.S.,False,PS for STS-43,1995,2,PSP,1997,STS-94,STS-94,STS-94,STS-94,377.01,4576.07,0.0,0.0
+361,228,"Noriega, Carlos I.",male,1959,U.S.,True,NASA-15,1995,2,MSP,1997,STS-84,STS-84,STS-84,STS-84,221.0,481.0,0.0,19.33
+361,228,"Noriega, Carlos I.",male,1959,U.S.,True,NASA-15,1995,2,MSP,2000,STS-97,STS-97,STS-97,STS-97,260.0,481.0,19.33,19.33
+362,229,"Lu, Edward T.",male,1963,U.S.,False,NASA- 15,1995,3,MSP,1997,STS-84,STS-84,STS-84,STS-84,221.0,4943.3,0.0,6.23
+362,229,"Lu, Edward T.",male,1963,U.S.,False,NASA- 16,1995,3,MSP,2000,STS-106,STS-106,STS-106,STS-106,283.0,4943.3,6.23,6.23
+362,229,"Lu, Edward T.",male,1963,U.S.,False,NASA- 17,1995,3,flight engineer,2003,7,Soyuz TMA-2,ISS,Soyuz TMA-2,4439.0,4943.3,0.0,6.23
+363,87,"Vinogradov, Pavel",male,1953,U.S.S.R/Russia,False,NPOE-10,1992,3,flight engineer,1997,24,Soyuz TM26,Mir,Soyuz TM26,4745.0,13126.53,25.27,38.4
+363,87,"Vinogradov, Pavel",male,1953,U.S.S.R/Russia,False,NPOE-10,1992,3,commander,2006,13,Soyuz TMA8,ISS,Soyuz TMA8,4390.0,13126.53,6.52,38.4
+363,87,"Vinogradov, Pavel",male,1953,U.S.S.R/Russia,False,NPOE-10,1992,3,commander,2013,35,Soyuz TMA08M,ISS,Soyuz TMA08M,3990.0,13126.53,6.62,38.4
+364,230,"Curbeam, Robert L., Jr.",male,1962,U.S.,True,NASA- 15,1994,3,MSP,1997,STS-85,STS-85,STS-85,STS-85,284.0,902.0,0.0,45.55
+364,230,"Curbeam, Robert L., Jr.",male,1962,U.S.,True,NASA- 15,1994,3,MSP,2001,STS-98,STS-98,STS-98,STS-98,309.0,902.0,19.82,45.55
+364,230,"Curbeam, Robert L., Jr.",male,1962,U.S.,True,NASA- 15,1994,3,MSP,2006,STS-116,STS-116,STS-116,STS-116,309.0,902.0,24.75,45.55
+365,231,"Robinson, Stephen K.",male,1955,U.S.,False,NASA-15,1994,4,MSP,1997,STS-85,STS-85,STS-85,STS-85,284.0,1156.0,0.0,20.08
+365,231,"Robinson, Stephen K.",male,1955,U.S.,False,NASA-15,1994,4,MSP,1998,STS-95,STS-95,STS-95,STS-95,213.0,1156.0,0.0,20.08
+365,231,"Robinson, Stephen K.",male,1955,U.S.,False,NASA-15,1994,4,MSP,2005,STS-114,STS-114,STS-114,STS-114,333.0,1156.0,20.08,20.08
+365,231,"Robinson, Stephen K.",male,1955,U.S.,False,NASA-15,1994,4,MSP,2010,STS-130,STS-130,STS-130,STS-130,330.0,1156.0,0.0,20.08
+366,6,Bjarni Tryggvason,male,1945,Canada,False,1983 NRC Group,1983,1,PSP,1997,STS-85,STS-85,STS-85,STS-85,284.0,284.0,0.0,0.0
+367,232,"Bloomfield, Michael J.",male,1959,U.S.,True,NASA- 15,1994,3,pilot,1997,STS-86,STS-86,STS-86,STS-86,259.0,779.0,0.0,0.0
+367,232,"Bloomfield, Michael J.",male,1959,U.S.,True,NASA- 15,1994,3,pilot,2000,STS-97,STS-97,STS-97,STS-97,260.0,779.0,0.0,0.0
+367,232,"Bloomfield, Michael J.",male,1959,U.S.,True,NASA- 15,1994,3,commander,2002,STS-110,STS-110,STS-110,STS-110,260.0,779.0,0.0,0.0
+368,233,"Lindsey, Steven W.",male,1960,U.S.,True,NASA- 15,1995,5,pilot,1997,STS-87,STS-87,STS-87,STS-87,376.0,1508.0,0.0,0.0
+368,233,"Lindsey, Steven W.",male,1960,U.S.,True,NASA- 16,1995,5,pilot,1998,STS-95,STS-95,STS-95,STS-95,213.0,1508.0,0.0,0.0
+368,233,"Lindsey, Steven W.",male,1960,U.S.,True,NASA- 17,1995,5,commander,2002,STS-104,STS-104,STS-104,STS-104,306.0,1508.0,0.0,0.0
+368,233,"Lindsey, Steven W.",male,1960,U.S.,True,NASA- 18,1995,5,commander,2006,STS-121,STS-121,STS-121,STS-121,306.0,1508.0,0.0,0.0
+368,233,"Lindsey, Steven W.",male,1960,U.S.,True,NASA- 19,1995,5,commander,2011,STS-133,STS-133,STS-133,STS-133,307.0,1508.0,0.0,0.0
+369,234,"Chawla, Kalpana",female,1962,U.S.,False,NASA- 16,1994,2,MSP,1997,STS-87,STS-87,STS-87,STS-87,376.0,758.0,0.0,0.0
+369,234,"Chawla, Kalpana",female,1962,U.S.,False,NASA- 16,1994,2,MSP,2003,STS-107,STS-107,STS-107,Exploded,382.0,758.0,0.0,0.0
+370,5,"Doi, Takao",male,1954,Japan,False,NASDA-1,1985,2,MSP,1997,STS-87,STS-87,STS-87,STS-87,376.5,763.6,12.7,12.7
+370,5,"Doi, Takao",male,1954,Japan,False,NASDA-1,1985,2,MSP,2008,STS-123,STS-123,STS-123,STS-123,378.3,763.6,0.0,12.7
+371,1,"Kadenyuk, Leonid",male,1951,U.S.S.R/Ukraine,False,TsPK-6 / GKNII-1 / Ukraine,1976,1,pilot,1997,STS87,STS87,STS87,STS87,376.0,376.57,0.0,0.0
+372,235,"Edwards, Joe F., Jr.",male,1958,U.S.,True,NASA- 15,1995,1,pilot,1998,STS-89,STS-89,STS-89,STS-89,211.0,211.0,0.0,0.0
+373,236,"Reilly, James F.",male,1954,U.S.,False,NASA-15,1994,3,MSP,1998,STS-89,STS-89,STS-89,STS-89,211.0,853.0,0.0,30.72
+373,236,"Reilly, James F.",male,1954,U.S.,False,NASA-15,1994,3,MSP,2001,STS-104,STS-104,STS-104,STS-104,306.0,853.0,16.48,30.72
+373,236,"Reilly, James F.",male,1954,U.S.,False,NASA-15,1994,3,MSP,2007,STS-117,STS-117,STS-117,STS-117,336.0,853.0,14.22,30.72
+374,237,"Anderson, Michael P.",male,1959,U.S.,True,NASA- 15,1994,2,MSP,1998,STS-89,STS-89,STS-89,STS-89,211.0,593.0,0.0,0.0
+374,237,"Anderson, Michael P.",male,1959,U.S.,True,NASA- 15,1994,2,MSP,2003,STS-107,STS-107,STS-107,STS-107,382.0,593.0,0.0,0.0
+375,88,"Sharipov, Salizhan",male,1964,U.S.S.R/Russia,True,TsPK-11,1990,2,Flight engineer,1998,24,STS89,Mir,STS89,211.0,4838.83,0.0,10.0
+375,88,"Sharipov, Salizhan",male,1964,U.S.S.R/Russia,True,TsPK-11,1990,2,commander,2004,10,Soyuz TMA5,ISS,Soyuz TMA5,4627.0,4838.83,10.0,10.0
+376,8,"Eyharts, Lopold",male,1957,France,True,CNES-3/EAC,1990,2,MSP,1998,Soyuz TM-27/26,Soyuz TM-27,Soyuz TM-27,Soyuz TM-26,496.5,1653.52,0.0,0.0
+376,8,"Eyharts, Lopold",male,1957,France,True,CNES-3/EAC,1990,2,flight engineer,2008,16,STS-122,ISS,STS-123,1157.0,1653.52,0.0,0.0
+377,238,"Altman, Scott D.",male,1959,U.S.,True,NASA- 15,1994,4,pilot,1998,STS-90,STS-90,STS-90,STS-90,382.0,1224.0,0.0,0.0
+377,238,"Altman, Scott D.",male,1959,U.S.,True,NASA- 15,1994,4,pilot,2000,STS-106,STS-106,STS-106,STS-106,283.0,1224.0,0.0,0.0
+377,238,"Altman, Scott D.",male,1959,U.S.,True,NASA- 15,1994,4,commander,2002,STS-109,STS-109,STS-109,STS-109,262.0,1224.0,0.0,0.0
+377,238,"Altman, Scott D.",male,1959,U.S.,True,NASA- 15,1994,4,commander,2009,STS-125,STS-125,STS-125,STS-125,309.0,1224.0,0.0,0.0
+378,239,"Hire, Kathryn P.",female,1959,U.S.,True,NASA- 15,1995,2,MSP,1998,STS-90,STS-90,STS-90,STS-90,381.0,711.0,0.0,0.0
+378,239,"Hire, Kathryn P.",female,1959,U.S.,True,NASA- 16,1995,2,MSP,2010,STS-130,STS-130,STS-130,STS-130,330.0,711.0,0.0,0.0
+379,7,"Williams, Dafydd Rhys",male,1954,Canada,False,1992 CSA Group,1992,2,MSP,1998,STS-90,STS-90,STS-90,STS-90,381.85,676.85,0.0,17.78
+379,7,"Williams, Dafydd Rhys",male,1954,Canada,False,1992 CSA Group,1992,2,MSP,2007,STS-118,STS-118,STS-118,STS-118,305.0,676.85,17.78,17.78
+380,240,"Buckey, Jay Clark Jr.",male,1956,U.S.,False,PS for Neurolab,1991,1,PSP,1998,STS-90,STS-90,STS-90,STS-90,382.31,382.31,0.0,0.0
+381,241,"Pawelczyk, James Anthony",male,1960,U.S.,False,PS for neurolab,1996,1,PSP,1998,STS-90,STS-90,STS-90,STS-90,382.31,382.31,0.0,0.0
+382,242,"Gorie, Dominic L.",male,1957,U.S.,True,NASA Astronaut Group 15,1995,4,pilot,1998,STS-91,STS-91,STS-91,STS-91,235.0,1176.1,0.0,0.0
+382,242,"Gorie, Dominic L.",male,1957,U.S.,True,NASA Astronaut Group 16,1995,4,pilot,2000,STS-99,STS-99,STS-99,STS-99,269.0,1176.1,0.0,0.0
+382,242,"Gorie, Dominic L.",male,1957,U.S.,True,NASA Astronaut Group 17,1995,4,commander,2001,STS-108,STS-108,STS-108,STS-108,283.0,1176.1,0.0,0.0
+382,242,"Gorie, Dominic L.",male,1957,U.S.,True,NASA Astronaut Group 18,1995,4,commander,2008,STS-123,STS-123,STS-123,STS-123,378.0,1176.1,0.0,0.0
+383,243,"Kavandi, Janet L.",female,1957,U.S.,False,NASA- 15,1995,3,MSP,1998,STS-91,STS-91,STS-91,STS-91,235.0,810.0,0.0,0.0
+383,243,"Kavandi, Janet L.",female,1957,U.S.,False,NASA- 15,1995,3,MSP,2000,STS-99,STS-99,STS-99,STS-99,269.0,810.0,0.0,0.0
+383,243,"Kavandi, Janet L.",female,1957,U.S.,False,NASA- 15,1995,3,MSP,2001,STS-104,STS-104,STS-104,STS-104,306.0,810.0,0.0,0.0
+384,89,"Padalka, Gennady",male,1958,U.S.S.R/Russia,True,TsPK-10,1989,5,commander,1998,26,Soyuz TM28,Mir,Soyuz TM28,4768.0,21083.52,5.9,37.95
+384,89,"Padalka, Gennady",male,1958,U.S.S.R/Russia,True,TsPK-10,1989,5,commander,2004,9,Soyuz TMA4,ISS,Soyuz TMA4,4509.0,21083.52,15.73,37.95
+384,89,"Padalka, Gennady",male,1958,U.S.S.R/Russia,True,TsPK-10,1989,5,commander,2009,19,Soyuz TMA14,ISS,Soyuz TMA14,4768.0,21083.52,4.9,37.95
+384,89,"Padalka, Gennady",male,1958,U.S.S.R/Russia,True,TsPK-10,1989,5,commander,2012,31,Soyuz TMA04M,ISS,Soyuz TMA04M,2999.0,21083.52,5.85,37.95
+384,89,"Padalka, Gennady",male,1958,U.S.S.R/Russia,True,TsPK-10,1989,5,commander,2015,43,Soyuz TMA16M,ISS,Soyuz TMA16M,4037.0,21083.52,5.57,37.95
+385,90,"Baturin, Yuri",male,1949,U.S.S.R/Russia,False,Politician-1,1997,2,MSP,1998,26,Soyuz TM28,Mir,Soyuz TM27,283.0,473.75,0.0,0.0
+385,90,"Duque, Pedro",male,1963,Spain,False,1992 ESA Group,1992,2,flight engineer,1998,STS-95,STS-95,STS-95,STS-95,213.73,450.76,0.0,0.0
+385,90,"Baturin, Yuri",male,1949,U.S.S.R/Russia,False,Politician-2,1997,2,MSP,2001,Soyuz TM32/31,Soyuz TM32,Soyuz TM32,Soyuz TM31,190.0,473.75,0.0,0.0
+385,90,"Duque, Pedro",male,1963,Spain,False,1992 ESA Group,1992,2,flight engineer,2003,Soyuz TMA-3/2,Soyuz TMA-3,Soyuz TMA-3,Soyuz TMA-2,237.03,450.76,0.0,0.0
+387,244,"Sturckow, Frederick W.",male,1961,U.S.,True,1994 NASA group 15,1995,4,pilot,1998,STS-88,STS-88,STS-88,STS-88,283.0,1237.0,0.0,0.0
+387,244,"Sturckow, Frederick W.",male,1961,U.S.,True,1994 NASA group 15,1995,4,pilot,2001,STS-105,STS-105,STS-105,STS-105,285.0,1237.0,0.0,0.0
+387,244,"Sturckow, Frederick W.",male,1961,U.S.,True,1994 NASA group 15,1995,4,commander,2007,STS-117,STS-117,STS-117,STS-117,336.0,1237.0,0.0,0.0
+387,244,"Sturckow, Frederick W.",male,1961,U.S.,True,1994 NASA group 15,1995,4,commander,2009,STS-128,STS-128,STS-128,STS-128,333.0,1237.0,0.0,0.0
+388,1,"Bella, Ivan",male,1964,Slovakia,True,Slovakia,1998,1,MSP,1999,27,Soyuz TM-29,Mir,Soyuz TM-28,190.0,190.0,0.0,0.0
+389,245,"Husband, Rick D.",male,1957,U.S.,True,NASA- 15,1995,2,pilot,1999,STS-96,STS-96,STS-96,STS-96,235.0,617.0,0.0,0.0
+389,245,"Husband, Rick D.",male,1957,U.S.,True,NASA- 16,1995,2,commander,2003,STS-107,STS-107,STS-107,Exploded,382.0,617.0,0.0,0.0
+390,8,"Payette, Julie",female,1963,Canada,False,1992 CSA Group,1992,2,MSP,1999,STS-96,STS-96,STS-96,STS-96,235.23,611.98,0.0,0.0
+390,8,"Payette, Julie",female,1963,Canada,False,1992 CSA Group,1992,2,MSP,2009,STS-127,STS-127,STS-127,STS-127,376.75,611.98,0.0,0.0
+391,91,"Tokarev, Valeri",male,1952,U.S.S.R/Russia,True,GKNII-3 / TsPK-12,1989,2,Flight engineer,1999,STS96,STS96,STS96,STS96,235.0,4791.1,0.0,11.08
+391,91,"Tokarev, Valeri",male,1952,U.S.S.R/Russia,True,GKNII-3 / TsPK-12,1989,2,MSP,2005,12,Soyuz TMA7,ISS,Soyuz TMA7,4555.0,4791.1,11.08,11.08
+392,246,"Ashby, Jeffrey S.",male,1954,U.S.,True,NASA-15,1995,3,pilot,1999,STS-93,STS-93,STS-93,STS-93,119.0,664.0,0.0,0.0
+392,246,"Ashby, Jeffrey S.",male,1954,U.S.,True,NASA-15,1995,3,pilot,2001,STS-100,STS-100,STS-100,STS-100,285.5,664.0,0.0,0.0
+392,246,"Ashby, Jeffrey S.",male,1954,U.S.,True,NASA-15,1995,3,commander,2002,STS-112,STS-112,STS-112,STS-112,260.0,664.0,0.0,0.0
+393,247,"Kelly, Scott J.",male,1964,U.S.,True,NASA- 16,1996,4,pilot,1999,STS-103,STS-103,STS-103,STS-103,191.0,12490.0,0.0,18.33
+393,247,"Kelly, Scott J.",male,1964,U.S.,True,NASA- 16,1996,4,commander,2007,STS-118,STS-118,STS-118,STS-118,305.0,12490.0,0.0,18.33
+393,247,"Kelly, Scott J.",male,1964,U.S.,True,NASA- 16,1996,4,flight engineer,2011,25,Soyuz TMA-01M,ISS,Soyuz TMA-01M,3825.0,12490.0,0.0,18.33
+393,247,"Kelly, Scott J.",male,1964,U.S.,True,NASA- 16,1996,4,flight engineer,2015,43,Soyuz TMA-16M,ISS,Soyuz TMA-18M,8163.0,12490.0,18.33,18.33
+394,9,"Thiele, Gerhard",male,1953,Germany,False,DLR-2/EAC,1987,1,MSP,2000,STS-99,STS-99,STS-99,STS-99,269.65,269.65,0.0,0.0
+395,92,"Zalyotin, Sergei",male,1962,U.S.S.R/Russia,True,TsPK-11,1990,2,commander,2000,28,Soyuz TM30,Mir,Soyuz TM30,1747.0,2008.6,5.05,5.05
+395,92,"Zalyotin, Sergei",male,1962,U.S.S.R/Russia,True,TsPK-11,1990,2,commander,2002,Soyuz TMA1/TM34,Soyuz TMA1,Soyuz TMA1,Soyuz TM34,260.0,2008.6,0.0,5.05
+396,248,"Williams, Jeffrey N.",male,1958,U.S.,True,1996 NASA group 8,1996,4,MSP,2000,STS-101,STS-101,STS-101,STS-101,240.0,12752.0,6.73,31.92
+396,248,"Williams, Jeffrey N.",male,1958,U.S.,True,1996 NASA group 8,1996,4,flight engineer,2006,13,Soyuz TMA-8,ISS,Soyuz TMA-8,4320.0,12752.0,12.42,31.92
+396,248,"Williams, Jeffrey N.",male,1958,U.S.,True,1996 NASA group 8,1996,4,flight engineer,2010,21,Soyuz TMA-16,ISS,Soyuz TMA-16,4060.0,12752.0,0.0,31.92
+396,248,"Williams, Jeffrey N.",male,1958,U.S.,True,1996 NASA group 8,1996,4,flight engineer,2016,47,Soyuz TMA-20M,ISS,Soyuz TMA-20M,4132.0,12752.0,12.77,31.92
+397,249,"Mastracchio, Richard A.",male,1960,U.S.,False,NASA- 16,1996,4,MSP,2000,STS-106,STS-106,STS-106,STS-106,283.0,5460.0,0.0,53.07
+397,249,"Mastracchio, Richard A.",male,1960,U.S.,False,NASA- 16,1996,4,MSP,2007,STS-118,STS-118,STS-118,STS-118,306.0,5460.0,18.22,53.07
+397,249,"Mastracchio, Richard A.",male,1960,U.S.,False,NASA- 16,1996,4,MSP,2010,STS-131,STS-131,STS-131,STS-131,362.0,5460.0,20.28,53.07
+397,249,"Mastracchio, Richard A.",male,1960,U.S.,False,NASA- 16,1996,4,flight engineer,2014,38,Soyuz TMA-11M,ISS,Soyuz TMA-11M,4509.0,5460.0,14.57,53.07
+398,250,"Burbank, Daniel C.",male,1961,U.S.,True,NASA- 16,1996,3,MSP,2000,STS-106,STS-106,STS-106,STS-106,283.0,4534.0,0.0,7.18
+398,250,"Burbank, Daniel C.",male,1961,U.S.,True,NASA- 16,1996,3,MSP,2006,STS-115,STS-115,STS-115,STS-115,283.0,4534.0,7.18,7.18
+398,250,"Burbank, Daniel C.",male,1961,U.S.,True,NASA- 16,1996,3,commander,2011,29,Soyuz TMA-22,ISS,Soyuz TMA-22,3968.0,4534.0,0.0,7.18
+399,93,"Morukov, Boris",male,1950,U.S.S.R/Russia,False,IMBP-5,1989,1,Flight engineer,2000,STS106,STS106,STS106,STS106,283.0,283.2,0.0,0.0
+400,251,"Melroy, Pamela A.",female,1961,U.S.,True,NASA- 15,1995,3,pilot,2000,STS-92,STS-92,STS-92,STS-92,309.0,930.0,0.0,0.0
+400,251,"Melroy, Pamela A.",female,1961,U.S.,True,NASA- 15,1995,3,pilot,2002,STS-112,STS-112,STS-112,STS-112,259.0,930.0,0.0,0.0
+400,251,"Melroy, Pamela A.",female,1961,U.S.,True,NASA- 15,1995,3,commander,2007,STS-120,STS-120,STS-120,STS-120,362.0,930.0,0.0,0.0
+401,252,"Polansky, Mark L.",male,1956,U.S.,False,NASA-16,1996,3,pilot,2001,STS-98,STS-98,STS-98,STS-98,309.0,993.0,0.0,0.0
+401,252,"Polansky, Mark L.",male,1956,U.S.,False,NASA-16,1996,3,commander,2006,STS-116,STS-116,STS-116,STS-116,308.0,993.0,0.0,0.0
+401,252,"Polansky, Mark L.",male,1956,U.S.,False,NASA-16,1996,3,commander,2009,STS-127,STS-127,STS-127,STS-127,377.0,993.0,0.0,0.0
+402,253,"Kelly, James M.",male,1959,U.S.,True,NASA- 16,1996,2,pilot,2001,STS-102,STS-102,STS-102,STS-102,307.0,640.0,0.0,0.0
+402,253,"Kelly, James M.",male,1959,U.S.,True,NASA- 16,1996,2,pilot,2005,STS-114,STS-114,STS-114,STS-114,333.0,640.0,0.0,0.0
+403,254,"Richards, Paul W.",male,1964,U.S.,False,NASA-16,1996,1,MSP,2001,STS-102,STS-102,STS-102,STS-102,307.0,307.0,6.35,6.35
+404,255,"Phillips, John L.",male,1951,U.S.,False,NASA-16,1996,3,MSP,2001,STS-100,STS-100,STS-100,STS-100,285.0,4872.0,0.0,4.78
+404,255,"Phillips, John L.",male,1951,U.S.,False,NASA-16,1996,3,flight engineer,2005,11,Soyuz TMA-6,ISS,Soyuz TMA-6,4296.0,4872.0,4.78,4.78
+404,255,"Phillips, John L.",male,1951,U.S.,False,NASA-16,1996,3,MSP,2009,STS-119,STS-119,STS-119,STS-119,307.5,4872.0,0.0,4.78
+405,94,"Lonchakov, Yuri",male,1965,U.S.S.R/Russia,True,TsPK-12,1997,3,MSP,2001,STS100,STS100,STS100,STS100,285.0,4818.65,0.0,10.28
+405,94,"Lonchakov, Yuri",male,1965,U.S.S.R/Russia,True,TsPK-12,1997,3,flight engineer,2002,Soyuz TMA1/TM34,Soyuz TMA1,Soyuz TMA1,Soyuz TM34,260.0,4818.65,0.0,10.28
+405,94,"Lonchakov, Yuri",male,1965,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2008,18,Soyuz TMA13,ISS,Soyuz TMA13,4272.0,4818.65,10.28,10.28
+406,256,"Tito, Dennis Anthony",male,1940,U.S.,False,MirCorp,2000,1,Other (space tourist),2001,-1,Soyuz TM-32,Soyuz TM-32,Soyz TM-31,190.13,190.13,0.0,0.0
+407,257,"Hobaugh, Charles O.",male,1961,U.S.,True,NASA- 16,1996,3,pilot,2001,STS-104,STS-104,STS-104,STS-104,306.0,871.78,0.0,0.0
+407,257,"Hobaugh, Charles O.",male,1961,U.S.,True,NASA- 16,1996,3,pilot,2007,STS-118,STS-118,STS-118,STS-118,305.0,871.78,0.0,0.0
+407,257,"Hobaugh, Charles O.",male,1961,U.S.,True,NASA- 16,1996,3,commander,2009,STS-129,STS-129,STS-129,STS-129,259.0,871.78,0.0,0.0
+408,258,"Forrester, Patrick G.",male,1957,U.S.,True,NASA- 16,1996,3,MSP,2001,STS-105,STS-105,STS-105,STS-105,285.0,950.0,11.75,25.5
+408,258,"Forrester, Patrick G.",male,1957,U.S.,True,NASA- 16,1996,3,MSP,2007,STS-117,STS-117,STS-117,STS-117,332.0,950.0,13.75,25.5
+408,258,"Forrester, Patrick G.",male,1957,U.S.,True,NASA- 16,1996,3,MSP,2009,STS-128,STS-128,STS-128,STS-128,333.0,950.0,0.0,25.5
+409,95,"Tyurin, Mikhail",male,1960,U.S.S.R/Russia,True,NPOE-11,1994,3,flight engineer,2001,3,STS105,ISS,STS108,3092.0,12770.85,13.58,25.52
+409,95,"Tyurin, Mikhail",male,1960,U.S.S.R/Russia,True,NPOE-11,1994,3,flight engineer,2006,14,Soyuz TMA9,ISS,Soyuz TMA9,5168.0,12770.85,11.93,25.52
+409,95,"Tyurin, Mikhail",male,1960,U.S.S.R/Russia,True,NPOE-11,1994,3,commander,2013,38,Soyuz TMA11M,ISS,Soyuz TMA11M,4509.0,12770.85,0.0,25.52
+410,96,"Kozeyev, Konstantin",male,1967,U.S.S.R/Russia,False,RKKE-12,1996,1,flight engineer,2001,Soyuz TM33/32,Soyuz TM33,Soyuz TM33,Soyuz TM32,235.0,235.98,0.0,0.0
+411,259,"Kelly, Mark E.",male,1964,U.S.,True,NASA- 16,1996,4,pilot,2001,STS-108,STS-108,STS-108,STS-108,283.0,1297.0,0.0,0.0
+411,259,"Kelly, Mark E.",male,1964,U.S.,True,NASA- 16,1996,4,pilot,2006,STS-121,STS-121,STS-121,STS-121,307.0,1297.0,0.0,0.0
+411,259,"Kelly, Mark E.",male,1964,U.S.,True,NASA- 16,1996,4,commander,2008,STS-124,STS-124,STS-124,STS-124,330.0,1297.0,0.0,0.0
+411,259,"Kelly, Mark E.",male,1964,U.S.,True,NASA- 16,1996,4,commander,2011,STS-134,STS-134,STS-134,STS-134,377.0,1297.0,0.0,0.0
+412,260,"Tani, Daniel M.",male,1961,U.S.,False,1996 NASA group,1996,2,MSP,2001,STS-108,STS-108,STS-108,STS-108,283.0,3163.0,4.2,39.18
+412,260,"Tani, Daniel M.",male,1961,U.S.,False,1996 NASA group,1996,2,MSP,2007,16,STS-120,ISS,STS-122,2880.0,3163.0,34.98,39.18
+413,261,"Carey, Duane G.",male,1957,U.S.,True,NASA- 16,1996,1,pilot,2002,STS-109,STS-109,STS-109,STS-109,262.0,262.0,0.0,0.0
+414,262,"Massimino, Michael J.",male,1962,U.S.,False,NASA- 16,1996,2,MSP,2002,STS-109,STS-109,STS-109,STS-109,262.0,517.8,14.77,30.74
+414,262,"Massimino, Michael J.",male,1962,U.S.,False,NASA- 16,1996,2,MSP,2009,STS-125,STS-125,STS-125,STS-125,309.0,517.8,15.97,30.74
+415,263,"Frick, Stephen N.",male,1964,U.S.,True,NASA- 16,1996,2,pilot,2002,STS-110,STS-110,STS-110,STS-110,260.0,565.0,0.0,0.0
+415,263,"Frick, Stephen N.",male,1964,U.S.,True,NASA- 16,1996,2,commander,2008,STS-122,STS-122,STS-122,STS-122,306.0,565.0,0.0,0.0
+416,264,"Walheim, Rex J.",male,1962,U.S.,True,1996 NASA group,1996,3,MSP,2002,STS-110,STS-110,STS-110,STS-110,259.0,872.51,34.6,56.73
+416,264,"Walheim, Rex J.",male,1962,U.S.,True,1996 NASA group,1996,3,MSP,2008,STS-122,STS-122,STS-122,STS-122,306.0,872.51,22.13,56.73
+416,264,"Walheim, Rex J.",male,1962,U.S.,True,1996 NASA group,1996,3,MSP,2011,STS-135,STS-135,STS-135,STS-135,306.5,872.51,0.0,56.73
+417,265,"Morin, Lee M.",male,1952,U.S.,True,NASA- 16,1996,1,MSP,2002,STS-110,STS-110,STS-110,STS-110,259.0,259.0,14.12,14.12
+418,4,"Vittori, Roverto",male,1964,Italy,True,1998 ESA Group,1998,3,flight engineer,2002,Soyuz TMA-34/TM-33,Soyuz TMA-34,Soyuz TMA-34,Soyuz TMA-33,237.0,851.65,0.0,0.0
+418,4,"Vittori, Roverto",male,1964,Italy,True,1998 ESA Group,1998,3,flight engineer,2005,Soyuz TMA-6/TMA-5,Soyuz TMA-6,Soyuz TMA-6,Soyuz TMA-5,237.0,851.65,0.0,0.0
+418,4,"Vittori, Roverto",male,1964,Italy,True,1998 ESA Group,1998,3,MSP,2011,STS-134,STS-134,STS-134,STS-134,377.65,851.65,0.0,0.0
+419,1,"Shuttleworth, M. Richard",male,1973,Republic of South Africa,False,Space Tourist 2,2001,1,Other (Space tourist),2002,Soyuz TM-34 / Soyuz TM-33,Soyuz TM-34,Soyuz TM-34,Soyuz TM-33,237.0,237.0,0.0,0.0
+420,266,"Lockhart, Paul S.",male,1956,U.S.,True,NASA- 16,1996,2,pilot,2002,STS-111,STS-111,STS-111,STS-111,332.0,663.38,0.0,0.0
+420,266,"Lockhart, Paul S.",male,1956,U.S.,True,NASA- 17,1996,2,pilot,2002,STS-113,STS-113,STS-113,STS-113,330.0,663.38,0.0,0.0
+421,9,"Perrin, Philippe",male,1963,France,True,CNES-3/EAC,1990,1,MSP,2002,STS-111,STS-111,STS-111,STS-111,332.58,332.58,19.52,19.52
+422,267,"Whitson, Peggy A.",female,1960,U.S.,False,1996 NASA group,1996,3,MSP,2002,5,STS-111,ISS,STS-113,4438.0,15982.0,4.38,60.31
+422,267,"Whitson, Peggy A.",female,1960,U.S.,False,1996 NASA group,1996,3,flight engineer,2008,16,Soyuz TMA-11,ISS,Soyuz TMA-11,4603.0,15982.0,35.35,60.31
+422,267,"Whitson, Peggy A.",female,1960,U.S.,False,1996 NASA group,1996,3,flight engineer,2016,50,Soyuz MS-03,ISS,Soyuz MS-04,6941.0,15982.0,20.58,60.31
+423,97,"Treshchov, Sergei",male,1958,U.S.S.R/Russia,False,NPOE-10,1992,1,flight engineer,2002,5,STS111,ISS,STS113,4438.0,4438.25,5.35,5.35
+424,268,"Magnus, Sandra H.",female,1964,U.S.,False,NASA- 16,1996,3,MSP,2002,STS-112,STS-112,STS-112,STS-112,260.0,3776.0,0.0,0.0
+424,268,"Magnus, Sandra H.",female,1964,U.S.,False,NASA- 16,1996,3,MSP,2008,18,STS-126,ISS,STS-119,3210.0,3776.0,0.0,0.0
+424,268,"Magnus, Sandra H.",female,1964,U.S.,False,NASA- 16,1996,3,MSP,2011,STS-135,STS-135,STS-135,STS-135,306.0,3776.0,0.0,0.0
+425,269,"Sellers, Piers J.",male,1955,U.K./U.S.,False,NASA-16,1996,3,MSP,2002,STS-112,STS-112,STS-112,STS-112,259.0,839.0,19.68,41.17
+425,269,"Sellers, Piers J.",male,1955,U.K./U.S.,False,NASA-16,1996,3,MSP,2006,STS-121,STS-121,STS-121,STS-121,306.0,839.0,21.48,41.17
+425,269,"Sellers, Piers J.",male,1955,U.K./U.S.,False,NASA-16,1996,3,MSP,2010,STS-132,STS-132,STS-132,STS-132,282.5,839.0,0.0,41.17
+426,98,"Yurchikhin, Fyodor",male,1959,U.S.S.R/Russia,False,RKKE-14,1997,5,MSP,2002,STS112,STS112,STS112,STS112,259.0,16147.0,0.0,59.43
+426,98,"Yurchikhin, Fyodor",male,1959,U.S.S.R/Russia,False,RKKE-14,1997,5,flight engineer,2007,15,Soyuz TMA10,ISS,Soyuz TMA10,4721.0,16147.0,18.73,59.43
+426,98,"Yurchikhin, Fyodor",male,1959,U.S.S.R/Russia,False,RKKE-14,1997,5,commander,2010,24,Soyuz TMA19,ISS,Soyuz TMA19,3919.0,16147.0,13.17,59.43
+426,98,"Yurchikhin, Fyodor",male,1959,U.S.S.R/Russia,False,RKKE-14,1997,5,commander,2013,36,Soyuz TMA09M,ISS,Soyuz TMA09M,3990.0,16147.0,20.03,59.43
+426,98,"Yurchikhin, Fyodor",male,1959,U.S.S.R/Russia,False,RKKE-14,1997,5,commander,2017,51,Soyuz MS-04,ISS,Soyuz MS-04,3258.0,16147.0,7.5,59.43
+427,2,"De Winne, Frank",male,1961,Belgium,True,EAC,1998,2,commander,2002,Soyuz TMA-1/TM-34,Soyuz TMA-1,Soyuz TMA-1,Soyuz TMA-34,261.0,4769.58,0.0,0.0
+427,2,"De Winne, Frank",male,1961,Belgium,True,EAC,1998,2,commander,2009,20,Soyuz TMA-15,ISS,Soyuz TMA-15,4508.6,4769.58,0.0,0.0
+428,270,"Herrington, John B.",male,1958,U.S.,True,NASA- 16,1996,1,MSP,2002,STS-113,STS-113,STS-113,STS-113,330.0,330.0,19.92,19.92
+429,271,"Pettit, Donald R.",male,1955,U.S.,False,NASA-16,1996,3,flight engineer,2002,6,STS-113,ISS,Soyuz TMA-1,3865.0,8872.5,13.28,13.28
+429,271,"Pettit, Donald R.",male,1955,U.S.,False,NASA-16,1996,3,MSP,2008,STS-126,STS-126,STS-126,STS-126,380.5,8872.5,0.0,13.28
+429,271,"Pettit, Donald R.",male,1955,U.S.,False,NASA-16,1996,3,flight engineer,2011,30,Soyuz TMA-03M,ISS,Soyuz TMA-03M,4627.0,8872.5,0.0,13.28
+430,272,"McCool, William C.",male,1961,U.S.,True,NASA- 16,1996,1,pilot,2003,STS-107,STS-107,STS-107,STS-107,382.0,382.0,0.0,0.0
+431,273,"Brown, David M.",male,1956,U.S.,True,NASA- 16,1996,1,MSP,2003,STS-107,STS-107,STS-107,STS-107,382.0,382.0,0.0,0.0
+432,274,"Clark, Laurel B.",female,1961,U.S.,True,NASA- 16,1996,1,MSP,2003,STS-107,STS-107,STS-107,STS-107,382.0,382.0,0.0,0.0
+433,1,"Ramon, Ilan",male,1954,Israel,True,1996 NASA Group,1996,1,PSP,2003,STS-107,STS-107,STS-107,Exploded,382.33,382.33,0.0,0.0
+434,1,"Yang, Liwei",male,1965,China,True,China-1,2003,1,commander,2005,Shenzhou 5,Shenzhou 5,Shenzhou 5,Shenzhou 5,21.0,21.0,0.0,0.0
+435,275,"Fincke, E. Michael",male,1967,U.S.,True,NASA- 16,1996,3,flight engineer,2004,9,Soyuz TMA-4,ISS,Soyuz TMA-4,4501.0,9159.0,15.75,48.61
+435,275,"Fincke, E. Michael",male,1967,U.S.,True,NASA- 16,1996,3,commander,2009,18,Soyuz TMA-13,ISS,Soyuz TMA-13,4280.0,9159.0,10.45,48.61
+435,275,"Fincke, E. Michael",male,1967,U.S.,True,NASA- 16,1996,3,MSP,2011,STS-134,STS-134,STS-134,STS-134,378.0,9159.0,22.42,48.61
+436,2,"Kuipers, Andre",male,1958,Netherland,False,1998 ESA Group,1998,2,flight engineer,2004,Soyuz TMA-4/TMA-3,Soyuz TMA-4,Soyuz TMA-4,Soyuz TMA-3,261.0,4888.0,0.0,0.0
+436,2,"Kuipers, Andre",male,1958,Netherland,False,1998 ESA Group,1998,2,flight engineer,2012,30,Soyuz TMA-03M,ISS,Soyuz TMA-03M,4627.0,4888.0,0.0,0.0
+437,99,"Shargin, Yuri",male,1960,U.S.S.R/Russia,True,MKS,1996,1,flight engineer,2004,Soyuz TMA5,Soyuz TMA5,Soyuz TMA5,Soyuz TMA5,237.0,237.5,0.0,0.0
+438,6,"Noguchi, Soichi",male,1965,Japan,False,NASDA-3,1996,2,MSP,2005,STS-114,STS-114,STS-114,STS-114,333.55,4251.1,20.08,20.08
+438,6,"Noguchi, Soichi",male,1965,Japan,False,NASDA-3,1996,2,flight engineer,2009,22,Soyuz TMA-17,ISS,Soyuz TMA-17,3917.55,4251.1,0.0,20.08
+439,276,"Camarda, Charles J.",male,1952,U.S.,False,NASA- 16,1996,1,MSP,2005,STS-114,STS-114,STS-114,STS-114,333.0,333.0,0.0,0.0
+441,2,"Fei, Junlong",male,1966,China,True,China-1,2005,1,commander,2005,Shenzhou 6,Shenzhou 6,Shenzhou 6,Shenzhou 6,115.0,115.0,0.0,0.0
+442,3,Nie Haisheng,male,1964,China,True,China-1,2005,2,flight engineer,2005,Shenzhou 6,Shenzhou 6,Shenzhou 6,Shenzhou 6,116.0,466.0,0.0,0.0
+442,3,Nie Haisheng,male,1964,China,True,China-1,2005,2,commander,2008,Shenzhou 10,Shenzhou 10,Shenzhou 10,Shenzhou 10,350.0,466.0,0.0,0.0
+443,1,"Pontes, Marcos Cesar",male,1963,Brazil,True,1998 NASA Group,1998,1,pilot,2006,Soyuz TMA-8,Soyuz TMA-8,Soyuz TMA-8,Soyuz TMA-7,237.28,237.28,0.0,0.0
+444,278,"Fossum, Michael E.",male,1957,U.S.,False,NASA- 17,1998,3,MSP,2006,STS-121,STS-121,STS-121,STS-121,307.0,4651.0,21.48,48.53
+444,278,"Fossum, Michael E.",male,1957,U.S.,False,NASA- 17,1998,3,MSP,2008,STS-124,STS-124,STS-124,STS-124,330.0,4651.0,20.53,48.53
+444,278,"Fossum, Michael E.",male,1957,U.S.,False,NASA- 17,1998,3,commander,2011,28,Soyuz TMA-02M,ISS,Soyuz TMA-02M,4014.0,4651.0,6.52,48.53
+445,279,"Nowak, Lisa M.",female,1963,U.S.,True,NASA-16,1996,1,MSP,2006,STS-121,STS-121,STS-121,STS-121,306.0,306.0,0.0,0.0
+446,280,"Wilson, Stephanie D.",female,1966,U.S.,False,1996 NASA group,1996,3,MSP,2006,STS-121,STS-121,STS-121,STS-121,306.0,1031.77,0.0,0.0
+446,280,"Wilson, Stephanie D.",female,1966,U.S.,False,1996 NASA group,1996,3,MSP,2007,STS-120,STS-120,STS-120,STS-120,362.0,1031.77,0.0,0.0
+446,280,"Wilson, Stephanie D.",female,1966,U.S.,False,1996 NASA group,1996,3,MSP,2010,STS-131,STS-131,STS-131,STS-131,362.0,1031.77,0.0,0.0
+447,281,"Ferguson, Christopher J.",male,1961,U.S.,True,NASA- 17,1998,3,pilot,2006,STS-115,STS-115,STS-115,STS-115,283.0,672.0,0.0,0.0
+447,281,"Ferguson, Christopher J.",male,1961,U.S.,True,NASA- 17,1998,3,commander,2008,STS-126,STS-126,STS-126,STS-126,380.5,672.0,0.0,0.0
+447,281,"Ferguson, Christopher J.",male,1961,U.S.,True,NASA- 17,1998,3,commander,2011,STS-135,STS-135,STS-135,STS-135,306.5,672.0,0.0,0.0
+448,282,"Stefanyshyn-Piper, Heidemarie M.",female,1963,U.S.,True,1963 NASA group 2,1996,2,MSP,2002,STS-115,STS-115,STS-115,STS-115,288.0,648.0,13.13,33.7
+448,282,"Stefanyshyn-Piper, Heidemarie M.",female,1963,U.S.,True,1963 NASA group 2,1996,2,MSP,2008,STS-126,STS-126,STS-126,STS-126,360.0,648.0,20.57,33.7
+450,284,"Oefelein, William A.",male,1965,U.S.,True,NASA-17,1998,1,pilot,2006,STS-116,STS-116,STS-116,STS-116,308.0,308.0,0.0,0.0
+451,285,"Patrick, Nicholas J. M.",male,1964,U.K./U.S.,False,NASA-17,1998,2,MSP,2006,STS-116,STS-116,STS-116,STS-116,308.0,638.0,0.0,18.23
+451,285,"Patrick, Nicholas J. M.",male,1964,U.K./U.S.,False,NASA-17,1998,2,MSP,2010,STS-130,STS-130,STS-130,STS-130,330.0,638.0,18.23,18.23
+452,1,Christer Fuglesang,male,1957,Sweden,False,1992 ESA Group,1992,2,MSP,2006,STS-116,STS-116,STS-116,STS-116,308.73,641.63,18.23,31.9
+452,1,Christer Fuglesang,male,1957,Sweden,False,1992 ESA Group,1992,2,MSP,2009,STS-128,STS-128,STS-128,STS-128,332.9,641.63,13.67,31.9
+453,286,"Higginbotham, Joan E.",female,1964,U.S.,False,NASA- 16,1996,1,MSP,2006,STS-116,STS-116,STS-116,STS-116,308.0,308.0,0.0,0.0
+454,287,"Williams, Sunita L.",female,1965,U.S.,True,1998 NASA group,1998,1,MSP,2006,14,STS-116,ISS,STS-117,4674.0,7722.0,28.28,50.67
+454,287,"Williams, Sunita L.",female,1965,U.S.,True,1998 NASA group,1998,2,flight engineer,2012,32,Soyuz TMA-05M,ISS,Soyuz TMA-06M,3048.0,7722.0,21.38,50.67
+455,100,"Kotov, Oleg",male,1965,U.S.S.R/Russia,True,MKS,1996,3,commander,2007,15,Soyuz TMA10,ISS,Soyuz TMA10,4721.0,12629.03,11.05,36.7
+455,100,"Kotov, Oleg",male,1965,U.S.S.R/Russia,True,MKS,1996,3,commander,2009,22,Soyuz TMA17,ISS,Soyuz TMA17,3917.0,12629.03,5.73,36.7
+455,100,"Kotov, Oleg",male,1965,U.S.S.R/Russia,True,MKS,1996,3,commander,2013,37,Soyuz TMA10M,ISS,Soyuz TMA10M,3990.0,12629.03,19.92,36.7
+457,289,"Archambault, Lee J.",male,1960,U.S.,True,NASA- 17,1998,2,pilot,2007,STS-117,STS-117,STS-117,STS-117,332.0,639.5,0.0,0.0
+457,289,"Archambault, Lee J.",male,1960,U.S.,True,NASA- 17,1998,2,commander,2009,STS-119,STS-119,STS-119,STS-119,307.5,639.5,0.0,0.0
+458,290,"Swanson, Steven R.",male,1960,U.S.,False,1998 NASA group,1998,3,MSP,2007,STS-117,STS-117,STS-117,STS-117,332.22,4646.85,13.75,27.9
+458,290,"Swanson, Steven R.",male,1960,U.S.,False,1998 NASA group,1998,3,MSP,2009,STS-119,STS-119,STS-119,STS-119,307.5,4646.85,12.93,27.9
+458,290,"Swanson, Steven R.",male,1960,U.S.,False,1998 NASA group,1998,3,flight engineer,2014,39,Soyuz TMA-12M,ISS,Soyuz TMA-12M,4007.13,4646.85,0.0,27.9
+459,291,"Olivas, John D.",male,1965,U.S.,False,NASA-17,1998,2,MSP,2007,STS-117,STS-117,STS-117,STS-117,332.0,668.0,14.22,34.47
+459,291,"Olivas, John D.",male,1965,U.S.,False,NASA-17,1998,2,MSP,2009,STS-128,STS-128,STS-128,STS-128,333.0,668.0,20.25,34.47
+460,292,"Anderson, Clayton C.",male,1959,U.S.,False,NASA- 17,1998,2,flight engineer,2007,15,STS-117,ISS,STS-120,3642.0,4046.0,18.13,38.46
+460,292,"Anderson, Clayton C.",male,1959,U.S.,False,NASA- 17,1998,2,MSP,2010,STS-131,STS-131,STS-131,STS-131,363.0,4046.0,20.28,38.46
+461,293,"Caldwell, Tracy E.",female,1969,U.S.,False,NASA- 17,1998,2,MSP,2007,STS-118,STS-118,STS-118,STS-118,306.0,4526.0,0.0,22.81
+461,293,"Caldwell, Tracy E.",female,1969,U.S.,False,NASA- 17,1998,2,flight engineer,2010,23,Soyuz TMA-18,ISS,Soyuz TMA-18,4220.0,4526.0,22.81,22.81
+462,294,"Drew, Alvin Benjamin",male,1962,U.S.,True,NASA- 18,2000,2,MSP,2007,STS-118,STS-118,STS-118,STS-118,306.0,613.0,0.0,12.8
+462,294,"Drew, Alvin Benjamin",male,1962,U.S.,True,NASA- 18,2000,2,MSP,2011,STS-133,STS-133,STS-133,STS-133,307.0,613.0,12.8,12.8
+463,295,"Morgan, Barbara R.",female,1951,U.S.,False,NASA- 17,1998,1,MSP,2007,STS-118,STS-118,STS-118,STS-118,305.0,305.0,0.0,0.0
+464,1,"Shukor, Sheikh Muszaphar",male,1972,Malysia,False,2006 Angkasawan Program,2006,1,Other (space tourist),2007,Soyuz TMA-11/10,Soyuz TMA-11,Soyuz TMA-11,Soyuz TMA-10,261.23,261.23,0.0,0.0
+465,296,"Zamka, George D.",male,1962,U.S.,True,1998 NASA group,1998,2,pilot,2007,STS-120,STS-120,STS-120,STS-120,362.0,692.53,0.0,0.0
+465,296,"Zamka, George D.",male,1962,U.S.,True,1998 NASA group,1998,2,commander,2010,STS-130,STS-130,STS-130,STS-130,306.1,692.53,0.0,0.0
+466,297,"Wheelock, Douglas H.",male,1960,U.S.,True,1998 NASA group,1998,2,MSP,2007,STS-120,STS-120,STS-120,STS-120,360.0,4281.57,20.68,41.5
+466,297,"Wheelock, Douglas H.",male,1960,U.S.,True,1998 NASA group,1998,2,flight engineer,2010,24,Soyuz TMA-19,ISS,Soyuz TMA-19,3912.0,4281.57,22.82,41.5
+467,5,"Nespoli, Paolo A.",male,1957,Italy,True,1998 ESA Group,1998,3,MSP,2007,STS-120,STS-120,STS-120,STS-120,362.4,7514.61,0.0,0.0
+467,5,"Nespoli, Paolo A.",male,1957,Italy,True,1998 ESA Group,1998,3,flight engineer,2010,26,Soyuz TMA-20,ISS,Soyuz TMA-20,3823.28,7514.61,0.0,0.0
+467,5,"Nespoli, Paolo A.",male,1957,Italy,True,1998 ESA Group,1998,3,flight engineer,2017,52,Soyuz MS-05,ISS,Soyuz MS-05,3328.93,7514.61,0.0,0.0
+468,298,"Poindexter, Alan G.",male,1961,U.S.,True,NASA-17,1998,2,pilot,2008,STS-122,STS-122,STS-122,STS-122,306.0,669.0,0.0,0.0
+468,298,"Poindexter, Alan G.",male,1961,U.S.,True,NASA-17,1998,2,commander,2010,STS-131,STS-131,STS-131,STS-131,363.0,669.0,0.0,0.0
+469,299,"Melvin, Leland D.",male,1964,U.S.,False,NASA- 17,1998,2,MSP,2008,STS-122,STS-122,STS-122,STS-122,306.0,565.0,0.0,0.0
+469,299,"Melvin, Leland D.",male,1964,U.S.,False,NASA- 17,1998,2,MSP,2009,STS-129,STS-129,STS-129,STS-129,259.0,565.0,0.0,0.0
+470,300,"Love, Stanley G.",male,1965,U.S.,False,NASA- 17,1998,1,MSP,2008,STS-122,STS-122,STS-122,STS-122,306.0,306.0,15.38,15.38
+471,301,"Johnson, Gregory H.",male,1962,U.S.,True,NASA- 17,1998,2,pilot,2008,STS-123,STS-123,STS-123,STS-123,378.0,755.83,0.0,0.0
+471,301,"Johnson, Gregory H.",male,1962,U.S.,True,NASA- 18,1998,2,pilot,2011,STS-134,STS-134,STS-134,STS-134,377.0,755.83,0.0,0.0
+472,302,"Behnken, Robert L.",male,1970,U.S.,True,NASA- 18,2000,2,MSP,2008,STS-123,STS-123,STS-123,STS-123,378.0,708.0,19.32,37.54
+472,302,"Behnken, Robert L.",male,1970,U.S.,True,NASA- 18,2000,2,MSP,2010,STS-130,STS-130,STS-130,STS-130,330.0,708.0,18.23,37.54
+473,303,"Foreman, Michael J.",male,1957,U.S.,True,NASA- 17,1998,2,MSP,2008,STS-123,STS-123,STS-123,STS-123,378.0,637.0,19.57,32.31
+473,303,"Foreman, Michael J.",male,1957,U.S.,True,NASA- 17,1998,2,MSP,2009,STS-129,STS-129,STS-129,STS-129,259.0,637.0,12.75,32.31
+474,304,"Reisman, Garrett E.",male,1968,U.S.,False,NASA-17,1998,2,flight engineer,2008,16,STS-123,ISS,STS-124,2289.0,2473.0,7.0,21.2
+474,304,"Reisman, Garrett E.",male,1968,U.S.,False,NASA-17,1998,2,MSP,2010,STS-132,STS-132,STS-132,STS-132,282.0,2473.0,14.18,21.2
+475,101,"Volkov, Sergei",male,1973,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2008,17,Soyuz TMA12,ISS,Soyuz TMA12,4768.0,12786.32,12.2,23.28
+475,101,"Volkov, Sergei",male,1973,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2011,28,Soyuz TMA02M,ISS,Soyuz TMA02M,4014.0,12786.32,6.367,23.28
+475,101,"Volkov, Sergei",male,1973,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2015,45,Soyuz TMA18M,ISS,Soyuz TMA18M,4003.0,12786.32,4.72,23.28
+476,102,"Kononenko, Oleg D.",male,1964,U.S.S.R/Russia,True,MKS,1996,4,flight engineer,2008,17,Soyuz TMA12,ISS,Soyuz TMA12,3168.0,16081.0,12.2,32.2
+476,102,"Kononenko, Oleg D.",male,1964,U.S.S.R/Russia,True,MKS,1996,4,commander,2011,30,Soyuz TMA03M,ISS,Soyuz TMA03M,4626.0,16081.0,6.25,32.2
+476,102,"Kononenko, Oleg D.",male,1964,U.S.S.R/Russia,True,MKS,1996,4,commander,2015,44,Soyuz TMA17M,ISS,Soyuz TMA17M,3400.0,16081.0,0.0,32.2
+476,102,"Kononenko, Oleg D.",male,1964,U.S.S.R/Russia,True,MKS,1996,4,commander,2018,57,Soyuz MS-11,ISS,Soyuz MS-11,4887.0,16081.0,13.75,32.2
+477,1,"Yi, Soyeon (Lee So-hyun)",female,1978,Korea,False,South Korea,2006,1,Other (Space tourist),2008,Soyuz TMA-12 / Soyuz TMA-11,Soyuz TMA-12,Soyuz TMA-12,Soyuz TMA-11,261.0,261.0,0.0,0.0
+478,305,"Ham, Kenneth T.",male,1964,U.S.,True,NASA Astronaut Group 17,1998,2,pilot,2008,STS-124,STS-124,STS-124,STS-124,330.0,612.0,0.0,0.0
+478,305,"Ham, Kenneth T.",male,1964,U.S.,True,NASA Astronaut Group 18,1998,2,commander,2010,STS-132,STS-132,STS-132,STS-132,282.0,612.0,0.0,0.0
+479,306,"Nyberg, Karen L.",female,1969,U.S.,False,NASA- 18,2000,2,MSP,2008,STS-124,STS-124,STS-124,STS-124,330.0,4320.0,0.0,0.0
+479,306,"Nyberg, Karen L.",female,1969,U.S.,False,NASA- 18,2000,2,flight engineer,2013,36,Soyuz TMA-09M,ISS,Soyuz TMA-09M,3990.0,4320.0,0.0,0.0
+480,307,"Garan, Ronald J., Jr.",male,1961,U.S.,True,NASA Astronaut Group 18,2000,2,MSP,2008,STS-124,STS-124,STS-124,STS-124,330.0,4272.0,20.5,27.0
+480,307,"Garan, Ronald J., Jr.",male,1961,U.S.,True,NASA Astronaut Group 18,2000,2,MSP,2008,27,soyuz TMA-21,ISS,soyuz TMA-21,3942.0,4272.0,6.5,27.0
+481,7,"Hoshide, Akihiko",male,1968,Japan,False,NASDA-4,1999,2,MSP,2008,STS-124,STS-124,STS-124,STS-124,306.25,3377.5,0.0,21.38
+481,7,"Hoshide, Akihiko",male,1968,Japan,False,NASDA-4,1999,2,flight engineer,2012,32,Soyuz TMA-05M,ISS,Soyuz TMA-05M,3047.25,3377.5,21.38,21.38
+482,308,"Chamitoff, Gregory",male,1962,U.S.,False,NASA-17,1998,2,flight engineer,2008,17,STS-124,ISS,STS-126,4392.5,4770.0,0.0,13.72
+482,308,"Chamitoff, Gregory",male,1962,U.S.,False,NASA-17,1998,2,MSP,2011,STS-134,STS-134,STS-134,STS-134,377.5,4770.0,13.72,13.72
+483,4,"Zhai, Zhigang",male,1966,China,True,China-1,2008,1,commander,2008,Shenzhou 7,Shenzhou 7,Shenzhou 7,Shenzhou 7,68.0,68.0,0.23,0.23
+484,5,"Liu, Boming",male,1966,China,True,China-1,2008,1,flight engineer,2008,Shenzhou 7,Shenzhou 7,Shenzhou 7,Shenzhou 7,68.0,68.0,0.03,0.03
+485,6,"Jing, Haipeng",male,1966,China,True,China-1,2008,3,flight engineer,2008,Shenzhou 7,Shenzhou 7,Shenzhou 7,Shenzhou 7,68.0,1146.0,0.0,0.0
+485,6,"Jing, Haipeng",male,1966,China,True,China-1,2008,3,commander,2012,Shenzhou 9,Shenzhou 9,Shenzhou 9,Shenzhou 9,303.5,1146.0,0.0,0.0
+485,6,"Jing, Haipeng",male,1966,China,True,China-1,2008,3,commander,2016,Shenzhou 11,Shenzhou 11,Shenzhou 11,Shenzhou 11,774.5,1146.0,0.0,0.0
+487,310,"Boe, Eric A.",male,1964,U.S.,True,NASA- 18,2000,2,pilot,2008,STS-126,STS-126,STS-126,STS-126,380.0,687.0,0.0,0.0
+487,310,"Boe, Eric A.",male,1964,U.S.,True,NASA- 18,2000,2,pilot,2011,STS-133,STS-133,STS-133,STS-133,307.0,687.0,0.0,0.0
+488,311,"Bowen, Stephen G.",male,1964,U.S.,True,NASA- 18,2000,3,MSP,2008,STS-126,STS-126,STS-126,STS-126,380.0,970.0,19.85,47.3
+488,311,"Bowen, Stephen G.",male,1964,U.S.,True,NASA- 18,2000,3,MSP,2010,STS-132,STS-132,STS-132,STS-132,283.0,970.0,14.57,47.3
+488,311,"Bowen, Stephen G.",male,1964,U.S.,True,NASA- 18,2000,3,MSP,2011,STS-133,STS-133,STS-133,STS-133,307.0,970.0,12.8,47.3
+489,312,"Kimbrough, Robert S.",male,1967,U.S.,True,NASA- 19,2004,2,MSP,2008,STS-126,STS-126,STS-126,STS-126,380.0,10763.25,0.0,26.0
+489,312,"Kimbrough, Robert S.",male,1967,U.S.,True,NASA- 19,2004,2,flight engineer,2016,49,Soyuz MS-02,ISS,Soyuz MS-02,10383.25,10763.25,26.0,26.0
+490,313,"Antonelli, Dominic A.",male,1967,U.S.,True,NASA- 18,2000,2,pilot,2009,STS-119,STS-119,STS-119,STS-119,287.5,579.0,0.0,0.0
+490,313,"Antonelli, Dominic A.",male,1967,U.S.,True,NASA- 18,2000,2,pilot,2010,STS-132,STS-132,STS-132,STS-132,281.5,579.0,0.0,0.0
+491,314,"Acaba, Joseph M.",male,1967,U.S.,False,NASA- 19,2004,3,MSP,2009,STS-119,STS-119,STS-119,STS-119,307.0,7272.23,12.95,19.93
+491,314,"Acaba, Joseph M.",male,1967,U.S.,False,NASA- 19,2004,3,flight engineer,2012,31,Soyuz TMA-04M,ISS,Soyuz TMA-04M,2928.0,7272.23,0.0,19.93
+491,314,"Acaba, Joseph M.",male,1967,U.S.,False,NASA- 19,2004,3,flight engineer,2017,53,Soyuz MS-06,ISS,Soyuz MS-06,4037.23,7272.23,6.98,19.93
+492,315,"Arnold, Richard R., II",male,1963,U.S.,False,NASA- 19,2004,2,MSP,2009,STS-119,STS-119,STS-119,STS-119,307.0,307.0,12.57,32.07
+492,315,"Arnold, Richard R., II",male,1963,U.S.,False,NASA- 19,2004,2,flight engineer,2018,55,Soyuz MS-08,ISS,Soyuz MS-08,4722.0,307.0,19.5,32.07
+493,316,"Barratt, Michael R.",male,1959,U.S.,False,NASA- 18,2000,2,flight engineer,2009,19,Soyuz TMA-14,ISS,Soyuz TMA-14,4778.0,5085.0,5.1,5.1
+493,316,"Barratt, Michael R.",male,1959,U.S.,False,NASA- 18,2000,2,MSP,2011,STS-133,STS-133,STS-133,STS-133,307.0,5085.0,0.0,5.1
+494,317,"Johnson, Gregory C.",male,1954,U.S.,False,NASA- 17,1998,1,pilot,2009,STS-125,STS-125,STS-125,STS-125,309.63,309.63,0.0,0.0
+495,318,"Good, Michael T.",male,1962,U.S.,True,NASA Astronaut Group 18,2000,2,MSP,2009,STS-125,STS-125,STS-125,STS-125,309.0,591.15,16.08,30.0
+495,318,"Good, Michael T.",male,1962,U.S.,True,NASA Astronaut Group 19,2000,2,MSP,2010,STS-132,STS-132,STS-132,STS-132,282.15,591.15,13.92,30.0
+496,319,"McArthur, K. Megan",female,1971,U.S.,False,NASA- 18,2000,1,MSP,2009,STS-125,STS-125,STS-125,STS-125,309.0,309.0,0.0,0.0
+497,320,"Feustel, Andrew J.",male,1965,U.S.,False,NASA- 18,2000,3,MSP,2009,STS-125,STS-125,STS-125,STS-125,309.0,687.0,21.0,61.8
+497,320,"Feustel, Andrew J.",male,1965,U.S.,False,NASA- 18,2000,3,MSP,2011,STS-134,STS-134,STS-134,STS-134,378.0,687.0,21.3,61.8
+497,320,"Feustel, Andrew J.",male,1965,U.S.,False,NASA- 18,2000,3,flight engineer,2018,55,Soyuz MS-08,ISS,Soyuz MS-08,4722.0,687.0,19.5,61.8
+498,103,"Romanenko, Roman",male,1971,U.S.S.R/Russia,True,TsPK-12,1997,2,flight engineer,2009,20,Soyuz TMA15,ISS,Soyuz TMA15,4508.0,8003.02,0.0,6.62
+498,103,"Romanenko, Roman",male,1971,U.S.S.R/Russia,True,TsPK-12,1997,2,flight engineer,2012,34,Soyuz TMA07M,ISS,Soyuz TMA07M,3494.0,8003.02,6.62,6.62
+499,321,"Hurley, Douglas G.",male,1966,U.S.,True,NASA- 18,2000,2,pilot,2009,STS-127,STS-127,STS-127,STS-127,377.0,683.0,0.0,0.0
+499,321,"Hurley, Douglas G.",male,1966,U.S.,True,NASA- 19,2000,2,pilot,2011,STS-135,STS-135,STS-135,STS-135,306.0,683.0,0.0,0.0
+500,322,"Cassidy, Christopher J.",male,1970,U.S.,True,NASA- 19,2004,2,MSP,2009,STS-127,STS-127,STS-127,STS-127,377.0,4744.0,18.08,31.23
+500,322,"Cassidy, Christopher J.",male,1970,U.S.,True,NASA- 19,2004,2,flight engineer,2013,35,Soyuz TMA-08M,ISS,Soyuz TMA-08M,3990.0,4744.0,13.5,31.23
+501,323,"Marshburn, Thomas H.",male,1960,U.S.,True,NASA- 19,2004,2,MSP,2009,STS-127,STS-127,STS-127,STS-127,376.0,3870.0,18.98,24.5
+501,323,"Marshburn, Thomas H.",male,1960,U.S.,True,NASA- 19,2004,2,flight engineer,2013,34,Soyuz TMA-07M,ISS,Soyuz TMA-07M,3494.0,3870.0,5.5,24.5
+502,324,"Kopra, Timothy L.",male,1963,U.S.,True,NASA- 18,2000,2,MSP,2009,20,STS-127,ISS,STS-128,1317.0,3315.0,5.53,13.51
+502,324,"Kopra, Timothy L.",male,1963,U.S.,True,NASA- 18,2000,2,flight engineer,2015,46,Soyuz TMA-19M,ISS,Soyuz TMA-19M,1920.0,3315.0,7.98,13.51
+503,324,"Ford, Kevin A.",male,1960,U.S.,True,NASA- 18,2000,2,pilot,2009,STS-128,STS-128,STS-128,STS-128,333.0,3781.0,0.0,0.0
+503,324,"Ford, Kevin A.",male,1960,U.S.,True,NASA- 18,2000,2,commander,2012,33,Soyuz TMA-06M,ISS,Soyuz TMA-06M,3448.0,3781.0,0.0,0.0
+504,326,"Hernandez, Jose M.",male,1962,U.S.,False,NASA- 19,2004,1,MSP,2009,STS-128,STS-128,STS-128,STS-128,332.0,332.0,0.0,0.0
+505,327,"Stott, Nicole P.",female,1962,U.S.,False,2000 NASA group,2000,2,flight engineer,2009,20,STS-128,ISS,STS-129,1440.0,1747.0,6.58,6.58
+505,327,"Stott, Nicole P.",female,1962,U.S.,False,2000 NASA group,2000,2,MSP,2011,STS-133,STS-133,STS-133,STS-133,307.0,1747.0,0.0,6.58
+506,104,"Surayev, Maksim",male,1972,U.S.S.R/Russia,True,TsPK-12,1997,2,commander,2014,40,Soyuz TMA13M,ISS,Soyuz TMA13M,3968.0,8028.18,3.68,9.42
+506,104,"Surayev, Maksim",male,1972,U.S.S.R/Russia,True,TsPK-12,1997,2,commander,2009,21,Soyuz TMA16,ISS,Soyuz TMA16,4060.0,8028.18,5.73,9.42
+507,9,Guy Laliberte,male,1959,Canada,False,Space Tourist,2009,1,Other (Space tourist),2009,Soyuz TMA-16/14,Soyuz TMA-16,Soyuz TMA-16,Soyuz TMA-14,261.28,261.28,0.0,0.0
+508,328,"Wilmore, Barry E.",male,1962,U.S.,True,2000 NASA group,2000,2,pilot,2009,STS-129,STS-129,STS-129,STS-129,259.0,4272.0,0.0,25.67
+508,328,"Wilmore, Barry E.",male,1962,U.S.,True,2000 NASA group,2000,2,flight engineer,2014,41,Soyuz TMA-14M,ISS,Soyuz TMA-14M,4013.0,4272.0,25.67,25.67
+509,329,"Bresnik, Randolph J.",male,1967,U.S.,True,NASA- 19,2004,2,MSP,2009,STS-129,STS-129,STS-129,STS-129,259.0,3587.93,11.83,31.33
+509,329,"Bresnik, Randolph J.",male,1967,U.S.,True,NASA- 19,2004,2,flight engineer,2017,52,Soyuz MS-05,ISS,Soyuz MS-05,3328.93,3587.93,19.5,31.33
+510,330,"Satcher, Robert L.",male,1965,U.S.,False,2004 NASA Group 19,2004,1,MSP,2009,STS-129,STS-129,STS-129,STS-129,259.0,259.0,12.32,12.32
+511,331,"Creamer, Timothy J.",male,1959,U.S.,True,NASA- 17,1998,1,flight engineer,2009,22,Soyuz TMA-17,ISS,Soyuz TMA-17,3912.0,3912.0,0.0,0.0
+512,332,"Virts, Terry W., Jr.",male,1967,U.S.,True,2000 NASA group,2000,2,pilot,2010,STS-130,STS-130,STS-130,STS-130,330.1,5113.62,0.0,19.1
+512,332,"Virts, Terry W., Jr.",male,1967,U.S.,True,2001 NASA group,2000,2,flight engineer,2014,42,Soyuz TMA-15M,ISS,Soyuz TMA-15M,4783.5,5113.62,19.1,19.1
+513,105,"Skvortsov, Aleksandr Jr.",male,1966,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2010,23,Soyuz TMA18,ISS,Soyuz TMA18,4225.0,12588.98,0.0,12.67
+513,105,"Skvortsov, Aleksandr Jr.",male,1966,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2014,39,Soyuz TMA12M,ISS,Soyuz TMA12M,4061.0,12588.98,12.67,12.67
+513,105,"Skvortsov, Aleksandr Jr.",male,1966,U.S.S.R/Russia,True,TsPK-12,1997,3,commander,2019,60,Soyuz MS-13,ISS,not completed yet,4302.98,12588.98,0.0,12.67
+514,106,"Korniyenko, Mikhail",male,1960,U.S.S.R/Russia,False,RKKE-14,1998,2,flight engineer,2010,23,Soyuz TMA18,ISS,Soyuz TMA18,4225.0,12005.43,6.72,12.28
+514,106,"Korniyenko, Mikhail",male,1960,U.S.S.R/Russia,False,RKKE-14,1998,2,flight engineer,2015,43,Soyuz TMA16M,ISS,Soyuz TMA18M,7798.0,12005.43,5.57,12.28
+515,333,"Dutton, James P.",male,1968,U.S.,True,NASA- 19,2004,1,pilot,2010,STS-131,STS-131,STS-131,STS-131,362.0,362.0,0.0,0.0
+516,334,"Metcalf-Lindenburger, Dorothy M.",female,1975,U.S.,False,NASA- 19,2004,1,MSP,2010,STS-131,STS-131,STS-131,STS-131,362.0,362.0,0.0,0.0
+517,8,"Yamazaki, Naoko",female,1970,Japan,False,NASDA-4,1999,1,MSP,2010,STS-131,STS-131,STS-131,STS-131,362.8,362.8,0.0,0.0
+518,335,"Walker, Shannon",female,1965,U.S.,False,2004 NASA group,2004,1,flight engineer,2010,24,soyuz TMA-19,ISS,Soyuz TMA-19,3919.18,3919.18,0.0,0.0
+519,107,"Skripochka, Oleg",male,1969,U.S.S.R/Russia,False,RKKE-14,1997,3,flight engineer,2010,25,Soyuz TMA01M,ISS,Soyuz TMA01M,3824.0,10653.3,16.65,16.65
+519,107,"Skripochka, Oleg",male,1969,U.S.S.R/Russia,False,RKKE-14,1997,3,flight engineer,2016,47,Soyuz TMA20M,ISS,Soyuz TMA20M,4131.77,10653.3,0.0,16.65
+519,107,"Skripochka, Oleg",male,1969,U.S.S.R/Russia,False,RKKE-14,1997,3,commander,2019,61,Soyuz MS-15,ISS,not completed yet,2697.53,10653.3,0.0,16.65
+520,108,"Kondratyev, Dmitri",male,1969,U.S.S.R/Russia,True,TsPK-12,1997,1,commander,2010,26,Soyuz TMA20,ISS,Soyuz TMA20,3823.0,3823.28,10.2,10.2
+521,109,"Samokutyayev, Aleksandr",male,1970,U.S.S.R/Russia,True,TsPK-13,2003,2,commander,2011,27,Soyuz TMA21,ISS,Soyuz TMA21,3941.0,7955.38,6.37,10.05
+521,109,"Samokutyayev, Aleksandr",male,1970,U.S.S.R/Russia,True,TsPK-13,2003,2,commander,2014,41,Soyuz TMA14M,ISS,Soyuz TMA14M,4013.0,7955.38,3.63,10.05
+522,110,"Borisenko, Andrei",male,1964,U.S.S.R/Russia,True,RKKE-15,2003,2,flight engineer,2011,27,Soyuz TMA21,ISS,Soyuz TMA21,3941.0,14324.25,0.0,0.0
+522,110,"Borisenko, Andrei",male,1964,U.S.S.R/Russia,True,RKKE-15,2003,2,flight engineer,2016,49,Soyuz MS-02,ISS,Soyuz MS-02,10383.25,14324.25,0.0,0.0
+523,9,"Furukawa, Satoshi",male,1964,Japan,False,NASDA-4,1999,1,flight engineer,2011,28,Soyuz TMA-02M,ISS,Soyuz TMA-02M,4014.0,4014.0,0.0,0.0
+524,111,"Shkaplerov, Anton",male,1972,U.S.S.R/Russia,True,TsPK-13,2003,3,commander,2011,29,Soyuz TMA22,ISS,Soyuz TMA22,3967.0,12796.0,6.25,14.47
+524,111,"Shkaplerov, Anton",male,1972,U.S.S.R/Russia,True,TsPK-13,2003,3,commander,2014,42,Soyuz TMA15M,ISS,Soyuz TMA15M,4792.0,12796.0,0.0,14.47
+524,111,"Shkaplerov, Anton",male,1972,U.S.S.R/Russia,True,TsPK-13,2003,3,commander,2017,54,Soyuz MS-07,ISS,Soyuz MS-07,4037.0,12796.0,8.22,14.47
+525,112,"Ivanishin, Anatoli",male,1969,U.S.S.R/Russia,True,TsPK-13,2003,2,commander,2011,29,Soyuz TMA22,ISS,Soyuz TMA22,3967.0,6729.0,0.0,0.0
+525,112,"Ivanishin, Anatoli",male,1969,U.S.S.R/Russia,True,TsPK-13,2003,2,flight engineer,2016,48,Soyuz MS-01,ISS,Soyuz MS-01,2762.0,6729.0,0.0,0.0
+526,113,"Revin, Sergei",male,1966,U.S.S.R/Russia,False,RKKE-12,1996,1,flight engineer,2012,31,Soyuz TMA04M,ISS,Soyuz TMA04M,2999.0,2999.87,0.0,0.0
+527,7,"Liu, Wang",male,1969,China,True,China-1,2012,1,flight engineer,2012,Shenzhou 9,Shenzhou 9,Shenzhou 9,Shenzhou 9,303.5,312.0,0.0,0.0
+528,8,"Liu, Yang",female,1978,China,True,China-2,2012,1,flight engineer,2012,Shenzhou 9,Shenzhou 9,Shenzhou 9,Shenzhou 9,303.5,312.0,0.0,0.0
+529,114,"Novitski, Oleg",male,1971,U.S.S.R/Russia,True,TsPK-14,2006,2,commander,2012,33,Soyuz TMA06M,ISS,Soyuz TMA06M,3448.0,8169.83,0.0,0.0
+529,114,"Novitski, Oleg",male,1971,U.S.S.R/Russia,True,TsPK-14,2006,2,commander,2016,50,Soyuz MS-03,ISS,Soyuz MS-03,4721.83,8169.83,0.0,0.0
+530,115,"Tarelkin, Yevgeni",male,1974,U.S.S.R/Russia,True,TsPK-13,2003,1,flight engineer,2012,33,Soyuz TMA06M,ISS,Soyuz TMA06M,3448.0,3448.25,0.0,0.0
+531,116,"Misurkin, Aleksandr",male,1977,U.S.S.R/Russia,True,TsPK-14,2006,2,flight engineer,2013,35,Soyuz TMA-08M,ISS,Soyuz TMA-08M,3990.25,8027.5,20.03,28.25
+531,116,"Misurkin, Aleksandr",male,1977,U.S.S.R/Russia,True,TsPK-14,2006,2,commander,2017,53,Soyuz MS-06,ISS,Soyuz TMA-08M,4037.25,8027.5,8.22,28.25
+532,6,"Parmitano, Luca",male,1976,Italy,True,2009 ESA Group,2009,2,flight engineer,2013,36,Soyuz TMA-09M,ISS,Soyuz TMA-09M,3990.28,8293.31,7.65,26.88
+533,9,"Zhang, Xiaoguang",male,1968,China,True,China-1,2013,1,flight engineer,2013,Shenzhou 10,Shenzhou 10,Shenzhou 10,Shenzhou 10,350.0,350.0,0.0,0.0
+534,10,"Wang, Yapi",male,1980,China,True,China-2,2013,1,flight engineer,2013,Shenzhou 10,Shenzhou 10,Shenzhou 10,Shenzhou 10,350.0,350.0,0.0,0.0
+535,117,"Ryazanski, Sergei",male,1974,U.S.S.R/Russia,False,IMBP-6,2003,2,flight engineer,2013,37,Soyuz TMA10M,ISS,Soyuz TMA10M,3990.0,7318.93,19.92,26.92
+535,117,"Ryazanski, Sergei",male,1974,U.S.S.R/Russia,False,IMBP-6,2003,2,commander,2017,52,Soyuz MS-05,ISS,Soyuz MS-05,3328.93,7318.93,7.0,26.92
+536,336,"Hopkins, Michael Scott",male,1968,U.S.,True,2009 NASA group,2009,1,flight engineer,2013,37,Soyuz TMA-10M,ISS,Soyuz TMA-10M,3990.42,3990.42,12.97,12.97
+537,118,"Artemyev, Oleg",male,1970,U.S.S.R/Russia,True,RKKE-15,2003,2,flight engineer,2014,39,Soyuz TMA12M,ISS,Soyuz TMA12M,4062.0,8784.0,12.57,20.34
+537,118,"Artemyev, Oleg",male,1970,U.S.S.R/Russia,True,RKKE-15,2003,2,commander,2018,55,Soyuz MS-08,ISS,Soyuz MS-08,4722.0,8784.0,7.77,20.34
+538,337,"Wiseman, Gregory Reid",male,1975,U.S.,True,2009 NASA group,2009,1,MSP,2014,40,Soyuz TMA-13M,ISS,Soyuz TMA-13M,3968.1,3968.1,12.78,12.78
+539,11,"Gerst, Alexander",male,1976,Germany,False,ESA-3/EAC,2009,2,flight engineer,2014,40,Soyuz TMA-13M,ISS,Soyuz TMA-13M,3968.02,8689.84,6.22,6.22
+539,11,"Gerst, Alexander",male,1976,Germany,False,ESA-3/EAC,2009,2,flight engineer,2018,56,Soyuz MS-09,ISS,Soyuz MS-09,4721.82,8689.84,0.0,6.22
+540,119,"Serova, Yelena",female,1976,U.S.S.R/Russia,False,RKKE-15,2006,1,flight engineer,2014,41,Soyuz TMA14M,ISS,Soyuz TMA14M,4013.0,4013.7,0.0,0.0
+541,7,"Cristofretti, Samantha",female,1977,Italy,True,2009 ESA Group,2009,1,flight engineer,2014,42,Soyuz TMA-15M,ISS,Soyuz TMA-15M,4783.5,4783.5,0.0,0.0
+542,10,"Yui, Kimiya",male,1970,Japan,True,JAXA-5,2009,1,flight engineer,2015,44,Soyuz TMA-17M,ISS,Soyuz TMA-17M,3400.0,3400.0,0.0,0.0
+543,338,"Lindgren, Kjell Norwood",male,1973,U.S.,True,2009 NASA group,2009,1,flight engineer,2015,44,Soyuz TMA-17M,ISS,Soyuz TMA-17M,3400.15,3400.15,15.07,15.07
+544,1,"Mogensen, Andreas",male,1976,Denmark,False,ESA-3/EAC,2009,1,flight engineer,2015,Soyuz TMA-18M/16M,Soyuz TMA-18M,Soyuz TMA-18M,Soyuz TMA-16M,236.23,236.23,0.0,0.0
+545,1,Aidyn (Aydyn) Akanovich Aimbetov,male,1972,Kazakhstan,True,Kzazkh Cosmonaut Group 1,2012,1,flight engineer,2015,Soyuz TMA-18M/16M,Soyuz TMA-18M,Soyuz TMA-18M/16M,Soyuz TMA-16M,236.23,236.23,0.0,0.0
+546,2,"Peake, Timothy Nigel",male,1972,U.K.,True,2009 ESA Group,2009,1,pilot,2015,46,Soyuz TMA-19M,ISS,Soyuz TMA-19M,4462.0,4462.0,4.72,4.72
+547,120,"Ovchinin, Aleksey",male,1971,U.S.S.R/Russia,True,TsPK-14,2006,3,commander,2016,47,Soyuz TMA20M,ISS,Soyuz TMA20M,4132.0,8995.75,0.0,6.0
+547,120,"Ovchinin, Aleksey",male,1971,U.S.S.R/Russia,True,TsPK-14,2006,3,commander,2019,57,Soyuz MS-10,aborted,aborted,0.0,8995.75,0.0,6.0
+547,120,"Ovchinin, Aleksey",male,1971,U.S.S.R/Russia,True,TsPK-14,2006,3,commander,2019,59,Soyuz MS-12,ISS,Soyuz MS-12,4863.75,8995.75,6.0,6.0
+548,11,"Onishi, Takuya",male,1975,Japan,False,JAXA-5,2009,1,flight engineer,2016,48,Soyuz MS,ISS,Soyuz MS,6902.35,6902.35,0.0,0.0
+549,339,"Rubins, Kathleen",female,1978,U.S.,False,NASA-20,2009,1,flight engineer,2016,48,Soyuz MS,ISS,Soyuz MS,6902.35,6902.35,12.77,12.77
+550,11,"Chen, Dong",male,1978,China,True,China-2,2010,1,flight engineer,2016,Shenzhou 11,Shenzhou 11,Shenzhou 11,Shenzhou 11,774.5,774.5,0.0,0.0
+551,121,"Ryzhikov, Sergey",male,1974,U.S.S.R/Russia,True,TsPK-14,2006,1,commander,2016,49,Soyuz MS-02,ISS,Soyuz MS-02,10383.25,10383.25,0.0,0.0
+552,121,"Pesquet, Thomas",male,1978,France,False,ESA-3/EAC,2009,1,flight engineer,2016,50,Soyuz MS-03,ISS,Soyuz MS-03,4721.83,15105.08,13.0,13.0
+553,340,"Fischer, Jack",male,1974,U.S.,True,NASA-20,2009,1,flight engineer,2017,51,Soyuz MS-04,ISS,Soyuz MS-04,3258.13,3258.13,7.0,7.0
+554,341,"Vande Hei, Mark",male,1966,U.S.,True,NASA-20,2009,1,flight engineer,2017,53,Soyuz MS-06,ISS,Soyuz MS-06,4037.23,4037.23,27.0,27.0
+555,342,"Tingle, Scott",male,1965,U.S.,True,NASA-20,2009,1,flight engineer,2017,54,Soyuz MS-07,ISS,Soyuz MS-07,4037.0,4037.0,7.4,7.4
+556,12,"Kanai, Norishige",male,1976,Japan,False,JAXA-5,2009,1,flight engineer,2017,54,Soyuz MS-07,ISS,Soyuz MS-07,4037.0,4037.0,5.95,5.95
+557,122,"Prokopyev, Sergei",male,1975,U.S.S.R/Russia,True,TsPK-15,2010,1,commander,2018,56,Soyuz MS-09,ISS,Soyuz MS-09,4722.0,4722.0,15.52,15.52
+558,343,"Aun-Chancellor, Serena",female,1976,U.S.,False,NASA-20,2009,1,flight engineer,2018,56,Soyuz MS-09,ISS,Soyuz MS-09,4722.0,4722.0,0.0,0.0
+559,344,"Hague, Tyler",male,1975,U.S.,True,NASA-21,2013,2,flight engineer,2018,57,Soyuz MS-10,aborted,aborted,0.0,4864.0,19.93,19.93
+559,433,"Hague, Tyler",male,1975,U.S.,True,NASA-21,2013,2,flight engineer,2019,59,Soyuz MS-12,ISS,Soyuz MS-12,4864.0,4864.0,19.93,19.93
+560,10,"Saint-Jaques, David",male,1970,Canada,False,CSA-3,2009,1,flight engineer,2018,57,Soyuz MS-11,ISS,Soyuz MS-11,4887.0,4887.0,6.5,6.5
+561,345,"McClain, Anne Charlotte",female,1979,U.S.,True,NASA-21,2013,1,flight engineer,2018,57,Soyuz MS-11,ISS,Soyuz MS-11,4887.0,4887.0,13.13,13.13
+562,346,"Koch, Christina",female,1979,U.S.,False,NASA-21,2013,1,flight engineer,2019,59,Soyuz MS-12,ISS,not completed yet,7372.3,7372.3,27.8,27.8
+563,347,"Morgan, Andrew",male,1976,U.S.,True,NASA-21,2013,1,flight engineer,2019,60,Soyuz MS-13,ISS,not completed yet,4303.08,4303.08,39.52,39.52
+564,348,"Meir, Jessica",female,1977,U.S.,False,NASA-21,2013,1,flight engineer,2019,60,Soyuz MS-15,ISS,not completed yet,2697.6,2697.6,7.28,7.28
+565,1,"Al Mansoori, Hazzaa",male,1983,UAE,True,MBRSC Selection 1,2018,1,spaceflight participant,2019,EP-19,Soyuz MS-15,ISS,Soyuz MS-12,189.0,189.0,0.0,0.0
