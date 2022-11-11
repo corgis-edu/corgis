@@ -10,8 +10,8 @@ Tags,"UFO, Sightings",,,
 Acknowledgement,Sigmond Axel,,,
 Row,sighting,,,
 Row Explanation,A UFO sighting report,,,
-Icon,UFO-sightings-icon.png,,,
-Splash,UFO-sightings-icon.png,,,
+Icon,ufo-sightings-icon.png,,,
+Splash,ufo-sightings-icon.png,,,
 Properties,Name,Type,Index,Description
 ,Location.City,string,,City or area of sighting
 ,Location.State,string,,state/region of sighting
