@@ -1,0 +1,31 @@
+Name,UFO Sightings,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,10/28/2022,,,
+Data File,UFO-sightings-corgis.csv,,,
+Overview,Descriptions of reported UFO sightings,,,
+Data Source,https://github.com/rfordatascience/tidytuesday/tree/2e9bd5a67e09b14d01f616b00f7f7e0931515d24/data/2019/2019-06-25,,,
+Description,"This data includes >80,000 recorded UFO ""sightings"" around the world, including the UFO shape, lat/long and state/country of where the sighting occurred, duration of the ""event"" and the data_time when it occurred.",,,
+Tags,"UFO, Sightings",,,
+Acknowledgement,Sigmond Axel,,,
+Row,sighting,,,
+Row Explanation,A UFO sighting report,,,
+Icon,UFO-sightings-icon.png,,,
+Splash,UFO-sightings-icon.png,,,
+Properties,Name,Type,Index,Description
+,Location.City,string,,City or area of sighting
+,Location.State,string,,state/region of sighting
+,Location.Country,string,,Country of sighting
+,Data.Shape,string,,UFO Shape
+,Data.Encounter duration,float,x,Encounter length in seconds
+,Data.Description excerpt,string,,Description of encounter
+,Location.Coordinates.Latitude ,float,,Latitude
+,Location.Coordinates.Longitude ,float,,Longitude
+,Dates.Sighted.Year,int,,Year of sighting
+,Dates.Sighted.Month,int,,Month of sighting
+,Date.Sighted.Day,int,,Day of sighting
+,Dates.Sighted.Hour,int,,Hour of sighting
+,Dates.Sighted.Minute,int,,Minute of sighting
+,Dates.Documented.Year,int,,Year of Documentation
+,Dates.Documented.Month,int,,Month of Documentation
+,Dates.Documented.Day,int,,Day of Documentation

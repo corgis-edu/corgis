@@ -1,0 +1,35 @@
+Name,Astronauts,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,10/28/2022,,,
+Data File,astronauts-corgis.csv,,,
+Overview,Details of astronauts and their mission before 15 January 2020,,,
+Data Source,https://github.com/rfordatascience/tidytuesday/blob/2e9bd5a67e09b14d01f616b00f7f7e0931515d24/data/2020/2020-07-14/readme.md,,,
+Description,This database contains publically available information about all astronauts who participated in space missions before 15 January 2020,,,
+Tags,"Space, Astronaut",,,
+Acknowledgement,Georgios Karamanis,,,
+Row,Mission,,,
+Row Explanation,Report of a specific astronauts mission,,,
+Icon,astronauts-icon.png,,,
+Splash,astronauts-icon.png,,,
+Properties,Name,Type,Index,Description
+,Pofile.Astronaut Numbers.Overall,int,,Astronaut world wide number
+,Pofile.Astronaut Numbers.Nationwide,int,,Astronaut nation wide number
+,Profile.Name,string,x,Astronaut name
+,Profile.Gender,string,,Astronaut gender
+,Profile.Birth Year,int,,Astronaut birth year
+,Profile.Nationality,string,,Astronaut nationality
+,Profile.Military,boolean,,If the astronaut is associated with the military
+,Profile.Selection.Group,string,,Selection group
+,Profile.Selection.Year,int,,Selection year
+,Pofile.Lifetime Statistics.Mission count,int,,Astronauts lifetime mission count
+,Mission.Role,string,,Astronauts role on mission
+,Mission.Year,int,,Mission year
+,Mission.Name,string,,Mission name
+,Mission.Vechicles.Ascent,string,,Ascent vehicle name
+,Mission.Vechicles.Orbit,string,,Orbit vehicle name
+,Mission.Vechicles.Decent,string,,Decent vehicle name
+,Mission.Durations.Mission duration,float,,Mission duration
+,Pofile.Lifetime Statistics.Mission duration,float,,Astronauts lifetime mission duration
+,Mission.Durations.EVA duration,float,,Astronauts EVA duration
+,Pofile.Lifetime Statistics.EVA duration,float,,Astronauts lifetime EVA duration

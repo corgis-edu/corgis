@@ -1,0 +1,28 @@
+Name,Parking Citations,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,10/28/2022,,,
+Data File,parking-citations-corgis.csv,,,
+Overview,Parking citations in the city of Norfolk VA,,,
+Data Source,https://data.norfolk.gov/Government/Parking-Citations/ei2q-6g8n,,,
+Description,"This dataset provides information about parking citations in the city of Norfolk. Data provided about the citations includes: time and date issued, violation type and code, location, state of vehicle registration, license plate numbers, make, model, and color of the vehicle, amount of parking citation fine.",,,
+Tags,"Parking Fines, Cars, Tickets",,,
+Acknowledgement,Branden Matthews,,,
+Row,Citation,,,
+Row Explanation,A individual parking citation,,,
+Icon,parking-citations-icon.png,,,
+Splash,parking-citations-icon.png,,,
+Properties,Name,Type,Index,Description
+,Data.Number Plate,string,,Car number plate
+,Data.State,string,,State of number plate
+,Data.Car.Make,string,,Car make
+,Data.Car.Style,string,,Car style
+,Data.Car.Color,string,,Car color
+,Data.Location,string,,Citation location
+,Data.Violation,string,,Violation
+,Data.Fine,float,x,Fine amount
+,Date.Year,int,,Year of the citation
+,Date.Month,int,,Month of the citation
+,Date.Day,int,,Day of the citation
+,Date.Time.Hour,int,,Hour of the citation
+,Date.Time.Minute,int,,Minute of the citation

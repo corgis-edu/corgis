@@ -1,0 +1,28 @@
+Name,Super bowl ads,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,10/28/2022,,,
+Data File,super-bowl-ads-corgis.csv,,,
+Overview,Descriptions of superbowl ads ,,,
+Data Source,https://github.com/rfordatascience/tidytuesday/tree/2e9bd5a67e09b14d01f616b00f7f7e0931515d24/data/2021/2021-03-02,,,
+Description,"Descriptions of superbowl ads based on their youtube video, between 2000-2020",,,
+Tags,"Super Bowl, Advertisement, YouTube, Football",,,
+Acknowledgement, FiveThirtyEight,,,
+Row,Advert,,,
+Row Explanation,A super bowl ad,,,
+Icon,super-bowl-ad-icon.png,,,
+Splash,super-bowl-ad-icon.png,,,
+Properties,Name,Type,Index,Description
+,Year,int,,Superbowl year
+,Brand,string,,Brand for commercial
+,Data.Content.Funny,boolean,,Contains humor
+,Data.Content.Shows Product,boolean,,Shows product quickly
+,Data.Content.Patriotic,boolean,,Patriotic
+,Data.Content.Celebrity,boolean,,Contains celebrity
+,Data.Content.Danger,boolean,,Contains danger
+,Data.Content.Animals,boolean,,Contains animals
+,Data.Content.Sexual,boolean,,Uses sexuality
+,Data.Viewership.Views,int,x,Latitude position
+,Data.Viewership.Likes,int,,Longitude position
+,Data.Viewership.Dislikes,int,,Body wave magnitude of explosion (mb)
+,Data.Title,string,,Source the reported the explosion event

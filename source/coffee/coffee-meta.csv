@@ -1,0 +1,38 @@
+Name,Coffee,,,
+Version,1.0.0,,,
+Author,Sam Donald,,,
+Created,10/28/2022,,,
+Data File,cofee-corgis.csv,,,
+Overview,Details of various coffees and their ratings across various metrics,,,
+Data Source,https://github.com/rfordatascience/tidytuesday/tree/2e9bd5a67e09b14d01f616b00f7f7e0931515d24/data/2020/2020-07-07,,,
+Description,"There is data for both Arabica and Robusta beans, across many countries and professionally rated on a 0-100 scale. All sorts of scoring/ratings for things like acidity, sweetness, fragrance, balance, etc.",,,
+Tags,"Coffee, Cupping",,,
+Acknowledgement,James LeDoux,,,
+Row,Coffee,,,
+Row Explanation,A specific coffee,,,
+Icon,coffee-icon.png,,,
+Splash,coffee-icon.png,,,
+Properties,Name,Type,Index,Description
+,Location.Country,string,,Country where the coffee was produced
+,Location.Region,string,,Region where the coffee was produced
+,Location.Altitude.Min,int,,Min altitude of the farm
+,Location.Altitude.Max,int,,Max altitude of the farm
+,Location.Altitude.Average,int,,Average altitude of the farm
+,Year,int,,Production year
+,Data.Owner,string,,Owner of the coffee
+,Data.Type.Species,string,,Species of the coffee
+,Data.Type.Variety,string,,Variety of the coffee
+,Data.Type.Processing method,string,,Processing method used
+,Data.Production.Number of bags,int,,Number of bags tested
+,Data.Production.Bag weight,float,,Bag weight tested
+,Data.Scores.Aroma,float,,Aroma score 0-10
+,Data.Scores.Flavor,float,,Flavor score 0-10
+,Data.Scores.Aftertaste,float,,Aftertaste score 0-10
+,Data.Scores.Acidity,float,,Acidity score 0-10
+,Data.Scores.Body,float,,Body score 0-10
+,Data.Scores.Balance,float,,Balance score 0-10
+,Data.Scores.Uniformity,float,,Uniformity score 0-10
+,Data.Scores.Sweetness,float,,Sweetness score 0-10
+,Data.Scores.Moisture,float,,Moisture score 0-10
+,Data.Scores.Total,float,x,Total score
+,Data.Color,string,,Bean color
