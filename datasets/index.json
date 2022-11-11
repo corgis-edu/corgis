@@ -12,6 +12,12 @@
             "meta": "source/global-development/global-development-meta.csv",
             "data": "source/global-development/global-development-corgis.csv"
         },
+        "parking-citations": {
+            "name": "parking-citations",
+            "directory": "source/parking-citations",
+            "meta": "source/parking-citations/parking-citations-meta.csv",
+            "data": "source/parking-citations/parking-citations-corgis.csv"
+        },
         "tate": {
             "name": "tate",
             "directory": "source/tate",
@@ -77,6 +83,12 @@
             "directory": "source/electricity",
             "meta": "source/electricity/electricity-meta.csv",
             "data": "source/electricity/electricity-corgis.csv"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "directory": "source/astronauts",
+            "meta": "source/astronauts/astronauts-meta.csv",
+            "data": "source/astronauts/astronauts-corgis.csv"
         },
         "construction-permits": {
             "name": "construction-permits",
@@ -186,6 +198,12 @@
             "meta": "source/real-estate/real-estate-meta.csv",
             "data": "source/real-estate/real-estate-corgis.csv"
         },
+        "coffee": {
+            "name": "coffee",
+            "directory": "source/coffee",
+            "meta": "source/coffee/coffee-meta.csv",
+            "data": "source/coffee/coffee-corgis.csv"
+        },
         "cars": {
             "name": "cars",
             "directory": "source/cars",
@@ -222,6 +240,12 @@
             "meta": "source/graduates/graduates-meta.csv",
             "data": "source/graduates/graduates-corgis.csv"
         },
+        "nuclear-explosions": {
+            "name": "nuclear-explosions",
+            "directory": "source/nuclear-explosions",
+            "meta": "source/nuclear-explosions/nuclear-explosions-meta.csv",
+            "data": "source/nuclear-explosions/nuclear-explosions-corgis.csv"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "directory": "source/monkeypox",
@@ -233,6 +257,12 @@
             "directory": "source/finance",
             "meta": "source/finance/finance-meta.csv",
             "data": "source/finance/finance-corgis.csv"
+        },
+        "super-bowl-ads": {
+            "name": "super-bowl-ads",
+            "directory": "source/super-bowl-ads",
+            "meta": "source/super-bowl-ads/super-bowl-ads-meta.csv",
+            "data": "source/super-bowl-ads/super-bowl-ads-corgis.csv"
         },
         "suicide-attacks": {
             "name": "suicide-attacks",
@@ -306,6 +336,12 @@
             "meta": "source/airlines/airlines-meta.csv",
             "data": "source/airlines/airlines-corgis.csv"
         },
+        "ufo-sightings": {
+            "name": "ufo-sightings",
+            "directory": "source/ufo-sightings",
+            "meta": "source/ufo-sightings/ufo-sightings-meta.csv",
+            "data": "source/ufo-sightings/ufo-sightings-corgis.csv"
+        },
         "music": {
             "name": "music",
             "directory": "source/music",
@@ -346,6 +382,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -411,6 +453,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -520,6 +568,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -556,6 +610,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -567,6 +627,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -639,6 +705,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
@@ -672,6 +744,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -737,6 +815,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -846,6 +930,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -882,6 +972,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -893,6 +989,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -965,6 +1067,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
@@ -998,6 +1106,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -1063,6 +1177,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -1172,6 +1292,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -1208,6 +1334,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -1219,6 +1351,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -1291,6 +1429,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
@@ -1324,6 +1468,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -1389,6 +1539,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -1498,6 +1654,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -1534,6 +1696,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -1545,6 +1713,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -1617,6 +1791,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
@@ -1650,6 +1830,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -1715,6 +1901,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -1824,6 +2016,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -1860,6 +2058,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -1871,6 +2075,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -1943,6 +2153,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
@@ -1976,6 +2192,12 @@
             "overview": "Reports of country's development over time",
             "version": "2.0.0"
         },
+        "parking-citations": {
+            "name": "parking citations",
+            "title": "Parking Citations",
+            "overview": "Parking citations in the city of Norfolk VA",
+            "version": "1.0.0"
+        },
         "tate": {
             "name": "tate",
             "title": "Tate",
@@ -2041,6 +2263,12 @@
             "title": "Electricity",
             "overview": "This data set describes over 2000 U.S. electric utilities. Reported data for 2019 includes electrical generation, distribution, revenues, and customers.",
             "version": "2.0.0"
+        },
+        "astronauts": {
+            "name": "astronauts",
+            "title": "Astronauts",
+            "overview": "Details of astronauts and their mission before 15 January 2020",
+            "version": "1.0.0"
         },
         "construction-permits": {
             "name": "construction permits",
@@ -2150,6 +2378,12 @@
             "overview": "Real estate information in the United States, including inventory, building, and customer data.",
             "version": "3.0.0"
         },
+        "coffee": {
+            "name": "coffee",
+            "title": "Coffee",
+            "overview": "Details of various coffees and their ratings across various metrics",
+            "version": "1.0.0"
+        },
         "cars": {
             "name": "cars",
             "title": "Cars",
@@ -2186,6 +2420,12 @@
             "overview": "This library holds data about employment of new graduates by major.",
             "version": "2.0.0"
         },
+        "nuclear-explosions": {
+            "name": "nuclear explosions",
+            "title": "Nuclear Explosions",
+            "overview": "Details of nuclear explosions",
+            "version": "1.0.0"
+        },
         "monkeypox": {
             "name": "monkeypox",
             "title": "Monkeypox",
@@ -2197,6 +2437,12 @@
             "title": "Finance",
             "overview": "The Annual Survey of State Government Finances provides a comprehensive summary of the annual survey findings for state governments, as well as data for individual states.",
             "version": "3.0.0"
+        },
+        "super-bowl-ads": {
+            "name": "super bowl ads",
+            "title": "Super Bowl Ads",
+            "overview": "Descriptions of superbowl ads ",
+            "version": "1.0.0"
         },
         "suicide-attacks": {
             "name": "suicide attacks",
@@ -2269,6 +2515,12 @@
             "title": "Airlines",
             "overview": "Information about flight delays in major aiports since 2003.",
             "version": "2.0.0"
+        },
+        "ufo-sightings": {
+            "name": "ufo sightings",
+            "title": "Ufo Sightings",
+            "overview": "Descriptions of reported UFO sightings",
+            "version": "1.0.0"
         },
         "music": {
             "name": "music",
