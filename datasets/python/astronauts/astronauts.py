@@ -30,16 +30,11 @@ def _tifa_definitions():
                 "name": 'get_mission',
                 "returns": 
 				{"type": "ListType", "subtype": 
-					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Pofile'}, {"type": "LiteralStr", "value": 'Profile'}, {"type": "LiteralStr", "value": 'Mission'}], "values": [
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Astronaut Numbers'}, {"type": "LiteralStr", "value": 'Lifetime Statistics'}], "values": [
+					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Profile'}, {"type": "LiteralStr", "value": 'Mission'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Astronaut Numbers'}, {"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Gender'}, {"type": "LiteralStr", "value": 'Birth Year'}, {"type": "LiteralStr", "value": 'Nationality'}, {"type": "LiteralStr", "value": 'Military'}, {"type": "LiteralStr", "value": 'Selection'}, {"type": "LiteralStr", "value": 'Lifetime Statistics'}], "values": [
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Overall'}, {"type": "LiteralStr", "value": 'Nationwide'}], "values": [
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Mission count'}, {"type": "LiteralStr", "value": 'Mission duration'}, {"type": "LiteralStr", "value": 'EVA duration'}], "values": [
-								{"type": "NumType"}, 
-								{"type": "NumType"}, 
-								{"type": "NumType"}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Gender'}, {"type": "LiteralStr", "value": 'Birth Year'}, {"type": "LiteralStr", "value": 'Nationality'}, {"type": "LiteralStr", "value": 'Military'}, {"type": "LiteralStr", "value": 'Selection'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "NumType"}, 
@@ -47,6 +42,10 @@ def _tifa_definitions():
 							{"type": "NumType"}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Group'}, {"type": "LiteralStr", "value": 'Year'}], "values": [
 								{"type": "StrType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Mission count'}, {"type": "LiteralStr", "value": 'Mission duration'}, {"type": "LiteralStr", "value": 'EVA duration'}], "values": [
+								{"type": "NumType"}, 
+								{"type": "NumType"}, 
 								{"type": "NumType"}]}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Role'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Vechicles'}, {"type": "LiteralStr", "value": 'Durations'}], "values": [
 							{"type": "StrType"}, 

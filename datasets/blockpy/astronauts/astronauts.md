@@ -37,14 +37,14 @@ This database contains publically available information about all astronauts who
 </tr>
 
 <tr>
-    <td>Pofile.Astronaut Numbers.Overall</td>
+    <td>Profile.Astronaut Numbers.Overall</td>
     <td>Integer</td> 
     <td>Astronaut world wide number</td>
     <td><code>1</code></td>
 </tr>
 
 <tr>
-    <td>Pofile.Astronaut Numbers.Nationwide</td>
+    <td>Profile.Astronaut Numbers.Nationwide</td>
     <td>Integer</td> 
     <td>Astronaut nation wide number</td>
     <td><code>1</code></td>
@@ -100,7 +100,7 @@ This database contains publically available information about all astronauts who
 </tr>
 
 <tr>
-    <td>Pofile.Lifetime Statistics.Mission count</td>
+    <td>Profile.Lifetime Statistics.Mission count</td>
     <td>Integer</td> 
     <td>Astronauts lifetime mission count</td>
     <td><code>1</code></td>
@@ -156,7 +156,7 @@ This database contains publically available information about all astronauts who
 </tr>
 
 <tr>
-    <td>Pofile.Lifetime Statistics.Mission duration</td>
+    <td>Profile.Lifetime Statistics.Mission duration</td>
     <td>Float</td> 
     <td>Astronauts lifetime mission duration</td>
     <td><code>1.77</code></td>
@@ -170,7 +170,7 @@ This database contains publically available information about all astronauts who
 </tr>
 
 <tr>
-    <td>Pofile.Lifetime Statistics.EVA duration</td>
+    <td>Profile.Lifetime Statistics.EVA duration</td>
     <td>Float</td> 
     <td>Astronauts lifetime EVA duration</td>
     <td><code>0.0</code></td>

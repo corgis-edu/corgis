@@ -1274,11 +1274,11 @@ VISUALIZER_DATA = [
       564,
       565
     ],
-    "name": "Pofile.Astronaut Numbers.Overall",
+    "name": "Profile.Astronaut Numbers.Overall",
     "comment": "Astronaut world wide number",
     "index": false,
     "type": "number",
-    "pretty": "Pofile.Astronaut Numbers.Overall"
+    "pretty": "Profile.Astronaut Numbers.Overall"
   },
   {
     "data": [
@@ -2553,11 +2553,11 @@ VISUALIZER_DATA = [
       348,
       1
     ],
-    "name": "Pofile.Astronaut Numbers.Nationwide",
+    "name": "Profile.Astronaut Numbers.Nationwide",
     "comment": "Astronaut nation wide number",
     "index": false,
     "type": "number",
-    "pretty": "Pofile.Astronaut Numbers.Nationwide"
+    "pretty": "Profile.Astronaut Numbers.Nationwide"
   },
   {
     "data": [
@@ -12785,11 +12785,11 @@ VISUALIZER_DATA = [
       1,
       1
     ],
-    "name": "Pofile.Lifetime Statistics.Mission count",
+    "name": "Profile.Lifetime Statistics.Mission count",
     "comment": "Astronauts lifetime mission count",
     "index": false,
     "type": "number",
-    "pretty": "Pofile.Lifetime Statistics.Mission count"
+    "pretty": "Profile.Lifetime Statistics.Mission count"
   },
   {
     "data": [
@@ -23017,11 +23017,11 @@ VISUALIZER_DATA = [
       2697.6,
       189.0
     ],
-    "name": "Pofile.Lifetime Statistics.Mission duration",
+    "name": "Profile.Lifetime Statistics.Mission duration",
     "comment": "Astronauts lifetime mission duration",
     "index": false,
     "type": "number",
-    "pretty": "Pofile.Lifetime Statistics.Mission duration"
+    "pretty": "Profile.Lifetime Statistics.Mission duration"
   },
   {
     "data": [
@@ -25575,10 +25575,10 @@ VISUALIZER_DATA = [
       7.28,
       0.0
     ],
-    "name": "Pofile.Lifetime Statistics.EVA duration",
+    "name": "Profile.Lifetime Statistics.EVA duration",
     "comment": "Astronauts lifetime EVA duration",
     "index": false,
     "type": "number",
-    "pretty": "Pofile.Lifetime Statistics.EVA duration"
+    "pretty": "Profile.Lifetime Statistics.EVA duration"
   }
 ];

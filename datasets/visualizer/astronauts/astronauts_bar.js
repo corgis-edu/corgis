@@ -1,7 +1,7 @@
 VISUALIZER_DATA_BARS = [
   {
     "data": {
-      "Pofile.Astronaut Numbers.Overall": {
+      "Profile.Astronaut Numbers.Overall": {
         "Gagarin, Yuri": {
           "count": 1,
           "sum": 1,
@@ -3357,7 +3357,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 565
         }
       },
-      "Pofile.Astronaut Numbers.Nationwide": {
+      "Profile.Astronaut Numbers.Nationwide": {
         "Gagarin, Yuri": {
           "count": 1,
           "sum": 1,
@@ -16781,7 +16781,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2018
         }
       },
-      "Pofile.Lifetime Statistics.Mission count": {
+      "Profile.Lifetime Statistics.Mission count": {
         "Gagarin, Yuri": {
           "count": 1,
           "sum": 1,
@@ -26849,7 +26849,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 189.0
         }
       },
-      "Pofile.Lifetime Statistics.Mission duration": {
+      "Profile.Lifetime Statistics.Mission duration": {
         "Gagarin, Yuri": {
           "count": 1,
           "sum": 1.77,
@@ -33561,7 +33561,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Pofile.Lifetime Statistics.EVA duration": {
+      "Profile.Lifetime Statistics.EVA duration": {
         "Gagarin, Yuri": {
           "count": 1,
           "sum": 0.0,

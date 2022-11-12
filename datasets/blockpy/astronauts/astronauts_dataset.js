@@ -1,6 +1,6 @@
 
 blockpy._IMPORTED_DATASETS["astronauts"] = {
-  "Pofile.Astronaut Numbers.Overall": {
+  "Profile.Astronaut Numbers.Overall": {
     "data": [
       1,
       2,
@@ -1273,13 +1273,13 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
       564,
       565
     ],
-    "name": "Pofile.Astronaut Numbers.Overall",
+    "name": "Profile.Astronaut Numbers.Overall",
     "comment": "Astronaut world wide number",
     "index": false,
     "type": "Integer",
-    "pretty": "Pofile.Astronaut Numbers.Overall"
+    "pretty": "Profile.Astronaut Numbers.Overall"
   },
-  "Pofile.Astronaut Numbers.Nationwide": {
+  "Profile.Astronaut Numbers.Nationwide": {
     "data": [
       1,
       2,
@@ -2552,11 +2552,11 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
       348,
       1
     ],
-    "name": "Pofile.Astronaut Numbers.Nationwide",
+    "name": "Profile.Astronaut Numbers.Nationwide",
     "comment": "Astronaut nation wide number",
     "index": false,
     "type": "Integer",
-    "pretty": "Pofile.Astronaut Numbers.Nationwide"
+    "pretty": "Profile.Astronaut Numbers.Nationwide"
   },
   "Profile.Name": {
     "data": [
@@ -11511,7 +11511,7 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
     "type": "Integer",
     "pretty": "Profile.Selection.Year"
   },
-  "Pofile.Lifetime Statistics.Mission count": {
+  "Profile.Lifetime Statistics.Mission count": {
     "data": [
       1,
       1,
@@ -12784,11 +12784,11 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
       1,
       1
     ],
-    "name": "Pofile.Lifetime Statistics.Mission count",
+    "name": "Profile.Lifetime Statistics.Mission count",
     "comment": "Astronauts lifetime mission count",
     "index": false,
     "type": "Integer",
-    "pretty": "Pofile.Lifetime Statistics.Mission count"
+    "pretty": "Profile.Lifetime Statistics.Mission count"
   },
   "Mission.Role": {
     "data": [
@@ -21743,7 +21743,7 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
     "type": "Float",
     "pretty": "Mission.Durations.Mission duration"
   },
-  "Pofile.Lifetime Statistics.Mission duration": {
+  "Profile.Lifetime Statistics.Mission duration": {
     "data": [
       1.77,
       25.3,
@@ -23016,11 +23016,11 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
       2697.6,
       189.0
     ],
-    "name": "Pofile.Lifetime Statistics.Mission duration",
+    "name": "Profile.Lifetime Statistics.Mission duration",
     "comment": "Astronauts lifetime mission duration",
     "index": false,
     "type": "Float",
-    "pretty": "Pofile.Lifetime Statistics.Mission duration"
+    "pretty": "Profile.Lifetime Statistics.Mission duration"
   },
   "Mission.Durations.EVA duration": {
     "data": [
@@ -24301,7 +24301,7 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
     "type": "Float",
     "pretty": "Mission.Durations.EVA duration"
   },
-  "Pofile.Lifetime Statistics.EVA duration": {
+  "Profile.Lifetime Statistics.EVA duration": {
     "data": [
       0.0,
       0.0,
@@ -25574,10 +25574,10 @@ blockpy._IMPORTED_DATASETS["astronauts"] = {
       7.28,
       0.0
     ],
-    "name": "Pofile.Lifetime Statistics.EVA duration",
+    "name": "Profile.Lifetime Statistics.EVA duration",
     "comment": "Astronauts lifetime EVA duration",
     "index": false,
     "type": "Float",
-    "pretty": "Pofile.Lifetime Statistics.EVA duration"
+    "pretty": "Profile.Lifetime Statistics.EVA duration"
   }
 };

@@ -79,21 +79,9 @@ $(document).ready(function() {
 </script>
 
 
-<div id='explore-' title='Dictionary (3 keys)'>
+<div id='explore-' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Pofile"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Pofile'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
         
         <tr> <td><code>"Profile"</code></td>
              <td><span data-toggle="tooltip"
@@ -126,8 +114,6 @@ $(document).ready(function() {
 
     
 
-    
-
 <script>
 $(document).ready(function() {
     $( "#explore-" ).dialog({
@@ -138,12 +124,6 @@ $(document).ready(function() {
         $(this).parent().css("maxWidth", "600px");
       }
     });
-    
-    $("#btn-explore-Pofile").click(function() {
-        $( "#explore-Pofile" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
     
     $("#btn-explore-Profile").click(function() {
         $( "#explore-Profile" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
@@ -160,7 +140,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Pofile' title='Dictionary (2 keys)'>
+<div id='explore-Profile' title='Dictionary (8 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -170,121 +150,11 @@ $(document).ready(function() {
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Pofile-Astronaut-Numbers'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Profile-Astronaut-Numbers'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
              <td></td> </tr>
-        
-        <tr> <td><code>"Lifetime Statistics"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Pofile-Lifetime-Statistics'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Pofile" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Pofile-Astronaut-Numbers").click(function() {
-        $( "#explore-Pofile-Astronaut-Numbers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Pofile-Lifetime-Statistics").click(function() {
-        $( "#explore-Pofile-Lifetime-Statistics" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Pofile-Astronaut-Numbers' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Overall"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1</code>
-             
-                
-             </td> 
-             <td>Astronaut world wide number</td> </tr>
-        
-        <tr> <td><code>"Nationwide"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Integer (whole number)'>
-                       int</span></td> 
-             <td>
-             
-                <code>1</code>
-             
-                
-             </td> 
-             <td>Astronaut nation wide number</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Pofile-Astronaut-Numbers" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Pofile-Astronaut-Numbers-Overall").click(function() {
-        $( "#explore-Pofile-Astronaut-Numbers-Overall" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Pofile-Astronaut-Numbers-Nationwide").click(function() {
-        $( "#explore-Pofile-Astronaut-Numbers-Nationwide" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Profile' title='Dictionary (6 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
         <tr> <td><code>"Name"</code></td>
              <td><span data-toggle="tooltip"
@@ -358,8 +228,24 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
+        <tr> <td><code>"Lifetime Statistics"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-Profile-Lifetime-Statistics'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
+        
     </table>
 </div>
+
+    
+
+    
 
     
 
@@ -383,6 +269,12 @@ $(document).ready(function() {
         $(this).parent().css("maxWidth", "600px");
       }
     });
+    
+    $("#btn-explore-Profile-Astronaut-Numbers").click(function() {
+        $( "#explore-Profile-Astronaut-Numbers" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
     
     $("#btn-explore-Profile-Name").click(function() {
         $( "#explore-Profile-Name" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
@@ -416,6 +308,73 @@ $(document).ready(function() {
     
     $("#btn-explore-Profile-Selection").click(function() {
         $( "#explore-Profile-Selection" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Profile-Lifetime-Statistics").click(function() {
+        $( "#explore-Profile-Lifetime-Statistics" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Profile-Astronaut-Numbers' title='Dictionary (2 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"Overall"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1</code>
+             
+                
+             </td> 
+             <td>Astronaut world wide number</td> </tr>
+        
+        <tr> <td><code>"Nationwide"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Integer (whole number)'>
+                       int</span></td> 
+             <td>
+             
+                <code>1</code>
+             
+                
+             </td> 
+             <td>Astronaut nation wide number</td> </tr>
+        
+    </table>
+</div>
+
+    
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Profile-Astronaut-Numbers" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Profile-Astronaut-Numbers-Overall").click(function() {
+        $( "#explore-Profile-Astronaut-Numbers-Overall" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Profile-Astronaut-Numbers-Nationwide").click(function() {
+        $( "#explore-Profile-Astronaut-Numbers-Nationwide" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -484,7 +443,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Pofile-Lifetime-Statistics' title='Dictionary (3 keys)'>
+<div id='explore-Profile-Lifetime-Statistics' title='Dictionary (3 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -535,7 +494,7 @@ $(document).ready(function() {
 
 <script>
 $(document).ready(function() {
-    $( "#explore-Pofile-Lifetime-Statistics" ).dialog({
+    $( "#explore-Profile-Lifetime-Statistics" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -544,20 +503,20 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Pofile-Lifetime-Statistics-Mission-count").click(function() {
-        $( "#explore-Pofile-Lifetime-Statistics-Mission-count" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Profile-Lifetime-Statistics-Mission-count").click(function() {
+        $( "#explore-Profile-Lifetime-Statistics-Mission-count" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Pofile-Lifetime-Statistics-Mission-duration").click(function() {
-        $( "#explore-Pofile-Lifetime-Statistics-Mission-duration" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Profile-Lifetime-Statistics-Mission-duration").click(function() {
+        $( "#explore-Profile-Lifetime-Statistics-Mission-duration" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Pofile-Lifetime-Statistics-EVA-duration").click(function() {
-        $( "#explore-Pofile-Lifetime-Statistics-EVA-duration" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Profile-Lifetime-Statistics-EVA-duration").click(function() {
+        $( "#explore-Profile-Lifetime-Statistics-EVA-duration" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

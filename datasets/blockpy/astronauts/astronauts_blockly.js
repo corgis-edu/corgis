@@ -574,8 +574,8 @@ var astronauts_INDEX_VALUES = {
 }
 
 var astronauts_PROPERTIES = [
-    ["Pofile.Astronaut Numbers.Overall", "Pofile.Astronaut Numbers.Overall"] ,
-    ["Pofile.Astronaut Numbers.Nationwide", "Pofile.Astronaut Numbers.Nationwide"] ,
+    ["Profile.Astronaut Numbers.Overall", "Profile.Astronaut Numbers.Overall"] ,
+    ["Profile.Astronaut Numbers.Nationwide", "Profile.Astronaut Numbers.Nationwide"] ,
     ["Profile.Name", "Profile.Name"] ,
     ["Profile.Gender", "Profile.Gender"] ,
     ["Profile.Birth Year", "Profile.Birth Year"] ,
@@ -583,7 +583,7 @@ var astronauts_PROPERTIES = [
     ["Profile.Military", "Profile.Military"] ,
     ["Profile.Selection.Group", "Profile.Selection.Group"] ,
     ["Profile.Selection.Year", "Profile.Selection.Year"] ,
-    ["Pofile.Lifetime Statistics.Mission count", "Pofile.Lifetime Statistics.Mission count"] ,
+    ["Profile.Lifetime Statistics.Mission count", "Profile.Lifetime Statistics.Mission count"] ,
     ["Mission.Role", "Mission.Role"] ,
     ["Mission.Year", "Mission.Year"] ,
     ["Mission.Name", "Mission.Name"] ,
@@ -591,9 +591,9 @@ var astronauts_PROPERTIES = [
     ["Mission.Vechicles.Orbit", "Mission.Vechicles.Orbit"] ,
     ["Mission.Vechicles.Decent", "Mission.Vechicles.Decent"] ,
     ["Mission.Durations.Mission duration", "Mission.Durations.Mission duration"] ,
-    ["Pofile.Lifetime Statistics.Mission duration", "Pofile.Lifetime Statistics.Mission duration"] ,
+    ["Profile.Lifetime Statistics.Mission duration", "Profile.Lifetime Statistics.Mission duration"] ,
     ["Mission.Durations.EVA duration", "Mission.Durations.EVA duration"] ,
-    ["Pofile.Lifetime Statistics.EVA duration", "Pofile.Lifetime Statistics.EVA duration"] 
+    ["Profile.Lifetime Statistics.EVA duration", "Profile.Lifetime Statistics.EVA duration"] 
 ]
 
 Blockly.Blocks['astronauts_get'] = {
