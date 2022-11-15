@@ -21,7 +21,7 @@ style: dataset
 Smoking trends broken down by gender and country since 1980
 
 
-<https://github.com/owid/monkeypox>
+<https://github.com/owid/owid-datasets/tree/master/datasets/Smoking%20prevalence%20and%20cigarette%20consumption%20(IHME%2C%20GHDx%20(2012))>
 
 
 
