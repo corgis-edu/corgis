@@ -19,6 +19,6 @@ Properties,Name,Type,Index,Description
 ,Data.Percentage.Male,float,,Percentage of the male population who are smokers
 ,Data.Percentage.Female,float,,Percentage of the female population who are smokers
 ,Data.Percentage.Total,float,,Percentage of the total population who are smokers
-,Data.Smokers.Male,int,,Total number of male smokers
-,Data.Smokers.Female,int,,Total number of female smokers
 ,Data.Smokers.Total,int,,Total number smokers
+,Data.Smokers.Female,int,,Total number of female smokers
+,Data.Smokers.Male,int,,Total number of male smokers
