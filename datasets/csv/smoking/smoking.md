@@ -85,9 +85,9 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Data.Smokers.Male</td>
+    <td>Data.Smokers.Total</td>
     <td>Integer</td> 
-    <td>Total number of male smokers</td>
+    <td>Total number smokers</td>
     <td><code>733520</code></td>
 </tr>
 
@@ -99,9 +99,9 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Data.Smokers.Total</td>
+    <td>Data.Smokers.Male</td>
     <td>Integer</td> 
-    <td>Total number smokers</td>
+    <td>Total number of male smokers</td>
     <td><code>651813</code></td>
 </tr>
 

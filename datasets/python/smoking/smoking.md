@@ -326,7 +326,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Male"</code></td>
+        <tr> <td><code>"Total"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -336,7 +336,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Total number of male smokers</td> </tr>
+             <td>Total number smokers</td> </tr>
         
         <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
@@ -350,7 +350,7 @@ $(document).ready(function() {
              </td> 
              <td>Total number of female smokers</td> </tr>
         
-        <tr> <td><code>"Total"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -360,7 +360,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Total number smokers</td> </tr>
+             <td>Total number of male smokers</td> </tr>
         
     </table>
 </div>
@@ -382,8 +382,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Data-Smokers-Male").click(function() {
-        $( "#explore-Data-Smokers-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Smokers-Total").click(function() {
+        $( "#explore-Data-Smokers-Total" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -394,8 +394,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Smokers-Total").click(function() {
-        $( "#explore-Data-Smokers-Total" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Smokers-Male").click(function() {
+        $( "#explore-Data-Smokers-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

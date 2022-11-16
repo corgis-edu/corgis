@@ -43486,11 +43486,11 @@ VISUALIZER_DATA = [
       888279,
       929016
     ],
-    "name": "Data.Smokers.Male",
-    "comment": "Total number of male smokers",
+    "name": "Data.Smokers.Total",
+    "comment": "Total number smokers",
     "index": false,
     "type": "number",
-    "pretty": "Data.Smokers.Male"
+    "pretty": "Data.Smokers.Total"
   },
   {
     "data": [
@@ -55912,10 +55912,10 @@ VISUALIZER_DATA = [
       812488,
       850896
     ],
-    "name": "Data.Smokers.Total",
-    "comment": "Total number smokers",
+    "name": "Data.Smokers.Male",
+    "comment": "Total number of male smokers",
     "index": false,
     "type": "number",
-    "pretty": "Data.Smokers.Total"
+    "pretty": "Data.Smokers.Male"
   }
 ];

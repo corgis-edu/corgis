@@ -246,9 +246,9 @@ var smoking_PROPERTIES = [
     ["Data.Percentage.Male", "Data.Percentage.Male"] ,
     ["Data.Percentage.Female", "Data.Percentage.Female"] ,
     ["Data.Percentage.Total", "Data.Percentage.Total"] ,
-    ["Data.Smokers.Male", "Data.Smokers.Male"] ,
+    ["Data.Smokers.Total", "Data.Smokers.Total"] ,
     ["Data.Smokers.Female", "Data.Smokers.Female"] ,
-    ["Data.Smokers.Total", "Data.Smokers.Total"] 
+    ["Data.Smokers.Male", "Data.Smokers.Male"] 
 ]
 
 Blockly.Blocks['smoking_get'] = {

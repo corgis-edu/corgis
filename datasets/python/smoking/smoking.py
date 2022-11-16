@@ -39,7 +39,7 @@ def _tifa_definitions():
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Total'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Total'}, {"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}]}]}}

@@ -4521,7 +4521,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2.4484848424242425
         }
       },
-      "Data.Smokers.Male": {
+      "Data.Smokers.Total": {
         "Afghanistan": {
           "count": 33,
           "sum": 36217760,
@@ -6781,7 +6781,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 75914.72727272728
         }
       },
-      "Data.Smokers.Total": {
+      "Data.Smokers.Male": {
         "Afghanistan": {
           "count": 33,
           "sum": 32588894,
@@ -8919,7 +8919,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 7.933510641276595
         }
       },
-      "Data.Smokers.Male": {
+      "Data.Smokers.Total": {
         "1980": {
           "count": 188,
           "sum": 1441355207,
@@ -9319,7 +9319,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1702480.670212766
         }
       },
-      "Data.Smokers.Total": {
+      "Data.Smokers.Male": {
         "1980": {
           "count": 188,
           "sum": 1143435387,

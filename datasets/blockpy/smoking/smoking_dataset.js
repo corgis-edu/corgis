@@ -37278,7 +37278,7 @@ blockpy._IMPORTED_DATASETS["smoking"] = {
     "type": "Float",
     "pretty": "Data.Percentage.Total"
   },
-  "Data.Smokers.Male": {
+  "Data.Smokers.Total": {
     "data": [
       733520,
       720102,
@@ -43485,11 +43485,11 @@ blockpy._IMPORTED_DATASETS["smoking"] = {
       888279,
       929016
     ],
-    "name": "Data.Smokers.Male",
-    "comment": "Total number of male smokers",
+    "name": "Data.Smokers.Total",
+    "comment": "Total number smokers",
     "index": false,
     "type": "Integer",
-    "pretty": "Data.Smokers.Male"
+    "pretty": "Data.Smokers.Total"
   },
   "Data.Smokers.Female": {
     "data": [
@@ -49704,7 +49704,7 @@ blockpy._IMPORTED_DATASETS["smoking"] = {
     "type": "Integer",
     "pretty": "Data.Smokers.Female"
   },
-  "Data.Smokers.Total": {
+  "Data.Smokers.Male": {
     "data": [
       651813,
       640826,
@@ -55911,10 +55911,10 @@ blockpy._IMPORTED_DATASETS["smoking"] = {
       812488,
       850896
     ],
-    "name": "Data.Smokers.Total",
-    "comment": "Total number smokers",
+    "name": "Data.Smokers.Male",
+    "comment": "Total number of male smokers",
     "index": false,
     "type": "Integer",
-    "pretty": "Data.Smokers.Total"
+    "pretty": "Data.Smokers.Male"
   }
 };
