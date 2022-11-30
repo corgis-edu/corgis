@@ -34,7 +34,7 @@ def _tifa_definitions():
 						{"type": "StrType"}, 
 						{"type": "NumType"}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Daily cigarettes'}, {"type": "LiteralStr", "value": 'Percentage'}, {"type": "LiteralStr", "value": 'Smokers'}], "values": [
-							{"type": "StrType"}, 
+							{"type": "NumType"}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Male'}, {"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Total'}], "values": [
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 

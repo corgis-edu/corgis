@@ -58,9 +58,9 @@ Download the following file:
 
 <tr>
     <td>Data.Daily cigarettes</td>
-    <td>String</td> 
+    <td>Float</td> 
     <td>Average amount of cigarettes smoked per day by smokers</td>
-    <td><code>"5.6999998"</code></td>
+    <td><code>5.6999998</code></td>
 </tr>
 
 <tr>

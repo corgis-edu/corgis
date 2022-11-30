@@ -166,11 +166,11 @@ $(document).ready(function() {
         
         <tr> <td><code>"Daily cigarettes"</code></td>
              <td><span data-toggle="tooltip"
-                       title='String (text)'>
-                       str</span></td> 
+                       title='Float (decimal number)'>
+                       float</span></td> 
              <td>
              
-                <code>"5.6999998"</code>
+                <code>5.6999998</code>
              
                 
              </td> 
