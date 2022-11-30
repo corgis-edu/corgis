@@ -19,7 +19,14 @@ def main():
     df = df.astype({'Year': 'int',
                     'Number': 'int',
                     'Number female': 'int',
-                    'Number male': 'int'})
+                    'Number male': 'int',
+                    'Percentage': 'float',
+                    'Percentage male': 'float',
+                    'Percentage female': 'float',
+                    'Cigarettes': 'float'})
+
+    # Exporting dataset
+    df.to_csv(f"{dataset_name}.csv", index=False)
 
     # Exporting to csv
     df.to_csv("smoking-corgis.csv", header=False, index=False)
