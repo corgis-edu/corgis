@@ -15,7 +15,7 @@ Splash,smoking-icon.jpg,,,
 Properties,Name,Type,Index,Description
 ,Country,string,x,Country
 ,Year,int,x,Year
-,Data.Daily cigarettes,string,,Average amount of cigarettes smoked per day by smokers
+,Data.Daily cigarettes,float,,Average amount of cigarettes smoked per day by smokers
 ,Data.Percentage.Male,float,,Percentage of the male population who are smokers
 ,Data.Percentage.Female,float,,Percentage of the female population who are smokers
 ,Data.Percentage.Total,float,,Percentage of the total population who are smokers
