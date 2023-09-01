@@ -96,22 +96,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Alcohol.Use Disorder Past Year.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td>
-    <td><code>0.048336</code></td>
+    <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td>
+    <td><code>48.336</code></td>
 </tr>
 
 <tr>
     <td>Rates.Alcohol.Use Disorder Past Year.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td>
-    <td><code>0.13649</code></td>
+    <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td>
+    <td><code>136.49</code></td>
 </tr>
 
 <tr>
     <td>Rates.Alcohol.Use Disorder Past Year.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td>
-    <td><code>0.049068</code></td>
+    <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td>
+    <td><code>49.068</code></td>
 </tr>
 
 <tr>
@@ -138,22 +138,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Alcohol.Use Past Month.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used alcohol in the past month, among this age group.</td>
-    <td><code>0.150033</code></td>
+    <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td>
+    <td><code>150.033</code></td>
 </tr>
 
 <tr>
     <td>Rates.Alcohol.Use Past Month.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used alcohol in the past month, among this age group.</td>
-    <td><code>0.509551</code></td>
+    <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td>
+    <td><code>509.551</code></td>
 </tr>
 
 <tr>
     <td>Rates.Alcohol.Use Past Month.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used alcohol in the past month, among this age group.</td>
-    <td><code>0.372703</code></td>
+    <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td>
+    <td><code>372.70300000000003</code></td>
 </tr>
 
 <tr>
@@ -180,22 +180,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Tobacco.Cigarette Past Month.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td>
-    <td><code>0.136906</code></td>
+    <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td>
+    <td><code>136.906</code></td>
 </tr>
 
 <tr>
     <td>Rates.Tobacco.Cigarette Past Month.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td>
-    <td><code>0.392404</code></td>
+    <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td>
+    <td><code>392.404</code></td>
 </tr>
 
 <tr>
     <td>Rates.Tobacco.Cigarette Past Month.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td>
-    <td><code>0.258844</code></td>
+    <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td>
+    <td><code>258.844</code></td>
 </tr>
 
 <tr>
@@ -222,22 +222,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Illicit Drugs.Cocaine Used Past Year.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cocaine in the past year among this age group.</td>
-    <td><code>0.016556</code></td>
+    <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td>
+    <td><code>16.556</code></td>
 </tr>
 
 <tr>
     <td>Rates.Illicit Drugs.Cocaine Used Past Year.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cocaine in the past year among this age group.</td>
-    <td><code>0.054892</code></td>
+    <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td>
+    <td><code>54.892</code></td>
 </tr>
 
 <tr>
     <td>Rates.Illicit Drugs.Cocaine Used Past Year.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Cocaine in the past year among this age group.</td>
-    <td><code>0.017513</code></td>
+    <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td>
+    <td><code>17.513</code></td>
 </tr>
 
 <tr>
@@ -264,22 +264,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Marijuana.New Users.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td>
-    <td><code>0.059732</code></td>
+    <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td>
+    <td><code>59.732</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.New Users.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td>
-    <td><code>0.062325</code></td>
+    <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td>
+    <td><code>62.324999999999996</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.New Users.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td>
-    <td><code>0.000914</code></td>
+    <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td>
+    <td><code>0.914</code></td>
 </tr>
 
 <tr>
@@ -306,22 +306,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Marijuana.Used Past Month.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past month among this age group.</td>
-    <td><code>0.063662</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td>
+    <td><code>63.662</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.Used Past Month.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past month among this age group.</td>
-    <td><code>0.124672</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td>
+    <td><code>124.67200000000001</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.Used Past Month.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past month among this age group.</td>
-    <td><code>0.025967</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td>
+    <td><code>25.967</code></td>
 </tr>
 
 <tr>
@@ -348,22 +348,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Marijuana.Used Past Year.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past year among this age group.</td>
-    <td><code>0.127535</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td>
+    <td><code>127.53500000000001</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.Used Past Year.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past year among this age group.</td>
-    <td><code>0.23788</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td>
+    <td><code>237.88</code></td>
 </tr>
 
 <tr>
     <td>Rates.Marijuana.Used Past Year.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Marijuana in the past year among this age group.</td>
-    <td><code>0.050275</code></td>
+    <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td>
+    <td><code>50.275</code></td>
 </tr>
 
 <tr>
@@ -390,22 +390,22 @@ This dataset is about substance abuse (cigarettes, marijuana, cocaine, alcohol) 
 <tr>
     <td>Rates.Tobacco.Use Past Month.12-17</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
-    <td><code>0.166578</code></td>
+    <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
+    <td><code>166.578</code></td>
 </tr>
 
 <tr>
     <td>Rates.Tobacco.Use Past Month.18-25</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
-    <td><code>0.451976</code></td>
+    <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
+    <td><code>451.976</code></td>
 </tr>
 
 <tr>
     <td>Rates.Tobacco.Use Past Month.26+</td>
     <td>Float</td> 
-    <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
-    <td><code>0.330659</code></td>
+    <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td>
+    <td><code>330.659</code></td>
 </tr>
 
 </table>

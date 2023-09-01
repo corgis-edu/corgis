@@ -697,11 +697,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.048336</code>
+                <code>48.336</code>
              
                 
              </td> 
-             <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -709,11 +709,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.13649</code>
+                <code>136.49</code>
              
                 
              </td> 
-             <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -721,11 +721,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.049068</code>
+                <code>49.068</code>
              
                 
              </td> 
-             <td>Percentage of the population that has a use disorder on alcohol in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.</td> </tr>
         
     </table>
 </div>
@@ -859,11 +859,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.150033</code>
+                <code>150.033</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used alcohol in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -871,11 +871,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.509551</code>
+                <code>509.551</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used alcohol in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -883,11 +883,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.372703</code>
+                <code>372.70300000000003</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used alcohol in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used alcohol in the past month, among this age group.</td> </tr>
         
     </table>
 </div>
@@ -1143,11 +1143,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.136906</code>
+                <code>136.906</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -1155,11 +1155,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.392404</code>
+                <code>392.404</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -1167,11 +1167,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.258844</code>
+                <code>258.844</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cigarettes in the past month, among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cigarettes in the past month, among this age group.</td> </tr>
         
     </table>
 </div>
@@ -1387,11 +1387,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.016556</code>
+                <code>16.556</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cocaine in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -1399,11 +1399,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.054892</code>
+                <code>54.892</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cocaine in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -1411,11 +1411,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.017513</code>
+                <code>17.513</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Cocaine in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Cocaine in the past year among this age group.</td> </tr>
         
     </table>
 </div>
@@ -1711,11 +1711,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.059732</code>
+                <code>59.732</code>
              
                 
              </td> 
-             <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -1723,11 +1723,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.062325</code>
+                <code>62.324999999999996</code>
              
                 
              </td> 
-             <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -1735,11 +1735,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.000914</code>
+                <code>0.914</code>
              
                 
              </td> 
-             <td>Percentage of the population that has started using Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has started using Marijuana in the past year among this age group.</td> </tr>
         
     </table>
 </div>
@@ -1873,11 +1873,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.063662</code>
+                <code>63.662</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past month among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -1885,11 +1885,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.124672</code>
+                <code>124.67200000000001</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past month among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -1897,11 +1897,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.025967</code>
+                <code>25.967</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past month among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past month among this age group.</td> </tr>
         
     </table>
 </div>
@@ -2035,11 +2035,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.127535</code>
+                <code>127.53500000000001</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -2047,11 +2047,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.23788</code>
+                <code>237.88</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -2059,11 +2059,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.050275</code>
+                <code>50.275</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Marijuana in the past year among this age group.</td> </tr>
+             <td>Amount per 1000 people that has used Marijuana in the past year among this age group.</td> </tr>
         
     </table>
 </div>
@@ -2197,11 +2197,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.166578</code>
+                <code>166.578</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
+             <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
         <tr> <td><code>"18-25"</code></td>
              <td><span data-toggle="tooltip"
@@ -2209,11 +2209,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.451976</code>
+                <code>451.976</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
+             <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
         <tr> <td><code>"26+"</code></td>
              <td><span data-toggle="tooltip"
@@ -2221,11 +2221,11 @@ $(document).ready(function() {
                        float</span></td> 
              <td>
              
-                <code>0.330659</code>
+                <code>330.659</code>
              
                 
              </td> 
-             <td>Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
+             <td>Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco.</td> </tr>
         
     </table>
 </div>
