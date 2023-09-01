@@ -22,48 +22,48 @@ Properties,Name,Type,Index,Description
 ,Totals.Alcohol.Use Disorder Past Year.12-17,int,,The estimated number of people (in thousands) that have a use disorder on alcohol in the past year among this age group.
 ,Totals.Alcohol.Use Disorder Past Year.18-25,int,,The estimated number of people (in thousands) that have a use disorder on alcohol in the past year among this age group.
 ,Totals.Alcohol.Use Disorder Past Year.26+,int,,The estimated number of people (in thousands) that have a use disorder on alcohol in the past year among this age group.
-,Rates.Alcohol.Use Disorder Past Year.12-17,float,,Percentage of the population that has a use disorder on alcohol in the past year among this age group.
-,Rates.Alcohol.Use Disorder Past Year.18-25,float,,Percentage of the population that has a use disorder on alcohol in the past year among this age group.
-,Rates.Alcohol.Use Disorder Past Year.26+,float,,Percentage of the population that has a use disorder on alcohol in the past year among this age group.
+,Rates.Alcohol.Use Disorder Past Year.12-17,float,,Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.
+,Rates.Alcohol.Use Disorder Past Year.18-25,float,,Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.
+,Rates.Alcohol.Use Disorder Past Year.26+,float,,Amount per 1000 people that has a use disorder on alcohol in the past year among this age group.
 ,Totals.Alcohol.Use Past Month.12-17,int,,"The estimated number of people (in thousands) that have used alcohol in the past month, among this age group."
 ,Totals.Alcohol.Use Past Month.18-25,int,,"The estimated number of people (in thousands) that have used alcohol in the past month, among this age group."
 ,Totals.Alcohol.Use Past Month.26+,int,,"The estimated number of people (in thousands) that have used alcohol in the past month, among this age group."
-,Rates.Alcohol.Use Past Month.12-17,float,,"Percentage of the population that has used alcohol in the past month, among this age group."
-,Rates.Alcohol.Use Past Month.18-25,float,,"Percentage of the population that has used alcohol in the past month, among this age group."
-,Rates.Alcohol.Use Past Month.26+,float,,"Percentage of the population that has used alcohol in the past month, among this age group."
+,Rates.Alcohol.Use Past Month.12-17,float,,"Amount per 1000 people that has used alcohol in the past month, among this age group."
+,Rates.Alcohol.Use Past Month.18-25,float,,"Amount per 1000 people that has used alcohol in the past month, among this age group."
+,Rates.Alcohol.Use Past Month.26+,float,,"Amount per 1000 people that has used alcohol in the past month, among this age group."
 ,Totals.Tobacco.Cigarette Past Month.12-17,int,,"The estimated number of people (in thousands) that have used Cigarettes in the past month, among this age group."
 ,Totals.Tobacco.Cigarette Past Month.18-25,int,,"The estimated number of people (in thousands) that have used Cigarettes in the past month, among this age group."
 ,Totals.Tobacco.Cigarette Past Month.26+,int,,"The estimated number of people (in thousands) that have used Cigarettes in the past month, among this age group."
-,Rates.Tobacco.Cigarette Past Month.12-17,float,,"Percentage of the population that has used Cigarettes in the past month, among this age group."
-,Rates.Tobacco.Cigarette Past Month.18-25,float,,"Percentage of the population that has used Cigarettes in the past month, among this age group."
-,Rates.Tobacco.Cigarette Past Month.26+,float,,"Percentage of the population that has used Cigarettes in the past month, among this age group."
+,Rates.Tobacco.Cigarette Past Month.12-17,float,,"Amount per 1000 people that has used Cigarettes in the past month, among this age group."
+,Rates.Tobacco.Cigarette Past Month.18-25,float,,"Amount per 1000 people that has used Cigarettes in the past month, among this age group."
+,Rates.Tobacco.Cigarette Past Month.26+,float,,"Amount per 1000 people that has used Cigarettes in the past month, among this age group."
 ,Totals.Illicit Drugs.Cocaine Used Past Year.12-17,int,,The estimated number of people (in thousands) that have used Cocaine in the past year among this age group.
 ,Totals.Illicit Drugs.Cocaine Used Past Year.18-25,int,,The estimated number of people (in thousands) that have used Cocaine in the past year among this age group.
 ,Totals.Illicit Drugs.Cocaine Used Past Year.26+,int,,The estimated number of people (in thousands) that have used Cocaine in the past year among this age group.
-,Rates.Illicit Drugs.Cocaine Used Past Year.12-17,float,,Percentage of the population that has used Cocaine in the past year among this age group.
-,Rates.Illicit Drugs.Cocaine Used Past Year.18-25,float,,Percentage of the population that has used Cocaine in the past year among this age group.
-,Rates.Illicit Drugs.Cocaine Used Past Year.26+,float,,Percentage of the population that has used Cocaine in the past year among this age group.
+,Rates.Illicit Drugs.Cocaine Used Past Year.12-17,float,,Amount per 1000 people that has used Cocaine in the past year among this age group.
+,Rates.Illicit Drugs.Cocaine Used Past Year.18-25,float,,Amount per 1000 people that has used Cocaine in the past year among this age group.
+,Rates.Illicit Drugs.Cocaine Used Past Year.26+,float,,Amount per 1000 people that has used Cocaine in the past year among this age group.
 ,Totals.Marijuana.New Users.12-17,int,,The estimated number of people (in thousands) that have started using Marijuana in the past year among this age group.
 ,Totals.Marijuana.New Users.18-25,int,,The estimated number of people (in thousands) that have started using Marijuana in the past year among this age group.
 ,Totals.Marijuana.New Users.26+,int,,The estimated number of people (in thousands) that have started using Marijuana in the past year among this age group.
-,Rates.Marijuana.New Users.12-17,float,,Percentage of the population that has started using Marijuana in the past year among this age group.
-,Rates.Marijuana.New Users.18-25,float,,Percentage of the population that has started using Marijuana in the past year among this age group.
-,Rates.Marijuana.New Users.26+,float,,Percentage of the population that has started using Marijuana in the past year among this age group.
+,Rates.Marijuana.New Users.12-17,float,,Amount per 1000 people that has started using Marijuana in the past year among this age group.
+,Rates.Marijuana.New Users.18-25,float,,Amount per 1000 people that has started using Marijuana in the past year among this age group.
+,Rates.Marijuana.New Users.26+,float,,Amount per 1000 people that has started using Marijuana in the past year among this age group.
 ,Totals.Marijuana.Used Past Month.12-17,int,,The estimated number of people (in thousands) that have used Marijuana in the past month among this age group.
 ,Totals.Marijuana.Used Past Month.18-25,int,,The estimated number of people (in thousands) that have used Marijuana in the past month among this age group.
 ,Totals.Marijuana.Used Past Month.26+,int,,The estimated number of people (in thousands) that have used Marijuana in the past month among this age group.
-,Rates.Marijuana.Used Past Month.12-17,float,,Percentage of the population that has used Marijuana in the past month among this age group.
-,Rates.Marijuana.Used Past Month.18-25,float,,Percentage of the population that has used Marijuana in the past month among this age group.
-,Rates.Marijuana.Used Past Month.26+,float,,Percentage of the population that has used Marijuana in the past month among this age group.
+,Rates.Marijuana.Used Past Month.12-17,float,,Amount per 1000 people that has used Marijuana in the past month among this age group.
+,Rates.Marijuana.Used Past Month.18-25,float,,Amount per 1000 people that has used Marijuana in the past month among this age group.
+,Rates.Marijuana.Used Past Month.26+,float,,Amount per 1000 people that has used Marijuana in the past month among this age group.
 ,Totals.Marijuana.Used Past Year.12-17,int,,The estimated number of people (in thousands) that have used Marijuana in the past year among this age group.
 ,Totals.Marijuana.Used Past Year.18-25,int,,The estimated number of people (in thousands) that have used Marijuana in the past year among this age group.
 ,Totals.Marijuana.Used Past Year.26+,int,,The estimated number of people (in thousands) that have used Marijuana in the past year among this age group.
-,Rates.Marijuana.Used Past Year.12-17,float,,Percentage of the population that has used Marijuana in the past year among this age group.
-,Rates.Marijuana.Used Past Year.18-25,float,,Percentage of the population that has used Marijuana in the past year among this age group.
-,Rates.Marijuana.Used Past Year.26+,float,,Percentage of the population that has used Marijuana in the past year among this age group.
+,Rates.Marijuana.Used Past Year.12-17,float,,Amount per 1000 people that has used Marijuana in the past year among this age group.
+,Rates.Marijuana.Used Past Year.18-25,float,,Amount per 1000 people that has used Marijuana in the past year among this age group.
+,Rates.Marijuana.Used Past Year.26+,float,,Amount per 1000 people that has used Marijuana in the past year among this age group.
 ,Totals.Tobacco.Use Past Month.12-17,int,,"The estimated number of people (in thousands) that have used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
 ,Totals.Tobacco.Use Past Month.18-25,int,,"The estimated number of people (in thousands) that have used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
 ,Totals.Tobacco.Use Past Month.26+,int,,"The estimated number of people (in thousands) that have used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
-,Rates.Tobacco.Use Past Month.12-17,float,,"Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
-,Rates.Tobacco.Use Past Month.18-25,float,,"Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
-,Rates.Tobacco.Use Past Month.26+,float,,"Percentage of the population that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
+,Rates.Tobacco.Use Past Month.12-17,float,,"Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
+,Rates.Tobacco.Use Past Month.18-25,float,,"Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."
+,Rates.Tobacco.Use Past Month.26+,float,,"Amount per 1000 people that has used Tobacco products in the past month, among this age group. Tobacco Products include cigarettes, smokeless tobacco (i.e., chewing tobacco or snuff), cigars, or pipe tobacco."

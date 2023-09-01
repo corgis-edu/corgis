@@ -1,4 +1,6 @@
-import pandas as pd 
+import pandas as pd
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 data = pd.read_csv("./raw/drugs.csv")
 is_state = data["state"] > 0
@@ -100,7 +102,7 @@ for i in range(len(state_data)) : #len(state_data)
 		dict_list[tmp_outname]["total"][tmp_agegrp].append(tmp_total)
 	except :
 		continue
-	dict_list[tmp_outname]["rate"][tmp_agegrp].append(tmp_rate)
+	dict_list[tmp_outname]["rate"][tmp_agegrp].append(tmp_rate * 1000)
 	#if pop_count < 4 :
 	#	population[tmp_agegrp].append(tmp_population)
 	#	pop_count += 1
