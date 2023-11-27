@@ -11544,7 +11544,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 171.89999999999998,
+          "sum": 171.9,
           "average": 3.5081632653061225,
           "average w/o zero": 3.5081632653061225
         },
@@ -11586,7 +11586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 385.84999999999997,
+          "sum": 385.85,
           "average": 15.434,
           "average w/o zero": 15.434
         },
@@ -11742,7 +11742,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 3900.9999999999986,
+          "sum": 3901.0,
           "average": 21.086486486486486,
           "average w/o zero": 21.316939890710383
         },
@@ -11766,7 +11766,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant Formula": {
           "count": 5,
-          "sum": 184.89,
+          "sum": 184.89000000000001,
           "average": 36.978,
           "average w/o zero": 36.978
         },
@@ -11790,7 +11790,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 529.9399999999999,
+          "sum": 529.94,
           "average": 16.05878787878788,
           "average w/o zero": 16.05878787878788
         },
@@ -11892,7 +11892,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 838.1299999999999,
+          "sum": 838.13,
           "average": 10.347283950617284,
           "average w/o zero": 10.476625
         },
@@ -11904,7 +11904,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 398.90000000000003,
+          "sum": 398.9,
           "average": 18.995238095238093,
           "average w/o zero": 18.995238095238093
         },
@@ -12048,7 +12048,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 56.290000000000006,
+          "sum": 56.29,
           "average": 6.254444444444444,
           "average w/o zero": 6.254444444444444
         },
@@ -12078,7 +12078,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bacon": {
           "count": 3,
-          "sum": 14.349999999999998,
+          "sum": 14.35,
           "average": 4.783333333333333,
           "average w/o zero": 4.783333333333333
         },
@@ -12114,7 +12114,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 75.08999999999999,
+          "sum": 75.09,
           "average": 18.7725,
           "average w/o zero": 18.7725
         },
@@ -12162,7 +12162,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cherries": {
           "count": 4,
-          "sum": 117.16000000000001,
+          "sum": 117.16,
           "average": 29.29,
           "average w/o zero": 29.29
         },
@@ -12402,7 +12402,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pears": {
           "count": 4,
-          "sum": 103.39000000000001,
+          "sum": 103.39,
           "average": 25.8475,
           "average w/o zero": 25.8475
         },
@@ -12606,13 +12606,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 537.3499999999999,
+          "sum": 537.35,
           "average": 20.66730769230769,
           "average w/o zero": 20.66730769230769
         },
         "Beets": {
           "count": 4,
-          "sum": 39.62,
+          "sum": 39.620000000000005,
           "average": 9.905000000000001,
           "average w/o zero": 9.905000000000001
         },
@@ -12624,7 +12624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Broccoli": {
           "count": 3,
-          "sum": 16.659999999999997,
+          "sum": 16.66,
           "average": 5.553333333333333,
           "average w/o zero": 5.553333333333333
         },
@@ -12648,7 +12648,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cabbage": {
           "count": 5,
-          "sum": 23.849999999999998,
+          "sum": 23.85,
           "average": 4.77,
           "average w/o zero": 4.77
         },
@@ -12798,7 +12798,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 13.570000000000002,
+          "sum": 13.57,
           "average": 2.714,
           "average w/o zero": 2.714
         },
@@ -12852,13 +12852,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 87.48999999999998,
+          "sum": 87.49,
           "average": 12.498571428571429,
           "average w/o zero": 12.498571428571429
         },
         "Peppers": {
           "count": 7,
-          "sum": 43.940000000000005,
+          "sum": 43.94,
           "average": 6.277142857142858,
           "average w/o zero": 6.277142857142858
         },
@@ -12870,7 +12870,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 288.38000000000005,
+          "sum": 288.38,
           "average": 28.838,
           "average w/o zero": 28.838
         },
@@ -12924,13 +12924,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 128.60000000000002,
+          "sum": 128.6,
           "average": 25.72,
           "average w/o zero": 25.72
         },
         "Spinach": {
           "count": 3,
-          "sum": 11.829999999999998,
+          "sum": 11.83,
           "average": 3.9433333333333334,
           "average w/o zero": 3.9433333333333334
         },
@@ -12978,7 +12978,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 42.18000000000001,
+          "sum": 42.18,
           "average": 10.545,
           "average w/o zero": 10.545
         },
@@ -13116,7 +13116,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 470.7499999999999,
+          "sum": 470.75,
           "average": 24.776315789473685,
           "average w/o zero": 24.776315789473685
         },
@@ -13134,7 +13134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 2862.3299999999995,
+          "sum": 2862.33,
           "average": 21.202444444444446,
           "average w/o zero": 23.655619834710745
         },
@@ -13188,7 +13188,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 37.419999999999995,
+          "sum": 37.42,
           "average": 0.7060377358490566,
           "average w/o zero": 6.236666666666666
         },
@@ -13248,7 +13248,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 99.01,
+          "sum": 99.00999999999999,
           "average": 24.752499999999998,
           "average w/o zero": 24.752499999999998
         },
@@ -13374,7 +13374,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 3212.7699999999995,
+          "sum": 3212.77,
           "average": 68.3568085106383,
           "average w/o zero": 68.3568085106383
         },
@@ -13410,7 +13410,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Danish pastry": {
           "count": 3,
-          "sum": 129.60000000000002,
+          "sum": 129.6,
           "average": 43.2,
           "average w/o zero": 43.2
         },
@@ -13488,7 +13488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 139.91000000000003,
+          "sum": 139.91,
           "average": 46.63666666666667,
           "average w/o zero": 46.63666666666667
         },
@@ -13560,7 +13560,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 5258.110000000002,
+          "sum": 5258.11,
           "average": 68.28714285714285,
           "average w/o zero": 68.28714285714285
         },
@@ -13590,7 +13590,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 197.23999999999998,
+          "sum": 197.24,
           "average": 24.655,
           "average w/o zero": 24.655
         },
@@ -13722,7 +13722,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snack": {
           "count": 3,
-          "sum": 174.17999999999998,
+          "sum": 174.18,
           "average": 58.059999999999995,
           "average w/o zero": 58.059999999999995
         },
@@ -13866,7 +13866,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta": {
           "count": 4,
-          "sum": 173.64999999999998,
+          "sum": 173.65,
           "average": 43.4125,
           "average w/o zero": 43.4125
         },
@@ -13890,7 +13890,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 54.779999999999994,
+          "sum": 54.78,
           "average": 6.8475,
           "average w/o zero": 9.13
         },
@@ -13926,7 +13926,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 217.11,
+          "sum": 217.10999999999999,
           "average": 27.138749999999998,
           "average w/o zero": 27.138749999999998
         },
@@ -13950,7 +13950,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 44.209999999999994,
+          "sum": 44.21,
           "average": 14.736666666666666,
           "average w/o zero": 14.736666666666666
         },
@@ -14172,7 +14172,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 474.96000000000004,
+          "sum": 474.96,
           "average": 19.79,
           "average w/o zero": 19.79
         },
@@ -17296,7 +17296,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Choline": {
         "Butter": {
           "count": 4,
-          "sum": 69.30000000000001,
+          "sum": 69.3,
           "average": 17.325,
           "average w/o zero": 17.325
         },
@@ -17308,19 +17308,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 886.7999999999998,
+          "sum": 886.8000000000001,
           "average": 18.09795918367347,
           "average w/o zero": 18.09795918367347
         },
         "Cheese spread": {
           "count": 3,
-          "sum": 106.00000000000001,
+          "sum": 106.0,
           "average": 35.333333333333336,
           "average w/o zero": 35.333333333333336
         },
         "Cream": {
           "count": 6,
-          "sum": 103.89999999999999,
+          "sum": 103.9,
           "average": 17.316666666666666,
           "average w/o zero": 17.316666666666666
         },
@@ -17350,7 +17350,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 1018.2,
+          "sum": 1018.1999999999999,
           "average": 40.728,
           "average w/o zero": 40.728
         },
@@ -17368,7 +17368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 3465.8000000000006,
+          "sum": 3465.8,
           "average": 433.225,
           "average w/o zero": 433.225
         },
@@ -17452,7 +17452,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 1094.9999999999998,
+          "sum": 1095.0,
           "average": 45.625,
           "average w/o zero": 45.625
         },
@@ -17506,7 +17506,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 2290.8999999999987,
+          "sum": 2290.9,
           "average": 12.383243243243243,
           "average w/o zero": 12.518579234972679
         },
@@ -17518,7 +17518,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 1781.9000000000003,
+          "sum": 1781.9,
           "average": 89.095,
           "average w/o zero": 89.095
         },
@@ -17560,13 +17560,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Sandwich spread": {
           "count": 3,
-          "sum": 79.49999999999999,
+          "sum": 79.5,
           "average": 26.5,
           "average w/o zero": 26.5
         },
         "Oil": {
           "count": 21,
-          "sum": 24.39999999999999,
+          "sum": 24.4,
           "average": 1.161904761904762,
           "average w/o zero": 1.22
         },
@@ -17632,7 +17632,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 2509.7000000000003,
+          "sum": 2509.7,
           "average": 78.428125,
           "average w/o zero": 78.428125
         },
@@ -17656,7 +17656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 1082.5999999999997,
+          "sum": 1082.6,
           "average": 13.365432098765432,
           "average w/o zero": 13.365432098765432
         },
@@ -17668,7 +17668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 238.10000000000005,
+          "sum": 238.1,
           "average": 11.338095238095239,
           "average w/o zero": 11.905
         },
@@ -17704,7 +17704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bologna": {
           "count": 3,
-          "sum": 142.3,
+          "sum": 142.29999999999998,
           "average": 47.43333333333333,
           "average w/o zero": 47.43333333333333
         },
@@ -17722,7 +17722,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 406.79999999999995,
+          "sum": 406.8,
           "average": 58.114285714285714,
           "average w/o zero": 58.114285714285714
         },
@@ -17848,7 +17848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 2383.7000000000007,
+          "sum": 2383.7,
           "average": 19.7,
           "average w/o zero": 19.7
         },
@@ -17878,7 +17878,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 11.900000000000002,
+          "sum": 11.9,
           "average": 2.975,
           "average w/o zero": 2.975
         },
@@ -17992,7 +17992,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grapefruit juice": {
           "count": 4,
-          "sum": 46.300000000000004,
+          "sum": 46.3,
           "average": 11.575,
           "average w/o zero": 11.575
         },
@@ -18100,7 +18100,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Olives": {
           "count": 3,
-          "sum": 31.099999999999998,
+          "sum": 31.1,
           "average": 10.366666666666667,
           "average w/o zero": 10.366666666666667
         },
@@ -18316,7 +18316,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 5738.0999999999985,
+          "sum": 5738.1,
           "average": 84.38382352941177,
           "average w/o zero": 84.38382352941177
         },
@@ -18358,7 +18358,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lima beans": {
           "count": 4,
-          "sum": 150.10000000000002,
+          "sum": 150.1,
           "average": 37.525,
           "average w/o zero": 37.525
         },
@@ -18478,7 +18478,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Corn": {
           "count": 5,
-          "sum": 99.69999999999999,
+          "sum": 99.7,
           "average": 19.94,
           "average w/o zero": 19.94
         },
@@ -18562,7 +18562,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 50.400000000000006,
+          "sum": 50.4,
           "average": 10.08,
           "average w/o zero": 10.08
         },
@@ -18574,7 +18574,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 94.9,
+          "sum": 94.89999999999999,
           "average": 23.724999999999998,
           "average w/o zero": 23.724999999999998
         },
@@ -18592,7 +18592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Onions": {
           "count": 4,
-          "sum": 22.999999999999996,
+          "sum": 23.0,
           "average": 5.75,
           "average w/o zero": 5.75
         },
@@ -18622,7 +18622,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 54.699999999999996,
+          "sum": 54.7,
           "average": 7.814285714285714,
           "average w/o zero": 7.814285714285714
         },
@@ -18634,7 +18634,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 212.29999999999995,
+          "sum": 212.29999999999998,
           "average": 21.23,
           "average w/o zero": 21.23
         },
@@ -18730,7 +18730,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 133.3,
+          "sum": 133.29999999999998,
           "average": 26.66,
           "average w/o zero": 26.66
         },
@@ -18742,7 +18742,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 83.6,
+          "sum": 83.60000000000001,
           "average": 20.900000000000002,
           "average w/o zero": 20.900000000000002
         },
@@ -18874,19 +18874,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Seeds": {
           "count": 5,
-          "sum": 248.2,
+          "sum": 248.20000000000002,
           "average": 49.64,
           "average w/o zero": 49.64
         },
         "Nuts": {
           "count": 19,
-          "sum": 700.1000000000001,
+          "sum": 700.1,
           "average": 36.847368421052636,
           "average w/o zero": 36.847368421052636
         },
         "Beef": {
           "count": 81,
-          "sum": 9026.700000000003,
+          "sum": 9026.7,
           "average": 111.44074074074074,
           "average w/o zero": 112.83375
         },
@@ -18898,7 +18898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 2583.4000000000005,
+          "sum": 2583.4,
           "average": 19.136296296296297,
           "average w/o zero": 32.2925
         },
@@ -19000,13 +19000,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Noodles": {
           "count": 6,
-          "sum": 240.39999999999998,
+          "sum": 240.4,
           "average": 40.06666666666667,
           "average w/o zero": 40.06666666666667
         },
         "Peanuts": {
           "count": 6,
-          "sum": 324.70000000000005,
+          "sum": 324.7,
           "average": 54.11666666666667,
           "average w/o zero": 54.11666666666667
         },
@@ -19096,7 +19096,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 1424.9999999999998,
+          "sum": 1425.0,
           "average": 95.0,
           "average w/o zero": 95.0
         },
@@ -19108,7 +19108,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 1871.6000000000004,
+          "sum": 1871.6000000000001,
           "average": 116.97500000000001,
           "average w/o zero": 116.97500000000001
         },
@@ -19126,19 +19126,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 608.8000000000001,
+          "sum": 608.8,
           "average": 17.905882352941177,
           "average w/o zero": 17.905882352941177
         },
         "Cake": {
           "count": 21,
-          "sum": 558.0999999999999,
+          "sum": 558.1,
           "average": 26.576190476190476,
           "average w/o zero": 26.576190476190476
         },
         "Cookies": {
           "count": 47,
-          "sum": 617.9000000000002,
+          "sum": 617.9,
           "average": 13.146808510638298,
           "average w/o zero": 13.146808510638298
         },
@@ -19204,7 +19204,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 69.60000000000001,
+          "sum": 69.6,
           "average": 17.4,
           "average w/o zero": 17.4
         },
@@ -19228,7 +19228,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 187.89999999999998,
+          "sum": 187.9,
           "average": 15.658333333333333,
           "average w/o zero": 15.658333333333333
         },
@@ -19330,7 +19330,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snacks": {
           "count": 65,
-          "sum": 1798.4999999999998,
+          "sum": 1798.5,
           "average": 27.66923076923077,
           "average w/o zero": 29.008064516129032
         },
@@ -19372,7 +19372,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 23.100000000000005,
+          "sum": 23.1,
           "average": 2.31,
           "average w/o zero": 3.85
         },
@@ -19648,13 +19648,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 2640.100000000001,
+          "sum": 2640.1,
           "average": 47.144642857142856,
           "average w/o zero": 47.144642857142856
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 704.8000000000002,
+          "sum": 704.8,
           "average": 88.1,
           "average w/o zero": 88.1
         },
@@ -19690,7 +19690,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 245.70000000000002,
+          "sum": 245.7,
           "average": 30.7125,
           "average w/o zero": 30.7125
         },
@@ -20436,7 +20436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 21.000000000000004,
+          "sum": 21.0,
           "average": 0.6363636363636364,
           "average w/o zero": 0.9545454545454546
         },
@@ -20538,7 +20538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 77.60000000000001,
+          "sum": 77.6,
           "average": 0.9580246913580247,
           "average w/o zero": 1.1757575757575758
         },
@@ -20550,7 +20550,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 22.300000000000004,
+          "sum": 22.3,
           "average": 1.061904761904762,
           "average w/o zero": 1.1736842105263159
         },
@@ -20730,7 +20730,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 976.8000000000002,
+          "sum": 976.8,
           "average": 8.072727272727272,
           "average w/o zero": 8.072727272727272
         },
@@ -20874,7 +20874,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grapefruit juice": {
           "count": 4,
-          "sum": 1.0000000000000002,
+          "sum": 1.0,
           "average": 0.25,
           "average w/o zero": 0.25
         },
@@ -20982,7 +20982,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Olives": {
           "count": 3,
-          "sum": 7.3999999999999995,
+          "sum": 7.4,
           "average": 2.466666666666667,
           "average w/o zero": 2.466666666666667
         },
@@ -20994,7 +20994,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 3.4000000000000004,
+          "sum": 3.4,
           "average": 0.4857142857142857,
           "average w/o zero": 0.4857142857142857
         },
@@ -21048,7 +21048,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pears": {
           "count": 4,
-          "sum": 15.799999999999999,
+          "sum": 15.8,
           "average": 3.95,
           "average w/o zero": 3.95
         },
@@ -21120,7 +21120,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Strawberries": {
           "count": 3,
-          "sum": 5.800000000000001,
+          "sum": 5.8,
           "average": 1.9333333333333333,
           "average w/o zero": 1.9333333333333333
         },
@@ -21252,7 +21252,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 157.20000000000002,
+          "sum": 157.2,
           "average": 6.046153846153846,
           "average w/o zero": 6.046153846153846
         },
@@ -21294,7 +21294,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cabbage": {
           "count": 5,
-          "sum": 10.299999999999999,
+          "sum": 10.3,
           "average": 2.06,
           "average w/o zero": 2.06
         },
@@ -21360,7 +21360,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Corn": {
           "count": 5,
-          "sum": 9.299999999999999,
+          "sum": 9.3,
           "average": 1.8599999999999999,
           "average w/o zero": 1.8599999999999999
         },
@@ -21444,7 +21444,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 6.300000000000001,
+          "sum": 6.3,
           "average": 1.26,
           "average w/o zero": 1.26
         },
@@ -21456,7 +21456,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 7.699999999999999,
+          "sum": 7.7,
           "average": 1.925,
           "average w/o zero": 1.925
         },
@@ -21498,7 +21498,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 32.400000000000006,
+          "sum": 32.4,
           "average": 4.628571428571429,
           "average w/o zero": 4.628571428571429
         },
@@ -21516,7 +21516,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 31.599999999999994,
+          "sum": 31.6,
           "average": 3.16,
           "average w/o zero": 3.16
         },
@@ -21582,7 +21582,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Squash": {
           "count": 7,
-          "sum": 10.3,
+          "sum": 10.299999999999999,
           "average": 1.4714285714285713,
           "average w/o zero": 1.4714285714285713
         },
@@ -21594,7 +21594,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 10.600000000000001,
+          "sum": 10.6,
           "average": 2.65,
           "average w/o zero": 2.65
         },
@@ -21612,7 +21612,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 18.4,
+          "sum": 18.400000000000002,
           "average": 3.68,
           "average w/o zero": 3.68
         },
@@ -21624,7 +21624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 9.4,
+          "sum": 9.399999999999999,
           "average": 2.3499999999999996,
           "average w/o zero": 2.3499999999999996
         },
@@ -21636,7 +21636,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnip greens": {
           "count": 3,
-          "sum": 8.200000000000001,
+          "sum": 8.2,
           "average": 2.7333333333333334,
           "average w/o zero": 2.7333333333333334
         },
@@ -21780,7 +21780,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 174.69999999999996,
+          "sum": 174.7,
           "average": 1.2940740740740742,
           "average w/o zero": 4.47948717948718
         },
@@ -21858,7 +21858,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chickpeas (garbanzo beans": {
           "count": 3,
-          "sum": 24.199999999999996,
+          "sum": 24.2,
           "average": 8.066666666666666,
           "average w/o zero": 8.066666666666666
         },
@@ -21888,7 +21888,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanuts": {
           "count": 6,
-          "sum": 52.9,
+          "sum": 52.900000000000006,
           "average": 8.816666666666666,
           "average w/o zero": 8.816666666666666
         },
@@ -22020,7 +22020,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 143.29999999999998,
+          "sum": 143.3,
           "average": 3.048936170212766,
           "average w/o zero": 3.1844444444444444
         },
@@ -22056,7 +22056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Danish pastry": {
           "count": 3,
-          "sum": 4.199999999999999,
+          "sum": 4.2,
           "average": 1.4,
           "average w/o zero": 1.4
         },
@@ -22140,7 +22140,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leavening agents": {
           "count": 6,
-          "sum": 35.599999999999994,
+          "sum": 35.6,
           "average": 5.933333333333333,
           "average w/o zero": 7.119999999999999
         },
@@ -22236,7 +22236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 4.800000000000001,
+          "sum": 4.8,
           "average": 0.6,
           "average w/o zero": 0.8
         },
@@ -22290,7 +22290,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 10.8,
+          "sum": 10.799999999999999,
           "average": 1.3499999999999999,
           "average w/o zero": 2.6999999999999997
         },
@@ -22530,7 +22530,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 82.30000000000004,
+          "sum": 82.3,
           "average": 1.4696428571428573,
           "average w/o zero": 1.4963636363636363
         },
@@ -22596,7 +22596,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 4.199999999999999,
+          "sum": 4.2,
           "average": 1.4,
           "average w/o zero": 1.4
         },
@@ -22734,7 +22734,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookie": {
           "count": 4,
-          "sum": 12.100000000000001,
+          "sum": 12.1,
           "average": 3.025,
           "average w/o zero": 3.025
         },
@@ -22794,7 +22794,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 6.3,
+          "sum": 6.300000000000001,
           "average": 1.5750000000000002,
           "average w/o zero": 1.5750000000000002
         },
@@ -28878,7 +28878,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 6.164999999999999,
+          "sum": 6.165,
           "average": 0.24659999999999999,
           "average w/o zero": 0.24659999999999999
         },
@@ -28980,7 +28980,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 113.94299999999998,
+          "sum": 113.943,
           "average": 4.747625,
           "average w/o zero": 4.747625
         },
@@ -29034,7 +29034,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 426.2430000000003,
+          "sum": 426.243,
           "average": 2.3040162162162163,
           "average w/o zero": 2.3291967213114755
         },
@@ -29046,7 +29046,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 93.37500000000001,
+          "sum": 93.375,
           "average": 4.66875,
           "average w/o zero": 4.66875
         },
@@ -29100,7 +29100,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Margarine": {
           "count": 4,
-          "sum": 0.07300000000000001,
+          "sum": 0.073,
           "average": 0.01825,
           "average w/o zero": 0.01825
         },
@@ -29142,7 +29142,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 208.51000000000005,
+          "sum": 208.51,
           "average": 5.957428571428571,
           "average w/o zero": 5.957428571428571
         },
@@ -29160,7 +29160,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 252.52100000000002,
+          "sum": 252.521,
           "average": 7.89128125,
           "average w/o zero": 7.89128125
         },
@@ -29196,7 +29196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 27.095999999999997,
+          "sum": 27.096,
           "average": 1.2902857142857143,
           "average w/o zero": 1.2902857142857143
         },
@@ -29376,13 +29376,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 1864.1050000000005,
+          "sum": 1864.105,
           "average": 15.405826446280992,
           "average w/o zero": 15.405826446280992
         },
         "Cereals": {
           "count": 10,
-          "sum": 65.76299999999999,
+          "sum": 65.763,
           "average": 6.5763,
           "average w/o zero": 6.5763
         },
@@ -29406,7 +29406,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.34800000000000003,
+          "sum": 0.348,
           "average": 0.087,
           "average w/o zero": 0.087
         },
@@ -29460,7 +29460,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 2.4549999999999996,
+          "sum": 2.455,
           "average": 0.61375,
           "average w/o zero": 0.61375
         },
@@ -29520,7 +29520,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grapefruit juice": {
           "count": 4,
-          "sum": 1.4249999999999998,
+          "sum": 1.425,
           "average": 0.35625,
           "average w/o zero": 0.35625
         },
@@ -29640,7 +29640,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 3.627,
+          "sum": 3.6270000000000002,
           "average": 0.5181428571428571,
           "average w/o zero": 0.5181428571428571
         },
@@ -29694,7 +29694,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pears": {
           "count": 4,
-          "sum": 1.8060000000000003,
+          "sum": 1.806,
           "average": 0.4515,
           "average w/o zero": 0.4515
         },
@@ -29898,7 +29898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 13.935000000000002,
+          "sum": 13.935,
           "average": 0.5359615384615385,
           "average w/o zero": 0.5359615384615385
         },
@@ -30090,7 +30090,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 1.4989999999999999,
+          "sum": 1.499,
           "average": 0.2998,
           "average w/o zero": 0.2998
         },
@@ -30144,13 +30144,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 7.443999999999999,
+          "sum": 7.444,
           "average": 1.0634285714285714,
           "average w/o zero": 1.0634285714285714
         },
         "Peppers": {
           "count": 7,
-          "sum": 6.340000000000001,
+          "sum": 6.34,
           "average": 0.9057142857142857,
           "average w/o zero": 0.9057142857142857
         },
@@ -30222,13 +30222,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Spinach": {
           "count": 3,
-          "sum": 1.5510000000000002,
+          "sum": 1.551,
           "average": 0.517,
           "average w/o zero": 0.517
         },
         "Squash": {
           "count": 7,
-          "sum": 3.4480000000000004,
+          "sum": 3.448,
           "average": 0.4925714285714286,
           "average w/o zero": 0.4925714285714286
         },
@@ -30240,7 +30240,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 3.323,
+          "sum": 3.3230000000000004,
           "average": 0.8307500000000001,
           "average w/o zero": 0.8307500000000001
         },
@@ -30414,7 +30414,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beef": {
           "count": 81,
-          "sum": 442.44100000000003,
+          "sum": 442.441,
           "average": 5.462234567901235,
           "average w/o zero": 5.462234567901235
         },
@@ -30426,7 +30426,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 550.7109999999999,
+          "sum": 550.711,
           "average": 4.079340740740741,
           "average w/o zero": 5.985989130434783
         },
@@ -30480,7 +30480,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 271.18499999999995,
+          "sum": 271.185,
           "average": 5.116698113207547,
           "average w/o zero": 5.116698113207547
         },
@@ -30492,7 +30492,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mollusks": {
           "count": 13,
-          "sum": 17.610999999999997,
+          "sum": 17.611,
           "average": 1.3546923076923076,
           "average w/o zero": 1.3546923076923076
         },
@@ -30636,7 +30636,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 92.924,
+          "sum": 92.92399999999999,
           "average": 5.8077499999999995,
           "average w/o zero": 5.8077499999999995
         },
@@ -30654,19 +30654,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 128.00499999999997,
+          "sum": 128.005,
           "average": 3.7648529411764704,
           "average w/o zero": 3.7648529411764704
         },
         "Cake": {
           "count": 21,
-          "sum": 28.487000000000002,
+          "sum": 28.487,
           "average": 1.3565238095238095,
           "average w/o zero": 1.3565238095238095
         },
         "Cookies": {
           "count": 47,
-          "sum": 120.85399999999998,
+          "sum": 120.854,
           "average": 2.5713617021276596,
           "average w/o zero": 2.5713617021276596
         },
@@ -30678,7 +30678,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 116.47499999999998,
+          "sum": 116.475,
           "average": 4.659,
           "average w/o zero": 4.659
         },
@@ -30780,7 +30780,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 10.771,
+          "sum": 10.770999999999999,
           "average": 3.590333333333333,
           "average w/o zero": 3.590333333333333
         },
@@ -30852,13 +30852,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 117.50999999999999,
+          "sum": 117.51,
           "average": 1.5261038961038962,
           "average w/o zero": 1.587972972972973
         },
         "Snacks": {
           "count": 65,
-          "sum": 204.52100000000004,
+          "sum": 204.521,
           "average": 3.146476923076923,
           "average w/o zero": 3.146476923076923
         },
@@ -30936,7 +30936,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 1.1159999999999999,
+          "sum": 1.116,
           "average": 0.1395,
           "average w/o zero": 0.1395
         },
@@ -31110,7 +31110,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 15.012999999999998,
+          "sum": 15.013,
           "average": 3.0026,
           "average w/o zero": 3.0026
         },
@@ -31182,7 +31182,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 48.06099999999999,
+          "sum": 48.061,
           "average": 6.007625,
           "average w/o zero": 6.007625
         },
@@ -31218,7 +31218,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 31.433999999999997,
+          "sum": 31.434,
           "average": 3.92925,
           "average w/o zero": 3.92925
         },
@@ -31410,7 +31410,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta mix": {
           "count": 3,
-          "sum": 16.520000000000003,
+          "sum": 16.52,
           "average": 5.506666666666667,
           "average w/o zero": 5.506666666666667
         },
@@ -31440,7 +31440,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 10.062000000000001,
+          "sum": 10.062,
           "average": 2.5155,
           "average w/o zero": 2.5155
         },
@@ -31718,7 +31718,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 1043.9300000000003,
+          "sum": 1043.93,
           "average": 21.30469387755102,
           "average w/o zero": 21.30469387755102
         },
@@ -31730,7 +31730,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream": {
           "count": 6,
-          "sum": 17.169999999999998,
+          "sum": 17.17,
           "average": 2.861666666666667,
           "average w/o zero": 2.861666666666667
         },
@@ -31760,7 +31760,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 213.32000000000002,
+          "sum": 213.32,
           "average": 8.5328,
           "average w/o zero": 8.5328
         },
@@ -31778,7 +31778,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 139.73000000000002,
+          "sum": 139.73,
           "average": 17.46625,
           "average w/o zero": 17.46625
         },
@@ -31862,7 +31862,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 321.43999999999994,
+          "sum": 321.44,
           "average": 13.393333333333333,
           "average w/o zero": 13.393333333333333
         },
@@ -31916,7 +31916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 544.7999999999998,
+          "sum": 544.8,
           "average": 2.944864864864865,
           "average w/o zero": 3.113142857142857
         },
@@ -31928,7 +31928,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 203.93999999999997,
+          "sum": 203.94,
           "average": 10.197000000000001,
           "average w/o zero": 10.197000000000001
         },
@@ -31964,13 +31964,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 34.17999999999999,
+          "sum": 34.18,
           "average": 1.0357575757575757,
           "average w/o zero": 1.068125
         },
         "Sandwich spread": {
           "count": 3,
-          "sum": 16.560000000000002,
+          "sum": 16.56,
           "average": 5.5200000000000005,
           "average w/o zero": 5.5200000000000005
         },
@@ -31982,7 +31982,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Margarine": {
           "count": 4,
-          "sum": 0.7100000000000001,
+          "sum": 0.71,
           "average": 0.1775,
           "average w/o zero": 0.1775
         },
@@ -32024,7 +32024,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 798.4299999999998,
+          "sum": 798.43,
           "average": 22.812285714285714,
           "average w/o zero": 22.812285714285714
         },
@@ -32066,7 +32066,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 244.63000000000014,
+          "sum": 244.63,
           "average": 3.0201234567901234,
           "average w/o zero": 3.0201234567901234
         },
@@ -32078,7 +32078,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 43.84,
+          "sum": 43.839999999999996,
           "average": 2.0876190476190475,
           "average w/o zero": 2.1919999999999997
         },
@@ -32132,7 +32132,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 93.25999999999999,
+          "sum": 93.26,
           "average": 13.322857142857142,
           "average w/o zero": 13.322857142857142
         },
@@ -32288,7 +32288,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.83,
+          "sum": 0.8300000000000001,
           "average": 0.20750000000000002,
           "average w/o zero": 0.20750000000000002
         },
@@ -32648,7 +32648,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Strawberries": {
           "count": 3,
-          "sum": 1.66,
+          "sum": 1.6600000000000001,
           "average": 0.5533333333333333,
           "average w/o zero": 0.5533333333333333
         },
@@ -32726,7 +32726,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 1439.5400000000004,
+          "sum": 1439.54,
           "average": 21.16970588235294,
           "average w/o zero": 21.16970588235294
         },
@@ -32750,7 +32750,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Asparagus": {
           "count": 3,
-          "sum": 7.29,
+          "sum": 7.290000000000001,
           "average": 2.43,
           "average w/o zero": 2.43
         },
@@ -32768,7 +32768,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lima beans": {
           "count": 4,
-          "sum": 27.330000000000002,
+          "sum": 27.33,
           "average": 6.8325,
           "average w/o zero": 6.8325
         },
@@ -32780,7 +32780,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 179.04000000000002,
+          "sum": 179.04,
           "average": 6.886153846153846,
           "average w/o zero": 6.886153846153846
         },
@@ -32972,7 +32972,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 6.18,
+          "sum": 6.180000000000001,
           "average": 1.236,
           "average w/o zero": 1.236
         },
@@ -33032,7 +33032,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 8.090000000000002,
+          "sum": 8.09,
           "average": 1.1557142857142857,
           "average w/o zero": 1.1557142857142857
         },
@@ -33044,7 +33044,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 29.619999999999997,
+          "sum": 29.62,
           "average": 2.9619999999999997,
           "average w/o zero": 2.9619999999999997
         },
@@ -33164,7 +33164,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnip greens": {
           "count": 3,
-          "sum": 5.8500000000000005,
+          "sum": 5.85,
           "average": 1.95,
           "average w/o zero": 1.95
         },
@@ -33290,13 +33290,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 232.85000000000002,
+          "sum": 232.85,
           "average": 12.255263157894737,
           "average w/o zero": 12.255263157894737
         },
         "Beef": {
           "count": 81,
-          "sum": 2074.7200000000007,
+          "sum": 2074.72,
           "average": 25.613827160493827,
           "average w/o zero": 25.613827160493827
         },
@@ -33308,7 +33308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 646.0100000000002,
+          "sum": 646.01,
           "average": 4.785259259259259,
           "average w/o zero": 8.38974025974026
         },
@@ -33362,7 +33362,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 1109.4099999999999,
+          "sum": 1109.41,
           "average": 20.932264150943396,
           "average w/o zero": 20.932264150943396
         },
@@ -33422,7 +33422,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 96.33000000000001,
+          "sum": 96.33,
           "average": 24.0825,
           "average w/o zero": 24.0825
         },
@@ -33512,13 +33512,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Veal": {
           "count": 17,
-          "sum": 449.17999999999995,
+          "sum": 449.18,
           "average": 26.42235294117647,
           "average w/o zero": 26.42235294117647
         },
         "Game meat": {
           "count": 16,
-          "sum": 478.42999999999995,
+          "sum": 478.43,
           "average": 29.901875,
           "average w/o zero": 29.901875
         },
@@ -33542,13 +33542,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cake": {
           "count": 21,
-          "sum": 84.24999999999999,
+          "sum": 84.25,
           "average": 4.011904761904762,
           "average w/o zero": 4.011904761904762
         },
         "Cookies": {
           "count": 47,
-          "sum": 240.51000000000005,
+          "sum": 240.51,
           "average": 5.117234042553191,
           "average w/o zero": 5.117234042553191
         },
@@ -33560,7 +33560,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 237.55999999999997,
+          "sum": 237.56,
           "average": 9.5024,
           "average w/o zero": 9.5024
         },
@@ -33626,7 +33626,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pie crust": {
           "count": 3,
-          "sum": 15.899999999999999,
+          "sum": 15.9,
           "average": 5.3,
           "average w/o zero": 5.3
         },
@@ -33638,7 +33638,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 114.87999999999998,
+          "sum": 114.88,
           "average": 9.573333333333334,
           "average w/o zero": 9.573333333333334
         },
@@ -33662,7 +33662,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 23.659999999999997,
+          "sum": 23.66,
           "average": 7.886666666666667,
           "average w/o zero": 7.886666666666667
         },
@@ -33782,7 +33782,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 9.71,
+          "sum": 9.709999999999999,
           "average": 0.971,
           "average w/o zero": 1.942
         },
@@ -33818,7 +33818,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 17.129999999999995,
+          "sum": 17.13,
           "average": 2.14125,
           "average w/o zero": 2.447142857142857
         },
@@ -34022,7 +34022,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wheat flour": {
           "count": 4,
-          "sum": 45.849999999999994,
+          "sum": 45.85,
           "average": 11.4625,
           "average w/o zero": 11.4625
         },
@@ -34040,7 +34040,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta": {
           "count": 4,
-          "sum": 28.029999999999998,
+          "sum": 28.03,
           "average": 7.0075,
           "average w/o zero": 7.0075
         },
@@ -34058,13 +34058,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 610.3000000000002,
+          "sum": 610.3,
           "average": 10.898214285714285,
           "average w/o zero": 10.898214285714285
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 173.51999999999998,
+          "sum": 173.52,
           "average": 21.69,
           "average w/o zero": 21.69
         },
@@ -34346,7 +34346,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 209.06000000000006,
+          "sum": 209.06,
           "average": 8.710833333333333,
           "average w/o zero": 8.710833333333333
         },
@@ -37524,7 +37524,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 9.760000000000003,
+          "sum": 9.76,
           "average": 0.3904,
           "average w/o zero": 0.3904
         },
@@ -37542,7 +37542,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 5.489999999999999,
+          "sum": 5.49,
           "average": 0.68625,
           "average w/o zero": 0.68625
         },
@@ -37626,7 +37626,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 12.375000000000005,
+          "sum": 12.375,
           "average": 0.515625,
           "average w/o zero": 0.515625
         },
@@ -37728,7 +37728,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 1.2010000000000005,
+          "sum": 1.201,
           "average": 0.036393939393939395,
           "average w/o zero": 0.04448148148148148
         },
@@ -37788,7 +37788,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 10.719999999999999,
+          "sum": 10.72,
           "average": 0.3062857142857143,
           "average w/o zero": 0.3062857142857143
         },
@@ -37806,7 +37806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 7.8889999999999985,
+          "sum": 7.889,
           "average": 0.24653125,
           "average w/o zero": 0.24653125
         },
@@ -37830,7 +37830,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 5.832000000000001,
+          "sum": 5.832,
           "average": 0.072,
           "average w/o zero": 0.072
         },
@@ -37842,7 +37842,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 1.4579999999999995,
+          "sum": 1.458,
           "average": 0.06942857142857144,
           "average w/o zero": 0.06942857142857144
         },
@@ -37896,7 +37896,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 1.737,
+          "sum": 1.7369999999999999,
           "average": 0.24814285714285714,
           "average w/o zero": 0.24814285714285714
         },
@@ -38016,19 +38016,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bacon": {
           "count": 3,
-          "sum": 1.0619999999999998,
+          "sum": 1.062,
           "average": 0.354,
           "average w/o zero": 0.354
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 154.6939999999999,
+          "sum": 154.694,
           "average": 1.2784628099173554,
           "average w/o zero": 1.2784628099173554
         },
         "Cereals": {
           "count": 10,
-          "sum": 4.2669999999999995,
+          "sum": 4.267,
           "average": 0.42669999999999997,
           "average w/o zero": 0.42669999999999997
         },
@@ -38262,7 +38262,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Melons": {
           "count": 3,
-          "sum": 0.06999999999999999,
+          "sum": 0.07,
           "average": 0.023333333333333334,
           "average w/o zero": 0.023333333333333334
         },
@@ -38490,7 +38490,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 16.970999999999997,
+          "sum": 16.971,
           "average": 0.24957352941176472,
           "average w/o zero": 0.24957352941176472
         },
@@ -38586,7 +38586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cabbage": {
           "count": 5,
-          "sum": 0.41900000000000004,
+          "sum": 0.419,
           "average": 0.0838,
           "average w/o zero": 0.0838
         },
@@ -38604,7 +38604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cauliflower": {
           "count": 3,
-          "sum": 0.21499999999999997,
+          "sum": 0.215,
           "average": 0.07166666666666666,
           "average w/o zero": 0.07166666666666666
         },
@@ -38766,7 +38766,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Onions": {
           "count": 4,
-          "sum": 0.14800000000000002,
+          "sum": 0.148,
           "average": 0.037,
           "average w/o zero": 0.037
         },
@@ -38886,7 +38886,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 0.27099999999999996,
+          "sum": 0.271,
           "average": 0.06775,
           "average w/o zero": 0.06775
         },
@@ -38904,7 +38904,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 0.6579999999999999,
+          "sum": 0.658,
           "average": 0.1316,
           "average w/o zero": 0.1316
         },
@@ -39066,13 +39066,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 0.23500000000000004,
+          "sum": 0.235,
           "average": 0.0146875,
           "average w/o zero": 0.019583333333333335
         },
         "Beverages": {
           "count": 135,
-          "sum": 31.798000000000002,
+          "sum": 31.798,
           "average": 0.23554074074074074,
           "average w/o zero": 0.40250632911392403
         },
@@ -39132,7 +39132,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 0.46800000000000014,
+          "sum": 0.468,
           "average": 0.0468,
           "average w/o zero": 0.0468
         },
@@ -39150,7 +39150,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chickpeas (garbanzo beans": {
           "count": 3,
-          "sum": 0.29000000000000004,
+          "sum": 0.29,
           "average": 0.09666666666666666,
           "average w/o zero": 0.09666666666666666
         },
@@ -39174,7 +39174,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Noodles": {
           "count": 6,
-          "sum": 1.1940000000000002,
+          "sum": 1.194,
           "average": 0.199,
           "average w/o zero": 0.2388
         },
@@ -39270,19 +39270,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 3.630000000000001,
+          "sum": 3.63,
           "average": 0.242,
           "average w/o zero": 0.242
         },
         "Veal": {
           "count": 17,
-          "sum": 5.199999999999999,
+          "sum": 5.2,
           "average": 0.3058823529411765,
           "average w/o zero": 0.3058823529411765
         },
         "Game meat": {
           "count": 16,
-          "sum": 6.593999999999999,
+          "sum": 6.594,
           "average": 0.412125,
           "average w/o zero": 0.412125
         },
@@ -39300,7 +39300,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 9.004000000000001,
+          "sum": 9.004,
           "average": 0.26482352941176474,
           "average w/o zero": 0.26482352941176474
         },
@@ -39312,7 +39312,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 11.822000000000003,
+          "sum": 11.822,
           "average": 0.25153191489361704,
           "average w/o zero": 0.25153191489361704
         },
@@ -39360,7 +39360,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 1.1260000000000001,
+          "sum": 1.126,
           "average": 0.2252,
           "average w/o zero": 0.2252
         },
@@ -39378,13 +39378,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 1.5550000000000002,
+          "sum": 1.555,
           "average": 0.38875,
           "average w/o zero": 0.38875
         },
         "Pie": {
           "count": 14,
-          "sum": 1.5919999999999999,
+          "sum": 1.592,
           "average": 0.11371428571428571,
           "average w/o zero": 0.11371428571428571
         },
@@ -39402,7 +39402,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 3.7909999999999995,
+          "sum": 3.791,
           "average": 0.3159166666666667,
           "average w/o zero": 0.3159166666666667
         },
@@ -39498,13 +39498,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 10.389999999999995,
+          "sum": 10.39,
           "average": 0.13493506493506494,
           "average w/o zero": 0.13853333333333334
         },
         "Snacks": {
           "count": 65,
-          "sum": 15.222999999999999,
+          "sum": 15.223,
           "average": 0.2342,
           "average w/o zero": 0.2342
         },
@@ -39546,7 +39546,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 1.511,
+          "sum": 1.5110000000000001,
           "average": 0.1511,
           "average w/o zero": 0.18887500000000002
         },
@@ -39600,7 +39600,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen yogurts": {
           "count": 3,
-          "sum": 0.5840000000000001,
+          "sum": 0.584,
           "average": 0.19466666666666665,
           "average w/o zero": 0.19466666666666665
         },
@@ -39756,7 +39756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 0.23900000000000005,
+          "sum": 0.23900000000000002,
           "average": 0.0478,
           "average w/o zero": 0.0478
         },
@@ -39804,7 +39804,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta": {
           "count": 4,
-          "sum": 0.714,
+          "sum": 0.7140000000000001,
           "average": 0.17850000000000002,
           "average w/o zero": 0.17850000000000002
         },
@@ -39822,7 +39822,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 12.088000000000003,
+          "sum": 12.088000000000001,
           "average": 0.21585714285714286,
           "average w/o zero": 0.21585714285714286
         },
@@ -39840,7 +39840,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 1.0699999999999998,
+          "sum": 1.07,
           "average": 0.214,
           "average w/o zero": 0.214
         },
@@ -39984,7 +39984,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Formulated bar": {
           "count": 5,
-          "sum": 7.736000000000001,
+          "sum": 7.736,
           "average": 1.5472,
           "average w/o zero": 1.5472
         },
@@ -40026,7 +40026,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookie": {
           "count": 4,
-          "sum": 0.5900000000000001,
+          "sum": 0.59,
           "average": 0.1475,
           "average w/o zero": 0.1475
         },
@@ -40110,7 +40110,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 3.0250000000000004,
+          "sum": 3.025,
           "average": 0.12604166666666666,
           "average w/o zero": 0.12604166666666666
         },
@@ -40364,7 +40364,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 748.9000000000002,
+          "sum": 748.9,
           "average": 15.283673469387756,
           "average w/o zero": 15.283673469387756
         },
@@ -40388,7 +40388,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream substitute": {
           "count": 6,
-          "sum": 4.800000000000001,
+          "sum": 4.8,
           "average": 0.8,
           "average w/o zero": 0.9600000000000001
         },
@@ -40400,7 +40400,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sour cream": {
           "count": 3,
-          "sum": 10.899999999999999,
+          "sum": 10.9,
           "average": 3.6333333333333333,
           "average w/o zero": 3.6333333333333333
         },
@@ -40424,7 +40424,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 407.49999999999994,
+          "sum": 407.5,
           "average": 50.9375,
           "average w/o zero": 50.9375
         },
@@ -40508,7 +40508,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 470.2000000000001,
+          "sum": 470.2,
           "average": 19.591666666666665,
           "average w/o zero": 19.591666666666665
         },
@@ -40562,7 +40562,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 802.1000000000006,
+          "sum": 802.1,
           "average": 4.335675675675676,
           "average w/o zero": 4.383060109289618
         },
@@ -40574,7 +40574,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 195.90000000000003,
+          "sum": 195.9,
           "average": 9.795,
           "average w/o zero": 9.795
         },
@@ -40670,7 +40670,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 911.3,
+          "sum": 911.3000000000001,
           "average": 26.037142857142857,
           "average w/o zero": 26.037142857142857
         },
@@ -40688,7 +40688,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 939.8999999999999,
+          "sum": 939.9,
           "average": 29.371875,
           "average w/o zero": 29.371875
         },
@@ -40712,7 +40712,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 360.60000000000014,
+          "sum": 360.6,
           "average": 4.451851851851852,
           "average w/o zero": 4.808
         },
@@ -40724,7 +40724,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 36.400000000000006,
+          "sum": 36.4,
           "average": 1.7333333333333334,
           "average w/o zero": 1.7333333333333334
         },
@@ -40868,7 +40868,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 164.50000000000003,
+          "sum": 164.5,
           "average": 18.27777777777778,
           "average w/o zero": 18.27777777777778
         },
@@ -40934,7 +40934,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.7,
+          "sum": 0.7000000000000001,
           "average": 0.17500000000000002,
           "average w/o zero": 0.17500000000000002
         },
@@ -41396,7 +41396,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Asparagus": {
           "count": 3,
-          "sum": 7.9,
+          "sum": 7.8999999999999995,
           "average": 2.6333333333333333,
           "average w/o zero": 2.6333333333333333
         },
@@ -41426,7 +41426,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 79.69999999999999,
+          "sum": 79.7,
           "average": 3.065384615384615,
           "average w/o zero": 3.065384615384615
         },
@@ -41474,7 +41474,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carrots": {
           "count": 5,
-          "sum": 2.1999999999999997,
+          "sum": 2.2,
           "average": 0.44,
           "average w/o zero": 0.44
         },
@@ -41630,7 +41630,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 50.10000000000001,
+          "sum": 50.1,
           "average": 12.525,
           "average w/o zero": 12.525
         },
@@ -41672,7 +41672,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 7.8999999999999995,
+          "sum": 7.9,
           "average": 1.1285714285714286,
           "average w/o zero": 1.1285714285714286
         },
@@ -41756,7 +41756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Squash": {
           "count": 7,
-          "sum": 1.7999999999999998,
+          "sum": 1.8,
           "average": 0.2571428571428572,
           "average w/o zero": 0.2571428571428572
         },
@@ -41936,13 +41936,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 2040.3000000000002,
+          "sum": 2040.3,
           "average": 107.38421052631578,
           "average w/o zero": 107.38421052631578
         },
         "Beef": {
           "count": 81,
-          "sum": 2251.5999999999985,
+          "sum": 2251.6,
           "average": 27.79753086419753,
           "average w/o zero": 27.79753086419753
         },
@@ -41954,7 +41954,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 576.0000000000003,
+          "sum": 576.0,
           "average": 4.266666666666667,
           "average w/o zero": 8.470588235294118
         },
@@ -42008,7 +42008,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 2050.9999999999995,
+          "sum": 2051.0,
           "average": 38.698113207547166,
           "average w/o zero": 38.698113207547166
         },
@@ -42020,7 +42020,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mollusks": {
           "count": 13,
-          "sum": 471.40000000000003,
+          "sum": 471.4,
           "average": 36.26153846153846,
           "average w/o zero": 36.26153846153846
         },
@@ -42068,7 +42068,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 23.200000000000003,
+          "sum": 23.2,
           "average": 5.8,
           "average w/o zero": 5.8
         },
@@ -42128,7 +42128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soymilk": {
           "count": 4,
-          "sum": 11.099999999999998,
+          "sum": 11.1,
           "average": 2.775,
           "average w/o zero": 2.775
         },
@@ -42158,13 +42158,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Veal": {
           "count": 17,
-          "sum": 216.39999999999998,
+          "sum": 216.4,
           "average": 12.729411764705882,
           "average w/o zero": 12.729411764705882
         },
         "Game meat": {
           "count": 16,
-          "sum": 297.29999999999995,
+          "sum": 297.3,
           "average": 18.58125,
           "average w/o zero": 18.58125
         },
@@ -42182,7 +42182,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 811.9999999999999,
+          "sum": 812.0,
           "average": 23.88235294117647,
           "average w/o zero": 23.88235294117647
         },
@@ -42194,7 +42194,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 411.09999999999997,
+          "sum": 411.1,
           "average": 8.746808510638298,
           "average w/o zero": 8.93695652173913
         },
@@ -42284,7 +42284,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 296.09999999999997,
+          "sum": 296.1,
           "average": 24.675,
           "average w/o zero": 24.675
         },
@@ -42386,7 +42386,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snacks": {
           "count": 65,
-          "sum": 647.4000000000002,
+          "sum": 647.4,
           "average": 9.96,
           "average w/o zero": 10.115625
         },
@@ -42410,7 +42410,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 18.900000000000002,
+          "sum": 18.9,
           "average": 2.3625,
           "average w/o zero": 2.3625
         },
@@ -42428,7 +42428,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 11.700000000000001,
+          "sum": 11.7,
           "average": 1.17,
           "average w/o zero": 1.17
         },
@@ -42464,7 +42464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 11.100000000000001,
+          "sum": 11.1,
           "average": 1.3875,
           "average w/o zero": 2.22
         },
@@ -42668,7 +42668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wheat flour": {
           "count": 4,
-          "sum": 169.29999999999998,
+          "sum": 169.3,
           "average": 42.325,
           "average w/o zero": 42.325
         },
@@ -42704,7 +42704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 1003.7999999999996,
+          "sum": 1003.8,
           "average": 17.925,
           "average w/o zero": 17.925
         },
@@ -42722,13 +42722,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 98.29999999999998,
+          "sum": 98.3,
           "average": 19.66,
           "average w/o zero": 19.66
         },
         "Fast Food": {
           "count": 11,
-          "sum": 221.79999999999998,
+          "sum": 221.8,
           "average": 20.163636363636364,
           "average w/o zero": 20.163636363636364
         },
@@ -42968,7 +42968,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 68.69999999999999,
+          "sum": 68.7,
           "average": 17.175,
           "average w/o zero": 17.175
         },
@@ -42992,7 +42992,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 290.70000000000005,
+          "sum": 290.7,
           "average": 12.1125,
           "average w/o zero": 12.1125
         },
@@ -43246,7 +43246,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 75.49999999999999,
+          "sum": 75.5,
           "average": 1.5408163265306123,
           "average w/o zero": 1.6777777777777778
         },
@@ -43282,7 +43282,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sour cream": {
           "count": 3,
-          "sum": 7.239999999999999,
+          "sum": 7.24,
           "average": 2.413333333333333,
           "average w/o zero": 2.413333333333333
         },
@@ -43300,7 +43300,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Yogurt": {
           "count": 11,
-          "sum": 84.01999999999998,
+          "sum": 84.02,
           "average": 7.638181818181818,
           "average w/o zero": 7.638181818181818
         },
@@ -43390,7 +43390,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 99.46999999999998,
+          "sum": 99.47,
           "average": 4.144583333333333,
           "average w/o zero": 4.144583333333333
         },
@@ -43444,7 +43444,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 1583.4799999999998,
+          "sum": 1583.48,
           "average": 8.559351351351351,
           "average w/o zero": 9.100459770114943
         },
@@ -43456,7 +43456,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 826.6300000000001,
+          "sum": 826.63,
           "average": 41.3315,
           "average w/o zero": 41.3315
         },
@@ -43468,7 +43468,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant Formula": {
           "count": 5,
-          "sum": 184.89,
+          "sum": 184.89000000000001,
           "average": 36.978,
           "average w/o zero": 36.978
         },
@@ -43606,7 +43606,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 237.20999999999998,
+          "sum": 237.21,
           "average": 11.295714285714286,
           "average w/o zero": 11.8605
         },
@@ -43786,7 +43786,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 3125.499999999998,
+          "sum": 3125.5,
           "average": 25.830578512396695,
           "average w/o zero": 26.045833333333334
         },
@@ -43810,7 +43810,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apples": {
           "count": 3,
-          "sum": 77.68,
+          "sum": 77.67999999999999,
           "average": 25.89333333333333,
           "average w/o zero": 25.89333333333333
         },
@@ -43864,7 +43864,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cherries": {
           "count": 4,
-          "sum": 97.83,
+          "sum": 97.83000000000001,
           "average": 24.457500000000003,
           "average w/o zero": 24.457500000000003
         },
@@ -44050,7 +44050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 101.45000000000002,
+          "sum": 101.45,
           "average": 14.492857142857144,
           "average w/o zero": 14.492857142857144
         },
@@ -44092,7 +44092,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peaches": {
           "count": 3,
-          "sum": 54.94,
+          "sum": 54.940000000000005,
           "average": 18.313333333333333,
           "average w/o zero": 18.313333333333333
         },
@@ -44104,7 +44104,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pears": {
           "count": 4,
-          "sum": 85.1,
+          "sum": 85.10000000000001,
           "average": 21.275000000000002,
           "average w/o zero": 21.275000000000002
         },
@@ -44254,7 +44254,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 28.289999999999996,
+          "sum": 28.29,
           "average": 0.41602941176470587,
           "average w/o zero": 2.020714285714286
         },
@@ -44308,7 +44308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 47.95000000000001,
+          "sum": 47.95,
           "average": 1.8442307692307693,
           "average w/o zero": 1.918
         },
@@ -44560,7 +44560,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 24.640000000000004,
+          "sum": 24.64,
           "average": 3.52,
           "average w/o zero": 3.52
         },
@@ -44572,7 +44572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 12.339999999999998,
+          "sum": 12.34,
           "average": 1.234,
           "average w/o zero": 1.234
         },
@@ -44668,7 +44668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 49.32000000000001,
+          "sum": 49.32,
           "average": 9.864,
           "average w/o zero": 9.864
         },
@@ -44818,7 +44818,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 204.07000000000002,
+          "sum": 204.07,
           "average": 10.740526315789474,
           "average w/o zero": 10.740526315789474
         },
@@ -44830,13 +44830,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 120.91000000000001,
+          "sum": 120.91,
           "average": 7.556875,
           "average w/o zero": 10.991818181818182
         },
         "Beverages": {
           "count": 135,
-          "sum": 1538.5599999999993,
+          "sum": 1538.56,
           "average": 11.396740740740741,
           "average w/o zero": 16.367659574468085
         },
@@ -45076,7 +45076,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 1540.8700000000003,
+          "sum": 1540.87,
           "average": 32.78446808510638,
           "average w/o zero": 34.24155555555556
         },
@@ -45190,7 +45190,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 7.029999999999999,
+          "sum": 7.03,
           "average": 2.3433333333333333,
           "average w/o zero": 2.3433333333333333
         },
@@ -45262,13 +45262,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 4122.799999999998,
+          "sum": 4122.8,
           "average": 53.542857142857144,
           "average w/o zero": 54.247368421052634
         },
         "Snacks": {
           "count": 65,
-          "sum": 1135.3999999999996,
+          "sum": 1135.4,
           "average": 17.467692307692307,
           "average w/o zero": 17.740625
         },
@@ -45292,7 +45292,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 143.51999999999998,
+          "sum": 143.52,
           "average": 17.94,
           "average w/o zero": 17.94
         },
@@ -45358,7 +45358,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen novelties": {
           "count": 7,
-          "sum": 120.34999999999998,
+          "sum": 120.35,
           "average": 17.192857142857143,
           "average w/o zero": 17.192857142857143
         },
@@ -45424,7 +45424,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snack": {
           "count": 3,
-          "sum": 74.44999999999999,
+          "sum": 74.45,
           "average": 24.816666666666666,
           "average w/o zero": 24.816666666666666
         },
@@ -45586,7 +45586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 195.35000000000005,
+          "sum": 195.35,
           "average": 3.4883928571428573,
           "average w/o zero": 3.4883928571428573
         },
@@ -45628,7 +45628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 36.080000000000005,
+          "sum": 36.08,
           "average": 4.51,
           "average w/o zero": 4.51
         },
@@ -45652,7 +45652,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 9.780000000000001,
+          "sum": 9.78,
           "average": 3.26,
           "average w/o zero": 3.26
         },
@@ -46116,7 +46116,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Thiamin": {
         "Butter": {
           "count": 4,
-          "sum": 0.027000000000000003,
+          "sum": 0.027,
           "average": 0.00675,
           "average w/o zero": 0.00675
         },
@@ -46128,7 +46128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 1.8279999999999998,
+          "sum": 1.828,
           "average": 0.037306122448979594,
           "average w/o zero": 0.037306122448979594
         },
@@ -46140,7 +46140,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream": {
           "count": 6,
-          "sum": 0.18599999999999997,
+          "sum": 0.186,
           "average": 0.031,
           "average w/o zero": 0.031
         },
@@ -46170,7 +46170,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 2.4479999999999995,
+          "sum": 2.448,
           "average": 0.09792,
           "average w/o zero": 0.09792
         },
@@ -46326,7 +46326,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 32.84100000000001,
+          "sum": 32.841,
           "average": 0.1775189189189189,
           "average w/o zero": 0.1794590163934426
         },
@@ -46374,13 +46374,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 2.320999999999999,
+          "sum": 2.321,
           "average": 0.07033333333333333,
           "average w/o zero": 0.07736666666666667
         },
         "Sandwich spread": {
           "count": 3,
-          "sum": 0.782,
+          "sum": 0.7819999999999999,
           "average": 0.26066666666666666,
           "average w/o zero": 0.26066666666666666
         },
@@ -46410,7 +46410,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Margarine-like": {
           "count": 3,
-          "sum": 0.024999999999999998,
+          "sum": 0.025,
           "average": 0.008333333333333333,
           "average w/o zero": 0.008333333333333333
         },
@@ -46452,7 +46452,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 1.6410000000000007,
+          "sum": 1.641,
           "average": 0.05128125,
           "average w/o zero": 0.05128125
         },
@@ -46476,7 +46476,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 9.226999999999997,
+          "sum": 9.227,
           "average": 0.11391358024691357,
           "average w/o zero": 0.1153375
         },
@@ -46488,7 +46488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 0.7220000000000002,
+          "sum": 0.722,
           "average": 0.03438095238095238,
           "average w/o zero": 0.03438095238095238
         },
@@ -46542,7 +46542,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 1.0690000000000002,
+          "sum": 1.069,
           "average": 0.15271428571428572,
           "average w/o zero": 0.15271428571428572
         },
@@ -46698,7 +46698,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.05700000000000001,
+          "sum": 0.057,
           "average": 0.01425,
           "average w/o zero": 0.01425
         },
@@ -46752,7 +46752,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 0.20700000000000002,
+          "sum": 0.207,
           "average": 0.05175,
           "average w/o zero": 0.05175
         },
@@ -47136,7 +47136,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 38.98999999999998,
+          "sum": 38.99,
           "average": 0.5733823529411765,
           "average w/o zero": 0.5733823529411765
         },
@@ -47178,7 +47178,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lima beans": {
           "count": 4,
-          "sum": 0.44500000000000006,
+          "sum": 0.445,
           "average": 0.11125,
           "average w/o zero": 0.11125
         },
@@ -47196,7 +47196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beets": {
           "count": 4,
-          "sum": 0.061000000000000006,
+          "sum": 0.061,
           "average": 0.01525,
           "average w/o zero": 0.01525
         },
@@ -47232,13 +47232,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cabbage": {
           "count": 5,
-          "sum": 0.24500000000000002,
+          "sum": 0.245,
           "average": 0.049,
           "average w/o zero": 0.049
         },
         "Carrots": {
           "count": 5,
-          "sum": 0.19899999999999998,
+          "sum": 0.199,
           "average": 0.0398,
           "average w/o zero": 0.0398
         },
@@ -47250,7 +47250,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cauliflower": {
           "count": 3,
-          "sum": 0.16699999999999998,
+          "sum": 0.167,
           "average": 0.05566666666666667,
           "average w/o zero": 0.05566666666666667
         },
@@ -47382,7 +47382,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 0.31100000000000005,
+          "sum": 0.311,
           "average": 0.062200000000000005,
           "average w/o zero": 0.062200000000000005
         },
@@ -47394,7 +47394,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 0.27599999999999997,
+          "sum": 0.276,
           "average": 0.069,
           "average w/o zero": 0.069
         },
@@ -47436,13 +47436,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 1.1709999999999998,
+          "sum": 1.171,
           "average": 0.1672857142857143,
           "average w/o zero": 0.1672857142857143
         },
         "Peppers": {
           "count": 7,
-          "sum": 0.37299999999999994,
+          "sum": 0.373,
           "average": 0.053285714285714283,
           "average w/o zero": 0.053285714285714283
         },
@@ -47520,7 +47520,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Squash": {
           "count": 7,
-          "sum": 0.24300000000000005,
+          "sum": 0.243,
           "average": 0.03471428571428571,
           "average w/o zero": 0.03471428571428571
         },
@@ -47532,7 +47532,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 0.27799999999999997,
+          "sum": 0.278,
           "average": 0.0695,
           "average w/o zero": 0.0695
         },
@@ -47562,7 +47562,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 0.13399999999999998,
+          "sum": 0.134,
           "average": 0.0335,
           "average w/o zero": 0.0335
         },
@@ -47700,25 +47700,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 5.222,
+          "sum": 5.2219999999999995,
           "average": 0.2748421052631579,
           "average w/o zero": 0.2748421052631579
         },
         "Beef": {
           "count": 81,
-          "sum": 5.697999999999999,
+          "sum": 5.698,
           "average": 0.07034567901234567,
           "average w/o zero": 0.071225
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 0.08299999999999999,
+          "sum": 0.083,
           "average": 0.0051875,
           "average w/o zero": 0.0069166666666666664
         },
         "Beverages": {
           "count": 135,
-          "sum": 14.065999999999994,
+          "sum": 14.066,
           "average": 0.10419259259259259,
           "average w/o zero": 0.18507894736842107
         },
@@ -47778,13 +47778,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 0.29800000000000004,
+          "sum": 0.298,
           "average": 0.0298,
           "average w/o zero": 0.0298
         },
         "Mollusks": {
           "count": 13,
-          "sum": 0.7030000000000002,
+          "sum": 0.703,
           "average": 0.05407692307692308,
           "average w/o zero": 0.05407692307692308
         },
@@ -47820,13 +47820,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Noodles": {
           "count": 6,
-          "sum": 2.5789999999999993,
+          "sum": 2.5789999999999997,
           "average": 0.42983333333333335,
           "average w/o zero": 0.42983333333333335
         },
         "Peanuts": {
           "count": 6,
-          "sum": 1.3729999999999998,
+          "sum": 1.373,
           "average": 0.22883333333333333,
           "average w/o zero": 0.22883333333333333
         },
@@ -47916,19 +47916,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 1.4500000000000002,
+          "sum": 1.45,
           "average": 0.09666666666666666,
           "average w/o zero": 0.09666666666666666
         },
         "Veal": {
           "count": 17,
-          "sum": 1.3220000000000003,
+          "sum": 1.322,
           "average": 0.07776470588235294,
           "average w/o zero": 0.07776470588235294
         },
         "Game meat": {
           "count": 16,
-          "sum": 3.2630000000000003,
+          "sum": 3.263,
           "average": 0.2039375,
           "average w/o zero": 0.2039375
         },
@@ -47958,7 +47958,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 12.729,
+          "sum": 12.729000000000001,
           "average": 0.27082978723404255,
           "average w/o zero": 0.27082978723404255
         },
@@ -48006,7 +48006,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 1.6109999999999998,
+          "sum": 1.611,
           "average": 0.3222,
           "average w/o zero": 0.3222
         },
@@ -48024,7 +48024,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 1.6170000000000002,
+          "sum": 1.617,
           "average": 0.40425,
           "average w/o zero": 0.40425
         },
@@ -48174,7 +48174,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 0.30299999999999994,
+          "sum": 0.303,
           "average": 0.037875,
           "average w/o zero": 0.037875
         },
@@ -48192,7 +48192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 0.22500000000000003,
+          "sum": 0.225,
           "average": 0.0225,
           "average w/o zero": 0.028125
         },
@@ -48474,7 +48474,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 0.9239999999999998,
+          "sum": 0.9239999999999999,
           "average": 0.11549999999999999,
           "average w/o zero": 0.11549999999999999
         },
@@ -48492,7 +48492,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Food": {
           "count": 11,
-          "sum": 3.5389999999999997,
+          "sum": 3.539,
           "average": 0.32172727272727275,
           "average w/o zero": 0.32172727272727275
         },
@@ -48510,7 +48510,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 1.8730000000000002,
+          "sum": 1.873,
           "average": 0.234125,
           "average w/o zero": 0.234125
         },
@@ -48672,7 +48672,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookie": {
           "count": 4,
-          "sum": 0.9100000000000001,
+          "sum": 0.91,
           "average": 0.2275,
           "average w/o zero": 0.2275
         },
@@ -48732,7 +48732,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 1.0430000000000001,
+          "sum": 1.043,
           "average": 0.26075,
           "average w/o zero": 0.26075
         },
@@ -48756,7 +48756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 1.7889999999999997,
+          "sum": 1.7890000000000001,
           "average": 0.07454166666666667,
           "average w/o zero": 0.07454166666666667
         },
@@ -49034,7 +49034,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream substitute": {
           "count": 6,
-          "sum": 224.23000000000002,
+          "sum": 224.23,
           "average": 37.37166666666667,
           "average w/o zero": 37.37166666666667
         },
@@ -49052,7 +49052,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 1766.6999999999996,
+          "sum": 1766.7,
           "average": 70.668,
           "average w/o zero": 70.668
         },
@@ -49070,7 +49070,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 510.3299999999999,
+          "sum": 510.33,
           "average": 63.79125,
           "average w/o zero": 63.79125
         },
@@ -49220,7 +49220,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 478.96000000000004,
+          "sum": 478.96,
           "average": 23.948,
           "average w/o zero": 23.948
         },
@@ -49274,7 +49274,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Margarine": {
           "count": 4,
-          "sum": 108.22999999999999,
+          "sum": 108.23,
           "average": 27.0575,
           "average w/o zero": 27.0575
         },
@@ -49316,7 +49316,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 2226.9400000000005,
+          "sum": 2226.94,
           "average": 63.62685714285714,
           "average w/o zero": 63.62685714285714
         },
@@ -49358,7 +49358,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 6617.210000000002,
+          "sum": 6617.21,
           "average": 81.69395061728395,
           "average w/o zero": 81.69395061728395
         },
@@ -49424,7 +49424,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 431.27000000000004,
+          "sum": 431.27,
           "average": 61.61,
           "average w/o zero": 61.61
         },
@@ -49550,13 +49550,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 402.5499999999999,
+          "sum": 402.55,
           "average": 3.3268595041322313,
           "average w/o zero": 3.3268595041322313
         },
         "Cereals": {
           "count": 10,
-          "sum": 96.33000000000001,
+          "sum": 96.33,
           "average": 9.633000000000001,
           "average w/o zero": 9.633000000000001
         },
@@ -49580,7 +49580,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 321.40000000000003,
+          "sum": 321.4,
           "average": 80.35,
           "average w/o zero": 80.35
         },
@@ -49592,7 +49592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apricots": {
           "count": 3,
-          "sum": 209.59999999999997,
+          "sum": 209.6,
           "average": 69.86666666666666,
           "average w/o zero": 69.86666666666666
         },
@@ -49634,7 +49634,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 261.32000000000005,
+          "sum": 261.32,
           "average": 65.33,
           "average w/o zero": 65.33
         },
@@ -49802,7 +49802,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Olives": {
           "count": 3,
-          "sum": 239.60999999999999,
+          "sum": 239.61,
           "average": 79.87,
           "average w/o zero": 79.87
         },
@@ -49814,7 +49814,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 558.82,
+          "sum": 558.8199999999999,
           "average": 79.83142857142857,
           "average w/o zero": 79.83142857142857
         },
@@ -49856,7 +49856,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peaches": {
           "count": 3,
-          "sum": 213.23000000000002,
+          "sum": 213.23,
           "average": 71.07666666666667,
           "average w/o zero": 71.07666666666667
         },
@@ -50018,7 +50018,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 4327.589999999999,
+          "sum": 4327.59,
           "average": 63.641029411764706,
           "average w/o zero": 63.641029411764706
         },
@@ -50042,7 +50042,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Asparagus": {
           "count": 3,
-          "sum": 281.29999999999995,
+          "sum": 281.3,
           "average": 93.76666666666667,
           "average w/o zero": 93.76666666666667
         },
@@ -50066,13 +50066,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Mung beans": {
           "count": 3,
-          "sum": 256.45000000000005,
+          "sum": 256.45,
           "average": 85.48333333333333,
           "average w/o zero": 85.48333333333333
         },
         "Beans": {
           "count": 26,
-          "sum": 1830.8100000000002,
+          "sum": 1830.81,
           "average": 70.41576923076923,
           "average w/o zero": 70.41576923076923
         },
@@ -50180,7 +50180,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Corn": {
           "count": 5,
-          "sum": 395.83000000000004,
+          "sum": 395.83,
           "average": 79.166,
           "average w/o zero": 79.166
         },
@@ -50264,7 +50264,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 476.59,
+          "sum": 476.59000000000003,
           "average": 95.318,
           "average w/o zero": 95.318
         },
@@ -50318,7 +50318,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 571.57,
+          "sum": 571.5699999999999,
           "average": 81.65285714285714,
           "average w/o zero": 81.65285714285714
         },
@@ -50336,7 +50336,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 643.8699999999999,
+          "sum": 643.87,
           "average": 64.387,
           "average w/o zero": 64.387
         },
@@ -50390,7 +50390,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 259.96000000000004,
+          "sum": 259.96,
           "average": 51.992,
           "average w/o zero": 51.992
         },
@@ -50594,13 +50594,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 1200.9300000000003,
+          "sum": 1200.93,
           "average": 75.058125,
           "average w/o zero": 75.058125
         },
         "Beverages": {
           "count": 135,
-          "sum": 9576.040000000005,
+          "sum": 9576.04,
           "average": 70.93362962962964,
           "average w/o zero": 70.93362962962964
         },
@@ -50654,7 +50654,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 3753.8600000000006,
+          "sum": 3753.86,
           "average": 70.82754716981133,
           "average w/o zero": 70.82754716981133
         },
@@ -50702,13 +50702,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Noodles": {
           "count": 6,
-          "sum": 165.19000000000003,
+          "sum": 165.19,
           "average": 27.531666666666666,
           "average w/o zero": 27.531666666666666
         },
         "Peanuts": {
           "count": 6,
-          "sum": 54.80000000000001,
+          "sum": 54.800000000000004,
           "average": 9.133333333333333,
           "average w/o zero": 9.133333333333333
         },
@@ -50798,7 +50798,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 875.0800000000002,
+          "sum": 875.0799999999999,
           "average": 58.33866666666667,
           "average w/o zero": 58.33866666666667
         },
@@ -50810,7 +50810,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 997.44,
+          "sum": 997.4399999999999,
           "average": 62.339999999999996,
           "average w/o zero": 62.339999999999996
         },
@@ -50828,19 +50828,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 1148.7299999999998,
+          "sum": 1148.73,
           "average": 33.78617647058824,
           "average w/o zero": 33.78617647058824
         },
         "Cake": {
           "count": 21,
-          "sum": 451.2100000000001,
+          "sum": 451.21,
           "average": 21.486190476190476,
           "average w/o zero": 21.486190476190476
         },
         "Cookies": {
           "count": 47,
-          "sum": 361.9299999999998,
+          "sum": 361.93,
           "average": 7.700638297872341,
           "average w/o zero": 7.700638297872341
         },
@@ -50876,7 +50876,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Danish pastry": {
           "count": 3,
-          "sum": 82.80000000000001,
+          "sum": 82.8,
           "average": 27.6,
           "average w/o zero": 27.6
         },
@@ -50888,7 +50888,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 178.42,
+          "sum": 178.42000000000002,
           "average": 35.684,
           "average w/o zero": 35.684
         },
@@ -50912,7 +50912,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pie": {
           "count": 14,
-          "sum": 623.56,
+          "sum": 623.5600000000001,
           "average": 44.54,
           "average w/o zero": 44.54
         },
@@ -50930,7 +50930,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 415.22999999999996,
+          "sum": 415.23,
           "average": 34.6025,
           "average w/o zero": 34.6025
         },
@@ -50954,7 +50954,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 108.02000000000001,
+          "sum": 108.02,
           "average": 36.00666666666667,
           "average w/o zero": 36.00666666666667
         },
@@ -51026,13 +51026,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 336.6099999999998,
+          "sum": 336.61,
           "average": 4.371558441558442,
           "average w/o zero": 4.371558441558442
         },
         "Snacks": {
           "count": 65,
-          "sum": 369.7600000000001,
+          "sum": 369.76,
           "average": 5.688615384615384,
           "average w/o zero": 5.688615384615384
         },
@@ -51056,7 +51056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 481.21,
+          "sum": 481.21000000000004,
           "average": 60.151250000000005,
           "average w/o zero": 60.151250000000005
         },
@@ -51080,7 +51080,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Toppings": {
           "count": 4,
-          "sum": 108.11999999999999,
+          "sum": 108.12,
           "average": 27.03,
           "average w/o zero": 27.03
         },
@@ -51110,7 +51110,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 304.94999999999993,
+          "sum": 304.95,
           "average": 38.11875,
           "average w/o zero": 38.11875
         },
@@ -51350,7 +51350,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 2824.1900000000005,
+          "sum": 2824.19,
           "average": 50.43196428571429,
           "average w/o zero": 50.43196428571429
         },
@@ -51368,13 +51368,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 226.70000000000002,
+          "sum": 226.7,
           "average": 45.34,
           "average w/o zero": 45.34
         },
         "Fast Food": {
           "count": 11,
-          "sum": 463.36999999999995,
+          "sum": 463.37,
           "average": 42.124545454545455,
           "average w/o zero": 42.124545454545455
         },
@@ -51614,7 +51614,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 222.14000000000001,
+          "sum": 222.14,
           "average": 55.535,
           "average w/o zero": 55.535
         },
@@ -51880,7 +51880,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Fat.Monosaturated Fat": {
         "Butter": {
           "count": 4,
-          "sum": 80.25199999999998,
+          "sum": 80.252,
           "average": 20.063,
           "average w/o zero": 20.063
         },
@@ -51898,7 +51898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese spread": {
           "count": 3,
-          "sum": 16.747999999999998,
+          "sum": 16.748,
           "average": 5.582666666666666,
           "average w/o zero": 5.582666666666666
         },
@@ -51934,7 +51934,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 24.497000000000003,
+          "sum": 24.497,
           "average": 0.97988,
           "average w/o zero": 1.0207083333333333
         },
@@ -51952,7 +51952,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 52.794999999999995,
+          "sum": 52.795,
           "average": 6.599375,
           "average w/o zero": 7.542142857142857
         },
@@ -52036,7 +52036,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 84.64699999999998,
+          "sum": 84.647,
           "average": 3.5269583333333334,
           "average w/o zero": 3.5269583333333334
         },
@@ -52090,7 +52090,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 140.45799999999994,
+          "sum": 140.458,
           "average": 0.7592324324324324,
           "average w/o zero": 0.8564512195121952
         },
@@ -52114,7 +52114,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant Formula": {
           "count": 5,
-          "sum": 31.447000000000003,
+          "sum": 31.447,
           "average": 6.2894,
           "average w/o zero": 6.2894
         },
@@ -52138,7 +52138,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 197.64799999999997,
+          "sum": 197.648,
           "average": 5.989333333333334,
           "average w/o zero": 6.1765
         },
@@ -52198,7 +52198,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 165.35799999999998,
+          "sum": 165.358,
           "average": 4.724514285714286,
           "average w/o zero": 4.724514285714286
         },
@@ -52216,7 +52216,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 85.53900000000002,
+          "sum": 85.539,
           "average": 2.67309375,
           "average w/o zero": 2.67309375
         },
@@ -52240,7 +52240,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 70.14300000000001,
+          "sum": 70.143,
           "average": 0.8659629629629629,
           "average w/o zero": 0.8992692307692308
         },
@@ -52288,7 +52288,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bologna": {
           "count": 3,
-          "sum": 28.921999999999997,
+          "sum": 28.922,
           "average": 9.640666666666666,
           "average w/o zero": 9.640666666666666
         },
@@ -52396,7 +52396,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 73.251,
+          "sum": 73.25099999999999,
           "average": 8.139,
           "average w/o zero": 8.139
         },
@@ -52438,7 +52438,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals": {
           "count": 10,
-          "sum": 7.882999999999999,
+          "sum": 7.883,
           "average": 0.7883,
           "average w/o zero": 0.7883
         },
@@ -52462,7 +52462,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.034999999999999996,
+          "sum": 0.035,
           "average": 0.00875,
           "average w/o zero": 0.00875
         },
@@ -52510,7 +52510,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cherries": {
           "count": 4,
-          "sum": 0.28500000000000003,
+          "sum": 0.285,
           "average": 0.07125,
           "average w/o zero": 0.07125
         },
@@ -52696,7 +52696,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 0.22699999999999998,
+          "sum": 0.227,
           "average": 0.03242857142857143,
           "average w/o zero": 0.03242857142857143
         },
@@ -52822,7 +52822,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Strawberries": {
           "count": 3,
-          "sum": 0.09399999999999999,
+          "sum": 0.094,
           "average": 0.03133333333333333,
           "average w/o zero": 0.03133333333333333
         },
@@ -52954,7 +52954,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 3.2510000000000003,
+          "sum": 3.251,
           "average": 0.12503846153846154,
           "average w/o zero": 0.12503846153846154
         },
@@ -53218,7 +53218,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 10.430000000000001,
+          "sum": 10.43,
           "average": 1.043,
           "average w/o zero": 1.043
         },
@@ -53272,7 +53272,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 0.8830000000000001,
+          "sum": 0.883,
           "average": 0.1766,
           "average w/o zero": 0.1766
         },
@@ -53326,7 +53326,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 0.17400000000000002,
+          "sum": 0.174,
           "average": 0.0435,
           "average w/o zero": 0.0435
         },
@@ -53470,7 +53470,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beef": {
           "count": 81,
-          "sum": 450.8890000000001,
+          "sum": 450.889,
           "average": 5.566530864197531,
           "average w/o zero": 5.566530864197531
         },
@@ -53482,7 +53482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 56.71199999999999,
+          "sum": 56.711999999999996,
           "average": 0.4200888888888889,
           "average w/o zero": 1.13424
         },
@@ -53536,7 +53536,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 109.57400000000001,
+          "sum": 109.574,
           "average": 2.067433962264151,
           "average w/o zero": 2.067433962264151
         },
@@ -53548,7 +53548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mollusks": {
           "count": 13,
-          "sum": 2.4189999999999996,
+          "sum": 2.419,
           "average": 0.18607692307692308,
           "average w/o zero": 0.18607692307692308
         },
@@ -53596,7 +53596,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 92.32900000000001,
+          "sum": 92.329,
           "average": 23.08225,
           "average w/o zero": 23.08225
         },
@@ -53680,13 +53680,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 101.63999999999999,
+          "sum": 101.64,
           "average": 6.776,
           "average w/o zero": 6.776
         },
         "Veal": {
           "count": 17,
-          "sum": 47.270999999999994,
+          "sum": 47.271,
           "average": 2.7806470588235292,
           "average w/o zero": 2.7806470588235292
         },
@@ -53710,7 +53710,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 59.885000000000005,
+          "sum": 59.885,
           "average": 1.7613235294117648,
           "average w/o zero": 1.9317741935483872
         },
@@ -53722,7 +53722,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 281.90700000000004,
+          "sum": 281.907,
           "average": 5.998021276595745,
           "average w/o zero": 5.998021276595745
         },
@@ -53734,7 +53734,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 121.61800000000001,
+          "sum": 121.618,
           "average": 4.86472,
           "average w/o zero": 4.86472
         },
@@ -53836,7 +53836,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 5.504999999999999,
+          "sum": 5.505,
           "average": 1.835,
           "average w/o zero": 1.835
         },
@@ -53908,13 +53908,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 439.09399999999994,
+          "sum": 439.094,
           "average": 5.702519480519481,
           "average w/o zero": 6.553641791044776
         },
         "Snacks": {
           "count": 65,
-          "sum": 391.9890000000001,
+          "sum": 391.989,
           "average": 6.0306,
           "average w/o zero": 6.0306
         },
@@ -54166,7 +54166,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 1.7870000000000001,
+          "sum": 1.787,
           "average": 0.3574,
           "average w/o zero": 0.3574
         },
@@ -54214,7 +54214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta": {
           "count": 4,
-          "sum": 0.7370000000000001,
+          "sum": 0.737,
           "average": 0.18425,
           "average w/o zero": 0.18425
         },
@@ -54232,13 +54232,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 270.56299999999993,
+          "sum": 270.563,
           "average": 4.831482142857143,
           "average w/o zero": 4.831482142857143
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 49.593,
+          "sum": 49.592999999999996,
           "average": 6.1991249999999996,
           "average w/o zero": 6.1991249999999996
         },
@@ -54298,7 +54298,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 2.724,
+          "sum": 2.7239999999999998,
           "average": 0.9079999999999999,
           "average w/o zero": 0.9079999999999999
         },
@@ -54394,7 +54394,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Formulated bar": {
           "count": 5,
-          "sum": 13.473,
+          "sum": 13.472999999999999,
           "average": 2.6946,
           "average w/o zero": 2.6946
         },
@@ -54496,7 +54496,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 10.399999999999999,
+          "sum": 10.4,
           "average": 2.6,
           "average w/o zero": 2.6
         },
@@ -54520,7 +54520,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 66.76400000000001,
+          "sum": 66.764,
           "average": 2.781833333333333,
           "average w/o zero": 2.781833333333333
         },
@@ -54774,7 +54774,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 34.17000000000001,
+          "sum": 34.17,
           "average": 0.6973469387755102,
           "average w/o zero": 0.7593333333333333
         },
@@ -54816,7 +54816,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 3.3329999999999997,
+          "sum": 3.333,
           "average": 0.13332,
           "average w/o zero": 0.138875
         },
@@ -54828,7 +54828,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Yogurt": {
           "count": 11,
-          "sum": 1.2620000000000002,
+          "sum": 1.262,
           "average": 0.11472727272727272,
           "average w/o zero": 0.11472727272727272
         },
@@ -54984,7 +54984,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 88.25900000000001,
+          "sum": 88.259,
           "average": 4.41295,
           "average w/o zero": 4.41295
         },
@@ -55032,13 +55032,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Oil": {
           "count": 21,
-          "sum": 766.0950000000001,
+          "sum": 766.095,
           "average": 36.480714285714285,
           "average w/o zero": 36.480714285714285
         },
         "Margarine": {
           "count": 4,
-          "sum": 88.99599999999998,
+          "sum": 88.996,
           "average": 22.249,
           "average w/o zero": 22.249
         },
@@ -55056,7 +55056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Margarine-like": {
           "count": 3,
-          "sum": 65.68900000000001,
+          "sum": 65.689,
           "average": 21.896333333333335,
           "average w/o zero": 21.896333333333335
         },
@@ -55278,7 +55278,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 33.986000000000004,
+          "sum": 33.986,
           "average": 3.776222222222222,
           "average w/o zero": 3.776222222222222
         },
@@ -55314,13 +55314,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 177.14799999999985,
+          "sum": 177.148,
           "average": 1.4640330578512397,
           "average w/o zero": 1.4640330578512397
         },
         "Cereals": {
           "count": 10,
-          "sum": 12.149999999999997,
+          "sum": 12.15,
           "average": 1.2149999999999999,
           "average w/o zero": 1.2149999999999999
         },
@@ -55578,7 +55578,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 0.29000000000000004,
+          "sum": 0.29,
           "average": 0.041428571428571426,
           "average w/o zero": 0.041428571428571426
         },
@@ -55782,7 +55782,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 105.24600000000002,
+          "sum": 105.246,
           "average": 1.547735294117647,
           "average w/o zero": 1.547735294117647
         },
@@ -55806,7 +55806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Asparagus": {
           "count": 3,
-          "sum": 0.5189999999999999,
+          "sum": 0.519,
           "average": 0.173,
           "average w/o zero": 0.173
         },
@@ -56088,7 +56088,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 1.0399999999999998,
+          "sum": 1.04,
           "average": 0.14857142857142858,
           "average w/o zero": 0.14857142857142858
         },
@@ -56196,7 +56196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 1.4809999999999999,
+          "sum": 1.481,
           "average": 0.2962,
           "average w/o zero": 0.2962
         },
@@ -56418,7 +56418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 77.44500000000004,
+          "sum": 77.445,
           "average": 1.4612264150943397,
           "average w/o zero": 1.4612264150943397
         },
@@ -56538,7 +56538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soymilk": {
           "count": 4,
-          "sum": 2.5250000000000004,
+          "sum": 2.525,
           "average": 0.63125,
           "average w/o zero": 0.63125
         },
@@ -56574,7 +56574,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 16.113999999999997,
+          "sum": 16.114,
           "average": 1.007125,
           "average w/o zero": 1.007125
         },
@@ -56592,7 +56592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 56.03500000000001,
+          "sum": 56.035,
           "average": 1.6480882352941177,
           "average w/o zero": 1.75109375
         },
@@ -56604,7 +56604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 193.03399999999993,
+          "sum": 193.034,
           "average": 4.107106382978723,
           "average w/o zero": 4.107106382978723
         },
@@ -56652,7 +56652,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 16.778999999999996,
+          "sum": 16.779,
           "average": 3.3558,
           "average w/o zero": 3.3558
         },
@@ -56676,7 +56676,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pie": {
           "count": 14,
-          "sum": 41.86200000000001,
+          "sum": 41.862,
           "average": 2.990142857142857,
           "average w/o zero": 2.990142857142857
         },
@@ -56694,7 +56694,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 16.570999999999998,
+          "sum": 16.571,
           "average": 1.3809166666666666,
           "average w/o zero": 1.3809166666666666
         },
@@ -56790,13 +56790,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 181.80300000000003,
+          "sum": 181.803,
           "average": 2.361077922077922,
           "average w/o zero": 2.7134776119402986
         },
         "Snacks": {
           "count": 65,
-          "sum": 349.46000000000004,
+          "sum": 349.46,
           "average": 5.376307692307693,
           "average w/o zero": 5.376307692307693
         },
@@ -56892,7 +56892,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen yogurts": {
           "count": 3,
-          "sum": 0.41200000000000003,
+          "sum": 0.412,
           "average": 0.13733333333333334,
           "average w/o zero": 0.13733333333333334
         },
@@ -57048,7 +57048,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 1.6880000000000002,
+          "sum": 1.688,
           "average": 0.3376,
           "average w/o zero": 0.3376
         },
@@ -57114,7 +57114,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 145.29500000000002,
+          "sum": 145.295,
           "average": 2.5945535714285715,
           "average w/o zero": 2.5945535714285715
         },
@@ -57138,7 +57138,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Food": {
           "count": 11,
-          "sum": 29.070000000000004,
+          "sum": 29.07,
           "average": 2.6427272727272726,
           "average w/o zero": 2.6427272727272726
         },
@@ -57348,7 +57348,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta mix": {
           "count": 3,
-          "sum": 1.7200000000000002,
+          "sum": 1.72,
           "average": 0.5733333333333334,
           "average w/o zero": 0.5733333333333334
         },
@@ -57378,7 +57378,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 4.111000000000001,
+          "sum": 4.111,
           "average": 1.02775,
           "average w/o zero": 1.02775
         },
@@ -57644,7 +57644,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Fat.Saturated Fat": {
         "Butter": {
           "count": 4,
-          "sum": 181.568,
+          "sum": 181.56799999999998,
           "average": 45.391999999999996,
           "average w/o zero": 45.391999999999996
         },
@@ -57656,7 +57656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 616.2629999999999,
+          "sum": 616.263,
           "average": 12.576795918367347,
           "average w/o zero": 13.694733333333334
         },
@@ -57668,7 +57668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream": {
           "count": 6,
-          "sum": 65.05199999999999,
+          "sum": 65.052,
           "average": 10.842,
           "average w/o zero": 10.842
         },
@@ -57716,7 +57716,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 41.846,
+          "sum": 41.846000000000004,
           "average": 5.2307500000000005,
           "average w/o zero": 5.978
         },
@@ -57854,7 +57854,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 96.50200000000004,
+          "sum": 96.502,
           "average": 0.5216324324324324,
           "average w/o zero": 0.5848606060606061
         },
@@ -57878,7 +57878,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant Formula": {
           "count": 5,
-          "sum": 35.90599999999999,
+          "sum": 35.906,
           "average": 7.1812,
           "average w/o zero": 7.1812
         },
@@ -57902,7 +57902,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 118.08500000000001,
+          "sum": 118.085,
           "average": 3.578333333333333,
           "average w/o zero": 3.69015625
         },
@@ -57914,7 +57914,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oil": {
           "count": 21,
-          "sum": 492.40599999999995,
+          "sum": 492.406,
           "average": 23.447904761904763,
           "average w/o zero": 23.447904761904763
         },
@@ -58052,7 +58052,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bologna": {
           "count": 3,
-          "sum": 23.340000000000003,
+          "sum": 23.34,
           "average": 7.78,
           "average w/o zero": 7.78
         },
@@ -58160,7 +58160,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 59.919,
+          "sum": 59.919000000000004,
           "average": 6.657666666666667,
           "average w/o zero": 6.657666666666667
         },
@@ -58196,7 +58196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 130.87899999999996,
+          "sum": 130.879,
           "average": 1.0816446280991736,
           "average w/o zero": 1.0906583333333333
         },
@@ -58226,7 +58226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.13299999999999998,
+          "sum": 0.133,
           "average": 0.03325,
           "average w/o zero": 0.03325
         },
@@ -58280,7 +58280,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 0.30900000000000005,
+          "sum": 0.309,
           "average": 0.07725,
           "average w/o zero": 0.07725
         },
@@ -58502,7 +58502,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peaches": {
           "count": 3,
-          "sum": 0.10700000000000001,
+          "sum": 0.107,
           "average": 0.035666666666666666,
           "average w/o zero": 0.035666666666666666
         },
@@ -58586,7 +58586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Strawberries": {
           "count": 3,
-          "sum": 0.034999999999999996,
+          "sum": 0.035,
           "average": 0.011666666666666667,
           "average w/o zero": 0.011666666666666667
         },
@@ -58664,7 +58664,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 296.4979999999999,
+          "sum": 296.498,
           "average": 4.360264705882353,
           "average w/o zero": 4.360264705882353
         },
@@ -58688,7 +58688,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Asparagus": {
           "count": 3,
-          "sum": 0.28300000000000003,
+          "sum": 0.283,
           "average": 0.09433333333333332,
           "average w/o zero": 0.09433333333333332
         },
@@ -58964,13 +58964,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 0.48299999999999993,
+          "sum": 0.483,
           "average": 0.06899999999999999,
           "average w/o zero": 0.06899999999999999
         },
         "Peppers": {
           "count": 7,
-          "sum": 0.39999999999999997,
+          "sum": 0.4,
           "average": 0.05714285714285714,
           "average w/o zero": 0.05714285714285714
         },
@@ -59042,7 +59042,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spinach": {
           "count": 3,
-          "sum": 0.30100000000000005,
+          "sum": 0.301,
           "average": 0.10033333333333333,
           "average w/o zero": 0.10033333333333333
         },
@@ -59234,7 +59234,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beef": {
           "count": 81,
-          "sum": 411.3970000000001,
+          "sum": 411.397,
           "average": 5.078975308641976,
           "average w/o zero": 5.078975308641976
         },
@@ -59246,7 +59246,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 82.76100000000001,
+          "sum": 82.761,
           "average": 0.6130444444444444,
           "average w/o zero": 1.65522
         },
@@ -59300,7 +59300,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 66.20599999999997,
+          "sum": 66.206,
           "average": 1.2491698113207548,
           "average w/o zero": 1.2491698113207548
         },
@@ -59312,7 +59312,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mollusks": {
           "count": 13,
-          "sum": 3.9219999999999997,
+          "sum": 3.922,
           "average": 0.3016923076923077,
           "average w/o zero": 0.3016923076923077
         },
@@ -59354,7 +59354,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanuts": {
           "count": 6,
-          "sum": 42.120999999999995,
+          "sum": 42.121,
           "average": 7.020166666666666,
           "average w/o zero": 7.020166666666666
         },
@@ -59444,13 +59444,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 100.44999999999999,
+          "sum": 100.45,
           "average": 6.696666666666666,
           "average w/o zero": 6.696666666666666
         },
         "Veal": {
           "count": 17,
-          "sum": 46.11899999999999,
+          "sum": 46.119,
           "average": 2.7128823529411763,
           "average w/o zero": 2.7128823529411763
         },
@@ -59474,7 +59474,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 47.459999999999994,
+          "sum": 47.46,
           "average": 1.3958823529411764,
           "average w/o zero": 1.582
         },
@@ -59576,7 +59576,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 13.727999999999998,
+          "sum": 13.728,
           "average": 1.144,
           "average w/o zero": 1.144
         },
@@ -59600,7 +59600,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 8.254999999999999,
+          "sum": 8.255,
           "average": 2.7516666666666665,
           "average w/o zero": 2.7516666666666665
         },
@@ -59672,13 +59672,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 800.1460000000001,
+          "sum": 800.146,
           "average": 10.391506493506494,
           "average w/o zero": 11.430657142857143
         },
         "Snacks": {
           "count": 65,
-          "sum": 300.24900000000014,
+          "sum": 300.249,
           "average": 4.6192153846153845,
           "average w/o zero": 4.6192153846153845
         },
@@ -59702,7 +59702,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 49.260999999999996,
+          "sum": 49.261,
           "average": 6.157625,
           "average w/o zero": 6.157625
         },
@@ -59720,7 +59720,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Syrups": {
           "count": 10,
-          "sum": 4.7509999999999994,
+          "sum": 4.751,
           "average": 0.4751,
           "average w/o zero": 1.18775
         },
@@ -59756,7 +59756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 6.789000000000001,
+          "sum": 6.789,
           "average": 0.848625,
           "average w/o zero": 0.848625
         },
@@ -59930,7 +59930,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 1.1469999999999998,
+          "sum": 1.147,
           "average": 0.2294,
           "average w/o zero": 0.2294
         },
@@ -59996,7 +59996,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 226.71800000000002,
+          "sum": 226.718,
           "average": 4.048535714285714,
           "average w/o zero": 4.122145454545454
         },
@@ -60038,7 +60038,7 @@ VISUALIZER_DATA_BARS = [
         },
         "School Lunch": {
           "count": 8,
-          "sum": 28.566000000000003,
+          "sum": 28.566,
           "average": 3.57075,
           "average w/o zero": 3.57075
         },
@@ -60062,7 +60062,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 3.3739999999999997,
+          "sum": 3.374,
           "average": 1.1246666666666667,
           "average w/o zero": 1.1246666666666667
         },
@@ -60158,7 +60158,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Formulated bar": {
           "count": 5,
-          "sum": 20.825999999999997,
+          "sum": 20.826,
           "average": 4.1652,
           "average w/o zero": 4.1652
         },
@@ -60260,7 +60260,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 15.748000000000001,
+          "sum": 15.748,
           "average": 3.937,
           "average w/o zero": 3.937
         },
@@ -60538,7 +60538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 1003.8300000000002,
+          "sum": 1003.83,
           "average": 20.486326530612246,
           "average w/o zero": 22.307333333333332
         },
@@ -60580,7 +60580,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 86.05000000000003,
+          "sum": 86.05,
           "average": 3.442,
           "average w/o zero": 3.5854166666666667
         },
@@ -60592,7 +60592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Yogurt": {
           "count": 11,
-          "sum": 20.67,
+          "sum": 20.669999999999998,
           "average": 1.8790909090909091,
           "average w/o zero": 1.8790909090909091
         },
@@ -60682,7 +60682,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 271.84,
+          "sum": 271.84000000000003,
           "average": 11.326666666666666,
           "average w/o zero": 11.326666666666666
         },
@@ -60736,7 +60736,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 367.70999999999975,
+          "sum": 367.71,
           "average": 1.9876216216216216,
           "average w/o zero": 2.18875
         },
@@ -60748,7 +60748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 416.71999999999997,
+          "sum": 416.72,
           "average": 20.836,
           "average w/o zero": 20.836
         },
@@ -60784,7 +60784,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 784.0600000000002,
+          "sum": 784.06,
           "average": 23.759393939393938,
           "average w/o zero": 24.501875
         },
@@ -60844,7 +60844,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 426.90000000000003,
+          "sum": 426.9,
           "average": 12.197142857142858,
           "average w/o zero": 12.197142857142858
         },
@@ -60862,7 +60862,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 246.04999999999998,
+          "sum": 246.05,
           "average": 7.6890625,
           "average w/o zero": 7.6890625
         },
@@ -60952,7 +60952,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 116.10000000000001,
+          "sum": 116.1,
           "average": 16.585714285714285,
           "average w/o zero": 16.585714285714285
         },
@@ -61042,7 +61042,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 180.54999999999998,
+          "sum": 180.55,
           "average": 20.06111111111111,
           "average w/o zero": 20.06111111111111
         },
@@ -61078,7 +61078,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 558.3299999999999,
+          "sum": 558.33,
           "average": 4.614297520661157,
           "average w/o zero": 4.614297520661157
         },
@@ -61102,7 +61102,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apples": {
           "count": 3,
-          "sum": 0.6200000000000001,
+          "sum": 0.62,
           "average": 0.20666666666666667,
           "average w/o zero": 0.20666666666666667
         },
@@ -61156,13 +61156,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cherries": {
           "count": 4,
-          "sum": 1.1600000000000001,
+          "sum": 1.16,
           "average": 0.29,
           "average w/o zero": 0.29
         },
         "Blueberries": {
           "count": 4,
-          "sum": 3.8699999999999997,
+          "sum": 3.87,
           "average": 0.9675,
           "average w/o zero": 0.9675
         },
@@ -61546,7 +61546,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 853.9899999999998,
+          "sum": 853.99,
           "average": 12.558676470588235,
           "average w/o zero": 12.558676470588235
         },
@@ -61588,7 +61588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lima beans": {
           "count": 4,
-          "sum": 1.3399999999999999,
+          "sum": 1.34,
           "average": 0.335,
           "average w/o zero": 0.335
         },
@@ -61606,7 +61606,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beets": {
           "count": 4,
-          "sum": 0.4600000000000001,
+          "sum": 0.46,
           "average": 0.115,
           "average w/o zero": 0.115
         },
@@ -61864,7 +61864,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 23.209999999999997,
+          "sum": 23.21,
           "average": 2.321,
           "average w/o zero": 2.321
         },
@@ -62110,7 +62110,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 903.5500000000002,
+          "sum": 903.55,
           "average": 47.555263157894736,
           "average w/o zero": 47.555263157894736
         },
@@ -62128,7 +62128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 190.33000000000007,
+          "sum": 190.33,
           "average": 1.409851851851852,
           "average w/o zero": 2.798970588235294
         },
@@ -62182,7 +62182,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 295.8499999999999,
+          "sum": 295.85,
           "average": 5.582075471698113,
           "average w/o zero": 5.582075471698113
         },
@@ -62206,7 +62206,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chickpeas (garbanzo beans": {
           "count": 3,
-          "sum": 10.579999999999998,
+          "sum": 10.58,
           "average": 3.5266666666666664,
           "average w/o zero": 3.5266666666666664
         },
@@ -62242,7 +62242,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 187.26999999999998,
+          "sum": 187.27,
           "average": 46.8175,
           "average w/o zero": 46.8175
         },
@@ -62326,19 +62326,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 244.78000000000003,
+          "sum": 244.78,
           "average": 16.318666666666665,
           "average w/o zero": 16.318666666666665
         },
         "Veal": {
           "count": 17,
-          "sum": 123.99000000000001,
+          "sum": 123.99,
           "average": 7.293529411764706,
           "average w/o zero": 7.293529411764706
         },
         "Game meat": {
           "count": 16,
-          "sum": 98.55999999999999,
+          "sum": 98.56,
           "average": 6.16,
           "average w/o zero": 6.16
         },
@@ -62356,7 +62356,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 194.04999999999995,
+          "sum": 194.05,
           "average": 5.70735294117647,
           "average w/o zero": 5.88030303030303
         },
@@ -62368,7 +62368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 819.8999999999999,
+          "sum": 819.9,
           "average": 17.44468085106383,
           "average w/o zero": 17.44468085106383
         },
@@ -62554,13 +62554,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 1555.0700000000002,
+          "sum": 1555.07,
           "average": 20.195714285714285,
           "average w/o zero": 21.30232876712329
         },
         "Snacks": {
           "count": 65,
-          "sum": 1137.6999999999998,
+          "sum": 1137.7,
           "average": 17.50307692307692,
           "average w/o zero": 17.50307692307692
         },
@@ -62638,7 +62638,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 20.209999999999997,
+          "sum": 20.21,
           "average": 2.52625,
           "average w/o zero": 2.52625
         },
@@ -62656,7 +62656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen yogurts": {
           "count": 3,
-          "sum": 12.799999999999999,
+          "sum": 12.8,
           "average": 4.266666666666667,
           "average w/o zero": 4.266666666666667
         },
@@ -62812,7 +62812,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 5.300000000000001,
+          "sum": 5.3,
           "average": 1.06,
           "average w/o zero": 1.06
         },
@@ -62842,7 +62842,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wheat flour": {
           "count": 4,
-          "sum": 6.119999999999999,
+          "sum": 6.12,
           "average": 1.53,
           "average w/o zero": 1.53
         },
@@ -62878,7 +62878,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 706.7500000000001,
+          "sum": 706.75,
           "average": 12.620535714285714,
           "average w/o zero": 12.620535714285714
         },
@@ -62896,7 +62896,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 58.309999999999995,
+          "sum": 58.31,
           "average": 11.661999999999999,
           "average w/o zero": 11.661999999999999
         },
@@ -62944,7 +62944,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ravioli": {
           "count": 3,
-          "sum": 7.470000000000001,
+          "sum": 7.47,
           "average": 2.49,
           "average w/o zero": 2.49
         },
@@ -63166,7 +63166,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 241.47000000000006,
+          "sum": 241.47,
           "average": 10.06125,
           "average w/o zero": 10.06125
         },
@@ -66302,7 +66302,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 2.7330000000000005,
+          "sum": 2.733,
           "average": 0.055775510204081634,
           "average w/o zero": 0.0569375
         },
@@ -66338,13 +66338,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Sour cream": {
           "count": 3,
-          "sum": 0.09000000000000001,
+          "sum": 0.09,
           "average": 0.030000000000000002,
           "average w/o zero": 0.030000000000000002
         },
         "Milk": {
           "count": 25,
-          "sum": 0.7870000000000003,
+          "sum": 0.787,
           "average": 0.03148,
           "average w/o zero": 0.03148
         },
@@ -66446,7 +66446,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 21.221000000000004,
+          "sum": 21.221,
           "average": 0.8842083333333334,
           "average w/o zero": 0.8842083333333334
         },
@@ -66500,7 +66500,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 15.368999999999984,
+          "sum": 15.369,
           "average": 0.08307567567567567,
           "average w/o zero": 0.08352717391304348
         },
@@ -66512,7 +66512,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 6.580000000000001,
+          "sum": 6.58,
           "average": 0.329,
           "average w/o zero": 0.329
         },
@@ -66548,7 +66548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 1.0310000000000001,
+          "sum": 1.031,
           "average": 0.03124242424242424,
           "average w/o zero": 0.035551724137931034
         },
@@ -66608,7 +66608,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 4.491999999999999,
+          "sum": 4.492,
           "average": 0.12834285714285715,
           "average w/o zero": 0.12834285714285715
         },
@@ -66662,7 +66662,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 1.9209999999999998,
+          "sum": 1.921,
           "average": 0.09147619047619047,
           "average w/o zero": 0.09147619047619047
         },
@@ -66806,7 +66806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 1.2959999999999998,
+          "sum": 1.296,
           "average": 0.144,
           "average w/o zero": 0.144
         },
@@ -66848,7 +66848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals": {
           "count": 10,
-          "sum": 2.5359999999999996,
+          "sum": 2.536,
           "average": 0.2536,
           "average w/o zero": 0.2536
         },
@@ -66872,7 +66872,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.08399999999999999,
+          "sum": 0.084,
           "average": 0.021,
           "average w/o zero": 0.021
         },
@@ -66920,7 +66920,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cherries": {
           "count": 4,
-          "sum": 0.43400000000000005,
+          "sum": 0.434,
           "average": 0.1085,
           "average w/o zero": 0.1085
         },
@@ -67310,7 +67310,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 6.748000000000002,
+          "sum": 6.748,
           "average": 0.09923529411764706,
           "average w/o zero": 0.09923529411764706
         },
@@ -67352,19 +67352,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Lima beans": {
           "count": 4,
-          "sum": 0.9069999999999999,
+          "sum": 0.907,
           "average": 0.22675,
           "average w/o zero": 0.22675
         },
         "Mung beans": {
           "count": 3,
-          "sum": 0.44200000000000006,
+          "sum": 0.442,
           "average": 0.14733333333333334,
           "average w/o zero": 0.14733333333333334
         },
         "Beans": {
           "count": 26,
-          "sum": 5.677000000000001,
+          "sum": 5.677,
           "average": 0.21834615384615386,
           "average w/o zero": 0.21834615384615386
         },
@@ -67556,7 +67556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lettuce": {
           "count": 5,
-          "sum": 0.146,
+          "sum": 0.14600000000000002,
           "average": 0.0292,
           "average w/o zero": 0.0292
         },
@@ -67568,7 +67568,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 1.9529999999999998,
+          "sum": 1.953,
           "average": 0.48825,
           "average w/o zero": 0.48825
         },
@@ -67628,7 +67628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 1.8749999999999998,
+          "sum": 1.875,
           "average": 0.1875,
           "average w/o zero": 0.1875
         },
@@ -67682,7 +67682,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 7.387999999999999,
+          "sum": 7.388,
           "average": 1.4776,
           "average w/o zero": 1.4776
         },
@@ -67724,7 +67724,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 1.6760000000000002,
+          "sum": 1.676,
           "average": 0.3352,
           "average w/o zero": 0.3352
         },
@@ -67736,7 +67736,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 1.0539999999999998,
+          "sum": 1.054,
           "average": 0.2635,
           "average w/o zero": 0.2635
         },
@@ -67748,7 +67748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnip greens": {
           "count": 3,
-          "sum": 0.48600000000000004,
+          "sum": 0.486,
           "average": 0.162,
           "average w/o zero": 0.162
         },
@@ -67874,13 +67874,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 20.035999999999998,
+          "sum": 20.036,
           "average": 1.0545263157894738,
           "average w/o zero": 1.0545263157894738
         },
         "Beef": {
           "count": 81,
-          "sum": 36.88700000000003,
+          "sum": 36.887,
           "average": 0.45539506172839506,
           "average w/o zero": 0.4610875
         },
@@ -67892,7 +67892,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 20.759000000000015,
+          "sum": 20.759,
           "average": 0.15377037037037036,
           "average w/o zero": 0.19400934579439252
         },
@@ -67946,7 +67946,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 4.0790000000000015,
+          "sum": 4.079,
           "average": 0.0769622641509434,
           "average w/o zero": 0.0769622641509434
         },
@@ -67994,13 +67994,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Noodles": {
           "count": 6,
-          "sum": 0.8019999999999999,
+          "sum": 0.802,
           "average": 0.13366666666666666,
           "average w/o zero": 0.13366666666666666
         },
         "Peanuts": {
           "count": 6,
-          "sum": 3.5649999999999995,
+          "sum": 3.565,
           "average": 0.5941666666666666,
           "average w/o zero": 0.5941666666666666
         },
@@ -68066,7 +68066,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soymilk": {
           "count": 4,
-          "sum": 0.6559999999999999,
+          "sum": 0.656,
           "average": 0.164,
           "average w/o zero": 0.164
         },
@@ -68090,7 +68090,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 1.8090000000000002,
+          "sum": 1.809,
           "average": 0.1206,
           "average w/o zero": 0.1206
         },
@@ -68120,7 +68120,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 5.853000000000001,
+          "sum": 5.853,
           "average": 0.1721470588235294,
           "average w/o zero": 0.1721470588235294
         },
@@ -68132,7 +68132,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 9.123999999999999,
+          "sum": 9.124,
           "average": 0.1941276595744681,
           "average w/o zero": 0.1941276595744681
         },
@@ -68144,7 +68144,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 5.811000000000001,
+          "sum": 5.811,
           "average": 0.23244,
           "average w/o zero": 0.23244
         },
@@ -68198,13 +68198,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 0.923,
+          "sum": 0.9229999999999999,
           "average": 0.23074999999999998,
           "average w/o zero": 0.23074999999999998
         },
         "Pie": {
           "count": 14,
-          "sum": 0.9790000000000001,
+          "sum": 0.979,
           "average": 0.06992857142857142,
           "average w/o zero": 0.06992857142857142
         },
@@ -68222,7 +68222,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 1.9709999999999999,
+          "sum": 1.971,
           "average": 0.16425,
           "average w/o zero": 0.16425
         },
@@ -68318,13 +68318,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 21.771999999999995,
+          "sum": 21.772,
           "average": 0.28275324675324676,
           "average w/o zero": 0.29421621621621624
         },
         "Snacks": {
           "count": 65,
-          "sum": 17.468000000000004,
+          "sum": 17.468,
           "average": 0.26873846153846154,
           "average w/o zero": 0.26873846153846154
         },
@@ -68348,7 +68348,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 0.5089999999999999,
+          "sum": 0.509,
           "average": 0.063625,
           "average w/o zero": 0.063625
         },
@@ -68576,7 +68576,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 0.7460000000000001,
+          "sum": 0.746,
           "average": 0.1492,
           "average w/o zero": 0.1492
         },
@@ -68606,7 +68606,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wheat flour": {
           "count": 4,
-          "sum": 0.88,
+          "sum": 0.8799999999999999,
           "average": 0.21999999999999997,
           "average w/o zero": 0.21999999999999997
         },
@@ -68642,7 +68642,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 5.899000000000002,
+          "sum": 5.899,
           "average": 0.10533928571428572,
           "average w/o zero": 0.10533928571428572
         },
@@ -68660,7 +68660,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 0.953,
+          "sum": 0.9530000000000001,
           "average": 0.1906,
           "average w/o zero": 0.1906
         },
@@ -68756,7 +68756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg rolls": {
           "count": 3,
-          "sum": 0.29300000000000004,
+          "sum": 0.293,
           "average": 0.09766666666666667,
           "average w/o zero": 0.09766666666666667
         },
@@ -68876,7 +68876,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta mix": {
           "count": 3,
-          "sum": 0.4570000000000001,
+          "sum": 0.457,
           "average": 0.15233333333333335,
           "average w/o zero": 0.15233333333333335
         },
@@ -68906,7 +68906,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 0.34400000000000003,
+          "sum": 0.344,
           "average": 0.086,
           "average w/o zero": 0.086
         },
@@ -68930,7 +68930,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 1.5879999999999999,
+          "sum": 1.588,
           "average": 0.06616666666666667,
           "average w/o zero": 0.06616666666666667
         },
@@ -69184,7 +69184,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 16.560000000000006,
+          "sum": 16.56,
           "average": 0.3379591836734694,
           "average w/o zero": 0.36
         },
@@ -69226,7 +69226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 3.589999999999999,
+          "sum": 3.59,
           "average": 0.1436,
           "average w/o zero": 0.17095238095238094
         },
@@ -69382,7 +69382,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 703.4699999999998,
+          "sum": 703.47,
           "average": 3.8025405405405404,
           "average w/o zero": 3.9969886363636364
         },
@@ -69394,7 +69394,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 144.06000000000003,
+          "sum": 144.06,
           "average": 7.203,
           "average w/o zero": 7.203
         },
@@ -69430,7 +69430,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 11.979999999999997,
+          "sum": 11.98,
           "average": 0.36303030303030304,
           "average w/o zero": 0.3864516129032258
         },
@@ -69442,7 +69442,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oil": {
           "count": 21,
-          "sum": 0.9900000000000002,
+          "sum": 0.9900000000000001,
           "average": 0.047142857142857146,
           "average w/o zero": 0.12375000000000001
         },
@@ -69508,7 +69508,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 36.480000000000004,
+          "sum": 36.48,
           "average": 1.14,
           "average w/o zero": 1.14
         },
@@ -69532,7 +69532,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 55.78000000000001,
+          "sum": 55.78,
           "average": 0.688641975308642,
           "average w/o zero": 0.688641975308642
         },
@@ -69730,7 +69730,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals": {
           "count": 10,
-          "sum": 173.03999999999996,
+          "sum": 173.04,
           "average": 17.304,
           "average w/o zero": 17.304
         },
@@ -69754,7 +69754,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 1.2799999999999998,
+          "sum": 1.28,
           "average": 0.32,
           "average w/o zero": 0.32
         },
@@ -70264,7 +70264,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Broccoli": {
           "count": 3,
-          "sum": 1.9299999999999997,
+          "sum": 1.93,
           "average": 0.6433333333333333,
           "average w/o zero": 0.6433333333333333
         },
@@ -70510,7 +70510,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 13.439999999999998,
+          "sum": 13.44,
           "average": 1.344,
           "average w/o zero": 1.344
         },
@@ -70588,7 +70588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 2.9099999999999997,
+          "sum": 2.91,
           "average": 0.7275,
           "average w/o zero": 0.7275
         },
@@ -70756,7 +70756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 57.959999999999994,
+          "sum": 57.96,
           "average": 3.0505263157894738,
           "average w/o zero": 3.0505263157894738
         },
@@ -70828,19 +70828,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 59.24000000000002,
+          "sum": 59.24,
           "average": 1.1177358490566038,
           "average w/o zero": 1.1177358490566038
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 6.2700000000000005,
+          "sum": 6.27,
           "average": 0.627,
           "average w/o zero": 0.627
         },
         "Mollusks": {
           "count": 13,
-          "sum": 43.029999999999994,
+          "sum": 43.03,
           "average": 3.31,
           "average w/o zero": 3.31
         },
@@ -70882,13 +70882,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanuts": {
           "count": 6,
-          "sum": 11.79,
+          "sum": 11.790000000000001,
           "average": 1.965,
           "average w/o zero": 1.965
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 21.97,
+          "sum": 21.970000000000002,
           "average": 5.492500000000001,
           "average w/o zero": 5.492500000000001
         },
@@ -70972,13 +70972,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 29.42,
+          "sum": 29.419999999999998,
           "average": 1.9613333333333334,
           "average w/o zero": 1.9613333333333334
         },
         "Veal": {
           "count": 17,
-          "sum": 17.759999999999994,
+          "sum": 17.759999999999998,
           "average": 1.0447058823529412,
           "average w/o zero": 1.0447058823529412
         },
@@ -71002,19 +71002,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 95.78000000000002,
+          "sum": 95.78,
           "average": 2.8170588235294116,
           "average w/o zero": 2.8170588235294116
         },
         "Cake": {
           "count": 21,
-          "sum": 40.91000000000001,
+          "sum": 40.910000000000004,
           "average": 1.948095238095238,
           "average w/o zero": 1.948095238095238
         },
         "Cookies": {
           "count": 47,
-          "sum": 140.34999999999997,
+          "sum": 140.35,
           "average": 2.9861702127659573,
           "average w/o zero": 3.0510869565217393
         },
@@ -71050,7 +71050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Danish pastry": {
           "count": 3,
-          "sum": 5.529999999999999,
+          "sum": 5.53,
           "average": 1.8433333333333333,
           "average w/o zero": 1.8433333333333333
         },
@@ -71086,7 +71086,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pie": {
           "count": 14,
-          "sum": 11.809999999999999,
+          "sum": 11.81,
           "average": 0.8435714285714285,
           "average w/o zero": 0.8435714285714285
         },
@@ -71104,7 +71104,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 37.660000000000004,
+          "sum": 37.66,
           "average": 3.138333333333333,
           "average w/o zero": 3.138333333333333
         },
@@ -71128,7 +71128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 7.489999999999999,
+          "sum": 7.49,
           "average": 2.4966666666666666,
           "average w/o zero": 2.4966666666666666
         },
@@ -71200,13 +71200,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 86.46000000000001,
+          "sum": 86.46,
           "average": 1.1228571428571428,
           "average w/o zero": 1.2008333333333334
         },
         "Snacks": {
           "count": 65,
-          "sum": 159.39000000000004,
+          "sum": 159.39000000000001,
           "average": 2.452153846153846,
           "average w/o zero": 2.452153846153846
         },
@@ -71284,7 +71284,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 6.369999999999999,
+          "sum": 6.37,
           "average": 0.79625,
           "average w/o zero": 0.79625
         },
@@ -71350,7 +71350,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sugars": {
           "count": 3,
-          "sum": 0.8200000000000001,
+          "sum": 0.82,
           "average": 0.2733333333333333,
           "average w/o zero": 0.2733333333333333
         },
@@ -71524,13 +71524,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 102.23000000000003,
+          "sum": 102.23,
           "average": 1.8255357142857143,
           "average w/o zero": 1.8255357142857143
         },
         "Fast Foods": {
           "count": 8,
-          "sum": 8.129999999999999,
+          "sum": 8.13,
           "average": 1.01625,
           "average w/o zero": 1.01625
         },
@@ -71548,7 +71548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Food": {
           "count": 11,
-          "sum": 24.179999999999996,
+          "sum": 24.18,
           "average": 2.1981818181818182,
           "average w/o zero": 2.1981818181818182
         },
@@ -71638,7 +71638,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg rolls": {
           "count": 3,
-          "sum": 5.19,
+          "sum": 5.1899999999999995,
           "average": 1.73,
           "average w/o zero": 1.73
         },
@@ -71686,7 +71686,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Formulated bar": {
           "count": 5,
-          "sum": 31.31,
+          "sum": 31.310000000000002,
           "average": 6.2620000000000005,
           "average w/o zero": 6.2620000000000005
         },
@@ -71788,7 +71788,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 8.239999999999998,
+          "sum": 8.24,
           "average": 2.06,
           "average w/o zero": 2.06
         },
@@ -71812,7 +71812,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 23.560000000000006,
+          "sum": 23.560000000000002,
           "average": 0.9816666666666667,
           "average w/o zero": 0.9816666666666667
         },
@@ -83618,7 +83618,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream substitute": {
           "count": 6,
-          "sum": 0.6400000000000001,
+          "sum": 0.64,
           "average": 0.10666666666666667,
           "average w/o zero": 0.10666666666666667
         },
@@ -83654,7 +83654,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 13.9,
+          "sum": 13.899999999999999,
           "average": 1.7374999999999998,
           "average w/o zero": 1.7374999999999998
         },
@@ -83792,7 +83792,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 169.19000000000008,
+          "sum": 169.19,
           "average": 0.9145405405405406,
           "average w/o zero": 0.9245355191256831
         },
@@ -83852,7 +83852,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oil": {
           "count": 21,
-          "sum": 0.18,
+          "sum": 0.18000000000000002,
           "average": 0.008571428571428572,
           "average w/o zero": 0.022500000000000003
         },
@@ -83900,7 +83900,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 66.02000000000001,
+          "sum": 66.02,
           "average": 1.8862857142857143,
           "average w/o zero": 1.8862857142857143
         },
@@ -83918,7 +83918,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 80.55999999999997,
+          "sum": 80.56,
           "average": 2.5175,
           "average w/o zero": 2.5175
         },
@@ -83954,7 +83954,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 4.52,
+          "sum": 4.5200000000000005,
           "average": 0.21523809523809526,
           "average w/o zero": 0.21523809523809526
         },
@@ -84098,7 +84098,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 18.950000000000003,
+          "sum": 18.95,
           "average": 2.1055555555555556,
           "average w/o zero": 2.1055555555555556
         },
@@ -84134,13 +84134,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 963.8600000000004,
+          "sum": 963.86,
           "average": 7.965785123966942,
           "average w/o zero": 7.965785123966942
         },
         "Cereals": {
           "count": 10,
-          "sum": 17.849999999999998,
+          "sum": 17.85,
           "average": 1.785,
           "average w/o zero": 1.785
         },
@@ -84164,7 +84164,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.21,
+          "sum": 0.21000000000000002,
           "average": 0.052500000000000005,
           "average w/o zero": 0.052500000000000005
         },
@@ -84176,7 +84176,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apricots": {
           "count": 3,
-          "sum": 0.7,
+          "sum": 0.7000000000000001,
           "average": 0.23333333333333334,
           "average w/o zero": 0.23333333333333334
         },
@@ -84218,7 +84218,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 0.8099999999999999,
+          "sum": 0.81,
           "average": 0.2025,
           "average w/o zero": 0.2025
         },
@@ -84398,7 +84398,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orange juice": {
           "count": 7,
-          "sum": 0.6200000000000001,
+          "sum": 0.62,
           "average": 0.08857142857142858,
           "average w/o zero": 0.08857142857142858
         },
@@ -84452,7 +84452,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pears": {
           "count": 4,
-          "sum": 0.6000000000000001,
+          "sum": 0.6,
           "average": 0.15,
           "average w/o zero": 0.15
         },
@@ -84650,13 +84650,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Mung beans": {
           "count": 3,
-          "sum": 1.7199999999999998,
+          "sum": 1.72,
           "average": 0.5733333333333333,
           "average w/o zero": 0.5733333333333333
         },
         "Beans": {
           "count": 26,
-          "sum": 24.469999999999995,
+          "sum": 24.47,
           "average": 0.9411538461538461,
           "average w/o zero": 0.9411538461538461
         },
@@ -84674,7 +84674,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Broccoli": {
           "count": 3,
-          "sum": 1.0999999999999999,
+          "sum": 1.1,
           "average": 0.36666666666666664,
           "average w/o zero": 0.36666666666666664
         },
@@ -84860,7 +84860,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 3.4400000000000004,
+          "sum": 3.44,
           "average": 0.86,
           "average w/o zero": 0.86
         },
@@ -84908,7 +84908,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 1.2500000000000002,
+          "sum": 1.25,
           "average": 0.17857142857142858,
           "average w/o zero": 0.17857142857142858
         },
@@ -84974,7 +84974,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 10.46,
+          "sum": 10.459999999999999,
           "average": 2.092,
           "average w/o zero": 2.092
         },
@@ -84986,7 +84986,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Squash": {
           "count": 7,
-          "sum": 1.8599999999999999,
+          "sum": 1.86,
           "average": 0.26571428571428574,
           "average w/o zero": 0.26571428571428574
         },
@@ -85016,7 +85016,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomatoes": {
           "count": 5,
-          "sum": 2.4699999999999998,
+          "sum": 2.47,
           "average": 0.494,
           "average w/o zero": 0.494
         },
@@ -85028,7 +85028,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 1.5699999999999998,
+          "sum": 1.57,
           "average": 0.3925,
           "average w/o zero": 0.3925
         },
@@ -85166,13 +85166,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 52.459999999999994,
+          "sum": 52.46,
           "average": 2.761052631578947,
           "average w/o zero": 2.761052631578947
         },
         "Beef": {
           "count": 81,
-          "sum": 424.13000000000005,
+          "sum": 424.13,
           "average": 5.236172839506173,
           "average w/o zero": 5.236172839506173
         },
@@ -85184,7 +85184,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 146.76000000000013,
+          "sum": 146.76,
           "average": 1.0871111111111111,
           "average w/o zero": 1.4111538461538462
         },
@@ -85238,7 +85238,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 39.069999999999986,
+          "sum": 39.07,
           "average": 0.7371698113207548,
           "average w/o zero": 0.7371698113207548
         },
@@ -85250,7 +85250,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mollusks": {
           "count": 13,
-          "sum": 144.15000000000003,
+          "sum": 144.15,
           "average": 11.088461538461539,
           "average w/o zero": 11.088461538461539
         },
@@ -85262,7 +85262,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chickpeas (garbanzo beans": {
           "count": 3,
-          "sum": 4.98,
+          "sum": 4.9799999999999995,
           "average": 1.66,
           "average w/o zero": 1.66
         },
@@ -85394,7 +85394,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 66.19000000000001,
+          "sum": 66.19,
           "average": 4.136875,
           "average w/o zero": 4.136875
         },
@@ -85418,7 +85418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cake": {
           "count": 21,
-          "sum": 8.969999999999997,
+          "sum": 8.97,
           "average": 0.42714285714285716,
           "average w/o zero": 0.42714285714285716
         },
@@ -85436,7 +85436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 35.099999999999994,
+          "sum": 35.1,
           "average": 1.404,
           "average w/o zero": 1.404
         },
@@ -85490,13 +85490,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 5.579999999999999,
+          "sum": 5.58,
           "average": 1.395,
           "average w/o zero": 1.395
         },
         "Pie": {
           "count": 14,
-          "sum": 5.2299999999999995,
+          "sum": 5.23,
           "average": 0.37357142857142855,
           "average w/o zero": 0.37357142857142855
         },
@@ -85514,7 +85514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 13.330000000000002,
+          "sum": 13.33,
           "average": 1.1108333333333333,
           "average w/o zero": 1.1108333333333333
         },
@@ -85610,7 +85610,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 84.18999999999998,
+          "sum": 84.19,
           "average": 1.0933766233766233,
           "average w/o zero": 1.1693055555555556
         },
@@ -85706,7 +85706,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen novelties": {
           "count": 7,
-          "sum": 1.89,
+          "sum": 1.8900000000000001,
           "average": 0.27,
           "average w/o zero": 0.27
         },
@@ -85916,7 +85916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta": {
           "count": 4,
-          "sum": 3.53,
+          "sum": 3.5300000000000002,
           "average": 0.8825000000000001,
           "average w/o zero": 0.8825000000000001
         },
@@ -85934,7 +85934,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 70.30000000000001,
+          "sum": 70.3,
           "average": 1.2553571428571428,
           "average w/o zero": 1.2553571428571428
         },
@@ -86048,7 +86048,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg rolls": {
           "count": 3,
-          "sum": 1.8699999999999999,
+          "sum": 1.87,
           "average": 0.6233333333333333,
           "average w/o zero": 0.6233333333333333
         },
@@ -86222,7 +86222,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 23.130000000000003,
+          "sum": 23.13,
           "average": 0.96375,
           "average w/o zero": 0.96375
         },
@@ -89364,7 +89364,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese spread": {
           "count": 3,
-          "sum": 1.9699999999999998,
+          "sum": 1.97,
           "average": 0.6566666666666666,
           "average w/o zero": 0.6566666666666666
         },
@@ -89400,7 +89400,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 22.520000000000003,
+          "sum": 22.52,
           "average": 0.9008,
           "average w/o zero": 0.9008
         },
@@ -89418,7 +89418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 19.08,
+          "sum": 19.080000000000002,
           "average": 2.3850000000000002,
           "average w/o zero": 2.3850000000000002
         },
@@ -89556,7 +89556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 52.73999999999998,
+          "sum": 52.74,
           "average": 0.2850810810810811,
           "average w/o zero": 0.6278571428571429
         },
@@ -89568,7 +89568,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 24.449999999999996,
+          "sum": 24.45,
           "average": 1.2225,
           "average w/o zero": 1.2225
         },
@@ -89610,7 +89610,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sandwich spread": {
           "count": 3,
-          "sum": 4.43,
+          "sum": 4.430000000000001,
           "average": 1.4766666666666668,
           "average w/o zero": 1.4766666666666668
         },
@@ -89664,7 +89664,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 62.06999999999999,
+          "sum": 62.07,
           "average": 1.7734285714285714,
           "average w/o zero": 1.7734285714285714
         },
@@ -89682,7 +89682,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 35.53999999999999,
+          "sum": 35.54,
           "average": 1.110625,
           "average w/o zero": 1.110625
         },
@@ -89706,7 +89706,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 34.620000000000005,
+          "sum": 34.62,
           "average": 0.4274074074074074,
           "average w/o zero": 0.6532075471698113
         },
@@ -89718,7 +89718,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 0.9999999999999999,
+          "sum": 1.0,
           "average": 0.047619047619047616,
           "average w/o zero": 0.25
         },
@@ -89772,7 +89772,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 7.989999999999999,
+          "sum": 7.99,
           "average": 1.1414285714285715,
           "average w/o zero": 1.1414285714285715
         },
@@ -89898,7 +89898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 544.2299999999998,
+          "sum": 544.23,
           "average": 4.497768595041323,
           "average w/o zero": 5.610618556701031
         },
@@ -90366,7 +90366,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 43.14999999999999,
+          "sum": 43.15,
           "average": 0.6345588235294117,
           "average w/o zero": 0.6345588235294117
         },
@@ -90936,13 +90936,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Beef": {
           "count": 81,
-          "sum": 366.36999999999983,
+          "sum": 366.37,
           "average": 4.523086419753087,
           "average w/o zero": 4.523086419753087
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 0.15000000000000002,
+          "sum": 0.15,
           "average": 0.009375,
           "average w/o zero": 0.03
         },
@@ -91002,13 +91002,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 219.77000000000004,
+          "sum": 219.77,
           "average": 4.146603773584905,
           "average w/o zero": 4.146603773584905
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 17.569999999999997,
+          "sum": 17.57,
           "average": 1.757,
           "average w/o zero": 1.757
         },
@@ -91152,13 +91152,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Veal": {
           "count": 17,
-          "sum": 25.569999999999997,
+          "sum": 25.57,
           "average": 1.5041176470588236,
           "average w/o zero": 1.5041176470588236
         },
         "Game meat": {
           "count": 16,
-          "sum": 73.67999999999999,
+          "sum": 73.68,
           "average": 4.605,
           "average w/o zero": 4.605
         },
@@ -91182,13 +91182,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cake": {
           "count": 21,
-          "sum": 2.7300000000000004,
+          "sum": 2.73,
           "average": 0.13,
           "average w/o zero": 0.16058823529411764
         },
         "Cookies": {
           "count": 47,
-          "sum": 3.389999999999999,
+          "sum": 3.39,
           "average": 0.07212765957446808,
           "average w/o zero": 0.12555555555555556
         },
@@ -91236,7 +91236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 0.30000000000000004,
+          "sum": 0.3,
           "average": 0.06,
           "average w/o zero": 0.075
         },
@@ -91278,7 +91278,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 0.9299999999999999,
+          "sum": 0.93,
           "average": 0.0775,
           "average w/o zero": 0.155
         },
@@ -91374,13 +91374,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 15.419999999999996,
+          "sum": 15.42,
           "average": 0.20025974025974028,
           "average w/o zero": 0.2909433962264151
         },
         "Snacks": {
           "count": 65,
-          "sum": 7.300000000000001,
+          "sum": 7.3,
           "average": 0.1123076923076923,
           "average w/o zero": 0.33181818181818185
         },
@@ -91404,7 +91404,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 2.7600000000000002,
+          "sum": 2.76,
           "average": 0.345,
           "average w/o zero": 0.345
         },
@@ -91458,7 +91458,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 0.68,
+          "sum": 0.6799999999999999,
           "average": 0.08499999999999999,
           "average w/o zero": 0.09714285714285714
         },
@@ -91698,7 +91698,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 30.559999999999995,
+          "sum": 30.56,
           "average": 0.5457142857142857,
           "average w/o zero": 0.6112
         },
@@ -91716,7 +91716,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 3.5200000000000005,
+          "sum": 3.52,
           "average": 0.704,
           "average w/o zero": 0.704
         },
@@ -91962,7 +91962,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turnover": {
           "count": 4,
-          "sum": 1.9900000000000002,
+          "sum": 1.99,
           "average": 0.4975,
           "average w/o zero": 0.4975
         },
@@ -91986,7 +91986,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 7.740000000000001,
+          "sum": 7.74,
           "average": 0.3225,
           "average w/o zero": 0.43
         },
@@ -92282,7 +92282,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 2.2469999999999994,
+          "sum": 2.247,
           "average": 0.08988,
           "average w/o zero": 0.08988
         },
@@ -92486,7 +92486,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 0.7360000000000002,
+          "sum": 0.736,
           "average": 0.022303030303030304,
           "average w/o zero": 0.030666666666666665
         },
@@ -92546,7 +92546,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 12.755999999999997,
+          "sum": 12.756,
           "average": 0.36445714285714287,
           "average w/o zero": 0.36445714285714287
         },
@@ -92564,7 +92564,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 17.014000000000003,
+          "sum": 17.014,
           "average": 0.5316875,
           "average w/o zero": 0.5316875
         },
@@ -92588,7 +92588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 3.9539999999999984,
+          "sum": 3.954,
           "average": 0.04881481481481482,
           "average w/o zero": 0.050050632911392404
         },
@@ -92600,7 +92600,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sauce": {
           "count": 21,
-          "sum": 2.2680000000000002,
+          "sum": 2.268,
           "average": 0.108,
           "average w/o zero": 0.1134
         },
@@ -92744,7 +92744,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 3.3289999999999997,
+          "sum": 3.329,
           "average": 0.3698888888888889,
           "average w/o zero": 0.3698888888888889
         },
@@ -92780,13 +92780,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 212.02999999999986,
+          "sum": 212.03,
           "average": 1.7523140495867768,
           "average w/o zero": 1.7669166666666667
         },
         "Cereals": {
           "count": 10,
-          "sum": 4.777000000000001,
+          "sum": 4.777,
           "average": 0.4777,
           "average w/o zero": 0.4777
         },
@@ -92810,7 +92810,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apple juice": {
           "count": 4,
-          "sum": 0.16999999999999998,
+          "sum": 0.17,
           "average": 0.0425,
           "average w/o zero": 0.0425
         },
@@ -93020,7 +93020,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Melons": {
           "count": 3,
-          "sum": 0.29100000000000004,
+          "sum": 0.291,
           "average": 0.097,
           "average w/o zero": 0.097
         },
@@ -93248,7 +93248,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 29.28100000000001,
+          "sum": 29.281,
           "average": 0.4306029411764706,
           "average w/o zero": 0.43702985074626866
         },
@@ -93308,7 +93308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beets": {
           "count": 4,
-          "sum": 0.22899999999999998,
+          "sum": 0.229,
           "average": 0.05725,
           "average w/o zero": 0.05725
         },
@@ -93344,13 +93344,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cabbage": {
           "count": 5,
-          "sum": 0.9299999999999998,
+          "sum": 0.9299999999999999,
           "average": 0.186,
           "average w/o zero": 0.186
         },
         "Carrots": {
           "count": 5,
-          "sum": 0.5990000000000001,
+          "sum": 0.599,
           "average": 0.1198,
           "average w/o zero": 0.1198
         },
@@ -93506,7 +93506,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 0.41900000000000004,
+          "sum": 0.419,
           "average": 0.10475,
           "average w/o zero": 0.10475
         },
@@ -93548,7 +93548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 0.7850000000000001,
+          "sum": 0.785,
           "average": 0.11214285714285714,
           "average w/o zero": 0.11214285714285714
         },
@@ -93632,7 +93632,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Squash": {
           "count": 7,
-          "sum": 0.7130000000000001,
+          "sum": 0.713,
           "average": 0.10185714285714285,
           "average w/o zero": 0.10185714285714285
         },
@@ -93644,7 +93644,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 0.8500000000000001,
+          "sum": 0.85,
           "average": 0.2125,
           "average w/o zero": 0.2125
         },
@@ -93674,7 +93674,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 0.566,
+          "sum": 0.5660000000000001,
           "average": 0.14150000000000001,
           "average w/o zero": 0.14150000000000001
         },
@@ -93806,7 +93806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seeds": {
           "count": 5,
-          "sum": 1.9259999999999997,
+          "sum": 1.9260000000000002,
           "average": 0.3852,
           "average w/o zero": 0.3852
         },
@@ -93824,7 +93824,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alcoholic beverage": {
           "count": 16,
-          "sum": 0.32900000000000007,
+          "sum": 0.329,
           "average": 0.0205625,
           "average w/o zero": 0.0329
         },
@@ -93884,7 +93884,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 15.581000000000001,
+          "sum": 15.581,
           "average": 0.2939811320754717,
           "average w/o zero": 0.2939811320754717
         },
@@ -94028,7 +94028,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 2.0599999999999996,
+          "sum": 2.06,
           "average": 0.13733333333333334,
           "average w/o zero": 0.13733333333333334
         },
@@ -94040,7 +94040,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Game meat": {
           "count": 16,
-          "sum": 6.4270000000000005,
+          "sum": 6.427,
           "average": 0.4016875,
           "average w/o zero": 0.42846666666666666
         },
@@ -94058,19 +94058,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 3.8010000000000006,
+          "sum": 3.801,
           "average": 0.11179411764705882,
           "average w/o zero": 0.11179411764705882
         },
         "Cake": {
           "count": 21,
-          "sum": 0.7820000000000001,
+          "sum": 0.782,
           "average": 0.03723809523809524,
           "average w/o zero": 0.043444444444444445
         },
         "Cookies": {
           "count": 47,
-          "sum": 3.7649999999999992,
+          "sum": 3.765,
           "average": 0.08010638297872341,
           "average w/o zero": 0.08366666666666667
         },
@@ -94118,7 +94118,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 0.42600000000000005,
+          "sum": 0.426,
           "average": 0.0852,
           "average w/o zero": 0.0852
         },
@@ -94136,13 +94136,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 0.8099999999999999,
+          "sum": 0.81,
           "average": 0.2025,
           "average w/o zero": 0.2025
         },
         "Pie": {
           "count": 14,
-          "sum": 0.6830000000000002,
+          "sum": 0.683,
           "average": 0.048785714285714286,
           "average w/o zero": 0.048785714285714286
         },
@@ -94184,7 +94184,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tortillas": {
           "count": 3,
-          "sum": 0.5900000000000001,
+          "sum": 0.59,
           "average": 0.19666666666666666,
           "average w/o zero": 0.19666666666666666
         },
@@ -94256,13 +94256,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 4.759999999999999,
+          "sum": 4.76,
           "average": 0.06181818181818182,
           "average w/o zero": 0.06704225352112676
         },
         "Snacks": {
           "count": 65,
-          "sum": 20.229999999999997,
+          "sum": 20.23,
           "average": 0.31123076923076926,
           "average w/o zero": 0.31123076923076926
         },
@@ -94286,7 +94286,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ice creams": {
           "count": 8,
-          "sum": 0.32000000000000006,
+          "sum": 0.32,
           "average": 0.04,
           "average w/o zero": 0.04
         },
@@ -94340,7 +94340,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puddings": {
           "count": 8,
-          "sum": 0.17200000000000001,
+          "sum": 0.172,
           "average": 0.0215,
           "average w/o zero": 0.0215
         },
@@ -94418,7 +94418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snack": {
           "count": 3,
-          "sum": 1.4140000000000001,
+          "sum": 1.414,
           "average": 0.4713333333333333,
           "average w/o zero": 0.4713333333333333
         },
@@ -94868,7 +94868,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 3.8949999999999996,
+          "sum": 3.895,
           "average": 0.16229166666666667,
           "average w/o zero": 0.16229166666666667
         },
@@ -95134,7 +95134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream": {
           "count": 6,
-          "sum": 3.9000000000000004,
+          "sum": 3.9,
           "average": 0.65,
           "average w/o zero": 0.78
         },
@@ -95176,7 +95176,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Yogurt": {
           "count": 11,
-          "sum": 3.9000000000000004,
+          "sum": 3.9,
           "average": 0.35454545454545455,
           "average w/o zero": 0.65
         },
@@ -95368,7 +95368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 31.9,
+          "sum": 31.900000000000002,
           "average": 0.9666666666666667,
           "average w/o zero": 1.7722222222222221
         },
@@ -95470,7 +95470,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 132.29999999999995,
+          "sum": 132.3,
           "average": 1.6333333333333333,
           "average w/o zero": 2.2810344827586206
         },
@@ -95626,7 +95626,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 20.400000000000002,
+          "sum": 20.4,
           "average": 2.2666666666666666,
           "average w/o zero": 6.8
         },
@@ -95662,7 +95662,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 2614.6000000000004,
+          "sum": 2614.6,
           "average": 21.608264462809917,
           "average w/o zero": 27.522105263157894
         },
@@ -95806,7 +95806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grapefruit juice": {
           "count": 4,
-          "sum": 219.39999999999998,
+          "sum": 219.4,
           "average": 54.85,
           "average w/o zero": 54.85
         },
@@ -95968,7 +95968,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peaches": {
           "count": 3,
-          "sum": 11.8,
+          "sum": 11.799999999999999,
           "average": 3.933333333333333,
           "average w/o zero": 3.933333333333333
         },
@@ -96184,13 +96184,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 50.69999999999999,
+          "sum": 50.699999999999996,
           "average": 1.95,
           "average w/o zero": 2.8166666666666664
         },
         "Beets": {
           "count": 4,
-          "sum": 14.100000000000001,
+          "sum": 14.1,
           "average": 3.525,
           "average w/o zero": 3.525
         },
@@ -96388,7 +96388,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mushrooms": {
           "count": 4,
-          "sum": 6.3999999999999995,
+          "sum": 6.4,
           "average": 1.6,
           "average w/o zero": 2.1333333333333333
         },
@@ -96436,7 +96436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 601.9999999999999,
+          "sum": 602.0,
           "average": 86.0,
           "average w/o zero": 86.0
         },
@@ -96448,7 +96448,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 164.49999999999997,
+          "sum": 164.5,
           "average": 16.45,
           "average w/o zero": 16.45
         },
@@ -96508,13 +96508,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Spinach": {
           "count": 3,
-          "sum": 44.60000000000001,
+          "sum": 44.6,
           "average": 14.866666666666667,
           "average w/o zero": 14.866666666666667
         },
         "Squash": {
           "count": 7,
-          "sum": 63.50000000000001,
+          "sum": 63.5,
           "average": 9.071428571428571,
           "average w/o zero": 9.071428571428571
         },
@@ -96526,7 +96526,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 61.199999999999996,
+          "sum": 61.2,
           "average": 15.3,
           "average w/o zero": 15.3
         },
@@ -96556,7 +96556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tomato products": {
           "count": 4,
-          "sum": 50.1,
+          "sum": 50.099999999999994,
           "average": 12.524999999999999,
           "average w/o zero": 12.524999999999999
         },
@@ -96688,19 +96688,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Seeds": {
           "count": 5,
-          "sum": 3.8000000000000003,
+          "sum": 3.8,
           "average": 0.76,
           "average w/o zero": 1.2666666666666666
         },
         "Nuts": {
           "count": 19,
-          "sum": 47.800000000000004,
+          "sum": 47.8,
           "average": 2.5157894736842104,
           "average w/o zero": 3.9833333333333334
         },
         "Beef": {
           "count": 81,
-          "sum": 15.600000000000001,
+          "sum": 15.6,
           "average": 0.1925925925925926,
           "average w/o zero": 2.6
         },
@@ -96712,7 +96712,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 4437.799999999999,
+          "sum": 4437.8,
           "average": 32.87259259259259,
           "average w/o zero": 75.21694915254237
         },
@@ -96790,7 +96790,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chickpeas (garbanzo beans": {
           "count": 3,
-          "sum": 5.3999999999999995,
+          "sum": 5.4,
           "average": 1.8,
           "average w/o zero": 1.8
         },
@@ -96946,13 +96946,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cake": {
           "count": 21,
-          "sum": 17.199999999999996,
+          "sum": 17.2,
           "average": 0.819047619047619,
           "average w/o zero": 1.72
         },
         "Cookies": {
           "count": 47,
-          "sum": 5.6,
+          "sum": 5.6000000000000005,
           "average": 0.11914893617021277,
           "average w/o zero": 0.6222222222222222
         },
@@ -97024,7 +97024,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pie": {
           "count": 14,
-          "sum": 20.799999999999997,
+          "sum": 20.8,
           "average": 1.4857142857142858,
           "average w/o zero": 2.08
         },
@@ -97138,7 +97138,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 284.3999999999999,
+          "sum": 284.4,
           "average": 3.6935064935064936,
           "average w/o zero": 6.771428571428571
         },
@@ -97462,7 +97462,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 57.3,
+          "sum": 57.300000000000004,
           "average": 1.0232142857142856,
           "average w/o zero": 1.3975609756097562
         },
@@ -97480,7 +97480,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 10.799999999999999,
+          "sum": 10.8,
           "average": 2.16,
           "average w/o zero": 2.16
         },
@@ -97696,7 +97696,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pasta mix": {
           "count": 3,
-          "sum": 5.800000000000001,
+          "sum": 5.8,
           "average": 1.9333333333333333,
           "average w/o zero": 1.9333333333333333
         },
@@ -97750,7 +97750,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 63.10000000000001,
+          "sum": 63.1,
           "average": 2.6291666666666664,
           "average w/o zero": 3.5055555555555555
         },
@@ -98004,7 +98004,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 13.28,
+          "sum": 13.280000000000001,
           "average": 0.27102040816326534,
           "average w/o zero": 0.27102040816326534
         },
@@ -98046,7 +98046,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 1.7800000000000005,
+          "sum": 1.78,
           "average": 0.0712,
           "average w/o zero": 0.09368421052631579
         },
@@ -98058,13 +98058,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Yogurt": {
           "count": 11,
-          "sum": 0.30000000000000004,
+          "sum": 0.3,
           "average": 0.027272727272727275,
           "average w/o zero": 0.03
         },
         "Egg": {
           "count": 8,
-          "sum": 12.249999999999998,
+          "sum": 12.25,
           "average": 1.53125,
           "average w/o zero": 1.75
         },
@@ -98202,7 +98202,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 133.80000000000013,
+          "sum": 133.8,
           "average": 0.7232432432432433,
           "average w/o zero": 0.751685393258427
         },
@@ -98214,7 +98214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Infant formula": {
           "count": 20,
-          "sum": 105.33999999999997,
+          "sum": 105.34,
           "average": 5.267,
           "average w/o zero": 5.267
         },
@@ -98256,7 +98256,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sandwich spread": {
           "count": 3,
-          "sum": 7.470000000000001,
+          "sum": 7.47,
           "average": 2.49,
           "average w/o zero": 2.49
         },
@@ -98310,7 +98310,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 16.959999999999997,
+          "sum": 16.96,
           "average": 0.4845714285714286,
           "average w/o zero": 0.4988235294117647
         },
@@ -98328,7 +98328,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Turkey": {
           "count": 32,
-          "sum": 4.969999999999999,
+          "sum": 4.97,
           "average": 0.1553125,
           "average w/o zero": 0.1553125
         },
@@ -98352,7 +98352,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 30.59999999999999,
+          "sum": 30.6,
           "average": 0.37777777777777777,
           "average w/o zero": 0.4026315789473684
         },
@@ -98400,7 +98400,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bologna": {
           "count": 3,
-          "sum": 1.3399999999999999,
+          "sum": 1.34,
           "average": 0.44666666666666666,
           "average w/o zero": 0.44666666666666666
         },
@@ -98418,7 +98418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frankfurter": {
           "count": 7,
-          "sum": 3.8599999999999994,
+          "sum": 3.86,
           "average": 0.5514285714285714,
           "average w/o zero": 0.6433333333333333
         },
@@ -98508,7 +98508,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sausage": {
           "count": 9,
-          "sum": 8.490000000000002,
+          "sum": 8.49,
           "average": 0.9433333333333334,
           "average w/o zero": 0.9433333333333334
         },
@@ -98544,7 +98544,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 358.3899999999999,
+          "sum": 358.39,
           "average": 2.961900826446281,
           "average w/o zero": 3.1164347826086956
         },
@@ -98628,7 +98628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blueberries": {
           "count": 4,
-          "sum": 4.779999999999999,
+          "sum": 4.78,
           "average": 1.195,
           "average w/o zero": 1.195
         },
@@ -99012,7 +99012,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pork": {
           "count": 68,
-          "sum": 14.440000000000007,
+          "sum": 14.44,
           "average": 0.21235294117647058,
           "average w/o zero": 0.21878787878787878
         },
@@ -99066,7 +99066,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beans": {
           "count": 26,
-          "sum": 10.319999999999999,
+          "sum": 10.32,
           "average": 0.39692307692307693,
           "average w/o zero": 0.4128
         },
@@ -99126,7 +99126,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cauliflower": {
           "count": 3,
-          "sum": 0.18000000000000002,
+          "sum": 0.18,
           "average": 0.06,
           "average w/o zero": 0.06
         },
@@ -99174,7 +99174,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Corn": {
           "count": 5,
-          "sum": 0.33000000000000007,
+          "sum": 0.33,
           "average": 0.066,
           "average w/o zero": 0.066
         },
@@ -99312,7 +99312,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peas": {
           "count": 7,
-          "sum": 1.4500000000000002,
+          "sum": 1.45,
           "average": 0.20714285714285713,
           "average w/o zero": 0.20714285714285713
         },
@@ -99384,7 +99384,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seaweed": {
           "count": 5,
-          "sum": 12.870000000000001,
+          "sum": 12.87,
           "average": 2.574,
           "average w/o zero": 2.574
         },
@@ -99570,7 +99570,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seeds": {
           "count": 5,
-          "sum": 28.9,
+          "sum": 28.900000000000002,
           "average": 5.78,
           "average w/o zero": 5.78
         },
@@ -99582,7 +99582,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beef": {
           "count": 81,
-          "sum": 21.940000000000015,
+          "sum": 21.94,
           "average": 0.2708641975308642,
           "average w/o zero": 0.27772151898734176
         },
@@ -99594,7 +99594,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 197.68999999999997,
+          "sum": 197.69,
           "average": 1.4643703703703703,
           "average w/o zero": 3.73
         },
@@ -99648,19 +99648,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 68.38000000000002,
+          "sum": 68.38,
           "average": 1.290188679245283,
           "average w/o zero": 1.290188679245283
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 14.69,
+          "sum": 14.690000000000001,
           "average": 1.469,
           "average w/o zero": 1.469
         },
         "Mollusks": {
           "count": 13,
-          "sum": 16.959999999999997,
+          "sum": 16.96,
           "average": 1.3046153846153845,
           "average w/o zero": 1.5418181818181818
         },
@@ -99792,7 +99792,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 2.5400000000000005,
+          "sum": 2.54,
           "average": 0.16933333333333334,
           "average w/o zero": 0.16933333333333334
         },
@@ -99822,7 +99822,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bread": {
           "count": 34,
-          "sum": 16.910000000000004,
+          "sum": 16.91,
           "average": 0.4973529411764706,
           "average w/o zero": 0.5124242424242424
         },
@@ -99834,7 +99834,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookies": {
           "count": 47,
-          "sum": 74.86000000000003,
+          "sum": 74.86,
           "average": 1.5927659574468085,
           "average w/o zero": 1.5927659574468085
         },
@@ -99846,7 +99846,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 30.969999999999995,
+          "sum": 30.97,
           "average": 1.2388,
           "average w/o zero": 1.2388
         },
@@ -99882,7 +99882,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Muffins": {
           "count": 5,
-          "sum": 3.8499999999999996,
+          "sum": 3.85,
           "average": 0.77,
           "average w/o zero": 0.77
         },
@@ -100020,7 +100020,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Candies": {
           "count": 77,
-          "sum": 109.29999999999998,
+          "sum": 109.3,
           "average": 1.4194805194805196,
           "average w/o zero": 1.5840579710144926
         },
@@ -100122,7 +100122,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen yogurts": {
           "count": 3,
-          "sum": 0.29000000000000004,
+          "sum": 0.29,
           "average": 0.09666666666666666,
           "average w/o zero": 0.09666666666666666
         },
@@ -100278,7 +100278,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rice": {
           "count": 5,
-          "sum": 0.9600000000000001,
+          "sum": 0.96,
           "average": 0.192,
           "average w/o zero": 0.192
         },
@@ -100344,7 +100344,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 46.55000000000001,
+          "sum": 46.55,
           "average": 0.83125,
           "average w/o zero": 0.8463636363636363
         },
@@ -100368,7 +100368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast Food": {
           "count": 11,
-          "sum": 10.610000000000001,
+          "sum": 10.61,
           "average": 0.9645454545454546,
           "average w/o zero": 0.9645454545454546
         },
@@ -100632,7 +100632,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 19.429999999999996,
+          "sum": 19.43,
           "average": 0.8095833333333333,
           "average w/o zero": 0.8095833333333333
         },
@@ -100874,7 +100874,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Vitamins.Vitamin K": {
         "Butter": {
           "count": 4,
-          "sum": 23.400000000000002,
+          "sum": 23.4,
           "average": 5.85,
           "average w/o zero": 5.85
         },
@@ -100886,7 +100886,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cheese": {
           "count": 49,
-          "sum": 81.89999999999999,
+          "sum": 81.9,
           "average": 1.6714285714285715,
           "average w/o zero": 1.7804347826086957
         },
@@ -100898,7 +100898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cream": {
           "count": 6,
-          "sum": 9.799999999999999,
+          "sum": 9.8,
           "average": 1.6333333333333333,
           "average w/o zero": 1.6333333333333333
         },
@@ -100928,7 +100928,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milk": {
           "count": 25,
-          "sum": 7.099999999999998,
+          "sum": 7.1000000000000005,
           "average": 0.28400000000000003,
           "average w/o zero": 0.3380952380952381
         },
@@ -100946,7 +100946,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg": {
           "count": 8,
-          "sum": 3.5999999999999996,
+          "sum": 3.6,
           "average": 0.45,
           "average w/o zero": 0.5142857142857142
         },
@@ -101030,7 +101030,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spices": {
           "count": 24,
-          "sum": 10572.199999999999,
+          "sum": 10572.2,
           "average": 440.5083333333333,
           "average w/o zero": 503.43809523809523
         },
@@ -101084,7 +101084,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Babyfood": {
           "count": 185,
-          "sum": 906.4000000000001,
+          "sum": 906.4,
           "average": 4.899459459459459,
           "average w/o zero": 5.460240963855422
         },
@@ -101132,7 +101132,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salad dressing": {
           "count": 33,
-          "sum": 1554.9999999999998,
+          "sum": 1555.0,
           "average": 47.121212121212125,
           "average w/o zero": 50.16129032258065
         },
@@ -101192,7 +101192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken": {
           "count": 35,
-          "sum": 48.99999999999999,
+          "sum": 49.0,
           "average": 1.4,
           "average w/o zero": 2.45
         },
@@ -101234,7 +101234,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Soup": {
           "count": 81,
-          "sum": 476.69999999999993,
+          "sum": 476.7,
           "average": 5.885185185185185,
           "average w/o zero": 7.010294117647059
         },
@@ -101426,13 +101426,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cereals ready-to-eat": {
           "count": 121,
-          "sum": 232.99999999999991,
+          "sum": 233.0,
           "average": 1.9256198347107438,
           "average w/o zero": 2.061946902654867
         },
         "Cereals": {
           "count": 10,
-          "sum": 12.500000000000002,
+          "sum": 12.5,
           "average": 1.25,
           "average w/o zero": 1.5625
         },
@@ -101450,7 +101450,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Apples": {
           "count": 3,
-          "sum": 5.800000000000001,
+          "sum": 5.8,
           "average": 1.9333333333333333,
           "average w/o zero": 1.9333333333333333
         },
@@ -101942,19 +101942,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Mung beans": {
           "count": 3,
-          "sum": 58.400000000000006,
+          "sum": 58.4,
           "average": 19.466666666666665,
           "average w/o zero": 19.466666666666665
         },
         "Beans": {
           "count": 26,
-          "sum": 268.7000000000001,
+          "sum": 268.7,
           "average": 10.334615384615384,
           "average w/o zero": 10.748
         },
         "Beets": {
           "count": 4,
-          "sum": 0.7999999999999999,
+          "sum": 0.8,
           "average": 0.2,
           "average w/o zero": 0.2
         },
@@ -101996,7 +101996,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carrots": {
           "count": 5,
-          "sum": 60.10000000000001,
+          "sum": 60.1,
           "average": 12.02,
           "average w/o zero": 12.02
         },
@@ -102008,7 +102008,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cauliflower": {
           "count": 3,
-          "sum": 47.599999999999994,
+          "sum": 47.6,
           "average": 15.866666666666667,
           "average w/o zero": 15.866666666666667
         },
@@ -102200,7 +102200,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peppers": {
           "count": 7,
-          "sum": 88.30000000000001,
+          "sum": 88.3,
           "average": 12.614285714285714,
           "average w/o zero": 12.614285714285714
         },
@@ -102212,7 +102212,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potatoes": {
           "count": 10,
-          "sum": 46.3,
+          "sum": 46.300000000000004,
           "average": 4.63,
           "average w/o zero": 4.63
         },
@@ -102290,7 +102290,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sweet potato": {
           "count": 4,
-          "sum": 8.399999999999999,
+          "sum": 8.4,
           "average": 2.1,
           "average w/o zero": 2.1
         },
@@ -102458,13 +102458,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nuts": {
           "count": 19,
-          "sum": 163.40000000000003,
+          "sum": 163.4,
           "average": 8.6,
           "average w/o zero": 13.616666666666667
         },
         "Beef": {
           "count": 81,
-          "sum": 128.39999999999998,
+          "sum": 128.4,
           "average": 1.5851851851851853,
           "average w/o zero": 1.6253164556962025
         },
@@ -102476,7 +102476,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Beverages": {
           "count": 135,
-          "sum": 381.49999999999994,
+          "sum": 381.5,
           "average": 2.825925925925926,
           "average w/o zero": 8.670454545454545
         },
@@ -102530,19 +102530,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Fish": {
           "count": 53,
-          "sum": 78.10000000000001,
+          "sum": 78.1,
           "average": 1.4735849056603774,
           "average w/o zero": 1.6270833333333334
         },
         "Crustaceans": {
           "count": 10,
-          "sum": 1.9000000000000004,
+          "sum": 1.9,
           "average": 0.19,
           "average w/o zero": 0.2714285714285714
         },
         "Mollusks": {
           "count": 13,
-          "sum": 25.200000000000006,
+          "sum": 25.2,
           "average": 1.9384615384615385,
           "average w/o zero": 2.52
         },
@@ -102590,7 +102590,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peanut butter": {
           "count": 4,
-          "sum": 1.8,
+          "sum": 1.7999999999999998,
           "average": 0.44999999999999996,
           "average w/o zero": 0.44999999999999996
         },
@@ -102674,19 +102674,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Lamb": {
           "count": 15,
-          "sum": 63.99999999999999,
+          "sum": 64.0,
           "average": 4.266666666666667,
           "average w/o zero": 4.266666666666667
         },
         "Veal": {
           "count": 17,
-          "sum": 79.09999999999998,
+          "sum": 79.1,
           "average": 4.652941176470588,
           "average w/o zero": 4.94375
         },
         "Game meat": {
           "count": 16,
-          "sum": 22.999999999999993,
+          "sum": 23.0,
           "average": 1.4375,
           "average w/o zero": 1.4375
         },
@@ -102710,13 +102710,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Cake": {
           "count": 21,
-          "sum": 130.70000000000002,
+          "sum": 130.7,
           "average": 6.223809523809524,
           "average w/o zero": 6.223809523809524
         },
         "Cookies": {
           "count": 47,
-          "sum": 375.90000000000003,
+          "sum": 375.9,
           "average": 7.997872340425532,
           "average w/o zero": 7.997872340425532
         },
@@ -102728,7 +102728,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crackers": {
           "count": 25,
-          "sum": 336.29999999999995,
+          "sum": 336.3,
           "average": 13.452,
           "average w/o zero": 13.452
         },
@@ -102782,7 +102782,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pancakes": {
           "count": 4,
-          "sum": 9.100000000000001,
+          "sum": 9.1,
           "average": 2.275,
           "average w/o zero": 2.275
         },
@@ -102806,7 +102806,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rolls": {
           "count": 12,
-          "sum": 42.10000000000001,
+          "sum": 42.1,
           "average": 3.5083333333333333,
           "average w/o zero": 3.5083333333333333
         },
@@ -102908,7 +102908,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Snacks": {
           "count": 65,
-          "sum": 660.7999999999998,
+          "sum": 660.8,
           "average": 10.166153846153845,
           "average w/o zero": 10.488888888888889
         },
@@ -102998,7 +102998,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Frozen novelties": {
           "count": 7,
-          "sum": 2.4000000000000004,
+          "sum": 2.4,
           "average": 0.34285714285714286,
           "average w/o zero": 0.6
         },
@@ -103190,7 +103190,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wheat flour": {
           "count": 4,
-          "sum": 2.7999999999999994,
+          "sum": 2.8,
           "average": 0.7,
           "average w/o zero": 0.7
         },
@@ -103226,7 +103226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fast foods": {
           "count": 56,
-          "sum": 393.39999999999986,
+          "sum": 393.4,
           "average": 7.025,
           "average w/o zero": 7.025
         },
@@ -103244,13 +103244,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pizza": {
           "count": 5,
-          "sum": 33.199999999999996,
+          "sum": 33.2,
           "average": 6.64,
           "average w/o zero": 6.64
         },
         "Fast Food": {
           "count": 11,
-          "sum": 96.39999999999999,
+          "sum": 96.4,
           "average": 8.763636363636364,
           "average w/o zero": 8.763636363636364
         },
@@ -103340,7 +103340,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Egg rolls": {
           "count": 3,
-          "sum": 85.80000000000001,
+          "sum": 85.8,
           "average": 28.6,
           "average w/o zero": 28.6
         },
@@ -103430,7 +103430,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cookie": {
           "count": 4,
-          "sum": 23.199999999999996,
+          "sum": 23.2,
           "average": 5.8,
           "average w/o zero": 5.8
         },
@@ -103514,7 +103514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Restaurant": {
           "count": 24,
-          "sum": 487.29999999999995,
+          "sum": 487.3,
           "average": 20.304166666666667,
           "average w/o zero": 20.304166666666667
         },

@@ -16,11 +16,11 @@ style: dataset
 
 <span class='text-muted'>By Dennis Kafura</span><br>
 <span class='text-muted'>Version 1.0.0, created 6/24/2019</span><br>
-<span class='text-muted'>Tags: hospitals, health care, medical, hospital costs, hospital quality</span>
+<span class='text-muted'>Tags: emissions, CO2, green house gas, pollution</span>
 
 # Overview
 
-The data set allows consumers to directly compare across hospitals performance measure information related to heart attack, emergency department care, preventive care, stroke care, and other conditions. The data is part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.
+The data setis a multipurpose, independent, global database of anthropogenic emissions of greenhouse gases and air pollution on Earth. EDGAR provides independent emission estimates compared to what reported by European Member States or by Parties under the United Nations Framework Convention on Climate Change (UNFCCC) part of an Administration-wide effort to increase the availability and accessibility of information on quality, utilization, and costs for effective, informed decision-making.
 
 
 <https://edgar.jrc.ec.europa.eu/>

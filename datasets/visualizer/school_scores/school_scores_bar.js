@@ -276,7 +276,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Arts/Music.Average GPA": {
         "2005": {
           "count": 52,
-          "sum": 198.05999999999997,
+          "sum": 198.06,
           "average": 3.808846153846154,
           "average w/o zero": 3.808846153846154
         },
@@ -294,13 +294,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 53,
-          "sum": 201.97999999999996,
+          "sum": 201.98,
           "average": 3.810943396226415,
           "average w/o zero": 3.810943396226415
         },
         "2009": {
           "count": 51,
-          "sum": 194.94999999999996,
+          "sum": 194.95,
           "average": 3.8225490196078433,
           "average w/o zero": 3.8225490196078433
         },
@@ -312,19 +312,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 53,
-          "sum": 202.0600000000001,
+          "sum": 202.06,
           "average": 3.812452830188679,
           "average w/o zero": 3.812452830188679
         },
         "2012": {
           "count": 53,
-          "sum": 202.25000000000003,
+          "sum": 202.25,
           "average": 3.8160377358490565,
           "average w/o zero": 3.8160377358490565
         },
         "2013": {
           "count": 53,
-          "sum": 202.40999999999997,
+          "sum": 202.41,
           "average": 3.8190566037735847,
           "average w/o zero": 3.8190566037735847
         },
@@ -336,7 +336,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 53,
-          "sum": 203.98000000000002,
+          "sum": 203.98,
           "average": 3.848679245283019,
           "average w/o zero": 3.848679245283019
         }
@@ -344,61 +344,61 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Arts/Music.Average Years": {
         "2005": {
           "count": 52,
-          "sum": 112.39999999999999,
+          "sum": 112.4,
           "average": 2.1615384615384614,
           "average w/o zero": 2.1615384615384614
         },
         "2006": {
           "count": 52,
-          "sum": 113.10000000000001,
+          "sum": 113.1,
           "average": 2.175,
           "average w/o zero": 2.175
         },
         "2007": {
           "count": 53,
-          "sum": 115.49999999999999,
+          "sum": 115.5,
           "average": 2.1792452830188678,
           "average w/o zero": 2.1792452830188678
         },
         "2008": {
           "count": 53,
-          "sum": 118.20000000000002,
+          "sum": 118.2,
           "average": 2.230188679245283,
           "average w/o zero": 2.230188679245283
         },
         "2009": {
           "count": 51,
-          "sum": 118.99999999999999,
+          "sum": 119.0,
           "average": 2.3333333333333335,
           "average w/o zero": 2.3333333333333335
         },
         "2010": {
           "count": 51,
-          "sum": 120.30000000000001,
+          "sum": 120.3,
           "average": 2.3588235294117648,
           "average w/o zero": 2.3588235294117648
         },
         "2011": {
           "count": 53,
-          "sum": 124.39999999999999,
+          "sum": 124.4,
           "average": 2.3471698113207546,
           "average w/o zero": 2.3471698113207546
         },
         "2012": {
           "count": 53,
-          "sum": 124.90000000000002,
+          "sum": 124.9,
           "average": 2.3566037735849057,
           "average w/o zero": 2.3566037735849057
         },
         "2013": {
           "count": 53,
-          "sum": 124.50000000000001,
+          "sum": 124.5,
           "average": 2.349056603773585,
           "average w/o zero": 2.349056603773585
         },
         "2014": {
           "count": 53,
-          "sum": 124.10000000000002,
+          "sum": 124.1,
           "average": 2.341509433962264,
           "average w/o zero": 2.341509433962264
         },
@@ -436,13 +436,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 51,
-          "sum": 178.30999999999997,
+          "sum": 178.31,
           "average": 3.4962745098039214,
           "average w/o zero": 3.4962745098039214
         },
         "2010": {
           "count": 51,
-          "sum": 179.11,
+          "sum": 179.10999999999999,
           "average": 3.5119607843137253,
           "average w/o zero": 3.5119607843137253
         },
@@ -460,7 +460,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 53,
-          "sum": 187.68000000000004,
+          "sum": 187.68,
           "average": 3.541132075471698,
           "average w/o zero": 3.541132075471698
         },
@@ -472,7 +472,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 53,
-          "sum": 189.06000000000003,
+          "sum": 189.06,
           "average": 3.567169811320755,
           "average w/o zero": 3.567169811320755
         }
@@ -480,67 +480,67 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.English.Average Years": {
         "2005": {
           "count": 52,
-          "sum": 204.0000000000001,
+          "sum": 204.0,
           "average": 3.923076923076923,
           "average w/o zero": 3.923076923076923
         },
         "2006": {
           "count": 52,
-          "sum": 203.30000000000013,
+          "sum": 203.29999999999998,
           "average": 3.9096153846153845,
           "average w/o zero": 3.9096153846153845
         },
         "2007": {
           "count": 53,
-          "sum": 208.60000000000008,
+          "sum": 208.6,
           "average": 3.9358490566037734,
           "average w/o zero": 3.9358490566037734
         },
         "2008": {
           "count": 53,
-          "sum": 209.10000000000008,
+          "sum": 209.1,
           "average": 3.9452830188679244,
           "average w/o zero": 3.9452830188679244
         },
         "2009": {
           "count": 51,
-          "sum": 200.70000000000007,
+          "sum": 200.7,
           "average": 3.9352941176470586,
           "average w/o zero": 3.9352941176470586
         },
         "2010": {
           "count": 51,
-          "sum": 200.7000000000001,
+          "sum": 200.7,
           "average": 3.9352941176470586,
           "average w/o zero": 3.9352941176470586
         },
         "2011": {
           "count": 53,
-          "sum": 208.80000000000007,
+          "sum": 208.79999999999998,
           "average": 3.939622641509434,
           "average w/o zero": 3.939622641509434
         },
         "2012": {
           "count": 53,
-          "sum": 208.00000000000009,
+          "sum": 208.0,
           "average": 3.9245283018867925,
           "average w/o zero": 3.9245283018867925
         },
         "2013": {
           "count": 53,
-          "sum": 207.7000000000001,
+          "sum": 207.7,
           "average": 3.918867924528302,
           "average w/o zero": 3.918867924528302
         },
         "2014": {
           "count": 53,
-          "sum": 208.50000000000006,
+          "sum": 208.5,
           "average": 3.9339622641509435,
           "average w/o zero": 3.9339622641509435
         },
         "2015": {
           "count": 53,
-          "sum": 207.9000000000001,
+          "sum": 207.9,
           "average": 3.922641509433962,
           "average w/o zero": 3.922641509433962
         }
@@ -554,37 +554,37 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 52,
-          "sum": 177.93999999999997,
+          "sum": 177.94,
           "average": 3.421923076923077,
           "average w/o zero": 3.421923076923077
         },
         "2007": {
           "count": 53,
-          "sum": 181.45999999999995,
+          "sum": 181.46,
           "average": 3.4237735849056605,
           "average w/o zero": 3.4237735849056605
         },
         "2008": {
           "count": 53,
-          "sum": 181.02000000000007,
+          "sum": 181.02,
           "average": 3.4154716981132074,
           "average w/o zero": 3.4154716981132074
         },
         "2009": {
           "count": 51,
-          "sum": 175.52999999999997,
+          "sum": 175.53,
           "average": 3.441764705882353,
           "average w/o zero": 3.441764705882353
         },
         "2010": {
           "count": 51,
-          "sum": 176.02000000000004,
+          "sum": 176.02,
           "average": 3.4513725490196077,
           "average w/o zero": 3.4513725490196077
         },
         "2011": {
           "count": 53,
-          "sum": 183.17999999999998,
+          "sum": 183.18,
           "average": 3.45622641509434,
           "average w/o zero": 3.45622641509434
         },
@@ -596,19 +596,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 53,
-          "sum": 184.42000000000004,
+          "sum": 184.42,
           "average": 3.479622641509434,
           "average w/o zero": 3.479622641509434
         },
         "2014": {
           "count": 53,
-          "sum": 185.71999999999994,
+          "sum": 185.72,
           "average": 3.5041509433962266,
           "average w/o zero": 3.5041509433962266
         },
         "2015": {
           "count": 53,
-          "sum": 186.86999999999998,
+          "sum": 186.87,
           "average": 3.5258490566037737,
           "average w/o zero": 3.5258490566037737
         }
@@ -616,25 +616,25 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Foreign Languages.Average Years": {
         "2005": {
           "count": 52,
-          "sum": 144.49999999999997,
+          "sum": 144.5,
           "average": 2.7788461538461537,
           "average w/o zero": 2.7788461538461537
         },
         "2006": {
           "count": 52,
-          "sum": 146.39999999999998,
+          "sum": 146.4,
           "average": 2.815384615384615,
           "average w/o zero": 2.815384615384615
         },
         "2007": {
           "count": 53,
-          "sum": 150.40000000000003,
+          "sum": 150.4,
           "average": 2.8377358490566036,
           "average w/o zero": 2.8377358490566036
         },
         "2008": {
           "count": 53,
-          "sum": 149.90000000000003,
+          "sum": 149.9,
           "average": 2.828301886792453,
           "average w/o zero": 2.828301886792453
         },
@@ -670,13 +670,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 53,
-          "sum": 152.29999999999998,
+          "sum": 152.3,
           "average": 2.8735849056603775,
           "average w/o zero": 2.8735849056603775
         },
         "2015": {
           "count": 53,
-          "sum": 151.49999999999997,
+          "sum": 151.5,
           "average": 2.858490566037736,
           "average w/o zero": 2.858490566037736
         }
@@ -684,7 +684,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Mathematics.Average GPA": {
         "2005": {
           "count": 52,
-          "sum": 169.11000000000004,
+          "sum": 169.11,
           "average": 3.2521153846153847,
           "average w/o zero": 3.2521153846153847
         },
@@ -702,19 +702,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 53,
-          "sum": 173.33,
+          "sum": 173.32999999999998,
           "average": 3.270377358490566,
           "average w/o zero": 3.270377358490566
         },
         "2009": {
           "count": 51,
-          "sum": 168.09999999999994,
+          "sum": 168.1,
           "average": 3.296078431372549,
           "average w/o zero": 3.296078431372549
         },
         "2010": {
           "count": 51,
-          "sum": 168.88000000000002,
+          "sum": 168.88,
           "average": 3.311372549019608,
           "average w/o zero": 3.311372549019608
         },
@@ -732,19 +732,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 53,
-          "sum": 177.20999999999998,
+          "sum": 177.21,
           "average": 3.3435849056603772,
           "average w/o zero": 3.3435849056603772
         },
         "2014": {
           "count": 53,
-          "sum": 178.38999999999996,
+          "sum": 178.39,
           "average": 3.3658490566037735,
           "average w/o zero": 3.3658490566037735
         },
         "2015": {
           "count": 53,
-          "sum": 178.75999999999996,
+          "sum": 178.76,
           "average": 3.372830188679245,
           "average w/o zero": 3.372830188679245
         }
@@ -764,7 +764,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 53,
-          "sum": 206.10000000000002,
+          "sum": 206.1,
           "average": 3.8886792452830186,
           "average w/o zero": 3.8886792452830186
         },
@@ -776,19 +776,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 51,
-          "sum": 201.10000000000005,
+          "sum": 201.1,
           "average": 3.9431372549019605,
           "average w/o zero": 3.9431372549019605
         },
         "2010": {
           "count": 51,
-          "sum": 202.20000000000002,
+          "sum": 202.2,
           "average": 3.9647058823529413,
           "average w/o zero": 3.9647058823529413
         },
         "2011": {
           "count": 53,
-          "sum": 210.50000000000006,
+          "sum": 210.5,
           "average": 3.9716981132075473,
           "average w/o zero": 3.9716981132075473
         },
@@ -806,13 +806,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 53,
-          "sum": 211.8,
+          "sum": 211.79999999999998,
           "average": 3.9962264150943394,
           "average w/o zero": 3.9962264150943394
         },
         "2015": {
           "count": 53,
-          "sum": 210.8,
+          "sum": 210.79999999999998,
           "average": 3.9773584905660377,
           "average w/o zero": 3.9773584905660377
         }
@@ -820,19 +820,19 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Natural Sciences.Average GPA": {
         "2005": {
           "count": 52,
-          "sum": 175.37000000000006,
+          "sum": 175.37,
           "average": 3.3725,
           "average w/o zero": 3.3725
         },
         "2006": {
           "count": 52,
-          "sum": 176.32000000000005,
+          "sum": 176.32,
           "average": 3.390769230769231,
           "average w/o zero": 3.390769230769231
         },
         "2007": {
           "count": 53,
-          "sum": 179.49000000000004,
+          "sum": 179.49,
           "average": 3.3866037735849055,
           "average w/o zero": 3.3866037735849055
         },
@@ -844,43 +844,43 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 51,
-          "sum": 173.85000000000002,
+          "sum": 173.85,
           "average": 3.4088235294117646,
           "average w/o zero": 3.4088235294117646
         },
         "2010": {
           "count": 51,
-          "sum": 174.36000000000004,
+          "sum": 174.36,
           "average": 3.418823529411765,
           "average w/o zero": 3.418823529411765
         },
         "2011": {
           "count": 53,
-          "sum": 181.16000000000008,
+          "sum": 181.16,
           "average": 3.4181132075471696,
           "average w/o zero": 3.4181132075471696
         },
         "2012": {
           "count": 53,
-          "sum": 181.76000000000002,
+          "sum": 181.76,
           "average": 3.429433962264151,
           "average w/o zero": 3.429433962264151
         },
         "2013": {
           "count": 53,
-          "sum": 182.34999999999994,
+          "sum": 182.35,
           "average": 3.440566037735849,
           "average w/o zero": 3.440566037735849
         },
         "2014": {
           "count": 53,
-          "sum": 183.70000000000007,
+          "sum": 183.7,
           "average": 3.4660377358490564,
           "average w/o zero": 3.4660377358490564
         },
         "2015": {
           "count": 53,
-          "sum": 184.60000000000002,
+          "sum": 184.6,
           "average": 3.483018867924528,
           "average w/o zero": 3.483018867924528
         }
@@ -888,7 +888,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Natural Sciences.Average Years": {
         "2005": {
           "count": 52,
-          "sum": 184.79999999999995,
+          "sum": 184.8,
           "average": 3.5538461538461537,
           "average w/o zero": 3.5538461538461537
         },
@@ -900,19 +900,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 53,
-          "sum": 190.89999999999995,
+          "sum": 190.9,
           "average": 3.6018867924528304,
           "average w/o zero": 3.6018867924528304
         },
         "2008": {
           "count": 53,
-          "sum": 192.59999999999997,
+          "sum": 192.6,
           "average": 3.6339622641509433,
           "average w/o zero": 3.6339622641509433
         },
         "2009": {
           "count": 51,
-          "sum": 186.79999999999998,
+          "sum": 186.8,
           "average": 3.6627450980392156,
           "average w/o zero": 3.6627450980392156
         },
@@ -930,19 +930,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2012": {
           "count": 53,
-          "sum": 193.39999999999998,
+          "sum": 193.4,
           "average": 3.6490566037735848,
           "average w/o zero": 3.6490566037735848
         },
         "2013": {
           "count": 53,
-          "sum": 193.49999999999994,
+          "sum": 193.5,
           "average": 3.650943396226415,
           "average w/o zero": 3.650943396226415
         },
         "2014": {
           "count": 53,
-          "sum": 194.99999999999994,
+          "sum": 195.0,
           "average": 3.6792452830188678,
           "average w/o zero": 3.6792452830188678
         },
@@ -956,31 +956,31 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Social Sciences/History.Average GPA": {
         "2005": {
           "count": 52,
-          "sum": 181.19000000000003,
+          "sum": 181.19,
           "average": 3.484423076923077,
           "average w/o zero": 3.484423076923077
         },
         "2006": {
           "count": 52,
-          "sum": 182.17999999999995,
+          "sum": 182.18,
           "average": 3.5034615384615386,
           "average w/o zero": 3.5034615384615386
         },
         "2007": {
           "count": 53,
-          "sum": 185.45999999999998,
+          "sum": 185.46,
           "average": 3.499245283018868,
           "average w/o zero": 3.499245283018868
         },
         "2008": {
           "count": 53,
-          "sum": 185.07000000000002,
+          "sum": 185.07,
           "average": 3.49188679245283,
           "average w/o zero": 3.49188679245283
         },
         "2009": {
           "count": 51,
-          "sum": 179.04000000000002,
+          "sum": 179.04,
           "average": 3.510588235294118,
           "average w/o zero": 3.510588235294118
         },
@@ -992,31 +992,31 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 53,
-          "sum": 186.60999999999993,
+          "sum": 186.61,
           "average": 3.520943396226415,
           "average w/o zero": 3.520943396226415
         },
         "2012": {
           "count": 53,
-          "sum": 187.15999999999994,
+          "sum": 187.16,
           "average": 3.531320754716981,
           "average w/o zero": 3.531320754716981
         },
         "2013": {
           "count": 53,
-          "sum": 187.80000000000004,
+          "sum": 187.8,
           "average": 3.543396226415094,
           "average w/o zero": 3.543396226415094
         },
         "2014": {
           "count": 53,
-          "sum": 188.79999999999998,
+          "sum": 188.8,
           "average": 3.5622641509433963,
           "average w/o zero": 3.5622641509433963
         },
         "2015": {
           "count": 53,
-          "sum": 189.4099999999999,
+          "sum": 189.41,
           "average": 3.5737735849056604,
           "average w/o zero": 3.5737735849056604
         }
@@ -1030,7 +1030,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 52,
-          "sum": 185.89999999999998,
+          "sum": 185.9,
           "average": 3.575,
           "average w/o zero": 3.575
         },
@@ -1042,19 +1042,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 53,
-          "sum": 191.70000000000005,
+          "sum": 191.7,
           "average": 3.616981132075472,
           "average w/o zero": 3.616981132075472
         },
         "2009": {
           "count": 51,
-          "sum": 185.10000000000005,
+          "sum": 185.1,
           "average": 3.6294117647058823,
           "average w/o zero": 3.6294117647058823
         },
         "2010": {
           "count": 51,
-          "sum": 185.39999999999998,
+          "sum": 185.4,
           "average": 3.635294117647059,
           "average w/o zero": 3.635294117647059
         },
@@ -1078,13 +1078,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 53,
-          "sum": 193.40000000000003,
+          "sum": 193.4,
           "average": 3.6490566037735848,
           "average w/o zero": 3.6490566037735848
         },
         "2015": {
           "count": 53,
-          "sum": 191.89999999999998,
+          "sum": 191.9,
           "average": 3.620754716981132,
           "average w/o zero": 3.620754716981132
         }
@@ -7929,7 +7929,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Arkansas": {
           "count": 11,
-          "sum": 43.029999999999994,
+          "sum": 43.03,
           "average": 3.9118181818181816,
           "average w/o zero": 3.9118181818181816
         },
@@ -7941,7 +7941,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Colorado": {
           "count": 11,
-          "sum": 42.81999999999999,
+          "sum": 42.82,
           "average": 3.8927272727272726,
           "average w/o zero": 3.8927272727272726
         },
@@ -7977,31 +7977,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Hawaii": {
           "count": 11,
-          "sum": 41.489999999999995,
+          "sum": 41.49,
           "average": 3.7718181818181815,
           "average w/o zero": 3.7718181818181815
         },
         "Idaho": {
           "count": 11,
-          "sum": 41.940000000000005,
+          "sum": 41.94,
           "average": 3.812727272727273,
           "average w/o zero": 3.812727272727273
         },
         "Illinois": {
           "count": 11,
-          "sum": 42.599999999999994,
+          "sum": 42.6,
           "average": 3.8727272727272726,
           "average w/o zero": 3.8727272727272726
         },
         "Indiana": {
           "count": 11,
-          "sum": 41.50999999999999,
+          "sum": 41.51,
           "average": 3.7736363636363635,
           "average w/o zero": 3.7736363636363635
         },
         "Iowa": {
           "count": 11,
-          "sum": 43.00999999999999,
+          "sum": 43.01,
           "average": 3.91,
           "average w/o zero": 3.91
         },
@@ -8013,13 +8013,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Kentucky": {
           "count": 11,
-          "sum": 42.879999999999995,
+          "sum": 42.88,
           "average": 3.8981818181818184,
           "average w/o zero": 3.8981818181818184
         },
         "Louisiana": {
           "count": 11,
-          "sum": 42.760000000000005,
+          "sum": 42.76,
           "average": 3.887272727272727,
           "average w/o zero": 3.887272727272727
         },
@@ -8049,7 +8049,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Minnesota": {
           "count": 11,
-          "sum": 42.81999999999999,
+          "sum": 42.82,
           "average": 3.8927272727272726,
           "average w/o zero": 3.8927272727272726
         },
@@ -8073,13 +8073,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 11,
-          "sum": 42.970000000000006,
+          "sum": 42.97,
           "average": 3.9063636363636363,
           "average w/o zero": 3.9063636363636363
         },
         "Nevada": {
           "count": 11,
-          "sum": 41.959999999999994,
+          "sum": 41.96,
           "average": 3.8145454545454545,
           "average w/o zero": 3.8145454545454545
         },
@@ -8097,7 +8097,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Mexico": {
           "count": 11,
-          "sum": 42.589999999999996,
+          "sum": 42.59,
           "average": 3.8718181818181816,
           "average w/o zero": 3.8718181818181816
         },
@@ -8115,7 +8115,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Dakota": {
           "count": 11,
-          "sum": 43.28000000000001,
+          "sum": 43.28,
           "average": 3.9345454545454546,
           "average w/o zero": 3.9345454545454546
         },
@@ -8133,7 +8133,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 11,
-          "sum": 42.309999999999995,
+          "sum": 42.31,
           "average": 3.846363636363636,
           "average w/o zero": 3.846363636363636
         },
@@ -8193,7 +8193,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Virgin Islands": {
           "count": 9,
-          "sum": 31.76,
+          "sum": 31.759999999999998,
           "average": 3.528888888888889,
           "average w/o zero": 3.528888888888889
         },
@@ -8205,13 +8205,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington": {
           "count": 11,
-          "sum": 42.17999999999999,
+          "sum": 42.18,
           "average": 3.8345454545454545,
           "average w/o zero": 3.8345454545454545
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 43.010000000000005,
+          "sum": 43.01,
           "average": 3.91,
           "average w/o zero": 3.91
         },
@@ -8231,7 +8231,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Arts/Music.Average Years": {
         "Alabama": {
           "count": 11,
-          "sum": 24.900000000000002,
+          "sum": 24.9,
           "average": 2.2636363636363637,
           "average w/o zero": 2.2636363636363637
         },
@@ -8243,7 +8243,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Arizona": {
           "count": 11,
-          "sum": 24.500000000000004,
+          "sum": 24.5,
           "average": 2.227272727272727,
           "average w/o zero": 2.227272727272727
         },
@@ -8267,7 +8267,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Connecticut": {
           "count": 11,
-          "sum": 24.500000000000004,
+          "sum": 24.5,
           "average": 2.227272727272727,
           "average w/o zero": 2.227272727272727
         },
@@ -8285,7 +8285,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Florida": {
           "count": 11,
-          "sum": 21.300000000000004,
+          "sum": 21.3,
           "average": 1.9363636363636363,
           "average w/o zero": 1.9363636363636363
         },
@@ -8303,7 +8303,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Idaho": {
           "count": 11,
-          "sum": 22.399999999999995,
+          "sum": 22.4,
           "average": 2.0363636363636366,
           "average w/o zero": 2.0363636363636366
         },
@@ -8315,13 +8315,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Indiana": {
           "count": 11,
-          "sum": 25.100000000000005,
+          "sum": 25.099999999999998,
           "average": 2.2818181818181817,
           "average w/o zero": 2.2818181818181817
         },
         "Iowa": {
           "count": 11,
-          "sum": 31.1,
+          "sum": 31.099999999999998,
           "average": 2.827272727272727,
           "average w/o zero": 2.827272727272727
         },
@@ -8333,19 +8333,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Kentucky": {
           "count": 11,
-          "sum": 24.600000000000005,
+          "sum": 24.6,
           "average": 2.2363636363636363,
           "average w/o zero": 2.2363636363636363
         },
         "Louisiana": {
           "count": 11,
-          "sum": 23.599999999999998,
+          "sum": 23.6,
           "average": 2.1454545454545455,
           "average w/o zero": 2.1454545454545455
         },
         "Maine": {
           "count": 11,
-          "sum": 25.099999999999998,
+          "sum": 25.1,
           "average": 2.2818181818181817,
           "average w/o zero": 2.2818181818181817
         },
@@ -8357,13 +8357,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 23.199999999999996,
+          "sum": 23.200000000000003,
           "average": 2.1090909090909093,
           "average w/o zero": 2.1090909090909093
         },
         "Michigan": {
           "count": 11,
-          "sum": 26.700000000000003,
+          "sum": 26.7,
           "average": 2.4272727272727272,
           "average w/o zero": 2.4272727272727272
         },
@@ -8387,7 +8387,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Montana": {
           "count": 11,
-          "sum": 28.7,
+          "sum": 28.700000000000003,
           "average": 2.6090909090909093,
           "average w/o zero": 2.6090909090909093
         },
@@ -8399,25 +8399,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 11,
-          "sum": 20.499999999999996,
+          "sum": 20.5,
           "average": 1.8636363636363635,
           "average w/o zero": 1.8636363636363635
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 23.499999999999996,
+          "sum": 23.5,
           "average": 2.1363636363636367,
           "average w/o zero": 2.1363636363636367
         },
         "New Jersey": {
           "count": 11,
-          "sum": 24.400000000000002,
+          "sum": 24.4,
           "average": 2.2181818181818183,
           "average w/o zero": 2.2181818181818183
         },
         "New Mexico": {
           "count": 11,
-          "sum": 25.899999999999995,
+          "sum": 25.9,
           "average": 2.3545454545454545,
           "average w/o zero": 2.3545454545454545
         },
@@ -8435,7 +8435,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Dakota": {
           "count": 11,
-          "sum": 31.599999999999998,
+          "sum": 31.6,
           "average": 2.8727272727272726,
           "average w/o zero": 2.8727272727272726
         },
@@ -8447,19 +8447,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 26.799999999999997,
+          "sum": 26.8,
           "average": 2.4363636363636365,
           "average w/o zero": 2.4363636363636365
         },
         "Oregon": {
           "count": 11,
-          "sum": 23.799999999999997,
+          "sum": 23.8,
           "average": 2.1636363636363636,
           "average w/o zero": 2.1636363636363636
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 23.2,
+          "sum": 23.200000000000003,
           "average": 2.1090909090909093,
           "average w/o zero": 2.1090909090909093
         },
@@ -8471,19 +8471,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 24.3,
+          "sum": 24.299999999999997,
           "average": 2.209090909090909,
           "average w/o zero": 2.209090909090909
         },
         "South Carolina": {
           "count": 11,
-          "sum": 21.599999999999998,
+          "sum": 21.6,
           "average": 1.9636363636363636,
           "average w/o zero": 1.9636363636363636
         },
         "South Dakota": {
           "count": 11,
-          "sum": 30.500000000000004,
+          "sum": 30.5,
           "average": 2.7727272727272725,
           "average w/o zero": 2.7727272727272725
         },
@@ -8495,19 +8495,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Texas": {
           "count": 11,
-          "sum": 23.199999999999996,
+          "sum": 23.200000000000003,
           "average": 2.1090909090909093,
           "average w/o zero": 2.1090909090909093
         },
         "Utah": {
           "count": 11,
-          "sum": 30.799999999999997,
+          "sum": 30.8,
           "average": 2.8,
           "average w/o zero": 2.8
         },
         "Vermont": {
           "count": 11,
-          "sum": 27.099999999999998,
+          "sum": 27.1,
           "average": 2.4636363636363634,
           "average w/o zero": 2.4636363636363634
         },
@@ -8519,13 +8519,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Virginia": {
           "count": 11,
-          "sum": 23.799999999999997,
+          "sum": 23.8,
           "average": 2.1636363636363636,
           "average w/o zero": 2.1636363636363636
         },
         "Washington": {
           "count": 11,
-          "sum": 24.400000000000002,
+          "sum": 24.4,
           "average": 2.2181818181818183,
           "average w/o zero": 2.2181818181818183
         },
@@ -8551,7 +8551,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.English.Average GPA": {
         "Alabama": {
           "count": 11,
-          "sum": 39.540000000000006,
+          "sum": 39.54,
           "average": 3.5945454545454543,
           "average w/o zero": 3.5945454545454543
         },
@@ -8611,7 +8611,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Georgia": {
           "count": 11,
-          "sum": 37.31999999999999,
+          "sum": 37.32,
           "average": 3.3927272727272726,
           "average w/o zero": 3.3927272727272726
         },
@@ -8629,19 +8629,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 11,
-          "sum": 39.74999999999999,
+          "sum": 39.75,
           "average": 3.6136363636363638,
           "average w/o zero": 3.6136363636363638
         },
         "Indiana": {
           "count": 11,
-          "sum": 36.64999999999999,
+          "sum": 36.65,
           "average": 3.331818181818182,
           "average w/o zero": 3.331818181818182
         },
         "Iowa": {
           "count": 11,
-          "sum": 41.550000000000004,
+          "sum": 41.55,
           "average": 3.7772727272727273,
           "average w/o zero": 3.7772727272727273
         },
@@ -8653,7 +8653,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kentucky": {
           "count": 11,
-          "sum": 40.67000000000001,
+          "sum": 40.67,
           "average": 3.6972727272727273,
           "average w/o zero": 3.6972727272727273
         },
@@ -8665,7 +8665,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 37.160000000000004,
+          "sum": 37.16,
           "average": 3.378181818181818,
           "average w/o zero": 3.378181818181818
         },
@@ -8677,7 +8677,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 35.489999999999995,
+          "sum": 35.49,
           "average": 3.2263636363636365,
           "average w/o zero": 3.2263636363636365
         },
@@ -8713,7 +8713,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 11,
-          "sum": 40.980000000000004,
+          "sum": 40.98,
           "average": 3.7254545454545456,
           "average w/o zero": 3.7254545454545456
         },
@@ -8725,7 +8725,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 36.629999999999995,
+          "sum": 36.63,
           "average": 3.33,
           "average w/o zero": 3.33
         },
@@ -8737,7 +8737,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Mexico": {
           "count": 11,
-          "sum": 38.81999999999999,
+          "sum": 38.82,
           "average": 3.5290909090909093,
           "average w/o zero": 3.5290909090909093
         },
@@ -8767,13 +8767,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 40.61000000000001,
+          "sum": 40.61,
           "average": 3.691818181818182,
           "average w/o zero": 3.691818181818182
         },
         "Oregon": {
           "count": 11,
-          "sum": 38.56999999999999,
+          "sum": 38.57,
           "average": 3.5063636363636363,
           "average w/o zero": 3.5063636363636363
         },
@@ -8791,7 +8791,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 35.85000000000001,
+          "sum": 35.85,
           "average": 3.2590909090909093,
           "average w/o zero": 3.2590909090909093
         },
@@ -8803,13 +8803,13 @@ VISUALIZER_DATA_BARS = [
         },
         "South Dakota": {
           "count": 11,
-          "sum": 41.190000000000005,
+          "sum": 41.19,
           "average": 3.7445454545454546,
           "average w/o zero": 3.7445454545454546
         },
         "Tennessee": {
           "count": 11,
-          "sum": 40.010000000000005,
+          "sum": 40.01,
           "average": 3.637272727272727,
           "average w/o zero": 3.637272727272727
         },
@@ -8827,13 +8827,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Vermont": {
           "count": 11,
-          "sum": 37.349999999999994,
+          "sum": 37.35,
           "average": 3.3954545454545455,
           "average w/o zero": 3.3954545454545455
         },
         "Virgin Islands": {
           "count": 9,
-          "sum": 28.019999999999996,
+          "sum": 28.02,
           "average": 3.1133333333333333,
           "average w/o zero": 3.1133333333333333
         },
@@ -8851,19 +8851,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 40.830000000000005,
+          "sum": 40.83,
           "average": 3.711818181818182,
           "average w/o zero": 3.711818181818182
         },
         "Wyoming": {
           "count": 11,
-          "sum": 41.07000000000001,
+          "sum": 41.07,
           "average": 3.733636363636364,
           "average w/o zero": 3.733636363636364
         },
         "West Virginia": {
           "count": 9,
-          "sum": 32.699999999999996,
+          "sum": 32.7,
           "average": 3.6333333333333333,
           "average w/o zero": 3.6333333333333333
         }
@@ -8871,7 +8871,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.English.Average Years": {
         "Alabama": {
           "count": 11,
-          "sum": 42.99999999999999,
+          "sum": 43.0,
           "average": 3.909090909090909,
           "average w/o zero": 3.909090909090909
         },
@@ -8883,7 +8883,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Arizona": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
@@ -8907,37 +8907,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Connecticut": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Delaware": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
         "District Of Columbia": {
           "count": 11,
-          "sum": 41.20000000000001,
+          "sum": 41.2,
           "average": 3.7454545454545456,
           "average w/o zero": 3.7454545454545456
         },
         "Florida": {
           "count": 11,
-          "sum": 41.89999999999999,
+          "sum": 41.9,
           "average": 3.809090909090909,
           "average w/o zero": 3.809090909090909
         },
         "Georgia": {
           "count": 11,
-          "sum": 41.400000000000006,
+          "sum": 41.4,
           "average": 3.7636363636363637,
           "average w/o zero": 3.7636363636363637
         },
         "Hawaii": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
@@ -8955,19 +8955,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Indiana": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Iowa": {
           "count": 11,
-          "sum": 44.900000000000006,
+          "sum": 44.9,
           "average": 4.081818181818181,
           "average w/o zero": 4.081818181818181
         },
         "Kansas": {
           "count": 11,
-          "sum": 43.699999999999996,
+          "sum": 43.7,
           "average": 3.9727272727272727,
           "average w/o zero": 3.9727272727272727
         },
@@ -8985,25 +8985,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 42.99999999999999,
+          "sum": 43.0,
           "average": 3.909090909090909,
           "average w/o zero": 3.909090909090909
         },
         "Maryland": {
           "count": 11,
-          "sum": 42.79999999999999,
+          "sum": 42.8,
           "average": 3.8909090909090907,
           "average w/o zero": 3.8909090909090907
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Michigan": {
           "count": 11,
-          "sum": 44.400000000000006,
+          "sum": 44.4,
           "average": 4.036363636363636,
           "average w/o zero": 4.036363636363636
         },
@@ -9015,7 +9015,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mississippi": {
           "count": 11,
-          "sum": 43.699999999999996,
+          "sum": 43.7,
           "average": 3.9727272727272727,
           "average w/o zero": 3.9727272727272727
         },
@@ -9027,19 +9027,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Montana": {
           "count": 11,
-          "sum": 43.599999999999994,
+          "sum": 43.6,
           "average": 3.9636363636363634,
           "average w/o zero": 3.9636363636363634
         },
         "Nebraska": {
           "count": 11,
-          "sum": 44.400000000000006,
+          "sum": 44.4,
           "average": 4.036363636363636,
           "average w/o zero": 4.036363636363636
         },
         "Nevada": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
@@ -9051,13 +9051,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New Jersey": {
           "count": 11,
-          "sum": 42.79999999999999,
+          "sum": 42.8,
           "average": 3.8909090909090907,
           "average w/o zero": 3.8909090909090907
         },
         "New Mexico": {
           "count": 11,
-          "sum": 43.199999999999996,
+          "sum": 43.2,
           "average": 3.9272727272727272,
           "average w/o zero": 3.9272727272727272
         },
@@ -9069,37 +9069,37 @@ VISUALIZER_DATA_BARS = [
         },
         "North Carolina": {
           "count": 11,
-          "sum": 42.099999999999994,
+          "sum": 42.1,
           "average": 3.827272727272727,
           "average w/o zero": 3.827272727272727
         },
         "North Dakota": {
           "count": 11,
-          "sum": 44.7,
+          "sum": 44.699999999999996,
           "average": 4.0636363636363635,
           "average w/o zero": 4.0636363636363635
         },
         "Ohio": {
           "count": 11,
-          "sum": 43.39999999999999,
+          "sum": 43.4,
           "average": 3.9454545454545453,
           "average w/o zero": 3.9454545454545453
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 43.49999999999999,
+          "sum": 43.5,
           "average": 3.9545454545454546,
           "average w/o zero": 3.9545454545454546
         },
         "Oregon": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
@@ -9111,13 +9111,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "South Carolina": {
           "count": 11,
-          "sum": 43.099999999999994,
+          "sum": 43.1,
           "average": 3.918181818181818,
           "average w/o zero": 3.918181818181818
         },
@@ -9135,7 +9135,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Texas": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
@@ -9147,7 +9147,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Vermont": {
           "count": 11,
-          "sum": 43.199999999999996,
+          "sum": 43.2,
           "average": 3.9272727272727272,
           "average w/o zero": 3.9272727272727272
         },
@@ -9159,31 +9159,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Virginia": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Washington": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 44.7,
+          "sum": 44.699999999999996,
           "average": 4.0636363636363635,
           "average w/o zero": 4.0636363636363635
         },
         "Wyoming": {
           "count": 11,
-          "sum": 43.900000000000006,
+          "sum": 43.9,
           "average": 3.9909090909090907,
           "average w/o zero": 3.9909090909090907
         },
         "West Virginia": {
           "count": 9,
-          "sum": 35.699999999999996,
+          "sum": 35.7,
           "average": 3.966666666666667,
           "average w/o zero": 3.966666666666667
         }
@@ -9233,7 +9233,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Delaware": {
           "count": 11,
-          "sum": 35.220000000000006,
+          "sum": 35.22,
           "average": 3.2018181818181817,
           "average w/o zero": 3.2018181818181817
         },
@@ -9245,7 +9245,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Florida": {
           "count": 11,
-          "sum": 36.93000000000001,
+          "sum": 36.93,
           "average": 3.3572727272727274,
           "average w/o zero": 3.3572727272727274
         },
@@ -9287,7 +9287,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 11,
-          "sum": 39.980000000000004,
+          "sum": 39.98,
           "average": 3.6345454545454547,
           "average w/o zero": 3.6345454545454547
         },
@@ -9305,7 +9305,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 36.730000000000004,
+          "sum": 36.73,
           "average": 3.339090909090909,
           "average w/o zero": 3.339090909090909
         },
@@ -9335,7 +9335,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mississippi": {
           "count": 11,
-          "sum": 40.839999999999996,
+          "sum": 40.84,
           "average": 3.712727272727273,
           "average w/o zero": 3.712727272727273
         },
@@ -9365,19 +9365,19 @@ VISUALIZER_DATA_BARS = [
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 35.150000000000006,
+          "sum": 35.15,
           "average": 3.1954545454545453,
           "average w/o zero": 3.1954545454545453
         },
         "New Jersey": {
           "count": 11,
-          "sum": 36.190000000000005,
+          "sum": 36.19,
           "average": 3.29,
           "average w/o zero": 3.29
         },
         "New Mexico": {
           "count": 11,
-          "sum": 38.84,
+          "sum": 38.839999999999996,
           "average": 3.5309090909090908,
           "average w/o zero": 3.5309090909090908
         },
@@ -9389,7 +9389,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Carolina": {
           "count": 11,
-          "sum": 36.71999999999999,
+          "sum": 36.72,
           "average": 3.338181818181818,
           "average w/o zero": 3.338181818181818
         },
@@ -9419,7 +9419,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 36.519999999999996,
+          "sum": 36.52,
           "average": 3.32,
           "average w/o zero": 3.32
         },
@@ -9437,7 +9437,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Carolina": {
           "count": 11,
-          "sum": 36.410000000000004,
+          "sum": 36.41,
           "average": 3.31,
           "average w/o zero": 3.31
         },
@@ -9491,19 +9491,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 40.32000000000001,
+          "sum": 40.32,
           "average": 3.6654545454545455,
           "average w/o zero": 3.6654545454545455
         },
         "Wyoming": {
           "count": 11,
-          "sum": 40.279999999999994,
+          "sum": 40.28,
           "average": 3.6618181818181816,
           "average w/o zero": 3.6618181818181816
         },
         "West Virginia": {
           "count": 9,
-          "sum": 31.660000000000004,
+          "sum": 31.66,
           "average": 3.5177777777777774,
           "average w/o zero": 3.5177777777777774
         }
@@ -9517,7 +9517,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alaska": {
           "count": 11,
-          "sum": 24.599999999999998,
+          "sum": 24.6,
           "average": 2.2363636363636363,
           "average w/o zero": 2.2363636363636363
         },
@@ -9535,7 +9535,7 @@ VISUALIZER_DATA_BARS = [
         },
         "California": {
           "count": 11,
-          "sum": 30.800000000000004,
+          "sum": 30.799999999999997,
           "average": 2.8,
           "average w/o zero": 2.8
         },
@@ -9553,19 +9553,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Delaware": {
           "count": 11,
-          "sum": 31.299999999999997,
+          "sum": 31.3,
           "average": 2.8454545454545452,
           "average w/o zero": 2.8454545454545452
         },
         "District Of Columbia": {
           "count": 11,
-          "sum": 31.599999999999998,
+          "sum": 31.6,
           "average": 2.8727272727272726,
           "average w/o zero": 2.8727272727272726
         },
         "Florida": {
           "count": 11,
-          "sum": 27.200000000000003,
+          "sum": 27.2,
           "average": 2.4727272727272727,
           "average w/o zero": 2.4727272727272727
         },
@@ -9589,13 +9589,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 11,
-          "sum": 38.199999999999996,
+          "sum": 38.2,
           "average": 3.4727272727272727,
           "average w/o zero": 3.4727272727272727
         },
         "Indiana": {
           "count": 11,
-          "sum": 31.299999999999994,
+          "sum": 31.299999999999997,
           "average": 2.8454545454545452,
           "average w/o zero": 2.8454545454545452
         },
@@ -9625,19 +9625,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 30.499999999999993,
+          "sum": 30.5,
           "average": 2.7727272727272725,
           "average w/o zero": 2.7727272727272725
         },
         "Maryland": {
           "count": 11,
-          "sum": 31.499999999999993,
+          "sum": 31.5,
           "average": 2.8636363636363633,
           "average w/o zero": 2.8636363636363633
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 34.10000000000001,
+          "sum": 34.1,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -9649,37 +9649,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Minnesota": {
           "count": 11,
-          "sum": 37.39999999999999,
+          "sum": 37.4,
           "average": 3.4,
           "average w/o zero": 3.4
         },
         "Mississippi": {
           "count": 11,
-          "sum": 26.999999999999996,
+          "sum": 27.0,
           "average": 2.4545454545454546,
           "average w/o zero": 2.4545454545454546
         },
         "Missouri": {
           "count": 11,
-          "sum": 36.2,
+          "sum": 36.199999999999996,
           "average": 3.2909090909090906,
           "average w/o zero": 3.2909090909090906
         },
         "Montana": {
           "count": 11,
-          "sum": 26.3,
+          "sum": 26.299999999999997,
           "average": 2.3909090909090907,
           "average w/o zero": 2.3909090909090907
         },
         "Nebraska": {
           "count": 11,
-          "sum": 37.599999999999994,
+          "sum": 37.6,
           "average": 3.418181818181818,
           "average w/o zero": 3.418181818181818
         },
         "Nevada": {
           "count": 11,
-          "sum": 25.900000000000002,
+          "sum": 25.9,
           "average": 2.3545454545454545,
           "average w/o zero": 2.3545454545454545
         },
@@ -9697,13 +9697,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New Mexico": {
           "count": 11,
-          "sum": 29.899999999999995,
+          "sum": 29.900000000000002,
           "average": 2.7181818181818183,
           "average w/o zero": 2.7181818181818183
         },
         "New York": {
           "count": 11,
-          "sum": 33.800000000000004,
+          "sum": 33.8,
           "average": 3.0727272727272728,
           "average w/o zero": 3.0727272727272728
         },
@@ -9715,31 +9715,31 @@ VISUALIZER_DATA_BARS = [
         },
         "North Dakota": {
           "count": 11,
-          "sum": 31.599999999999994,
+          "sum": 31.6,
           "average": 2.8727272727272726,
           "average w/o zero": 2.8727272727272726
         },
         "Ohio": {
           "count": 11,
-          "sum": 35.199999999999996,
+          "sum": 35.2,
           "average": 3.2,
           "average w/o zero": 3.2
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 29.699999999999996,
+          "sum": 29.700000000000003,
           "average": 2.7,
           "average w/o zero": 2.7
         },
         "Oregon": {
           "count": 11,
-          "sum": 29.699999999999996,
+          "sum": 29.700000000000003,
           "average": 2.7,
           "average w/o zero": 2.7
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 30.800000000000004,
+          "sum": 30.799999999999997,
           "average": 2.8,
           "average w/o zero": 2.8
         },
@@ -9751,19 +9751,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 34.10000000000001,
+          "sum": 34.1,
           "average": 3.1,
           "average w/o zero": 3.1
         },
         "South Carolina": {
           "count": 11,
-          "sum": 29.499999999999996,
+          "sum": 29.5,
           "average": 2.681818181818182,
           "average w/o zero": 2.681818181818182
         },
         "South Dakota": {
           "count": 11,
-          "sum": 30.499999999999996,
+          "sum": 30.5,
           "average": 2.772727272727273,
           "average w/o zero": 2.772727272727273
         },
@@ -9781,7 +9781,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 11,
-          "sum": 31.199999999999996,
+          "sum": 31.2,
           "average": 2.8363636363636364,
           "average w/o zero": 2.8363636363636364
         },
@@ -9799,31 +9799,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Virginia": {
           "count": 11,
-          "sum": 34.2,
+          "sum": 34.199999999999996,
           "average": 3.109090909090909,
           "average w/o zero": 3.109090909090909
         },
         "Washington": {
           "count": 11,
-          "sum": 28.800000000000008,
+          "sum": 28.8,
           "average": 2.618181818181818,
           "average w/o zero": 2.618181818181818
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 39.10000000000001,
+          "sum": 39.1,
           "average": 3.5545454545454547,
           "average w/o zero": 3.5545454545454547
         },
         "Wyoming": {
           "count": 11,
-          "sum": 33.00000000000001,
+          "sum": 33.0,
           "average": 3.0,
           "average w/o zero": 3.0
         },
         "West Virginia": {
           "count": 9,
-          "sum": 22.700000000000003,
+          "sum": 22.7,
           "average": 2.522222222222222,
           "average w/o zero": 2.522222222222222
         }
@@ -9831,7 +9831,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Mathematics.Average GPA": {
         "Alabama": {
           "count": 11,
-          "sum": 37.739999999999995,
+          "sum": 37.74,
           "average": 3.430909090909091,
           "average w/o zero": 3.430909090909091
         },
@@ -9843,19 +9843,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Arizona": {
           "count": 11,
-          "sum": 35.879999999999995,
+          "sum": 35.88,
           "average": 3.2618181818181817,
           "average w/o zero": 3.2618181818181817
         },
         "Arkansas": {
           "count": 11,
-          "sum": 39.040000000000006,
+          "sum": 39.04,
           "average": 3.549090909090909,
           "average w/o zero": 3.549090909090909
         },
         "California": {
           "count": 11,
-          "sum": 33.79999999999999,
+          "sum": 33.8,
           "average": 3.0727272727272728,
           "average w/o zero": 3.0727272727272728
         },
@@ -9885,13 +9885,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Florida": {
           "count": 11,
-          "sum": 34.07000000000001,
+          "sum": 34.07,
           "average": 3.097272727272727,
           "average w/o zero": 3.097272727272727
         },
         "Georgia": {
           "count": 11,
-          "sum": 34.940000000000005,
+          "sum": 34.94,
           "average": 3.1763636363636363,
           "average w/o zero": 3.1763636363636363
         },
@@ -9903,13 +9903,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Idaho": {
           "count": 11,
-          "sum": 35.68000000000001,
+          "sum": 35.68,
           "average": 3.2436363636363637,
           "average w/o zero": 3.2436363636363637
         },
         "Illinois": {
           "count": 11,
-          "sum": 38.519999999999996,
+          "sum": 38.52,
           "average": 3.501818181818182,
           "average w/o zero": 3.501818181818182
         },
@@ -9921,31 +9921,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Iowa": {
           "count": 11,
-          "sum": 39.709999999999994,
+          "sum": 39.71,
           "average": 3.61,
           "average w/o zero": 3.61
         },
         "Kansas": {
           "count": 11,
-          "sum": 38.739999999999995,
+          "sum": 38.74,
           "average": 3.521818181818182,
           "average w/o zero": 3.521818181818182
         },
         "Kentucky": {
           "count": 11,
-          "sum": 39.239999999999995,
+          "sum": 39.24,
           "average": 3.5672727272727274,
           "average w/o zero": 3.5672727272727274
         },
         "Louisiana": {
           "count": 11,
-          "sum": 37.73,
+          "sum": 37.730000000000004,
           "average": 3.43,
           "average w/o zero": 3.43
         },
         "Maine": {
           "count": 11,
-          "sum": 35.309999999999995,
+          "sum": 35.31,
           "average": 3.21,
           "average w/o zero": 3.21
         },
@@ -9963,7 +9963,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Michigan": {
           "count": 11,
-          "sum": 39.27000000000001,
+          "sum": 39.27,
           "average": 3.57,
           "average w/o zero": 3.57
         },
@@ -10023,13 +10023,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New York": {
           "count": 11,
-          "sum": 33.459999999999994,
+          "sum": 33.46,
           "average": 3.0418181818181815,
           "average w/o zero": 3.0418181818181815
         },
         "North Carolina": {
           "count": 11,
-          "sum": 35.459999999999994,
+          "sum": 35.46,
           "average": 3.2236363636363636,
           "average w/o zero": 3.2236363636363636
         },
@@ -10065,7 +10065,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puerto Rico": {
           "count": 9,
-          "sum": 30.999999999999996,
+          "sum": 31.0,
           "average": 3.4444444444444446,
           "average w/o zero": 3.4444444444444446
         },
@@ -10083,19 +10083,19 @@ VISUALIZER_DATA_BARS = [
         },
         "South Dakota": {
           "count": 11,
-          "sum": 39.85999999999999,
+          "sum": 39.86,
           "average": 3.6236363636363635,
           "average w/o zero": 3.6236363636363635
         },
         "Tennessee": {
           "count": 11,
-          "sum": 38.599999999999994,
+          "sum": 38.6,
           "average": 3.5090909090909093,
           "average w/o zero": 3.5090909090909093
         },
         "Texas": {
           "count": 11,
-          "sum": 35.580000000000005,
+          "sum": 35.58,
           "average": 3.2345454545454544,
           "average w/o zero": 3.2345454545454544
         },
@@ -10107,7 +10107,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Vermont": {
           "count": 11,
-          "sum": 35.11000000000001,
+          "sum": 35.11,
           "average": 3.191818181818182,
           "average w/o zero": 3.191818181818182
         },
@@ -10125,7 +10125,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington": {
           "count": 11,
-          "sum": 35.339999999999996,
+          "sum": 35.34,
           "average": 3.212727272727273,
           "average w/o zero": 3.212727272727273
         },
@@ -10143,7 +10143,7 @@ VISUALIZER_DATA_BARS = [
         },
         "West Virginia": {
           "count": 9,
-          "sum": 30.639999999999997,
+          "sum": 30.64,
           "average": 3.4044444444444446,
           "average w/o zero": 3.4044444444444446
         }
@@ -10157,7 +10157,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alaska": {
           "count": 11,
-          "sum": 40.300000000000004,
+          "sum": 40.3,
           "average": 3.6636363636363636,
           "average w/o zero": 3.6636363636363636
         },
@@ -10175,25 +10175,25 @@ VISUALIZER_DATA_BARS = [
         },
         "California": {
           "count": 11,
-          "sum": 40.99999999999999,
+          "sum": 41.0,
           "average": 3.7272727272727275,
           "average w/o zero": 3.7272727272727275
         },
         "Colorado": {
           "count": 11,
-          "sum": 44.00000000000001,
+          "sum": 44.0,
           "average": 4.0,
           "average w/o zero": 4.0
         },
         "Connecticut": {
           "count": 11,
-          "sum": 42.49999999999999,
+          "sum": 42.5,
           "average": 3.8636363636363633,
           "average w/o zero": 3.8636363636363633
         },
         "Delaware": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
@@ -10229,19 +10229,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 11,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 4.045454545454545,
           "average w/o zero": 4.045454545454545
         },
         "Indiana": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
         "Iowa": {
           "count": 11,
-          "sum": 45.10000000000001,
+          "sum": 45.1,
           "average": 4.1,
           "average w/o zero": 4.1
         },
@@ -10253,55 +10253,55 @@ VISUALIZER_DATA_BARS = [
         },
         "Kentucky": {
           "count": 11,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 4.045454545454545,
           "average w/o zero": 4.045454545454545
         },
         "Louisiana": {
           "count": 11,
-          "sum": 45.70000000000001,
+          "sum": 45.7,
           "average": 4.154545454545454,
           "average w/o zero": 4.154545454545454
         },
         "Maine": {
           "count": 11,
-          "sum": 42.099999999999994,
+          "sum": 42.1,
           "average": 3.827272727272727,
           "average w/o zero": 3.827272727272727
         },
         "Maryland": {
           "count": 11,
-          "sum": 42.49999999999999,
+          "sum": 42.5,
           "average": 3.8636363636363633,
           "average w/o zero": 3.8636363636363633
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Michigan": {
           "count": 11,
-          "sum": 44.800000000000004,
+          "sum": 44.8,
           "average": 4.072727272727272,
           "average w/o zero": 4.072727272727272
         },
         "Minnesota": {
           "count": 11,
-          "sum": 44.70000000000001,
+          "sum": 44.699999999999996,
           "average": 4.0636363636363635,
           "average w/o zero": 4.0636363636363635
         },
         "Mississippi": {
           "count": 11,
-          "sum": 45.300000000000004,
+          "sum": 45.3,
           "average": 4.118181818181818,
           "average w/o zero": 4.118181818181818
         },
         "Missouri": {
           "count": 11,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 4.045454545454545,
           "average w/o zero": 4.045454545454545
         },
@@ -10313,7 +10313,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 11,
-          "sum": 44.800000000000004,
+          "sum": 44.8,
           "average": 4.072727272727272,
           "average w/o zero": 4.072727272727272
         },
@@ -10337,7 +10337,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Mexico": {
           "count": 11,
-          "sum": 43.7,
+          "sum": 43.699999999999996,
           "average": 3.9727272727272727,
           "average w/o zero": 3.9727272727272727
         },
@@ -10349,7 +10349,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Carolina": {
           "count": 11,
-          "sum": 42.99999999999999,
+          "sum": 43.0,
           "average": 3.909090909090909,
           "average w/o zero": 3.909090909090909
         },
@@ -10361,13 +10361,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ohio": {
           "count": 11,
-          "sum": 44.400000000000006,
+          "sum": 44.4,
           "average": 4.036363636363636,
           "average w/o zero": 4.036363636363636
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 44.70000000000001,
+          "sum": 44.699999999999996,
           "average": 4.0636363636363635,
           "average w/o zero": 4.0636363636363635
         },
@@ -10379,7 +10379,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 42.79999999999999,
+          "sum": 42.8,
           "average": 3.8909090909090907,
           "average w/o zero": 3.8909090909090907
         },
@@ -10391,7 +10391,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 42.599999999999994,
+          "sum": 42.6,
           "average": 3.8727272727272726,
           "average w/o zero": 3.8727272727272726
         },
@@ -10403,19 +10403,19 @@ VISUALIZER_DATA_BARS = [
         },
         "South Dakota": {
           "count": 11,
-          "sum": 46.599999999999994,
+          "sum": 46.6,
           "average": 4.236363636363636,
           "average w/o zero": 4.236363636363636
         },
         "Tennessee": {
           "count": 11,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 4.045454545454545,
           "average w/o zero": 4.045454545454545
         },
         "Texas": {
           "count": 11,
-          "sum": 42.099999999999994,
+          "sum": 42.1,
           "average": 3.827272727272727,
           "average w/o zero": 3.827272727272727
         },
@@ -10439,19 +10439,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Virginia": {
           "count": 11,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 4.045454545454545,
           "average w/o zero": 4.045454545454545
         },
         "Washington": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 44.70000000000001,
+          "sum": 44.699999999999996,
           "average": 4.0636363636363635,
           "average w/o zero": 4.0636363636363635
         },
@@ -10477,7 +10477,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alaska": {
           "count": 11,
-          "sum": 36.669999999999995,
+          "sum": 36.67,
           "average": 3.3336363636363635,
           "average w/o zero": 3.3336363636363635
         },
@@ -10489,7 +10489,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Arkansas": {
           "count": 11,
-          "sum": 39.690000000000005,
+          "sum": 39.69,
           "average": 3.6081818181818184,
           "average w/o zero": 3.6081818181818184
         },
@@ -10555,7 +10555,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Indiana": {
           "count": 11,
-          "sum": 35.370000000000005,
+          "sum": 35.37,
           "average": 3.2154545454545453,
           "average w/o zero": 3.2154545454545453
         },
@@ -10597,19 +10597,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 34.769999999999996,
+          "sum": 34.77,
           "average": 3.160909090909091,
           "average w/o zero": 3.160909090909091
         },
         "Michigan": {
           "count": 11,
-          "sum": 40.059999999999995,
+          "sum": 40.06,
           "average": 3.6418181818181816,
           "average w/o zero": 3.6418181818181816
         },
         "Minnesota": {
           "count": 11,
-          "sum": 39.739999999999995,
+          "sum": 39.74,
           "average": 3.612727272727273,
           "average w/o zero": 3.612727272727273
         },
@@ -10621,7 +10621,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Missouri": {
           "count": 11,
-          "sum": 39.779999999999994,
+          "sum": 39.78,
           "average": 3.6163636363636362,
           "average w/o zero": 3.6163636363636362
         },
@@ -10639,13 +10639,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 11,
-          "sum": 36.32000000000001,
+          "sum": 36.32,
           "average": 3.3018181818181818,
           "average w/o zero": 3.3018181818181818
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 35.41,
+          "sum": 35.410000000000004,
           "average": 3.2190909090909092,
           "average w/o zero": 3.2190909090909092
         },
@@ -10699,13 +10699,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 36.39000000000001,
+          "sum": 36.39,
           "average": 3.308181818181818,
           "average w/o zero": 3.308181818181818
         },
         "Puerto Rico": {
           "count": 9,
-          "sum": 31.42,
+          "sum": 31.419999999999998,
           "average": 3.491111111111111,
           "average w/o zero": 3.491111111111111
         },
@@ -10717,19 +10717,19 @@ VISUALIZER_DATA_BARS = [
         },
         "South Carolina": {
           "count": 11,
-          "sum": 36.309999999999995,
+          "sum": 36.31,
           "average": 3.300909090909091,
           "average w/o zero": 3.300909090909091
         },
         "South Dakota": {
           "count": 11,
-          "sum": 40.91,
+          "sum": 40.910000000000004,
           "average": 3.7190909090909092,
           "average w/o zero": 3.7190909090909092
         },
         "Tennessee": {
           "count": 11,
-          "sum": 39.38999999999999,
+          "sum": 39.39,
           "average": 3.580909090909091,
           "average w/o zero": 3.580909090909091
         },
@@ -10741,13 +10741,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 11,
-          "sum": 39.63999999999999,
+          "sum": 39.64,
           "average": 3.6036363636363635,
           "average w/o zero": 3.6036363636363635
         },
         "Vermont": {
           "count": 11,
-          "sum": 36.050000000000004,
+          "sum": 36.05,
           "average": 3.2772727272727273,
           "average w/o zero": 3.2772727272727273
         },
@@ -10765,13 +10765,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington": {
           "count": 11,
-          "sum": 37.050000000000004,
+          "sum": 37.05,
           "average": 3.368181818181818,
           "average w/o zero": 3.368181818181818
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 40.14000000000001,
+          "sum": 40.14,
           "average": 3.649090909090909,
           "average w/o zero": 3.649090909090909
         },
@@ -10783,7 +10783,7 @@ VISUALIZER_DATA_BARS = [
         },
         "West Virginia": {
           "count": 9,
-          "sum": 31.879999999999995,
+          "sum": 31.88,
           "average": 3.542222222222222,
           "average w/o zero": 3.542222222222222
         }
@@ -10791,7 +10791,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Natural Sciences.Average Years": {
         "Alabama": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
@@ -10803,13 +10803,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Arizona": {
           "count": 11,
-          "sum": 37.39999999999999,
+          "sum": 37.4,
           "average": 3.4,
           "average w/o zero": 3.4
         },
         "Arkansas": {
           "count": 11,
-          "sum": 41.599999999999994,
+          "sum": 41.6,
           "average": 3.7818181818181817,
           "average w/o zero": 3.7818181818181817
         },
@@ -10827,19 +10827,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Connecticut": {
           "count": 11,
-          "sum": 39.70000000000001,
+          "sum": 39.7,
           "average": 3.6090909090909093,
           "average w/o zero": 3.6090909090909093
         },
         "Delaware": {
           "count": 11,
-          "sum": 39.699999999999996,
+          "sum": 39.7,
           "average": 3.6090909090909093,
           "average w/o zero": 3.6090909090909093
         },
         "District Of Columbia": {
           "count": 11,
-          "sum": 36.99999999999999,
+          "sum": 37.0,
           "average": 3.3636363636363633,
           "average w/o zero": 3.3636363636363633
         },
@@ -10851,13 +10851,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Georgia": {
           "count": 11,
-          "sum": 38.900000000000006,
+          "sum": 38.9,
           "average": 3.5363636363636366,
           "average w/o zero": 3.5363636363636366
         },
         "Hawaii": {
           "count": 11,
-          "sum": 38.900000000000006,
+          "sum": 38.9,
           "average": 3.5363636363636366,
           "average w/o zero": 3.5363636363636366
         },
@@ -10869,19 +10869,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 11,
-          "sum": 41.599999999999994,
+          "sum": 41.6,
           "average": 3.7818181818181817,
           "average w/o zero": 3.7818181818181817
         },
         "Indiana": {
           "count": 11,
-          "sum": 37.29999999999999,
+          "sum": 37.3,
           "average": 3.3909090909090907,
           "average w/o zero": 3.3909090909090907
         },
         "Iowa": {
           "count": 11,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
@@ -10905,7 +10905,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 39.400000000000006,
+          "sum": 39.4,
           "average": 3.581818181818182,
           "average w/o zero": 3.581818181818182
         },
@@ -10923,7 +10923,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Michigan": {
           "count": 11,
-          "sum": 41.99999999999999,
+          "sum": 42.0,
           "average": 3.8181818181818183,
           "average w/o zero": 3.8181818181818183
         },
@@ -10947,13 +10947,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Montana": {
           "count": 11,
-          "sum": 37.99999999999999,
+          "sum": 38.0,
           "average": 3.4545454545454546,
           "average w/o zero": 3.4545454545454546
         },
         "Nebraska": {
           "count": 11,
-          "sum": 41.89999999999999,
+          "sum": 41.9,
           "average": 3.809090909090909,
           "average w/o zero": 3.809090909090909
         },
@@ -10965,25 +10965,25 @@ VISUALIZER_DATA_BARS = [
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 39.80000000000001,
+          "sum": 39.800000000000004,
           "average": 3.618181818181818,
           "average w/o zero": 3.618181818181818
         },
         "New Jersey": {
           "count": 11,
-          "sum": 39.300000000000004,
+          "sum": 39.3,
           "average": 3.5727272727272728,
           "average w/o zero": 3.5727272727272728
         },
         "New Mexico": {
           "count": 11,
-          "sum": 39.00000000000001,
+          "sum": 39.0,
           "average": 3.5454545454545454,
           "average w/o zero": 3.5454545454545454
         },
         "New York": {
           "count": 11,
-          "sum": 39.50000000000001,
+          "sum": 39.5,
           "average": 3.590909090909091,
           "average w/o zero": 3.590909090909091
         },
@@ -10995,19 +10995,19 @@ VISUALIZER_DATA_BARS = [
         },
         "North Dakota": {
           "count": 11,
-          "sum": 42.099999999999994,
+          "sum": 42.1,
           "average": 3.827272727272727,
           "average w/o zero": 3.827272727272727
         },
         "Ohio": {
           "count": 11,
-          "sum": 41.199999999999996,
+          "sum": 41.2,
           "average": 3.7454545454545456,
           "average w/o zero": 3.7454545454545456
         },
         "Oklahoma": {
           "count": 11,
-          "sum": 41.10000000000001,
+          "sum": 41.1,
           "average": 3.7363636363636363,
           "average w/o zero": 3.7363636363636363
         },
@@ -11019,7 +11019,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pennsylvania": {
           "count": 11,
-          "sum": 40.400000000000006,
+          "sum": 40.4,
           "average": 3.672727272727273,
           "average w/o zero": 3.672727272727273
         },
@@ -11031,7 +11031,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 39.900000000000006,
+          "sum": 39.9,
           "average": 3.6272727272727274,
           "average w/o zero": 3.6272727272727274
         },
@@ -11049,7 +11049,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tennessee": {
           "count": 11,
-          "sum": 40.599999999999994,
+          "sum": 40.6,
           "average": 3.690909090909091,
           "average w/o zero": 3.690909090909091
         },
@@ -11061,13 +11061,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 11,
-          "sum": 39.60000000000001,
+          "sum": 39.6,
           "average": 3.6,
           "average w/o zero": 3.6
         },
         "Vermont": {
           "count": 11,
-          "sum": 39.60000000000001,
+          "sum": 39.6,
           "average": 3.6,
           "average w/o zero": 3.6
         },
@@ -11085,19 +11085,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington": {
           "count": 11,
-          "sum": 36.99999999999999,
+          "sum": 37.0,
           "average": 3.3636363636363638,
           "average w/o zero": 3.3636363636363638
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Wyoming": {
           "count": 11,
-          "sum": 42.400000000000006,
+          "sum": 42.4,
           "average": 3.8545454545454545,
           "average w/o zero": 3.8545454545454545
         },
@@ -11111,7 +11111,7 @@ VISUALIZER_DATA_BARS = [
       "Academic Subjects.Social Sciences/History.Average GPA": {
         "Alabama": {
           "count": 11,
-          "sum": 39.830000000000005,
+          "sum": 39.83,
           "average": 3.620909090909091,
           "average w/o zero": 3.620909090909091
         },
@@ -11123,31 +11123,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Arizona": {
           "count": 11,
-          "sum": 38.88,
+          "sum": 38.879999999999995,
           "average": 3.5345454545454547,
           "average w/o zero": 3.5345454545454547
         },
         "Arkansas": {
           "count": 11,
-          "sum": 40.48,
+          "sum": 40.480000000000004,
           "average": 3.68,
           "average w/o zero": 3.68
         },
         "California": {
           "count": 11,
-          "sum": 37.349999999999994,
+          "sum": 37.35,
           "average": 3.3954545454545455,
           "average w/o zero": 3.3954545454545455
         },
         "Colorado": {
           "count": 11,
-          "sum": 39.78999999999999,
+          "sum": 39.79,
           "average": 3.617272727272727,
           "average w/o zero": 3.617272727272727
         },
         "Connecticut": {
           "count": 11,
-          "sum": 35.769999999999996,
+          "sum": 35.77,
           "average": 3.251818181818182,
           "average w/o zero": 3.251818181818182
         },
@@ -11165,7 +11165,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Florida": {
           "count": 11,
-          "sum": 37.21000000000001,
+          "sum": 37.21,
           "average": 3.382727272727273,
           "average w/o zero": 3.382727272727273
         },
@@ -11207,7 +11207,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 11,
-          "sum": 40.73,
+          "sum": 40.730000000000004,
           "average": 3.7027272727272726,
           "average w/o zero": 3.7027272727272726
         },
@@ -11219,7 +11219,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Louisiana": {
           "count": 11,
-          "sum": 39.46000000000001,
+          "sum": 39.46,
           "average": 3.5872727272727274,
           "average w/o zero": 3.5872727272727274
         },
@@ -11231,13 +11231,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Maryland": {
           "count": 11,
-          "sum": 36.42999999999999,
+          "sum": 36.43,
           "average": 3.311818181818182,
           "average w/o zero": 3.311818181818182
         },
         "Massachusetts": {
           "count": 11,
-          "sum": 36.03000000000001,
+          "sum": 36.03,
           "average": 3.2754545454545454,
           "average w/o zero": 3.2754545454545454
         },
@@ -11255,7 +11255,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mississippi": {
           "count": 11,
-          "sum": 41.190000000000005,
+          "sum": 41.19,
           "average": 3.7445454545454546,
           "average w/o zero": 3.7445454545454546
         },
@@ -11273,7 +11273,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 11,
-          "sum": 41.07000000000001,
+          "sum": 41.07,
           "average": 3.733636363636364,
           "average w/o zero": 3.733636363636364
         },
@@ -11297,7 +11297,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Mexico": {
           "count": 11,
-          "sum": 39.260000000000005,
+          "sum": 39.26,
           "average": 3.569090909090909,
           "average w/o zero": 3.569090909090909
         },
@@ -11309,7 +11309,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Carolina": {
           "count": 11,
-          "sum": 37.730000000000004,
+          "sum": 37.73,
           "average": 3.43,
           "average w/o zero": 3.43
         },
@@ -11321,7 +11321,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ohio": {
           "count": 11,
-          "sum": 39.11000000000001,
+          "sum": 39.11,
           "average": 3.5554545454545456,
           "average w/o zero": 3.5554545454545456
         },
@@ -11333,7 +11333,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 11,
-          "sum": 39.02,
+          "sum": 39.019999999999996,
           "average": 3.5472727272727274,
           "average w/o zero": 3.5472727272727274
         },
@@ -11345,7 +11345,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puerto Rico": {
           "count": 9,
-          "sum": 32.260000000000005,
+          "sum": 32.26,
           "average": 3.5844444444444443,
           "average w/o zero": 3.5844444444444443
         },
@@ -11357,7 +11357,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Carolina": {
           "count": 11,
-          "sum": 37.419999999999995,
+          "sum": 37.42,
           "average": 3.401818181818182,
           "average w/o zero": 3.401818181818182
         },
@@ -11375,7 +11375,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Texas": {
           "count": 11,
-          "sum": 38.150000000000006,
+          "sum": 38.15,
           "average": 3.4681818181818183,
           "average w/o zero": 3.4681818181818183
         },
@@ -11387,7 +11387,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Vermont": {
           "count": 11,
-          "sum": 37.419999999999995,
+          "sum": 37.42,
           "average": 3.401818181818182,
           "average w/o zero": 3.401818181818182
         },
@@ -11411,13 +11411,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Wisconsin": {
           "count": 11,
-          "sum": 40.970000000000006,
+          "sum": 40.97,
           "average": 3.7245454545454546,
           "average w/o zero": 3.7245454545454546
         },
         "Wyoming": {
           "count": 11,
-          "sum": 41.00999999999999,
+          "sum": 41.01,
           "average": 3.728181818181818,
           "average w/o zero": 3.728181818181818
         },
@@ -11461,13 +11461,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Colorado": {
           "count": 11,
-          "sum": 41.599999999999994,
+          "sum": 41.6,
           "average": 3.7818181818181817,
           "average w/o zero": 3.7818181818181817
         },
         "Connecticut": {
           "count": 11,
-          "sum": 39.90000000000001,
+          "sum": 39.9,
           "average": 3.6272727272727274,
           "average w/o zero": 3.6272727272727274
         },
@@ -11491,7 +11491,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Georgia": {
           "count": 11,
-          "sum": 39.900000000000006,
+          "sum": 39.9,
           "average": 3.6272727272727274,
           "average w/o zero": 3.6272727272727274
         },
@@ -11509,7 +11509,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 11,
-          "sum": 40.10000000000001,
+          "sum": 40.1,
           "average": 3.6454545454545455,
           "average w/o zero": 3.6454545454545455
         },
@@ -11527,13 +11527,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 11,
-          "sum": 40.400000000000006,
+          "sum": 40.4,
           "average": 3.672727272727273,
           "average w/o zero": 3.672727272727273
         },
         "Kentucky": {
           "count": 11,
-          "sum": 39.50000000000001,
+          "sum": 39.5,
           "average": 3.590909090909091,
           "average w/o zero": 3.590909090909091
         },
@@ -11545,13 +11545,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Maine": {
           "count": 11,
-          "sum": 38.400000000000006,
+          "sum": 38.4,
           "average": 3.4909090909090907,
           "average w/o zero": 3.4909090909090907
         },
         "Maryland": {
           "count": 11,
-          "sum": 38.900000000000006,
+          "sum": 38.9,
           "average": 3.5363636363636366,
           "average w/o zero": 3.5363636363636366
         },
@@ -11563,7 +11563,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Michigan": {
           "count": 11,
-          "sum": 40.00000000000001,
+          "sum": 40.0,
           "average": 3.6363636363636367,
           "average w/o zero": 3.6363636363636367
         },
@@ -11575,13 +11575,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Mississippi": {
           "count": 11,
-          "sum": 42.89999999999999,
+          "sum": 42.9,
           "average": 3.9,
           "average w/o zero": 3.9
         },
         "Missouri": {
           "count": 11,
-          "sum": 41.7,
+          "sum": 41.699999999999996,
           "average": 3.7909090909090906,
           "average w/o zero": 3.7909090909090906
         },
@@ -11593,7 +11593,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 11,
-          "sum": 41.699999999999996,
+          "sum": 41.7,
           "average": 3.790909090909091,
           "average w/o zero": 3.790909090909091
         },
@@ -11605,7 +11605,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Hampshire": {
           "count": 11,
-          "sum": 39.300000000000004,
+          "sum": 39.3,
           "average": 3.5727272727272728,
           "average w/o zero": 3.5727272727272728
         },
@@ -11623,13 +11623,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New York": {
           "count": 11,
-          "sum": 41.300000000000004,
+          "sum": 41.3,
           "average": 3.7545454545454544,
           "average w/o zero": 3.7545454545454544
         },
         "North Carolina": {
           "count": 11,
-          "sum": 38.099999999999994,
+          "sum": 38.1,
           "average": 3.4636363636363634,
           "average w/o zero": 3.4636363636363634
         },
@@ -11653,7 +11653,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 11,
-          "sum": 37.39999999999999,
+          "sum": 37.4,
           "average": 3.4,
           "average w/o zero": 3.4
         },
@@ -11665,19 +11665,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Puerto Rico": {
           "count": 9,
-          "sum": 34.99999999999999,
+          "sum": 35.0,
           "average": 3.888888888888889,
           "average w/o zero": 3.888888888888889
         },
         "Rhode Island": {
           "count": 11,
-          "sum": 39.00000000000001,
+          "sum": 39.0,
           "average": 3.5454545454545454,
           "average w/o zero": 3.5454545454545454
         },
         "South Carolina": {
           "count": 11,
-          "sum": 39.300000000000004,
+          "sum": 39.3,
           "average": 3.5727272727272728,
           "average w/o zero": 3.5727272727272728
         },
@@ -11689,7 +11689,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tennessee": {
           "count": 11,
-          "sum": 38.400000000000006,
+          "sum": 38.4,
           "average": 3.4909090909090907,
           "average w/o zero": 3.4909090909090907
         },
@@ -11701,7 +11701,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 11,
-          "sum": 40.400000000000006,
+          "sum": 40.4,
           "average": 3.672727272727273,
           "average w/o zero": 3.672727272727273
         },
@@ -11719,7 +11719,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Virginia": {
           "count": 11,
-          "sum": 42.099999999999994,
+          "sum": 42.1,
           "average": 3.827272727272727,
           "average w/o zero": 3.827272727272727
         },
@@ -11737,7 +11737,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wyoming": {
           "count": 11,
-          "sum": 40.300000000000004,
+          "sum": 40.3,
           "average": 3.6636363636363636,
           "average w/o zero": 3.6636363636363636
         },

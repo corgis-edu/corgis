@@ -15,7 +15,7 @@ style: dataset
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Sam Donald</span><br>
-<span class='text-muted'>Version 1.0.0, created 10/28/2022</span><br>
+<span class='text-muted'>Version 1.0.1, created 10/28/2022</span><br>
 <span class='text-muted'>Tags: Nuclear, Atomic bomb, War</span>
 
 # Overview
@@ -160,7 +160,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Location' title='Dictionary (3 keys)'>
+<div id='explore-Location' title='Dictionary (4 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -188,13 +188,25 @@ $(document).ready(function() {
              </td> 
              <td>Region where nuclear device was deployed</td> </tr>
         
-        <tr> <td><code>"Cordinates"</code></td>
+        <tr> <td><code>"Coordinates"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Location-Cordinates'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Location-Coordinates'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+             
+                
+             </td> 
+             <td></td> </tr>
+        
+        <tr> <td><code>"Coordinates "</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Dictionary'>
+                       dict</span></td> 
+             <td>
+             
+                <a class='dialog-opener' id='btn-explore-Location-Coordinates-'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -202,6 +214,8 @@ $(document).ready(function() {
         
     </table>
 </div>
+
+    
 
     
 
@@ -232,8 +246,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Location-Cordinates").click(function() {
-        $( "#explore-Location-Cordinates" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Location-Coordinates").click(function() {
+        $( "#explore-Location-Coordinates" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Location-Coordinates-").click(function() {
+        $( "#explore-Location-Coordinates-" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -269,13 +289,13 @@ $(document).ready(function() {
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"Yeild"</code></td>
+        <tr> <td><code>"Yield"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Data-Yeild'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Data-Yield'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -355,8 +375,8 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Data-Yeild").click(function() {
-        $( "#explore-Data-Yeild" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Yield").click(function() {
+        $( "#explore-Data-Yield" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -382,7 +402,7 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Location-Cordinates' title='Dictionary (3 keys)'>
+<div id='explore-Location-Coordinates' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -410,18 +430,6 @@ $(document).ready(function() {
              </td> 
              <td>Longitude position</td> </tr>
         
-        <tr> <td><code>"Depth"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>-0.1</code>
-             
-                
-             </td> 
-             <td>	Depth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)</td> </tr>
-        
     </table>
 </div>
 
@@ -429,11 +437,9 @@ $(document).ready(function() {
 
     
 
-    
-
 <script>
 $(document).ready(function() {
-    $( "#explore-Location-Cordinates" ).dialog({
+    $( "#explore-Location-Coordinates" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -442,20 +448,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Location-Cordinates-Latitude").click(function() {
-        $( "#explore-Location-Cordinates-Latitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Location-Coordinates-Latitude").click(function() {
+        $( "#explore-Location-Coordinates-Latitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Location-Cordinates-Longitude").click(function() {
-        $( "#explore-Location-Cordinates-Longitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Location-Cordinates-Depth").click(function() {
-        $( "#explore-Location-Cordinates-Depth" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Location-Coordinates-Longitude").click(function() {
+        $( "#explore-Location-Coordinates-Longitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -524,7 +524,48 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Data-Yeild' title='Dictionary (2 keys)'>
+<div id='explore-Location-Coordinates-' title='Dictionary (1 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"Depth"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>-0.1</code>
+             
+                
+             </td> 
+             <td>	Depth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)</td> </tr>
+        
+    </table>
+</div>
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Location-Coordinates-" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Location-Coordinates--Depth").click(function() {
+        $( "#explore-Location-Coordinates--Depth" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Data-Yield' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
@@ -561,7 +602,7 @@ $(document).ready(function() {
 
 <script>
 $(document).ready(function() {
-    $( "#explore-Data-Yeild" ).dialog({
+    $( "#explore-Data-Yield" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -570,14 +611,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Data-Yeild-Lower").click(function() {
-        $( "#explore-Data-Yeild-Lower" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Yield-Lower").click(function() {
+        $( "#explore-Data-Yield-Lower" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Data-Yeild-Upper").click(function() {
-        $( "#explore-Data-Yeild-Upper" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Data-Yield-Upper").click(function() {
+        $( "#explore-Data-Yield-Upper" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

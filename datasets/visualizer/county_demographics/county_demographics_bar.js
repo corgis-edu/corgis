@@ -4,31 +4,31 @@ VISUALIZER_DATA_BARS = [
       "Age.Percent 65 and Older": {
         "SC": {
           "count": 46,
-          "sum": 918.6000000000001,
+          "sum": 918.6,
           "average": 19.969565217391303,
           "average w/o zero": 19.969565217391303
         },
         "LA": {
           "count": 64,
-          "sum": 1084.1000000000004,
+          "sum": 1084.1,
           "average": 16.9390625,
           "average w/o zero": 16.9390625
         },
         "VA": {
           "count": 133,
-          "sum": 2635.899999999999,
+          "sum": 2635.9,
           "average": 19.818796992481204,
           "average w/o zero": 19.818796992481204
         },
         "ID": {
           "count": 44,
-          "sum": 861.8000000000003,
+          "sum": 861.8,
           "average": 19.586363636363636,
           "average w/o zero": 19.586363636363636
         },
         "IA": {
           "count": 99,
-          "sum": 2036.1000000000006,
+          "sum": 2036.1,
           "average": 20.566666666666666,
           "average w/o zero": 20.566666666666666
         },
@@ -40,19 +40,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 2298.399999999999,
+          "sum": 2298.4,
           "average": 19.98608695652174,
           "average w/o zero": 19.98608695652174
         },
         "OK": {
           "count": 77,
-          "sum": 1434.8999999999996,
+          "sum": 1434.9,
           "average": 18.635064935064936,
           "average w/o zero": 18.635064935064936
         },
         "CO": {
           "count": 64,
-          "sum": 1281.2000000000003,
+          "sum": 1281.2,
           "average": 20.01875,
           "average w/o zero": 20.01875
         },
@@ -70,13 +70,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 1444.3000000000004,
+          "sum": 1444.3,
           "average": 17.61341463414634,
           "average w/o zero": 17.61341463414634
         },
         "ND": {
           "count": 53,
-          "sum": 1141.8000000000004,
+          "sum": 1141.8,
           "average": 21.543396226415094,
           "average w/o zero": 21.543396226415094
         },
@@ -88,25 +88,25 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 1648.8999999999999,
+          "sum": 1648.9,
           "average": 18.7375,
           "average w/o zero": 18.7375
         },
         "PA": {
           "count": 67,
-          "sum": 1393.3999999999996,
+          "sum": 1393.4,
           "average": 20.797014925373134,
           "average w/o zero": 20.797014925373134
         },
         "WA": {
           "count": 39,
-          "sum": 830.0000000000001,
+          "sum": 830.0,
           "average": 21.28205128205128,
           "average w/o zero": 21.28205128205128
         },
         "WI": {
           "count": 72,
-          "sum": 1495.2999999999997,
+          "sum": 1495.3,
           "average": 20.768055555555556,
           "average w/o zero": 20.768055555555556
         },
@@ -118,13 +118,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 1759.1999999999996,
+          "sum": 1759.2,
           "average": 20.220689655172414,
           "average w/o zero": 20.220689655172414
         },
         "FL": {
           "count": 67,
-          "sum": 1513.4000000000005,
+          "sum": 1513.4,
           "average": 22.588059701492536,
           "average w/o zero": 22.588059701492536
         },
@@ -142,25 +142,25 @@ VISUALIZER_DATA_BARS = [
         },
         "NY": {
           "count": 62,
-          "sum": 1188.3999999999996,
+          "sum": 1188.4,
           "average": 19.16774193548387,
           "average w/o zero": 19.16774193548387
         },
         "WY": {
           "count": 23,
-          "sum": 447.99999999999994,
+          "sum": 448.0,
           "average": 19.47826086956522,
           "average w/o zero": 19.47826086956522
         },
         "MI": {
           "count": 83,
-          "sum": 1857.899999999999,
+          "sum": 1857.9,
           "average": 22.38433734939759,
           "average w/o zero": 22.38433734939759
         },
         "AK": {
           "count": 27,
-          "sum": 386.7000000000001,
+          "sum": 386.7,
           "average": 14.322222222222223,
           "average w/o zero": 14.322222222222223
         },
@@ -172,19 +172,19 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 2173.499999999999,
+          "sum": 2173.5,
           "average": 20.7,
           "average w/o zero": 20.7
         },
         "TN": {
           "count": 95,
-          "sum": 1854.5000000000002,
+          "sum": 1854.5,
           "average": 19.521052631578947,
           "average w/o zero": 19.521052631578947
         },
         "TX": {
           "count": 254,
-          "sum": 4712.900000000003,
+          "sum": 4712.9,
           "average": 18.55472440944882,
           "average w/o zero": 18.55472440944882
         },
@@ -196,25 +196,25 @@ VISUALIZER_DATA_BARS = [
         },
         "AZ": {
           "count": 15,
-          "sum": 325.70000000000005,
+          "sum": 325.7,
           "average": 21.713333333333335,
           "average w/o zero": 21.713333333333335
         },
         "GA": {
           "count": 159,
-          "sum": 2855.8999999999996,
+          "sum": 2855.9,
           "average": 17.961635220125785,
           "average w/o zero": 17.961635220125785
         },
         "AR": {
           "count": 75,
-          "sum": 1514.9000000000003,
+          "sum": 1514.9,
           "average": 20.198666666666668,
           "average w/o zero": 20.198666666666668
         },
         "NJ": {
           "count": 21,
-          "sum": 365.79999999999995,
+          "sum": 365.8,
           "average": 17.419047619047618,
           "average w/o zero": 17.419047619047618
         },
@@ -226,19 +226,19 @@ VISUALIZER_DATA_BARS = [
         },
         "AL": {
           "count": 67,
-          "sum": 1279.6000000000001,
+          "sum": 1279.6,
           "average": 19.098507462686566,
           "average w/o zero": 19.098507462686566
         },
         "OR": {
           "count": 36,
-          "sum": 812.8999999999997,
+          "sum": 812.9,
           "average": 22.580555555555556,
           "average w/o zero": 22.580555555555556
         },
         "WV": {
           "count": 55,
-          "sum": 1204.3000000000004,
+          "sum": 1204.3,
           "average": 21.896363636363635,
           "average w/o zero": 21.896363636363635
         },
@@ -250,31 +250,31 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 457.79999999999995,
+          "sum": 457.8,
           "average": 15.786206896551723,
           "average w/o zero": 15.786206896551723
         },
         "MT": {
           "count": 56,
-          "sum": 1290.1000000000008,
+          "sum": 1290.1,
           "average": 23.0375,
           "average w/o zero": 23.0375
         },
         "NH": {
           "count": 10,
-          "sum": 208.99999999999997,
+          "sum": 209.0,
           "average": 20.9,
           "average w/o zero": 20.9
         },
         "NM": {
           "count": 33,
-          "sum": 730.9999999999999,
+          "sum": 731.0,
           "average": 22.151515151515152,
           "average w/o zero": 22.151515151515152
         },
         "RI": {
           "count": 5,
-          "sum": 99.49999999999999,
+          "sum": 99.5,
           "average": 19.9,
           "average w/o zero": 19.9
         },
@@ -292,7 +292,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 146.89999999999998,
+          "sum": 146.9,
           "average": 18.3625,
           "average w/o zero": 18.3625
         },
@@ -312,7 +312,7 @@ VISUALIZER_DATA_BARS = [
       "Age.Percent Under 18 Years": {
         "SC": {
           "count": 46,
-          "sum": 967.3999999999997,
+          "sum": 967.4,
           "average": 21.030434782608694,
           "average w/o zero": 21.030434782608694
         },
@@ -342,13 +342,13 @@ VISUALIZER_DATA_BARS = [
         },
         "KY": {
           "count": 120,
-          "sum": 2667.900000000001,
+          "sum": 2667.9,
           "average": 22.232499999999998,
           "average w/o zero": 22.232499999999998
         },
         "MO": {
           "count": 115,
-          "sum": 2570.000000000002,
+          "sum": 2570.0,
           "average": 22.347826086956523,
           "average w/o zero": 22.347826086956523
         },
@@ -360,13 +360,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CO": {
           "count": 64,
-          "sum": 1277.8000000000004,
+          "sum": 1277.8,
           "average": 19.965625,
           "average w/o zero": 19.965625
         },
         "IL": {
           "count": 102,
-          "sum": 2176.899999999999,
+          "sum": 2176.9,
           "average": 21.3421568627451,
           "average w/o zero": 21.3421568627451
         },
@@ -378,43 +378,43 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 1885.0999999999992,
+          "sum": 1885.1,
           "average": 22.9890243902439,
           "average w/o zero": 22.9890243902439
         },
         "ND": {
           "count": 53,
-          "sum": 1233.4999999999998,
+          "sum": 1233.5,
           "average": 23.27358490566038,
           "average w/o zero": 23.27358490566038
         },
         "NE": {
           "count": 93,
-          "sum": 2131.4999999999995,
+          "sum": 2131.5,
           "average": 22.919354838709676,
           "average w/o zero": 22.919354838709676
         },
         "OH": {
           "count": 88,
-          "sum": 1951.6000000000006,
+          "sum": 1951.6,
           "average": 22.177272727272726,
           "average w/o zero": 22.177272727272726
         },
         "PA": {
           "count": 67,
-          "sum": 1312.8000000000004,
+          "sum": 1312.8,
           "average": 19.594029850746267,
           "average w/o zero": 19.594029850746267
         },
         "WA": {
           "count": 39,
-          "sum": 821.8000000000002,
+          "sum": 821.8,
           "average": 21.07179487179487,
           "average w/o zero": 21.07179487179487
         },
         "WI": {
           "count": 72,
-          "sum": 1507.4000000000005,
+          "sum": 1507.4,
           "average": 20.93611111111111,
           "average w/o zero": 20.93611111111111
         },
@@ -426,7 +426,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 1996.7000000000005,
+          "sum": 1996.7,
           "average": 22.95057471264368,
           "average w/o zero": 22.95057471264368
         },
@@ -438,31 +438,31 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 2045.0000000000002,
+          "sum": 2045.0,
           "average": 20.45,
           "average w/o zero": 20.45
         },
         "CA": {
           "count": 58,
-          "sum": 1267.9999999999998,
+          "sum": 1268.0,
           "average": 21.862068965517242,
           "average w/o zero": 21.862068965517242
         },
         "NY": {
           "count": 62,
-          "sum": 1232.1999999999998,
+          "sum": 1232.2,
           "average": 19.874193548387098,
           "average w/o zero": 19.874193548387098
         },
         "WY": {
           "count": 23,
-          "sum": 517.0999999999999,
+          "sum": 517.1,
           "average": 22.482608695652175,
           "average w/o zero": 22.482608695652175
         },
         "MI": {
           "count": 83,
-          "sum": 1623.7999999999995,
+          "sum": 1623.8,
           "average": 19.563855421686746,
           "average w/o zero": 19.563855421686746
         },
@@ -474,19 +474,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 506.89999999999986,
+          "sum": 506.9,
           "average": 21.120833333333334,
           "average w/o zero": 21.120833333333334
         },
         "KS": {
           "count": 105,
-          "sum": 2467.5000000000005,
+          "sum": 2467.5,
           "average": 23.5,
           "average w/o zero": 23.5
         },
         "TN": {
           "count": 95,
-          "sum": 1997.6999999999994,
+          "sum": 1997.7,
           "average": 21.02842105263158,
           "average w/o zero": 21.02842105263158
         },
@@ -498,31 +498,31 @@ VISUALIZER_DATA_BARS = [
         },
         "ME": {
           "count": 16,
-          "sum": 292.59999999999997,
+          "sum": 292.6,
           "average": 18.2875,
           "average w/o zero": 18.2875
         },
         "AZ": {
           "count": 15,
-          "sum": 335.20000000000005,
+          "sum": 335.2,
           "average": 22.346666666666668,
           "average w/o zero": 22.346666666666668
         },
         "GA": {
           "count": 159,
-          "sum": 3530.0000000000014,
+          "sum": 3530.0,
           "average": 22.20125786163522,
           "average w/o zero": 22.20125786163522
         },
         "AR": {
           "count": 75,
-          "sum": 1662.9999999999995,
+          "sum": 1663.0,
           "average": 22.173333333333332,
           "average w/o zero": 22.173333333333332
         },
         "NJ": {
           "count": 21,
-          "sum": 448.5999999999999,
+          "sum": 448.6,
           "average": 21.36190476190476,
           "average w/o zero": 21.36190476190476
         },
@@ -534,19 +534,19 @@ VISUALIZER_DATA_BARS = [
         },
         "AL": {
           "count": 67,
-          "sum": 1448.9999999999998,
+          "sum": 1449.0,
           "average": 21.62686567164179,
           "average w/o zero": 21.62686567164179
         },
         "OR": {
           "count": 36,
-          "sum": 731.0999999999998,
+          "sum": 731.1,
           "average": 20.308333333333334,
           "average w/o zero": 20.308333333333334
         },
         "WV": {
           "count": 55,
-          "sum": 1077.0000000000002,
+          "sum": 1077.0,
           "average": 19.581818181818182,
           "average w/o zero": 19.581818181818182
         },
@@ -564,13 +564,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 1192.3999999999999,
+          "sum": 1192.4,
           "average": 21.292857142857144,
           "average w/o zero": 21.292857142857144
         },
         "NH": {
           "count": 10,
-          "sum": 178.49999999999997,
+          "sum": 178.5,
           "average": 17.85,
           "average w/o zero": 17.85
         },
@@ -582,13 +582,13 @@ VISUALIZER_DATA_BARS = [
         },
         "RI": {
           "count": 5,
-          "sum": 90.60000000000001,
+          "sum": 90.6,
           "average": 18.12,
           "average w/o zero": 18.12
         },
         "NV": {
           "count": 17,
-          "sum": 348.40000000000003,
+          "sum": 348.4,
           "average": 20.49411764705882,
           "average w/o zero": 20.49411764705882
         },
@@ -600,13 +600,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 154.49999999999997,
+          "sum": 154.5,
           "average": 19.3125,
           "average w/o zero": 19.3125
         },
         "HI": {
           "count": 5,
-          "sum": 84.69999999999999,
+          "sum": 84.7,
           "average": 16.94,
           "average w/o zero": 21.425
         },
@@ -620,19 +620,19 @@ VISUALIZER_DATA_BARS = [
       "Age.Percent Under 5 Years": {
         "SC": {
           "count": 46,
-          "sum": 250.40000000000003,
+          "sum": 250.4,
           "average": 5.443478260869565,
           "average w/o zero": 5.443478260869565
         },
         "LA": {
           "count": 64,
-          "sum": 402.8999999999999,
+          "sum": 402.9,
           "average": 6.2953125,
           "average w/o zero": 6.2953125
         },
         "VA": {
           "count": 133,
-          "sum": 697.2000000000003,
+          "sum": 697.2,
           "average": 5.242105263157895,
           "average w/o zero": 5.242105263157895
         },
@@ -644,7 +644,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 591.0999999999999,
+          "sum": 591.1,
           "average": 5.97070707070707,
           "average w/o zero": 5.97070707070707
         },
@@ -656,13 +656,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 681.8000000000002,
+          "sum": 681.8,
           "average": 5.928695652173913,
           "average w/o zero": 5.928695652173913
         },
         "OK": {
           "count": 77,
-          "sum": 473.6999999999999,
+          "sum": 473.7,
           "average": 6.151948051948052,
           "average w/o zero": 6.151948051948052
         },
@@ -674,7 +674,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IL": {
           "count": 102,
-          "sum": 567.5999999999998,
+          "sum": 567.6,
           "average": 5.564705882352941,
           "average w/o zero": 5.564705882352941
         },
@@ -686,25 +686,25 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 497.49999999999994,
+          "sum": 497.5,
           "average": 6.067073170731708,
           "average w/o zero": 6.067073170731708
         },
         "ND": {
           "count": 53,
-          "sum": 349.6999999999999,
+          "sum": 349.7,
           "average": 6.59811320754717,
           "average w/o zero": 6.59811320754717
         },
         "NE": {
           "count": 93,
-          "sum": 565.9999999999999,
+          "sum": 566.0,
           "average": 6.086021505376344,
           "average w/o zero": 6.086021505376344
         },
         "OH": {
           "count": 88,
-          "sum": 507.3000000000003,
+          "sum": 507.3,
           "average": 5.764772727272727,
           "average w/o zero": 5.764772727272727
         },
@@ -716,13 +716,13 @@ VISUALIZER_DATA_BARS = [
         },
         "WA": {
           "count": 39,
-          "sum": 218.10000000000005,
+          "sum": 218.1,
           "average": 5.592307692307692,
           "average w/o zero": 5.592307692307692
         },
         "WI": {
           "count": 72,
-          "sum": 383.89999999999986,
+          "sum": 383.9,
           "average": 5.331944444444445,
           "average w/o zero": 5.331944444444445
         },
@@ -740,31 +740,31 @@ VISUALIZER_DATA_BARS = [
         },
         "FL": {
           "count": 67,
-          "sum": 337.09999999999985,
+          "sum": 337.1,
           "average": 5.03134328358209,
           "average w/o zero": 5.03134328358209
         },
         "NC": {
           "count": 100,
-          "sum": 529.4000000000003,
+          "sum": 529.4,
           "average": 5.294,
           "average w/o zero": 5.294
         },
         "CA": {
           "count": 58,
-          "sum": 334.40000000000015,
+          "sum": 334.4,
           "average": 5.76551724137931,
           "average w/o zero": 5.76551724137931
         },
         "NY": {
           "count": 62,
-          "sum": 323.39999999999986,
+          "sum": 323.4,
           "average": 5.216129032258064,
           "average w/o zero": 5.216129032258064
         },
         "WY": {
           "count": 23,
-          "sum": 133.39999999999998,
+          "sum": 133.4,
           "average": 5.8,
           "average w/o zero": 5.8
         },
@@ -776,13 +776,13 @@ VISUALIZER_DATA_BARS = [
         },
         "AK": {
           "count": 27,
-          "sum": 175.39999999999995,
+          "sum": 175.4,
           "average": 6.496296296296296,
           "average w/o zero": 6.496296296296296
         },
         "MD": {
           "count": 24,
-          "sum": 132.39999999999998,
+          "sum": 132.4,
           "average": 5.516666666666667,
           "average w/o zero": 5.516666666666667
         },
@@ -794,13 +794,13 @@ VISUALIZER_DATA_BARS = [
         },
         "TN": {
           "count": 95,
-          "sum": 521.6999999999998,
+          "sum": 521.7,
           "average": 5.491578947368421,
           "average w/o zero": 5.491578947368421
         },
         "TX": {
           "count": 254,
-          "sum": 1562.4999999999998,
+          "sum": 1562.5,
           "average": 6.1515748031496065,
           "average w/o zero": 6.1515748031496065
         },
@@ -818,19 +818,19 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 922.3999999999995,
+          "sum": 922.4,
           "average": 5.80125786163522,
           "average w/o zero": 5.80125786163522
         },
         "AR": {
           "count": 75,
-          "sum": 441.2000000000001,
+          "sum": 441.2,
           "average": 5.882666666666666,
           "average w/o zero": 5.882666666666666
         },
         "NJ": {
           "count": 21,
-          "sum": 116.29999999999998,
+          "sum": 116.3,
           "average": 5.538095238095238,
           "average w/o zero": 5.538095238095238
         },
@@ -842,13 +842,13 @@ VISUALIZER_DATA_BARS = [
         },
         "AL": {
           "count": 67,
-          "sum": 386.10000000000025,
+          "sum": 386.1,
           "average": 5.762686567164179,
           "average w/o zero": 5.762686567164179
         },
         "OR": {
           "count": 36,
-          "sum": 190.89999999999998,
+          "sum": 190.9,
           "average": 5.302777777777778,
           "average w/o zero": 5.302777777777778
         },
@@ -866,7 +866,7 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 203.39999999999998,
+          "sum": 203.4,
           "average": 7.0137931034482754,
           "average w/o zero": 7.0137931034482754
         },
@@ -884,19 +884,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 181.80000000000004,
+          "sum": 181.8,
           "average": 5.509090909090909,
           "average w/o zero": 5.509090909090909
         },
         "RI": {
           "count": 5,
-          "sum": 22.700000000000003,
+          "sum": 22.7,
           "average": 4.54,
           "average w/o zero": 4.54
         },
         "NV": {
           "count": 17,
-          "sum": 90.19999999999999,
+          "sum": 90.2,
           "average": 5.305882352941176,
           "average w/o zero": 5.305882352941176
         },
@@ -914,7 +914,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HI": {
           "count": 5,
-          "sum": 22.400000000000002,
+          "sum": 22.4,
           "average": 4.4799999999999995,
           "average w/o zero": 5.85
         },
@@ -928,43 +928,43 @@ VISUALIZER_DATA_BARS = [
       "Education.Bachelor's Degree or Higher": {
         "SC": {
           "count": 46,
-          "sum": 956.0999999999997,
+          "sum": 956.1,
           "average": 20.784782608695654,
           "average w/o zero": 20.784782608695654
         },
         "LA": {
           "count": 64,
-          "sum": 1104.8000000000002,
+          "sum": 1104.8,
           "average": 17.2625,
           "average w/o zero": 17.2625
         },
         "VA": {
           "count": 133,
-          "sum": 3591.3999999999996,
+          "sum": 3591.4,
           "average": 27.00300751879699,
           "average w/o zero": 27.00300751879699
         },
         "ID": {
           "count": 44,
-          "sum": 951.6999999999999,
+          "sum": 951.7,
           "average": 21.629545454545454,
           "average w/o zero": 21.629545454545454
         },
         "IA": {
           "count": 99,
-          "sum": 2173.1999999999994,
+          "sum": 2173.2,
           "average": 21.951515151515153,
           "average w/o zero": 21.951515151515153
         },
         "KY": {
           "count": 120,
-          "sum": 1985.5000000000007,
+          "sum": 1985.5,
           "average": 16.545833333333334,
           "average w/o zero": 16.545833333333334
         },
         "MO": {
           "count": 115,
-          "sum": 2163.9999999999995,
+          "sum": 2164.0,
           "average": 18.817391304347826,
           "average w/o zero": 18.817391304347826
         },
@@ -988,37 +988,37 @@ VISUALIZER_DATA_BARS = [
         },
         "IN": {
           "count": 92,
-          "sum": 1828.1000000000004,
+          "sum": 1828.1,
           "average": 19.870652173913044,
           "average w/o zero": 19.870652173913044
         },
         "MS": {
           "count": 82,
-          "sum": 1435.8000000000006,
+          "sum": 1435.8,
           "average": 17.509756097560977,
           "average w/o zero": 17.509756097560977
         },
         "ND": {
           "count": 53,
-          "sum": 1221.0000000000002,
+          "sum": 1221.0,
           "average": 23.037735849056602,
           "average w/o zero": 23.037735849056602
         },
         "NE": {
           "count": 93,
-          "sum": 2113.3999999999996,
+          "sum": 2113.4,
           "average": 22.7247311827957,
           "average w/o zero": 22.7247311827957
         },
         "OH": {
           "count": 88,
-          "sum": 1809.4999999999998,
+          "sum": 1809.5,
           "average": 20.5625,
           "average w/o zero": 20.5625
         },
         "PA": {
           "count": 67,
-          "sum": 1581.6999999999998,
+          "sum": 1581.7,
           "average": 23.607462686567164,
           "average w/o zero": 23.607462686567164
         },
@@ -1030,19 +1030,19 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 1700.8999999999999,
+          "sum": 1700.9,
           "average": 23.62361111111111,
           "average w/o zero": 23.62361111111111
         },
         "VT": {
           "count": 14,
-          "sum": 473.90000000000003,
+          "sum": 473.9,
           "average": 33.85,
           "average w/o zero": 33.85
         },
         "MN": {
           "count": 87,
-          "sum": 2084.5999999999995,
+          "sum": 2084.6,
           "average": 23.960919540229884,
           "average w/o zero": 23.960919540229884
         },
@@ -1054,19 +1054,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 2228.100000000001,
+          "sum": 2228.1,
           "average": 22.281,
           "average w/o zero": 22.281
         },
         "CA": {
           "count": 58,
-          "sum": 1582.9000000000003,
+          "sum": 1582.9,
           "average": 27.291379310344826,
           "average w/o zero": 27.291379310344826
         },
         "NY": {
           "count": 62,
-          "sum": 1759.0999999999997,
+          "sum": 1759.1,
           "average": 28.37258064516129,
           "average w/o zero": 28.37258064516129
         },
@@ -1078,55 +1078,55 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 1854.1000000000001,
+          "sum": 1854.1,
           "average": 22.33855421686747,
           "average w/o zero": 22.33855421686747
         },
         "AK": {
           "count": 27,
-          "sum": 633.5000000000001,
+          "sum": 633.5,
           "average": 23.462962962962962,
           "average w/o zero": 23.462962962962962
         },
         "MD": {
           "count": 24,
-          "sum": 783.3000000000001,
+          "sum": 783.3,
           "average": 32.6375,
           "average w/o zero": 32.6375
         },
         "KS": {
           "count": 105,
-          "sum": 2441.2999999999997,
+          "sum": 2441.3,
           "average": 23.250476190476192,
           "average w/o zero": 23.250476190476192
         },
         "TN": {
           "count": 95,
-          "sum": 1665.3999999999999,
+          "sum": 1665.4,
           "average": 17.530526315789473,
           "average w/o zero": 17.530526315789473
         },
         "TX": {
           "count": 254,
-          "sum": 4840.099999999999,
+          "sum": 4840.1,
           "average": 19.05551181102362,
           "average w/o zero": 19.13083003952569
         },
         "ME": {
           "count": 16,
-          "sum": 447.69999999999993,
+          "sum": 447.7,
           "average": 27.98125,
           "average w/o zero": 27.98125
         },
         "AZ": {
           "count": 15,
-          "sum": 305.09999999999997,
+          "sum": 305.1,
           "average": 20.34,
           "average w/o zero": 20.34
         },
         "GA": {
           "count": 159,
-          "sum": 2962.0999999999995,
+          "sum": 2962.1,
           "average": 18.629559748427674,
           "average w/o zero": 18.629559748427674
         },
@@ -1138,13 +1138,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NJ": {
           "count": 21,
-          "sum": 785.1000000000001,
+          "sum": 785.1,
           "average": 37.385714285714286,
           "average w/o zero": 37.385714285714286
         },
         "SD": {
           "count": 65,
-          "sum": 1527.8999999999999,
+          "sum": 1527.9,
           "average": 23.506153846153847,
           "average w/o zero": 23.506153846153847
         },
@@ -1156,13 +1156,13 @@ VISUALIZER_DATA_BARS = [
         },
         "OR": {
           "count": 36,
-          "sum": 871.5999999999998,
+          "sum": 871.6,
           "average": 24.211111111111112,
           "average w/o zero": 24.211111111111112
         },
         "WV": {
           "count": 55,
-          "sum": 920.7999999999997,
+          "sum": 920.8,
           "average": 16.741818181818182,
           "average w/o zero": 16.741818181818182
         },
@@ -1174,13 +1174,13 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 760.9999999999999,
+          "sum": 761.0,
           "average": 26.241379310344826,
           "average w/o zero": 26.241379310344826
         },
         "MT": {
           "count": 56,
-          "sum": 1396.1000000000006,
+          "sum": 1396.1,
           "average": 24.930357142857144,
           "average w/o zero": 24.930357142857144
         },
@@ -1192,7 +1192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 696.3000000000001,
+          "sum": 696.3,
           "average": 21.1,
           "average w/o zero": 21.1
         },
@@ -1216,7 +1216,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 298.00000000000006,
+          "sum": 298.0,
           "average": 37.25,
           "average w/o zero": 37.25
         },
@@ -1236,13 +1236,13 @@ VISUALIZER_DATA_BARS = [
       "Education.High School or Higher": {
         "SC": {
           "count": 46,
-          "sum": 3869.8000000000006,
+          "sum": 3869.8,
           "average": 84.12608695652175,
           "average w/o zero": 84.12608695652175
         },
         "LA": {
           "count": 64,
-          "sum": 5252.299999999999,
+          "sum": 5252.3,
           "average": 82.0671875,
           "average w/o zero": 82.0671875
         },
@@ -1254,43 +1254,43 @@ VISUALIZER_DATA_BARS = [
         },
         "ID": {
           "count": 44,
-          "sum": 3874.1999999999985,
+          "sum": 3874.2,
           "average": 88.05,
           "average w/o zero": 88.05
         },
         "IA": {
           "count": 99,
-          "sum": 9072.699999999995,
+          "sum": 9072.7,
           "average": 91.64343434343435,
           "average w/o zero": 91.64343434343435
         },
         "KY": {
           "count": 120,
-          "sum": 9851.300000000003,
+          "sum": 9851.3,
           "average": 82.09416666666667,
           "average w/o zero": 82.09416666666667
         },
         "MO": {
           "count": 115,
-          "sum": 9962.699999999997,
+          "sum": 9962.7,
           "average": 86.63217391304347,
           "average w/o zero": 86.63217391304347
         },
         "OK": {
           "count": 77,
-          "sum": 6630.299999999999,
+          "sum": 6630.3,
           "average": 86.1077922077922,
           "average w/o zero": 86.1077922077922
         },
         "CO": {
           "count": 64,
-          "sum": 5833.999999999999,
+          "sum": 5834.0,
           "average": 91.15625,
           "average w/o zero": 91.15625
         },
         "IL": {
           "count": 102,
-          "sum": 9155.099999999999,
+          "sum": 9155.1,
           "average": 89.75588235294117,
           "average w/o zero": 89.75588235294117
         },
@@ -1302,13 +1302,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 6647.0999999999985,
+          "sum": 6647.1,
           "average": 81.06219512195122,
           "average w/o zero": 81.06219512195122
         },
         "ND": {
           "count": 53,
-          "sum": 4805.299999999998,
+          "sum": 4805.3,
           "average": 90.66603773584906,
           "average w/o zero": 90.66603773584906
         },
@@ -1326,7 +1326,7 @@ VISUALIZER_DATA_BARS = [
         },
         "PA": {
           "count": 67,
-          "sum": 6022.700000000001,
+          "sum": 6022.7,
           "average": 89.8910447761194,
           "average w/o zero": 89.8910447761194
         },
@@ -1338,7 +1338,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 6615.299999999999,
+          "sum": 6615.3,
           "average": 91.87916666666666,
           "average w/o zero": 91.87916666666666
         },
@@ -1350,19 +1350,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 8019.9000000000015,
+          "sum": 8019.9,
           "average": 92.18275862068965,
           "average w/o zero": 92.18275862068965
         },
         "FL": {
           "count": 67,
-          "sum": 5735.800000000003,
+          "sum": 5735.8,
           "average": 85.6089552238806,
           "average w/o zero": 85.6089552238806
         },
         "NC": {
           "count": 100,
-          "sum": 8513.899999999998,
+          "sum": 8513.9,
           "average": 85.139,
           "average w/o zero": 85.139
         },
@@ -1374,19 +1374,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NY": {
           "count": 62,
-          "sum": 5526.499999999997,
+          "sum": 5526.5,
           "average": 89.13709677419355,
           "average w/o zero": 89.13709677419355
         },
         "WY": {
           "count": 23,
-          "sum": 2135.3999999999996,
+          "sum": 2135.4,
           "average": 92.84347826086956,
           "average w/o zero": 92.84347826086956
         },
         "MI": {
           "count": 83,
-          "sum": 7523.499999999998,
+          "sum": 7523.5,
           "average": 90.644578313253,
           "average w/o zero": 90.644578313253
         },
@@ -1398,67 +1398,67 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 2159.6000000000004,
+          "sum": 2159.6,
           "average": 89.98333333333333,
           "average w/o zero": 89.98333333333333
         },
         "KS": {
           "count": 105,
-          "sum": 9441.200000000003,
+          "sum": 9441.2,
           "average": 89.91619047619048,
           "average w/o zero": 89.91619047619048
         },
         "TN": {
           "count": 95,
-          "sum": 7942.299999999999,
+          "sum": 7942.3,
           "average": 83.60315789473684,
           "average w/o zero": 83.60315789473684
         },
         "TX": {
           "count": 254,
-          "sum": 20534.999999999993,
+          "sum": 20535.0,
           "average": 80.84645669291339,
           "average w/o zero": 80.84645669291339
         },
         "ME": {
           "count": 16,
-          "sum": 1471.1000000000001,
+          "sum": 1471.1,
           "average": 91.94375,
           "average w/o zero": 91.94375
         },
         "AZ": {
           "count": 15,
-          "sum": 1267.1999999999998,
+          "sum": 1267.2,
           "average": 84.48,
           "average w/o zero": 84.48
         },
         "GA": {
           "count": 159,
-          "sum": 13113.300000000003,
+          "sum": 13113.3,
           "average": 82.47358490566037,
           "average w/o zero": 82.47358490566037
         },
         "AR": {
           "count": 75,
-          "sum": 6333.299999999997,
+          "sum": 6333.3,
           "average": 84.444,
           "average w/o zero": 84.444
         },
         "NJ": {
           "count": 21,
-          "sum": 1890.6000000000001,
+          "sum": 1890.6,
           "average": 90.02857142857142,
           "average w/o zero": 90.02857142857142
         },
         "SD": {
           "count": 65,
-          "sum": 5863.499999999999,
+          "sum": 5863.5,
           "average": 90.20769230769231,
           "average w/o zero": 90.20769230769231
         },
         "AL": {
           "count": 67,
-          "sum": 5545.500000000002,
+          "sum": 5545.5,
           "average": 82.76865671641791,
           "average w/o zero": 82.76865671641791
         },
@@ -1470,7 +1470,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 4681.299999999998,
+          "sum": 4681.3,
           "average": 85.11454545454545,
           "average w/o zero": 85.11454545454545
         },
@@ -1482,7 +1482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 2663.7999999999997,
+          "sum": 2663.8,
           "average": 91.8551724137931,
           "average w/o zero": 91.8551724137931
         },
@@ -1494,25 +1494,25 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 925.8000000000001,
+          "sum": 925.8,
           "average": 92.58,
           "average w/o zero": 92.58
         },
         "NM": {
           "count": 33,
-          "sum": 2783.9000000000005,
+          "sum": 2783.9,
           "average": 84.36060606060606,
           "average w/o zero": 84.36060606060606
         },
         "RI": {
           "count": 5,
-          "sum": 457.80000000000007,
+          "sum": 457.8,
           "average": 91.56,
           "average w/o zero": 91.56
         },
         "NV": {
           "count": 17,
-          "sum": 1497.1999999999998,
+          "sum": 1497.2,
           "average": 88.07058823529411,
           "average w/o zero": 88.07058823529411
         },
@@ -1524,7 +1524,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 732.6999999999999,
+          "sum": 732.7,
           "average": 91.5875,
           "average w/o zero": 91.5875
         },
@@ -1852,7 +1852,7 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.American Indian and Alaska Native Alone": {
         "SC": {
           "count": 46,
-          "sum": 31.099999999999998,
+          "sum": 31.1,
           "average": 0.6760869565217391,
           "average w/o zero": 0.6760869565217391
         },
@@ -1864,7 +1864,7 @@ VISUALIZER_DATA_BARS = [
         },
         "VA": {
           "count": 133,
-          "sum": 60.99999999999999,
+          "sum": 61.0,
           "average": 0.4586466165413534,
           "average w/o zero": 0.4803149606299213
         },
@@ -1876,49 +1876,49 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 54.999999999999986,
+          "sum": 55.0,
           "average": 0.5555555555555556,
           "average w/o zero": 0.5555555555555556
         },
         "KY": {
           "count": 120,
-          "sum": 41.199999999999974,
+          "sum": 41.2,
           "average": 0.3433333333333333,
           "average w/o zero": 0.3433333333333333
         },
         "MO": {
           "count": 115,
-          "sum": 82.89999999999999,
+          "sum": 82.9,
           "average": 0.7208695652173913,
           "average w/o zero": 0.7208695652173913
         },
         "OK": {
           "count": 77,
-          "sum": 907.9000000000001,
+          "sum": 907.9,
           "average": 11.790909090909091,
           "average w/o zero": 11.790909090909091
         },
         "CO": {
           "count": 64,
-          "sum": 141.89999999999995,
+          "sum": 141.9,
           "average": 2.2171875,
           "average w/o zero": 2.2171875
         },
         "IL": {
           "count": 102,
-          "sum": 42.59999999999997,
+          "sum": 42.6,
           "average": 0.4176470588235294,
           "average w/o zero": 0.4176470588235294
         },
         "IN": {
           "count": 92,
-          "sum": 37.69999999999996,
+          "sum": 37.7,
           "average": 0.4097826086956522,
           "average w/o zero": 0.4097826086956522
         },
         "MS": {
           "count": 82,
-          "sum": 62.49999999999997,
+          "sum": 62.5,
           "average": 0.7621951219512195,
           "average w/o zero": 0.7621951219512195
         },
@@ -1936,19 +1936,19 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 28.199999999999996,
+          "sum": 28.2,
           "average": 0.32045454545454544,
           "average w/o zero": 0.32045454545454544
         },
         "PA": {
           "count": 67,
-          "sum": 21.900000000000002,
+          "sum": 21.9,
           "average": 0.32686567164179103,
           "average w/o zero": 0.32686567164179103
         },
         "WA": {
           "count": 39,
-          "sum": 122.10000000000001,
+          "sum": 122.1,
           "average": 3.1307692307692307,
           "average w/o zero": 3.1307692307692307
         },
@@ -1966,31 +1966,31 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 210.10000000000014,
+          "sum": 210.1,
           "average": 2.414942528735632,
           "average w/o zero": 2.414942528735632
         },
         "FL": {
           "count": 67,
-          "sum": 50.599999999999994,
+          "sum": 50.6,
           "average": 0.755223880597015,
           "average w/o zero": 0.755223880597015
         },
         "NC": {
           "count": 100,
-          "sum": 205.29999999999998,
+          "sum": 205.3,
           "average": 2.053,
           "average w/o zero": 2.053
         },
         "CA": {
           "count": 58,
-          "sum": 188.20000000000002,
+          "sum": 188.2,
           "average": 3.2448275862068967,
           "average w/o zero": 3.2448275862068967
         },
         "NY": {
           "count": 62,
-          "sum": 46.199999999999974,
+          "sum": 46.2,
           "average": 0.7451612903225806,
           "average w/o zero": 0.7451612903225806
         },
@@ -2002,19 +2002,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 148.29999999999993,
+          "sum": 148.3,
           "average": 1.7867469879518072,
           "average w/o zero": 1.7867469879518072
         },
         "AK": {
           "count": 27,
-          "sum": 832.9000000000002,
+          "sum": 832.9,
           "average": 30.848148148148148,
           "average w/o zero": 30.848148148148148
         },
         "MD": {
           "count": 24,
-          "sum": 11.400000000000002,
+          "sum": 11.4,
           "average": 0.475,
           "average w/o zero": 0.475
         },
@@ -2026,25 +2026,25 @@ VISUALIZER_DATA_BARS = [
         },
         "TN": {
           "count": 95,
-          "sum": 49.89999999999998,
+          "sum": 49.9,
           "average": 0.5252631578947369,
           "average w/o zero": 0.5252631578947369
         },
         "TX": {
           "count": 254,
-          "sum": 324.0999999999999,
+          "sum": 324.1,
           "average": 1.2759842519685038,
           "average w/o zero": 1.2759842519685038
         },
         "ME": {
           "count": 16,
-          "sum": 14.999999999999998,
+          "sum": 15.0,
           "average": 0.9375,
           "average w/o zero": 0.9375
         },
         "AZ": {
           "count": 15,
-          "sum": 226.49999999999997,
+          "sum": 226.5,
           "average": 15.1,
           "average w/o zero": 15.1
         },
@@ -2056,25 +2056,25 @@ VISUALIZER_DATA_BARS = [
         },
         "AR": {
           "count": 75,
-          "sum": 71.10000000000001,
+          "sum": 71.1,
           "average": 0.948,
           "average w/o zero": 0.948
         },
         "NJ": {
           "count": 21,
-          "sum": 12.800000000000004,
+          "sum": 12.8,
           "average": 0.6095238095238096,
           "average w/o zero": 0.6095238095238096
         },
         "SD": {
           "count": 65,
-          "sum": 871.5999999999999,
+          "sum": 871.6,
           "average": 13.409230769230769,
           "average w/o zero": 13.409230769230769
         },
         "AL": {
           "count": 67,
-          "sum": 57.799999999999976,
+          "sum": 57.8,
           "average": 0.8626865671641791,
           "average w/o zero": 0.8626865671641791
         },
@@ -2086,13 +2086,13 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 15.500000000000004,
+          "sum": 15.5,
           "average": 0.2818181818181818,
           "average w/o zero": 0.2818181818181818
         },
         "MA": {
           "count": 14,
-          "sum": 7.700000000000001,
+          "sum": 7.7,
           "average": 0.55,
           "average w/o zero": 0.55
         },
@@ -2104,19 +2104,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 477.89999999999986,
+          "sum": 477.90000000000003,
           "average": 8.533928571428572,
           "average w/o zero": 8.533928571428572
         },
         "NH": {
           "count": 10,
-          "sum": 3.3999999999999995,
+          "sum": 3.4,
           "average": 0.34,
           "average w/o zero": 0.34
         },
         "NM": {
           "count": 33,
-          "sum": 307.50000000000006,
+          "sum": 307.5,
           "average": 9.318181818181818,
           "average w/o zero": 9.318181818181818
         },
@@ -2128,7 +2128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 78.00000000000001,
+          "sum": 78.0,
           "average": 4.588235294117647,
           "average w/o zero": 4.588235294117647
         },
@@ -2146,7 +2146,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HI": {
           "count": 5,
-          "sum": 0.9999999999999999,
+          "sum": 1.0,
           "average": 0.19999999999999998,
           "average w/o zero": 0.5
         },
@@ -2160,7 +2160,7 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.Asian Alone": {
         "SC": {
           "count": 46,
-          "sum": 51.300000000000004,
+          "sum": 51.3,
           "average": 1.115217391304348,
           "average w/o zero": 1.115217391304348
         },
@@ -2172,7 +2172,7 @@ VISUALIZER_DATA_BARS = [
         },
         "VA": {
           "count": 133,
-          "sum": 298.00000000000006,
+          "sum": 298.0,
           "average": 2.2406015037593985,
           "average w/o zero": 2.2406015037593985
         },
@@ -2184,13 +2184,13 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 131.50000000000003,
+          "sum": 131.5,
           "average": 1.3282828282828283,
           "average w/o zero": 1.3282828282828283
         },
         "KY": {
           "count": 120,
-          "sum": 78.09999999999997,
+          "sum": 78.1,
           "average": 0.6508333333333334,
           "average w/o zero": 0.6508333333333334
         },
@@ -2202,7 +2202,7 @@ VISUALIZER_DATA_BARS = [
         },
         "OK": {
           "count": 77,
-          "sum": 75.60000000000001,
+          "sum": 75.6,
           "average": 0.9818181818181818,
           "average w/o zero": 0.9818181818181818
         },
@@ -2214,37 +2214,37 @@ VISUALIZER_DATA_BARS = [
         },
         "IL": {
           "count": 102,
-          "sum": 139.00000000000006,
+          "sum": 139.0,
           "average": 1.3627450980392157,
           "average w/o zero": 1.3627450980392157
         },
         "IN": {
           "count": 92,
-          "sum": 114.70000000000003,
+          "sum": 114.7,
           "average": 1.2467391304347826,
           "average w/o zero": 1.2467391304347826
         },
         "MS": {
           "count": 82,
-          "sum": 52.79999999999998,
+          "sum": 52.8,
           "average": 0.6439024390243903,
           "average w/o zero": 0.6439024390243903
         },
         "ND": {
           "count": 53,
-          "sum": 41.09999999999999,
+          "sum": 41.1,
           "average": 0.7754716981132075,
           "average w/o zero": 0.8096153846153846
         },
         "NE": {
           "count": 93,
-          "sum": 63.59999999999997,
+          "sum": 63.6,
           "average": 0.6838709677419355,
           "average w/o zero": 0.74
         },
         "OH": {
           "count": 88,
-          "sum": 101.99999999999999,
+          "sum": 102.0,
           "average": 1.1590909090909092,
           "average w/o zero": 1.1590909090909092
         },
@@ -2256,13 +2256,13 @@ VISUALIZER_DATA_BARS = [
         },
         "WA": {
           "count": 39,
-          "sum": 122.09999999999997,
+          "sum": 122.1,
           "average": 3.1307692307692307,
           "average w/o zero": 3.1307692307692307
         },
         "WI": {
           "count": 72,
-          "sum": 103.99999999999997,
+          "sum": 104.0,
           "average": 1.4444444444444444,
           "average w/o zero": 1.4444444444444444
         },
@@ -2274,7 +2274,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 149.79999999999998,
+          "sum": 149.8,
           "average": 1.72183908045977,
           "average w/o zero": 1.72183908045977
         },
@@ -2292,13 +2292,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CA": {
           "count": 58,
-          "sum": 467.40000000000003,
+          "sum": 467.4,
           "average": 8.058620689655172,
           "average w/o zero": 8.058620689655172
         },
         "NY": {
           "count": 62,
-          "sum": 193.29999999999998,
+          "sum": 193.3,
           "average": 3.117741935483871,
           "average w/o zero": 3.117741935483871
         },
@@ -2316,13 +2316,13 @@ VISUALIZER_DATA_BARS = [
         },
         "AK": {
           "count": 27,
-          "sum": 186.79999999999998,
+          "sum": 186.8,
           "average": 6.9185185185185185,
           "average w/o zero": 6.9185185185185185
         },
         "MD": {
           "count": 24,
-          "sum": 87.50000000000003,
+          "sum": 87.5,
           "average": 3.6458333333333335,
           "average w/o zero": 3.6458333333333335
         },
@@ -2340,7 +2340,7 @@ VISUALIZER_DATA_BARS = [
         },
         "TX": {
           "count": 254,
-          "sum": 342.1000000000001,
+          "sum": 342.1,
           "average": 1.3468503937007874,
           "average w/o zero": 1.3561264822134387
         },
@@ -2358,13 +2358,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 235.30000000000004,
+          "sum": 235.3,
           "average": 1.479874213836478,
           "average w/o zero": 1.479874213836478
         },
         "AR": {
           "count": 75,
-          "sum": 66.49999999999999,
+          "sum": 66.5,
           "average": 0.8866666666666667,
           "average w/o zero": 0.8866666666666667
         },
@@ -2376,13 +2376,13 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 54.30000000000001,
+          "sum": 54.3,
           "average": 0.8353846153846154,
           "average w/o zero": 0.8640625
         },
         "AL": {
           "count": 67,
-          "sum": 57.300000000000004,
+          "sum": 57.3,
           "average": 0.8552238805970149,
           "average w/o zero": 0.8552238805970149
         },
@@ -2394,13 +2394,13 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 27.999999999999993,
+          "sum": 28.0,
           "average": 0.5090909090909091,
           "average w/o zero": 0.5090909090909091
         },
         "MA": {
           "count": 14,
-          "sum": 64.30000000000001,
+          "sum": 64.3,
           "average": 4.5928571428571425,
           "average w/o zero": 4.5928571428571425
         },
@@ -2418,13 +2418,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 21.799999999999997,
+          "sum": 21.8,
           "average": 2.18,
           "average w/o zero": 2.18
         },
         "NM": {
           "count": 33,
-          "sum": 41.00000000000001,
+          "sum": 41.0,
           "average": 1.2424242424242424,
           "average w/o zero": 1.2424242424242424
         },
@@ -2436,7 +2436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 41.199999999999996,
+          "sum": 41.2,
           "average": 2.4235294117647057,
           "average w/o zero": 2.4235294117647057
         },
@@ -2480,7 +2480,7 @@ VISUALIZER_DATA_BARS = [
         },
         "VA": {
           "count": 133,
-          "sum": 2496.2000000000003,
+          "sum": 2496.2,
           "average": 18.768421052631577,
           "average w/o zero": 18.768421052631577
         },
@@ -2492,7 +2492,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 175.5999999999999,
+          "sum": 175.6,
           "average": 1.7737373737373738,
           "average w/o zero": 1.7737373737373738
         },
@@ -2504,13 +2504,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 440.49999999999994,
+          "sum": 440.5,
           "average": 3.8304347826086955,
           "average w/o zero": 3.8304347826086955
         },
         "OK": {
           "count": 77,
-          "sum": 292.80000000000007,
+          "sum": 292.8,
           "average": 3.8025974025974025,
           "average w/o zero": 3.8025974025974025
         },
@@ -2522,43 +2522,43 @@ VISUALIZER_DATA_BARS = [
         },
         "IL": {
           "count": 102,
-          "sum": 549.8000000000002,
+          "sum": 549.8,
           "average": 5.390196078431373,
           "average w/o zero": 5.390196078431373
         },
         "IN": {
           "count": 92,
-          "sum": 282.1999999999999,
+          "sum": 282.2,
           "average": 3.0673913043478263,
           "average w/o zero": 3.0673913043478263
         },
         "MS": {
           "count": 82,
-          "sum": 3412.8999999999996,
+          "sum": 3412.9,
           "average": 41.62073170731707,
           "average w/o zero": 41.62073170731707
         },
         "ND": {
           "count": 53,
-          "sum": 64.19999999999997,
+          "sum": 64.2,
           "average": 1.211320754716981,
           "average w/o zero": 1.211320754716981
         },
         "NE": {
           "count": 93,
-          "sum": 102.69999999999999,
+          "sum": 102.7,
           "average": 1.1043010752688172,
           "average w/o zero": 1.198876404494382
         },
         "OH": {
           "count": 88,
-          "sum": 392.1000000000002,
+          "sum": 392.1,
           "average": 4.4556818181818185,
           "average w/o zero": 4.4556818181818185
         },
         "PA": {
           "count": 67,
-          "sum": 345.80000000000007,
+          "sum": 345.8,
           "average": 5.161194029850746,
           "average w/o zero": 5.161194029850746
         },
@@ -2570,25 +2570,25 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 136.30000000000004,
+          "sum": 136.3,
           "average": 1.8930555555555555,
           "average w/o zero": 1.8930555555555555
         },
         "VT": {
           "count": 14,
-          "sum": 15.099999999999998,
+          "sum": 15.1,
           "average": 1.0785714285714285,
           "average w/o zero": 1.0785714285714285
         },
         "MN": {
           "count": 87,
-          "sum": 183.99999999999997,
+          "sum": 184.0,
           "average": 2.1149425287356323,
           "average w/o zero": 2.1149425287356323
         },
         "FL": {
           "count": 67,
-          "sum": 995.8000000000002,
+          "sum": 995.8,
           "average": 14.862686567164179,
           "average w/o zero": 14.862686567164179
         },
@@ -2606,13 +2606,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NY": {
           "count": 62,
-          "sum": 441.70000000000005,
+          "sum": 441.7,
           "average": 7.124193548387097,
           "average w/o zero": 7.124193548387097
         },
         "WY": {
           "count": 23,
-          "sum": 22.799999999999997,
+          "sum": 22.8,
           "average": 0.9913043478260869,
           "average w/o zero": 0.9913043478260869
         },
@@ -2624,7 +2624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AK": {
           "count": 27,
-          "sum": 57.69999999999999,
+          "sum": 57.7,
           "average": 2.137037037037037,
           "average w/o zero": 2.137037037037037
         },
@@ -2636,19 +2636,19 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 232.49999999999991,
+          "sum": 232.5,
           "average": 2.2142857142857144,
           "average w/o zero": 2.2142857142857144
         },
         "TN": {
           "count": 95,
-          "sum": 723.2999999999997,
+          "sum": 723.3,
           "average": 7.613684210526316,
           "average w/o zero": 7.613684210526316
         },
         "TX": {
           "count": 254,
-          "sum": 1745.9000000000008,
+          "sum": 1745.9,
           "average": 6.873622047244094,
           "average w/o zero": 6.904743083003953
         },
@@ -2666,13 +2666,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 4555.499999999998,
+          "sum": 4555.5,
           "average": 28.650943396226417,
           "average w/o zero": 28.650943396226417
         },
         "AR": {
           "count": 75,
-          "sum": 1226.1999999999998,
+          "sum": 1226.2,
           "average": 16.349333333333334,
           "average w/o zero": 16.349333333333334
         },
@@ -2684,31 +2684,31 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 59.70000000000002,
+          "sum": 59.7,
           "average": 0.9184615384615384,
           "average w/o zero": 0.9184615384615384
         },
         "AL": {
           "count": 67,
-          "sum": 1921.4000000000003,
+          "sum": 1921.4,
           "average": 28.677611940298508,
           "average w/o zero": 28.677611940298508
         },
         "OR": {
           "count": 36,
-          "sum": 37.10000000000001,
+          "sum": 37.1,
           "average": 1.0305555555555557,
           "average w/o zero": 1.0305555555555557
         },
         "WV": {
           "count": 55,
-          "sum": 128.60000000000002,
+          "sum": 128.6,
           "average": 2.3381818181818184,
           "average w/o zero": 2.3381818181818184
         },
         "MA": {
           "count": 14,
-          "sum": 108.19999999999999,
+          "sum": 108.2,
           "average": 7.728571428571429,
           "average w/o zero": 7.728571428571429
         },
@@ -2720,7 +2720,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 24.599999999999994,
+          "sum": 24.6,
           "average": 0.4392857142857143,
           "average w/o zero": 0.4925925925925926
         },
@@ -2776,55 +2776,55 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.Hispanic or Latino": {
         "SC": {
           "count": 46,
-          "sum": 225.90000000000015,
+          "sum": 225.9,
           "average": 4.910869565217391,
           "average w/o zero": 4.910869565217391
         },
         "LA": {
           "count": 64,
-          "sum": 245.40000000000003,
+          "sum": 245.4,
           "average": 3.834375,
           "average w/o zero": 3.834375
         },
         "VA": {
           "count": 133,
-          "sum": 767.9999999999997,
+          "sum": 768.0,
           "average": 5.774436090225564,
           "average w/o zero": 5.774436090225564
         },
         "ID": {
           "count": 44,
-          "sum": 586.1000000000001,
+          "sum": 586.1,
           "average": 13.320454545454545,
           "average w/o zero": 13.320454545454545
         },
         "IA": {
           "count": 99,
-          "sum": 513.9999999999999,
+          "sum": 514.0,
           "average": 5.191919191919192,
           "average w/o zero": 5.191919191919192
         },
         "KY": {
           "count": 120,
-          "sum": 320.90000000000003,
+          "sum": 320.9,
           "average": 2.674166666666667,
           "average w/o zero": 2.674166666666667
         },
         "MO": {
           "count": 115,
-          "sum": 365.5000000000001,
+          "sum": 365.5,
           "average": 3.1782608695652175,
           "average w/o zero": 3.1782608695652175
         },
         "OK": {
           "count": 77,
-          "sum": 747.8999999999995,
+          "sum": 747.9,
           "average": 9.712987012987012,
           "average w/o zero": 9.712987012987012
         },
         "CO": {
           "count": 64,
-          "sum": 1289.8000000000004,
+          "sum": 1289.8,
           "average": 20.153125,
           "average w/o zero": 20.153125
         },
@@ -2836,19 +2836,19 @@ VISUALIZER_DATA_BARS = [
         },
         "IN": {
           "count": 92,
-          "sum": 399.19999999999993,
+          "sum": 399.2,
           "average": 4.339130434782609,
           "average w/o zero": 4.339130434782609
         },
         "MS": {
           "count": 82,
-          "sum": 232.90000000000003,
+          "sum": 232.9,
           "average": 2.8402439024390245,
           "average w/o zero": 2.8402439024390245
         },
         "ND": {
           "count": 53,
-          "sum": 189.0999999999999,
+          "sum": 189.1,
           "average": 3.5679245283018868,
           "average w/o zero": 3.5679245283018868
         },
@@ -2860,25 +2860,25 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 259.8999999999999,
+          "sum": 259.9,
           "average": 2.953409090909091,
           "average w/o zero": 2.953409090909091
         },
         "PA": {
           "count": 67,
-          "sum": 322.1000000000001,
+          "sum": 322.1,
           "average": 4.807462686567164,
           "average w/o zero": 4.807462686567164
         },
         "WA": {
           "count": 39,
-          "sum": 580.5000000000001,
+          "sum": 580.5,
           "average": 14.884615384615385,
           "average w/o zero": 14.884615384615385
         },
         "WI": {
           "count": 72,
-          "sum": 293.19999999999993,
+          "sum": 293.2,
           "average": 4.072222222222222,
           "average w/o zero": 4.072222222222222
         },
@@ -2890,25 +2890,25 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 428.30000000000024,
+          "sum": 428.3,
           "average": 4.922988505747126,
           "average w/o zero": 4.922988505747126
         },
         "FL": {
           "count": 67,
-          "sum": 997.1000000000001,
+          "sum": 997.1,
           "average": 14.882089552238806,
           "average w/o zero": 14.882089552238806
         },
         "NC": {
           "count": 100,
-          "sum": 772.1999999999995,
+          "sum": 772.2,
           "average": 7.722,
           "average w/o zero": 7.722
         },
         "CA": {
           "count": 58,
-          "sum": 1810.6999999999996,
+          "sum": 1810.7,
           "average": 31.21896551724138,
           "average w/o zero": 31.21896551724138
         },
@@ -2920,7 +2920,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WY": {
           "count": 23,
-          "sum": 200.79999999999998,
+          "sum": 200.8,
           "average": 8.730434782608695,
           "average w/o zero": 8.730434782608695
         },
@@ -2932,7 +2932,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AK": {
           "count": 27,
-          "sum": 160.29999999999995,
+          "sum": 160.3,
           "average": 5.937037037037037,
           "average w/o zero": 5.937037037037037
         },
@@ -2944,19 +2944,19 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 1102.9999999999998,
+          "sum": 1103.0,
           "average": 10.504761904761905,
           "average w/o zero": 10.504761904761905
         },
         "TN": {
           "count": 95,
-          "sum": 373.59999999999985,
+          "sum": 373.6,
           "average": 3.9326315789473685,
           "average w/o zero": 3.9326315789473685
         },
         "TX": {
           "count": 254,
-          "sum": 9006.600000000008,
+          "sum": 9006.6,
           "average": 35.459055118110236,
           "average w/o zero": 35.459055118110236
         },
@@ -2968,37 +2968,37 @@ VISUALIZER_DATA_BARS = [
         },
         "AZ": {
           "count": 15,
-          "sum": 475.6,
+          "sum": 475.59999999999997,
           "average": 31.706666666666667,
           "average w/o zero": 31.706666666666667
         },
         "GA": {
           "count": 159,
-          "sum": 1112.8000000000013,
+          "sum": 1112.8,
           "average": 6.99874213836478,
           "average w/o zero": 6.99874213836478
         },
         "AR": {
           "count": 75,
-          "sum": 426.6000000000001,
+          "sum": 426.6,
           "average": 5.688,
           "average w/o zero": 5.688
         },
         "NJ": {
           "count": 21,
-          "sum": 381.7999999999999,
+          "sum": 381.8,
           "average": 18.18095238095238,
           "average w/o zero": 18.18095238095238
         },
         "SD": {
           "count": 65,
-          "sum": 230.39999999999995,
+          "sum": 230.4,
           "average": 3.5446153846153847,
           "average w/o zero": 3.5446153846153847
         },
         "AL": {
           "count": 67,
-          "sum": 266.8999999999999,
+          "sum": 266.9,
           "average": 3.9835820895522387,
           "average w/o zero": 3.9835820895522387
         },
@@ -3010,7 +3010,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 81.60000000000002,
+          "sum": 81.6,
           "average": 1.4836363636363636,
           "average w/o zero": 1.4836363636363636
         },
@@ -3034,13 +3034,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 27.200000000000003,
+          "sum": 27.2,
           "average": 2.7199999999999998,
           "average w/o zero": 2.7199999999999998
         },
         "NM": {
           "count": 33,
-          "sum": 1606.8999999999999,
+          "sum": 1606.9,
           "average": 48.693939393939395,
           "average w/o zero": 48.693939393939395
         },
@@ -3052,7 +3052,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 320.09999999999997,
+          "sum": 320.1,
           "average": 18.82941176470588,
           "average w/o zero": 18.82941176470588
         },
@@ -3090,91 +3090,91 @@ VISUALIZER_DATA_BARS = [
         },
         "LA": {
           "count": 64,
-          "sum": 0.3999999999999998,
+          "sum": 0.40000000000000013,
           "average": 0.006250000000000002,
           "average w/o zero": 0.12142857142857144
         },
         "VA": {
           "count": 133,
-          "sum": 5.999999999999997,
+          "sum": 6.000000000000001,
           "average": 0.04511278195488722,
           "average w/o zero": 0.12987012987012989
         },
         "ID": {
           "count": 44,
-          "sum": 7.1,
+          "sum": 7.1000000000000005,
           "average": 0.16136363636363638,
           "average w/o zero": 0.1975609756097561
         },
         "IA": {
           "count": 99,
-          "sum": 9.999999999999995,
+          "sum": 10.0,
           "average": 0.10101010101010101,
           "average w/o zero": 0.22033898305084745
         },
         "KY": {
           "count": 120,
-          "sum": -2.199999999999998,
+          "sum": -2.1999999999999997,
           "average": -0.01833333333333333,
           "average w/o zero": 0.1392857142857143
         },
         "MO": {
           "count": 115,
-          "sum": 6.899999999999997,
+          "sum": 6.9,
           "average": 0.060000000000000005,
           "average w/o zero": 0.23043478260869565
         },
         "OK": {
           "count": 77,
-          "sum": 10.29999999999999,
+          "sum": 10.3,
           "average": 0.13376623376623376,
           "average w/o zero": 0.23442622950819672
         },
         "CO": {
           "count": 64,
-          "sum": 4.700000000000001,
+          "sum": 4.7,
           "average": 0.0734375,
           "average w/o zero": 0.1581818181818182
         },
         "IL": {
           "count": 102,
-          "sum": -0.19999999999999904,
+          "sum": -0.19999999999999976,
           "average": -0.001960784313725488,
           "average w/o zero": 0.11707317073170732
         },
         "IN": {
           "count": 92,
-          "sum": 2.6000000000000028,
+          "sum": 2.6,
           "average": 0.028260869565217395,
           "average w/o zero": 0.11219512195121951
         },
         "MS": {
           "count": 82,
-          "sum": 1.2,
+          "sum": 1.2000000000000002,
           "average": 0.014634146341463417,
           "average w/o zero": 0.1142857142857143
         },
         "ND": {
           "count": 53,
-          "sum": -11.900000000000006,
+          "sum": -11.9,
           "average": -0.22452830188679246,
           "average w/o zero": 0.12916666666666668
         },
         "NE": {
           "count": 93,
-          "sum": -22.29999999999999,
+          "sum": -22.3,
           "average": -0.23978494623655913,
           "average w/o zero": 0.18333333333333335
         },
         "OH": {
           "count": 88,
-          "sum": 3.0000000000000013,
+          "sum": 3.0,
           "average": 0.034090909090909095,
           "average w/o zero": 0.13793103448275862
         },
         "PA": {
           "count": 67,
-          "sum": 2.3000000000000016,
+          "sum": 2.3000000000000003,
           "average": 0.034328358208955224,
           "average w/o zero": 0.11379310344827587
         },
@@ -3186,37 +3186,37 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 1.2000000000000006,
+          "sum": 1.2000000000000002,
           "average": 0.01666666666666667,
           "average w/o zero": 0.1272727272727273
         },
         "VT": {
           "count": 14,
-          "sum": -0.7000000000000001,
+          "sum": -0.7,
           "average": -0.049999999999999996,
           "average w/o zero": 0.1
         },
         "MN": {
           "count": 87,
-          "sum": 3.900000000000002,
+          "sum": 3.9000000000000004,
           "average": 0.04482758620689655,
           "average w/o zero": 0.17555555555555555
         },
         "FL": {
           "count": 67,
-          "sum": 7.199999999999997,
+          "sum": 7.2,
           "average": 0.10746268656716418,
           "average w/o zero": 0.13333333333333333
         },
         "NC": {
           "count": 100,
-          "sum": 11.99999999999999,
+          "sum": 12.0,
           "average": 0.12000000000000001,
           "average w/o zero": 0.15
         },
         "CA": {
           "count": 58,
-          "sum": 23.299999999999997,
+          "sum": 23.3,
           "average": 0.4017241379310345,
           "average w/o zero": 0.4263157894736842
         },
@@ -3228,43 +3228,43 @@ VISUALIZER_DATA_BARS = [
         },
         "WY": {
           "count": 23,
-          "sum": 0.9999999999999999,
+          "sum": 1.0,
           "average": 0.04347826086956522,
           "average w/o zero": 0.11764705882352942
         },
         "MI": {
           "count": 83,
-          "sum": 0.10000000000000053,
+          "sum": 0.10000000000000017,
           "average": 0.0012048192771084358,
           "average w/o zero": 0.1
         },
         "AK": {
           "count": 27,
-          "sum": 16.700000000000003,
+          "sum": 16.7,
           "average": 0.6185185185185185,
           "average w/o zero": 0.7375
         },
         "MD": {
           "count": 24,
-          "sum": 2.500000000000001,
+          "sum": 2.5,
           "average": 0.10416666666666667,
           "average w/o zero": 0.11904761904761905
         },
         "KS": {
           "count": 105,
-          "sum": -11.900000000000013,
+          "sum": -11.9,
           "average": -0.11333333333333333,
           "average w/o zero": 0.16833333333333333
         },
         "TN": {
           "count": 95,
-          "sum": 6.399999999999993,
+          "sum": 6.4,
           "average": 0.06736842105263158,
           "average w/o zero": 0.1142857142857143
         },
         "TX": {
           "count": 254,
-          "sum": 3.1,
+          "sum": 3.100000000000001,
           "average": 0.012204724409448824,
           "average w/o zero": 0.14500000000000002
         },
@@ -3282,13 +3282,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 15.299999999999995,
+          "sum": 15.3,
           "average": 0.09622641509433963,
           "average w/o zero": 0.1735042735042735
         },
         "AR": {
           "count": 75,
-          "sum": 12.099999999999993,
+          "sum": 12.1,
           "average": 0.16133333333333333,
           "average w/o zero": 0.30465116279069765
         },
@@ -3300,19 +3300,19 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": -13.900000000000006,
+          "sum": -13.9,
           "average": -0.21384615384615385,
           "average w/o zero": 0.11923076923076924
         },
         "AL": {
           "count": 67,
-          "sum": 4.6,
+          "sum": 4.6000000000000005,
           "average": 0.06865671641791045,
           "average w/o zero": 0.17272727272727273
         },
         "OR": {
           "count": 36,
-          "sum": 11.600000000000001,
+          "sum": 11.6,
           "average": 0.32222222222222224,
           "average w/o zero": 0.3314285714285714
         },
@@ -3324,19 +3324,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MA": {
           "count": 14,
-          "sum": 1.8000000000000005,
+          "sum": 1.8,
           "average": 0.1285714285714286,
           "average w/o zero": 0.1285714285714286
         },
         "UT": {
           "count": 29,
-          "sum": 11.099999999999998,
+          "sum": 11.1,
           "average": 0.38275862068965516,
           "average w/o zero": 0.38275862068965516
         },
         "MT": {
           "count": 56,
-          "sum": -13.200000000000003,
+          "sum": -13.2,
           "average": -0.2357142857142857,
           "average w/o zero": 0.1272727272727273
         },
@@ -3354,7 +3354,7 @@ VISUALIZER_DATA_BARS = [
         },
         "RI": {
           "count": 5,
-          "sum": 0.6000000000000001,
+          "sum": 0.6,
           "average": 0.12,
           "average w/o zero": 0.15
         },
@@ -3372,13 +3372,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 0.7999999999999999,
+          "sum": 0.8,
           "average": 0.1,
           "average w/o zero": 0.1
         },
         "HI": {
           "count": 5,
-          "sum": 90.89999999999998,
+          "sum": 90.89999999999999,
           "average": 18.18,
           "average w/o zero": 18.18
         },
@@ -3392,13 +3392,13 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.Two or More Races": {
         "SC": {
           "count": 46,
-          "sum": 78.60000000000002,
+          "sum": 78.6,
           "average": 1.708695652173913,
           "average w/o zero": 1.708695652173913
         },
         "LA": {
           "count": 64,
-          "sum": 107.10000000000001,
+          "sum": 107.1,
           "average": 1.6734375,
           "average w/o zero": 1.6734375
         },
@@ -3410,31 +3410,31 @@ VISUALIZER_DATA_BARS = [
         },
         "ID": {
           "count": 44,
-          "sum": 99.40000000000003,
+          "sum": 99.4,
           "average": 2.2590909090909093,
           "average w/o zero": 2.2590909090909093
         },
         "IA": {
           "count": 99,
-          "sum": 140.29999999999995,
+          "sum": 140.3,
           "average": 1.417171717171717,
           "average w/o zero": 1.417171717171717
         },
         "KY": {
           "count": 120,
-          "sum": 194.30000000000004,
+          "sum": 194.3,
           "average": 1.6191666666666666,
           "average w/o zero": 1.6191666666666666
         },
         "MO": {
           "count": 115,
-          "sum": 225.70000000000007,
+          "sum": 225.7,
           "average": 1.962608695652174,
           "average w/o zero": 1.962608695652174
         },
         "OK": {
           "count": 77,
-          "sum": 467.19999999999993,
+          "sum": 467.2,
           "average": 6.067532467532468,
           "average w/o zero": 6.067532467532468
         },
@@ -3446,7 +3446,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IL": {
           "count": 102,
-          "sum": 166.49999999999994,
+          "sum": 166.5,
           "average": 1.6323529411764706,
           "average w/o zero": 1.6323529411764706
         },
@@ -3458,13 +3458,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 95.29999999999998,
+          "sum": 95.3,
           "average": 1.1621951219512194,
           "average w/o zero": 1.1621951219512194
         },
         "ND": {
           "count": 53,
-          "sum": 100.70000000000002,
+          "sum": 100.7,
           "average": 1.9,
           "average w/o zero": 1.9
         },
@@ -3494,7 +3494,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 120.89999999999996,
+          "sum": 120.9,
           "average": 1.6791666666666667,
           "average w/o zero": 1.6791666666666667
         },
@@ -3506,7 +3506,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 173.60000000000005,
+          "sum": 173.6,
           "average": 1.9954022988505746,
           "average w/o zero": 1.9954022988505746
         },
@@ -3518,13 +3518,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 202.50000000000006,
+          "sum": 202.5,
           "average": 2.025,
           "average w/o zero": 2.025
         },
         "CA": {
           "count": 58,
-          "sum": 238.69999999999993,
+          "sum": 238.7,
           "average": 4.11551724137931,
           "average w/o zero": 4.11551724137931
         },
@@ -3560,7 +3560,7 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 244.69999999999987,
+          "sum": 244.7,
           "average": 2.3304761904761904,
           "average w/o zero": 2.3304761904761904
         },
@@ -3572,7 +3572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "TX": {
           "count": 254,
-          "sum": 450.30000000000007,
+          "sum": 450.3,
           "average": 1.7728346456692914,
           "average w/o zero": 1.783794466403162
         },
@@ -3590,13 +3590,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 284.9000000000002,
+          "sum": 284.9,
           "average": 1.7918238993710691,
           "average w/o zero": 1.7918238993710691
         },
         "AR": {
           "count": 75,
-          "sum": 145.99999999999997,
+          "sum": 146.0,
           "average": 1.9466666666666668,
           "average w/o zero": 1.9466666666666668
         },
@@ -3614,37 +3614,37 @@ VISUALIZER_DATA_BARS = [
         },
         "AL": {
           "count": 67,
-          "sum": 111.60000000000002,
+          "sum": 111.6,
           "average": 1.6656716417910449,
           "average w/o zero": 1.6656716417910449
         },
         "OR": {
           "count": 36,
-          "sum": 122.49999999999999,
+          "sum": 122.5,
           "average": 3.4027777777777777,
           "average w/o zero": 3.4027777777777777
         },
         "WV": {
           "count": 55,
-          "sum": 81.89999999999998,
+          "sum": 81.9,
           "average": 1.489090909090909,
           "average w/o zero": 1.489090909090909
         },
         "MA": {
           "count": 14,
-          "sum": 34.699999999999996,
+          "sum": 34.7,
           "average": 2.4785714285714286,
           "average w/o zero": 2.4785714285714286
         },
         "UT": {
           "count": 29,
-          "sum": 57.70000000000001,
+          "sum": 57.7,
           "average": 1.9896551724137932,
           "average w/o zero": 1.9896551724137932
         },
         "MT": {
           "count": 56,
-          "sum": 144.30000000000004,
+          "sum": 144.3,
           "average": 2.5767857142857142,
           "average w/o zero": 2.5767857142857142
         },
@@ -3656,7 +3656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 79.60000000000001,
+          "sum": 79.6,
           "average": 2.412121212121212,
           "average w/o zero": 2.412121212121212
         },
@@ -3668,7 +3668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 57.29999999999998,
+          "sum": 57.3,
           "average": 3.3705882352941177,
           "average w/o zero": 3.3705882352941177
         },
@@ -3680,7 +3680,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 19.400000000000002,
+          "sum": 19.4,
           "average": 2.425,
           "average w/o zero": 2.425
         },
@@ -3692,7 +3692,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DE": {
           "count": 3,
-          "sum": 8.600000000000001,
+          "sum": 8.6,
           "average": 2.8666666666666667,
           "average w/o zero": 2.8666666666666667
         }
@@ -3700,19 +3700,19 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.White Alone": {
         "SC": {
           "count": 46,
-          "sum": 2797.9000000000005,
+          "sum": 2797.9,
           "average": 60.82391304347826,
           "average w/o zero": 60.82391304347826
         },
         "LA": {
           "count": 64,
-          "sum": 4115.399999999999,
+          "sum": 4115.4,
           "average": 64.303125,
           "average w/o zero": 64.303125
         },
         "VA": {
           "count": 133,
-          "sum": 10022.499999999996,
+          "sum": 10022.5,
           "average": 75.35714285714286,
           "average w/o zero": 75.35714285714286
         },
@@ -3724,31 +3724,31 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 9383.999999999998,
+          "sum": 9384.0,
           "average": 94.78787878787878,
           "average w/o zero": 94.78787878787878
         },
         "KY": {
           "count": 120,
-          "sum": 11213.799999999997,
+          "sum": 11213.8,
           "average": 93.44833333333334,
           "average w/o zero": 93.44833333333334
         },
         "MO": {
           "count": 115,
-          "sum": 10637.800000000003,
+          "sum": 10637.8,
           "average": 92.50260869565217,
           "average w/o zero": 92.50260869565217
         },
         "OK": {
           "count": 77,
-          "sum": 5942.499999999999,
+          "sum": 5942.5,
           "average": 77.17532467532467,
           "average w/o zero": 77.17532467532467
         },
         "CO": {
           "count": 64,
-          "sum": 5876.5999999999985,
+          "sum": 5876.6,
           "average": 91.821875,
           "average w/o zero": 91.821875
         },
@@ -3760,7 +3760,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IN": {
           "count": 92,
-          "sum": 8617.300000000001,
+          "sum": 8617.3,
           "average": 93.66630434782608,
           "average w/o zero": 93.66630434782608
         },
@@ -3772,13 +3772,13 @@ VISUALIZER_DATA_BARS = [
         },
         "ND": {
           "count": 53,
-          "sum": 4716.0999999999985,
+          "sum": 4716.1,
           "average": 88.98301886792453,
           "average w/o zero": 88.98301886792453
         },
         "NE": {
           "count": 93,
-          "sum": 8801.400000000001,
+          "sum": 8801.4,
           "average": 94.63870967741936,
           "average w/o zero": 94.63870967741936
         },
@@ -3790,7 +3790,7 @@ VISUALIZER_DATA_BARS = [
         },
         "PA": {
           "count": 67,
-          "sum": 6109.100000000002,
+          "sum": 6109.1,
           "average": 91.18059701492537,
           "average w/o zero": 91.18059701492537
         },
@@ -3802,7 +3802,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 6613.600000000001,
+          "sum": 6613.6,
           "average": 91.85555555555555,
           "average w/o zero": 91.85555555555555
         },
@@ -3826,19 +3826,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 7364.400000000001,
+          "sum": 7364.4,
           "average": 73.644,
           "average w/o zero": 73.644
         },
         "CA": {
           "count": 58,
-          "sum": 4673.800000000001,
+          "sum": 4673.8,
           "average": 80.58275862068966,
           "average w/o zero": 80.58275862068966
         },
         "NY": {
           "count": 62,
-          "sum": 5380.599999999999,
+          "sum": 5380.6,
           "average": 86.78387096774193,
           "average w/o zero": 86.78387096774193
         },
@@ -3850,7 +3850,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 7527.400000000001,
+          "sum": 7527.4,
           "average": 90.69156626506025,
           "average w/o zero": 90.69156626506025
         },
@@ -3862,7 +3862,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 1720.4999999999998,
+          "sum": 1720.5,
           "average": 71.6875,
           "average w/o zero": 71.6875
         },
@@ -3880,7 +3880,7 @@ VISUALIZER_DATA_BARS = [
         },
         "TX": {
           "count": 254,
-          "sum": 22507.000000000004,
+          "sum": 22507.0,
           "average": 88.61023622047244,
           "average w/o zero": 88.61023622047244
         },
@@ -3898,13 +3898,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 10714.199999999997,
+          "sum": 10714.2,
           "average": 67.38490566037736,
           "average w/o zero": 67.38490566037736
         },
         "AR": {
           "count": 75,
-          "sum": 5976.599999999999,
+          "sum": 5976.6,
           "average": 79.688,
           "average w/o zero": 79.688
         },
@@ -3916,13 +3916,13 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 5357.700000000001,
+          "sum": 5357.7,
           "average": 82.42615384615385,
           "average w/o zero": 82.42615384615385
         },
         "AL": {
           "count": 67,
-          "sum": 4544.799999999999,
+          "sum": 4544.8,
           "average": 67.83283582089553,
           "average w/o zero": 67.83283582089553
         },
@@ -3940,13 +3940,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MA": {
           "count": 14,
-          "sum": 1183.2000000000003,
+          "sum": 1183.2,
           "average": 84.51428571428572,
           "average w/o zero": 84.51428571428572
         },
         "UT": {
           "count": 29,
-          "sum": 2675.0999999999995,
+          "sum": 2675.1,
           "average": 92.2448275862069,
           "average w/o zero": 92.2448275862069
         },
@@ -3958,13 +3958,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 944.8,
+          "sum": 944.8000000000001,
           "average": 94.48,
           "average w/o zero": 94.48
         },
         "NM": {
           "count": 33,
-          "sum": 2803.1000000000004,
+          "sum": 2803.1,
           "average": 84.94242424242424,
           "average w/o zero": 84.94242424242424
         },
@@ -3976,7 +3976,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 1455.3999999999999,
+          "sum": 1455.4,
           "average": 85.61176470588235,
           "average w/o zero": 85.61176470588235
         },
@@ -4008,19 +4008,19 @@ VISUALIZER_DATA_BARS = [
       "Ethnicities.White Alone\t not Hispanic or Latino": {
         "SC": {
           "count": 46,
-          "sum": 2619.2000000000007,
+          "sum": 2619.2,
           "average": 56.939130434782605,
           "average w/o zero": 56.939130434782605
         },
         "LA": {
           "count": 64,
-          "sum": 3920.1000000000004,
+          "sum": 3920.1,
           "average": 61.2515625,
           "average w/o zero": 61.2515625
         },
         "VA": {
           "count": 133,
-          "sum": 9442.799999999996,
+          "sum": 9442.8,
           "average": 70.9984962406015,
           "average w/o zero": 70.9984962406015
         },
@@ -4032,7 +4032,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 8929.599999999995,
+          "sum": 8929.6,
           "average": 90.1979797979798,
           "average w/o zero": 90.1979797979798
         },
@@ -4044,43 +4044,43 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 10329.600000000006,
+          "sum": 10329.6,
           "average": 89.82260869565218,
           "average w/o zero": 89.82260869565218
         },
         "OK": {
           "count": 77,
-          "sum": 5347.700000000001,
+          "sum": 5347.7,
           "average": 69.45064935064936,
           "average w/o zero": 69.45064935064936
         },
         "CO": {
           "count": 64,
-          "sum": 4733.999999999997,
+          "sum": 4734.0,
           "average": 73.96875,
           "average w/o zero": 73.96875
         },
         "IL": {
           "count": 102,
-          "sum": 8818.199999999997,
+          "sum": 8818.2,
           "average": 86.45294117647059,
           "average w/o zero": 86.45294117647059
         },
         "IN": {
           "count": 92,
-          "sum": 8264.900000000005,
+          "sum": 8264.9,
           "average": 89.8358695652174,
           "average w/o zero": 89.8358695652174
         },
         "MS": {
           "count": 82,
-          "sum": 4396.300000000001,
+          "sum": 4396.3,
           "average": 53.613414634146345,
           "average w/o zero": 53.613414634146345
         },
         "ND": {
           "count": 53,
-          "sum": 4570.099999999999,
+          "sum": 4570.1,
           "average": 86.22830188679245,
           "average w/o zero": 86.22830188679245
         },
@@ -4098,31 +4098,31 @@ VISUALIZER_DATA_BARS = [
         },
         "PA": {
           "count": 67,
-          "sum": 5858.000000000001,
+          "sum": 5858.0,
           "average": 87.43283582089552,
           "average w/o zero": 87.43283582089552
         },
         "WA": {
           "count": 39,
-          "sum": 2922.1000000000004,
+          "sum": 2922.1,
           "average": 74.92564102564103,
           "average w/o zero": 74.92564102564103
         },
         "WI": {
           "count": 72,
-          "sum": 6371.699999999996,
+          "sum": 6371.7,
           "average": 88.49583333333334,
           "average w/o zero": 88.49583333333334
         },
         "VT": {
           "count": 14,
-          "sum": 1310.9999999999998,
+          "sum": 1311.0,
           "average": 93.64285714285714,
           "average w/o zero": 93.64285714285714
         },
         "MN": {
           "count": 87,
-          "sum": 7613.200000000002,
+          "sum": 7613.2,
           "average": 87.50804597701149,
           "average w/o zero": 87.50804597701149
         },
@@ -4134,19 +4134,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 6740.999999999998,
+          "sum": 6741.0,
           "average": 67.41,
           "average w/o zero": 67.41
         },
         "CA": {
           "count": 58,
-          "sum": 3076.499999999999,
+          "sum": 3076.5,
           "average": 53.043103448275865,
           "average w/o zero": 53.043103448275865
         },
         "NY": {
           "count": 62,
-          "sum": 4991.599999999999,
+          "sum": 4991.6,
           "average": 80.50967741935484,
           "average w/o zero": 80.50967741935484
         },
@@ -4164,13 +4164,13 @@ VISUALIZER_DATA_BARS = [
         },
         "AK": {
           "count": 27,
-          "sum": 1291.5000000000002,
+          "sum": 1291.5,
           "average": 47.833333333333336,
           "average w/o zero": 47.833333333333336
         },
         "MD": {
           "count": 24,
-          "sum": 1596.0000000000002,
+          "sum": 1596.0,
           "average": 66.5,
           "average w/o zero": 66.5
         },
@@ -4182,37 +4182,37 @@ VISUALIZER_DATA_BARS = [
         },
         "TN": {
           "count": 95,
-          "sum": 8157.800000000004,
+          "sum": 8157.8,
           "average": 85.87157894736842,
           "average w/o zero": 85.87157894736842
         },
         "TX": {
           "count": 254,
-          "sum": 14019.999999999993,
+          "sum": 14020.0,
           "average": 55.196850393700785,
           "average w/o zero": 55.196850393700785
         },
         "ME": {
           "count": 16,
-          "sum": 1500.6000000000001,
+          "sum": 1500.6,
           "average": 93.7875,
           "average w/o zero": 93.7875
         },
         "AZ": {
           "count": 15,
-          "sum": 746.9000000000001,
+          "sum": 746.9,
           "average": 49.79333333333334,
           "average w/o zero": 49.79333333333334
         },
         "GA": {
           "count": 159,
-          "sum": 9809.000000000002,
+          "sum": 9809.0,
           "average": 61.691823899371066,
           "average w/o zero": 61.691823899371066
         },
         "AR": {
           "count": 75,
-          "sum": 5607.299999999999,
+          "sum": 5607.3,
           "average": 74.764,
           "average w/o zero": 74.764
         },
@@ -4224,19 +4224,19 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 5206.899999999999,
+          "sum": 5206.9,
           "average": 80.10615384615384,
           "average w/o zero": 80.10615384615384
         },
         "AL": {
           "count": 67,
-          "sum": 4328.099999999999,
+          "sum": 4328.1,
           "average": 64.59850746268657,
           "average w/o zero": 64.59850746268657
         },
         "OR": {
           "count": 36,
-          "sum": 2869.399999999999,
+          "sum": 2869.4,
           "average": 79.70555555555555,
           "average w/o zero": 79.70555555555555
         },
@@ -4266,19 +4266,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 922.3000000000001,
+          "sum": 922.3,
           "average": 92.23,
           "average w/o zero": 92.23
         },
         "NM": {
           "count": 33,
-          "sum": 1326.8999999999999,
+          "sum": 1326.9,
           "average": 40.20909090909091,
           "average w/o zero": 40.20909090909091
         },
         "RI": {
           "count": 5,
-          "sum": 414.90000000000003,
+          "sum": 414.9,
           "average": 82.98,
           "average w/o zero": 82.98
         },
@@ -4316,31 +4316,31 @@ VISUALIZER_DATA_BARS = [
       "Housing.Homeownership Rate": {
         "SC": {
           "count": 46,
-          "sum": 3276.8999999999996,
+          "sum": 3276.9,
           "average": 71.23695652173913,
           "average w/o zero": 71.23695652173913
         },
         "LA": {
           "count": 64,
-          "sum": 4458.199999999999,
+          "sum": 4458.2,
           "average": 69.659375,
           "average w/o zero": 69.659375
         },
         "VA": {
           "count": 133,
-          "sum": 9255.599999999999,
+          "sum": 9255.6,
           "average": 69.59097744360902,
           "average w/o zero": 69.59097744360902
         },
         "ID": {
           "count": 44,
-          "sum": 3203.2000000000003,
+          "sum": 3203.2,
           "average": 72.8,
           "average w/o zero": 72.8
         },
         "IA": {
           "count": 99,
-          "sum": 7403.999999999998,
+          "sum": 7404.0,
           "average": 74.78787878787878,
           "average w/o zero": 74.78787878787878
         },
@@ -4358,13 +4358,13 @@ VISUALIZER_DATA_BARS = [
         },
         "OK": {
           "count": 77,
-          "sum": 5511.499999999999,
+          "sum": 5511.5,
           "average": 71.57792207792208,
           "average w/o zero": 71.57792207792208
         },
         "CO": {
           "count": 64,
-          "sum": 4497.899999999999,
+          "sum": 4497.9,
           "average": 70.2796875,
           "average w/o zero": 70.2796875
         },
@@ -4376,13 +4376,13 @@ VISUALIZER_DATA_BARS = [
         },
         "IN": {
           "count": 92,
-          "sum": 6850.299999999997,
+          "sum": 6850.3,
           "average": 74.45978260869565,
           "average w/o zero": 74.45978260869565
         },
         "MS": {
           "count": 82,
-          "sum": 5779.400000000001,
+          "sum": 5779.4,
           "average": 70.48048780487805,
           "average w/o zero": 70.48048780487805
         },
@@ -4394,25 +4394,25 @@ VISUALIZER_DATA_BARS = [
         },
         "NE": {
           "count": 93,
-          "sum": 6768.700000000002,
+          "sum": 6768.7,
           "average": 72.78172043010753,
           "average w/o zero": 72.78172043010753
         },
         "OH": {
           "count": 88,
-          "sum": 6345.4000000000015,
+          "sum": 6345.4,
           "average": 72.10681818181818,
           "average w/o zero": 72.10681818181818
         },
         "PA": {
           "count": 67,
-          "sum": 4893.899999999999,
+          "sum": 4893.9,
           "average": 73.04328358208956,
           "average w/o zero": 73.04328358208956
         },
         "WA": {
           "count": 39,
-          "sum": 2668.3999999999996,
+          "sum": 2668.4,
           "average": 68.42051282051283,
           "average w/o zero": 68.42051282051283
         },
@@ -4430,7 +4430,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 6682.4000000000015,
+          "sum": 6682.4,
           "average": 76.80919540229885,
           "average w/o zero": 76.80919540229885
         },
@@ -4442,13 +4442,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 6988.700000000004,
+          "sum": 6988.7,
           "average": 69.887,
           "average w/o zero": 69.887
         },
         "CA": {
           "count": 58,
-          "sum": 3604.4000000000005,
+          "sum": 3604.4,
           "average": 62.144827586206894,
           "average w/o zero": 62.144827586206894
         },
@@ -4466,7 +4466,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 6467.500000000003,
+          "sum": 6467.5,
           "average": 77.92168674698796,
           "average w/o zero": 77.92168674698796
         },
@@ -4484,13 +4484,13 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 7604.699999999996,
+          "sum": 7604.7,
           "average": 72.42571428571429,
           "average w/o zero": 72.42571428571429
         },
         "TN": {
           "count": 95,
-          "sum": 6888.899999999997,
+          "sum": 6888.9,
           "average": 72.51473684210526,
           "average w/o zero": 72.51473684210526
         },
@@ -4508,7 +4508,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AZ": {
           "count": 15,
-          "sum": 1021.8000000000001,
+          "sum": 1021.8,
           "average": 68.12,
           "average w/o zero": 68.12
         },
@@ -4526,37 +4526,37 @@ VISUALIZER_DATA_BARS = [
         },
         "NJ": {
           "count": 21,
-          "sum": 1422.7999999999995,
+          "sum": 1422.8,
           "average": 67.75238095238095,
           "average w/o zero": 67.75238095238095
         },
         "SD": {
           "count": 65,
-          "sum": 4639.899999999998,
+          "sum": 4639.9,
           "average": 71.38307692307693,
           "average w/o zero": 71.38307692307693
         },
         "AL": {
           "count": 67,
-          "sum": 4800.0999999999985,
+          "sum": 4800.1,
           "average": 71.64328358208955,
           "average w/o zero": 71.64328358208955
         },
         "OR": {
           "count": 36,
-          "sum": 2384.5999999999995,
+          "sum": 2384.6,
           "average": 66.2388888888889,
           "average w/o zero": 66.2388888888889
         },
         "WV": {
           "count": 55,
-          "sum": 4198.099999999999,
+          "sum": 4198.1,
           "average": 76.32909090909091,
           "average w/o zero": 76.32909090909091
         },
         "MA": {
           "count": 14,
-          "sum": 924.1999999999999,
+          "sum": 924.2,
           "average": 66.01428571428572,
           "average w/o zero": 66.01428571428572
         },
@@ -4568,7 +4568,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 4009.4999999999995,
+          "sum": 4009.5,
           "average": 71.59821428571429,
           "average w/o zero": 71.59821428571429
         },
@@ -4580,7 +4580,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 2322.2000000000003,
+          "sum": 2322.2,
           "average": 70.36969696969697,
           "average w/o zero": 70.36969696969697
         },
@@ -4592,7 +4592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 1173.3999999999999,
+          "sum": 1173.4,
           "average": 69.02352941176471,
           "average w/o zero": 69.02352941176471
         },
@@ -5548,43 +5548,43 @@ VISUALIZER_DATA_BARS = [
       "Housing.Persons per Household": {
         "SC": {
           "count": 46,
-          "sum": 116.26999999999998,
+          "sum": 116.27,
           "average": 2.527608695652174,
           "average w/o zero": 2.527608695652174
         },
         "LA": {
           "count": 64,
-          "sum": 166.31000000000003,
+          "sum": 166.31,
           "average": 2.59859375,
           "average w/o zero": 2.59859375
         },
         "VA": {
           "count": 133,
-          "sum": 330.08999999999986,
+          "sum": 330.09,
           "average": 2.4818796992481205,
           "average w/o zero": 2.4818796992481205
         },
         "ID": {
           "count": 44,
-          "sum": 117.50999999999998,
+          "sum": 117.51,
           "average": 2.6706818181818184,
           "average w/o zero": 2.6706818181818184
         },
         "IA": {
           "count": 99,
-          "sum": 231.54999999999998,
+          "sum": 231.55,
           "average": 2.338888888888889,
           "average w/o zero": 2.338888888888889
         },
         "KY": {
           "count": 120,
-          "sum": 300.4799999999999,
+          "sum": 300.48,
           "average": 2.504,
           "average w/o zero": 2.504
         },
         "MO": {
           "count": 115,
-          "sum": 287.03999999999996,
+          "sum": 287.04,
           "average": 2.496,
           "average w/o zero": 2.496
         },
@@ -5596,25 +5596,25 @@ VISUALIZER_DATA_BARS = [
         },
         "CO": {
           "count": 64,
-          "sum": 155.21999999999997,
+          "sum": 155.22,
           "average": 2.4253125,
           "average w/o zero": 2.4253125
         },
         "IL": {
           "count": 102,
-          "sum": 246.46000000000006,
+          "sum": 246.46,
           "average": 2.4162745098039218,
           "average w/o zero": 2.4162745098039218
         },
         "IN": {
           "count": 92,
-          "sum": 229.41000000000003,
+          "sum": 229.41,
           "average": 2.4935869565217392,
           "average w/o zero": 2.4935869565217392
         },
         "MS": {
           "count": 82,
-          "sum": 213.08999999999995,
+          "sum": 213.09,
           "average": 2.598658536585366,
           "average w/o zero": 2.598658536585366
         },
@@ -5626,19 +5626,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NE": {
           "count": 93,
-          "sum": 215.4799999999999,
+          "sum": 215.48,
           "average": 2.316989247311828,
           "average w/o zero": 2.316989247311828
         },
         "OH": {
           "count": 88,
-          "sum": 217.98999999999992,
+          "sum": 217.99,
           "average": 2.477159090909091,
           "average w/o zero": 2.477159090909091
         },
         "PA": {
           "count": 67,
-          "sum": 160.77000000000004,
+          "sum": 160.77,
           "average": 2.39955223880597,
           "average w/o zero": 2.39955223880597
         },
@@ -5650,7 +5650,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 168.35999999999999,
+          "sum": 168.36,
           "average": 2.3383333333333334,
           "average w/o zero": 2.3383333333333334
         },
@@ -5662,13 +5662,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 208.29000000000002,
+          "sum": 208.29,
           "average": 2.3941379310344826,
           "average w/o zero": 2.3941379310344826
         },
         "FL": {
           "count": 67,
-          "sum": 172.59999999999994,
+          "sum": 172.6,
           "average": 2.5761194029850745,
           "average w/o zero": 2.5761194029850745
         },
@@ -5680,25 +5680,25 @@ VISUALIZER_DATA_BARS = [
         },
         "CA": {
           "count": 58,
-          "sum": 160.0700000000001,
+          "sum": 160.07,
           "average": 2.7598275862068964,
           "average w/o zero": 2.7598275862068964
         },
         "NY": {
           "count": 62,
-          "sum": 154.02999999999997,
+          "sum": 154.03,
           "average": 2.4843548387096774,
           "average w/o zero": 2.4843548387096774
         },
         "WY": {
           "count": 23,
-          "sum": 56.25000000000001,
+          "sum": 56.25,
           "average": 2.4456521739130435,
           "average w/o zero": 2.4456521739130435
         },
         "MI": {
           "count": 83,
-          "sum": 197.22999999999988,
+          "sum": 197.23,
           "average": 2.376265060240964,
           "average w/o zero": 2.376265060240964
         },
@@ -5710,13 +5710,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 61.68000000000001,
+          "sum": 61.68,
           "average": 2.57,
           "average w/o zero": 2.57
         },
         "KS": {
           "count": 105,
-          "sum": 251.30999999999995,
+          "sum": 251.31,
           "average": 2.3934285714285712,
           "average w/o zero": 2.3934285714285712
         },
@@ -5740,7 +5740,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AZ": {
           "count": 15,
-          "sum": 40.519999999999996,
+          "sum": 40.52,
           "average": 2.7013333333333334,
           "average w/o zero": 2.7013333333333334
         },
@@ -5776,25 +5776,25 @@ VISUALIZER_DATA_BARS = [
         },
         "OR": {
           "count": 36,
-          "sum": 87.16000000000003,
+          "sum": 87.16,
           "average": 2.421111111111111,
           "average w/o zero": 2.421111111111111
         },
         "WV": {
           "count": 55,
-          "sum": 133.62000000000003,
+          "sum": 133.62,
           "average": 2.4294545454545453,
           "average w/o zero": 2.4294545454545453
         },
         "MA": {
           "count": 14,
-          "sum": 34.88000000000001,
+          "sum": 34.88,
           "average": 2.4914285714285715,
           "average w/o zero": 2.4914285714285715
         },
         "UT": {
           "count": 29,
-          "sum": 88.21000000000001,
+          "sum": 88.21,
           "average": 3.0417241379310345,
           "average w/o zero": 3.0417241379310345
         },
@@ -5806,13 +5806,13 @@ VISUALIZER_DATA_BARS = [
         },
         "NH": {
           "count": 10,
-          "sum": 23.880000000000003,
+          "sum": 23.88,
           "average": 2.388,
           "average w/o zero": 2.388
         },
         "NM": {
           "count": 33,
-          "sum": 87.14000000000001,
+          "sum": 87.14,
           "average": 2.6406060606060606,
           "average w/o zero": 2.6406060606060606
         },
@@ -5824,7 +5824,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 40.989999999999995,
+          "sum": 40.99,
           "average": 2.4111764705882353,
           "average w/o zero": 2.4111764705882353
         },
@@ -5836,13 +5836,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 19.74,
+          "sum": 19.740000000000002,
           "average": 2.4675000000000002,
           "average w/o zero": 2.4675000000000002
         },
         "HI": {
           "count": 5,
-          "sum": 13.39,
+          "sum": 13.389999999999999,
           "average": 2.678,
           "average w/o zero": 2.678
         },
@@ -6472,7 +6472,7 @@ VISUALIZER_DATA_BARS = [
       "Miscellaneous.Foreign Born": {
         "SC": {
           "count": 46,
-          "sum": 167.00000000000006,
+          "sum": 167.0,
           "average": 3.630434782608696,
           "average w/o zero": 3.630434782608696
         },
@@ -6484,13 +6484,13 @@ VISUALIZER_DATA_BARS = [
         },
         "VA": {
           "count": 133,
-          "sum": 716.4999999999999,
+          "sum": 716.5,
           "average": 5.387218045112782,
           "average w/o zero": 5.387218045112782
         },
         "ID": {
           "count": 44,
-          "sum": 276.99999999999994,
+          "sum": 277.0,
           "average": 6.295454545454545,
           "average w/o zero": 6.295454545454545
         },
@@ -6502,7 +6502,7 @@ VISUALIZER_DATA_BARS = [
         },
         "KY": {
           "count": 120,
-          "sum": 207.69999999999993,
+          "sum": 207.7,
           "average": 1.7308333333333332,
           "average w/o zero": 1.7752136752136751
         },
@@ -6514,7 +6514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "OK": {
           "count": 77,
-          "sum": 296.6999999999998,
+          "sum": 296.7,
           "average": 3.8532467532467534,
           "average w/o zero": 3.8532467532467534
         },
@@ -6526,7 +6526,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IL": {
           "count": 102,
-          "sum": 337.00000000000006,
+          "sum": 337.0,
           "average": 3.3039215686274512,
           "average w/o zero": 3.3039215686274512
         },
@@ -6538,7 +6538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 135.00000000000006,
+          "sum": 135.0,
           "average": 1.646341463414634,
           "average w/o zero": 1.7088607594936709
         },
@@ -6556,7 +6556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 186.09999999999994,
+          "sum": 186.1,
           "average": 2.1147727272727272,
           "average w/o zero": 2.1147727272727272
         },
@@ -6568,25 +6568,25 @@ VISUALIZER_DATA_BARS = [
         },
         "WA": {
           "count": 39,
-          "sum": 352.90000000000003,
+          "sum": 352.9,
           "average": 9.048717948717949,
           "average w/o zero": 9.048717948717949
         },
         "WI": {
           "count": 72,
-          "sum": 194.79999999999995,
+          "sum": 194.8,
           "average": 2.7055555555555557,
           "average w/o zero": 2.7055555555555557
         },
         "VT": {
           "count": 14,
-          "sum": 52.10000000000001,
+          "sum": 52.1,
           "average": 3.7214285714285715,
           "average w/o zero": 3.7214285714285715
         },
         "MN": {
           "count": 87,
-          "sum": 339.7999999999999,
+          "sum": 339.8,
           "average": 3.905747126436782,
           "average w/o zero": 3.905747126436782
         },
@@ -6598,19 +6598,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NC": {
           "count": 100,
-          "sum": 487.19999999999993,
+          "sum": 487.2,
           "average": 4.872,
           "average w/o zero": 4.872
         },
         "CA": {
           "count": 58,
-          "sum": 988.0999999999997,
+          "sum": 988.1,
           "average": 17.036206896551725,
           "average w/o zero": 17.036206896551725
         },
         "NY": {
           "count": 62,
-          "sum": 504.49999999999994,
+          "sum": 504.5,
           "average": 8.137096774193548,
           "average w/o zero": 8.137096774193548
         },
@@ -6622,55 +6622,55 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 230.70000000000005,
+          "sum": 230.7,
           "average": 2.779518072289157,
           "average w/o zero": 2.779518072289157
         },
         "AK": {
           "count": 27,
-          "sum": 216.10000000000008,
+          "sum": 216.1,
           "average": 8.003703703703703,
           "average w/o zero": 8.003703703703703
         },
         "MD": {
           "count": 24,
-          "sum": 193.49999999999994,
+          "sum": 193.5,
           "average": 8.0625,
           "average w/o zero": 8.0625
         },
         "KS": {
           "count": 105,
-          "sum": 485.40000000000015,
+          "sum": 485.4,
           "average": 4.622857142857143,
           "average w/o zero": 4.622857142857143
         },
         "TN": {
           "count": 95,
-          "sum": 246.59999999999994,
+          "sum": 246.6,
           "average": 2.5957894736842104,
           "average w/o zero": 2.5957894736842104
         },
         "TX": {
           "count": 254,
-          "sum": 2415.800000000001,
+          "sum": 2415.8,
           "average": 9.511023622047244,
           "average w/o zero": 9.548616600790513
         },
         "ME": {
           "count": 16,
-          "sum": 47.50000000000001,
+          "sum": 47.5,
           "average": 2.96875,
           "average w/o zero": 2.96875
         },
         "AZ": {
           "count": 15,
-          "sum": 146.29999999999998,
+          "sum": 146.3,
           "average": 9.753333333333334,
           "average w/o zero": 9.753333333333334
         },
         "GA": {
           "count": 159,
-          "sum": 736.9999999999999,
+          "sum": 737.0,
           "average": 4.635220125786163,
           "average w/o zero": 4.635220125786163
         },
@@ -6682,31 +6682,31 @@ VISUALIZER_DATA_BARS = [
         },
         "NJ": {
           "count": 21,
-          "sum": 371.7000000000001,
+          "sum": 371.7,
           "average": 17.7,
           "average w/o zero": 17.7
         },
         "SD": {
           "count": 65,
-          "sum": 122.19999999999995,
+          "sum": 122.2,
           "average": 1.8800000000000001,
           "average w/o zero": 1.9709677419354839
         },
         "AL": {
           "count": 67,
-          "sum": 159.49999999999994,
+          "sum": 159.5,
           "average": 2.3805970149253732,
           "average w/o zero": 2.3805970149253732
         },
         "OR": {
           "count": 36,
-          "sum": 228.40000000000003,
+          "sum": 228.4,
           "average": 6.344444444444444,
           "average w/o zero": 6.344444444444444
         },
         "WV": {
           "count": 55,
-          "sum": 61.300000000000004,
+          "sum": 61.3,
           "average": 1.1145454545454545,
           "average w/o zero": 1.1566037735849057
         },
@@ -6724,7 +6724,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 103.59999999999998,
+          "sum": 103.6,
           "average": 1.85,
           "average w/o zero": 1.9185185185185185
         },
@@ -6736,7 +6736,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 229.20000000000002,
+          "sum": 229.2,
           "average": 6.945454545454545,
           "average w/o zero": 6.945454545454545
         },
@@ -6748,7 +6748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 139.90000000000003,
+          "sum": 139.9,
           "average": 8.229411764705882,
           "average w/o zero": 8.229411764705882
         },
@@ -6780,7 +6780,7 @@ VISUALIZER_DATA_BARS = [
       "Miscellaneous.Land Area": {
         "SC": {
           "count": 46,
-          "sum": 30060.719999999998,
+          "sum": 30060.72,
           "average": 653.4939130434783,
           "average w/o zero": 653.4939130434783
         },
@@ -6798,13 +6798,13 @@ VISUALIZER_DATA_BARS = [
         },
         "ID": {
           "count": 44,
-          "sum": 82643.19000000002,
+          "sum": 82643.19,
           "average": 1878.2543181818182,
           "average w/o zero": 1878.2543181818182
         },
         "IA": {
           "count": 99,
-          "sum": 55857.19000000002,
+          "sum": 55857.19,
           "average": 564.2140404040404,
           "average w/o zero": 564.2140404040404
         },
@@ -6816,31 +6816,31 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 68741.54000000001,
+          "sum": 68741.54,
           "average": 597.7525217391304,
           "average w/o zero": 597.7525217391304
         },
         "OK": {
           "count": 77,
-          "sum": 68594.98999999996,
+          "sum": 68594.99,
           "average": 890.844025974026,
           "average w/o zero": 890.844025974026
         },
         "CO": {
           "count": 64,
-          "sum": 103641.92999999998,
+          "sum": 103641.93,
           "average": 1619.40515625,
           "average w/o zero": 1619.40515625
         },
         "IL": {
           "count": 102,
-          "sum": 55519.02000000002,
+          "sum": 55519.02,
           "average": 544.3041176470588,
           "average w/o zero": 544.3041176470588
         },
         "IN": {
           "count": 92,
-          "sum": 35826.159999999996,
+          "sum": 35826.16,
           "average": 389.41478260869565,
           "average w/o zero": 389.41478260869565
         },
@@ -6852,13 +6852,13 @@ VISUALIZER_DATA_BARS = [
         },
         "ND": {
           "count": 53,
-          "sum": 69000.80999999998,
+          "sum": 69000.81,
           "average": 1301.902075471698,
           "average w/o zero": 1301.902075471698
         },
         "NE": {
           "count": 93,
-          "sum": 76824.21999999999,
+          "sum": 76824.22,
           "average": 826.0668817204302,
           "average w/o zero": 826.0668817204302
         },
@@ -6870,67 +6870,67 @@ VISUALIZER_DATA_BARS = [
         },
         "PA": {
           "count": 67,
-          "sum": 44742.71000000001,
+          "sum": 44742.71,
           "average": 667.8016417910447,
           "average w/o zero": 667.8016417910447
         },
         "WA": {
           "count": 39,
-          "sum": 66455.54999999997,
+          "sum": 66455.55,
           "average": 1703.9884615384615,
           "average w/o zero": 1703.9884615384615
         },
         "WI": {
           "count": 72,
-          "sum": 54157.86999999999,
+          "sum": 54157.87,
           "average": 752.1926388888888,
           "average w/o zero": 752.1926388888888
         },
         "VT": {
           "count": 14,
-          "sum": 9216.669999999998,
+          "sum": 9216.67,
           "average": 658.3335714285714,
           "average w/o zero": 658.3335714285714
         },
         "MN": {
           "count": 87,
-          "sum": 79626.79000000001,
+          "sum": 79626.79,
           "average": 915.250459770115,
           "average w/o zero": 915.250459770115
         },
         "FL": {
           "count": 67,
-          "sum": 53624.77999999999,
+          "sum": 53624.78,
           "average": 800.3698507462686,
           "average w/o zero": 800.3698507462686
         },
         "NC": {
           "count": 100,
-          "sum": 48618.00999999998,
+          "sum": 48618.01,
           "average": 486.1801,
           "average w/o zero": 486.1801
         },
         "CA": {
           "count": 58,
-          "sum": 155779.21000000002,
+          "sum": 155779.21,
           "average": 2685.848448275862,
           "average w/o zero": 2685.848448275862
         },
         "NY": {
           "count": 62,
-          "sum": 47126.42999999999,
+          "sum": 47126.43,
           "average": 760.1037096774194,
           "average w/o zero": 760.1037096774194
         },
         "WY": {
           "count": 23,
-          "sum": 97093.13999999998,
+          "sum": 97093.14,
           "average": 4221.440869565217,
           "average w/o zero": 4221.440869565217
         },
         "MI": {
           "count": 83,
-          "sum": 56538.92000000001,
+          "sum": 56538.92,
           "average": 681.1918072289156,
           "average w/o zero": 681.1918072289156
         },
@@ -6942,49 +6942,49 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 9707.230000000001,
+          "sum": 9707.23,
           "average": 404.46791666666667,
           "average w/o zero": 404.46791666666667
         },
         "KS": {
           "count": 105,
-          "sum": 81758.76000000001,
+          "sum": 81758.76,
           "average": 778.6548571428572,
           "average w/o zero": 778.6548571428572
         },
         "TN": {
           "count": 95,
-          "sum": 41235.00000000001,
+          "sum": 41235.0,
           "average": 434.0526315789474,
           "average w/o zero": 434.0526315789474
         },
         "TX": {
           "count": 254,
-          "sum": 261231.80000000008,
+          "sum": 261231.8,
           "average": 1028.4716535433072,
           "average w/o zero": 1028.4716535433072
         },
         "ME": {
           "count": 16,
-          "sum": 30842.92,
+          "sum": 30842.920000000002,
           "average": 1927.6825000000001,
           "average w/o zero": 1927.6825000000001
         },
         "AZ": {
           "count": 15,
-          "sum": 113594.08999999998,
+          "sum": 113594.09,
           "average": 7572.939333333334,
           "average w/o zero": 7572.939333333334
         },
         "GA": {
           "count": 159,
-          "sum": 57513.539999999986,
+          "sum": 57513.54,
           "average": 361.72037735849057,
           "average w/o zero": 361.72037735849057
         },
         "AR": {
           "count": 75,
-          "sum": 52035.48000000001,
+          "sum": 52035.48,
           "average": 693.8064,
           "average w/o zero": 693.8064
         },
@@ -7002,7 +7002,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AL": {
           "count": 67,
-          "sum": 50645.39000000001,
+          "sum": 50645.39,
           "average": 755.9013432835822,
           "average w/o zero": 755.9013432835822
         },
@@ -7014,7 +7014,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 24038.209999999995,
+          "sum": 24038.21,
           "average": 437.05836363636365,
           "average w/o zero": 437.05836363636365
         },
@@ -7032,7 +7032,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MT": {
           "count": 56,
-          "sum": 145545.84000000003,
+          "sum": 145545.84,
           "average": 2599.032857142857,
           "average w/o zero": 2599.032857142857
         },
@@ -7044,7 +7044,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 121298.17000000004,
+          "sum": 121298.17,
           "average": 3675.7021212121213,
           "average w/o zero": 3675.7021212121213
         },
@@ -7056,7 +7056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 109781.17999999998,
+          "sum": 109781.18000000001,
           "average": 6457.716470588235,
           "average w/o zero": 6457.716470588235
         },
@@ -7068,19 +7068,19 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 4842.360000000001,
+          "sum": 4842.36,
           "average": 605.295,
           "average w/o zero": 605.295
         },
         "HI": {
           "count": 5,
-          "sum": 6422.629999999999,
+          "sum": 6422.63,
           "average": 1284.526,
           "average w/o zero": 1284.526
         },
         "DE": {
           "count": 3,
-          "sum": 1948.5500000000002,
+          "sum": 1948.55,
           "average": 649.5166666666667,
           "average w/o zero": 649.5166666666667
         }
@@ -7088,43 +7088,43 @@ VISUALIZER_DATA_BARS = [
       "Miscellaneous.Language Other than English at Home": {
         "SC": {
           "count": 46,
-          "sum": 248.49999999999997,
+          "sum": 248.5,
           "average": 5.4021739130434785,
           "average w/o zero": 5.4021739130434785
         },
         "LA": {
           "count": 64,
-          "sum": 384.3000000000001,
+          "sum": 384.3,
           "average": 6.0046875,
           "average w/o zero": 6.0046875
         },
         "VA": {
           "count": 133,
-          "sum": 1014.8999999999999,
+          "sum": 1014.9,
           "average": 7.6308270676691725,
           "average w/o zero": 7.6308270676691725
         },
         "ID": {
           "count": 44,
-          "sum": 498.89999999999986,
+          "sum": 498.9,
           "average": 11.338636363636363,
           "average w/o zero": 11.338636363636363
         },
         "IA": {
           "count": 99,
-          "sum": 605.2999999999997,
+          "sum": 605.3,
           "average": 6.1141414141414145,
           "average w/o zero": 6.1141414141414145
         },
         "KY": {
           "count": 120,
-          "sum": 404.79999999999995,
+          "sum": 404.8,
           "average": 3.3733333333333335,
           "average w/o zero": 3.3733333333333335
         },
         "MO": {
           "count": 115,
-          "sum": 476.99999999999994,
+          "sum": 477.0,
           "average": 4.147826086956521,
           "average w/o zero": 4.147826086956521
         },
@@ -7136,7 +7136,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CO": {
           "count": 64,
-          "sum": 868.5999999999999,
+          "sum": 868.6,
           "average": 13.571875,
           "average w/o zero": 13.571875
         },
@@ -7148,43 +7148,43 @@ VISUALIZER_DATA_BARS = [
         },
         "IN": {
           "count": 92,
-          "sum": 509.29999999999995,
+          "sum": 509.3,
           "average": 5.535869565217391,
           "average w/o zero": 5.535869565217391
         },
         "MS": {
           "count": 82,
-          "sum": 243.50000000000003,
+          "sum": 243.5,
           "average": 2.9695121951219514,
           "average w/o zero": 3.006172839506173
         },
         "ND": {
           "count": 53,
-          "sum": 264.70000000000005,
+          "sum": 264.7,
           "average": 4.994339622641509,
           "average w/o zero": 4.994339622641509
         },
         "NE": {
           "count": 93,
-          "sum": 581.4999999999995,
+          "sum": 581.5,
           "average": 6.252688172043011,
           "average w/o zero": 6.320652173913044
         },
         "OH": {
           "count": 88,
-          "sum": 423.39999999999986,
+          "sum": 423.4,
           "average": 4.8113636363636365,
           "average w/o zero": 4.8113636363636365
         },
         "PA": {
           "count": 67,
-          "sum": 464.0000000000001,
+          "sum": 464.0,
           "average": 6.925373134328358,
           "average w/o zero": 6.925373134328358
         },
         "WA": {
           "count": 39,
-          "sum": 577.0000000000001,
+          "sum": 577.0,
           "average": 14.794871794871796,
           "average w/o zero": 14.794871794871796
         },
@@ -7208,7 +7208,7 @@ VISUALIZER_DATA_BARS = [
         },
         "FL": {
           "count": 67,
-          "sum": 1052.5000000000002,
+          "sum": 1052.5,
           "average": 15.708955223880597,
           "average w/o zero": 15.708955223880597
         },
@@ -7226,19 +7226,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NY": {
           "count": 62,
-          "sum": 771.0000000000003,
+          "sum": 771.0,
           "average": 12.435483870967742,
           "average w/o zero": 12.435483870967742
         },
         "WY": {
           "count": 23,
-          "sum": 162.39999999999998,
+          "sum": 162.4,
           "average": 7.060869565217391,
           "average w/o zero": 7.060869565217391
         },
         "MI": {
           "count": 83,
-          "sum": 391.20000000000016,
+          "sum": 391.2,
           "average": 4.713253012048193,
           "average w/o zero": 4.713253012048193
         },
@@ -7250,43 +7250,43 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 253.60000000000002,
+          "sum": 253.6,
           "average": 10.566666666666666,
           "average w/o zero": 10.566666666666666
         },
         "KS": {
           "count": 105,
-          "sum": 931.1000000000004,
+          "sum": 931.1,
           "average": 8.867619047619048,
           "average w/o zero": 8.867619047619048
         },
         "TN": {
           "count": 95,
-          "sum": 373.5999999999999,
+          "sum": 373.6,
           "average": 3.9326315789473685,
           "average w/o zero": 3.9326315789473685
         },
         "TX": {
           "count": 254,
-          "sum": 6859.499999999999,
+          "sum": 6859.5,
           "average": 27.005905511811022,
           "average w/o zero": 27.005905511811022
         },
         "ME": {
           "count": 16,
-          "sum": 83.19999999999999,
+          "sum": 83.2,
           "average": 5.2,
           "average w/o zero": 5.2
         },
         "AZ": {
           "count": 15,
-          "sum": 451.0999999999999,
+          "sum": 451.1,
           "average": 30.073333333333334,
           "average w/o zero": 30.073333333333334
         },
         "GA": {
           "count": 159,
-          "sum": 1157.3999999999999,
+          "sum": 1157.4,
           "average": 7.279245283018868,
           "average w/o zero": 7.279245283018868
         },
@@ -7304,37 +7304,37 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 360.30000000000007,
+          "sum": 360.3,
           "average": 5.5430769230769235,
           "average w/o zero": 5.5430769230769235
         },
         "AL": {
           "count": 67,
-          "sum": 260.1000000000001,
+          "sum": 260.1,
           "average": 3.882089552238806,
           "average w/o zero": 3.882089552238806
         },
         "OR": {
           "count": 36,
-          "sum": 401.59999999999997,
+          "sum": 401.6,
           "average": 11.155555555555555,
           "average w/o zero": 11.155555555555555
         },
         "WV": {
           "count": 55,
-          "sum": 104.59999999999998,
+          "sum": 104.6,
           "average": 1.9018181818181819,
           "average w/o zero": 1.9018181818181819
         },
         "MA": {
           "count": 14,
-          "sum": 255.79999999999995,
+          "sum": 255.79999999999998,
           "average": 18.271428571428572,
           "average w/o zero": 18.271428571428572
         },
         "UT": {
           "count": 29,
-          "sum": 301.59999999999997,
+          "sum": 301.6,
           "average": 10.4,
           "average w/o zero": 10.4
         },
@@ -7352,7 +7352,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 1119.9999999999998,
+          "sum": 1120.0,
           "average": 33.93939393939394,
           "average w/o zero": 33.93939393939394
         },
@@ -7402,7 +7402,7 @@ VISUALIZER_DATA_BARS = [
         },
         "LA": {
           "count": 64,
-          "sum": 5655.900000000001,
+          "sum": 5655.9,
           "average": 88.3734375,
           "average w/o zero": 88.3734375
         },
@@ -7420,13 +7420,13 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 8666.999999999998,
+          "sum": 8667.0,
           "average": 87.54545454545455,
           "average w/o zero": 87.54545454545455
         },
         "KY": {
           "count": 120,
-          "sum": 10454.099999999999,
+          "sum": 10454.1,
           "average": 87.1175,
           "average w/o zero": 87.1175
         },
@@ -7438,31 +7438,31 @@ VISUALIZER_DATA_BARS = [
         },
         "OK": {
           "count": 77,
-          "sum": 6596.699999999997,
+          "sum": 6596.7,
           "average": 85.67142857142858,
           "average w/o zero": 85.67142857142858
         },
         "CO": {
           "count": 64,
-          "sum": 5446.4000000000015,
+          "sum": 5446.4,
           "average": 85.1,
           "average w/o zero": 85.1
         },
         "IL": {
           "count": 102,
-          "sum": 8951.300000000003,
+          "sum": 8951.3,
           "average": 87.7578431372549,
           "average w/o zero": 87.7578431372549
         },
         "IN": {
           "count": 92,
-          "sum": 7983.999999999998,
+          "sum": 7984.0,
           "average": 86.78260869565217,
           "average w/o zero": 86.78260869565217
         },
         "MS": {
           "count": 82,
-          "sum": 7329.000000000001,
+          "sum": 7329.0,
           "average": 89.3780487804878,
           "average w/o zero": 89.3780487804878
         },
@@ -7474,19 +7474,19 @@ VISUALIZER_DATA_BARS = [
         },
         "NE": {
           "count": 93,
-          "sum": 8194.200000000003,
+          "sum": 8194.2,
           "average": 88.10967741935484,
           "average w/o zero": 88.10967741935484
         },
         "OH": {
           "count": 88,
-          "sum": 7664.000000000002,
+          "sum": 7664.0,
           "average": 87.0909090909091,
           "average w/o zero": 87.0909090909091
         },
         "PA": {
           "count": 67,
-          "sum": 5928.200000000002,
+          "sum": 5928.2,
           "average": 88.48059701492538,
           "average w/o zero": 88.48059701492538
         },
@@ -7498,7 +7498,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WI": {
           "count": 72,
-          "sum": 6319.699999999997,
+          "sum": 6319.7,
           "average": 87.77361111111111,
           "average w/o zero": 87.77361111111111
         },
@@ -7510,7 +7510,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 7672.9000000000015,
+          "sum": 7672.9,
           "average": 88.19425287356322,
           "average w/o zero": 88.19425287356322
         },
@@ -7528,25 +7528,25 @@ VISUALIZER_DATA_BARS = [
         },
         "CA": {
           "count": 58,
-          "sum": 4988.9000000000015,
+          "sum": 4988.9,
           "average": 86.01551724137931,
           "average w/o zero": 86.01551724137931
         },
         "NY": {
           "count": 62,
-          "sum": 5478.299999999997,
+          "sum": 5478.3,
           "average": 88.35967741935484,
           "average w/o zero": 88.35967741935484
         },
         "WY": {
           "count": 23,
-          "sum": 1937.4999999999998,
+          "sum": 1937.5,
           "average": 84.23913043478261,
           "average w/o zero": 84.23913043478261
         },
         "MI": {
           "count": 83,
-          "sum": 7246.500000000001,
+          "sum": 7246.5,
           "average": 87.30722891566265,
           "average w/o zero": 87.30722891566265
         },
@@ -7558,7 +7558,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 2085.3999999999996,
+          "sum": 2085.4,
           "average": 86.89166666666667,
           "average w/o zero": 86.89166666666667
         },
@@ -7570,13 +7570,13 @@ VISUALIZER_DATA_BARS = [
         },
         "TN": {
           "count": 95,
-          "sum": 8351.699999999999,
+          "sum": 8351.7,
           "average": 87.91263157894737,
           "average w/o zero": 87.91263157894737
         },
         "TX": {
           "count": 254,
-          "sum": 21906.600000000002,
+          "sum": 21906.6,
           "average": 86.24645669291338,
           "average w/o zero": 86.24645669291338
         },
@@ -7594,13 +7594,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 13872.900000000016,
+          "sum": 13872.9,
           "average": 87.25094339622642,
           "average w/o zero": 87.25094339622642
         },
         "AR": {
           "count": 75,
-          "sum": 6427.999999999999,
+          "sum": 6428.0,
           "average": 85.70666666666666,
           "average w/o zero": 85.70666666666666
         },
@@ -7612,13 +7612,13 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 5768.0999999999985,
+          "sum": 5768.1,
           "average": 88.74,
           "average w/o zero": 88.74
         },
         "AL": {
           "count": 67,
-          "sum": 5960.800000000001,
+          "sum": 5960.8,
           "average": 88.96716417910447,
           "average w/o zero": 88.96716417910447
         },
@@ -7630,7 +7630,7 @@ VISUALIZER_DATA_BARS = [
         },
         "WV": {
           "count": 55,
-          "sum": 4930.900000000001,
+          "sum": 4930.9,
           "average": 89.65272727272728,
           "average w/o zero": 89.65272727272728
         },
@@ -7642,13 +7642,13 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 2516.0999999999995,
+          "sum": 2516.1,
           "average": 86.76206896551724,
           "average w/o zero": 86.76206896551724
         },
         "MT": {
           "count": 56,
-          "sum": 4905.200000000001,
+          "sum": 4905.2,
           "average": 87.59285714285714,
           "average w/o zero": 87.59285714285714
         },
@@ -7672,7 +7672,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 1442.3999999999999,
+          "sum": 1442.4,
           "average": 84.84705882352941,
           "average w/o zero": 84.84705882352941
         },
@@ -8012,31 +8012,31 @@ VISUALIZER_DATA_BARS = [
       "Miscellaneous.Mean Travel Time to Work": {
         "SC": {
           "count": 46,
-          "sum": 1229.6999999999998,
+          "sum": 1229.7,
           "average": 26.732608695652175,
           "average w/o zero": 26.732608695652175
         },
         "LA": {
           "count": 64,
-          "sum": 1748.0000000000002,
+          "sum": 1748.0,
           "average": 27.3125,
           "average w/o zero": 27.3125
         },
         "VA": {
           "count": 133,
-          "sum": 3744.000000000001,
+          "sum": 3744.0,
           "average": 28.150375939849624,
           "average w/o zero": 28.150375939849624
         },
         "ID": {
           "count": 44,
-          "sum": 982.1000000000001,
+          "sum": 982.1,
           "average": 22.320454545454545,
           "average w/o zero": 22.320454545454545
         },
         "IA": {
           "count": 99,
-          "sum": 1979.0999999999995,
+          "sum": 1979.1,
           "average": 19.990909090909092,
           "average w/o zero": 19.990909090909092
         },
@@ -8048,19 +8048,19 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 2816.7000000000003,
+          "sum": 2816.7,
           "average": 24.49304347826087,
           "average w/o zero": 24.49304347826087
         },
         "OK": {
           "count": 77,
-          "sum": 1722.0000000000002,
+          "sum": 1722.0,
           "average": 22.363636363636363,
           "average w/o zero": 22.363636363636363
         },
         "CO": {
           "count": 64,
-          "sum": 1413.5000000000005,
+          "sum": 1413.5,
           "average": 22.0859375,
           "average w/o zero": 22.0859375
         },
@@ -8078,43 +8078,43 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 82,
-          "sum": 2189.3000000000006,
+          "sum": 2189.3,
           "average": 26.69878048780488,
           "average w/o zero": 26.69878048780488
         },
         "ND": {
           "count": 53,
-          "sum": 977.3000000000001,
+          "sum": 977.3,
           "average": 18.439622641509434,
           "average w/o zero": 18.439622641509434
         },
         "NE": {
           "count": 93,
-          "sum": 1686.3999999999999,
+          "sum": 1686.4,
           "average": 18.133333333333333,
           "average w/o zero": 18.133333333333333
         },
         "OH": {
           "count": 88,
-          "sum": 2181.4000000000005,
+          "sum": 2181.4,
           "average": 24.788636363636364,
           "average w/o zero": 24.788636363636364
         },
         "PA": {
           "count": 67,
-          "sum": 1742.8000000000004,
+          "sum": 1742.8,
           "average": 26.01194029850746,
           "average w/o zero": 26.01194029850746
         },
         "WA": {
           "count": 39,
-          "sum": 942.5999999999999,
+          "sum": 942.6,
           "average": 24.16923076923077,
           "average w/o zero": 24.16923076923077
         },
         "WI": {
           "count": 72,
-          "sum": 1640.2000000000003,
+          "sum": 1640.2,
           "average": 22.780555555555555,
           "average w/o zero": 22.780555555555555
         },
@@ -8126,43 +8126,43 @@ VISUALIZER_DATA_BARS = [
         },
         "MN": {
           "count": 87,
-          "sum": 1897.5000000000005,
+          "sum": 1897.5,
           "average": 21.810344827586206,
           "average w/o zero": 21.810344827586206
         },
         "FL": {
           "count": 67,
-          "sum": 1818.8000000000002,
+          "sum": 1818.8,
           "average": 27.14626865671642,
           "average w/o zero": 27.14626865671642
         },
         "NC": {
           "count": 100,
-          "sum": 2569.6000000000004,
+          "sum": 2569.6,
           "average": 25.696,
           "average w/o zero": 25.696
         },
         "CA": {
           "count": 58,
-          "sum": 1516.8000000000002,
+          "sum": 1516.8,
           "average": 26.151724137931033,
           "average w/o zero": 26.151724137931033
         },
         "NY": {
           "count": 62,
-          "sum": 1616.3000000000002,
+          "sum": 1616.3,
           "average": 26.06935483870968,
           "average w/o zero": 26.06935483870968
         },
         "WY": {
           "count": 23,
-          "sum": 437.30000000000007,
+          "sum": 437.3,
           "average": 19.01304347826087,
           "average w/o zero": 19.01304347826087
         },
         "MI": {
           "count": 83,
-          "sum": 1935.4000000000005,
+          "sum": 1935.4,
           "average": 23.318072289156625,
           "average w/o zero": 23.318072289156625
         },
@@ -8174,13 +8174,13 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 748.9999999999999,
+          "sum": 749.0,
           "average": 31.208333333333332,
           "average w/o zero": 31.208333333333332
         },
         "KS": {
           "count": 105,
-          "sum": 1888.6000000000008,
+          "sum": 1888.6,
           "average": 17.986666666666668,
           "average w/o zero": 17.986666666666668
         },
@@ -8192,7 +8192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "TX": {
           "count": 254,
-          "sum": 5968.299999999998,
+          "sum": 5968.3,
           "average": 23.497244094488188,
           "average w/o zero": 23.59407114624506
         },
@@ -8210,13 +8210,13 @@ VISUALIZER_DATA_BARS = [
         },
         "GA": {
           "count": 159,
-          "sum": 4221.4000000000015,
+          "sum": 4221.4,
           "average": 26.549685534591195,
           "average w/o zero": 26.549685534591195
         },
         "AR": {
           "count": 75,
-          "sum": 1732.1000000000008,
+          "sum": 1732.1,
           "average": 23.094666666666665,
           "average w/o zero": 23.094666666666665
         },
@@ -8228,31 +8228,31 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 1117.0000000000002,
+          "sum": 1117.0,
           "average": 17.184615384615384,
           "average w/o zero": 17.184615384615384
         },
         "AL": {
           "count": 67,
-          "sum": 1790.6999999999998,
+          "sum": 1790.7,
           "average": 26.72686567164179,
           "average w/o zero": 26.72686567164179
         },
         "OR": {
           "count": 36,
-          "sum": 745.8000000000001,
+          "sum": 745.8,
           "average": 20.716666666666665,
           "average w/o zero": 20.716666666666665
         },
         "WV": {
           "count": 55,
-          "sum": 1560.7999999999997,
+          "sum": 1560.8,
           "average": 28.37818181818182,
           "average w/o zero": 28.37818181818182
         },
         "MA": {
           "count": 14,
-          "sum": 360.1,
+          "sum": 360.09999999999997,
           "average": 25.72142857142857,
           "average w/o zero": 25.72142857142857
         },
@@ -8276,7 +8276,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 706.9000000000001,
+          "sum": 706.9,
           "average": 21.421212121212122,
           "average w/o zero": 21.421212121212122
         },
@@ -8288,7 +8288,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 392.20000000000005,
+          "sum": 392.2,
           "average": 23.070588235294117,
           "average w/o zero": 23.070588235294117
         },
@@ -8320,19 +8320,19 @@ VISUALIZER_DATA_BARS = [
       "Miscellaneous.Percent Female": {
         "SC": {
           "count": 46,
-          "sum": 2358.4000000000005,
+          "sum": 2358.4,
           "average": 51.2695652173913,
           "average w/o zero": 51.2695652173913
         },
         "LA": {
           "count": 64,
-          "sum": 3198.600000000001,
+          "sum": 3198.6,
           "average": 49.978125,
           "average w/o zero": 49.978125
         },
         "VA": {
           "count": 133,
-          "sum": 6736.199999999998,
+          "sum": 6736.2,
           "average": 50.64812030075188,
           "average w/o zero": 50.64812030075188
         },
@@ -8344,7 +8344,7 @@ VISUALIZER_DATA_BARS = [
         },
         "IA": {
           "count": 99,
-          "sum": 4941.499999999999,
+          "sum": 4941.5,
           "average": 49.91414141414141,
           "average w/o zero": 49.91414141414141
         },
@@ -8356,31 +8356,31 @@ VISUALIZER_DATA_BARS = [
         },
         "MO": {
           "count": 115,
-          "sum": 5757.300000000003,
+          "sum": 5757.3,
           "average": 50.063478260869566,
           "average w/o zero": 50.063478260869566
         },
         "OK": {
           "count": 77,
-          "sum": 3832.499999999999,
+          "sum": 3832.5,
           "average": 49.77272727272727,
           "average w/o zero": 49.77272727272727
         },
         "CO": {
           "count": 64,
-          "sum": 3079.1000000000013,
+          "sum": 3079.1,
           "average": 48.1109375,
           "average w/o zero": 48.1109375
         },
         "IL": {
           "count": 102,
-          "sum": 5089.099999999999,
+          "sum": 5089.1,
           "average": 49.89313725490196,
           "average w/o zero": 49.89313725490196
         },
         "IN": {
           "count": 92,
-          "sum": 4611.200000000002,
+          "sum": 4611.2,
           "average": 50.12173913043478,
           "average w/o zero": 50.12173913043478
         },
@@ -8392,7 +8392,7 @@ VISUALIZER_DATA_BARS = [
         },
         "ND": {
           "count": 53,
-          "sum": 2581.6000000000004,
+          "sum": 2581.6,
           "average": 48.70943396226415,
           "average w/o zero": 48.70943396226415
         },
@@ -8404,19 +8404,19 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 4424.099999999999,
+          "sum": 4424.1,
           "average": 50.273863636363636,
           "average w/o zero": 50.273863636363636
         },
         "PA": {
           "count": 67,
-          "sum": 3342.7000000000003,
+          "sum": 3342.7,
           "average": 49.8910447761194,
           "average w/o zero": 49.8910447761194
         },
         "WA": {
           "count": 39,
-          "sum": 1944.6999999999994,
+          "sum": 1944.7,
           "average": 49.864102564102566,
           "average w/o zero": 49.864102564102566
         },
@@ -8428,19 +8428,19 @@ VISUALIZER_DATA_BARS = [
         },
         "VT": {
           "count": 14,
-          "sum": 704.4999999999999,
+          "sum": 704.5,
           "average": 50.32142857142857,
           "average w/o zero": 50.32142857142857
         },
         "MN": {
           "count": 87,
-          "sum": 4322.299999999998,
+          "sum": 4322.3,
           "average": 49.6816091954023,
           "average w/o zero": 49.6816091954023
         },
         "FL": {
           "count": 67,
-          "sum": 3279.7000000000003,
+          "sum": 3279.7,
           "average": 48.950746268656715,
           "average w/o zero": 48.950746268656715
         },
@@ -8452,13 +8452,13 @@ VISUALIZER_DATA_BARS = [
         },
         "CA": {
           "count": 58,
-          "sum": 2871.4000000000005,
+          "sum": 2871.4,
           "average": 49.50689655172414,
           "average w/o zero": 49.50689655172414
         },
         "NY": {
           "count": 62,
-          "sum": 3111.5000000000005,
+          "sum": 3111.5,
           "average": 50.185483870967744,
           "average w/o zero": 50.185483870967744
         },
@@ -8470,7 +8470,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 4118.200000000001,
+          "sum": 4118.2,
           "average": 49.616867469879516,
           "average w/o zero": 49.616867469879516
         },
@@ -8488,19 +8488,19 @@ VISUALIZER_DATA_BARS = [
         },
         "KS": {
           "count": 105,
-          "sum": 5215.800000000003,
+          "sum": 5215.8,
           "average": 49.674285714285716,
           "average w/o zero": 49.674285714285716
         },
         "TN": {
           "count": 95,
-          "sum": 4776.800000000001,
+          "sum": 4776.8,
           "average": 50.282105263157895,
           "average w/o zero": 50.282105263157895
         },
         "TX": {
           "count": 254,
-          "sum": 12477.399999999992,
+          "sum": 12477.4,
           "average": 49.1236220472441,
           "average w/o zero": 49.1236220472441
         },
@@ -8512,19 +8512,19 @@ VISUALIZER_DATA_BARS = [
         },
         "AZ": {
           "count": 15,
-          "sum": 744.4999999999999,
+          "sum": 744.5,
           "average": 49.63333333333333,
           "average w/o zero": 49.63333333333333
         },
         "GA": {
           "count": 159,
-          "sum": 8012.299999999998,
+          "sum": 8012.3,
           "average": 50.39182389937107,
           "average w/o zero": 50.39182389937107
         },
         "AR": {
           "count": 75,
-          "sum": 3788.5000000000005,
+          "sum": 3788.5,
           "average": 50.513333333333335,
           "average w/o zero": 50.513333333333335
         },
@@ -8536,7 +8536,7 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 3201.1000000000004,
+          "sum": 3201.1,
           "average": 49.247692307692304,
           "average w/o zero": 49.247692307692304
         },
@@ -8548,13 +8548,13 @@ VISUALIZER_DATA_BARS = [
         },
         "OR": {
           "count": 36,
-          "sum": 1796.5999999999997,
+          "sum": 1796.6,
           "average": 49.90555555555556,
           "average w/o zero": 49.90555555555556
         },
         "WV": {
           "count": 55,
-          "sum": 2748.499999999999,
+          "sum": 2748.5,
           "average": 49.972727272727276,
           "average w/o zero": 49.972727272727276
         },
@@ -8566,7 +8566,7 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 1419.9999999999998,
+          "sum": 1420.0,
           "average": 48.96551724137931,
           "average w/o zero": 48.96551724137931
         },
@@ -8584,7 +8584,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 1633.5999999999997,
+          "sum": 1633.6,
           "average": 49.5030303030303,
           "average w/o zero": 49.5030303030303
         },
@@ -8596,7 +8596,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 804.9999999999999,
+          "sum": 805.0,
           "average": 47.35294117647059,
           "average w/o zero": 47.35294117647059
         },
@@ -9552,13 +9552,13 @@ VISUALIZER_DATA_BARS = [
       "Population.Population per Square Mile": {
         "SC": {
           "count": 46,
-          "sum": 6489.900000000001,
+          "sum": 6489.9,
           "average": 141.08478260869566,
           "average w/o zero": 141.08478260869566
         },
         "LA": {
           "count": 64,
-          "sum": 10003.299999999996,
+          "sum": 10003.3,
           "average": 156.3015625,
           "average w/o zero": 156.3015625
         },
@@ -9570,25 +9570,25 @@ VISUALIZER_DATA_BARS = [
         },
         "ID": {
           "count": 44,
-          "sum": 1537.6999999999996,
+          "sum": 1537.7,
           "average": 34.94772727272727,
           "average w/o zero": 34.94772727272727
         },
         "IA": {
           "count": 99,
-          "sum": 5269.500000000003,
+          "sum": 5269.5,
           "average": 53.22727272727273,
           "average w/o zero": 53.22727272727273
         },
         "KY": {
           "count": 120,
-          "sum": 14076.799999999997,
+          "sum": 14076.8,
           "average": 117.30666666666667,
           "average w/o zero": 117.30666666666667
         },
         "MO": {
           "count": 115,
-          "sum": 15152.000000000002,
+          "sum": 15152.0,
           "average": 131.75652173913045,
           "average w/o zero": 131.75652173913045
         },
@@ -9600,19 +9600,19 @@ VISUALIZER_DATA_BARS = [
         },
         "CO": {
           "count": 64,
-          "sum": 9337.599999999999,
+          "sum": 9337.6,
           "average": 145.9,
           "average w/o zero": 145.9
         },
         "IL": {
           "count": 102,
-          "sum": 20014.39999999999,
+          "sum": 20014.4,
           "average": 196.21960784313725,
           "average w/o zero": 196.21960784313725
         },
         "IN": {
           "count": 92,
-          "sum": 16348.000000000004,
+          "sum": 16348.0,
           "average": 177.69565217391303,
           "average w/o zero": 177.69565217391303
         },
@@ -9624,7 +9624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "ND": {
           "count": 53,
-          "sum": 450.10000000000014,
+          "sum": 450.1,
           "average": 8.492452830188679,
           "average w/o zero": 8.492452830188679
         },
@@ -9636,31 +9636,31 @@ VISUALIZER_DATA_BARS = [
         },
         "OH": {
           "count": 88,
-          "sum": 25645.99999999999,
+          "sum": 25646.0,
           "average": 291.4318181818182,
           "average w/o zero": 291.4318181818182
         },
         "PA": {
           "count": 67,
-          "sum": 31310.800000000007,
+          "sum": 31310.8,
           "average": 467.32537313432834,
           "average w/o zero": 467.32537313432834
         },
         "WA": {
           "count": 39,
-          "sum": 5106.4000000000015,
+          "sum": 5106.4,
           "average": 130.93333333333334,
           "average w/o zero": 130.93333333333334
         },
         "WI": {
           "count": 72,
-          "sum": 11858.700000000004,
+          "sum": 11858.7,
           "average": 164.70416666666668,
           "average w/o zero": 164.70416666666668
         },
         "VT": {
           "count": 14,
-          "sum": 1015.5999999999999,
+          "sum": 1015.6,
           "average": 72.54285714285714,
           "average w/o zero": 72.54285714285714
         },
@@ -9672,19 +9672,19 @@ VISUALIZER_DATA_BARS = [
         },
         "FL": {
           "count": 67,
-          "sum": 22661.200000000004,
+          "sum": 22661.2,
           "average": 338.2268656716418,
           "average w/o zero": 338.2268656716418
         },
         "NC": {
           "count": 100,
-          "sum": 19544.20000000001,
+          "sum": 19544.2,
           "average": 195.442,
           "average w/o zero": 195.442
         },
         "CA": {
           "count": 58,
-          "sum": 38468.59999999999,
+          "sum": 38468.6,
           "average": 663.251724137931,
           "average w/o zero": 663.251724137931
         },
@@ -9702,7 +9702,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MI": {
           "count": 83,
-          "sum": 15700.199999999999,
+          "sum": 15700.2,
           "average": 189.15903614457832,
           "average w/o zero": 189.15903614457832
         },
@@ -9714,25 +9714,25 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 24,
-          "sum": 19342.600000000002,
+          "sum": 19342.6,
           "average": 805.9416666666667,
           "average w/o zero": 805.9416666666667
         },
         "KS": {
           "count": 105,
-          "sum": 5174.800000000001,
+          "sum": 5174.8,
           "average": 49.28380952380952,
           "average w/o zero": 49.28380952380952
         },
         "TN": {
           "count": 95,
-          "sum": 13271.300000000001,
+          "sum": 13271.3,
           "average": 139.6978947368421,
           "average w/o zero": 139.6978947368421
         },
         "TX": {
           "count": 254,
-          "sum": 26618.90000000001,
+          "sum": 26618.9,
           "average": 104.7988188976378,
           "average w/o zero": 104.7988188976378
         },
@@ -9756,7 +9756,7 @@ VISUALIZER_DATA_BARS = [
         },
         "AR": {
           "count": 75,
-          "sum": 4076.4000000000005,
+          "sum": 4076.4,
           "average": 54.352000000000004,
           "average w/o zero": 54.352000000000004
         },
@@ -9768,7 +9768,7 @@ VISUALIZER_DATA_BARS = [
         },
         "SD": {
           "count": 65,
-          "sum": 917.1000000000001,
+          "sum": 917.1,
           "average": 14.10923076923077,
           "average w/o zero": 14.10923076923077
         },
@@ -9798,13 +9798,13 @@ VISUALIZER_DATA_BARS = [
         },
         "UT": {
           "count": 29,
-          "sum": 3391.7000000000007,
+          "sum": 3391.7,
           "average": 116.9551724137931,
           "average w/o zero": 116.9551724137931
         },
         "MT": {
           "count": 56,
-          "sum": 411.70000000000016,
+          "sum": 411.7,
           "average": 7.351785714285715,
           "average w/o zero": 7.351785714285715
         },
@@ -9816,7 +9816,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NM": {
           "count": 33,
-          "sum": 1180.0000000000002,
+          "sum": 1180.0,
           "average": 35.75757575757576,
           "average w/o zero": 35.75757575757576
         },
@@ -9828,7 +9828,7 @@ VISUALIZER_DATA_BARS = [
         },
         "NV": {
           "count": 17,
-          "sum": 821.5000000000001,
+          "sum": 821.5,
           "average": 48.32352941176471,
           "average w/o zero": 48.32352941176471
         },
@@ -9840,7 +9840,7 @@ VISUALIZER_DATA_BARS = [
         },
         "CT": {
           "count": 8,
-          "sum": 5780.299999999999,
+          "sum": 5780.3,
           "average": 722.5375,
           "average w/o zero": 722.5375
         },
@@ -9852,7 +9852,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DE": {
           "count": 3,
-          "sum": 1750.6999999999998,
+          "sum": 1750.7,
           "average": 583.5666666666667,
           "average w/o zero": 583.5666666666667
         }

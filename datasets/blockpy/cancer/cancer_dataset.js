@@ -480,7 +480,7 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
     "type": "Float",
     "pretty": "Rates.Age.> 64"
   },
-  "Rates.Age and Sex.< 18.Female": {
+  "Rates.Age and Sex.Female.< 18": {
     "data": [
       2.0,
       0.0,
@@ -534,13 +534,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       2.1,
       0.0
     ],
-    "name": "Rates.Age and Sex.< 18.Female",
+    "name": "Rates.Age and Sex.Female.< 18",
     "comment": "Female under 18",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.< 18.Female"
+    "pretty": "Rates.Age and Sex.Female.< 18"
   },
-  "Rates.Age and Sex.< 18.Male": {
+  "Rates.Age and Sex.Male.< 18": {
     "data": [
       2.1,
       0.0,
@@ -594,13 +594,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       2.2,
       0.0
     ],
-    "name": "Rates.Age and Sex.< 18.Male",
-    "comment": "Male   under 18",
+    "name": "Rates.Age and Sex.Male.< 18",
+    "comment": "Male  under 18",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.< 18.Male"
+    "pretty": "Rates.Age and Sex.Male.< 18"
   },
-  "Rates.Age and Sex.18 - 45.Female": {
+  "Rates.Age and Sex.Female.18 - 45": {
     "data": [
       20.1,
       13.9,
@@ -654,13 +654,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       15.1,
       13.2
     ],
-    "name": "Rates.Age and Sex.18 - 45.Female",
+    "name": "Rates.Age and Sex.Female.18 - 45",
     "comment": "Female 18 - 45",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.18 - 45.Female"
+    "pretty": "Rates.Age and Sex.Female.18 - 45"
   },
-  "Rates.Age and Sex.18 - 45.Male": {
+  "Rates.Age and Sex.Male.18 - 45": {
     "data": [
       16.8,
       10.0,
@@ -714,13 +714,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       12.5,
       10.4
     ],
-    "name": "Rates.Age and Sex.18 - 45.Male",
+    "name": "Rates.Age and Sex.Male.18 - 45",
     "comment": "Male   18 - 45",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.18 - 45.Male"
+    "pretty": "Rates.Age and Sex.Male.18 - 45"
   },
-  "Rates.Age and Sex.45 - 64.Female": {
+  "Rates.Age and Sex.Female.45 - 64": {
     "data": [
       201.0,
       157.6,
@@ -774,13 +774,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       168.2,
       162.5
     ],
-    "name": "Rates.Age and Sex.45 - 64.Female",
+    "name": "Rates.Age and Sex.Female.45 - 64",
     "comment": "Female 45 to 64 Years",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.45 - 64.Female"
+    "pretty": "Rates.Age and Sex.Female.45 - 64"
   },
-  "Rates.Age and Sex.45 - 64.Male": {
+  "Rates.Age and Sex.Male.45 - 64": {
     "data": [
       291.5,
       183.0,
@@ -834,13 +834,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       194.2,
       174.0
     ],
-    "name": "Rates.Age and Sex.45 - 64.Male",
+    "name": "Rates.Age and Sex.Male.45 - 64",
     "comment": "Male   45 to 64 Years",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.45 - 64.Male"
+    "pretty": "Rates.Age and Sex.Male.45 - 64"
   },
-  "Rates.Age and Sex.> 64.Female": {
+  "Rates.Age and Sex.Female.> 64": {
     "data": [
       803.6,
       849.6,
@@ -894,13 +894,13 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       869.5,
       803.4
     ],
-    "name": "Rates.Age and Sex.> 64.Female",
+    "name": "Rates.Age and Sex.Female.> 64",
     "comment": "Female 65 Years and Over",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.> 64.Female"
+    "pretty": "Rates.Age and Sex.Female.> 64"
   },
-  "Rates.Age and Sex.> 64.Male": {
+  "Rates.Age and Sex.Male.> 64": {
     "data": [
       1308.6,
       1086.4,
@@ -954,11 +954,11 @@ blockpy._IMPORTED_DATASETS["cancer"] = {
       1233.6,
       1064.5
     ],
-    "name": "Rates.Age and Sex.> 64.Male",
+    "name": "Rates.Age and Sex.Male.> 64",
     "comment": "Male   65 Years and Over",
     "index": false,
     "type": "Float",
-    "pretty": "Rates.Age and Sex.> 64.Male"
+    "pretty": "Rates.Age and Sex.Male.> 64"
   },
   "Rates.Race.White": {
     "data": [

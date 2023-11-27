@@ -14,7 +14,7 @@ extras: visualizer
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Sam Donald</span><br>
-<span class='text-muted'>Version 1.0.0, created 10/28/2022</span><br>
+<span class='text-muted'>Version 1.0.1, created 10/28/2022</span><br>
 <span class='text-muted'>Tags: Nuclear, Atomic bomb, War</span>
 
 # Overview

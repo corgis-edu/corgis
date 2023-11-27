@@ -684,13 +684,13 @@ VISUALIZER_DATA_BARS = [
       "Transaction.Sale Details.Discount Rate": {
         "Unknown": {
           "count": 504,
-          "sum": 3.000311018000001,
+          "sum": 3.000311018,
           "average": 0.005952998051587302,
           "average w/o zero": 0.006012647330661323
         },
         "LA": {
           "count": 8700,
-          "sum": 52.09983381600697,
+          "sum": 52.099833816,
           "average": 0.0059884866455172416,
           "average w/o zero": 0.006015452466920679
         },
@@ -702,25 +702,25 @@ VISUALIZER_DATA_BARS = [
         },
         "MD": {
           "count": 23,
-          "sum": 0.13873760699999999,
+          "sum": 0.138737607,
           "average": 0.006032069869565218,
           "average w/o zero": 0.006032069869565218
         },
         "TX": {
           "count": 47,
-          "sum": 0.28347102999999985,
+          "sum": 0.28347103,
           "average": 0.006031298510638298,
           "average w/o zero": 0.006031298510638298
         },
         "MS": {
           "count": 156,
-          "sum": 0.9418627210000011,
+          "sum": 0.941862721,
           "average": 0.0060375815448717954,
           "average w/o zero": 0.0060375815448717954
         },
         "AL": {
           "count": 41,
-          "sum": 0.24676592999999977,
+          "sum": 0.24676593000000002,
           "average": 0.006018681219512195,
           "average w/o zero": 0.006018681219512195
         },
@@ -732,13 +732,13 @@ VISUALIZER_DATA_BARS = [
         },
         "AR": {
           "count": 32,
-          "sum": 0.18737558499999993,
+          "sum": 0.187375585,
           "average": 0.00585548703125,
           "average w/o zero": 0.00604437370967742
         },
         "KY": {
           "count": 7,
-          "sum": 0.04227667500000001,
+          "sum": 0.042276675,
           "average": 0.0060395250000000004,
           "average w/o zero": 0.0060395250000000004
         },
@@ -854,13 +854,13 @@ VISUALIZER_DATA_BARS = [
       "Transaction.Sale Details.Predicted Interest Rate": {
         "Unknown": {
           "count": 504,
-          "sum": 37.218760460000276,
+          "sum": 37.21876046,
           "average": 0.07384674694444444,
           "average w/o zero": 0.07458669430861724
         },
         "LA": {
           "count": 8700,
-          "sum": 646.3085915159313,
+          "sum": 646.308591516,
           "average": 0.0742883438524138,
           "average w/o zero": 0.07462286012192587
         },
@@ -884,7 +884,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 156,
-          "sum": 11.685399120000032,
+          "sum": 11.685399120000001,
           "average": 0.07490640461538461,
           "average w/o zero": 0.07490640461538461
         },
@@ -1030,7 +1030,7 @@ VISUALIZER_DATA_BARS = [
         },
         "LA": {
           "count": 8700,
-          "sum": 11383124.627999991,
+          "sum": 11383124.628,
           "average": 1308.4051296551725,
           "average w/o zero": 1318.5595538051662
         },
@@ -1054,7 +1054,7 @@ VISUALIZER_DATA_BARS = [
         },
         "MS": {
           "count": 156,
-          "sum": 271237.69999999995,
+          "sum": 271237.7,
           "average": 1738.7032051282051,
           "average w/o zero": 1761.2837662337663
         },

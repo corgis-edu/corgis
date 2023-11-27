@@ -4,37 +4,37 @@ VISUALIZER_DATA_BARS = [
       "daily average.amazon revenue": {
         "genre fiction": {
           "count": 8903,
-          "sum": 685407.0054999812,
+          "sum": 685407.0055,
           "average": 76.98607272829383,
           "average w/o zero": 76.98607272829383
         },
         "fiction": {
           "count": 733,
-          "sum": 46331.67100000009,
+          "sum": 46331.671,
           "average": 63.2082824010914,
           "average w/o zero": 63.2082824010914
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 264798.6595000028,
+          "sum": 264798.6595,
           "average": 18.69914974224984,
           "average w/o zero": 18.69914974224984
         },
         "children": {
           "count": 2541,
-          "sum": 25143.189500000004,
+          "sum": 25143.1895,
           "average": 9.894997835497836,
           "average w/o zero": 9.894997835497836
         },
         "comics": {
           "count": 568,
-          "sum": 4302.114499999995,
+          "sum": 4302.1145,
           "average": 7.574145246478873,
           "average w/o zero": 7.574145246478873
         },
         "foreign language": {
           "count": 121,
-          "sum": 474.0835000000001,
+          "sum": 474.0835,
           "average": 3.9180454545454544,
           "average w/o zero": 3.9180454545454544
         }
@@ -42,31 +42,31 @@ VISUALIZER_DATA_BARS = [
       "daily average.author revenue": {
         "genre fiction": {
           "count": 8903,
-          "sum": 751854.5584999928,
+          "sum": 751854.5585,
           "average": 84.44957413231495,
           "average w/o zero": 84.44957413231495
         },
         "fiction": {
           "count": 733,
-          "sum": 49014.03100000008,
+          "sum": 49014.031,
           "average": 66.86770941336971,
           "average w/o zero": 66.86770941336971
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 289346.7344999987,
+          "sum": 289346.7345,
           "average": 20.432648435844925,
           "average w/o zero": 20.432648435844925
         },
         "children": {
           "count": 2541,
-          "sum": 25662.702499999956,
+          "sum": 25662.7025,
           "average": 10.099450019677292,
           "average w/o zero": 10.099450019677292
         },
         "comics": {
           "count": 568,
-          "sum": 4288.047499999996,
+          "sum": 4288.0475,
           "average": 7.5493794014084505,
           "average w/o zero": 7.5493794014084505
         },
@@ -80,37 +80,37 @@ VISUALIZER_DATA_BARS = [
       "daily average.gross sales": {
         "genre fiction": {
           "count": 8903,
-          "sum": 2491920.71999998,
+          "sum": 2491920.72,
           "average": 279.8967449174436,
           "average w/o zero": 279.8967449174436
         },
         "fiction": {
           "count": 733,
-          "sum": 209117.17999999988,
+          "sum": 209117.18,
           "average": 285.2894679399727,
           "average w/o zero": 285.2894679399727
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 1229028.279999919,
+          "sum": 1229028.28,
           "average": 86.78965327307394,
           "average w/o zero": 86.78965327307394
         },
         "children": {
           "count": 2541,
-          "sum": 115870.21000000126,
+          "sum": 115870.21,
           "average": 45.60024006296734,
           "average w/o zero": 45.60024006296734
         },
         "comics": {
           "count": 568,
-          "sum": 21405.070000000098,
+          "sum": 21405.07,
           "average": 37.684982394366195,
           "average w/o zero": 37.684982394366195
         },
         "foreign language": {
           "count": 121,
-          "sum": 2191.329999999998,
+          "sum": 2191.33,
           "average": 18.110165289256198,
           "average w/o zero": 18.110165289256198
         }
@@ -118,37 +118,37 @@ VISUALIZER_DATA_BARS = [
       "daily average.publisher revenue": {
         "genre fiction": {
           "count": 8903,
-          "sum": 1054659.155999979,
+          "sum": 1054659.156,
           "average": 118.46109805683477,
           "average w/o zero": 175.36733555038245
         },
         "fiction": {
           "count": 733,
-          "sum": 113771.47799999986,
+          "sum": 113771.478,
           "average": 155.2134761255116,
           "average w/o zero": 200.30189788732395
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 674882.8859999873,
+          "sum": 674882.8859999999,
           "average": 47.65785509497917,
           "average w/o zero": 59.79293753876141
         },
         "children": {
           "count": 2541,
-          "sum": 65064.31800000025,
+          "sum": 65064.318,
           "average": 25.60579220779221,
           "average w/o zero": 30.446569021993447
         },
         "comics": {
           "count": 568,
-          "sum": 12814.907999999952,
+          "sum": 12814.908,
           "average": 22.561457746478872,
           "average w/o zero": 22.641180212014135
         },
         "foreign language": {
           "count": 121,
-          "sum": 1191.0960000000002,
+          "sum": 1191.096,
           "average": 9.843768595041322,
           "average w/o zero": 13.849953488372092
         }
@@ -194,7 +194,7 @@ VISUALIZER_DATA_BARS = [
       "statistics.average rating": {
         "genre fiction": {
           "count": 8903,
-          "sum": 36570.540000000234,
+          "sum": 36570.54,
           "average": 4.107664832079075,
           "average w/o zero": 4.318675011809164
         },
@@ -206,25 +206,25 @@ VISUALIZER_DATA_BARS = [
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 59424.440000000715,
+          "sum": 59424.44,
           "average": 4.196344890897535,
           "average w/o zero": 4.344526977628308
         },
         "children": {
           "count": 2541,
-          "sum": 10976.229999999996,
+          "sum": 10976.23,
           "average": 4.319649744195199,
           "average w/o zero": 4.505841543513958
         },
         "comics": {
           "count": 568,
-          "sum": 2114.3600000000024,
+          "sum": 2114.36,
           "average": 3.7224647887323945,
           "average w/o zero": 4.306232179226069
         },
         "foreign language": {
           "count": 121,
-          "sum": 342.3900000000001,
+          "sum": 342.39,
           "average": 2.8296694214876035,
           "average w/o zero": 4.389615384615385
         }
@@ -232,37 +232,37 @@ VISUALIZER_DATA_BARS = [
       "statistics.sale price": {
         "genre fiction": {
           "count": 8903,
-          "sum": 41211.36000000152,
+          "sum": 41211.36,
           "average": 4.628929574300797,
           "average w/o zero": 4.628929574300797
         },
         "fiction": {
           "count": 733,
-          "sum": 3398.0999999999513,
+          "sum": 3398.1,
           "average": 4.635879945429741,
           "average w/o zero": 4.635879945429741
         },
         "nonfiction": {
           "count": 14161,
-          "sum": 122406.40000001386,
+          "sum": 122406.40000000001,
           "average": 8.643909328437257,
           "average w/o zero": 8.643909328437257
         },
         "children": {
           "count": 2541,
-          "sum": 11910.819999999758,
+          "sum": 11910.82,
           "average": 4.6874537583628495,
           "average w/o zero": 4.6874537583628495
         },
         "comics": {
           "count": 568,
-          "sum": 3644.559999999965,
+          "sum": 3644.56,
           "average": 6.416478873239437,
           "average w/o zero": 6.416478873239437
         },
         "foreign language": {
           "count": 121,
-          "sum": 603.9200000000004,
+          "sum": 603.92,
           "average": 4.99107438016529,
           "average w/o zero": 4.99107438016529
         }
@@ -374,19 +374,19 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 15390.299999999997,
+          "sum": 15390.3,
           "average": 39.56375321336761,
           "average w/o zero": 39.56375321336761
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 162296.84199999683,
+          "sum": 162296.842,
           "average": 16.661209526742635,
           "average w/o zero": 16.661209526742635
         },
         "Little, Brown and Company": {
           "count": 161,
-          "sum": 32973.257999999965,
+          "sum": 32973.258,
           "average": 204.8028447204969,
           "average w/o zero": 204.8028447204969
         },
@@ -404,43 +404,43 @@ VISUALIZER_DATA_BARS = [
         },
         "Center Street": {
           "count": 13,
-          "sum": 5988.3020000000015,
+          "sum": 5988.302,
           "average": 460.6386153846154,
           "average w/o zero": 460.6386153846154
         },
         "Doubleday": {
           "count": 26,
-          "sum": 7630.794000000002,
+          "sum": 7630.794,
           "average": 293.4920769230769,
           "average w/o zero": 293.4920769230769
         },
         "Putnam Adult": {
           "count": 54,
-          "sum": 20341.431999999993,
+          "sum": 20341.432,
           "average": 376.6931851851852,
           "average w/o zero": 376.6931851851852
         },
         "(Indie Publisher)": {
           "count": 5946,
-          "sum": 222333.12549999313,
+          "sum": 222333.1255,
           "average": 37.3920493609149,
           "average w/o zero": 37.3920493609149
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 3846.7699999999986,
+          "sum": 3846.77,
           "average": 83.62543478260869,
           "average w/o zero": 83.62543478260869
         },
         "Knopf Books for Young Readers": {
           "count": 35,
-          "sum": 5395.723999999999,
+          "sum": 5395.724,
           "average": 154.16354285714286,
           "average w/o zero": 154.16354285714286
         },
         "Skyscape": {
           "count": 17,
-          "sum": 20098.806000000004,
+          "sum": 20098.806,
           "average": 1182.282705882353,
           "average w/o zero": 1182.282705882353
         },
@@ -452,31 +452,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 8658.777999999993,
+          "sum": 8658.778,
           "average": 41.42955980861244,
           "average w/o zero": 41.42955980861244
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 43977.29000000044,
+          "sum": 43977.29,
           "average": 12.188827605321508,
           "average w/o zero": 12.188827605321508
         },
         "Viking Adult": {
           "count": 38,
-          "sum": 9025.886000000002,
+          "sum": 9025.886,
           "average": 237.52331578947368,
           "average w/o zero": 237.52331578947368
         },
         "Montlake Romance": {
           "count": 78,
-          "sum": 31346.26299999999,
+          "sum": 31346.263,
           "average": 401.87516666666664,
           "average w/o zero": 401.87516666666664
         },
         "William Morrow": {
           "count": 84,
-          "sum": 8087.801999999999,
+          "sum": 8087.802,
           "average": 96.28335714285714,
           "average w/o zero": 96.28335714285714
         },
@@ -488,7 +488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown": {
           "count": 37,
-          "sum": 5805.285999999999,
+          "sum": 5805.286,
           "average": 156.89962162162163,
           "average w/o zero": 156.89962162162163
         },
@@ -500,7 +500,7 @@ VISUALIZER_DATA_BARS = [
         },
         "47North": {
           "count": 77,
-          "sum": 21402.88149999998,
+          "sum": 21402.8815,
           "average": 277.9595,
           "average w/o zero": 277.9595
         },
@@ -518,19 +518,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Berkley": {
           "count": 181,
-          "sum": 17716.576000000026,
+          "sum": 17716.576,
           "average": 97.88163535911602,
           "average w/o zero": 97.88163535911602
         },
         "Dutton Adult": {
           "count": 32,
-          "sum": 7727.195999999999,
+          "sum": 7727.196,
           "average": 241.474875,
           "average w/o zero": 241.474875
         },
         "Bantam": {
           "count": 150,
-          "sum": 13796.741999999993,
+          "sum": 13796.742,
           "average": 91.97828,
           "average w/o zero": 91.97828
         },
@@ -542,13 +542,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 12432.555999999997,
+          "sum": 12432.556,
           "average": 116.19211214953272,
           "average w/o zero": 116.19211214953272
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 7027.314000000004,
+          "sum": 7027.314,
           "average": 47.16318120805369,
           "average w/o zero": 47.16318120805369
         },
@@ -560,19 +560,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage": {
           "count": 190,
-          "sum": 12703.889999999992,
+          "sum": 12703.89,
           "average": 66.86257894736842,
           "average w/o zero": 66.86257894736842
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 8812.655999999992,
+          "sum": 8812.656,
           "average": 55.42550943396226,
           "average w/o zero": 55.42550943396226
         },
         "Razorbill": {
           "count": 16,
-          "sum": 5484.023999999999,
+          "sum": 5484.024,
           "average": 342.7515,
           "average w/o zero": 342.7515
         },
@@ -584,7 +584,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Henry Holt and Co.": {
           "count": 46,
-          "sum": 2630.842000000002,
+          "sum": 2630.842,
           "average": 57.19221739130435,
           "average w/o zero": 57.19221739130435
         },
@@ -596,37 +596,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Scribner": {
           "count": 125,
-          "sum": 8130.907999999996,
+          "sum": 8130.908,
           "average": 65.047264,
           "average w/o zero": 65.047264
         },
         "Harper": {
           "count": 61,
-          "sum": 5883.962,
+          "sum": 5883.9619999999995,
           "average": 96.45839344262295,
           "average w/o zero": 96.45839344262295
         },
         "Margaret K. McElderry Books": {
           "count": 21,
-          "sum": 3834.1180000000004,
+          "sum": 3834.118,
           "average": 182.57704761904762,
           "average w/o zero": 182.57704761904762
         },
         "Dell": {
           "count": 49,
-          "sum": 3614.6539999999995,
+          "sum": 3614.654,
           "average": 73.76844897959184,
           "average w/o zero": 73.76844897959184
         },
         "Tor Books": {
           "count": 84,
-          "sum": 5426.637999999998,
+          "sum": 5426.638,
           "average": 64.60283333333334,
           "average w/o zero": 64.60283333333334
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 3292.582000000001,
+          "sum": 3292.582,
           "average": 47.03688571428572,
           "average w/o zero": 47.03688571428572
         },
@@ -638,49 +638,49 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 7790.201999999997,
+          "sum": 7790.202,
           "average": 47.501231707317075,
           "average w/o zero": 47.501231707317075
         },
         "Delacorte Press": {
           "count": 54,
-          "sum": 6528.278000000001,
+          "sum": 6528.278,
           "average": 120.89403703703704,
           "average w/o zero": 120.89403703703704
         },
         "Feiwel & Friends": {
           "count": 10,
-          "sum": 1398.668,
+          "sum": 1398.6680000000001,
           "average": 139.8668,
           "average w/o zero": 139.8668
         },
         "Riverhead": {
           "count": 48,
-          "sum": 3256.8559999999993,
+          "sum": 3256.856,
           "average": 67.85116666666667,
           "average w/o zero": 67.85116666666667
         },
         "Avon": {
           "count": 34,
-          "sum": 2349.0379999999996,
+          "sum": 2349.038,
           "average": 69.08935294117647,
           "average w/o zero": 69.08935294117647
         },
         "Speak": {
           "count": 20,
-          "sum": 1820.3379999999997,
+          "sum": 1820.338,
           "average": 91.01689999999999,
           "average w/o zero": 91.01689999999999
         },
         "Zondervan": {
           "count": 70,
-          "sum": 3316.015999999999,
+          "sum": 3316.016,
           "average": 47.371657142857146,
           "average w/o zero": 47.371657142857146
         },
         "Threshold Editions": {
           "count": 15,
-          "sum": 1607.2680000000003,
+          "sum": 1607.268,
           "average": 107.1512,
           "average w/o zero": 107.1512
         },
@@ -692,13 +692,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Gallery Books": {
           "count": 64,
-          "sum": 3235.8680000000013,
+          "sum": 3235.868,
           "average": 50.5604375,
           "average w/o zero": 50.5604375
         },
         "Roc": {
           "count": 16,
-          "sum": 1351.9879999999996,
+          "sum": 1351.988,
           "average": 84.49925,
           "average w/o zero": 84.49925
         },
@@ -728,37 +728,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Ecco": {
           "count": 29,
-          "sum": 2201.4519999999993,
+          "sum": 2201.452,
           "average": 75.91213793103448,
           "average w/o zero": 75.91213793103448
         },
         "Crown Forum": {
           "count": 6,
-          "sum": 853.8219999999999,
+          "sum": 853.822,
           "average": 142.30366666666666,
           "average w/o zero": 142.30366666666666
         },
         "Minotaur Books": {
           "count": 47,
-          "sum": 2322.285999999999,
+          "sum": 2322.286,
           "average": 49.41034042553191,
           "average w/o zero": 49.41034042553191
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 5221.773999999991,
+          "sum": 5221.774,
           "average": 20.639422924901186,
           "average w/o zero": 20.639422924901186
         },
         "Spiegel & Grau": {
           "count": 22,
-          "sum": 947.1159999999999,
+          "sum": 947.116,
           "average": 43.05072727272727,
           "average w/o zero": 43.05072727272727
         },
         "Gotham Books": {
           "count": 28,
-          "sum": 981.7420000000001,
+          "sum": 981.742,
           "average": 35.06221428571428,
           "average w/o zero": 35.06221428571428
         },
@@ -770,7 +770,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 2395.8979999999992,
+          "sum": 2395.898,
           "average": 31.945306666666667,
           "average w/o zero": 31.945306666666667
         },
@@ -782,43 +782,43 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperTeen": {
           "count": 30,
-          "sum": 1358.1639999999998,
+          "sum": 1358.164,
           "average": 45.272133333333336,
           "average w/o zero": 45.272133333333336
         },
         "Simon Pulse": {
           "count": 15,
-          "sum": 728.0580000000001,
+          "sum": 728.058,
           "average": 48.5372,
           "average w/o zero": 48.5372
         },
         "It Books": {
           "count": 28,
-          "sum": 577.1760000000002,
+          "sum": 577.176,
           "average": 20.61342857142857,
           "average w/o zero": 20.61342857142857
         },
         "Thomas Dunne Books": {
           "count": 39,
-          "sum": 1090.0460000000003,
+          "sum": 1090.046,
           "average": 27.949897435897434,
           "average w/o zero": 27.949897435897434
         },
         "Harmony": {
           "count": 61,
-          "sum": 2541.8600000000006,
+          "sum": 2541.86,
           "average": 41.66983606557377,
           "average w/o zero": 41.66983606557377
         },
         "Jove": {
           "count": 42,
-          "sum": 2628.966000000001,
+          "sum": 2628.966,
           "average": 62.59442857142857,
           "average w/o zero": 62.59442857142857
         },
         "Atria/Emily Bestler Books": {
           "count": 8,
-          "sum": 1094.3239999999998,
+          "sum": 1094.324,
           "average": 136.7905,
           "average w/o zero": 136.7905
         },
@@ -830,13 +830,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 3606.4120000000003,
+          "sum": 3606.412,
           "average": 55.48326153846154,
           "average w/o zero": 55.48326153846154
         },
         "Forge Books": {
           "count": 21,
-          "sum": 459.76599999999996,
+          "sum": 459.766,
           "average": 21.893619047619048,
           "average w/o zero": 21.893619047619048
         },
@@ -848,7 +848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Voyager": {
           "count": 11,
-          "sum": 690.7520000000001,
+          "sum": 690.752,
           "average": 62.79563636363636,
           "average w/o zero": 62.79563636363636
         },
@@ -860,13 +860,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Three Rivers Press": {
           "count": 21,
-          "sum": 426.2519999999999,
+          "sum": 426.252,
           "average": 20.297714285714285,
           "average w/o zero": 20.297714285714285
         },
         "Atria Books": {
           "count": 100,
-          "sum": 4878.410000000003,
+          "sum": 4878.41,
           "average": 48.7841,
           "average w/o zero": 48.7841
         },
@@ -878,25 +878,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Plume": {
           "count": 57,
-          "sum": 2038.5519999999992,
+          "sum": 2038.552,
           "average": 35.7640701754386,
           "average w/o zero": 35.7640701754386
         },
         "Random House/Disney": {
           "count": 13,
-          "sum": 149.45599999999993,
+          "sum": 149.456,
           "average": 11.496615384615385,
           "average w/o zero": 11.496615384615385
         },
         "Pocket Star": {
           "count": 14,
-          "sum": 171.76000000000005,
+          "sum": 171.76,
           "average": 12.268571428571429,
           "average w/o zero": 12.268571428571429
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 1265.1060000000002,
+          "sum": 1265.106,
           "average": 40.80987096774194,
           "average w/o zero": 40.80987096774194
         },
@@ -914,7 +914,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Touchstone": {
           "count": 73,
-          "sum": 2751.0660000000007,
+          "sum": 2751.0660000000003,
           "average": 37.685835616438354,
           "average w/o zero": 37.685835616438354
         },
@@ -926,13 +926,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Putnam Juvenile": {
           "count": 11,
-          "sum": 542.6279999999999,
+          "sum": 542.628,
           "average": 49.32981818181818,
           "average w/o zero": 49.32981818181818
         },
         "Orbit": {
           "count": 51,
-          "sum": 1703.2219999999988,
+          "sum": 1703.222,
           "average": 33.39650980392157,
           "average w/o zero": 33.39650980392157
         },
@@ -944,43 +944,43 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperWave": {
           "count": 6,
-          "sum": 706.5460000000002,
+          "sum": 706.546,
           "average": 117.75766666666667,
           "average w/o zero": 117.75766666666667
         },
         "Sarah Crichton Books": {
           "count": 9,
-          "sum": 655.2260000000001,
+          "sum": 655.226,
           "average": 72.80288888888889,
           "average w/o zero": 72.80288888888889
         },
         "The Penguin Press": {
           "count": 28,
-          "sum": 1383.0739999999998,
+          "sum": 1383.074,
           "average": 49.3955,
           "average w/o zero": 49.3955
         },
         "Ace": {
           "count": 50,
-          "sum": 2299.4880000000003,
+          "sum": 2299.488,
           "average": 45.98976,
           "average w/o zero": 45.98976
         },
         "FSG Originals": {
           "count": 3,
-          "sum": 188.212,
+          "sum": 188.21200000000002,
           "average": 62.73733333333334,
           "average w/o zero": 62.73733333333334
         },
         "Witness Impulse": {
           "count": 12,
-          "sum": 192.07200000000003,
+          "sum": 192.072,
           "average": 16.006,
           "average w/o zero": 16.006
         },
         "Hyperion": {
           "count": 63,
-          "sum": 2129.9540000000006,
+          "sum": 2129.954,
           "average": 33.80879365079365,
           "average w/o zero": 33.80879365079365
         },
@@ -998,13 +998,13 @@ VISUALIZER_DATA_BARS = [
         },
         "FaithWords": {
           "count": 11,
-          "sum": 573.0500000000002,
+          "sum": 573.05,
           "average": 52.095454545454544,
           "average w/o zero": 52.095454545454544
         },
         "Free Press": {
           "count": 68,
-          "sum": 1239.7420000000004,
+          "sum": 1239.742,
           "average": 18.2315,
           "average w/o zero": 18.2315
         },
@@ -1028,7 +1028,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 1457.0320000000008,
+          "sum": 1457.032,
           "average": 29.73534693877551,
           "average w/o zero": 29.73534693877551
         },
@@ -1052,19 +1052,19 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow Impulse": {
           "count": 4,
-          "sum": 69.48400000000001,
+          "sum": 69.484,
           "average": 17.371,
           "average w/o zero": 17.371
         },
         "Aladdin": {
           "count": 86,
-          "sum": 672.3040000000003,
+          "sum": 672.304,
           "average": 7.817488372093023,
           "average w/o zero": 7.817488372093023
         },
         "Crown Business": {
           "count": 55,
-          "sum": 1557.4120000000005,
+          "sum": 1557.412,
           "average": 28.316581818181817,
           "average w/o zero": 28.316581818181817
         },
@@ -1076,25 +1076,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nan A. Talese": {
           "count": 5,
-          "sum": 430.38800000000003,
+          "sum": 430.388,
           "average": 86.0776,
           "average w/o zero": 86.0776
         },
         "Perigee": {
           "count": 18,
-          "sum": 403.6020000000001,
+          "sum": 403.60200000000003,
           "average": 22.422333333333334,
           "average w/o zero": 22.422333333333334
         },
         "Spectra": {
           "count": 47,
-          "sum": 982.6680000000003,
+          "sum": 982.668,
           "average": 20.907829787234043,
           "average w/o zero": 20.907829787234043
         },
         "Atheneum Books for Young Readers": {
           "count": 36,
-          "sum": 426.55999999999995,
+          "sum": 426.56,
           "average": 11.848888888888888,
           "average w/o zero": 11.848888888888888
         },
@@ -1130,13 +1130,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 2221.7899999999995,
+          "sum": 2221.79,
           "average": 33.66348484848485,
           "average w/o zero": 33.66348484848485
         },
         "Yearling": {
           "count": 13,
-          "sum": 168.44199999999998,
+          "sum": 168.442,
           "average": 12.957076923076922,
           "average w/o zero": 12.957076923076922
         },
@@ -1154,7 +1154,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Portfolio": {
           "count": 83,
-          "sum": 2331.489999999999,
+          "sum": 2331.49,
           "average": 28.090240963855422,
           "average w/o zero": 28.090240963855422
         },
@@ -1178,7 +1178,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Two Lions": {
           "count": 64,
-          "sum": 1325.3500000000001,
+          "sum": 1325.35,
           "average": 20.70859375,
           "average w/o zero": 20.70859375
         },
@@ -1214,7 +1214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 1838.7139999999995,
+          "sum": 1838.714,
           "average": 17.851592233009708,
           "average w/o zero": 17.851592233009708
         },
@@ -1238,13 +1238,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown Archetype": {
           "count": 28,
-          "sum": 739.2739999999999,
+          "sum": 739.274,
           "average": 26.402642857142858,
           "average w/o zero": 26.402642857142858
         },
         "Avery": {
           "count": 17,
-          "sum": 498.948,
+          "sum": 498.94800000000004,
           "average": 29.349882352941176,
           "average w/o zero": 29.349882352941176
         },
@@ -1262,13 +1262,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Element": {
           "count": 22,
-          "sum": 196.13999999999993,
+          "sum": 196.14000000000001,
           "average": 8.915454545454546,
           "average w/o zero": 8.915454545454546
         },
         "Penguin": {
           "count": 37,
-          "sum": 600.9279999999999,
+          "sum": 600.928,
           "average": 16.241297297297297,
           "average w/o zero": 16.241297297297297
         },
@@ -1298,7 +1298,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books/Star Trek": {
           "count": 61,
-          "sum": 445.57199999999995,
+          "sum": 445.572,
           "average": 7.304459016393443,
           "average w/o zero": 7.304459016393443
         },
@@ -1322,7 +1322,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Zonderkidz": {
           "count": 27,
-          "sum": 189.87199999999996,
+          "sum": 189.872,
           "average": 7.0322962962962965,
           "average w/o zero": 7.0322962962962965
         },
@@ -1340,13 +1340,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Holt Paperbacks": {
           "count": 25,
-          "sum": 629.8879999999999,
+          "sum": 629.888,
           "average": 25.19552,
           "average w/o zero": 25.19552
         },
         "Times Books": {
           "count": 16,
-          "sum": 337.65200000000004,
+          "sum": 337.652,
           "average": 21.10325,
           "average w/o zero": 21.10325
         },
@@ -1400,7 +1400,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dial": {
           "count": 10,
-          "sum": 106.00999999999998,
+          "sum": 106.01,
           "average": 10.601,
           "average w/o zero": 10.601
         },
@@ -1418,7 +1418,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Picador": {
           "count": 10,
-          "sum": 204.50999999999996,
+          "sum": 204.51,
           "average": 20.451,
           "average w/o zero": 20.451
         },
@@ -1436,7 +1436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage Espanol": {
           "count": 7,
-          "sum": 151.79399999999998,
+          "sum": 151.794,
           "average": 21.684857142857144,
           "average w/o zero": 21.684857142857144
         },
@@ -1448,7 +1448,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 558.4100000000007,
+          "sum": 558.41,
           "average": 5.030720720720721,
           "average w/o zero": 5.030720720720721
         },
@@ -1478,7 +1478,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Current": {
           "count": 4,
-          "sum": 93.32400000000001,
+          "sum": 93.324,
           "average": 23.331,
           "average w/o zero": 23.331
         },
@@ -1508,19 +1508,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Image": {
           "count": 7,
-          "sum": 71.60399999999998,
+          "sum": 71.604,
           "average": 10.229142857142858,
           "average w/o zero": 10.229142857142858
         },
         "Greenwillow Books": {
           "count": 17,
-          "sum": 142.14399999999998,
+          "sum": 142.144,
           "average": 8.361411764705883,
           "average w/o zero": 8.361411764705883
         },
         "Papercutz": {
           "count": 13,
-          "sum": 58.98400000000001,
+          "sum": 58.984,
           "average": 4.537230769230769,
           "average w/o zero": 4.537230769230769
         },
@@ -1532,13 +1532,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Spotlight": {
           "count": 22,
-          "sum": 113.64200000000004,
+          "sum": 113.642,
           "average": 5.165545454545454,
           "average w/o zero": 5.165545454545454
         },
         "Business Plus": {
           "count": 16,
-          "sum": 306.5760000000001,
+          "sum": 306.576,
           "average": 19.161,
           "average w/o zero": 19.161
         },
@@ -1556,7 +1556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Point Press": {
           "count": 5,
-          "sum": 62.254000000000005,
+          "sum": 62.254,
           "average": 12.450800000000001,
           "average w/o zero": 12.450800000000001
         },
@@ -1586,13 +1586,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Grupo Nelson": {
           "count": 3,
-          "sum": 11.748,
+          "sum": 11.748000000000001,
           "average": 3.916,
           "average w/o zero": 3.916
         },
         "Scientific American": {
           "count": 9,
-          "sum": 59.124,
+          "sum": 59.123999999999995,
           "average": 6.569333333333333,
           "average w/o zero": 6.569333333333333
         },
@@ -1604,7 +1604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Clarkson Potter": {
           "count": 37,
-          "sum": 420.8660000000001,
+          "sum": 420.866,
           "average": 11.374756756756756,
           "average w/o zero": 11.374756756756756
         },
@@ -1622,7 +1622,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DK Publishing": {
           "count": 27,
-          "sum": 99.04799999999997,
+          "sum": 99.048,
           "average": 3.6684444444444444,
           "average w/o zero": 3.6684444444444444
         },
@@ -1640,13 +1640,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Scientific American / Farrar, Straus and Giroux": {
           "count": 4,
-          "sum": 62.172,
+          "sum": 62.172000000000004,
           "average": 15.543000000000001,
           "average w/o zero": 15.543000000000001
         },
         "Palgrave Macmillan": {
           "count": 27,
-          "sum": 267.4500000000001,
+          "sum": 267.45,
           "average": 9.905555555555555,
           "average w/o zero": 9.905555555555555
         },
@@ -1676,7 +1676,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden/Disney": {
           "count": 6,
-          "sum": 23.331999999999997,
+          "sum": 23.332,
           "average": 3.8886666666666665,
           "average w/o zero": 3.8886666666666665
         },
@@ -1748,7 +1748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Prentice Hall Press": {
           "count": 8,
-          "sum": 185.00400000000002,
+          "sum": 185.004,
           "average": 23.1255,
           "average w/o zero": 23.1255
         },
@@ -1760,31 +1760,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Deepak Chopra": {
           "count": 3,
-          "sum": 32.705999999999996,
+          "sum": 32.706,
           "average": 10.902000000000001,
           "average w/o zero": 10.902000000000001
         },
         "Potter Craft": {
           "count": 6,
-          "sum": 56.592000000000006,
+          "sum": 56.592,
           "average": 9.432,
           "average w/o zero": 9.432
         },
         "Princeton Review": {
           "count": 9,
-          "sum": 61.13600000000001,
+          "sum": 61.136,
           "average": 6.792888888888889,
           "average w/o zero": 6.792888888888889
         },
         "LB Kids": {
           "count": 8,
-          "sum": 22.221999999999998,
+          "sum": 22.222,
           "average": 2.77775,
           "average w/o zero": 2.77775
         },
         "Yen Press": {
           "count": 13,
-          "sum": 68.454,
+          "sum": 68.45400000000001,
           "average": 5.265692307692308,
           "average w/o zero": 5.265692307692308
         },
@@ -1880,7 +1880,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fodor's": {
           "count": 18,
-          "sum": 175.45399999999998,
+          "sum": 175.454,
           "average": 9.747444444444444,
           "average w/o zero": 9.747444444444444
         },
@@ -1892,7 +1892,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Paperbacks": {
           "count": 5,
-          "sum": 39.459999999999994,
+          "sum": 39.46,
           "average": 7.892,
           "average w/o zero": 7.892
         },
@@ -1946,7 +1946,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 19.129999999999995,
+          "sum": 19.13,
           "average": 2.1255555555555556,
           "average w/o zero": 2.1255555555555556
         },
@@ -1970,13 +1970,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Little Simon": {
           "count": 5,
-          "sum": 18.776000000000003,
+          "sum": 18.776,
           "average": 3.7552,
           "average w/o zero": 3.7552
         },
         "Watson-Guptill": {
           "count": 16,
-          "sum": 105.97399999999998,
+          "sum": 105.974,
           "average": 6.623375,
           "average w/o zero": 6.623375
         },
@@ -2230,19 +2230,19 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 15390.299999999997,
+          "sum": 15390.3,
           "average": 39.56375321336761,
           "average w/o zero": 39.56375321336761
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 162296.84199999683,
+          "sum": 162296.842,
           "average": 16.661209526742635,
           "average w/o zero": 16.661209526742635
         },
         "Little, Brown and Company": {
           "count": 161,
-          "sum": 32973.257999999965,
+          "sum": 32973.258,
           "average": 204.8028447204969,
           "average w/o zero": 204.8028447204969
         },
@@ -2254,43 +2254,43 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas & Mercer": {
           "count": 110,
-          "sum": 27203.613500000014,
+          "sum": 27203.6135,
           "average": 247.30557727272728,
           "average w/o zero": 247.30557727272728
         },
         "Center Street": {
           "count": 13,
-          "sum": 5988.3020000000015,
+          "sum": 5988.302,
           "average": 460.6386153846154,
           "average w/o zero": 460.6386153846154
         },
         "Doubleday": {
           "count": 26,
-          "sum": 7630.794000000002,
+          "sum": 7630.794,
           "average": 293.4920769230769,
           "average w/o zero": 293.4920769230769
         },
         "Putnam Adult": {
           "count": 54,
-          "sum": 20341.431999999993,
+          "sum": 20341.432,
           "average": 376.6931851851852,
           "average w/o zero": 376.6931851851852
         },
         "(Indie Publisher)": {
           "count": 5946,
-          "sum": 391951.23449999874,
+          "sum": 391951.2345,
           "average": 65.91847199798184,
           "average w/o zero": 65.91847199798184
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 3846.7699999999986,
+          "sum": 3846.77,
           "average": 83.62543478260869,
           "average w/o zero": 83.62543478260869
         },
         "Knopf Books for Young Readers": {
           "count": 35,
-          "sum": 5395.723999999999,
+          "sum": 5395.724,
           "average": 154.16354285714286,
           "average w/o zero": 154.16354285714286
         },
@@ -2302,25 +2302,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Amazon Publishing": {
           "count": 26,
-          "sum": 13160.829500000002,
+          "sum": 13160.8295,
           "average": 506.18575,
           "average w/o zero": 506.18575
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 8658.777999999993,
+          "sum": 8658.778,
           "average": 41.42955980861244,
           "average w/o zero": 41.42955980861244
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 43977.29000000044,
+          "sum": 43977.29,
           "average": 12.188827605321508,
           "average w/o zero": 12.188827605321508
         },
         "Viking Adult": {
           "count": 38,
-          "sum": 9025.886000000002,
+          "sum": 9025.886,
           "average": 237.52331578947368,
           "average w/o zero": 237.52331578947368
         },
@@ -2332,7 +2332,7 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow": {
           "count": 84,
-          "sum": 8087.801999999999,
+          "sum": 8087.802,
           "average": 96.28335714285714,
           "average w/o zero": 96.28335714285714
         },
@@ -2344,7 +2344,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown": {
           "count": 37,
-          "sum": 5805.285999999999,
+          "sum": 5805.286,
           "average": 156.89962162162163,
           "average w/o zero": 156.89962162162163
         },
@@ -2356,7 +2356,7 @@ VISUALIZER_DATA_BARS = [
         },
         "47North": {
           "count": 77,
-          "sum": 11524.628499999999,
+          "sum": 11524.6285,
           "average": 149.6705,
           "average w/o zero": 149.6705
         },
@@ -2374,37 +2374,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Berkley": {
           "count": 181,
-          "sum": 17716.576000000026,
+          "sum": 17716.576,
           "average": 97.88163535911602,
           "average w/o zero": 97.88163535911602
         },
         "Dutton Adult": {
           "count": 32,
-          "sum": 7727.195999999999,
+          "sum": 7727.196,
           "average": 241.474875,
           "average w/o zero": 241.474875
         },
         "Bantam": {
           "count": 150,
-          "sum": 13796.741999999993,
+          "sum": 13796.742,
           "average": 91.97828,
           "average w/o zero": 91.97828
         },
         "AmazonEncore": {
           "count": 12,
-          "sum": 5420.4710000000005,
+          "sum": 5420.471,
           "average": 451.70591666666667,
           "average w/o zero": 451.70591666666667
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 12432.555999999997,
+          "sum": 12432.556,
           "average": 116.19211214953272,
           "average w/o zero": 116.19211214953272
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 7027.314000000004,
+          "sum": 7027.314,
           "average": 47.16318120805369,
           "average w/o zero": 47.16318120805369
         },
@@ -2416,19 +2416,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage": {
           "count": 190,
-          "sum": 12703.889999999992,
+          "sum": 12703.89,
           "average": 66.86257894736842,
           "average w/o zero": 66.86257894736842
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 8812.655999999992,
+          "sum": 8812.656,
           "average": 55.42550943396226,
           "average w/o zero": 55.42550943396226
         },
         "Razorbill": {
           "count": 16,
-          "sum": 5484.023999999999,
+          "sum": 5484.024,
           "average": 342.7515,
           "average w/o zero": 342.7515
         },
@@ -2440,7 +2440,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Henry Holt and Co.": {
           "count": 46,
-          "sum": 2630.842000000002,
+          "sum": 2630.842,
           "average": 57.19221739130435,
           "average w/o zero": 57.19221739130435
         },
@@ -2452,37 +2452,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Scribner": {
           "count": 125,
-          "sum": 8130.907999999996,
+          "sum": 8130.908,
           "average": 65.047264,
           "average w/o zero": 65.047264
         },
         "Harper": {
           "count": 61,
-          "sum": 5883.962,
+          "sum": 5883.9619999999995,
           "average": 96.45839344262295,
           "average w/o zero": 96.45839344262295
         },
         "Margaret K. McElderry Books": {
           "count": 21,
-          "sum": 3834.1180000000004,
+          "sum": 3834.118,
           "average": 182.57704761904762,
           "average w/o zero": 182.57704761904762
         },
         "Dell": {
           "count": 49,
-          "sum": 3614.6539999999995,
+          "sum": 3614.654,
           "average": 73.76844897959184,
           "average w/o zero": 73.76844897959184
         },
         "Tor Books": {
           "count": 84,
-          "sum": 5426.637999999998,
+          "sum": 5426.638,
           "average": 64.60283333333334,
           "average w/o zero": 64.60283333333334
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 3292.582000000001,
+          "sum": 3292.582,
           "average": 47.03688571428572,
           "average w/o zero": 47.03688571428572
         },
@@ -2494,49 +2494,49 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 7790.201999999997,
+          "sum": 7790.202,
           "average": 47.501231707317075,
           "average w/o zero": 47.501231707317075
         },
         "Delacorte Press": {
           "count": 54,
-          "sum": 6528.278000000001,
+          "sum": 6528.278,
           "average": 120.89403703703704,
           "average w/o zero": 120.89403703703704
         },
         "Feiwel & Friends": {
           "count": 10,
-          "sum": 1398.668,
+          "sum": 1398.6680000000001,
           "average": 139.8668,
           "average w/o zero": 139.8668
         },
         "Riverhead": {
           "count": 48,
-          "sum": 3256.8559999999993,
+          "sum": 3256.856,
           "average": 67.85116666666667,
           "average w/o zero": 67.85116666666667
         },
         "Avon": {
           "count": 34,
-          "sum": 2349.0379999999996,
+          "sum": 2349.038,
           "average": 69.08935294117647,
           "average w/o zero": 69.08935294117647
         },
         "Speak": {
           "count": 20,
-          "sum": 1820.3379999999997,
+          "sum": 1820.338,
           "average": 91.01689999999999,
           "average w/o zero": 91.01689999999999
         },
         "Zondervan": {
           "count": 70,
-          "sum": 3316.015999999999,
+          "sum": 3316.016,
           "average": 47.371657142857146,
           "average w/o zero": 47.371657142857146
         },
         "Threshold Editions": {
           "count": 15,
-          "sum": 1607.2680000000003,
+          "sum": 1607.268,
           "average": 107.1512,
           "average w/o zero": 107.1512
         },
@@ -2548,13 +2548,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Gallery Books": {
           "count": 64,
-          "sum": 3235.8680000000013,
+          "sum": 3235.868,
           "average": 50.5604375,
           "average w/o zero": 50.5604375
         },
         "Roc": {
           "count": 16,
-          "sum": 1351.9879999999996,
+          "sum": 1351.988,
           "average": 84.49925,
           "average w/o zero": 84.49925
         },
@@ -2578,43 +2578,43 @@ VISUALIZER_DATA_BARS = [
         },
         "AmazonCrossing": {
           "count": 32,
-          "sum": 1978.1160000000002,
+          "sum": 1978.116,
           "average": 61.816125,
           "average w/o zero": 61.816125
         },
         "Ecco": {
           "count": 29,
-          "sum": 2201.4519999999993,
+          "sum": 2201.452,
           "average": 75.91213793103448,
           "average w/o zero": 75.91213793103448
         },
         "Crown Forum": {
           "count": 6,
-          "sum": 853.8219999999999,
+          "sum": 853.822,
           "average": 142.30366666666666,
           "average w/o zero": 142.30366666666666
         },
         "Minotaur Books": {
           "count": 47,
-          "sum": 2322.285999999999,
+          "sum": 2322.286,
           "average": 49.41034042553191,
           "average w/o zero": 49.41034042553191
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 5221.773999999991,
+          "sum": 5221.774,
           "average": 20.639422924901186,
           "average w/o zero": 20.639422924901186
         },
         "Spiegel & Grau": {
           "count": 22,
-          "sum": 947.1159999999999,
+          "sum": 947.116,
           "average": 43.05072727272727,
           "average w/o zero": 43.05072727272727
         },
         "Gotham Books": {
           "count": 28,
-          "sum": 981.7420000000001,
+          "sum": 981.742,
           "average": 35.06221428571428,
           "average w/o zero": 35.06221428571428
         },
@@ -2626,7 +2626,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 2395.8979999999992,
+          "sum": 2395.898,
           "average": 31.945306666666667,
           "average w/o zero": 31.945306666666667
         },
@@ -2638,43 +2638,43 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperTeen": {
           "count": 30,
-          "sum": 1358.1639999999998,
+          "sum": 1358.164,
           "average": 45.272133333333336,
           "average w/o zero": 45.272133333333336
         },
         "Simon Pulse": {
           "count": 15,
-          "sum": 728.0580000000001,
+          "sum": 728.058,
           "average": 48.5372,
           "average w/o zero": 48.5372
         },
         "It Books": {
           "count": 28,
-          "sum": 577.1760000000002,
+          "sum": 577.176,
           "average": 20.61342857142857,
           "average w/o zero": 20.61342857142857
         },
         "Thomas Dunne Books": {
           "count": 39,
-          "sum": 1090.0460000000003,
+          "sum": 1090.046,
           "average": 27.949897435897434,
           "average w/o zero": 27.949897435897434
         },
         "Harmony": {
           "count": 61,
-          "sum": 2541.8600000000006,
+          "sum": 2541.86,
           "average": 41.66983606557377,
           "average w/o zero": 41.66983606557377
         },
         "Jove": {
           "count": 42,
-          "sum": 2628.966000000001,
+          "sum": 2628.966,
           "average": 62.59442857142857,
           "average w/o zero": 62.59442857142857
         },
         "Atria/Emily Bestler Books": {
           "count": 8,
-          "sum": 1094.3239999999998,
+          "sum": 1094.324,
           "average": 136.7905,
           "average w/o zero": 136.7905
         },
@@ -2686,13 +2686,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 3606.4120000000003,
+          "sum": 3606.412,
           "average": 55.48326153846154,
           "average w/o zero": 55.48326153846154
         },
         "Forge Books": {
           "count": 21,
-          "sum": 459.76599999999996,
+          "sum": 459.766,
           "average": 21.893619047619048,
           "average w/o zero": 21.893619047619048
         },
@@ -2704,7 +2704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Voyager": {
           "count": 11,
-          "sum": 690.7520000000001,
+          "sum": 690.752,
           "average": 62.79563636363636,
           "average w/o zero": 62.79563636363636
         },
@@ -2716,13 +2716,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Three Rivers Press": {
           "count": 21,
-          "sum": 426.2519999999999,
+          "sum": 426.252,
           "average": 20.297714285714285,
           "average w/o zero": 20.297714285714285
         },
         "Atria Books": {
           "count": 100,
-          "sum": 4878.410000000003,
+          "sum": 4878.41,
           "average": 48.7841,
           "average w/o zero": 48.7841
         },
@@ -2734,25 +2734,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Plume": {
           "count": 57,
-          "sum": 2038.5519999999992,
+          "sum": 2038.552,
           "average": 35.7640701754386,
           "average w/o zero": 35.7640701754386
         },
         "Random House/Disney": {
           "count": 13,
-          "sum": 149.45599999999993,
+          "sum": 149.456,
           "average": 11.496615384615385,
           "average w/o zero": 11.496615384615385
         },
         "Pocket Star": {
           "count": 14,
-          "sum": 171.76000000000005,
+          "sum": 171.76,
           "average": 12.268571428571429,
           "average w/o zero": 12.268571428571429
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 1265.1060000000002,
+          "sum": 1265.106,
           "average": 40.80987096774194,
           "average w/o zero": 40.80987096774194
         },
@@ -2770,7 +2770,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Touchstone": {
           "count": 73,
-          "sum": 2751.0660000000007,
+          "sum": 2751.0660000000003,
           "average": 37.685835616438354,
           "average w/o zero": 37.685835616438354
         },
@@ -2782,13 +2782,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Putnam Juvenile": {
           "count": 11,
-          "sum": 542.6279999999999,
+          "sum": 542.628,
           "average": 49.32981818181818,
           "average w/o zero": 49.32981818181818
         },
         "Orbit": {
           "count": 51,
-          "sum": 1703.2219999999988,
+          "sum": 1703.222,
           "average": 33.39650980392157,
           "average w/o zero": 33.39650980392157
         },
@@ -2800,43 +2800,43 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperWave": {
           "count": 6,
-          "sum": 706.5460000000002,
+          "sum": 706.546,
           "average": 117.75766666666667,
           "average w/o zero": 117.75766666666667
         },
         "Sarah Crichton Books": {
           "count": 9,
-          "sum": 655.2260000000001,
+          "sum": 655.226,
           "average": 72.80288888888889,
           "average w/o zero": 72.80288888888889
         },
         "The Penguin Press": {
           "count": 28,
-          "sum": 1383.0739999999998,
+          "sum": 1383.074,
           "average": 49.3955,
           "average w/o zero": 49.3955
         },
         "Ace": {
           "count": 50,
-          "sum": 2299.4880000000003,
+          "sum": 2299.488,
           "average": 45.98976,
           "average w/o zero": 45.98976
         },
         "FSG Originals": {
           "count": 3,
-          "sum": 188.212,
+          "sum": 188.21200000000002,
           "average": 62.73733333333334,
           "average w/o zero": 62.73733333333334
         },
         "Witness Impulse": {
           "count": 12,
-          "sum": 192.07200000000003,
+          "sum": 192.072,
           "average": 16.006,
           "average w/o zero": 16.006
         },
         "Hyperion": {
           "count": 63,
-          "sum": 2129.9540000000006,
+          "sum": 2129.954,
           "average": 33.80879365079365,
           "average w/o zero": 33.80879365079365
         },
@@ -2854,13 +2854,13 @@ VISUALIZER_DATA_BARS = [
         },
         "FaithWords": {
           "count": 11,
-          "sum": 573.0500000000002,
+          "sum": 573.05,
           "average": 52.095454545454544,
           "average w/o zero": 52.095454545454544
         },
         "Free Press": {
           "count": 68,
-          "sum": 1239.7420000000004,
+          "sum": 1239.742,
           "average": 18.2315,
           "average w/o zero": 18.2315
         },
@@ -2884,7 +2884,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 1457.0320000000008,
+          "sum": 1457.032,
           "average": 29.73534693877551,
           "average w/o zero": 29.73534693877551
         },
@@ -2908,19 +2908,19 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow Impulse": {
           "count": 4,
-          "sum": 69.48400000000001,
+          "sum": 69.484,
           "average": 17.371,
           "average w/o zero": 17.371
         },
         "Aladdin": {
           "count": 86,
-          "sum": 672.3040000000003,
+          "sum": 672.304,
           "average": 7.817488372093023,
           "average w/o zero": 7.817488372093023
         },
         "Crown Business": {
           "count": 55,
-          "sum": 1557.4120000000005,
+          "sum": 1557.412,
           "average": 28.316581818181817,
           "average w/o zero": 28.316581818181817
         },
@@ -2932,25 +2932,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nan A. Talese": {
           "count": 5,
-          "sum": 430.38800000000003,
+          "sum": 430.388,
           "average": 86.0776,
           "average w/o zero": 86.0776
         },
         "Perigee": {
           "count": 18,
-          "sum": 403.6020000000001,
+          "sum": 403.60200000000003,
           "average": 22.422333333333334,
           "average w/o zero": 22.422333333333334
         },
         "Spectra": {
           "count": 47,
-          "sum": 982.6680000000003,
+          "sum": 982.668,
           "average": 20.907829787234043,
           "average w/o zero": 20.907829787234043
         },
         "Atheneum Books for Young Readers": {
           "count": 36,
-          "sum": 426.55999999999995,
+          "sum": 426.56,
           "average": 11.848888888888888,
           "average w/o zero": 11.848888888888888
         },
@@ -2986,13 +2986,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 2221.7899999999995,
+          "sum": 2221.79,
           "average": 33.66348484848485,
           "average w/o zero": 33.66348484848485
         },
         "Yearling": {
           "count": 13,
-          "sum": 168.44199999999998,
+          "sum": 168.442,
           "average": 12.957076923076922,
           "average w/o zero": 12.957076923076922
         },
@@ -3010,7 +3010,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Portfolio": {
           "count": 83,
-          "sum": 2331.489999999999,
+          "sum": 2331.49,
           "average": 28.090240963855422,
           "average w/o zero": 28.090240963855422
         },
@@ -3034,7 +3034,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Two Lions": {
           "count": 64,
-          "sum": 713.6499999999995,
+          "sum": 713.65,
           "average": 11.15078125,
           "average w/o zero": 11.15078125
         },
@@ -3070,7 +3070,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 1838.7139999999995,
+          "sum": 1838.714,
           "average": 17.851592233009708,
           "average w/o zero": 17.851592233009708
         },
@@ -3094,13 +3094,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown Archetype": {
           "count": 28,
-          "sum": 739.2739999999999,
+          "sum": 739.274,
           "average": 26.402642857142858,
           "average w/o zero": 26.402642857142858
         },
         "Avery": {
           "count": 17,
-          "sum": 498.948,
+          "sum": 498.94800000000004,
           "average": 29.349882352941176,
           "average w/o zero": 29.349882352941176
         },
@@ -3118,13 +3118,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Element": {
           "count": 22,
-          "sum": 196.13999999999993,
+          "sum": 196.14000000000001,
           "average": 8.915454545454546,
           "average w/o zero": 8.915454545454546
         },
         "Penguin": {
           "count": 37,
-          "sum": 600.9279999999999,
+          "sum": 600.928,
           "average": 16.241297297297297,
           "average w/o zero": 16.241297297297297
         },
@@ -3154,7 +3154,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books/Star Trek": {
           "count": 61,
-          "sum": 445.57199999999995,
+          "sum": 445.572,
           "average": 7.304459016393443,
           "average w/o zero": 7.304459016393443
         },
@@ -3178,7 +3178,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Zonderkidz": {
           "count": 27,
-          "sum": 189.87199999999996,
+          "sum": 189.872,
           "average": 7.0322962962962965,
           "average w/o zero": 7.0322962962962965
         },
@@ -3196,13 +3196,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Holt Paperbacks": {
           "count": 25,
-          "sum": 629.8879999999999,
+          "sum": 629.888,
           "average": 25.19552,
           "average w/o zero": 25.19552
         },
         "Times Books": {
           "count": 16,
-          "sum": 337.65200000000004,
+          "sum": 337.652,
           "average": 21.10325,
           "average w/o zero": 21.10325
         },
@@ -3226,7 +3226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Jet City Comics": {
           "count": 3,
-          "sum": 175.11900000000003,
+          "sum": 175.119,
           "average": 58.373000000000005,
           "average w/o zero": 58.373000000000005
         },
@@ -3256,7 +3256,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dial": {
           "count": 10,
-          "sum": 106.00999999999998,
+          "sum": 106.01,
           "average": 10.601,
           "average w/o zero": 10.601
         },
@@ -3274,7 +3274,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Picador": {
           "count": 10,
-          "sum": 204.50999999999996,
+          "sum": 204.51,
           "average": 20.451,
           "average w/o zero": 20.451
         },
@@ -3292,7 +3292,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage Espanol": {
           "count": 7,
-          "sum": 151.79399999999998,
+          "sum": 151.794,
           "average": 21.684857142857144,
           "average w/o zero": 21.684857142857144
         },
@@ -3304,7 +3304,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 558.4100000000007,
+          "sum": 558.41,
           "average": 5.030720720720721,
           "average w/o zero": 5.030720720720721
         },
@@ -3334,7 +3334,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Current": {
           "count": 4,
-          "sum": 93.32400000000001,
+          "sum": 93.324,
           "average": 23.331,
           "average w/o zero": 23.331
         },
@@ -3364,19 +3364,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Image": {
           "count": 7,
-          "sum": 71.60399999999998,
+          "sum": 71.604,
           "average": 10.229142857142858,
           "average w/o zero": 10.229142857142858
         },
         "Greenwillow Books": {
           "count": 17,
-          "sum": 142.14399999999998,
+          "sum": 142.144,
           "average": 8.361411764705883,
           "average w/o zero": 8.361411764705883
         },
         "Papercutz": {
           "count": 13,
-          "sum": 58.98400000000001,
+          "sum": 58.984,
           "average": 4.537230769230769,
           "average w/o zero": 4.537230769230769
         },
@@ -3388,13 +3388,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Spotlight": {
           "count": 22,
-          "sum": 113.64200000000004,
+          "sum": 113.642,
           "average": 5.165545454545454,
           "average w/o zero": 5.165545454545454
         },
         "Business Plus": {
           "count": 16,
-          "sum": 306.5760000000001,
+          "sum": 306.576,
           "average": 19.161,
           "average w/o zero": 19.161
         },
@@ -3412,7 +3412,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Point Press": {
           "count": 5,
-          "sum": 62.254000000000005,
+          "sum": 62.254,
           "average": 12.450800000000001,
           "average w/o zero": 12.450800000000001
         },
@@ -3442,13 +3442,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Grupo Nelson": {
           "count": 3,
-          "sum": 11.748,
+          "sum": 11.748000000000001,
           "average": 3.916,
           "average w/o zero": 3.916
         },
         "Scientific American": {
           "count": 9,
-          "sum": 59.124,
+          "sum": 59.123999999999995,
           "average": 6.569333333333333,
           "average w/o zero": 6.569333333333333
         },
@@ -3460,7 +3460,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Clarkson Potter": {
           "count": 37,
-          "sum": 420.8660000000001,
+          "sum": 420.866,
           "average": 11.374756756756756,
           "average w/o zero": 11.374756756756756
         },
@@ -3478,7 +3478,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DK Publishing": {
           "count": 27,
-          "sum": 99.04799999999997,
+          "sum": 99.048,
           "average": 3.6684444444444444,
           "average w/o zero": 3.6684444444444444
         },
@@ -3496,13 +3496,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Scientific American / Farrar, Straus and Giroux": {
           "count": 4,
-          "sum": 62.172,
+          "sum": 62.172000000000004,
           "average": 15.543000000000001,
           "average w/o zero": 15.543000000000001
         },
         "Palgrave Macmillan": {
           "count": 27,
-          "sum": 267.4500000000001,
+          "sum": 267.45,
           "average": 9.905555555555555,
           "average w/o zero": 9.905555555555555
         },
@@ -3532,7 +3532,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden/Disney": {
           "count": 6,
-          "sum": 23.331999999999997,
+          "sum": 23.332,
           "average": 3.8886666666666665,
           "average w/o zero": 3.8886666666666665
         },
@@ -3604,7 +3604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Prentice Hall Press": {
           "count": 8,
-          "sum": 185.00400000000002,
+          "sum": 185.004,
           "average": 23.1255,
           "average w/o zero": 23.1255
         },
@@ -3616,31 +3616,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Deepak Chopra": {
           "count": 3,
-          "sum": 32.705999999999996,
+          "sum": 32.706,
           "average": 10.902000000000001,
           "average w/o zero": 10.902000000000001
         },
         "Potter Craft": {
           "count": 6,
-          "sum": 56.592000000000006,
+          "sum": 56.592,
           "average": 9.432,
           "average w/o zero": 9.432
         },
         "Princeton Review": {
           "count": 9,
-          "sum": 61.13600000000001,
+          "sum": 61.136,
           "average": 6.792888888888889,
           "average w/o zero": 6.792888888888889
         },
         "LB Kids": {
           "count": 8,
-          "sum": 22.221999999999998,
+          "sum": 22.222,
           "average": 2.77775,
           "average w/o zero": 2.77775
         },
         "Yen Press": {
           "count": 13,
-          "sum": 68.454,
+          "sum": 68.45400000000001,
           "average": 5.265692307692308,
           "average w/o zero": 5.265692307692308
         },
@@ -3736,7 +3736,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fodor's": {
           "count": 18,
-          "sum": 175.45399999999998,
+          "sum": 175.454,
           "average": 9.747444444444444,
           "average w/o zero": 9.747444444444444
         },
@@ -3748,7 +3748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Paperbacks": {
           "count": 5,
-          "sum": 39.459999999999994,
+          "sum": 39.46,
           "average": 7.892,
           "average w/o zero": 7.892
         },
@@ -3802,7 +3802,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 19.129999999999995,
+          "sum": 19.13,
           "average": 2.1255555555555556,
           "average w/o zero": 2.1255555555555556
         },
@@ -3826,13 +3826,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Little Simon": {
           "count": 5,
-          "sum": 18.776000000000003,
+          "sum": 18.776,
           "average": 3.7552,
           "average w/o zero": 3.7552
         },
         "Watson-Guptill": {
           "count": 16,
-          "sum": 105.97399999999998,
+          "sum": 105.974,
           "average": 6.623375,
           "average w/o zero": 6.623375
         },
@@ -4080,19 +4080,19 @@ VISUALIZER_DATA_BARS = [
       "daily average.gross sales": {
         "Katherine Tegen Books": {
           "count": 18,
-          "sum": 94928.63999999997,
+          "sum": 94928.64,
           "average": 5273.8133333333335,
           "average w/o zero": 5273.8133333333335
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 76951.49999999997,
+          "sum": 76951.5,
           "average": 197.81876606683804,
           "average w/o zero": 197.81876606683804
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 811484.2099999526,
+          "sum": 811484.21,
           "average": 83.30604763371318,
           "average w/o zero": 83.30604763371318
         },
@@ -4110,13 +4110,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas & Mercer": {
           "count": 110,
-          "sum": 77724.61000000002,
+          "sum": 77724.61,
           "average": 706.5873636363636,
           "average w/o zero": 706.5873636363636
         },
         "Center Street": {
           "count": 13,
-          "sum": 29941.510000000006,
+          "sum": 29941.51,
           "average": 2303.193076923077,
           "average w/o zero": 2303.193076923077
         },
@@ -4128,25 +4128,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Putnam Adult": {
           "count": 54,
-          "sum": 101707.15999999999,
+          "sum": 101707.16,
           "average": 1883.4659259259258,
           "average w/o zero": 1883.4659259259258
         },
         "(Indie Publisher)": {
           "count": 5946,
-          "sum": 614284.3599999765,
+          "sum": 614284.36,
           "average": 103.31052135889674,
           "average w/o zero": 103.31052135889674
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 19233.850000000006,
+          "sum": 19233.85,
           "average": 418.12717391304346,
           "average w/o zero": 418.12717391304346
         },
         "Knopf Books for Young Readers": {
           "count": 35,
-          "sum": 26978.619999999984,
+          "sum": 26978.62,
           "average": 770.8177142857143,
           "average w/o zero": 770.8177142857143
         },
@@ -4158,37 +4158,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Amazon Publishing": {
           "count": 26,
-          "sum": 37602.369999999995,
+          "sum": 37602.37,
           "average": 1446.245,
           "average w/o zero": 1446.245
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 43293.89000000005,
+          "sum": 43293.89,
           "average": 207.1477990430622,
           "average w/o zero": 207.1477990430622
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 219886.45000000112,
+          "sum": 219886.45,
           "average": 60.94413802660754,
           "average w/o zero": 60.94413802660754
         },
         "Viking Adult": {
           "count": 38,
-          "sum": 45129.42999999999,
+          "sum": 45129.43,
           "average": 1187.6165789473685,
           "average w/o zero": 1187.6165789473685
         },
         "Montlake Romance": {
           "count": 78,
-          "sum": 48225.020000000026,
+          "sum": 48225.02,
           "average": 618.2694871794872,
           "average w/o zero": 618.2694871794872
         },
         "William Morrow": {
           "count": 84,
-          "sum": 40439.01000000001,
+          "sum": 40439.01,
           "average": 481.4167857142857,
           "average w/o zero": 481.4167857142857
         },
@@ -4200,25 +4200,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown": {
           "count": 37,
-          "sum": 29026.43000000001,
+          "sum": 29026.43,
           "average": 784.4981081081081,
           "average w/o zero": 784.4981081081081
         },
         "Random House": {
           "count": 87,
-          "sum": 43968.70999999999,
+          "sum": 43968.71,
           "average": 505.38747126436783,
           "average w/o zero": 505.38747126436783
         },
         "47North": {
           "count": 77,
-          "sum": 32927.51000000001,
+          "sum": 32927.51,
           "average": 427.63,
           "average w/o zero": 427.63
         },
         "Loveswept": {
           "count": 12,
-          "sum": 3642.1600000000003,
+          "sum": 3642.16,
           "average": 303.5133333333333,
           "average w/o zero": 303.5133333333333
         },
@@ -4230,7 +4230,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Berkley": {
           "count": 181,
-          "sum": 88582.87999999987,
+          "sum": 88582.88,
           "average": 489.4081767955801,
           "average w/o zero": 489.4081767955801
         },
@@ -4242,7 +4242,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bantam": {
           "count": 150,
-          "sum": 68983.71000000002,
+          "sum": 68983.71,
           "average": 459.8914,
           "average w/o zero": 459.8914
         },
@@ -4254,37 +4254,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 62162.780000000006,
+          "sum": 62162.78,
           "average": 580.9605607476635,
           "average w/o zero": 580.9605607476635
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 35136.569999999985,
+          "sum": 35136.57,
           "average": 235.81590604026846,
           "average w/o zero": 235.81590604026846
         },
         "Forever": {
           "count": 23,
-          "sum": 19822.720000000005,
+          "sum": 19822.72,
           "average": 861.8573913043479,
           "average w/o zero": 861.8573913043479
         },
         "Vintage": {
           "count": 190,
-          "sum": 63519.44999999997,
+          "sum": 63519.450000000004,
           "average": 334.3128947368421,
           "average w/o zero": 334.3128947368421
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 44063.28000000004,
+          "sum": 44063.28,
           "average": 277.12754716981135,
           "average w/o zero": 277.12754716981135
         },
         "Razorbill": {
           "count": 16,
-          "sum": 27420.120000000003,
+          "sum": 27420.12,
           "average": 1713.7575,
           "average w/o zero": 1713.7575
         },
@@ -4296,7 +4296,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Henry Holt and Co.": {
           "count": 46,
-          "sum": 13154.210000000006,
+          "sum": 13154.210000000001,
           "average": 285.96108695652174,
           "average w/o zero": 285.96108695652174
         },
@@ -4308,7 +4308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Scribner": {
           "count": 125,
-          "sum": 40654.540000000015,
+          "sum": 40654.54,
           "average": 325.23632,
           "average w/o zero": 325.23632
         },
@@ -4320,25 +4320,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Margaret K. McElderry Books": {
           "count": 21,
-          "sum": 19170.589999999997,
+          "sum": 19170.59,
           "average": 912.885238095238,
           "average w/o zero": 912.885238095238
         },
         "Dell": {
           "count": 49,
-          "sum": 18073.269999999997,
+          "sum": 18073.27,
           "average": 368.8422448979592,
           "average w/o zero": 368.8422448979592
         },
         "Tor Books": {
           "count": 84,
-          "sum": 27133.190000000006,
+          "sum": 27133.19,
           "average": 323.01416666666665,
           "average w/o zero": 323.01416666666665
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 16462.90999999999,
+          "sum": 16462.91,
           "average": 235.18442857142858,
           "average w/o zero": 235.18442857142858
         },
@@ -4350,43 +4350,43 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 38951.01000000003,
+          "sum": 38951.01,
           "average": 237.50615853658536,
           "average w/o zero": 237.50615853658536
         },
         "Delacorte Press": {
           "count": 54,
-          "sum": 32641.390000000007,
+          "sum": 32641.39,
           "average": 604.4701851851852,
           "average w/o zero": 604.4701851851852
         },
         "Feiwel & Friends": {
           "count": 10,
-          "sum": 6993.339999999998,
+          "sum": 6993.339999999999,
           "average": 699.334,
           "average w/o zero": 699.334
         },
         "Riverhead": {
           "count": 48,
-          "sum": 16284.279999999997,
+          "sum": 16284.28,
           "average": 339.2558333333333,
           "average w/o zero": 339.2558333333333
         },
         "Avon": {
           "count": 34,
-          "sum": 11745.190000000002,
+          "sum": 11745.19,
           "average": 345.44676470588234,
           "average w/o zero": 345.44676470588234
         },
         "Speak": {
           "count": 20,
-          "sum": 9101.690000000002,
+          "sum": 9101.69,
           "average": 455.0845,
           "average w/o zero": 455.0845
         },
         "Zondervan": {
           "count": 70,
-          "sum": 16580.079999999998,
+          "sum": 16580.08,
           "average": 236.85828571428573,
           "average w/o zero": 236.85828571428573
         },
@@ -4398,13 +4398,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Del Rey": {
           "count": 48,
-          "sum": 10332.849999999986,
+          "sum": 10332.85,
           "average": 215.26770833333333,
           "average w/o zero": 215.26770833333333
         },
         "Gallery Books": {
           "count": 64,
-          "sum": 16179.339999999997,
+          "sum": 16179.34,
           "average": 252.8021875,
           "average w/o zero": 252.8021875
         },
@@ -4416,55 +4416,55 @@ VISUALIZER_DATA_BARS = [
         },
         "NAL": {
           "count": 36,
-          "sum": 11810.209999999997,
+          "sum": 11810.21,
           "average": 328.06138888888887,
           "average w/o zero": 328.06138888888887
         },
         "Farrar, Straus and Giroux": {
           "count": 90,
-          "sum": 9438.46,
+          "sum": 9438.460000000001,
           "average": 104.87177777777778,
           "average w/o zero": 104.87177777777778
         },
         "Anchor": {
           "count": 77,
-          "sum": 11392.05,
+          "sum": 11392.050000000001,
           "average": 147.9487012987013,
           "average w/o zero": 147.9487012987013
         },
         "AmazonCrossing": {
           "count": 32,
-          "sum": 5651.760000000001,
+          "sum": 5651.76,
           "average": 176.6175,
           "average w/o zero": 176.6175
         },
         "Ecco": {
           "count": 29,
-          "sum": 11007.260000000004,
+          "sum": 11007.26,
           "average": 379.5606896551724,
           "average w/o zero": 379.5606896551724
         },
         "Crown Forum": {
           "count": 6,
-          "sum": 4269.11,
+          "sum": 4269.110000000001,
           "average": 711.5183333333333,
           "average w/o zero": 711.5183333333333
         },
         "Minotaur Books": {
           "count": 47,
-          "sum": 11611.430000000004,
+          "sum": 11611.43,
           "average": 247.05170212765958,
           "average w/o zero": 247.05170212765958
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 26108.870000000003,
+          "sum": 26108.87,
           "average": 103.19711462450593,
           "average w/o zero": 103.19711462450593
         },
         "Spiegel & Grau": {
           "count": 22,
-          "sum": 4735.580000000001,
+          "sum": 4735.58,
           "average": 215.25363636363636,
           "average w/o zero": 215.25363636363636
         },
@@ -4476,13 +4476,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas Nelson": {
           "count": 93,
-          "sum": 19089.190000000013,
+          "sum": 19089.19,
           "average": 205.2601075268817,
           "average w/o zero": 205.2601075268817
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 11979.489999999994,
+          "sum": 11979.49,
           "average": 159.72653333333332,
           "average w/o zero": 159.72653333333332
         },
@@ -4494,7 +4494,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperTeen": {
           "count": 30,
-          "sum": 6790.820000000001,
+          "sum": 6790.82,
           "average": 226.36066666666667,
           "average w/o zero": 226.36066666666667
         },
@@ -4506,25 +4506,25 @@ VISUALIZER_DATA_BARS = [
         },
         "It Books": {
           "count": 28,
-          "sum": 2885.8799999999997,
+          "sum": 2885.88,
           "average": 103.06714285714285,
           "average w/o zero": 103.06714285714285
         },
         "Thomas Dunne Books": {
           "count": 39,
-          "sum": 5450.23,
+          "sum": 5450.2300000000005,
           "average": 139.74948717948718,
           "average w/o zero": 139.74948717948718
         },
         "Harmony": {
           "count": 61,
-          "sum": 12709.299999999996,
+          "sum": 12709.3,
           "average": 208.34918032786885,
           "average w/o zero": 208.34918032786885
         },
         "Jove": {
           "count": 42,
-          "sum": 13144.829999999998,
+          "sum": 13144.83,
           "average": 312.97214285714284,
           "average w/o zero": 312.97214285714284
         },
@@ -4542,7 +4542,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 18032.059999999998,
+          "sum": 18032.06,
           "average": 277.41630769230767,
           "average w/o zero": 277.41630769230767
         },
@@ -4578,25 +4578,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Atria Books": {
           "count": 100,
-          "sum": 24392.049999999977,
+          "sum": 24392.05,
           "average": 243.9205,
           "average w/o zero": 243.9205
         },
         "St. Martin's Griffin": {
           "count": 43,
-          "sum": 4918.249999999999,
+          "sum": 4918.25,
           "average": 114.37790697674419,
           "average w/o zero": 114.37790697674419
         },
         "Plume": {
           "count": 57,
-          "sum": 10192.759999999995,
+          "sum": 10192.76,
           "average": 178.820350877193,
           "average w/o zero": 178.820350877193
         },
         "Random House/Disney": {
           "count": 13,
-          "sum": 747.2800000000001,
+          "sum": 747.28,
           "average": 57.48307692307692,
           "average w/o zero": 57.48307692307692
         },
@@ -4608,7 +4608,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 6325.529999999997,
+          "sum": 6325.53,
           "average": 204.04935483870966,
           "average w/o zero": 204.04935483870966
         },
@@ -4626,25 +4626,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Touchstone": {
           "count": 73,
-          "sum": 13755.330000000007,
+          "sum": 13755.33,
           "average": 188.42917808219178,
           "average w/o zero": 188.42917808219178
         },
         "HarperBusiness": {
           "count": 25,
-          "sum": 6834.589999999997,
+          "sum": 6834.59,
           "average": 273.3836,
           "average w/o zero": 273.3836
         },
         "Putnam Juvenile": {
           "count": 11,
-          "sum": 2713.1399999999994,
+          "sum": 2713.14,
           "average": 246.64909090909092,
           "average w/o zero": 246.64909090909092
         },
         "Orbit": {
           "count": 51,
-          "sum": 8516.110000000002,
+          "sum": 8516.11,
           "average": 166.98254901960783,
           "average w/o zero": 166.98254901960783
         },
@@ -4656,7 +4656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperWave": {
           "count": 6,
-          "sum": 3532.7299999999996,
+          "sum": 3532.73,
           "average": 588.7883333333333,
           "average w/o zero": 588.7883333333333
         },
@@ -4668,13 +4668,13 @@ VISUALIZER_DATA_BARS = [
         },
         "The Penguin Press": {
           "count": 28,
-          "sum": 6915.369999999999,
+          "sum": 6915.37,
           "average": 246.9775,
           "average w/o zero": 246.9775
         },
         "Ace": {
           "count": 50,
-          "sum": 11497.440000000002,
+          "sum": 11497.44,
           "average": 229.9488,
           "average w/o zero": 229.9488
         },
@@ -4692,7 +4692,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hyperion": {
           "count": 63,
-          "sum": 10649.769999999993,
+          "sum": 10649.77,
           "average": 169.04396825396825,
           "average w/o zero": 169.04396825396825
         },
@@ -4704,7 +4704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Blue Rider Press": {
           "count": 9,
-          "sum": 3524.0800000000004,
+          "sum": 3524.08,
           "average": 391.56444444444446,
           "average w/o zero": 391.56444444444446
         },
@@ -4740,7 +4740,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 7285.160000000004,
+          "sum": 7285.16,
           "average": 148.67673469387756,
           "average w/o zero": 148.67673469387756
         },
@@ -4752,61 +4752,61 @@ VISUALIZER_DATA_BARS = [
         },
         "Delta": {
           "count": 7,
-          "sum": 912.92,
+          "sum": 912.9200000000001,
           "average": 130.41714285714286,
           "average w/o zero": 130.41714285714286
         },
         "Simon & Schuster Books for Young Readers": {
           "count": 46,
-          "sum": 3366.150000000001,
+          "sum": 3366.15,
           "average": 73.17717391304348,
           "average w/o zero": 73.17717391304348
         },
         "William Morrow Impulse": {
           "count": 4,
-          "sum": 347.41999999999996,
+          "sum": 347.42,
           "average": 86.855,
           "average w/o zero": 86.855
         },
         "Aladdin": {
           "count": 86,
-          "sum": 3361.520000000001,
+          "sum": 3361.52,
           "average": 39.08744186046512,
           "average w/o zero": 39.08744186046512
         },
         "Crown Business": {
           "count": 55,
-          "sum": 7787.059999999999,
+          "sum": 7787.06,
           "average": 141.58290909090908,
           "average w/o zero": 141.58290909090908
         },
         "Howard Books": {
           "count": 24,
-          "sum": 5550.319999999999,
+          "sum": 5550.32,
           "average": 231.26333333333332,
           "average w/o zero": 231.26333333333332
         },
         "Nan A. Talese": {
           "count": 5,
-          "sum": 2151.9399999999996,
+          "sum": 2151.94,
           "average": 430.388,
           "average w/o zero": 430.388
         },
         "Perigee": {
           "count": 18,
-          "sum": 2018.0100000000007,
+          "sum": 2018.01,
           "average": 112.11166666666666,
           "average w/o zero": 112.11166666666666
         },
         "Spectra": {
           "count": 47,
-          "sum": 4913.340000000001,
+          "sum": 4913.34,
           "average": 104.5391489361702,
           "average w/o zero": 104.5391489361702
         },
         "Atheneum Books for Young Readers": {
           "count": 36,
-          "sum": 2132.7999999999997,
+          "sum": 2132.8,
           "average": 59.24444444444444,
           "average w/o zero": 59.24444444444444
         },
@@ -4818,19 +4818,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Central Life & Style": {
           "count": 18,
-          "sum": 5607.129999999999,
+          "sum": 5607.13,
           "average": 311.5072222222222,
           "average w/o zero": 311.5072222222222
         },
         "Philomel": {
           "count": 7,
-          "sum": 1465.3400000000001,
+          "sum": 1465.34,
           "average": 209.3342857142857,
           "average w/o zero": 209.3342857142857
         },
         "Random House Books for Young Readers": {
           "count": 202,
-          "sum": 7726.839999999996,
+          "sum": 7726.84,
           "average": 38.25168316831683,
           "average w/o zero": 38.25168316831683
         },
@@ -4842,7 +4842,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 11108.949999999995,
+          "sum": 11108.95,
           "average": 168.31742424242424,
           "average w/o zero": 168.31742424242424
         },
@@ -4860,43 +4860,43 @@ VISUALIZER_DATA_BARS = [
         },
         "WaterBrook Press": {
           "count": 20,
-          "sum": 2719.389999999999,
+          "sum": 2719.39,
           "average": 135.9695,
           "average w/o zero": 135.9695
         },
         "Portfolio": {
           "count": 83,
-          "sum": 11657.449999999984,
+          "sum": 11657.45,
           "average": 140.4512048192771,
           "average w/o zero": 140.4512048192771
         },
         "Pantheon": {
           "count": 10,
-          "sum": 2358.6699999999996,
+          "sum": 2358.67,
           "average": 235.867,
           "average w/o zero": 235.867
         },
         "Metropolitan Books": {
           "count": 16,
-          "sum": 2133.4100000000003,
+          "sum": 2133.41,
           "average": 133.338125,
           "average w/o zero": 133.338125
         },
         "Reader's Digest": {
           "count": 3,
-          "sum": 854.11,
+          "sum": 854.1099999999999,
           "average": 284.7033333333333,
           "average w/o zero": 284.7033333333333
         },
         "Two Lions": {
           "count": 64,
-          "sum": 2039.0000000000016,
+          "sum": 2039.0,
           "average": 31.859375,
           "average w/o zero": 31.859375
         },
         "Delacorte Books for Young Readers": {
           "count": 20,
-          "sum": 1865.3400000000006,
+          "sum": 1865.34,
           "average": 93.267,
           "average w/o zero": 93.267
         },
@@ -4908,7 +4908,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Atria Books/Beyond Words": {
           "count": 7,
-          "sum": 1409.8200000000002,
+          "sum": 1409.82,
           "average": 201.40285714285713,
           "average w/o zero": 201.40285714285713
         },
@@ -4926,7 +4926,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 9193.569999999996,
+          "sum": 9193.57,
           "average": 89.25796116504854,
           "average w/o zero": 89.25796116504854
         },
@@ -4950,13 +4950,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown Archetype": {
           "count": 28,
-          "sum": 3696.3699999999985,
+          "sum": 3696.37,
           "average": 132.0132142857143,
           "average w/o zero": 132.0132142857143
         },
         "Avery": {
           "count": 17,
-          "sum": 2494.7400000000002,
+          "sum": 2494.74,
           "average": 146.74941176470588,
           "average w/o zero": 146.74941176470588
         },
@@ -4974,19 +4974,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Element": {
           "count": 22,
-          "sum": 980.7000000000002,
+          "sum": 980.6999999999999,
           "average": 44.57727272727273,
           "average w/o zero": 44.57727272727273
         },
         "Penguin": {
           "count": 37,
-          "sum": 3004.6399999999994,
+          "sum": 3004.64,
           "average": 81.20648648648648,
           "average w/o zero": 81.20648648648648
         },
         "Penguin Classic": {
           "count": 17,
-          "sum": 2834.0699999999993,
+          "sum": 2834.07,
           "average": 166.71,
           "average w/o zero": 166.71
         },
@@ -4998,7 +4998,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Balzer + Bray": {
           "count": 12,
-          "sum": 1320.5200000000002,
+          "sum": 1320.52,
           "average": 110.04333333333334,
           "average w/o zero": 110.04333333333334
         },
@@ -5010,7 +5010,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books/Star Trek": {
           "count": 61,
-          "sum": 2227.860000000001,
+          "sum": 2227.86,
           "average": 36.522295081967215,
           "average w/o zero": 36.522295081967215
         },
@@ -5022,13 +5022,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ten Speed Press": {
           "count": 44,
-          "sum": 3042.2799999999993,
+          "sum": 3042.2799999999997,
           "average": 69.14272727272727,
           "average w/o zero": 69.14272727272727
         },
         "Island Books": {
           "count": 3,
-          "sum": 706.2699999999999,
+          "sum": 706.27,
           "average": 235.42333333333332,
           "average w/o zero": 235.42333333333332
         },
@@ -5046,19 +5046,19 @@ VISUALIZER_DATA_BARS = [
         },
         "LucasBooks": {
           "count": 69,
-          "sum": 3964.8599999999974,
+          "sum": 3964.86,
           "average": 57.461739130434786,
           "average w/o zero": 57.461739130434786
         },
         "Holt Paperbacks": {
           "count": 25,
-          "sum": 3149.4399999999996,
+          "sum": 3149.44,
           "average": 125.9776,
           "average w/o zero": 125.9776
         },
         "Times Books": {
           "count": 16,
-          "sum": 1688.2600000000007,
+          "sum": 1688.26,
           "average": 105.51625,
           "average w/o zero": 105.51625
         },
@@ -5094,13 +5094,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Modern Library": {
           "count": 5,
-          "sum": 602.67,
+          "sum": 602.6700000000001,
           "average": 120.534,
           "average w/o zero": 120.534
         },
         "Collins": {
           "count": 8,
-          "sum": 443.02000000000004,
+          "sum": 443.02,
           "average": 55.3775,
           "average w/o zero": 55.3775
         },
@@ -5130,7 +5130,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Picador": {
           "count": 10,
-          "sum": 1022.5500000000002,
+          "sum": 1022.55,
           "average": 102.255,
           "average w/o zero": 102.255
         },
@@ -5142,25 +5142,25 @@ VISUALIZER_DATA_BARS = [
         },
         "RH/Disney": {
           "count": 7,
-          "sum": 390.10999999999996,
+          "sum": 390.11,
           "average": 55.73,
           "average w/o zero": 55.73
         },
         "Vintage Espanol": {
           "count": 7,
-          "sum": 758.9699999999999,
+          "sum": 758.97,
           "average": 108.42428571428572,
           "average w/o zero": 108.42428571428572
         },
         "Crimeline": {
           "count": 4,
-          "sum": 460.46000000000004,
+          "sum": 460.46,
           "average": 115.115,
           "average w/o zero": 115.115
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 2792.0500000000025,
+          "sum": 2792.05,
           "average": 25.153603603603603,
           "average w/o zero": 25.153603603603603
         },
@@ -5196,7 +5196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wendy Lamb Books": {
           "count": 5,
-          "sum": 306.46000000000004,
+          "sum": 306.46,
           "average": 61.292,
           "average w/o zero": 61.292
         },
@@ -5226,7 +5226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Greenwillow Books": {
           "count": 17,
-          "sum": 710.7200000000001,
+          "sum": 710.72,
           "average": 41.80705882352941,
           "average w/o zero": 41.80705882352941
         },
@@ -5244,13 +5244,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Spotlight": {
           "count": 22,
-          "sum": 568.2100000000002,
+          "sum": 568.21,
           "average": 25.827727272727273,
           "average w/o zero": 25.827727272727273
         },
         "Business Plus": {
           "count": 16,
-          "sum": 1532.8800000000003,
+          "sum": 1532.88,
           "average": 95.805,
           "average w/o zero": 95.805
         },
@@ -5304,7 +5304,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Scientific American": {
           "count": 9,
-          "sum": 295.61999999999995,
+          "sum": 295.62,
           "average": 32.846666666666664,
           "average w/o zero": 32.846666666666664
         },
@@ -5322,7 +5322,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Villard": {
           "count": 6,
-          "sum": 469.74000000000007,
+          "sum": 469.74,
           "average": 78.29,
           "average w/o zero": 78.29
         },
@@ -5334,7 +5334,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DK Publishing": {
           "count": 27,
-          "sum": 495.24000000000007,
+          "sum": 495.24,
           "average": 18.342222222222222,
           "average w/o zero": 18.342222222222222
         },
@@ -5358,7 +5358,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Palgrave Macmillan": {
           "count": 27,
-          "sum": 1337.2500000000002,
+          "sum": 1337.25,
           "average": 49.52777777777778,
           "average w/o zero": 49.52777777777778
         },
@@ -5382,13 +5382,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Hill and Wang": {
           "count": 8,
-          "sum": 326.21999999999997,
+          "sum": 326.22,
           "average": 40.7775,
           "average w/o zero": 40.7775
         },
         "Golden/Disney": {
           "count": 6,
-          "sum": 116.66000000000003,
+          "sum": 116.66,
           "average": 19.443333333333335,
           "average w/o zero": 19.443333333333335
         },
@@ -5460,25 +5460,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Prentice Hall Press": {
           "count": 8,
-          "sum": 925.0200000000001,
+          "sum": 925.02,
           "average": 115.6275,
           "average w/o zero": 115.6275
         },
         "Thorsons": {
           "count": 5,
-          "sum": 252.14999999999998,
+          "sum": 252.15,
           "average": 50.43,
           "average w/o zero": 50.43
         },
         "Deepak Chopra": {
           "count": 3,
-          "sum": 163.53000000000003,
+          "sum": 163.53,
           "average": 54.510000000000005,
           "average w/o zero": 54.510000000000005
         },
         "Potter Craft": {
           "count": 6,
-          "sum": 282.96000000000004,
+          "sum": 282.96,
           "average": 47.160000000000004,
           "average w/o zero": 47.160000000000004
         },
@@ -5508,7 +5508,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Meadowbrook": {
           "count": 4,
-          "sum": 149.36,
+          "sum": 149.35999999999999,
           "average": 37.339999999999996,
           "average w/o zero": 37.339999999999996
         },
@@ -5556,13 +5556,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken Soup for the Soul": {
           "count": 5,
-          "sum": 139.91000000000003,
+          "sum": 139.91,
           "average": 27.982000000000003,
           "average w/o zero": 27.982000000000003
         },
         "Square Fish": {
           "count": 3,
-          "sum": 97.44000000000001,
+          "sum": 97.44,
           "average": 32.480000000000004,
           "average w/o zero": 32.480000000000004
         },
@@ -5628,7 +5628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington Square Press": {
           "count": 4,
-          "sum": 159.47999999999996,
+          "sum": 159.48,
           "average": 39.87,
           "average w/o zero": 39.87
         },
@@ -5658,7 +5658,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 95.65000000000002,
+          "sum": 95.65,
           "average": 10.627777777777778,
           "average w/o zero": 10.627777777777778
         },
@@ -5682,7 +5682,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Little Simon": {
           "count": 5,
-          "sum": 93.88000000000001,
+          "sum": 93.88,
           "average": 18.776,
           "average w/o zero": 18.776
         },
@@ -5730,7 +5730,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rough Guides": {
           "count": 4,
-          "sum": 120.39000000000001,
+          "sum": 120.39,
           "average": 30.0975,
           "average w/o zero": 30.0975
         },
@@ -5784,7 +5784,7 @@ VISUALIZER_DATA_BARS = [
         },
         "First Second": {
           "count": 3,
-          "sum": 78.24,
+          "sum": 78.24000000000001,
           "average": 26.080000000000002,
           "average w/o zero": 26.080000000000002
         },
@@ -5936,25 +5936,25 @@ VISUALIZER_DATA_BARS = [
       "daily average.publisher revenue": {
         "Katherine Tegen Books": {
           "count": 18,
-          "sum": 56957.183999999994,
+          "sum": 56957.184,
           "average": 3164.288,
           "average w/o zero": 3164.288
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 46170.89999999993,
+          "sum": 46170.9,
           "average": 118.69125964010283,
           "average w/o zero": 118.69125964010283
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 486890.52600000263,
+          "sum": 486890.526,
           "average": 49.9836285802279,
           "average w/o zero": 49.9836285802279
         },
         "Little, Brown and Company": {
           "count": 161,
-          "sum": 98919.77399999998,
+          "sum": 98919.774,
           "average": 614.4085341614907,
           "average w/o zero": 614.4085341614907
         },
@@ -5972,7 +5972,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Center Street": {
           "count": 13,
-          "sum": 17964.906000000006,
+          "sum": 17964.906,
           "average": 1381.9158461538461,
           "average w/o zero": 1381.9158461538461
         },
@@ -5996,7 +5996,7 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 11540.310000000009,
+          "sum": 11540.310000000001,
           "average": 250.8763043478261,
           "average w/o zero": 250.8763043478261
         },
@@ -6020,19 +6020,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 25976.333999999995,
+          "sum": 25976.334,
           "average": 124.28867942583732,
           "average w/o zero": 124.28867942583732
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 131931.87000000145,
+          "sum": 131931.87,
           "average": 36.56648281596452,
           "average w/o zero": 36.56648281596452
         },
         "Viking Adult": {
           "count": 38,
-          "sum": 27077.658000000007,
+          "sum": 27077.658,
           "average": 712.569947368421,
           "average w/o zero": 712.569947368421
         },
@@ -6056,13 +6056,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown": {
           "count": 37,
-          "sum": 17415.858000000007,
+          "sum": 17415.858,
           "average": 470.69886486486485,
           "average w/o zero": 470.69886486486485
         },
         "Random House": {
           "count": 87,
-          "sum": 26381.226000000002,
+          "sum": 26381.226,
           "average": 303.2324827586207,
           "average w/o zero": 303.2324827586207
         },
@@ -6080,25 +6080,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Entangled: Brazen": {
           "count": 23,
-          "sum": 4284.870000000001,
+          "sum": 4284.87,
           "average": 186.2986956521739,
           "average w/o zero": 186.2986956521739
         },
         "Berkley": {
           "count": 181,
-          "sum": 53149.72800000003,
+          "sum": 53149.727999999996,
           "average": 293.6449060773481,
           "average w/o zero": 293.6449060773481
         },
         "Dutton Adult": {
           "count": 32,
-          "sum": 23181.587999999996,
+          "sum": 23181.588,
           "average": 724.424625,
           "average w/o zero": 724.424625
         },
         "Bantam": {
           "count": 150,
-          "sum": 41390.225999999944,
+          "sum": 41390.226,
           "average": 275.93484,
           "average w/o zero": 275.93484
         },
@@ -6110,37 +6110,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 37297.66800000003,
+          "sum": 37297.668,
           "average": 348.5763364485981,
           "average w/o zero": 348.5763364485981
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 21081.942000000003,
+          "sum": 21081.942,
           "average": 141.4895436241611,
           "average w/o zero": 141.4895436241611
         },
         "Forever": {
           "count": 23,
-          "sum": 11893.632000000001,
+          "sum": 11893.632,
           "average": 517.1144347826087,
           "average w/o zero": 517.1144347826087
         },
         "Vintage": {
           "count": 190,
-          "sum": 38111.670000000035,
+          "sum": 38111.67,
           "average": 200.58773684210527,
           "average w/o zero": 200.58773684210527
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 26437.968000000026,
+          "sum": 26437.968,
           "average": 166.2765283018868,
           "average w/o zero": 166.2765283018868
         },
         "Razorbill": {
           "count": 16,
-          "sum": 16452.071999999996,
+          "sum": 16452.072,
           "average": 1028.2545,
           "average w/o zero": 1028.2545
         },
@@ -6164,19 +6164,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Scribner": {
           "count": 125,
-          "sum": 24392.723999999984,
+          "sum": 24392.724,
           "average": 195.141792,
           "average w/o zero": 195.141792
         },
         "Harper": {
           "count": 61,
-          "sum": 17651.88600000001,
+          "sum": 17651.886,
           "average": 289.37518032786886,
           "average w/o zero": 289.37518032786886
         },
         "Margaret K. McElderry Books": {
           "count": 21,
-          "sum": 11502.354000000003,
+          "sum": 11502.354,
           "average": 547.7311428571429,
           "average w/o zero": 547.7311428571429
         },
@@ -6188,13 +6188,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Tor Books": {
           "count": 84,
-          "sum": 16279.914000000006,
+          "sum": 16279.914,
           "average": 193.8085,
           "average w/o zero": 193.8085
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 9877.745999999996,
+          "sum": 9877.746,
           "average": 141.11065714285715,
           "average w/o zero": 141.11065714285715
         },
@@ -6206,7 +6206,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 23370.60599999998,
+          "sum": 23370.606,
           "average": 142.5036951219512,
           "average w/o zero": 142.5036951219512
         },
@@ -6224,25 +6224,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Riverhead": {
           "count": 48,
-          "sum": 9770.567999999994,
+          "sum": 9770.568,
           "average": 203.5535,
           "average w/o zero": 203.5535
         },
         "Avon": {
           "count": 34,
-          "sum": 7047.114000000004,
+          "sum": 7047.114,
           "average": 207.2680588235294,
           "average w/o zero": 207.2680588235294
         },
         "Speak": {
           "count": 20,
-          "sum": 5461.014000000001,
+          "sum": 5461.014,
           "average": 273.0507,
           "average w/o zero": 273.0507
         },
         "Zondervan": {
           "count": 70,
-          "sum": 9948.047999999995,
+          "sum": 9948.048,
           "average": 142.11497142857144,
           "average w/o zero": 142.11497142857144
         },
@@ -6260,25 +6260,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Gallery Books": {
           "count": 64,
-          "sum": 9707.603999999996,
+          "sum": 9707.604,
           "average": 151.6813125,
           "average w/o zero": 151.6813125
         },
         "Roc": {
           "count": 16,
-          "sum": 4055.964000000001,
+          "sum": 4055.964,
           "average": 253.49775,
           "average w/o zero": 253.49775
         },
         "NAL": {
           "count": 36,
-          "sum": 7086.1259999999975,
+          "sum": 7086.126,
           "average": 196.83683333333332,
           "average w/o zero": 196.83683333333332
         },
         "Farrar, Straus and Giroux": {
           "count": 90,
-          "sum": 5663.075999999998,
+          "sum": 5663.076,
           "average": 62.923066666666664,
           "average w/o zero": 62.923066666666664
         },
@@ -6296,7 +6296,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ecco": {
           "count": 29,
-          "sum": 6604.355999999999,
+          "sum": 6604.356,
           "average": 227.73641379310345,
           "average w/o zero": 227.73641379310345
         },
@@ -6308,13 +6308,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Minotaur Books": {
           "count": 47,
-          "sum": 6966.857999999997,
+          "sum": 6966.858,
           "average": 148.23102127659575,
           "average w/o zero": 148.23102127659575
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 15665.321999999996,
+          "sum": 15665.322,
           "average": 61.918268774703556,
           "average w/o zero": 61.918268774703556
         },
@@ -6326,31 +6326,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Gotham Books": {
           "count": 28,
-          "sum": 2945.2259999999997,
+          "sum": 2945.226,
           "average": 105.18664285714286,
           "average w/o zero": 105.18664285714286
         },
         "Thomas Nelson": {
           "count": 93,
-          "sum": 11453.513999999994,
+          "sum": 11453.514,
           "average": 123.15606451612904,
           "average w/o zero": 123.15606451612904
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 7187.694,
+          "sum": 7187.6939999999995,
           "average": 95.83592,
           "average w/o zero": 95.83592
         },
         "Mulholland Books": {
           "count": 9,
-          "sum": 1508.4779999999998,
+          "sum": 1508.478,
           "average": 167.60866666666666,
           "average w/o zero": 167.60866666666666
         },
         "HarperTeen": {
           "count": 30,
-          "sum": 4074.492000000001,
+          "sum": 4074.492,
           "average": 135.8164,
           "average w/o zero": 135.8164
         },
@@ -6368,25 +6368,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas Dunne Books": {
           "count": 39,
-          "sum": 3270.1379999999986,
+          "sum": 3270.138,
           "average": 83.84969230769231,
           "average w/o zero": 83.84969230769231
         },
         "Harmony": {
           "count": 61,
-          "sum": 7625.579999999998,
+          "sum": 7625.58,
           "average": 125.00950819672131,
           "average w/o zero": 125.00950819672131
         },
         "Jove": {
           "count": 42,
-          "sum": 7886.897999999996,
+          "sum": 7886.898,
           "average": 187.7832857142857,
           "average w/o zero": 187.7832857142857
         },
         "Atria/Emily Bestler Books": {
           "count": 8,
-          "sum": 3282.972,
+          "sum": 3282.9719999999998,
           "average": 410.37149999999997,
           "average w/o zero": 410.37149999999997
         },
@@ -6398,7 +6398,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 10819.235999999997,
+          "sum": 10819.236,
           "average": 166.4497846153846,
           "average w/o zero": 166.4497846153846
         },
@@ -6416,7 +6416,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Voyager": {
           "count": 11,
-          "sum": 2072.2560000000003,
+          "sum": 2072.256,
           "average": 188.38690909090909,
           "average w/o zero": 188.38690909090909
         },
@@ -6428,7 +6428,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Three Rivers Press": {
           "count": 21,
-          "sum": 1278.7559999999999,
+          "sum": 1278.756,
           "average": 60.893142857142855,
           "average w/o zero": 60.893142857142855
         },
@@ -6440,19 +6440,19 @@ VISUALIZER_DATA_BARS = [
         },
         "St. Martin's Griffin": {
           "count": 43,
-          "sum": 2950.9499999999985,
+          "sum": 2950.95,
           "average": 68.62674418604651,
           "average w/o zero": 68.62674418604651
         },
         "Plume": {
           "count": 57,
-          "sum": 6115.655999999997,
+          "sum": 6115.656,
           "average": 107.29221052631578,
           "average w/o zero": 107.29221052631578
         },
         "Random House/Disney": {
           "count": 13,
-          "sum": 448.36799999999994,
+          "sum": 448.368,
           "average": 34.48984615384615,
           "average w/o zero": 34.48984615384615
         },
@@ -6464,7 +6464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 3795.3180000000007,
+          "sum": 3795.3179999999998,
           "average": 122.4296129032258,
           "average w/o zero": 122.4296129032258
         },
@@ -6494,19 +6494,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Putnam Juvenile": {
           "count": 11,
-          "sum": 1627.8839999999998,
+          "sum": 1627.884,
           "average": 147.98945454545455,
           "average w/o zero": 147.98945454545455
         },
         "Orbit": {
           "count": 51,
-          "sum": 5109.665999999998,
+          "sum": 5109.666,
           "average": 100.18952941176471,
           "average w/o zero": 100.18952941176471
         },
         "DAW": {
           "count": 15,
-          "sum": 1418.6159999999995,
+          "sum": 1418.616,
           "average": 94.5744,
           "average w/o zero": 94.5744
         },
@@ -6530,7 +6530,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ace": {
           "count": 50,
-          "sum": 6898.463999999999,
+          "sum": 6898.464,
           "average": 137.96928,
           "average w/o zero": 137.96928
         },
@@ -6542,25 +6542,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Witness Impulse": {
           "count": 12,
-          "sum": 576.2160000000001,
+          "sum": 576.216,
           "average": 48.018,
           "average w/o zero": 48.018
         },
         "Hyperion": {
           "count": 63,
-          "sum": 6389.861999999996,
+          "sum": 6389.862,
           "average": 101.42638095238095,
           "average w/o zero": 101.42638095238095
         },
         "Avon Impulse": {
           "count": 16,
-          "sum": 855.9779999999998,
+          "sum": 855.978,
           "average": 53.498625,
           "average w/o zero": 53.498625
         },
         "Blue Rider Press": {
           "count": 9,
-          "sum": 2114.4480000000003,
+          "sum": 2114.448,
           "average": 234.93866666666668,
           "average w/o zero": 234.93866666666668
         },
@@ -6572,7 +6572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Free Press": {
           "count": 68,
-          "sum": 3719.2260000000006,
+          "sum": 3719.226,
           "average": 54.6945,
           "average w/o zero": 54.6945
         },
@@ -6596,7 +6596,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 4371.0960000000005,
+          "sum": 4371.096,
           "average": 89.20604081632654,
           "average w/o zero": 89.20604081632654
         },
@@ -6614,7 +6614,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon & Schuster Books for Young Readers": {
           "count": 46,
-          "sum": 2019.6899999999996,
+          "sum": 2019.69,
           "average": 43.90630434782609,
           "average w/o zero": 43.90630434782609
         },
@@ -6626,31 +6626,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Aladdin": {
           "count": 86,
-          "sum": 2016.9119999999987,
+          "sum": 2016.912,
           "average": 23.45246511627907,
           "average w/o zero": 23.45246511627907
         },
         "Crown Business": {
           "count": 55,
-          "sum": 4672.236000000001,
+          "sum": 4672.236,
           "average": 84.94974545454545,
           "average w/o zero": 84.94974545454545
         },
         "Howard Books": {
           "count": 24,
-          "sum": 3330.192000000001,
+          "sum": 3330.192,
           "average": 138.758,
           "average w/o zero": 138.758
         },
         "Nan A. Talese": {
           "count": 5,
-          "sum": 1291.1639999999998,
+          "sum": 1291.164,
           "average": 258.2328,
           "average w/o zero": 258.2328
         },
         "Perigee": {
           "count": 18,
-          "sum": 1210.8059999999996,
+          "sum": 1210.806,
           "average": 67.267,
           "average w/o zero": 67.267
         },
@@ -6662,7 +6662,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Atheneum Books for Young Readers": {
           "count": 36,
-          "sum": 1279.679999999999,
+          "sum": 1279.68,
           "average": 35.54666666666667,
           "average w/o zero": 35.54666666666667
         },
@@ -6674,31 +6674,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Central Life & Style": {
           "count": 18,
-          "sum": 3364.2780000000002,
+          "sum": 3364.278,
           "average": 186.90433333333334,
           "average w/o zero": 186.90433333333334
         },
         "Philomel": {
           "count": 7,
-          "sum": 879.2040000000001,
+          "sum": 879.204,
           "average": 125.60057142857143,
           "average w/o zero": 125.60057142857143
         },
         "Random House Books for Young Readers": {
           "count": 202,
-          "sum": 4636.103999999991,
+          "sum": 4636.104,
           "average": 22.951009900990098,
           "average w/o zero": 22.951009900990098
         },
         "Back Bay Books": {
           "count": 11,
-          "sum": 1877.6879999999996,
+          "sum": 1877.6879999999999,
           "average": 170.69890909090907,
           "average w/o zero": 170.69890909090907
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 6665.370000000005,
+          "sum": 6665.37,
           "average": 100.99045454545454,
           "average w/o zero": 100.99045454545454
         },
@@ -6716,13 +6716,13 @@ VISUALIZER_DATA_BARS = [
         },
         "WaterBrook Press": {
           "count": 20,
-          "sum": 1631.6340000000002,
+          "sum": 1631.634,
           "average": 81.5817,
           "average w/o zero": 81.5817
         },
         "Portfolio": {
           "count": 83,
-          "sum": 6994.469999999999,
+          "sum": 6994.47,
           "average": 84.27072289156627,
           "average w/o zero": 84.27072289156627
         },
@@ -6752,19 +6752,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Delacorte Books for Young Readers": {
           "count": 20,
-          "sum": 1119.2039999999997,
+          "sum": 1119.204,
           "average": 55.9602,
           "average w/o zero": 55.9602
         },
         "Laurel Leaf": {
           "count": 8,
-          "sum": 411.16799999999995,
+          "sum": 411.168,
           "average": 51.396,
           "average w/o zero": 51.396
         },
         "Atria Books/Beyond Words": {
           "count": 7,
-          "sum": 845.8920000000002,
+          "sum": 845.892,
           "average": 120.84171428571429,
           "average w/o zero": 120.84171428571429
         },
@@ -6782,13 +6782,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 5516.141999999999,
+          "sum": 5516.142,
           "average": 53.55477669902913,
           "average w/o zero": 53.55477669902913
         },
         "St. Martin's Paperbacks": {
           "count": 21,
-          "sum": 1785.7019999999998,
+          "sum": 1785.702,
           "average": 85.03342857142857,
           "average w/o zero": 85.03342857142857
         },
@@ -6812,7 +6812,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Avery": {
           "count": 17,
-          "sum": 1496.8439999999998,
+          "sum": 1496.844,
           "average": 88.04964705882352,
           "average w/o zero": 88.04964705882352
         },
@@ -6824,7 +6824,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Presidio Press": {
           "count": 4,
-          "sum": 372.33000000000004,
+          "sum": 372.33,
           "average": 93.0825,
           "average w/o zero": 93.0825
         },
@@ -6836,25 +6836,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Penguin": {
           "count": 37,
-          "sum": 1802.7839999999999,
+          "sum": 1802.784,
           "average": 48.723891891891896,
           "average w/o zero": 48.723891891891896
         },
         "Penguin Classic": {
           "count": 17,
-          "sum": 1700.4419999999996,
+          "sum": 1700.442,
           "average": 100.026,
           "average w/o zero": 100.026
         },
         "Tarcher": {
           "count": 22,
-          "sum": 1672.1580000000004,
+          "sum": 1672.158,
           "average": 76.00718181818182,
           "average w/o zero": 76.00718181818182
         },
         "Balzer + Bray": {
           "count": 12,
-          "sum": 792.3120000000001,
+          "sum": 792.312,
           "average": 66.026,
           "average w/o zero": 66.026
         },
@@ -6866,7 +6866,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books/Star Trek": {
           "count": 61,
-          "sum": 1336.7160000000006,
+          "sum": 1336.716,
           "average": 21.913377049180326,
           "average w/o zero": 21.913377049180326
         },
@@ -6884,13 +6884,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Island Books": {
           "count": 3,
-          "sum": 423.76200000000006,
+          "sum": 423.762,
           "average": 141.25400000000002,
           "average w/o zero": 141.25400000000002
         },
         "Zonderkidz": {
           "count": 27,
-          "sum": 569.6160000000002,
+          "sum": 569.616,
           "average": 21.096888888888888,
           "average w/o zero": 21.096888888888888
         },
@@ -6902,7 +6902,7 @@ VISUALIZER_DATA_BARS = [
         },
         "LucasBooks": {
           "count": 69,
-          "sum": 2378.916000000003,
+          "sum": 2378.916,
           "average": 34.47704347826087,
           "average w/o zero": 34.47704347826087
         },
@@ -6914,7 +6914,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Times Books": {
           "count": 16,
-          "sum": 1012.9559999999999,
+          "sum": 1012.956,
           "average": 63.30975,
           "average w/o zero": 63.30975
         },
@@ -6944,7 +6944,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bantam Classics": {
           "count": 5,
-          "sum": 107.54400000000001,
+          "sum": 107.544,
           "average": 21.5088,
           "average w/o zero": 21.5088
         },
@@ -6980,7 +6980,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Twelve": {
           "count": 15,
-          "sum": 1150.044,
+          "sum": 1150.0439999999999,
           "average": 76.6696,
           "average w/o zero": 76.6696
         },
@@ -6992,7 +6992,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Perennial": {
           "count": 21,
-          "sum": 1056.3059999999998,
+          "sum": 1056.306,
           "average": 50.300285714285714,
           "average w/o zero": 50.300285714285714
         },
@@ -7004,25 +7004,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage Espanol": {
           "count": 7,
-          "sum": 455.38199999999995,
+          "sum": 455.382,
           "average": 65.05457142857142,
           "average w/o zero": 65.05457142857142
         },
         "Crimeline": {
           "count": 4,
-          "sum": 276.27599999999995,
+          "sum": 276.276,
           "average": 69.069,
           "average w/o zero": 69.069
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 1675.2299999999982,
+          "sum": 1675.23,
           "average": 15.092162162162163,
           "average w/o zero": 15.092162162162163
         },
         "HarperFestival": {
           "count": 5,
-          "sum": 122.60999999999999,
+          "sum": 122.61,
           "average": 24.522,
           "average w/o zero": 24.522
         },
@@ -7046,7 +7046,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Current": {
           "count": 4,
-          "sum": 279.972,
+          "sum": 279.97200000000004,
           "average": 69.99300000000001,
           "average w/o zero": 69.99300000000001
         },
@@ -7070,7 +7070,7 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow Cookbooks": {
           "count": 14,
-          "sum": 359.412,
+          "sum": 359.41200000000003,
           "average": 25.672285714285714,
           "average w/o zero": 25.672285714285714
         },
@@ -7082,13 +7082,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Greenwillow Books": {
           "count": 17,
-          "sum": 426.4319999999999,
+          "sum": 426.432,
           "average": 25.084235294117647,
           "average w/o zero": 25.084235294117647
         },
         "Papercutz": {
           "count": 13,
-          "sum": 176.95200000000003,
+          "sum": 176.952,
           "average": 13.611692307692309,
           "average w/o zero": 13.611692307692309
         },
@@ -7100,13 +7100,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Spotlight": {
           "count": 22,
-          "sum": 340.9259999999999,
+          "sum": 340.926,
           "average": 15.496636363636364,
           "average w/o zero": 15.496636363636364
         },
         "Business Plus": {
           "count": 16,
-          "sum": 919.7280000000001,
+          "sum": 919.728,
           "average": 57.483,
           "average w/o zero": 57.483
         },
@@ -7142,7 +7142,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Faber & Faber": {
           "count": 6,
-          "sum": 231.71400000000006,
+          "sum": 231.714,
           "average": 38.619,
           "average w/o zero": 38.619
         },
@@ -7160,7 +7160,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Scientific American": {
           "count": 9,
-          "sum": 177.372,
+          "sum": 177.37199999999999,
           "average": 19.708,
           "average w/o zero": 19.708
         },
@@ -7172,19 +7172,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Clarkson Potter": {
           "count": 37,
-          "sum": 1262.5980000000002,
+          "sum": 1262.598,
           "average": 34.12427027027027,
           "average w/o zero": 34.12427027027027
         },
         "Villard": {
           "count": 6,
-          "sum": 281.84400000000005,
+          "sum": 281.844,
           "average": 46.974,
           "average w/o zero": 46.974
         },
         "Amphoto Books": {
           "count": 9,
-          "sum": 483.17400000000004,
+          "sum": 483.174,
           "average": 53.686,
           "average w/o zero": 53.686
         },
@@ -7214,7 +7214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Palgrave Macmillan": {
           "count": 27,
-          "sum": 802.3499999999998,
+          "sum": 802.35,
           "average": 29.716666666666665,
           "average w/o zero": 29.716666666666665
         },
@@ -7238,7 +7238,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hill and Wang": {
           "count": 8,
-          "sum": 195.73200000000003,
+          "sum": 195.732,
           "average": 24.4665,
           "average w/o zero": 24.4665
         },
@@ -7280,7 +7280,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Orb Books": {
           "count": 7,
-          "sum": 221.13600000000002,
+          "sum": 221.136,
           "average": 31.590857142857143,
           "average w/o zero": 31.590857142857143
         },
@@ -7322,7 +7322,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Thorsons": {
           "count": 5,
-          "sum": 151.29000000000002,
+          "sum": 151.29,
           "average": 30.258,
           "average w/o zero": 30.258
         },
@@ -7334,7 +7334,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Potter Craft": {
           "count": 6,
-          "sum": 169.77599999999998,
+          "sum": 169.776,
           "average": 28.296,
           "average w/o zero": 28.296
         },
@@ -7346,13 +7346,13 @@ VISUALIZER_DATA_BARS = [
         },
         "LB Kids": {
           "count": 8,
-          "sum": 66.66600000000001,
+          "sum": 66.666,
           "average": 8.33325,
           "average w/o zero": 8.33325
         },
         "Yen Press": {
           "count": 13,
-          "sum": 205.36200000000002,
+          "sum": 205.362,
           "average": 15.797076923076922,
           "average w/o zero": 15.797076923076922
         },
@@ -7382,7 +7382,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ripley Publishing": {
           "count": 4,
-          "sum": 30.132000000000005,
+          "sum": 30.132,
           "average": 7.533,
           "average w/o zero": 7.533
         },
@@ -7460,7 +7460,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Paperbacks": {
           "count": 5,
-          "sum": 118.38000000000001,
+          "sum": 118.38,
           "average": 23.676,
           "average w/o zero": 23.676
         },
@@ -7478,7 +7478,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperPress": {
           "count": 3,
-          "sum": 35.562000000000005,
+          "sum": 35.562,
           "average": 11.854000000000001,
           "average w/o zero": 11.854000000000001
         },
@@ -7514,7 +7514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 57.38999999999999,
+          "sum": 57.39,
           "average": 6.376666666666666,
           "average w/o zero": 6.376666666666666
         },
@@ -7538,7 +7538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Little Simon": {
           "count": 5,
-          "sum": 56.32799999999999,
+          "sum": 56.327999999999996,
           "average": 11.2656,
           "average w/o zero": 11.2656
         },
@@ -7550,7 +7550,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alfred A. Knopf BFYR": {
           "count": 4,
-          "sum": 43.056000000000004,
+          "sum": 43.056,
           "average": 10.764,
           "average w/o zero": 10.764
         },
@@ -7616,7 +7616,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ivy Books": {
           "count": 3,
-          "sum": 28.752000000000002,
+          "sum": 28.752,
           "average": 9.584,
           "average w/o zero": 9.584
         },
@@ -9648,25 +9648,25 @@ VISUALIZER_DATA_BARS = [
       "statistics.average rating": {
         "Katherine Tegen Books": {
           "count": 18,
-          "sum": 70.01999999999998,
+          "sum": 70.02,
           "average": 3.8899999999999997,
           "average w/o zero": 4.37625
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 1649.7099999999996,
+          "sum": 1649.71,
           "average": 4.2408997429305915,
           "average w/o zero": 4.2408997429305915
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 40673.85000000035,
+          "sum": 40673.85,
           "average": 4.175531259624268,
           "average w/o zero": 4.3725919157170505
         },
         "Little, Brown and Company": {
           "count": 161,
-          "sum": 648.6600000000003,
+          "sum": 648.66,
           "average": 4.028944099378882,
           "average w/o zero": 4.184903225806452
         },
@@ -9678,37 +9678,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas & Mercer": {
           "count": 110,
-          "sum": 441.18000000000006,
+          "sum": 441.18,
           "average": 4.010727272727273,
           "average w/o zero": 4.162075471698113
         },
         "Center Street": {
           "count": 13,
-          "sum": 47.769999999999996,
+          "sum": 47.77,
           "average": 3.6746153846153846,
           "average w/o zero": 4.342727272727273
         },
         "Doubleday": {
           "count": 26,
-          "sum": 110.30000000000001,
+          "sum": 110.3,
           "average": 4.242307692307692,
           "average w/o zero": 4.242307692307692
         },
         "Putnam Adult": {
           "count": 54,
-          "sum": 189.20999999999995,
+          "sum": 189.21,
           "average": 3.503888888888889,
           "average w/o zero": 4.1132608695652175
         },
         "(Indie Publisher)": {
           "count": 5946,
-          "sum": 24717.62999999992,
+          "sum": 24717.63,
           "average": 4.157018163471241,
           "average w/o zero": 4.334145186743819
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 200.99999999999997,
+          "sum": 201.0,
           "average": 4.369565217391305,
           "average w/o zero": 4.369565217391305
         },
@@ -9720,7 +9720,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Skyscape": {
           "count": 17,
-          "sum": 65.41999999999999,
+          "sum": 65.42,
           "average": 3.848235294117647,
           "average w/o zero": 4.3613333333333335
         },
@@ -9732,13 +9732,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 855.7699999999995,
+          "sum": 855.77,
           "average": 4.094593301435407,
           "average w/o zero": 4.257562189054727
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 15148.249999999976,
+          "sum": 15148.25,
           "average": 4.1985171840354765,
           "average w/o zero": 4.394618508848274
         },
@@ -9750,37 +9750,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Montlake Romance": {
           "count": 78,
-          "sum": 314.15000000000003,
+          "sum": 314.15,
           "average": 4.027564102564103,
           "average w/o zero": 4.303424657534246
         },
         "William Morrow": {
           "count": 84,
-          "sum": 321.81000000000006,
+          "sum": 321.81,
           "average": 3.8310714285714287,
           "average w/o zero": 4.234342105263158
         },
         "HarperPerennial Classics": {
           "count": 6,
-          "sum": 26.459999999999997,
+          "sum": 26.46,
           "average": 4.41,
           "average w/o zero": 4.41
         },
         "Crown": {
           "count": 37,
-          "sum": 149.73999999999998,
+          "sum": 149.74,
           "average": 4.047027027027027,
           "average w/o zero": 4.2782857142857145
         },
         "Random House": {
           "count": 87,
-          "sum": 359.3100000000001,
+          "sum": 359.31,
           "average": 4.13,
           "average w/o zero": 4.2775
         },
         "47North": {
           "count": 77,
-          "sum": 293.3999999999999,
+          "sum": 293.4,
           "average": 3.81038961038961,
           "average w/o zero": 4.191428571428571
         },
@@ -9792,43 +9792,43 @@ VISUALIZER_DATA_BARS = [
         },
         "Entangled: Brazen": {
           "count": 23,
-          "sum": 85.32999999999998,
+          "sum": 85.33,
           "average": 3.71,
           "average w/o zero": 4.491052631578947
         },
         "Berkley": {
           "count": 181,
-          "sum": 734.0100000000002,
+          "sum": 734.01,
           "average": 4.055303867403315,
           "average w/o zero": 4.146949152542373
         },
         "Dutton Adult": {
           "count": 32,
-          "sum": 121.58999999999999,
+          "sum": 121.59,
           "average": 3.7996875,
           "average w/o zero": 4.3425
         },
         "Bantam": {
           "count": 150,
-          "sum": 606.6399999999998,
+          "sum": 606.64,
           "average": 4.044266666666666,
           "average w/o zero": 4.242237762237762
         },
         "AmazonEncore": {
           "count": 12,
-          "sum": 48.440000000000005,
+          "sum": 48.44,
           "average": 4.036666666666667,
           "average w/o zero": 4.036666666666667
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 419.80999999999995,
+          "sum": 419.81,
           "average": 3.9234579439252335,
           "average w/o zero": 4.1565346534653465
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 628.4399999999998,
+          "sum": 628.44,
           "average": 4.217718120805369,
           "average w/o zero": 4.246216216216216
         },
@@ -9840,19 +9840,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage": {
           "count": 190,
-          "sum": 801.9400000000004,
+          "sum": 801.94,
           "average": 4.220736842105263,
           "average w/o zero": 4.220736842105263
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 640.9200000000001,
+          "sum": 640.92,
           "average": 4.030943396226415,
           "average w/o zero": 4.2728
         },
         "Razorbill": {
           "count": 16,
-          "sum": 72.13000000000001,
+          "sum": 72.13,
           "average": 4.508125,
           "average w/o zero": 4.508125
         },
@@ -9864,13 +9864,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Henry Holt and Co.": {
           "count": 46,
-          "sum": 195.24999999999997,
+          "sum": 195.25,
           "average": 4.244565217391305,
           "average w/o zero": 4.338888888888889
         },
         "Knopf": {
           "count": 51,
-          "sum": 200.77999999999997,
+          "sum": 200.78,
           "average": 3.9368627450980394,
           "average w/o zero": 4.271914893617021
         },
@@ -9882,7 +9882,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper": {
           "count": 61,
-          "sum": 241.47000000000008,
+          "sum": 241.47,
           "average": 3.9585245901639343,
           "average w/o zero": 4.163275862068965
         },
@@ -9894,19 +9894,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Dell": {
           "count": 49,
-          "sum": 199.42000000000004,
+          "sum": 199.42,
           "average": 4.069795918367347,
           "average w/o zero": 4.154583333333333
         },
         "Tor Books": {
           "count": 84,
-          "sum": 330.0699999999998,
+          "sum": 330.07,
           "average": 3.929404761904762,
           "average w/o zero": 4.125875
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 297.71000000000004,
+          "sum": 297.71,
           "average": 4.253,
           "average w/o zero": 4.253
         },
@@ -9918,13 +9918,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 642.3199999999996,
+          "sum": 642.32,
           "average": 3.9165853658536585,
           "average w/o zero": 4.198169934640523
         },
         "Delacorte Press": {
           "count": 54,
-          "sum": 204.33999999999997,
+          "sum": 204.34,
           "average": 3.784074074074074,
           "average w/o zero": 4.170204081632653
         },
@@ -9936,13 +9936,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Riverhead": {
           "count": 48,
-          "sum": 205.89999999999995,
+          "sum": 205.9,
           "average": 4.289583333333333,
           "average w/o zero": 4.289583333333333
         },
         "Avon": {
           "count": 34,
-          "sum": 105.94000000000001,
+          "sum": 105.94,
           "average": 3.1158823529411763,
           "average w/o zero": 4.2376
         },
@@ -9966,7 +9966,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Del Rey": {
           "count": 48,
-          "sum": 189.97000000000006,
+          "sum": 189.97,
           "average": 3.957708333333333,
           "average w/o zero": 4.129782608695652
         },
@@ -9990,43 +9990,43 @@ VISUALIZER_DATA_BARS = [
         },
         "Farrar, Straus and Giroux": {
           "count": 90,
-          "sum": 383.2300000000001,
+          "sum": 383.23,
           "average": 4.258111111111111,
           "average w/o zero": 4.3059550561797755
         },
         "Anchor": {
           "count": 77,
-          "sum": 325.4699999999999,
+          "sum": 325.47,
           "average": 4.2268831168831165,
           "average w/o zero": 4.2268831168831165
         },
         "AmazonCrossing": {
           "count": 32,
-          "sum": 120.19999999999999,
+          "sum": 120.2,
           "average": 3.75625,
           "average w/o zero": 3.8774193548387097
         },
         "Ecco": {
           "count": 29,
-          "sum": 115.26000000000002,
+          "sum": 115.26,
           "average": 3.9744827586206894,
           "average w/o zero": 4.116428571428571
         },
         "Crown Forum": {
           "count": 6,
-          "sum": 22.089999999999996,
+          "sum": 22.09,
           "average": 3.6816666666666666,
           "average w/o zero": 4.418
         },
         "Minotaur Books": {
           "count": 47,
-          "sum": 182.42999999999998,
+          "sum": 182.43,
           "average": 3.8814893617021275,
           "average w/o zero": 4.242558139534884
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 1097.3500000000006,
+          "sum": 1097.35,
           "average": 4.337351778656126,
           "average w/o zero": 4.572291666666667
         },
@@ -10038,19 +10038,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Gotham Books": {
           "count": 28,
-          "sum": 117.72999999999999,
+          "sum": 117.73,
           "average": 4.204642857142857,
           "average w/o zero": 4.3603703703703705
         },
         "Thomas Nelson": {
           "count": 93,
-          "sum": 416.8600000000001,
+          "sum": 416.86,
           "average": 4.4823655913978495,
           "average w/o zero": 4.531086956521739
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 300.7099999999999,
+          "sum": 300.71,
           "average": 4.0094666666666665,
           "average w/o zero": 4.176527777777777
         },
@@ -10068,37 +10068,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Pulse": {
           "count": 15,
-          "sum": 55.53999999999999,
+          "sum": 55.54,
           "average": 3.7026666666666666,
           "average w/o zero": 4.272307692307693
         },
         "It Books": {
           "count": 28,
-          "sum": 99.88000000000001,
+          "sum": 99.88,
           "average": 3.567142857142857,
           "average w/o zero": 4.161666666666667
         },
         "Thomas Dunne Books": {
           "count": 39,
-          "sum": 159.25999999999996,
+          "sum": 159.26,
           "average": 4.0835897435897435,
           "average w/o zero": 4.4238888888888885
         },
         "Harmony": {
           "count": 61,
-          "sum": 258.84000000000015,
+          "sum": 258.84,
           "average": 4.24327868852459,
           "average w/o zero": 4.3871186440677965
         },
         "Jove": {
           "count": 42,
-          "sum": 175.48999999999998,
+          "sum": 175.49,
           "average": 4.178333333333334,
           "average w/o zero": 4.178333333333334
         },
         "Atria/Emily Bestler Books": {
           "count": 8,
-          "sum": 32.550000000000004,
+          "sum": 32.55,
           "average": 4.06875,
           "average w/o zero": 4.06875
         },
@@ -10110,7 +10110,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 275.68000000000006,
+          "sum": 275.68,
           "average": 4.24123076923077,
           "average w/o zero": 4.24123076923077
         },
@@ -10128,7 +10128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Voyager": {
           "count": 11,
-          "sum": 43.709999999999994,
+          "sum": 43.71,
           "average": 3.9736363636363636,
           "average w/o zero": 4.3709999999999996
         },
@@ -10140,13 +10140,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Three Rivers Press": {
           "count": 21,
-          "sum": 90.82000000000001,
+          "sum": 90.82,
           "average": 4.324761904761905,
           "average w/o zero": 4.324761904761905
         },
         "Atria Books": {
           "count": 100,
-          "sum": 415.6,
+          "sum": 415.59999999999997,
           "average": 4.156,
           "average w/o zero": 4.284536082474227
         },
@@ -10158,7 +10158,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Plume": {
           "count": 57,
-          "sum": 229.95000000000002,
+          "sum": 229.95,
           "average": 4.034210526315789,
           "average w/o zero": 4.258333333333334
         },
@@ -10176,7 +10176,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 127.21000000000001,
+          "sum": 127.21,
           "average": 4.103548387096774,
           "average w/o zero": 4.240333333333333
         },
@@ -10194,7 +10194,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Touchstone": {
           "count": 73,
-          "sum": 303.44999999999993,
+          "sum": 303.45,
           "average": 4.156849315068493,
           "average w/o zero": 4.335
         },
@@ -10212,19 +10212,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Orbit": {
           "count": 51,
-          "sum": 199.15999999999994,
+          "sum": 199.16,
           "average": 3.9050980392156864,
           "average w/o zero": 4.329565217391305
         },
         "DAW": {
           "count": 15,
-          "sum": 63.60000000000001,
+          "sum": 63.6,
           "average": 4.24,
           "average w/o zero": 4.24
         },
         "HarperWave": {
           "count": 6,
-          "sum": 27.06,
+          "sum": 27.060000000000002,
           "average": 4.51,
           "average w/o zero": 4.51
         },
@@ -10236,7 +10236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "The Penguin Press": {
           "count": 28,
-          "sum": 112.35000000000001,
+          "sum": 112.35,
           "average": 4.0125,
           "average w/o zero": 4.161111111111111
         },
@@ -10254,19 +10254,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Witness Impulse": {
           "count": 12,
-          "sum": 51.959999999999994,
+          "sum": 51.96,
           "average": 4.33,
           "average w/o zero": 4.33
         },
         "Hyperion": {
           "count": 63,
-          "sum": 275.7199999999999,
+          "sum": 275.72,
           "average": 4.376507936507936,
           "average w/o zero": 4.376507936507936
         },
         "Avon Impulse": {
           "count": 16,
-          "sum": 57.27,
+          "sum": 57.269999999999996,
           "average": 3.5793749999999998,
           "average w/o zero": 4.405384615384615
         },
@@ -10284,7 +10284,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Free Press": {
           "count": 68,
-          "sum": 289.71999999999997,
+          "sum": 289.72,
           "average": 4.260588235294118,
           "average w/o zero": 4.260588235294118
         },
@@ -10308,7 +10308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 176.73999999999998,
+          "sum": 176.74,
           "average": 3.606938775510204,
           "average w/o zero": 4.4185
         },
@@ -10338,25 +10338,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Aladdin": {
           "count": 86,
-          "sum": 365.2300000000001,
+          "sum": 365.23,
           "average": 4.246860465116279,
           "average w/o zero": 4.623164556962025
         },
         "Crown Business": {
           "count": 55,
-          "sum": 234.48000000000002,
+          "sum": 234.48,
           "average": 4.263272727272727,
           "average w/o zero": 4.342222222222222
         },
         "Howard Books": {
           "count": 24,
-          "sum": 97.35000000000001,
+          "sum": 97.35,
           "average": 4.05625,
           "average w/o zero": 4.635714285714286
         },
         "Nan A. Talese": {
           "count": 5,
-          "sum": 20.740000000000002,
+          "sum": 20.74,
           "average": 4.148,
           "average w/o zero": 4.148
         },
@@ -10368,7 +10368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spectra": {
           "count": 47,
-          "sum": 190.53999999999996,
+          "sum": 190.54,
           "average": 4.054042553191489,
           "average w/o zero": 4.054042553191489
         },
@@ -10392,25 +10392,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Philomel": {
           "count": 7,
-          "sum": 27.700000000000003,
+          "sum": 27.7,
           "average": 3.9571428571428573,
           "average w/o zero": 4.616666666666667
         },
         "Random House Books for Young Readers": {
           "count": 202,
-          "sum": 898.8500000000006,
+          "sum": 898.85,
           "average": 4.449752475247525,
           "average w/o zero": 4.516834170854271
         },
         "Back Bay Books": {
           "count": 11,
-          "sum": 46.199999999999996,
+          "sum": 46.2,
           "average": 4.2,
           "average w/o zero": 4.2
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 277.73999999999995,
+          "sum": 277.74,
           "average": 4.208181818181818,
           "average w/o zero": 4.5531147540983605
         },
@@ -10422,7 +10422,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Multnomah Books": {
           "count": 8,
-          "sum": 32.52,
+          "sum": 32.519999999999996,
           "average": 4.0649999999999995,
           "average w/o zero": 4.645714285714286
         },
@@ -10440,7 +10440,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pantheon": {
           "count": 10,
-          "sum": 34.379999999999995,
+          "sum": 34.38,
           "average": 3.4379999999999997,
           "average w/o zero": 4.2975
         },
@@ -10458,13 +10458,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Two Lions": {
           "count": 64,
-          "sum": 282.24000000000007,
+          "sum": 282.24,
           "average": 4.41,
           "average w/o zero": 4.41
         },
         "Delacorte Books for Young Readers": {
           "count": 20,
-          "sum": 88.77999999999999,
+          "sum": 88.78,
           "average": 4.439,
           "average w/o zero": 4.439
         },
@@ -10494,13 +10494,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 468.5999999999999,
+          "sum": 468.6,
           "average": 4.549514563106796,
           "average w/o zero": 4.549514563106796
         },
         "St. Martin's Paperbacks": {
           "count": 21,
-          "sum": 73.35000000000001,
+          "sum": 73.35,
           "average": 3.492857142857143,
           "average w/o zero": 4.075
         },
@@ -10518,13 +10518,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown Archetype": {
           "count": 28,
-          "sum": 118.36000000000003,
+          "sum": 118.36,
           "average": 4.227142857142857,
           "average w/o zero": 4.227142857142857
         },
         "Avery": {
           "count": 17,
-          "sum": 66.75999999999999,
+          "sum": 66.76,
           "average": 3.927058823529412,
           "average w/o zero": 4.450666666666667
         },
@@ -10548,13 +10548,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Penguin": {
           "count": 37,
-          "sum": 160.43000000000004,
+          "sum": 160.43,
           "average": 4.335945945945946,
           "average w/o zero": 4.335945945945946
         },
         "Penguin Classic": {
           "count": 17,
-          "sum": 73.22999999999999,
+          "sum": 73.23,
           "average": 4.307647058823529,
           "average w/o zero": 4.307647058823529
         },
@@ -10590,19 +10590,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Ten Speed Press": {
           "count": 44,
-          "sum": 185.63999999999993,
+          "sum": 185.64,
           "average": 4.219090909090909,
           "average w/o zero": 4.52780487804878
         },
         "Island Books": {
           "count": 3,
-          "sum": 13.600000000000001,
+          "sum": 13.6,
           "average": 4.533333333333333,
           "average w/o zero": 4.533333333333333
         },
         "Zonderkidz": {
           "count": 27,
-          "sum": 123.74999999999997,
+          "sum": 123.75,
           "average": 4.583333333333333,
           "average w/o zero": 4.583333333333333
         },
@@ -10614,13 +10614,13 @@ VISUALIZER_DATA_BARS = [
         },
         "LucasBooks": {
           "count": 69,
-          "sum": 275.67999999999995,
+          "sum": 275.68,
           "average": 3.99536231884058,
           "average w/o zero": 3.99536231884058
         },
         "Holt Paperbacks": {
           "count": 25,
-          "sum": 108.25999999999999,
+          "sum": 108.26,
           "average": 4.3304,
           "average w/o zero": 4.3304
         },
@@ -10638,7 +10638,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Joe Books": {
           "count": 3,
-          "sum": 13.88,
+          "sum": 13.879999999999999,
           "average": 4.626666666666667,
           "average w/o zero": 4.626666666666667
         },
@@ -10662,7 +10662,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Modern Library": {
           "count": 5,
-          "sum": 22.159999999999997,
+          "sum": 22.16,
           "average": 4.432,
           "average w/o zero": 4.432
         },
@@ -10680,7 +10680,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dial": {
           "count": 10,
-          "sum": 46.970000000000006,
+          "sum": 46.97,
           "average": 4.697,
           "average w/o zero": 4.697
         },
@@ -10728,13 +10728,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 468.78999999999985,
+          "sum": 468.79,
           "average": 4.223333333333334,
           "average w/o zero": 4.507596153846154
         },
         "HarperFestival": {
           "count": 5,
-          "sum": 21.220000000000002,
+          "sum": 21.22,
           "average": 4.244,
           "average w/o zero": 4.244
         },
@@ -10764,7 +10764,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wendy Lamb Books": {
           "count": 5,
-          "sum": 22.19,
+          "sum": 22.189999999999998,
           "average": 4.438,
           "average w/o zero": 4.438
         },
@@ -10782,7 +10782,7 @@ VISUALIZER_DATA_BARS = [
         },
         "William Morrow Cookbooks": {
           "count": 14,
-          "sum": 61.99000000000001,
+          "sum": 61.99,
           "average": 4.4278571428571425,
           "average w/o zero": 4.4278571428571425
         },
@@ -10794,13 +10794,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Greenwillow Books": {
           "count": 17,
-          "sum": 77.00999999999999,
+          "sum": 77.01,
           "average": 4.53,
           "average w/o zero": 4.53
         },
         "Papercutz": {
           "count": 13,
-          "sum": 60.75999999999999,
+          "sum": 60.76,
           "average": 4.673846153846154,
           "average w/o zero": 4.673846153846154
         },
@@ -10812,7 +10812,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon Spotlight": {
           "count": 22,
-          "sum": 84.60000000000001,
+          "sum": 84.6,
           "average": 3.8454545454545457,
           "average w/o zero": 4.7
         },
@@ -10836,7 +10836,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Point Press": {
           "count": 5,
-          "sum": 22.699999999999996,
+          "sum": 22.7,
           "average": 4.54,
           "average w/o zero": 4.54
         },
@@ -10854,7 +10854,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Faber & Faber": {
           "count": 6,
-          "sum": 26.680000000000003,
+          "sum": 26.68,
           "average": 4.446666666666666,
           "average w/o zero": 4.446666666666666
         },
@@ -10896,7 +10896,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Amphoto Books": {
           "count": 9,
-          "sum": 41.57000000000001,
+          "sum": 41.57,
           "average": 4.618888888888889,
           "average w/o zero": 4.618888888888889
         },
@@ -10938,7 +10938,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fawcett": {
           "count": 4,
-          "sum": 15.62,
+          "sum": 15.620000000000001,
           "average": 3.9050000000000002,
           "average w/o zero": 3.9050000000000002
         },
@@ -10950,7 +10950,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hill and Wang": {
           "count": 8,
-          "sum": 34.38999999999999,
+          "sum": 34.39,
           "average": 4.29875,
           "average w/o zero": 4.29875
         },
@@ -11040,19 +11040,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Deepak Chopra": {
           "count": 3,
-          "sum": 13.830000000000002,
+          "sum": 13.83,
           "average": 4.61,
           "average w/o zero": 4.61
         },
         "Potter Craft": {
           "count": 6,
-          "sum": 27.799999999999997,
+          "sum": 27.8,
           "average": 4.633333333333333,
           "average w/o zero": 4.633333333333333
         },
         "Princeton Review": {
           "count": 9,
-          "sum": 34.370000000000005,
+          "sum": 34.37,
           "average": 3.818888888888889,
           "average w/o zero": 3.818888888888889
         },
@@ -11064,7 +11064,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Yen Press": {
           "count": 13,
-          "sum": 54.05000000000001,
+          "sum": 54.05,
           "average": 4.157692307692308,
           "average w/o zero": 4.504166666666666
         },
@@ -11076,7 +11076,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Meadowbrook": {
           "count": 4,
-          "sum": 12.059999999999999,
+          "sum": 12.06,
           "average": 3.015,
           "average w/o zero": 4.02
         },
@@ -11124,7 +11124,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chicken Soup for the Soul": {
           "count": 5,
-          "sum": 23.490000000000002,
+          "sum": 23.49,
           "average": 4.6979999999999995,
           "average w/o zero": 4.6979999999999995
         },
@@ -11178,7 +11178,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Schocken": {
           "count": 4,
-          "sum": 18.290000000000003,
+          "sum": 18.29,
           "average": 4.5725,
           "average w/o zero": 4.5725
         },
@@ -11226,7 +11226,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 35.809999999999995,
+          "sum": 35.81,
           "average": 3.9788888888888887,
           "average w/o zero": 4.47625
         },
@@ -11510,19 +11510,19 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperCollins e-books": {
           "count": 389,
-          "sum": 2932.099999999994,
+          "sum": 2932.1,
           "average": 7.537532133676092,
           "average w/o zero": 7.537532133676092
         },
         "(Small or Medium Publisher)": {
           "count": 9741,
-          "sum": 82579.53000000247,
+          "sum": 82579.53,
           "average": 8.47752078842008,
           "average w/o zero": 8.47752078842008
         },
         "Little, Brown and Company": {
           "count": 161,
-          "sum": 1448.8000000000013,
+          "sum": 1448.8,
           "average": 8.998757763975155,
           "average w/o zero": 8.998757763975155
         },
@@ -11534,7 +11534,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Thomas & Mercer": {
           "count": 110,
-          "sum": 463.91000000000065,
+          "sum": 463.91,
           "average": 4.217363636363636,
           "average w/o zero": 4.217363636363636
         },
@@ -11546,103 +11546,103 @@ VISUALIZER_DATA_BARS = [
         },
         "Doubleday": {
           "count": 26,
-          "sum": 283.0100000000001,
+          "sum": 283.01,
           "average": 10.885,
           "average w/o zero": 10.885
         },
         "Putnam Adult": {
           "count": 54,
-          "sum": 583.1000000000003,
+          "sum": 583.1,
           "average": 10.79814814814815,
           "average w/o zero": 10.79814814814815
         },
         "(Indie Publisher)": {
           "count": 5946,
-          "sum": 20383.620000000657,
+          "sum": 20383.62,
           "average": 3.428123107971746,
           "average w/o zero": 3.428123107971746
         },
         "William Morrow Paperbacks": {
           "count": 46,
-          "sum": 368.0499999999999,
+          "sum": 368.05,
           "average": 8.001086956521739,
           "average w/o zero": 8.001086956521739
         },
         "Knopf Books for Young Readers": {
           "count": 35,
-          "sum": 227.46999999999989,
+          "sum": 227.47,
           "average": 6.499142857142857,
           "average w/o zero": 6.499142857142857
         },
         "Skyscape": {
           "count": 17,
-          "sum": 70.84000000000002,
+          "sum": 70.84,
           "average": 4.167058823529412,
           "average w/o zero": 4.167058823529412
         },
         "Amazon Publishing": {
           "count": 26,
-          "sum": 131.76999999999995,
+          "sum": 131.77,
           "average": 5.068076923076923,
           "average w/o zero": 5.068076923076923
         },
         "Simon & Schuster": {
           "count": 209,
-          "sum": 2145.580000000002,
+          "sum": 2145.58,
           "average": 10.265933014354067,
           "average w/o zero": 10.265933014354067
         },
         "(Single-Author Publisher)": {
           "count": 3608,
-          "sum": 17205.759999999667,
+          "sum": 17205.760000000002,
           "average": 4.768780487804878,
           "average w/o zero": 4.768780487804878
         },
         "Viking Adult": {
           "count": 38,
-          "sum": 442.52000000000015,
+          "sum": 442.52,
           "average": 11.645263157894737,
           "average w/o zero": 11.645263157894737
         },
         "Montlake Romance": {
           "count": 78,
-          "sum": 296.25000000000034,
+          "sum": 296.25,
           "average": 3.7980769230769234,
           "average w/o zero": 3.7980769230769234
         },
         "William Morrow": {
           "count": 84,
-          "sum": 714.0000000000001,
+          "sum": 714.0,
           "average": 8.5,
           "average w/o zero": 8.5
         },
         "HarperPerennial Classics": {
           "count": 6,
-          "sum": 5.94,
+          "sum": 5.9399999999999995,
           "average": 0.99,
           "average w/o zero": 0.99
         },
         "Crown": {
           "count": 37,
-          "sum": 373.17000000000013,
+          "sum": 373.17,
           "average": 10.085675675675676,
           "average w/o zero": 10.085675675675676
         },
         "Random House": {
           "count": 87,
-          "sum": 915.2400000000005,
+          "sum": 915.24,
           "average": 10.52,
           "average w/o zero": 10.52
         },
         "47North": {
           "count": 77,
-          "sum": 326.24000000000035,
+          "sum": 326.24,
           "average": 4.236883116883117,
           "average w/o zero": 4.236883116883117
         },
         "Loveswept": {
           "count": 12,
-          "sum": 25.88000000000001,
+          "sum": 25.880000000000003,
           "average": 2.1566666666666667,
           "average w/o zero": 2.1566666666666667
         },
@@ -11654,37 +11654,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Berkley": {
           "count": 181,
-          "sum": 1269.2400000000016,
+          "sum": 1269.24,
           "average": 7.012375690607735,
           "average w/o zero": 7.012375690607735
         },
         "Dutton Adult": {
           "count": 32,
-          "sum": 330.04000000000013,
+          "sum": 330.04,
           "average": 10.31375,
           "average w/o zero": 10.31375
         },
         "Bantam": {
           "count": 150,
-          "sum": 1278.3100000000004,
+          "sum": 1278.31,
           "average": 8.522066666666667,
           "average w/o zero": 8.522066666666667
         },
         "AmazonEncore": {
           "count": 12,
-          "sum": 46.88000000000001,
+          "sum": 46.88,
           "average": 3.9066666666666667,
           "average w/o zero": 3.9066666666666667
         },
         "Grand Central Publishing": {
           "count": 107,
-          "sum": 903.9600000000004,
+          "sum": 903.96,
           "average": 8.448224299065421,
           "average w/o zero": 8.448224299065421
         },
         "Penguin Books": {
           "count": 149,
-          "sum": 1537.8500000000001,
+          "sum": 1537.85,
           "average": 10.321140939597315,
           "average w/o zero": 10.321140939597315
         },
@@ -11696,13 +11696,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Vintage": {
           "count": 190,
-          "sum": 1835.8799999999997,
+          "sum": 1835.88,
           "average": 9.662526315789474,
           "average w/o zero": 9.662526315789474
         },
         "St. Martin's Press": {
           "count": 159,
-          "sum": 1435.3500000000015,
+          "sum": 1435.3500000000001,
           "average": 9.027358490566037,
           "average w/o zero": 9.027358490566037
         },
@@ -11714,13 +11714,13 @@ VISUALIZER_DATA_BARS = [
         },
         "InterMix": {
           "count": 5,
-          "sum": 21.480000000000004,
+          "sum": 21.48,
           "average": 4.296,
           "average w/o zero": 4.296
         },
         "Henry Holt and Co.": {
           "count": 46,
-          "sum": 389.2499999999999,
+          "sum": 389.25,
           "average": 8.46195652173913,
           "average w/o zero": 8.46195652173913
         },
@@ -11738,31 +11738,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper": {
           "count": 61,
-          "sum": 578.2600000000002,
+          "sum": 578.26,
           "average": 9.479672131147542,
           "average w/o zero": 9.479672131147542
         },
         "Margaret K. McElderry Books": {
           "count": 21,
-          "sum": 224.01,
+          "sum": 224.01000000000002,
           "average": 10.667142857142858,
           "average w/o zero": 10.667142857142858
         },
         "Dell": {
           "count": 49,
-          "sum": 364.9100000000003,
+          "sum": 364.91,
           "average": 7.4471428571428575,
           "average w/o zero": 7.4471428571428575
         },
         "Tor Books": {
           "count": 84,
-          "sum": 641.9400000000002,
+          "sum": 641.94,
           "average": 7.642142857142857,
           "average w/o zero": 7.642142857142857
         },
         "Broadway Books": {
           "count": 70,
-          "sum": 653.4000000000004,
+          "sum": 653.4,
           "average": 9.334285714285715,
           "average w/o zero": 9.334285714285715
         },
@@ -11774,13 +11774,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ballantine Books": {
           "count": 164,
-          "sum": 1439.5300000000007,
+          "sum": 1439.53,
           "average": 8.777621951219512,
           "average w/o zero": 8.777621951219512
         },
         "Delacorte Press": {
           "count": 54,
-          "sum": 419.1700000000001,
+          "sum": 419.17,
           "average": 7.762407407407408,
           "average w/o zero": 7.762407407407408
         },
@@ -11792,13 +11792,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Riverhead": {
           "count": 48,
-          "sum": 496.0800000000002,
+          "sum": 496.08,
           "average": 10.335,
           "average w/o zero": 10.335
         },
         "Avon": {
           "count": 34,
-          "sum": 178.07999999999998,
+          "sum": 178.08,
           "average": 5.237647058823529,
           "average w/o zero": 5.237647058823529
         },
@@ -11810,55 +11810,55 @@ VISUALIZER_DATA_BARS = [
         },
         "Zondervan": {
           "count": 70,
-          "sum": 460.8200000000003,
+          "sum": 460.82,
           "average": 6.583142857142858,
           "average w/o zero": 6.583142857142858
         },
         "Threshold Editions": {
           "count": 15,
-          "sum": 156.26999999999995,
+          "sum": 156.27,
           "average": 10.418,
           "average w/o zero": 10.418
         },
         "Del Rey": {
           "count": 48,
-          "sum": 370.4400000000002,
+          "sum": 370.44,
           "average": 7.7175,
           "average w/o zero": 7.7175
         },
         "Gallery Books": {
           "count": 64,
-          "sum": 574.8900000000002,
+          "sum": 574.89,
           "average": 8.98265625,
           "average w/o zero": 8.98265625
         },
         "Roc": {
           "count": 16,
-          "sum": 173.61999999999998,
+          "sum": 173.62,
           "average": 10.85125,
           "average w/o zero": 10.85125
         },
         "NAL": {
           "count": 36,
-          "sum": 325.3800000000001,
+          "sum": 325.38,
           "average": 9.038333333333334,
           "average w/o zero": 9.038333333333334
         },
         "Farrar, Straus and Giroux": {
           "count": 90,
-          "sum": 746.4299999999997,
+          "sum": 746.4300000000001,
           "average": 8.293666666666667,
           "average w/o zero": 8.293666666666667
         },
         "Anchor": {
           "count": 77,
-          "sum": 730.9700000000004,
+          "sum": 730.97,
           "average": 9.493116883116883,
           "average w/o zero": 9.493116883116883
         },
         "AmazonCrossing": {
           "count": 32,
-          "sum": 130.69999999999996,
+          "sum": 130.70000000000002,
           "average": 4.0843750000000005,
           "average w/o zero": 4.0843750000000005
         },
@@ -11882,43 +11882,43 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperCollins": {
           "count": 253,
-          "sum": 1531.5700000000013,
+          "sum": 1531.57,
           "average": 6.053636363636364,
           "average w/o zero": 6.053636363636364
         },
         "Spiegel & Grau": {
           "count": 22,
-          "sum": 214.43000000000004,
+          "sum": 214.43,
           "average": 9.746818181818181,
           "average w/o zero": 9.746818181818181
         },
         "Gotham Books": {
           "count": 28,
-          "sum": 309.5200000000001,
+          "sum": 309.52,
           "average": 11.054285714285715,
           "average w/o zero": 11.054285714285715
         },
         "Thomas Nelson": {
           "count": 93,
-          "sum": 842.0900000000005,
+          "sum": 842.09,
           "average": 9.054731182795699,
           "average w/o zero": 9.054731182795699
         },
         "Pocket Books": {
           "count": 75,
-          "sum": 540.6299999999999,
+          "sum": 540.63,
           "average": 7.2084,
           "average w/o zero": 7.2084
         },
         "Mulholland Books": {
           "count": 9,
-          "sum": 89.75999999999999,
+          "sum": 89.76,
           "average": 9.973333333333333,
           "average w/o zero": 9.973333333333333
         },
         "HarperTeen": {
           "count": 30,
-          "sum": 229.62000000000003,
+          "sum": 229.62,
           "average": 7.654,
           "average w/o zero": 7.654
         },
@@ -11942,19 +11942,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Harmony": {
           "count": 61,
-          "sum": 632.7800000000003,
+          "sum": 632.78,
           "average": 10.37344262295082,
           "average w/o zero": 10.37344262295082
         },
         "Jove": {
           "count": 42,
-          "sum": 298.8500000000002,
+          "sum": 298.85,
           "average": 7.1154761904761905,
           "average w/o zero": 7.1154761904761905
         },
         "Atria/Emily Bestler Books": {
           "count": 8,
-          "sum": 64.08000000000001,
+          "sum": 64.08,
           "average": 8.01,
           "average w/o zero": 8.01
         },
@@ -11966,13 +11966,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet": {
           "count": 65,
-          "sum": 465.60000000000036,
+          "sum": 465.6,
           "average": 7.163076923076924,
           "average w/o zero": 7.163076923076924
         },
         "Forge Books": {
           "count": 21,
-          "sum": 165.59000000000003,
+          "sum": 165.59,
           "average": 7.885238095238095,
           "average w/o zero": 7.885238095238095
         },
@@ -11984,7 +11984,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Voyager": {
           "count": 11,
-          "sum": 61.96000000000001,
+          "sum": 61.96,
           "average": 5.632727272727273,
           "average w/o zero": 5.632727272727273
         },
@@ -12002,19 +12002,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Atria Books": {
           "count": 100,
-          "sum": 917.1300000000001,
+          "sum": 917.13,
           "average": 9.1713,
           "average w/o zero": 9.1713
         },
         "St. Martin's Griffin": {
           "count": 43,
-          "sum": 366.57999999999987,
+          "sum": 366.58000000000004,
           "average": 8.525116279069767,
           "average w/o zero": 8.525116279069767
         },
         "Plume": {
           "count": 57,
-          "sum": 540.3300000000003,
+          "sum": 540.33,
           "average": 9.479473684210527,
           "average w/o zero": 9.479473684210527
         },
@@ -12032,7 +12032,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Random House Trade Paperbacks": {
           "count": 31,
-          "sum": 300.35000000000014,
+          "sum": 300.35,
           "average": 9.688709677419356,
           "average w/o zero": 9.688709677419356
         },
@@ -12050,7 +12050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Touchstone": {
           "count": 73,
-          "sum": 743.5400000000001,
+          "sum": 743.54,
           "average": 10.185479452054794,
           "average w/o zero": 10.185479452054794
         },
@@ -12062,13 +12062,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Putnam Juvenile": {
           "count": 11,
-          "sum": 80.77000000000001,
+          "sum": 80.77,
           "average": 7.342727272727273,
           "average w/o zero": 7.342727272727273
         },
         "Orbit": {
           "count": 51,
-          "sum": 389.1500000000002,
+          "sum": 389.15000000000003,
           "average": 7.6303921568627455,
           "average w/o zero": 7.6303921568627455
         },
@@ -12086,19 +12086,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Sarah Crichton Books": {
           "count": 9,
-          "sum": 89.07999999999998,
+          "sum": 89.08,
           "average": 9.897777777777778,
           "average w/o zero": 9.897777777777778
         },
         "The Penguin Press": {
           "count": 28,
-          "sum": 327.47000000000014,
+          "sum": 327.47,
           "average": 11.695357142857143,
           "average w/o zero": 11.695357142857143
         },
         "Ace": {
           "count": 50,
-          "sum": 402.0800000000002,
+          "sum": 402.08,
           "average": 8.0416,
           "average w/o zero": 8.0416
         },
@@ -12110,37 +12110,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Witness Impulse": {
           "count": 12,
-          "sum": 24.389999999999997,
+          "sum": 24.39,
           "average": 2.0325,
           "average w/o zero": 2.0325
         },
         "Hyperion": {
           "count": 63,
-          "sum": 566.1200000000001,
+          "sum": 566.12,
           "average": 8.986031746031745,
           "average w/o zero": 8.986031746031745
         },
         "Avon Impulse": {
           "count": 16,
-          "sum": 30.639999999999993,
+          "sum": 30.64,
           "average": 1.915,
           "average w/o zero": 1.915
         },
         "Blue Rider Press": {
           "count": 9,
-          "sum": 93.57,
+          "sum": 93.57000000000001,
           "average": 10.396666666666667,
           "average w/o zero": 10.396666666666667
         },
         "FaithWords": {
           "count": 11,
-          "sum": 94.78999999999999,
+          "sum": 94.79,
           "average": 8.617272727272727,
           "average w/o zero": 8.617272727272727
         },
         "Free Press": {
           "count": 68,
-          "sum": 815.4600000000003,
+          "sum": 815.46,
           "average": 11.992058823529412,
           "average w/o zero": 11.992058823529412
         },
@@ -12164,7 +12164,7 @@ VISUALIZER_DATA_BARS = [
         },
         "HarperOne": {
           "count": 49,
-          "sum": 489.0800000000001,
+          "sum": 489.08,
           "average": 9.981224489795919,
           "average w/o zero": 9.981224489795919
         },
@@ -12176,13 +12176,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Delta": {
           "count": 7,
-          "sum": 63.9,
+          "sum": 63.900000000000006,
           "average": 9.128571428571428,
           "average w/o zero": 9.128571428571428
         },
         "Simon & Schuster Books for Young Readers": {
           "count": 46,
-          "sum": 334.00999999999993,
+          "sum": 334.01,
           "average": 7.261086956521739,
           "average w/o zero": 7.261086956521739
         },
@@ -12194,7 +12194,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Aladdin": {
           "count": 86,
-          "sum": 496.51000000000016,
+          "sum": 496.51,
           "average": 5.773372093023256,
           "average w/o zero": 5.773372093023256
         },
@@ -12206,7 +12206,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Howard Books": {
           "count": 24,
-          "sum": 232.93999999999994,
+          "sum": 232.94,
           "average": 9.705833333333333,
           "average w/o zero": 9.705833333333333
         },
@@ -12218,19 +12218,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Perigee": {
           "count": 18,
-          "sum": 171.03000000000003,
+          "sum": 171.03,
           "average": 9.501666666666667,
           "average w/o zero": 9.501666666666667
         },
         "Spectra": {
           "count": 47,
-          "sum": 306.38000000000017,
+          "sum": 306.38,
           "average": 6.5187234042553195,
           "average w/o zero": 6.5187234042553195
         },
         "Atheneum Books for Young Readers": {
           "count": 36,
-          "sum": 220.32999999999998,
+          "sum": 220.33,
           "average": 6.120277777777778,
           "average w/o zero": 6.120277777777778
         },
@@ -12254,19 +12254,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Random House Books for Young Readers": {
           "count": 202,
-          "sum": 922.1199999999995,
+          "sum": 922.12,
           "average": 4.564950495049505,
           "average w/o zero": 4.564950495049505
         },
         "Back Bay Books": {
           "count": 11,
-          "sum": 106.78999999999998,
+          "sum": 106.79,
           "average": 9.708181818181819,
           "average w/o zero": 9.708181818181819
         },
         "Little, Brown Books for Young Readers": {
           "count": 66,
-          "sum": 490.7700000000002,
+          "sum": 490.77000000000004,
           "average": 7.4359090909090915,
           "average w/o zero": 7.4359090909090915
         },
@@ -12284,19 +12284,19 @@ VISUALIZER_DATA_BARS = [
         },
         "WaterBrook Press": {
           "count": 20,
-          "sum": 178.98000000000005,
+          "sum": 178.98,
           "average": 8.949,
           "average w/o zero": 8.949
         },
         "Portfolio": {
           "count": 83,
-          "sum": 878.0000000000002,
+          "sum": 878.0,
           "average": 10.578313253012048,
           "average w/o zero": 10.578313253012048
         },
         "Pantheon": {
           "count": 10,
-          "sum": 107.36999999999999,
+          "sum": 107.37,
           "average": 10.737,
           "average w/o zero": 10.737
         },
@@ -12308,25 +12308,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Reader's Digest": {
           "count": 3,
-          "sum": 21.770000000000003,
+          "sum": 21.77,
           "average": 7.256666666666667,
           "average w/o zero": 7.256666666666667
         },
         "Two Lions": {
           "count": 64,
-          "sum": 192.05000000000007,
+          "sum": 192.05,
           "average": 3.00078125,
           "average w/o zero": 3.00078125
         },
         "Delacorte Books for Young Readers": {
           "count": 20,
-          "sum": 136.42999999999995,
+          "sum": 136.43,
           "average": 6.8215,
           "average w/o zero": 6.8215
         },
         "Laurel Leaf": {
           "count": 8,
-          "sum": 44.99000000000001,
+          "sum": 44.99,
           "average": 5.62375,
           "average w/o zero": 5.62375
         },
@@ -12350,7 +12350,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puffin": {
           "count": 103,
-          "sum": 617.8800000000005,
+          "sum": 617.88,
           "average": 5.998834951456311,
           "average w/o zero": 5.998834951456311
         },
@@ -12374,7 +12374,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Crown Archetype": {
           "count": 28,
-          "sum": 282.5200000000001,
+          "sum": 282.52,
           "average": 10.09,
           "average w/o zero": 10.09
         },
@@ -12398,7 +12398,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Element": {
           "count": 22,
-          "sum": 93.31999999999996,
+          "sum": 93.32,
           "average": 4.241818181818182,
           "average w/o zero": 4.241818181818182
         },
@@ -12410,19 +12410,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Penguin Classic": {
           "count": 17,
-          "sum": 157.83999999999997,
+          "sum": 157.84,
           "average": 9.284705882352942,
           "average w/o zero": 9.284705882352942
         },
         "Tarcher": {
           "count": 22,
-          "sum": 219.88000000000002,
+          "sum": 219.88,
           "average": 9.994545454545454,
           "average w/o zero": 9.994545454545454
         },
         "Balzer + Bray": {
           "count": 12,
-          "sum": 84.21000000000001,
+          "sum": 84.21,
           "average": 7.0175,
           "average w/o zero": 7.0175
         },
@@ -12434,7 +12434,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pocket Books/Star Trek": {
           "count": 61,
-          "sum": 483.8199999999999,
+          "sum": 483.82,
           "average": 7.931475409836065,
           "average w/o zero": 7.931475409836065
         },
@@ -12446,7 +12446,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ten Speed Press": {
           "count": 44,
-          "sum": 556.7900000000002,
+          "sum": 556.79,
           "average": 12.654318181818182,
           "average w/o zero": 12.654318181818182
         },
@@ -12458,7 +12458,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Zonderkidz": {
           "count": 27,
-          "sum": 110.57999999999997,
+          "sum": 110.58,
           "average": 4.095555555555555,
           "average w/o zero": 4.095555555555555
         },
@@ -12470,13 +12470,13 @@ VISUALIZER_DATA_BARS = [
         },
         "LucasBooks": {
           "count": 69,
-          "sum": 472.7300000000004,
+          "sum": 472.73,
           "average": 6.851159420289855,
           "average w/o zero": 6.851159420289855
         },
         "Holt Paperbacks": {
           "count": 25,
-          "sum": 189.16999999999996,
+          "sum": 189.17000000000002,
           "average": 7.566800000000001,
           "average w/o zero": 7.566800000000001
         },
@@ -12512,7 +12512,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bantam Classics": {
           "count": 5,
-          "sum": 16.040000000000003,
+          "sum": 16.04,
           "average": 3.208,
           "average w/o zero": 3.208
         },
@@ -12524,7 +12524,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Collins": {
           "count": 8,
-          "sum": 58.36000000000001,
+          "sum": 58.36,
           "average": 7.295,
           "average w/o zero": 7.295
         },
@@ -12548,7 +12548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Twelve": {
           "count": 15,
-          "sum": 160.14999999999998,
+          "sum": 160.15,
           "average": 10.676666666666668,
           "average w/o zero": 10.676666666666668
         },
@@ -12560,7 +12560,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harper Perennial": {
           "count": 21,
-          "sum": 191.75000000000006,
+          "sum": 191.75,
           "average": 9.130952380952381,
           "average w/o zero": 9.130952380952381
         },
@@ -12584,7 +12584,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grosset & Dunlap": {
           "count": 111,
-          "sum": 541.5900000000001,
+          "sum": 541.59,
           "average": 4.879189189189189,
           "average w/o zero": 4.879189189189189
         },
@@ -12674,7 +12674,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Business Plus": {
           "count": 16,
-          "sum": 170.43999999999994,
+          "sum": 170.44,
           "average": 10.6525,
           "average w/o zero": 10.6525
         },
@@ -12692,7 +12692,7 @@ VISUALIZER_DATA_BARS = [
         },
         "North Point Press": {
           "count": 5,
-          "sum": 45.629999999999995,
+          "sum": 45.63,
           "average": 9.126,
           "average w/o zero": 9.126
         },
@@ -12704,7 +12704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Celestial Arts": {
           "count": 5,
-          "sum": 57.800000000000004,
+          "sum": 57.8,
           "average": 11.56,
           "average w/o zero": 11.56
         },
@@ -12740,13 +12740,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Clarkson Potter": {
           "count": 37,
-          "sum": 493.09000000000003,
+          "sum": 493.09,
           "average": 13.326756756756756,
           "average w/o zero": 13.326756756756756
         },
         "Villard": {
           "count": 6,
-          "sum": 60.410000000000004,
+          "sum": 60.41,
           "average": 10.068333333333333,
           "average w/o zero": 10.068333333333333
         },
@@ -12758,7 +12758,7 @@ VISUALIZER_DATA_BARS = [
         },
         "DK Publishing": {
           "count": 27,
-          "sum": 112.32999999999997,
+          "sum": 112.33,
           "average": 4.16037037037037,
           "average w/o zero": 4.16037037037037
         },
@@ -12800,7 +12800,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Page Street Publishing": {
           "count": 3,
-          "sum": 28.870000000000005,
+          "sum": 28.87,
           "average": 9.623333333333333,
           "average w/o zero": 9.623333333333333
         },
@@ -12830,7 +12830,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Signet Classic": {
           "count": 4,
-          "sum": 22.980000000000004,
+          "sum": 22.98,
           "average": 5.745,
           "average w/o zero": 5.745
         },
@@ -12854,7 +12854,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Roaring Brook Press": {
           "count": 7,
-          "sum": 53.61000000000001,
+          "sum": 53.61,
           "average": 7.658571428571429,
           "average w/o zero": 7.658571428571429
         },
@@ -12890,7 +12890,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Thorsons": {
           "count": 5,
-          "sum": 42.830000000000005,
+          "sum": 42.83,
           "average": 8.566,
           "average w/o zero": 8.566
         },
@@ -12908,7 +12908,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Princeton Review": {
           "count": 9,
-          "sum": 99.71,
+          "sum": 99.71000000000001,
           "average": 11.078888888888889,
           "average w/o zero": 11.078888888888889
         },
@@ -12962,7 +12962,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alpha": {
           "count": 5,
-          "sum": 41.73,
+          "sum": 41.730000000000004,
           "average": 8.346,
           "average w/o zero": 8.346
         },
@@ -13016,7 +13016,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fodor's": {
           "count": 18,
-          "sum": 245.14000000000001,
+          "sum": 245.14,
           "average": 13.618888888888888,
           "average w/o zero": 13.618888888888888
         },
@@ -13052,7 +13052,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington Square Press": {
           "count": 4,
-          "sum": 41.77,
+          "sum": 41.769999999999996,
           "average": 10.442499999999999,
           "average w/o zero": 10.442499999999999
         },
@@ -13082,7 +13082,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Golden Books": {
           "count": 9,
-          "sum": 31.88,
+          "sum": 31.880000000000003,
           "average": 3.542222222222222,
           "average w/o zero": 3.542222222222222
         },
@@ -13112,7 +13112,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Watson-Guptill": {
           "count": 16,
-          "sum": 205.68000000000004,
+          "sum": 205.68,
           "average": 12.855,
           "average w/o zero": 12.855
         },
@@ -13154,7 +13154,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rough Guides": {
           "count": 4,
-          "sum": 45.21000000000001,
+          "sum": 45.21,
           "average": 11.3025,
           "average w/o zero": 11.3025
         },
@@ -13316,7 +13316,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Simon & Schuster/Paula Wiseman Books": {
           "count": 4,
-          "sum": 31.910000000000004,
+          "sum": 31.91,
           "average": 7.9775,
           "average w/o zero": 7.9775
         },
@@ -17401,31 +17401,31 @@ VISUALIZER_DATA_BARS = [
       "daily average.amazon revenue": {
         "big five": {
           "count": 7309,
-          "sum": 434520.4819999975,
+          "sum": 434520.482,
           "average": 59.45005910521275,
           "average w/o zero": 59.45005910521275
         },
         "small/medium": {
           "count": 9741,
-          "sum": 162296.84199999683,
+          "sum": 162296.842,
           "average": 16.661209526742635,
           "average w/o zero": 16.661209526742635
         },
         "amazon": {
           "count": 423,
-          "sum": 163328.9840000002,
+          "sum": 163328.984,
           "average": 386.1205295508274,
           "average w/o zero": 386.1205295508274
         },
         "indie": {
           "count": 5946,
-          "sum": 222333.12549999313,
+          "sum": 222333.1255,
           "average": 37.3920493609149,
           "average w/o zero": 37.3920493609149
         },
         "single author": {
           "count": 3608,
-          "sum": 43977.29000000044,
+          "sum": 43977.29,
           "average": 12.188827605321508,
           "average w/o zero": 12.188827605321508
         }
@@ -17433,31 +17433,31 @@ VISUALIZER_DATA_BARS = [
       "daily average.author revenue": {
         "big five": {
           "count": 7309,
-          "sum": 434520.4819999975,
+          "sum": 434520.482,
           "average": 59.45005910521275,
           "average w/o zero": 59.45005910521275
         },
         "small/medium": {
           "count": 9741,
-          "sum": 162296.84199999683,
+          "sum": 162296.842,
           "average": 16.661209526742635,
           "average w/o zero": 16.661209526742635
         },
         "amazon": {
           "count": 423,
-          "sum": 87946.37600000005,
+          "sum": 87946.376,
           "average": 207.91105437352246,
           "average w/o zero": 207.91105437352246
         },
         "indie": {
           "count": 5946,
-          "sum": 391951.23449999874,
+          "sum": 391951.2345,
           "average": 65.91847199798184,
           "average w/o zero": 65.91847199798184
         },
         "single author": {
           "count": 3608,
-          "sum": 43977.29000000044,
+          "sum": 43977.29,
           "average": 12.188827605321508,
           "average w/o zero": 12.188827605321508
         }
@@ -17465,31 +17465,31 @@ VISUALIZER_DATA_BARS = [
       "daily average.gross sales": {
         "big five": {
           "count": 7309,
-          "sum": 2172602.410000056,
+          "sum": 2172602.41,
           "average": 297.2502955260638,
           "average w/o zero": 297.2502955260638
         },
         "small/medium": {
           "count": 9741,
-          "sum": 811484.2099999526,
+          "sum": 811484.21,
           "average": 83.30604763371318,
           "average w/o zero": 83.30604763371318
         },
         "amazon": {
           "count": 423,
-          "sum": 251275.3599999998,
+          "sum": 251275.36000000002,
           "average": 594.0315839243499,
           "average w/o zero": 594.0315839243499
         },
         "indie": {
           "count": 5946,
-          "sum": 614284.3599999765,
+          "sum": 614284.36,
           "average": 103.31052135889674,
           "average w/o zero": 103.31052135889674
         },
         "single author": {
           "count": 3608,
-          "sum": 219886.45000000112,
+          "sum": 219886.45,
           "average": 60.94413802660754,
           "average w/o zero": 60.94413802660754
         }
@@ -17497,13 +17497,13 @@ VISUALIZER_DATA_BARS = [
       "daily average.publisher revenue": {
         "big five": {
           "count": 7309,
-          "sum": 1303561.4459999579,
+          "sum": 1303561.446,
           "average": 178.35017731563826,
           "average w/o zero": 178.35017731563826
         },
         "small/medium": {
           "count": 9741,
-          "sum": 486890.52600000263,
+          "sum": 486890.526,
           "average": 49.9836285802279,
           "average w/o zero": 49.9836285802279
         },
@@ -17521,7 +17521,7 @@ VISUALIZER_DATA_BARS = [
         },
         "single author": {
           "count": 3608,
-          "sum": 131931.87000000145,
+          "sum": 131931.87,
           "average": 36.56648281596452,
           "average w/o zero": 36.56648281596452
         }
@@ -17561,31 +17561,31 @@ VISUALIZER_DATA_BARS = [
       "statistics.average rating": {
         "big five": {
           "count": 7309,
-          "sum": 30192.499999999953,
+          "sum": 30192.5,
           "average": 4.130866055547955,
           "average w/o zero": 4.318766986125018
         },
         "small/medium": {
           "count": 9741,
-          "sum": 40673.85000000035,
+          "sum": 40673.85,
           "average": 4.175531259624268,
           "average w/o zero": 4.3725919157170505
         },
         "amazon": {
           "count": 423,
-          "sum": 1694.3200000000004,
+          "sum": 1694.32,
           "average": 4.00548463356974,
           "average w/o zero": 4.214726368159204
         },
         "indie": {
           "count": 5946,
-          "sum": 24717.62999999992,
+          "sum": 24717.63,
           "average": 4.157018163471241,
           "average w/o zero": 4.334145186743819
         },
         "single author": {
           "count": 3608,
-          "sum": 15148.249999999976,
+          "sum": 15148.25,
           "average": 4.1985171840354765,
           "average w/o zero": 4.394618508848274
         }
@@ -17593,31 +17593,31 @@ VISUALIZER_DATA_BARS = [
       "statistics.sale price": {
         "big five": {
           "count": 7309,
-          "sum": 61309.679999998996,
+          "sum": 61309.68,
           "average": 8.388244629908332,
           "average w/o zero": 8.388244629908332
         },
         "small/medium": {
           "count": 9741,
-          "sum": 82579.53000000247,
+          "sum": 82579.53,
           "average": 8.47752078842008,
           "average w/o zero": 8.47752078842008
         },
         "amazon": {
           "count": 423,
-          "sum": 1696.5700000000031,
+          "sum": 1696.5700000000002,
           "average": 4.01080378250591,
           "average w/o zero": 4.01080378250591
         },
         "indie": {
           "count": 5946,
-          "sum": 20383.620000000657,
+          "sum": 20383.62,
           "average": 3.428123107971746,
           "average w/o zero": 3.428123107971746
         },
         "single author": {
           "count": 3608,
-          "sum": 17205.759999999667,
+          "sum": 17205.760000000002,
           "average": 4.768780487804878,
           "average w/o zero": 4.768780487804878
         }

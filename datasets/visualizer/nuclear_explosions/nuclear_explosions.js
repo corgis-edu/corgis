@@ -8215,11 +8215,11 @@ VISUALIZER_DATA = [
       28.9,
       28.49
     ],
-    "name": "Location.Cordinates.Latitude",
+    "name": "Location.Coordinates.Latitude",
     "comment": "Latitude position",
     "index": false,
     "type": "number",
-    "pretty": "Location.Cordinates.Latitude"
+    "pretty": "Location.Coordinates.Latitude"
   },
   {
     "data": [
@@ -10270,11 +10270,11 @@ VISUALIZER_DATA = [
       64.89,
       63.78
     ],
-    "name": "Location.Cordinates.Longitude",
+    "name": "Location.Coordinates.Longitude",
     "comment": "Longitude position",
     "index": false,
     "type": "number",
-    "pretty": "Location.Cordinates.Longitude"
+    "pretty": "Location.Coordinates.Longitude"
   },
   {
     "data": [
@@ -16435,11 +16435,11 @@ VISUALIZER_DATA = [
       0.0,
       0.0
     ],
-    "name": "Location.Cordinates.Depth",
+    "name": "Location.Coordinates .Depth",
     "comment": "\tDepth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)",
     "index": false,
     "type": "number",
-    "pretty": "Location.Cordinates.Depth"
+    "pretty": "Location.Coordinates .Depth"
   },
   {
     "data": [
@@ -18490,11 +18490,11 @@ VISUALIZER_DATA = [
       0.0,
       0.0
     ],
-    "name": "Data.Yeild.Lower",
+    "name": "Data.Yield.Lower",
     "comment": "Explosion yield lower estimate in kilotons of TNT",
     "index": false,
     "type": "number",
-    "pretty": "Data.Yeild.Lower"
+    "pretty": "Data.Yield.Lower"
   },
   {
     "data": [
@@ -20545,11 +20545,11 @@ VISUALIZER_DATA = [
       35.0,
       18.0
     ],
-    "name": "Data.Yeild.Upper",
+    "name": "Data.Yield.Upper",
     "comment": "Explosion yield upper estimate in kilotons of TNT",
     "index": false,
     "type": "number",
-    "pretty": "Data.Yeild.Upper"
+    "pretty": "Data.Yield.Upper"
   },
   {
     "data": [

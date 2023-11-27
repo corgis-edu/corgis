@@ -1,4 +1,4 @@
-"Location.Country","Location.Region","Data.Source","Location.Cordinates.Latitude","Location.Cordinates.Longitude","Data.Magnitude.Body","Data.Magnitude.Surface","Location.Cordinates.Depth","Data.Yeild.Lower","Data.Yeild.Upper","Data.Purpose","Data.Name","Data.Type","Date.Day","Date.Month","Date.Year"
+"Location.Country","Location.Region","Data.Source","Location.Coordinates.Latitude","Location.Coordinates.Longitude","Data.Magnitude.Body","Data.Magnitude.Surface","Location.Coordinates .Depth","Data.Yield.Lower","Data.Yield.Upper","Data.Purpose","Data.Name","Data.Type","Date.Day","Date.Month","Date.Year"
 "USA","Alamogordo","DOE","32.54","-105.57","0.0","0.0","-0.1","21.0","21.0","Wr","Trinity","Tower","16","7","1945"
 "USA","Hiroshima","DOE","34.23","132.27","0.0","0.0","-0.6","15.0","15.0","Combat","Littleboy","Airdrop","5","8","1945"
 "USA","Nagasaki","DOE","32.45","129.52","0.0","0.0","-0.6","21.0","21.0","Combat","Fatman","Airdrop","9","8","1945"

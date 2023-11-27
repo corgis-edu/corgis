@@ -13,7 +13,7 @@ style: dataset
 <p class='lead'>From the CORGIS Dataset Project</p>
 
 <span class='text-muted'>By Sam Donald</span><br>
-<span class='text-muted'>Version 1.0.0, created 10/28/2022</span><br>
+<span class='text-muted'>Version 1.0.1, created 10/28/2022</span><br>
 <span class='text-muted'>Tags: Nuclear, Atomic bomb, War</span>
 
 # Overview
@@ -64,14 +64,14 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Location.Cordinates.Latitude</td>
+    <td>Location.Coordinates.Latitude</td>
     <td>Float</td> 
     <td>Latitude position</td>
     <td><code>32.54</code></td>
 </tr>
 
 <tr>
-    <td>Location.Cordinates.Longitude</td>
+    <td>Location.Coordinates.Longitude</td>
     <td>Float</td> 
     <td>Longitude position</td>
     <td><code>-105.57</code></td>
@@ -92,21 +92,21 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Location.Cordinates.Depth</td>
+    <td>Location.Coordinates .Depth</td>
     <td>Float</td> 
     <td>	Depth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)</td>
     <td><code>-0.1</code></td>
 </tr>
 
 <tr>
-    <td>Data.Yeild.Lower</td>
+    <td>Data.Yield.Lower</td>
     <td>Float</td> 
     <td>Explosion yield lower estimate in kilotons of TNT</td>
     <td><code>21.0</code></td>
 </tr>
 
 <tr>
-    <td>Data.Yeild.Upper</td>
+    <td>Data.Yield.Upper</td>
     <td>Float</td> 
     <td>Explosion yield upper estimate in kilotons of TNT</td>
     <td><code>21.0</code></td>

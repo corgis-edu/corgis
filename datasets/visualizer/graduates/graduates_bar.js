@@ -294,7 +294,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1999": {
           "count": 47,
-          "sum": 765349.4900000001,
+          "sum": 765349.49,
           "average": 16284.03170212766,
           "average w/o zero": 63779.12416666667
         },
@@ -306,13 +306,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2003": {
           "count": 47,
-          "sum": 2973293.850000001,
+          "sum": 2973293.85,
           "average": 63261.57127659574,
           "average w/o zero": 66073.19666666667
         },
         "2006": {
           "count": 47,
-          "sum": 496148.4000000001,
+          "sum": 496148.4,
           "average": 10556.348936170212,
           "average w/o zero": 41345.7
         },
@@ -324,13 +324,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 47,
-          "sum": 3174250.190000001,
+          "sum": 3174250.19,
           "average": 67537.23808510638,
           "average w/o zero": 70538.89311111112
         },
         "2013": {
           "count": 47,
-          "sum": 3368012.5499999993,
+          "sum": 3368012.55,
           "average": 71659.8414893617,
           "average w/o zero": 74844.72333333333
         },
@@ -480,13 +480,13 @@ VISUALIZER_DATA_BARS = [
       "Salaries.Standard Deviation": {
         "1993": {
           "count": 47,
-          "sum": 3382959.1900000004,
+          "sum": 3382959.19,
           "average": 71977.85510638298,
           "average w/o zero": 281913.2658333333
         },
         "1995": {
           "count": 47,
-          "sum": 355424.94000000006,
+          "sum": 355424.94,
           "average": 7562.232765957447,
           "average w/o zero": 29618.745
         },
@@ -498,7 +498,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1999": {
           "count": 47,
-          "sum": 386039.13000000006,
+          "sum": 386039.13,
           "average": 8213.598510638298,
           "average w/o zero": 32169.927499999998
         },
@@ -528,7 +528,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 47,
-          "sum": 1731974.5499999996,
+          "sum": 1731974.55,
           "average": 36850.52234042553,
           "average w/o zero": 38488.323333333334
         },
@@ -4509,7 +4509,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chemical Engineering": {
           "count": 11,
-          "sum": 844958.4299999999,
+          "sum": 844958.43,
           "average": 76814.40272727273,
           "average w/o zero": 76814.40272727273
         },
@@ -4527,7 +4527,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Computer Science and Math": {
           "count": 11,
-          "sum": 766257.19,
+          "sum": 766257.1900000001,
           "average": 69659.74454545455,
           "average w/o zero": 69659.74454545455
         },
@@ -4557,7 +4557,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Other Engineering": {
           "count": 11,
-          "sum": 818073.2000000001,
+          "sum": 818073.2,
           "average": 74370.29090909091,
           "average w/o zero": 74370.29090909091
         },
@@ -4569,7 +4569,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Psychology": {
           "count": 11,
-          "sum": 723188.9700000002,
+          "sum": 723188.97,
           "average": 65744.45181818181,
           "average w/o zero": 65744.45181818181
         },
@@ -4599,7 +4599,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pharmacology, Human and Animal": {
           "count": 11,
-          "sum": 290887.41,
+          "sum": 290887.41000000003,
           "average": 26444.31,
           "average w/o zero": 72721.85250000001
         },
@@ -4617,7 +4617,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Animal Sciences": {
           "count": 11,
-          "sum": 254254.78999999998,
+          "sum": 254254.79,
           "average": 23114.07181818182,
           "average w/o zero": 63563.6975
         },
@@ -4647,13 +4647,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Sociology": {
           "count": 11,
-          "sum": 224531.71000000002,
+          "sum": 224531.71,
           "average": 20411.973636363637,
           "average w/o zero": 56132.9275
         },
         "Oceanography": {
           "count": 11,
-          "sum": 294978.99000000005,
+          "sum": 294978.99,
           "average": 26816.27181818182,
           "average w/o zero": 73744.7475
         },
@@ -4701,13 +4701,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Forestry Services": {
           "count": 11,
-          "sum": 240732.38000000003,
+          "sum": 240732.38,
           "average": 21884.761818181818,
           "average w/o zero": 60183.095
         },
         "Earth Sciences": {
           "count": 11,
-          "sum": 267388.42000000004,
+          "sum": 267388.42,
           "average": 24308.03818181818,
           "average w/o zero": 66847.105
         },
@@ -4779,7 +4779,7 @@ VISUALIZER_DATA_BARS = [
         },
         "OTHER Agricultural Sciences": {
           "count": 11,
-          "sum": 248094.71000000002,
+          "sum": 248094.71,
           "average": 22554.064545454545,
           "average w/o zero": 62023.6775
         }
@@ -5367,19 +5367,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Chemistry": {
           "count": 11,
-          "sum": 687979.2,
+          "sum": 687979.2000000001,
           "average": 62543.56363636364,
           "average w/o zero": 62543.56363636364
         },
         "Civil Engineering": {
           "count": 11,
-          "sum": 566945.7000000001,
+          "sum": 566945.7,
           "average": 51540.51818181818,
           "average w/o zero": 51540.51818181818
         },
         "Computer Science and Math": {
           "count": 11,
-          "sum": 645239.82,
+          "sum": 645239.8200000001,
           "average": 58658.16545454546,
           "average w/o zero": 58658.16545454546
         },
@@ -5451,7 +5451,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Pharmacology, Human and Animal": {
           "count": 11,
-          "sum": 161989.53999999998,
+          "sum": 161989.54,
           "average": 14726.32181818182,
           "average w/o zero": 40497.385
         },
@@ -5463,13 +5463,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Information Services and Systems": {
           "count": 11,
-          "sum": 196816.61,
+          "sum": 196816.61000000002,
           "average": 17892.41909090909,
           "average w/o zero": 49204.152500000004
         },
         "Animal Sciences": {
           "count": 11,
-          "sum": 260013.14,
+          "sum": 260013.13999999998,
           "average": 23637.55818181818,
           "average w/o zero": 65003.284999999996
         },
@@ -5487,7 +5487,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Geology": {
           "count": 11,
-          "sum": 240712.03999999998,
+          "sum": 240712.04,
           "average": 21882.912727272727,
           "average w/o zero": 60178.01
         },
@@ -5523,7 +5523,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Philosophy of Science": {
           "count": 11,
-          "sum": 231624.68000000002,
+          "sum": 231624.68,
           "average": 21056.789090909093,
           "average w/o zero": 57906.17
         },
@@ -5589,7 +5589,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Area and Ethnic Studies": {
           "count": 11,
-          "sum": 209872.84000000003,
+          "sum": 209872.84,
           "average": 19079.34909090909,
           "average w/o zero": 52468.21
         },
@@ -5613,13 +5613,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Statistics": {
           "count": 11,
-          "sum": 214334.09999999998,
+          "sum": 214334.1,
           "average": 19484.918181818182,
           "average w/o zero": 53583.525
         },
         "Linguistics": {
           "count": 11,
-          "sum": 235446.00999999998,
+          "sum": 235446.01,
           "average": 21404.182727272728,
           "average w/o zero": 58861.5025
         },

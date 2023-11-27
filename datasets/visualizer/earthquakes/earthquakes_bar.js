@@ -22,7 +22,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Alaska": {
           "count": 2195,
-          "sum": 148139.7887556162,
+          "sum": 148139.78875561623,
           "average": 67.4896531916247,
           "average w/o zero": 126.18380643578895
         },
@@ -40,7 +40,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Puerto Rico": {
           "count": 156,
-          "sum": 37857.599999999984,
+          "sum": 37857.6,
           "average": 242.6769230769231,
           "average w/o zero": 242.6769230769231
         },
@@ -52,7 +52,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dominican Republic": {
           "count": 31,
-          "sum": 7136.600000000001,
+          "sum": 7136.6,
           "average": 230.21290322580646,
           "average w/o zero": 230.21290322580646
         },
@@ -94,7 +94,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Canada": {
           "count": 57,
-          "sum": 7209.199881344002,
+          "sum": 7209.199881344003,
           "average": 126.47719090077199,
           "average w/o zero": 184.8512790088206
         },
@@ -112,7 +112,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 81,
-          "sum": 13357.440000000004,
+          "sum": 13357.44,
           "average": 164.90666666666667,
           "average w/o zero": 164.90666666666667
         },
@@ -196,7 +196,7 @@ VISUALIZER_DATA_BARS = [
         },
         "U.S. Virgin Islands": {
           "count": 38,
-          "sum": 10080.000000000002,
+          "sum": 10080.0,
           "average": 265.2631578947368,
           "average w/o zero": 265.2631578947368
         },
@@ -714,79 +714,79 @@ VISUALIZER_DATA_BARS = [
       "impact.magnitude": {
         "California": {
           "count": 3609,
-          "sum": 3638.4900000000084,
+          "sum": 3638.49,
           "average": 1.008171238570241,
           "average w/o zero": 1.008171238570241
         },
         "Burma": {
           "count": 4,
-          "sum": 22.200000000000003,
+          "sum": 22.2,
           "average": 5.55,
           "average w/o zero": 5.55
         },
         "Nevada": {
           "count": 712,
-          "sum": 496.6400000000006,
+          "sum": 496.64,
           "average": 0.6975280898876405,
           "average w/o zero": 0.6975280898876405
         },
         "Alaska": {
           "count": 2195,
-          "sum": 3407.0000000000005,
+          "sum": 3407.0,
           "average": 1.5521640091116173,
           "average w/o zero": 1.5521640091116173
         },
         "Hawaii": {
           "count": 225,
-          "sum": 375.2099999999998,
+          "sum": 375.21,
           "average": 1.6676,
           "average w/o zero": 1.6676
         },
         "Montana": {
           "count": 96,
-          "sum": 91.19000000000001,
+          "sum": 91.19,
           "average": 0.9498958333333334,
           "average w/o zero": 0.9498958333333334
         },
         "Puerto Rico": {
           "count": 156,
-          "sum": 385.99999999999983,
+          "sum": 386.0,
           "average": 2.4743589743589745,
           "average w/o zero": 2.4743589743589745
         },
         "Chile": {
           "count": 35,
-          "sum": 157.79999999999998,
+          "sum": 157.8,
           "average": 4.508571428571429,
           "average w/o zero": 4.508571428571429
         },
         "Dominican Republic": {
           "count": 31,
-          "sum": 97.70000000000002,
+          "sum": 97.7,
           "average": 3.1516129032258062,
           "average w/o zero": 3.1516129032258062
         },
         "British Virgin Islands": {
           "count": 98,
-          "sum": 230.09999999999994,
+          "sum": 230.1,
           "average": 2.3479591836734692,
           "average w/o zero": 2.3479591836734692
         },
         "Indonesia": {
           "count": 63,
-          "sum": 298.60000000000014,
+          "sum": 298.6,
           "average": 4.73968253968254,
           "average w/o zero": 4.73968253968254
         },
         "Washington": {
           "count": 171,
-          "sum": 176.2199999999999,
+          "sum": 176.22,
           "average": 1.0305263157894737,
           "average w/o zero": 1.0305263157894737
         },
         "Southern East Pacific Rise": {
           "count": 3,
-          "sum": 15.799999999999999,
+          "sum": 15.8,
           "average": 5.266666666666667,
           "average w/o zero": 5.266666666666667
         },
@@ -798,7 +798,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Philippines": {
           "count": 18,
-          "sum": 85.19999999999999,
+          "sum": 85.2,
           "average": 4.733333333333333,
           "average w/o zero": 4.733333333333333
         },
@@ -822,7 +822,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 81,
-          "sum": 107.23000000000002,
+          "sum": 107.23,
           "average": 1.3238271604938272,
           "average w/o zero": 1.3238271604938272
         },
@@ -834,7 +834,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peru": {
           "count": 14,
-          "sum": 63.800000000000004,
+          "sum": 63.8,
           "average": 4.557142857142857,
           "average w/o zero": 4.557142857142857
         },
@@ -846,13 +846,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Japan": {
           "count": 40,
-          "sum": 192.60000000000002,
+          "sum": 192.6,
           "average": 4.8149999999999995,
           "average w/o zero": 4.8149999999999995
         },
         "Oklahoma": {
           "count": 66,
-          "sum": 192.79999999999993,
+          "sum": 192.8,
           "average": 2.9212121212121214,
           "average w/o zero": 2.9212121212121214
         },
@@ -888,7 +888,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South of the Fiji Islands": {
           "count": 17,
-          "sum": 77.00000000000001,
+          "sum": 77.0,
           "average": 4.529411764705882,
           "average w/o zero": 4.529411764705882
         },
@@ -906,19 +906,19 @@ VISUALIZER_DATA_BARS = [
         },
         "U.S. Virgin Islands": {
           "count": 38,
-          "sum": 84.49999999999999,
+          "sum": 84.5,
           "average": 2.223684210526316,
           "average w/o zero": 2.223684210526316
         },
         "Idaho": {
           "count": 18,
-          "sum": 27.930000000000003,
+          "sum": 27.93,
           "average": 1.5516666666666667,
           "average w/o zero": 1.5516666666666667
         },
         "Wyoming": {
           "count": 37,
-          "sum": 46.29999999999999,
+          "sum": 46.3,
           "average": 1.2513513513513514,
           "average w/o zero": 1.2513513513513514
         },
@@ -936,13 +936,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Russia": {
           "count": 27,
-          "sum": 122.60000000000001,
+          "sum": 122.6,
           "average": 4.54074074074074,
           "average w/o zero": 4.54074074074074
         },
         "Tajikistan": {
           "count": 12,
-          "sum": 53.80000000000001,
+          "sum": 53.800000000000004,
           "average": 4.483333333333333,
           "average w/o zero": 4.483333333333333
         },
@@ -966,13 +966,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 21,
-          "sum": 47.489999999999995,
+          "sum": 47.49,
           "average": 2.2614285714285716,
           "average w/o zero": 2.2614285714285716
         },
         "Northern Mariana Islands": {
           "count": 53,
-          "sum": 239.00000000000003,
+          "sum": 239.0,
           "average": 4.509433962264151,
           "average w/o zero": 4.509433962264151
         },
@@ -984,13 +984,13 @@ VISUALIZER_DATA_BARS = [
         },
         "China": {
           "count": 14,
-          "sum": 63.900000000000006,
+          "sum": 63.9,
           "average": 4.564285714285714,
           "average w/o zero": 4.564285714285714
         },
         "New Zealand": {
           "count": 19,
-          "sum": 88.40000000000002,
+          "sum": 88.4,
           "average": 4.652631578947369,
           "average w/o zero": 4.652631578947369
         },
@@ -1002,7 +1002,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Guatemala": {
           "count": 6,
-          "sum": 26.300000000000004,
+          "sum": 26.3,
           "average": 4.383333333333334,
           "average w/o zero": 4.383333333333334
         },
@@ -1074,7 +1074,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Indian Ocean": {
           "count": 5,
-          "sum": 26.900000000000002,
+          "sum": 26.9,
           "average": 5.38,
           "average w/o zero": 5.38
         },
@@ -1092,7 +1092,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Portugal": {
           "count": 3,
-          "sum": 12.999999999999998,
+          "sum": 13.0,
           "average": 4.333333333333333,
           "average w/o zero": 4.333333333333333
         },
@@ -1152,7 +1152,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Missouri": {
           "count": 12,
-          "sum": 20.469999999999995,
+          "sum": 20.47,
           "average": 1.7058333333333333,
           "average w/o zero": 1.7058333333333333
         },
@@ -1272,7 +1272,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Illinois": {
           "count": 3,
-          "sum": 7.289999999999999,
+          "sum": 7.29,
           "average": 2.43,
           "average w/o zero": 2.43
         },
@@ -1374,7 +1374,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Georgia Island region": {
           "count": 16,
-          "sum": 86.39999999999999,
+          "sum": 86.4,
           "average": 5.4,
           "average w/o zero": 5.4
         },
@@ -2134,7 +2134,7 @@ VISUALIZER_DATA_BARS = [
       "location.depth": {
         "California": {
           "count": 3609,
-          "sum": 22204.709999999945,
+          "sum": 22204.71,
           "average": 6.1525935162094765,
           "average w/o zero": 6.62336395969176
         },
@@ -2146,25 +2146,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 712,
-          "sum": 6138.410000000006,
+          "sum": 6138.41,
           "average": 8.621362359550561,
           "average w/o zero": 9.233067669172932
         },
         "Alaska": {
           "count": 2195,
-          "sum": 81027.49999999999,
+          "sum": 81027.5,
           "average": 36.91457858769932,
           "average w/o zero": 37.775244755244756
         },
         "Hawaii": {
           "count": 225,
-          "sum": 3006.9720000000016,
+          "sum": 3006.972,
           "average": 13.36432,
           "average w/o zero": 13.36432
         },
         "Montana": {
           "count": 96,
-          "sum": 503.0300000000001,
+          "sum": 503.03,
           "average": 5.239895833333334,
           "average w/o zero": 6.791645569620253
         },
@@ -2176,7 +2176,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chile": {
           "count": 35,
-          "sum": 2189.4699999999993,
+          "sum": 2189.47,
           "average": 62.556285714285714,
           "average w/o zero": 62.556285714285714
         },
@@ -2194,13 +2194,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Indonesia": {
           "count": 63,
-          "sum": 7128.400000000001,
+          "sum": 7128.4,
           "average": 113.14920634920635,
           "average w/o zero": 113.14920634920635
         },
         "Washington": {
           "count": 171,
-          "sum": 1393.9800000000005,
+          "sum": 1393.98,
           "average": 8.151929824561403,
           "average w/o zero": 10.836060606060606
         },
@@ -2224,7 +2224,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Canada": {
           "count": 57,
-          "sum": 305.6000000000001,
+          "sum": 305.6,
           "average": 5.36140350877193,
           "average w/o zero": 9.078
         },
@@ -2272,7 +2272,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oklahoma": {
           "count": 66,
-          "sum": 375.54200000000003,
+          "sum": 375.542,
           "average": 5.690030303030303,
           "average w/o zero": 5.690030303030303
         },
@@ -2290,13 +2290,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Tennessee": {
           "count": 20,
-          "sum": 234.65000000000003,
+          "sum": 234.65,
           "average": 11.7325,
           "average w/o zero": 11.7325
         },
         "Tonga": {
           "count": 14,
-          "sum": 1146.9099999999999,
+          "sum": 1146.91,
           "average": 81.92214285714286,
           "average w/o zero": 81.92214285714286
         },
@@ -2362,7 +2362,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tajikistan": {
           "count": 12,
-          "sum": 661.6500000000001,
+          "sum": 661.65,
           "average": 55.1375,
           "average w/o zero": 55.1375
         },
@@ -2404,13 +2404,13 @@ VISUALIZER_DATA_BARS = [
         },
         "China": {
           "count": 14,
-          "sum": 272.59,
+          "sum": 272.59000000000003,
           "average": 19.470714285714287,
           "average w/o zero": 19.470714285714287
         },
         "New Zealand": {
           "count": 19,
-          "sum": 1889.5000000000002,
+          "sum": 1889.5,
           "average": 99.44736842105263,
           "average w/o zero": 99.44736842105263
         },
@@ -2464,7 +2464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Northern California": {
           "count": 3,
-          "sum": 8.469999999999999,
+          "sum": 8.47,
           "average": 2.8233333333333333,
           "average w/o zero": 2.8233333333333333
         },
@@ -2482,7 +2482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Georgia and the South Sandwich Islands": {
           "count": 20,
-          "sum": 378.37000000000006,
+          "sum": 378.37,
           "average": 18.918499999999998,
           "average w/o zero": 18.918499999999998
         },
@@ -2844,7 +2844,7 @@ VISUALIZER_DATA_BARS = [
       "location.distance": {
         "California": {
           "count": 3609,
-          "sum": 217.07170609999946,
+          "sum": 217.0717061,
           "average": 0.06014732781934054,
           "average w/o zero": 0.06014732781934054
         },
@@ -2856,13 +2856,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 712,
-          "sum": 149.47609999999997,
+          "sum": 149.4761,
           "average": 0.20993834269662923,
           "average w/o zero": 0.21023361462728551
         },
         "Alaska": {
           "count": 2195,
-          "sum": 193.10246435999986,
+          "sum": 193.10246436,
           "average": 0.08797378786332574,
           "average w/o zero": 0.40313666881002086
         },
@@ -2880,19 +2880,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Puerto Rico": {
           "count": 156,
-          "sum": 66.61636648000001,
+          "sum": 66.61636648,
           "average": 0.42702799025641025,
           "average w/o zero": 0.42702799025641025
         },
         "Chile": {
           "count": 35,
-          "sum": 21.407000000000004,
+          "sum": 21.407,
           "average": 0.6116285714285714,
           "average w/o zero": 0.7928518518518518
         },
         "Dominican Republic": {
           "count": 31,
-          "sum": 19.869933259999996,
+          "sum": 19.86993326,
           "average": 0.6409655890322581,
           "average w/o zero": 0.6409655890322581
         },
@@ -2904,13 +2904,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Indonesia": {
           "count": 63,
-          "sum": 168.01700000000002,
+          "sum": 168.017,
           "average": 2.6669365079365077,
           "average w/o zero": 2.6669365079365077
         },
         "Washington": {
           "count": 171,
-          "sum": 16.938033200000003,
+          "sum": 16.9380332,
           "average": 0.09905282573099415,
           "average w/o zero": 0.09905282573099415
         },
@@ -2934,13 +2934,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Canada": {
           "count": 57,
-          "sum": 14.411426609999998,
+          "sum": 14.41142661,
           "average": 0.25283204578947366,
           "average w/o zero": 0.43670989727272724
         },
         "Papua New Guinea": {
           "count": 28,
-          "sum": 82.46300000000001,
+          "sum": 82.463,
           "average": 2.9451071428571427,
           "average w/o zero": 2.9451071428571427
         },
@@ -2964,7 +2964,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peru": {
           "count": 14,
-          "sum": 30.51,
+          "sum": 30.509999999999998,
           "average": 2.1792857142857143,
           "average w/o zero": 2.5425
         },
@@ -2976,37 +2976,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Japan": {
           "count": 40,
-          "sum": 59.88699999999999,
+          "sum": 59.887,
           "average": 1.497175,
           "average w/o zero": 1.497175
         },
         "Oklahoma": {
           "count": 66,
-          "sum": 5.155999999999998,
+          "sum": 5.156,
           "average": 0.07812121212121212,
           "average w/o zero": 0.14322222222222222
         },
         "Mexico": {
           "count": 42,
-          "sum": 23.850289999999998,
+          "sum": 23.85029,
           "average": 0.5678640476190476,
           "average w/o zero": 0.5678640476190476
         },
         "Kyrgyzstan": {
           "count": 9,
-          "sum": 17.285999999999998,
+          "sum": 17.286,
           "average": 1.9206666666666667,
           "average w/o zero": 1.9206666666666667
         },
         "Tennessee": {
           "count": 20,
-          "sum": 1.64325,
+          "sum": 1.6432499999999999,
           "average": 0.0821625,
           "average w/o zero": 0.0821625
         },
         "Tonga": {
           "count": 14,
-          "sum": 62.416000000000004,
+          "sum": 62.416,
           "average": 4.458285714285714,
           "average w/o zero": 4.458285714285714
         },
@@ -3024,7 +3024,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 56,
-          "sum": 8.239695000000001,
+          "sum": 8.239695,
           "average": 0.1471374107142857,
           "average w/o zero": 0.1471374107142857
         },
@@ -3036,25 +3036,25 @@ VISUALIZER_DATA_BARS = [
         },
         "U.S. Virgin Islands": {
           "count": 38,
-          "sum": 18.722687159999996,
+          "sum": 18.72268716,
           "average": 0.49270229368421053,
           "average w/o zero": 0.49270229368421053
         },
         "Idaho": {
           "count": 18,
-          "sum": 5.603389999999999,
+          "sum": 5.60339,
           "average": 0.31129944444444446,
           "average w/o zero": 0.31129944444444446
         },
         "Wyoming": {
           "count": 37,
-          "sum": 4.278199999999999,
+          "sum": 4.2782,
           "average": 0.11562702702702703,
           "average w/o zero": 0.11562702702702703
         },
         "Iran": {
           "count": 3,
-          "sum": 6.204000000000001,
+          "sum": 6.204,
           "average": 2.068,
           "average w/o zero": 2.068
         },
@@ -3066,7 +3066,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Russia": {
           "count": 27,
-          "sum": 100.55200000000002,
+          "sum": 100.552,
           "average": 3.7241481481481484,
           "average w/o zero": 3.7241481481481484
         },
@@ -3078,7 +3078,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Southwest Indian Ridge": {
           "count": 9,
-          "sum": 86.55,
+          "sum": 86.55000000000001,
           "average": 9.616666666666667,
           "average w/o zero": 9.616666666666667
         },
@@ -3102,7 +3102,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Northern Mariana Islands": {
           "count": 53,
-          "sum": 184.21400000000003,
+          "sum": 184.214,
           "average": 3.475735849056604,
           "average w/o zero": 3.475735849056604
         },
@@ -3186,7 +3186,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Sandwich Islands": {
           "count": 4,
-          "sum": 29.663999999999998,
+          "sum": 29.664,
           "average": 7.416,
           "average w/o zero": 7.416
         },
@@ -3554,7 +3554,7 @@ VISUALIZER_DATA_BARS = [
       "location.latitude": {
         "California": {
           "count": 3609,
-          "sum": 132009.72231979994,
+          "sum": 132009.7223198,
           "average": 36.57792250479357,
           "average w/o zero": 36.57792250479357
         },
@@ -3566,37 +3566,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 712,
-          "sum": 27247.279733399973,
+          "sum": 27247.2797334,
           "average": 38.26865131095506,
           "average w/o zero": 38.26865131095506
         },
         "Alaska": {
           "count": 2195,
-          "sum": 133057.72880000004,
+          "sum": 133057.7288,
           "average": 60.618555261958996,
           "average w/o zero": 60.618555261958996
         },
         "Hawaii": {
           "count": 225,
-          "sum": 4358.883703199999,
+          "sum": 4358.8837032,
           "average": 19.372816458666666,
           "average w/o zero": 19.372816458666666
         },
         "Montana": {
           "count": 96,
-          "sum": 4394.823999799999,
+          "sum": 4394.8239998,
           "average": 45.77941666458333,
           "average w/o zero": 45.77941666458333
         },
         "Puerto Rico": {
           "count": 156,
-          "sum": 2891.840599999998,
+          "sum": 2891.8406,
           "average": 18.537439743589744,
           "average w/o zero": 18.537439743589744
         },
         "Chile": {
           "count": 35,
-          "sum": -946.1620000000001,
+          "sum": -946.162,
           "average": -27.0332,
           "average w/o zero": 0
         },
@@ -3614,13 +3614,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Indonesia": {
           "count": 63,
-          "sum": -221.69819999999999,
+          "sum": -221.6982,
           "average": -3.5190190476190475,
           "average w/o zero": 2.054845
         },
         "Washington": {
           "count": 171,
-          "sum": 8036.296333099998,
+          "sum": 8036.2963331,
           "average": 46.99588498888889,
           "average w/o zero": 46.99588498888889
         },
@@ -3638,13 +3638,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Philippines": {
           "count": 18,
-          "sum": 144.07649999999998,
+          "sum": 144.0765,
           "average": 8.00425,
           "average w/o zero": 8.00425
         },
         "Canada": {
           "count": 57,
-          "sum": 3122.7053334000007,
+          "sum": 3122.7053334,
           "average": 54.78430409473684,
           "average w/o zero": 54.78430409473684
         },
@@ -3656,13 +3656,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Afghanistan": {
           "count": 10,
-          "sum": 362.23539999999997,
+          "sum": 362.2354,
           "average": 36.22354,
           "average w/o zero": 36.22354
         },
         "Oregon": {
           "count": 81,
-          "sum": 3507.939666800001,
+          "sum": 3507.9396668,
           "average": 43.307897120987654,
           "average w/o zero": 43.307897120987654
         },
@@ -3680,13 +3680,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Fiji": {
           "count": 17,
-          "sum": -333.86740000000003,
+          "sum": -333.8674,
           "average": -19.639258823529413,
           "average w/o zero": 0
         },
         "Japan": {
           "count": 40,
-          "sum": 1391.9721000000002,
+          "sum": 1391.9721,
           "average": 34.7993025,
           "average w/o zero": 34.7993025
         },
@@ -3704,7 +3704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kyrgyzstan": {
           "count": 9,
-          "sum": 357.24620000000004,
+          "sum": 357.2462,
           "average": 39.69402222222222,
           "average w/o zero": 39.69402222222222
         },
@@ -3746,7 +3746,7 @@ VISUALIZER_DATA_BARS = [
         },
         "U.S. Virgin Islands": {
           "count": 38,
-          "sum": 713.7280000000002,
+          "sum": 713.728,
           "average": 18.782315789473685,
           "average w/o zero": 18.782315789473685
         },
@@ -3806,13 +3806,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 21,
-          "sum": 781.4806000999998,
+          "sum": 781.4806001,
           "average": 37.21336190952381,
           "average w/o zero": 37.21336190952381
         },
         "Northern Mariana Islands": {
           "count": 53,
-          "sum": 988.8716000000002,
+          "sum": 988.8716000000001,
           "average": 18.65795471698113,
           "average w/o zero": 18.65795471698113
         },
@@ -3830,7 +3830,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Zealand": {
           "count": 19,
-          "sum": -576.9159000000001,
+          "sum": -576.9159,
           "average": -30.363994736842105,
           "average w/o zero": 0
         },
@@ -3866,7 +3866,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Italy": {
           "count": 14,
-          "sum": 600.3969000000002,
+          "sum": 600.3969,
           "average": 42.88549285714286,
           "average w/o zero": 42.88549285714286
         },
@@ -3878,7 +3878,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Jersey": {
           "count": 3,
-          "sum": 122.9071666,
+          "sum": 122.90716660000001,
           "average": 40.96905553333333,
           "average w/o zero": 40.96905553333333
         },
@@ -4046,7 +4046,7 @@ VISUALIZER_DATA_BARS = [
         },
         "New Caledonia": {
           "count": 32,
-          "sum": -719.8650000000001,
+          "sum": -719.865,
           "average": -22.49578125,
           "average w/o zero": 0
         },
@@ -4264,7 +4264,7 @@ VISUALIZER_DATA_BARS = [
       "location.longitude": {
         "California": {
           "count": 3609,
-          "sum": -430301.91824379936,
+          "sum": -430301.9182438,
           "average": -119.23023503568855,
           "average w/o zero": 0
         },
@@ -4276,49 +4276,49 @@ VISUALIZER_DATA_BARS = [
         },
         "Nevada": {
           "count": 712,
-          "sum": -84108.93613339997,
+          "sum": -84108.9361334,
           "average": -118.1305282772472,
           "average w/o zero": 0
         },
         "Alaska": {
           "count": 2195,
-          "sum": -319776.1156999997,
+          "sum": -319776.1157,
           "average": -145.6838795899772,
           "average w/o zero": 178.10570666666666
         },
         "Hawaii": {
           "count": 225,
-          "sum": -34966.09786429998,
+          "sum": -34966.0978643,
           "average": -155.4048793968889,
           "average w/o zero": 0
         },
         "Montana": {
           "count": 96,
-          "sum": -10767.8599998,
+          "sum": -10767.859999799999,
           "average": -112.16520833125,
           "average w/o zero": 0
         },
         "Puerto Rico": {
           "count": 156,
-          "sum": -10395.823200000008,
+          "sum": -10395.8232,
           "average": -66.6398923076923,
           "average w/o zero": 0
         },
         "Chile": {
           "count": 35,
-          "sum": -2474.6856000000002,
+          "sum": -2474.6856,
           "average": -70.70530285714285,
           "average w/o zero": 0
         },
         "Dominican Republic": {
           "count": 31,
-          "sum": -2120.1845000000003,
+          "sum": -2120.1845,
           "average": -68.39304838709677,
           "average w/o zero": 0
         },
         "British Virgin Islands": {
           "count": 98,
-          "sum": -6327.983400000004,
+          "sum": -6327.9834,
           "average": -64.57125918367348,
           "average w/o zero": 0
         },
@@ -4330,7 +4330,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Washington": {
           "count": 171,
-          "sum": -20860.561999899997,
+          "sum": -20860.5619999,
           "average": -121.99159064269006,
           "average w/o zero": 0
         },
@@ -4342,25 +4342,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Argentina": {
           "count": 11,
-          "sum": -737.055,
+          "sum": -737.0550000000001,
           "average": -67.005,
           "average w/o zero": 0
         },
         "Philippines": {
           "count": 18,
-          "sum": 2245.6620999999996,
+          "sum": 2245.6621,
           "average": 124.75900555555556,
           "average w/o zero": 124.75900555555556
         },
         "Canada": {
           "count": 57,
-          "sum": -7175.262899900002,
+          "sum": -7175.2628999,
           "average": -125.88180526140351,
           "average w/o zero": 0
         },
         "Papua New Guinea": {
           "count": 28,
-          "sum": 4224.605799999999,
+          "sum": 4224.6058,
           "average": 150.87877857142857,
           "average w/o zero": 150.87877857142857
         },
@@ -4372,7 +4372,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oregon": {
           "count": 81,
-          "sum": -9783.788933500002,
+          "sum": -9783.7889335,
           "average": -120.78751769753086,
           "average w/o zero": 0
         },
@@ -4384,7 +4384,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peru": {
           "count": 14,
-          "sum": -1053.7803999999999,
+          "sum": -1053.7804,
           "average": -75.27002857142857,
           "average w/o zero": 0
         },
@@ -4402,13 +4402,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Oklahoma": {
           "count": 66,
-          "sum": -6450.527600000001,
+          "sum": -6450.5276,
           "average": -97.73526666666666,
           "average w/o zero": 0
         },
         "Mexico": {
           "count": 42,
-          "sum": -4653.581766499999,
+          "sum": -4653.5817665,
           "average": -110.79956586904761,
           "average w/o zero": 0
         },
@@ -4438,7 +4438,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South of the Fiji Islands": {
           "count": 17,
-          "sum": -895.0037000000001,
+          "sum": -895.0037,
           "average": -52.64727647058824,
           "average w/o zero": 179.33473333333333
         },
@@ -4456,19 +4456,19 @@ VISUALIZER_DATA_BARS = [
         },
         "U.S. Virgin Islands": {
           "count": 38,
-          "sum": -2470.3512000000005,
+          "sum": -2470.3512,
           "average": -65.00924210526316,
           "average w/o zero": 0
         },
         "Idaho": {
           "count": 18,
-          "sum": -2043.2956332999997,
+          "sum": -2043.2956333,
           "average": -113.51642407222222,
           "average w/o zero": 0
         },
         "Wyoming": {
           "count": 37,
-          "sum": -4094.2868332999997,
+          "sum": -4094.2868333,
           "average": -110.6564009,
           "average w/o zero": 0
         },
@@ -4486,7 +4486,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Russia": {
           "count": 27,
-          "sum": 4018.9838999999993,
+          "sum": 4018.9839,
           "average": 148.85125555555555,
           "average w/o zero": 148.85125555555555
         },
@@ -4498,7 +4498,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Southwest Indian Ridge": {
           "count": 9,
-          "sum": 537.0174000000001,
+          "sum": 537.0174,
           "average": 59.6686,
           "average w/o zero": 59.6686
         },
@@ -4516,7 +4516,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas": {
           "count": 21,
-          "sum": -2051.9206001999996,
+          "sum": -2051.9206002,
           "average": -97.71050477142857,
           "average w/o zero": 0
         },
@@ -4534,7 +4534,7 @@ VISUALIZER_DATA_BARS = [
         },
         "China": {
           "count": 14,
-          "sum": 1292.6415000000002,
+          "sum": 1292.6415,
           "average": 92.33153571428572,
           "average w/o zero": 92.33153571428572
         },
@@ -4606,7 +4606,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Sandwich Islands": {
           "count": 4,
-          "sum": -103.75349999999999,
+          "sum": -103.7535,
           "average": -25.938375,
           "average w/o zero": 0
         },
@@ -4780,7 +4780,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Costa Rica": {
           "count": 4,
-          "sum": -334.63649999999996,
+          "sum": -334.6365,
           "average": -83.659125,
           "average w/o zero": 0
         },
@@ -4924,7 +4924,7 @@ VISUALIZER_DATA_BARS = [
         },
         "South Georgia Island region": {
           "count": 16,
-          "sum": -506.72209999999995,
+          "sum": -506.7221,
           "average": -31.67013125,
           "average w/o zero": 0
         },
@@ -10088,7 +10088,7 @@ VISUALIZER_DATA_BARS = [
         },
         "8": {
           "count": 6898,
-          "sum": 762306.0728884152,
+          "sum": 762306.0728884161,
           "average": 110.51117322244363,
           "average w/o zero": 128.9421638850501
         }
@@ -10096,13 +10096,13 @@ VISUALIZER_DATA_BARS = [
       "impact.magnitude": {
         "7": {
           "count": 1496,
-          "sum": 2410.8999999999987,
+          "sum": 2410.9,
           "average": 1.6115641711229947,
           "average w/o zero": 1.6115641711229947
         },
         "8": {
           "count": 6898,
-          "sum": 10288.729999999967,
+          "sum": 10288.73,
           "average": 1.4915526239489707,
           "average w/o zero": 1.4915526239489707
         }
@@ -10124,13 +10124,13 @@ VISUALIZER_DATA_BARS = [
       "location.depth": {
         "7": {
           "count": 1496,
-          "sum": 42333.514999999985,
+          "sum": 42333.515,
           "average": 28.297804144385026,
           "average w/o zero": 29.902671136203246
         },
         "8": {
           "count": 6898,
-          "sum": 151163.43900000025,
+          "sum": 151163.439,
           "average": 21.914096694694113,
           "average w/o zero": 23.131431693154035
         }
@@ -10138,7 +10138,7 @@ VISUALIZER_DATA_BARS = [
       "location.distance": {
         "7": {
           "count": 1496,
-          "sum": 673.1986846300002,
+          "sum": 673.19868463,
           "average": 0.4499991207419786,
           "average w/o zero": 0.5115491524544072
         },
@@ -10152,13 +10152,13 @@ VISUALIZER_DATA_BARS = [
       "location.latitude": {
         "7": {
           "count": 1496,
-          "sum": 61671.783510899935,
+          "sum": 61671.7835109,
           "average": 41.224454218516044,
           "average w/o zero": 43.757396386420616
         },
         "8": {
           "count": 6898,
-          "sum": 271679.2155123999,
+          "sum": 271679.2155124,
           "average": 39.385215354073644,
           "average w/o zero": 41.99947912324879
         }
@@ -10166,13 +10166,13 @@ VISUALIZER_DATA_BARS = [
       "location.longitude": {
         "7": {
           "count": 1496,
-          "sum": -165207.34090070034,
+          "sum": -165207.3409007,
           "average": -110.43271450581551,
           "average w/o zero": 133.08826666666667
         },
         "8": {
           "count": 6898,
-          "sum": -773777.8416452012,
+          "sum": -773777.8416452,
           "average": -112.17423045015947,
           "average w/o zero": 128.21827354651163
         }

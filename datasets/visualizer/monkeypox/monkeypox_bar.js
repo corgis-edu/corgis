@@ -3002,13 +3002,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Australia": {
           "count": 112,
-          "sum": 4.977999999999999,
+          "sum": 4.978,
           "average": 0.044446428571428574,
           "average w/o zero": 0.1777857142857143
         },
         "Austria": {
           "count": 109,
-          "sum": 31.381999999999998,
+          "sum": 31.382,
           "average": 0.28790825688073396,
           "average w/o zero": 1.1622962962962964
         },
@@ -3050,7 +3050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bolivia": {
           "count": 38,
-          "sum": 9.110000000000001,
+          "sum": 9.11,
           "average": 0.23973684210526316,
           "average w/o zero": 0.41409090909090907
         },
@@ -3080,7 +3080,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Switzerland": {
           "count": 110,
-          "sum": 55.796000000000014,
+          "sum": 55.796,
           "average": 0.5072363636363636,
           "average w/o zero": 0.8584
         },
@@ -3098,7 +3098,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Democratic Republic of Congo": {
           "count": 92,
-          "sum": 2.0340000000000003,
+          "sum": 2.034,
           "average": 0.022108695652173913,
           "average w/o zero": 0.5085
         },
@@ -3134,7 +3134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Czechia": {
           "count": 107,
-          "sum": 5.516000000000001,
+          "sum": 5.516,
           "average": 0.05155140186915888,
           "average w/o zero": 0.22064
         },
@@ -3146,19 +3146,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Denmark": {
           "count": 109,
-          "sum": 30.576999999999984,
+          "sum": 30.576999999999998,
           "average": 0.2805229357798165,
           "average w/o zero": 0.8046578947368421
         },
         "Dominican Republic": {
           "count": 50,
-          "sum": 0.8099999999999998,
+          "sum": 0.8099999999999999,
           "average": 0.0162,
           "average w/o zero": 0.11571428571428571
         },
         "Ecuador": {
           "count": 63,
-          "sum": 3.3140000000000005,
+          "sum": 3.314,
           "average": 0.0526031746031746,
           "average w/o zero": 0.2549230769230769
         },
@@ -3170,25 +3170,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Spain": {
           "count": 112,
-          "sum": 142.12300000000002,
+          "sum": 142.123,
           "average": 1.2689553571428571,
           "average w/o zero": 3.230068181818182
         },
         "Estonia": {
           "count": 57,
-          "sum": 7.5280000000000005,
+          "sum": 7.528,
           "average": 0.13207017543859648,
           "average w/o zero": 1.0754285714285714
         },
         "Finland": {
           "count": 103,
-          "sum": 5.420999999999999,
+          "sum": 5.421,
           "average": 0.05263106796116505,
           "average w/o zero": 0.4928181818181818
         },
         "France": {
           "count": 111,
-          "sum": 55.190000000000005,
+          "sum": 55.19,
           "average": 0.4972072072072072,
           "average w/o zero": 1.4523684210526315
         },
@@ -3212,7 +3212,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Greece": {
           "count": 93,
-          "sum": 6.316999999999999,
+          "sum": 6.317,
           "average": 0.0679247311827957,
           "average w/o zero": 0.3008095238095238
         },
@@ -3224,7 +3224,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Guatemala": {
           "count": 37,
-          "sum": 0.6840000000000002,
+          "sum": 0.684,
           "average": 0.018486486486486486,
           "average w/o zero": 0.0684
         },
@@ -3248,13 +3248,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Croatia": {
           "count": 75,
-          "sum": 6.649000000000001,
+          "sum": 6.649,
           "average": 0.08865333333333333,
           "average w/o zero": 0.6044545454545455
         },
         "Hungary": {
           "count": 100,
-          "sum": 7.313000000000001,
+          "sum": 7.313,
           "average": 0.07313,
           "average w/o zero": 0.38489473684210523
         },
@@ -3272,7 +3272,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ireland": {
           "count": 100,
-          "sum": 32.087999999999994,
+          "sum": 32.088,
           "average": 0.32088,
           "average w/o zero": 1.6044
         },
@@ -3290,7 +3290,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Israel": {
           "count": 110,
-          "sum": 26.263000000000005,
+          "sum": 26.263,
           "average": 0.23875454545454547,
           "average w/o zero": 0.6253095238095239
         },
@@ -3338,7 +3338,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Luxembourg": {
           "count": 85,
-          "sum": 82.89600000000002,
+          "sum": 82.896,
           "average": 0.9752470588235295,
           "average w/o zero": 4.605333333333333
         },
@@ -3368,7 +3368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mexico": {
           "count": 101,
-          "sum": 6.220000000000001,
+          "sum": 6.22,
           "average": 0.06158415841584158,
           "average w/o zero": 0.3658823529411765
         },
@@ -3398,13 +3398,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Netherlands": {
           "count": 111,
-          "sum": 68.44999999999999,
+          "sum": 68.45,
           "average": 0.6166666666666667,
           "average w/o zero": 1.9557142857142857
         },
         "Norway": {
           "count": 99,
-          "sum": 15.355999999999995,
+          "sum": 15.356,
           "average": 0.15511111111111112,
           "average w/o zero": 0.4516470588235294
         },
@@ -3422,7 +3422,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peru": {
           "count": 74,
-          "sum": 52.202999999999996,
+          "sum": 52.203,
           "average": 0.7054459459459459,
           "average w/o zero": 0.9491454545454545
         },
@@ -3446,7 +3446,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Portugal": {
           "count": 107,
-          "sum": 84.64500000000001,
+          "sum": 84.645,
           "average": 0.7910747663551402,
           "average w/o zero": 2.116125
         },
@@ -3464,7 +3464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Romania": {
           "count": 75,
-          "sum": 1.8630000000000004,
+          "sum": 1.863,
           "average": 0.024839999999999997,
           "average w/o zero": 0.08871428571428572
         },
@@ -3488,7 +3488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Singapore": {
           "count": 62,
-          "sum": 2.9309999999999996,
+          "sum": 2.931,
           "average": 0.0472741935483871,
           "average w/o zero": 0.22546153846153846
         },
@@ -3518,13 +3518,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Slovenia": {
           "count": 107,
-          "sum": 21.234,
+          "sum": 21.233999999999998,
           "average": 0.19844859813084112,
           "average w/o zero": 0.9651818181818181
         },
         "Sweden": {
           "count": 113,
-          "sum": 16.055000000000003,
+          "sum": 16.055,
           "average": 0.14207964601769912,
           "average w/o zero": 0.5536206896551724
         },
@@ -3554,7 +3554,7 @@ VISUALIZER_DATA_BARS = [
         },
         "United States": {
           "count": 114,
-          "sum": 63.42999999999999,
+          "sum": 63.43,
           "average": 0.5564035087719298,
           "average w/o zero": 0.697032967032967
         },
@@ -3572,7 +3572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "World": {
           "count": 126,
-          "sum": 7.2170000000000005,
+          "sum": 7.217,
           "average": 0.057277777777777775,
           "average w/o zero": 0.06330701754385964
         }
@@ -3580,31 +3580,31 @@ VISUALIZER_DATA_BARS = [
       "Data.Cases.Total per million": {
         "Andorra": {
           "count": 15,
-          "sum": 556.7179999999998,
+          "sum": 556.718,
           "average": 37.114533333333334,
           "average w/o zero": 37.114533333333334
         },
         "United Arab Emirates": {
           "count": 62,
-          "sum": 73.88399999999996,
+          "sum": 73.884,
           "average": 1.1916774193548387,
           "average w/o zero": 1.1916774193548387
         },
         "Argentina": {
           "count": 105,
-          "sum": 92.00299999999996,
+          "sum": 92.003,
           "average": 0.8762190476190476,
           "average w/o zero": 0.8762190476190476
         },
         "Australia": {
           "count": 112,
-          "sum": 183.27799999999993,
+          "sum": 183.278,
           "average": 1.6364107142857143,
           "average w/o zero": 1.6364107142857143
         },
         "Austria": {
           "count": 109,
-          "sum": 1238.0539999999996,
+          "sum": 1238.054,
           "average": 11.358293577981652,
           "average w/o zero": 11.358293577981652
         },
@@ -3622,13 +3622,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Bulgaria": {
           "count": 72,
-          "sum": 37.188,
+          "sum": 37.187999999999995,
           "average": 0.5165,
           "average w/o zero": 0.5165
         },
         "Bahamas": {
           "count": 57,
-          "sum": 142.21499999999992,
+          "sum": 142.215,
           "average": 2.495,
           "average w/o zero": 2.495
         },
@@ -3670,31 +3670,31 @@ VISUALIZER_DATA_BARS = [
         },
         "Canada": {
           "count": 111,
-          "sum": 1665.438,
+          "sum": 1665.4379999999999,
           "average": 15.003945945945945,
           "average w/o zero": 15.003945945945945
         },
         "Switzerland": {
           "count": 110,
-          "sum": 2534.6819999999984,
+          "sum": 2534.682,
           "average": 23.042563636363635,
           "average w/o zero": 23.042563636363635
         },
         "Chile": {
           "count": 84,
-          "sum": 550.6449999999999,
+          "sum": 550.645,
           "average": 6.555297619047619,
           "average w/o zero": 6.555297619047619
         },
         "Cameroon": {
           "count": 22,
-          "sum": 2.4570000000000003,
+          "sum": 2.457,
           "average": 0.11168181818181819,
           "average w/o zero": 0.11168181818181819
         },
         "Democratic Republic of Congo": {
           "count": 92,
-          "sum": 81.09300000000002,
+          "sum": 81.093,
           "average": 0.8814456521739131,
           "average w/o zero": 0.8814456521739131
         },
@@ -3718,25 +3718,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Cuba": {
           "count": 12,
-          "sum": 1.1569999999999998,
+          "sum": 1.157,
           "average": 0.09641666666666666,
           "average w/o zero": 0.09641666666666666
         },
         "Cyprus": {
           "count": 28,
-          "sum": 99.32399999999998,
+          "sum": 99.324,
           "average": 3.5472857142857146,
           "average w/o zero": 3.5472857142857146
         },
         "Czechia": {
           "count": 107,
-          "sum": 197.70800000000008,
+          "sum": 197.708,
           "average": 1.8477383177570093,
           "average w/o zero": 1.8477383177570093
         },
         "Germany": {
           "count": 113,
-          "sum": 2326.2090000000003,
+          "sum": 2326.209,
           "average": 20.5859203539823,
           "average w/o zero": 20.5859203539823
         },
@@ -3748,7 +3748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dominican Republic": {
           "count": 50,
-          "sum": 15.569999999999997,
+          "sum": 15.57,
           "average": 0.3114,
           "average w/o zero": 0.3114
         },
@@ -3766,7 +3766,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Spain": {
           "count": 112,
-          "sum": 6561.5669999999955,
+          "sum": 6561.567,
           "average": 58.58541964285714,
           "average w/o zero": 58.58541964285714
         },
@@ -3778,7 +3778,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Finland": {
           "count": 103,
-          "sum": 234.64899999999983,
+          "sum": 234.649,
           "average": 2.2781456310679613,
           "average w/o zero": 2.2781456310679613
         },
@@ -3790,25 +3790,25 @@ VISUALIZER_DATA_BARS = [
         },
         "United Kingdom": {
           "count": 123,
-          "sum": 2868.166999999999,
+          "sum": 2868.167,
           "average": 23.318430894308943,
           "average w/o zero": 23.318430894308943
         },
         "Georgia": {
           "count": 64,
-          "sum": 17.289999999999996,
+          "sum": 17.29,
           "average": 0.27015625,
           "average w/o zero": 0.27015625
         },
         "Ghana": {
           "count": 90,
-          "sum": 87.49700000000004,
+          "sum": 87.497,
           "average": 0.9721888888888889,
           "average w/o zero": 0.9721888888888889
         },
         "Greece": {
           "count": 93,
-          "sum": 236.56699999999992,
+          "sum": 236.567,
           "average": 2.5437311827956988,
           "average w/o zero": 2.5437311827956988
         },
@@ -3820,7 +3820,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Guatemala": {
           "count": 37,
-          "sum": 10.904999999999998,
+          "sum": 10.905000000000001,
           "average": 0.2947297297297297,
           "average w/o zero": 0.2947297297297297
         },
@@ -3838,13 +3838,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Honduras": {
           "count": 17,
-          "sum": 4.866999999999999,
+          "sum": 4.867,
           "average": 0.2862941176470588,
           "average w/o zero": 0.2862941176470588
         },
         "Croatia": {
           "count": 75,
-          "sum": 204.187,
+          "sum": 204.18699999999998,
           "average": 2.7224933333333334,
           "average w/o zero": 2.7224933333333334
         },
@@ -3862,7 +3862,7 @@ VISUALIZER_DATA_BARS = [
         },
         "India": {
           "count": 54,
-          "sum": 0.2850000000000002,
+          "sum": 0.28500000000000003,
           "average": 0.005277777777777778,
           "average w/o zero": 0.005277777777777778
         },
@@ -3892,7 +3892,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Italy": {
           "count": 113,
-          "sum": 648.9689999999995,
+          "sum": 648.969,
           "average": 5.743088495575221,
           "average w/o zero": 5.743088495575221
         },
@@ -3904,13 +3904,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Japan": {
           "count": 17,
-          "sum": 0.30400000000000005,
+          "sum": 0.304,
           "average": 0.01788235294117647,
           "average w/o zero": 0.01788235294117647
         },
         "South Korea": {
           "count": 77,
-          "sum": 1.5619999999999985,
+          "sum": 1.562,
           "average": 0.020285714285714285,
           "average w/o zero": 0.020285714285714285
         },
@@ -3922,7 +3922,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Liberia": {
           "count": 17,
-          "sum": 3.4730000000000008,
+          "sum": 3.473,
           "average": 0.20429411764705882,
           "average w/o zero": 0.20429411764705882
         },
@@ -3934,19 +3934,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Luxembourg": {
           "count": 85,
-          "sum": 3197.1310000000017,
+          "sum": 3197.131,
           "average": 37.61330588235294,
           "average w/o zero": 37.61330588235294
         },
         "Latvia": {
           "count": 74,
-          "sum": 90.17799999999998,
+          "sum": 90.178,
           "average": 1.2186216216216217,
           "average w/o zero": 1.2186216216216217
         },
         "Morocco": {
           "count": 85,
-          "sum": 2.348999999999999,
+          "sum": 2.349,
           "average": 0.02763529411764706,
           "average w/o zero": 0.02763529411764706
         },
@@ -3964,19 +3964,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Mexico": {
           "count": 101,
-          "sum": 92.94299999999996,
+          "sum": 92.943,
           "average": 0.9202277227722773,
           "average w/o zero": 0.9202277227722773
         },
         "Malta": {
           "count": 103,
-          "sum": 2764.1239999999993,
+          "sum": 2764.124,
           "average": 26.836155339805824,
           "average w/o zero": 26.836155339805824
         },
         "Montenegro": {
           "count": 22,
-          "sum": 36.638000000000005,
+          "sum": 36.638,
           "average": 1.6653636363636364,
           "average w/o zero": 1.6653636363636364
         },
@@ -3988,13 +3988,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Nigeria": {
           "count": 78,
-          "sum": 26.73300000000001,
+          "sum": 26.733,
           "average": 0.3427307692307692,
           "average w/o zero": 0.3427307692307692
         },
         "Netherlands": {
           "count": 111,
-          "sum": 3533.996999999999,
+          "sum": 3533.997,
           "average": 31.83781081081081,
           "average w/o zero": 31.83781081081081
         },
@@ -4006,13 +4006,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New Zealand": {
           "count": 57,
-          "sum": 32.95500000000003,
+          "sum": 32.955,
           "average": 0.5781578947368421,
           "average w/o zero": 0.5781578947368421
         },
         "Panama": {
           "count": 63,
-          "sum": 52.636000000000024,
+          "sum": 52.636,
           "average": 0.8354920634920635,
           "average w/o zero": 0.8354920634920635
         },
@@ -4024,25 +4024,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Philippines": {
           "count": 23,
-          "sum": 0.24200000000000002,
+          "sum": 0.242,
           "average": 0.010521739130434781,
           "average w/o zero": 0.010521739130434781
         },
         "Poland": {
           "count": 90,
-          "sum": 130.99000000000004,
+          "sum": 130.99,
           "average": 1.4554444444444445,
           "average w/o zero": 1.4554444444444445
         },
         "Puerto Rico": {
           "count": 71,
-          "sum": 915.8389999999996,
+          "sum": 915.839,
           "average": 12.899140845070423,
           "average w/o zero": 12.899140845070423
         },
         "Portugal": {
           "count": 107,
-          "sum": 4729.970000000001,
+          "sum": 4729.97,
           "average": 44.205327102803736,
           "average w/o zero": 44.205327102803736
         },
@@ -4054,7 +4054,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Qatar": {
           "count": 21,
-          "sum": 14.507999999999997,
+          "sum": 14.508,
           "average": 0.6908571428571428,
           "average w/o zero": 0.6908571428571428
         },
@@ -4072,13 +4072,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Saudi Arabia": {
           "count": 48,
-          "sum": 5.5070000000000014,
+          "sum": 5.507000000000001,
           "average": 0.11472916666666667,
           "average w/o zero": 0.11472916666666667
         },
         "Sudan": {
           "count": 18,
-          "sum": 0.41800000000000004,
+          "sum": 0.418,
           "average": 0.02322222222222222,
           "average w/o zero": 0.02322222222222222
         },
@@ -4096,7 +4096,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Serbia": {
           "count": 62,
-          "sum": 75.97699999999998,
+          "sum": 75.977,
           "average": 1.2254354838709678,
           "average w/o zero": 1.2254354838709678
         },
@@ -4108,67 +4108,67 @@ VISUALIZER_DATA_BARS = [
         },
         "Slovakia": {
           "count": 61,
-          "sum": 76.74600000000002,
+          "sum": 76.746,
           "average": 1.2581311475409835,
           "average w/o zero": 1.2581311475409835
         },
         "Slovenia": {
           "count": 107,
-          "sum": 1174.3909999999994,
+          "sum": 1174.391,
           "average": 10.975616822429908,
           "average w/o zero": 10.975616822429908
         },
         "Sweden": {
           "count": 113,
-          "sum": 711.5669999999999,
+          "sum": 711.567,
           "average": 6.297053097345133,
           "average w/o zero": 6.297053097345133
         },
         "Thailand": {
           "count": 38,
-          "sum": 1.8760000000000012,
+          "sum": 1.8760000000000001,
           "average": 0.04936842105263158,
           "average w/o zero": 0.04936842105263158
         },
         "Turkey": {
           "count": 55,
-          "sum": 1.7649999999999992,
+          "sum": 1.765,
           "average": 0.03209090909090909,
           "average w/o zero": 0.03209090909090909
         },
         "Taiwan": {
           "count": 75,
-          "sum": 6.930000000000008,
+          "sum": 6.930000000000001,
           "average": 0.0924,
           "average w/o zero": 0.0924
         },
         "Uruguay": {
           "count": 39,
-          "sum": 28.89800000000001,
+          "sum": 28.898,
           "average": 0.7409743589743589,
           "average w/o zero": 0.7409743589743589
         },
         "United States": {
           "count": 114,
-          "sum": 1841.5739999999994,
+          "sum": 1841.574,
           "average": 16.15415789473684,
           "average w/o zero": 16.15415789473684
         },
         "Venezuela": {
           "count": 74,
-          "sum": 2.6610000000000005,
+          "sum": 2.661,
           "average": 0.03595945945945946,
           "average w/o zero": 0.03595945945945946
         },
         "South Africa": {
           "count": 57,
-          "sum": 2.5470000000000006,
+          "sum": 2.547,
           "average": 0.04468421052631579,
           "average w/o zero": 0.04468421052631579
         },
         "World": {
           "count": 126,
-          "sum": 271.43100000000004,
+          "sum": 271.431,
           "average": 2.1542142857142856,
           "average w/o zero": 2.188959677419355
         }
@@ -6036,7 +6036,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Brazil": {
           "count": 92,
-          "sum": 0.16900000000000007,
+          "sum": 0.169,
           "average": 0.0018369565217391305,
           "average w/o zero": 0.005121212121212121
         },
@@ -6186,7 +6186,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ghana": {
           "count": 90,
-          "sum": 0.9310000000000005,
+          "sum": 0.9309999999999999,
           "average": 0.010344444444444444,
           "average w/o zero": 0.03210344827586207
         },
@@ -6372,7 +6372,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nigeria": {
           "count": 78,
-          "sum": 0.5230000000000004,
+          "sum": 0.523,
           "average": 0.0067051282051282055,
           "average w/o zero": 0.008171875
         },
@@ -6402,7 +6402,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Peru": {
           "count": 74,
-          "sum": 0.8090000000000004,
+          "sum": 0.8089999999999999,
           "average": 0.010932432432432432,
           "average w/o zero": 0.031115384615384614
         },
@@ -6552,7 +6552,7 @@ VISUALIZER_DATA_BARS = [
         },
         "World": {
           "count": 126,
-          "sum": 0.05000000000000004,
+          "sum": 0.05,
           "average": 0.0003968253968253968,
           "average w/o zero": 0.0014285714285714286
         }
@@ -6719,7 +6719,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Cases.New per million": {
         "2022": {
           "count": 5874,
-          "sum": 1514.9439999999952,
+          "sum": 1514.944,
           "average": 0.25790670752468503,
           "average w/o zero": 0.9704958360025625
         }
@@ -6727,7 +6727,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Cases.Total per million": {
         "2022": {
           "count": 5874,
-          "sum": 54948.438000001064,
+          "sum": 54948.438,
           "average": 9.354517875383044,
           "average w/o zero": 9.35770401907357
         }
@@ -6751,7 +6751,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Deaths.New per million": {
         "2022": {
           "count": 5874,
-          "sum": 0.4650000000000001,
+          "sum": 0.46499999999999997,
           "average": 7.916241062308478e-05,
           "average w/o zero": 0.027352941176470587
         }
@@ -6759,7 +6759,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Deaths.Total per million": {
         "2022": {
           "count": 5874,
-          "sum": 2.787999999999987,
+          "sum": 2.788,
           "average": 0.00047463398025195775,
           "average w/o zero": 0.014297435897435897
         }

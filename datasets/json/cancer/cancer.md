@@ -99,56 +99,56 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.< 18.Female</td>
+    <td>Rates.Age and Sex.Female.< 18</td>
     <td>Float</td> 
     <td>Female under 18</td>
     <td><code>2.0</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.< 18.Male</td>
+    <td>Rates.Age and Sex.Male.< 18</td>
     <td>Float</td> 
-    <td>Male   under 18</td>
+    <td>Male  under 18</td>
     <td><code>2.1</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.18 - 45.Female</td>
+    <td>Rates.Age and Sex.Female.18 - 45</td>
     <td>Float</td> 
     <td>Female 18 - 45</td>
     <td><code>20.1</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.18 - 45.Male</td>
+    <td>Rates.Age and Sex.Male.18 - 45</td>
     <td>Float</td> 
     <td>Male   18 - 45</td>
     <td><code>16.8</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.45 - 64.Female</td>
+    <td>Rates.Age and Sex.Female.45 - 64</td>
     <td>Float</td> 
     <td>Female 45 to 64 Years</td>
     <td><code>201.0</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.45 - 64.Male</td>
+    <td>Rates.Age and Sex.Male.45 - 64</td>
     <td>Float</td> 
     <td>Male   45 to 64 Years</td>
     <td><code>291.5</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.> 64.Female</td>
+    <td>Rates.Age and Sex.Female.> 64</td>
     <td>Float</td> 
     <td>Female 65 Years and Over</td>
     <td><code>803.6</code></td>
 </tr>
 
 <tr>
-    <td>Rates.Age and Sex.> 64.Male</td>
+    <td>Rates.Age and Sex.Male.> 64</td>
     <td>Float</td> 
     <td>Male   65 Years and Over</td>
     <td><code>1308.6</code></td>

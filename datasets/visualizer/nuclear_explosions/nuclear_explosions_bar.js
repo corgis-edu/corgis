@@ -1,10 +1,10 @@
 VISUALIZER_DATA_BARS = [
   {
     "data": {
-      "Location.Cordinates.Latitude": {
+      "Location.Coordinates.Latitude": {
         "0.0": {
           "count": 1214,
-          "sum": 38653.219999999965,
+          "sum": 38653.22,
           "average": 31.83955518945634,
           "average w/o zero": 39.86745627376426
         },
@@ -22,7 +22,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.4": {
           "count": 33,
-          "sum": 1178.4340000000002,
+          "sum": 1178.434,
           "average": 35.710121212121216,
           "average w/o zero": 38.71754838709678
         },
@@ -64,19 +64,19 @@ VISUALIZER_DATA_BARS = [
         },
         "4.9": {
           "count": 43,
-          "sum": 1428.6760000000004,
+          "sum": 1428.676,
           "average": 33.22502325581395,
           "average w/o zero": 43.95322222222222
         },
         "3.9": {
           "count": 5,
-          "sum": 210.20999999999998,
+          "sum": 210.21,
           "average": 42.042,
           "average w/o zero": 42.042
         },
         "4.5": {
           "count": 29,
-          "sum": 1173.3339999999998,
+          "sum": 1173.334,
           "average": 40.45979310344828,
           "average w/o zero": 45.087074074074074
         },
@@ -88,13 +88,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.6": {
           "count": 61,
-          "sum": 2391.7349999999997,
+          "sum": 2391.735,
           "average": 39.20877049180328,
           "average w/o zero": 44.66480357142857
         },
         "5.5": {
           "count": 44,
-          "sum": 1993.1999999999998,
+          "sum": 1993.2,
           "average": 45.3,
           "average w/o zero": 45.3
         },
@@ -106,13 +106,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.8": {
           "count": 37,
-          "sum": 1562.8919999999998,
+          "sum": 1562.892,
           "average": 42.24032432432433,
           "average w/o zero": 47.89682352941176
         },
         "5.0": {
           "count": 52,
-          "sum": 2034.0469999999996,
+          "sum": 2034.047,
           "average": 39.11628846153846,
           "average w/o zero": 43.7530625
         },
@@ -130,13 +130,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.1": {
           "count": 35,
-          "sum": 1566.2250000000001,
+          "sum": 1566.225,
           "average": 44.74928571428571,
           "average w/o zero": 46.705735294117645
         },
         "5.2": {
           "count": 63,
-          "sum": 2638.3229999999994,
+          "sum": 2638.323,
           "average": 41.878142857142855,
           "average w/o zero": 48.60305263157895
         },
@@ -154,13 +154,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.9": {
           "count": 27,
-          "sum": 1240.4080000000001,
+          "sum": 1240.408,
           "average": 45.941037037037034,
           "average w/o zero": 48.55011538461538
         },
         "5.7": {
           "count": 38,
-          "sum": 1541.6630000000002,
+          "sum": 1541.663,
           "average": 40.57007894736842,
           "average w/o zero": 44.03819444444444
         },
@@ -172,19 +172,19 @@ VISUALIZER_DATA_BARS = [
         },
         "6.4": {
           "count": 10,
-          "sum": 552.7230000000001,
+          "sum": 552.723,
           "average": 55.2723,
           "average w/o zero": 55.2723
         },
         "4.7": {
           "count": 31,
-          "sum": 1017.2130000000002,
+          "sum": 1017.213,
           "average": 32.81332258064516,
           "average w/o zero": 42.50165384615384
         },
         "6.2": {
           "count": 10,
-          "sum": 461.32099999999997,
+          "sum": 461.321,
           "average": 46.1321,
           "average w/o zero": 46.1321
         },
@@ -214,7 +214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.0": {
           "count": 5,
-          "sum": 126.48499999999999,
+          "sum": 126.485,
           "average": 25.297,
           "average w/o zero": 37.12125
         },
@@ -232,7 +232,7 @@ VISUALIZER_DATA_BARS = [
         },
         "7.1": {
           "count": 7,
-          "sum": 341.05299999999994,
+          "sum": 341.053,
           "average": 48.72185714285714,
           "average w/o zero": 48.72185714285714
         },
@@ -261,10 +261,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 41.603
         }
       },
-      "Location.Cordinates.Longitude": {
+      "Location.Coordinates.Longitude": {
         "0.0": {
           "count": 1214,
-          "sum": -59345.53900000003,
+          "sum": -59345.539,
           "average": -48.88429901153213,
           "average w/o zero": 84.74127098321343
         },
@@ -282,13 +282,13 @@ VISUALIZER_DATA_BARS = [
         },
         "4.4": {
           "count": 33,
-          "sum": -2970.704,
+          "sum": -2970.7039999999997,
           "average": -90.02133333333333,
           "average w/o zero": 75.41
         },
         "4.8": {
           "count": 41,
-          "sum": -1551.1199999999994,
+          "sum": -1551.12,
           "average": -37.832195121951216,
           "average w/o zero": 73.48711764705882
         },
@@ -300,13 +300,13 @@ VISUALIZER_DATA_BARS = [
         },
         "4.3": {
           "count": 16,
-          "sum": -1065.1820000000002,
+          "sum": -1065.182,
           "average": -66.573875,
           "average w/o zero": 70.53333333333333
         },
         "4.6": {
           "count": 30,
-          "sum": -2182.0640000000003,
+          "sum": -2182.064,
           "average": -72.73546666666667,
           "average w/o zero": 74.53142857142858
         },
@@ -342,7 +342,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.3": {
           "count": 60,
-          "sum": -248.43800000000005,
+          "sum": -248.43799999999996,
           "average": -4.140633333333333,
           "average w/o zero": 75.1466
         },
@@ -360,49 +360,49 @@ VISUALIZER_DATA_BARS = [
         },
         "6.0": {
           "count": 23,
-          "sum": 828.0379999999998,
+          "sum": 828.038,
           "average": 36.001652173913044,
           "average w/o zero": 70.45568421052631
         },
         "5.8": {
           "count": 37,
-          "sum": -89.22700000000006,
+          "sum": -89.22699999999998,
           "average": -2.41154054054054,
           "average w/o zero": 69.79169565217391
         },
         "5.0": {
           "count": 52,
-          "sum": -1441.0919999999994,
+          "sum": -1441.092,
           "average": -27.71330769230769,
           "average w/o zero": 73.093625
         },
         "5.4": {
           "count": 50,
-          "sum": -89.75199999999995,
+          "sum": -89.75200000000004,
           "average": -1.7950400000000009,
           "average w/o zero": 76.49113333333334
         },
         "4.2": {
           "count": 6,
-          "sum": -603.3779999999999,
+          "sum": -603.378,
           "average": -100.563,
           "average w/o zero": 0
         },
         "5.1": {
           "count": 35,
-          "sum": -229.23099999999994,
+          "sum": -229.23099999999997,
           "average": -6.549457142857142,
           "average w/o zero": 76.5773
         },
         "5.2": {
           "count": 63,
-          "sum": 1652.2569999999994,
+          "sum": 1652.257,
           "average": 26.226301587301588,
           "average w/o zero": 73.55295833333334
         },
         "6.1": {
           "count": 21,
-          "sum": 757.1610000000002,
+          "sum": 757.161,
           "average": 36.05528571428571,
           "average w/o zero": 83.6444375
         },
@@ -414,7 +414,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.9": {
           "count": 27,
-          "sum": 215.64799999999997,
+          "sum": 215.648,
           "average": 7.986962962962963,
           "average w/o zero": 71.366
         },
@@ -438,19 +438,19 @@ VISUALIZER_DATA_BARS = [
         },
         "4.7": {
           "count": 31,
-          "sum": -1074.0309999999997,
+          "sum": -1074.031,
           "average": -34.64616129032258,
           "average w/o zero": 76.20084615384616
         },
         "6.2": {
           "count": 10,
-          "sum": 202.83500000000004,
+          "sum": 202.83499999999998,
           "average": 20.2835,
           "average w/o zero": 78.86357142857143
         },
         "6.8": {
           "count": 5,
-          "sum": 481.0160000000001,
+          "sum": 481.016,
           "average": 96.2032,
           "average w/o zero": 96.2032
         },
@@ -542,13 +542,13 @@ VISUALIZER_DATA_BARS = [
         },
         "4.4": {
           "count": 33,
-          "sum": 145.20000000000007,
+          "sum": 145.20000000000002,
           "average": 4.4,
           "average w/o zero": 4.4
         },
         "4.8": {
           "count": 41,
-          "sum": 196.80000000000013,
+          "sum": 196.79999999999998,
           "average": 4.8,
           "average w/o zero": 4.8
         },
@@ -560,13 +560,13 @@ VISUALIZER_DATA_BARS = [
         },
         "4.3": {
           "count": 16,
-          "sum": 68.79999999999998,
+          "sum": 68.8,
           "average": 4.3,
           "average w/o zero": 4.3
         },
         "4.6": {
           "count": 30,
-          "sum": 137.99999999999991,
+          "sum": 138.0,
           "average": 4.6,
           "average w/o zero": 4.6
         },
@@ -584,7 +584,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.9": {
           "count": 43,
-          "sum": 210.70000000000016,
+          "sum": 210.70000000000002,
           "average": 4.9,
           "average w/o zero": 4.9
         },
@@ -602,13 +602,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.3": {
           "count": 60,
-          "sum": 318.00000000000034,
+          "sum": 318.0,
           "average": 5.3,
           "average w/o zero": 5.3
         },
         "5.6": {
           "count": 61,
-          "sum": 341.6000000000002,
+          "sum": 341.59999999999997,
           "average": 5.6,
           "average w/o zero": 5.6
         },
@@ -626,7 +626,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.8": {
           "count": 37,
-          "sum": 214.6000000000001,
+          "sum": 214.6,
           "average": 5.8,
           "average w/o zero": 5.8
         },
@@ -638,61 +638,61 @@ VISUALIZER_DATA_BARS = [
         },
         "5.4": {
           "count": 50,
-          "sum": 270.0000000000001,
+          "sum": 270.0,
           "average": 5.4,
           "average w/o zero": 5.4
         },
         "4.2": {
           "count": 6,
-          "sum": 25.2,
+          "sum": 25.200000000000003,
           "average": 4.2,
           "average w/o zero": 4.2
         },
         "5.1": {
           "count": 35,
-          "sum": 178.4999999999999,
+          "sum": 178.5,
           "average": 5.1,
           "average w/o zero": 5.1
         },
         "5.2": {
           "count": 63,
-          "sum": 327.5999999999996,
+          "sum": 327.6,
           "average": 5.2,
           "average w/o zero": 5.2
         },
         "6.1": {
           "count": 21,
-          "sum": 128.09999999999997,
+          "sum": 128.1,
           "average": 6.1,
           "average w/o zero": 6.1
         },
         "6.6": {
           "count": 6,
-          "sum": 39.6,
+          "sum": 39.599999999999994,
           "average": 6.6,
           "average w/o zero": 6.6
         },
         "5.9": {
           "count": 27,
-          "sum": 159.30000000000007,
+          "sum": 159.3,
           "average": 5.9,
           "average w/o zero": 5.9
         },
         "5.7": {
           "count": 38,
-          "sum": 216.59999999999988,
+          "sum": 216.6,
           "average": 5.7,
           "average w/o zero": 5.7
         },
         "6.3": {
           "count": 16,
-          "sum": 100.79999999999997,
+          "sum": 100.8,
           "average": 6.3,
           "average w/o zero": 6.3
         },
         "6.4": {
           "count": 10,
-          "sum": 63.99999999999999,
+          "sum": 64.0,
           "average": 6.4,
           "average w/o zero": 6.4
         },
@@ -704,7 +704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "6.2": {
           "count": 10,
-          "sum": 62.000000000000014,
+          "sum": 62.0,
           "average": 6.2,
           "average w/o zero": 6.2
         },
@@ -752,7 +752,7 @@ VISUALIZER_DATA_BARS = [
         },
         "7.1": {
           "count": 7,
-          "sum": 49.7,
+          "sum": 49.699999999999996,
           "average": 7.1,
           "average w/o zero": 7.1
         },
@@ -862,7 +862,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.3": {
           "count": 60,
-          "sum": 22.4,
+          "sum": 22.400000000000002,
           "average": 0.37333333333333335,
           "average w/o zero": 4.48
         },
@@ -874,7 +874,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.5": {
           "count": 44,
-          "sum": 28.199999999999996,
+          "sum": 28.2,
           "average": 0.6409090909090909,
           "average w/o zero": 4.0285714285714285
         },
@@ -922,7 +922,7 @@ VISUALIZER_DATA_BARS = [
         },
         "6.1": {
           "count": 21,
-          "sum": 50.900000000000006,
+          "sum": 50.9,
           "average": 2.4238095238095236,
           "average w/o zero": 4.627272727272727
         },
@@ -946,13 +946,13 @@ VISUALIZER_DATA_BARS = [
         },
         "6.3": {
           "count": 16,
-          "sum": 22.200000000000003,
+          "sum": 22.2,
           "average": 1.3875,
           "average w/o zero": 4.44
         },
         "6.4": {
           "count": 10,
-          "sum": 27.700000000000003,
+          "sum": 27.7,
           "average": 2.77,
           "average w/o zero": 4.616666666666667
         },
@@ -982,7 +982,7 @@ VISUALIZER_DATA_BARS = [
         },
         "6.7": {
           "count": 5,
-          "sum": 18.599999999999998,
+          "sum": 18.6,
           "average": 3.7199999999999998,
           "average w/o zero": 4.65
         },
@@ -1006,7 +1006,7 @@ VISUALIZER_DATA_BARS = [
         },
         "7.2": {
           "count": 3,
-          "sum": 13.200000000000001,
+          "sum": 13.2,
           "average": 4.4,
           "average w/o zero": 4.4
         },
@@ -1041,7 +1041,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Location.Cordinates.Depth": {
+      "Location.Coordinates .Depth": {
         "0.0": {
           "count": 1214,
           "sum": -1070.98,
@@ -1086,7 +1086,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.6": {
           "count": 30,
-          "sum": 2.2929999999999997,
+          "sum": 2.293,
           "average": 0.07643333333333334,
           "average w/o zero": 0.38216666666666665
         },
@@ -1134,7 +1134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.5": {
           "count": 44,
-          "sum": 3.8770000000000002,
+          "sum": 3.877,
           "average": 0.08811363636363637,
           "average w/o zero": 0.6461666666666667
         },
@@ -1200,7 +1200,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.7": {
           "count": 38,
-          "sum": 6.475999999999999,
+          "sum": 6.476,
           "average": 0.17042105263157895,
           "average w/o zero": 0.6476
         },
@@ -1301,10 +1301,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Data.Yeild.Lower": {
+      "Data.Yield.Lower": {
         "0.0": {
           "count": 1214,
-          "sum": 392067.57869999943,
+          "sum": 392067.5787,
           "average": 322.9551719110379,
           "average w/o zero": 643.7891275862069
         },
@@ -1322,7 +1322,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.4": {
           "count": 33,
-          "sum": 276.50199999999995,
+          "sum": 276.502,
           "average": 8.378848484848485,
           "average w/o zero": 25.136545454545455
         },
@@ -1340,7 +1340,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.3": {
           "count": 16,
-          "sum": 25.603,
+          "sum": 25.602999999999998,
           "average": 1.6001874999999999,
           "average w/o zero": 3.6575714285714285
         },
@@ -1364,19 +1364,19 @@ VISUALIZER_DATA_BARS = [
         },
         "4.9": {
           "count": 43,
-          "sum": 241.51000000000008,
+          "sum": 241.51,
           "average": 5.616511627906977,
           "average w/o zero": 9.6604
         },
         "3.9": {
           "count": 5,
-          "sum": 1.9019999999999997,
+          "sum": 1.902,
           "average": 0.38039999999999996,
           "average w/o zero": 0.634
         },
         "4.5": {
           "count": 29,
-          "sum": 95.10600000000001,
+          "sum": 95.106,
           "average": 3.2795172413793106,
           "average w/o zero": 6.3404
         },
@@ -1388,7 +1388,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.6": {
           "count": 61,
-          "sum": 1166.0079999999998,
+          "sum": 1166.008,
           "average": 19.11488524590164,
           "average w/o zero": 22.42323076923077
         },
@@ -1400,7 +1400,7 @@ VISUALIZER_DATA_BARS = [
         },
         "6.0": {
           "count": 23,
-          "sum": 844.0099999999998,
+          "sum": 844.01,
           "average": 36.69608695652174,
           "average w/o zero": 40.19095238095238
         },
@@ -1412,13 +1412,13 @@ VISUALIZER_DATA_BARS = [
         },
         "5.0": {
           "count": 52,
-          "sum": 385.01199999999994,
+          "sum": 385.012,
           "average": 7.404076923076923,
           "average w/o zero": 11.000342857142858
         },
         "5.4": {
           "count": 50,
-          "sum": 715.1189999999999,
+          "sum": 715.119,
           "average": 14.30238,
           "average w/o zero": 15.891533333333333
         },
@@ -1442,49 +1442,49 @@ VISUALIZER_DATA_BARS = [
         },
         "6.1": {
           "count": 21,
-          "sum": 850.0099999999998,
+          "sum": 850.01,
           "average": 40.47666666666667,
           "average w/o zero": 47.22277777777778
         },
         "6.6": {
           "count": 6,
-          "sum": 270.00299999999993,
+          "sum": 270.003,
           "average": 45.0005,
           "average w/o zero": 45.0005
         },
         "5.9": {
           "count": 27,
-          "sum": 870.0059999999999,
+          "sum": 870.006,
           "average": 32.22244444444444,
           "average w/o zero": 34.80024
         },
         "5.7": {
           "count": 38,
-          "sum": 888.6079999999998,
+          "sum": 888.608,
           "average": 23.38442105263158,
           "average w/o zero": 26.135529411764704
         },
         "6.3": {
           "count": 16,
-          "sum": 2800.0020000000004,
+          "sum": 2800.002,
           "average": 175.000125,
           "average w/o zero": 186.6668
         },
         "6.4": {
           "count": 10,
-          "sum": 2600.0020000000004,
+          "sum": 2600.002,
           "average": 260.0002,
           "average w/o zero": 260.0002
         },
         "4.7": {
           "count": 31,
-          "sum": 6389.357000000002,
+          "sum": 6389.357,
           "average": 206.10829032258064,
           "average w/o zero": 375.8445294117647
         },
         "6.2": {
           "count": 10,
-          "sum": 2245.0020000000004,
+          "sum": 2245.002,
           "average": 224.5002,
           "average w/o zero": 224.5002
         },
@@ -1561,10 +1561,10 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 50.0
         }
       },
-      "Data.Yeild.Upper": {
+      "Data.Yield.Upper": {
         "0.0": {
           "count": 1214,
-          "sum": 499152.74669999984,
+          "sum": 499152.7467,
           "average": 411.1637122734761,
           "average w/o zero": 423.0108022881356
         },
@@ -1588,7 +1588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.8": {
           "count": 41,
-          "sum": 2749.8999999999996,
+          "sum": 2749.9,
           "average": 67.07073170731708,
           "average w/o zero": 68.7475
         },
@@ -1636,7 +1636,7 @@ VISUALIZER_DATA_BARS = [
         },
         "4.5": {
           "count": 29,
-          "sum": 1065.1000000000001,
+          "sum": 1065.1,
           "average": 36.727586206896554,
           "average w/o zero": 36.727586206896554
         },
@@ -1654,7 +1654,7 @@ VISUALIZER_DATA_BARS = [
         },
         "5.5": {
           "count": 44,
-          "sum": 3767.3999999999996,
+          "sum": 3767.4,
           "average": 85.62272727272727,
           "average w/o zero": 85.62272727272727
         },

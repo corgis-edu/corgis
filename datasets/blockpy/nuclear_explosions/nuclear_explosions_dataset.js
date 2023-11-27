@@ -6165,7 +6165,7 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
     "type": "String",
     "pretty": "Data.Source"
   },
-  "Location.Cordinates.Latitude": {
+  "Location.Coordinates.Latitude": {
     "data": [
       32.54,
       34.23,
@@ -8214,13 +8214,13 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
       28.9,
       28.49
     ],
-    "name": "Location.Cordinates.Latitude",
+    "name": "Location.Coordinates.Latitude",
     "comment": "Latitude position",
     "index": false,
     "type": "Float",
-    "pretty": "Location.Cordinates.Latitude"
+    "pretty": "Location.Coordinates.Latitude"
   },
-  "Location.Cordinates.Longitude": {
+  "Location.Coordinates.Longitude": {
     "data": [
       -105.57,
       132.27,
@@ -10269,11 +10269,11 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
       64.89,
       63.78
     ],
-    "name": "Location.Cordinates.Longitude",
+    "name": "Location.Coordinates.Longitude",
     "comment": "Longitude position",
     "index": false,
     "type": "Float",
-    "pretty": "Location.Cordinates.Longitude"
+    "pretty": "Location.Coordinates.Longitude"
   },
   "Data.Magnitude.Body": {
     "data": [
@@ -14385,7 +14385,7 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
     "type": "Float",
     "pretty": "Data.Magnitude.Surface"
   },
-  "Location.Cordinates.Depth": {
+  "Location.Coordinates .Depth": {
     "data": [
       -0.1,
       -0.6,
@@ -16434,13 +16434,13 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
       0.0,
       0.0
     ],
-    "name": "Location.Cordinates.Depth",
+    "name": "Location.Coordinates .Depth",
     "comment": "\tDepth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)",
     "index": false,
     "type": "Float",
-    "pretty": "Location.Cordinates.Depth"
+    "pretty": "Location.Coordinates .Depth"
   },
-  "Data.Yeild.Lower": {
+  "Data.Yield.Lower": {
     "data": [
       21.0,
       15.0,
@@ -18489,13 +18489,13 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
       0.0,
       0.0
     ],
-    "name": "Data.Yeild.Lower",
+    "name": "Data.Yield.Lower",
     "comment": "Explosion yield lower estimate in kilotons of TNT",
     "index": false,
     "type": "Float",
-    "pretty": "Data.Yeild.Lower"
+    "pretty": "Data.Yield.Lower"
   },
-  "Data.Yeild.Upper": {
+  "Data.Yield.Upper": {
     "data": [
       21.0,
       15.0,
@@ -20544,11 +20544,11 @@ blockpy._IMPORTED_DATASETS["nuclear_explosions"] = {
       35.0,
       18.0
     ],
-    "name": "Data.Yeild.Upper",
+    "name": "Data.Yield.Upper",
     "comment": "Explosion yield upper estimate in kilotons of TNT",
     "index": false,
     "type": "Float",
-    "pretty": "Data.Yeild.Upper"
+    "pretty": "Data.Yield.Upper"
   },
   "Data.Purpose": {
     "data": [

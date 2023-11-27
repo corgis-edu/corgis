@@ -42,17 +42,15 @@ def _tifa_definitions():
 								{"type": "NumType"}, 
 								{"type": "NumType"}, 
 								{"type": "NumType"}]}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '< 18'}, {"type": "LiteralStr", "value": '18 - 45'}, {"type": "LiteralStr", "value": '45 - 64'}, {"type": "LiteralStr", "value": '> 64'}], "values": [
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '< 18'}, {"type": "LiteralStr", "value": '18 - 45'}, {"type": "LiteralStr", "value": '45 - 64'}, {"type": "LiteralStr", "value": '> 64'}], "values": [
+									{"type": "NumType"}, 
+									{"type": "NumType"}, 
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
+								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": '< 18'}, {"type": "LiteralStr", "value": '18 - 45'}, {"type": "LiteralStr", "value": '45 - 64'}, {"type": "LiteralStr", "value": '> 64'}], "values": [
 									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 									{"type": "NumType"}, 
-									{"type": "NumType"}]}, 
-								{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Female'}, {"type": "LiteralStr", "value": 'Male'}], "values": [
 									{"type": "NumType"}, 
 									{"type": "NumType"}]}]}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'White'}, {"type": "LiteralStr", "value": 'White non-Hispanic'}, {"type": "LiteralStr", "value": 'Black'}, {"type": "LiteralStr", "value": 'Asian'}, {"type": "LiteralStr", "value": 'Indigenous'}, {"type": "LiteralStr", "value": 'Hispanic'}], "values": [

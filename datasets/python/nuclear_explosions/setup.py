@@ -3,7 +3,7 @@ import os.path
 
 setup(
     name='nuclear explosions',
-    version='1.0.0',
+    version='1.0.1',
     py_modules=['nuclear_explosions'],
     data_files=[('', [
         "./nuclear_explosions.data"

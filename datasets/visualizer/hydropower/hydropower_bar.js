@@ -34,7 +34,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Idaho": {
           "count": 20,
-          "sum": 76041.73999999999,
+          "sum": 76041.74,
           "average": 3802.087,
           "average w/o zero": 3802.087
         },
@@ -58,7 +58,7 @@ VISUALIZER_DATA_BARS = [
         },
         "California": {
           "count": 44,
-          "sum": 81113.62999999999,
+          "sum": 81113.63,
           "average": 1843.491590909091,
           "average w/o zero": 1843.491590909091
         },
@@ -94,7 +94,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Texas": {
           "count": 3,
-          "sum": 5243.139999999999,
+          "sum": 5243.14,
           "average": 1747.7133333333334,
           "average w/o zero": 1747.7133333333334
         },
@@ -192,7 +192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "California": {
           "count": 44,
-          "sum": 100884.25999999998,
+          "sum": 100884.26,
           "average": 2292.824090909091,
           "average w/o zero": 2292.824090909091
         },
@@ -210,7 +210,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Colorado": {
           "count": 59,
-          "sum": 77764.95999999999,
+          "sum": 77764.96,
           "average": 1318.0501694915254,
           "average w/o zero": 1318.0501694915254
         },
@@ -320,7 +320,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Utah": {
           "count": 25,
-          "sum": 4493.200000000001,
+          "sum": 4493.2,
           "average": 179.728,
           "average w/o zero": 179.728
         },
@@ -338,7 +338,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nebraska": {
           "count": 21,
-          "sum": 1725.7800000000002,
+          "sum": 1725.78,
           "average": 82.17999999999999,
           "average w/o zero": 82.17999999999999
         },
@@ -424,7 +424,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Oklahoma": {
           "count": 8,
-          "sum": 279.26051899999993,
+          "sum": 279.260519,
           "average": 34.907564875,
           "average w/o zero": 34.907564875
         },
@@ -442,31 +442,31 @@ VISUALIZER_DATA_BARS = [
         },
         "South Dakota": {
           "count": 7,
-          "sum": 311.22274000000004,
+          "sum": 311.22274,
           "average": 44.46039142857143,
           "average w/o zero": 44.46039142857143
         },
         "Montana": {
           "count": 24,
-          "sum": 1133.152459717224,
+          "sum": 1133.1524597172242,
           "average": 47.214685821551015,
           "average w/o zero": 47.214685821551015
         },
         "Utah": {
           "count": 25,
-          "sum": 1011.7919326180884,
+          "sum": 1011.7919326180883,
           "average": 40.47167730472353,
           "average w/o zero": 40.47167730472353
         },
         "California": {
           "count": 44,
-          "sum": 1619.0942944170918,
+          "sum": 1619.0942944170922,
           "average": 36.79759760038846,
           "average w/o zero": 36.79759760038846
         },
         "Arizona": {
           "count": 11,
-          "sum": 374.87155362114765,
+          "sum": 374.8715536211476,
           "average": 34.079232147377056,
           "average w/o zero": 34.079232147377056
         },
@@ -478,13 +478,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Colorado": {
           "count": 59,
-          "sum": 2312.76485006915,
+          "sum": 2312.7648500691503,
           "average": 39.199404238460176,
           "average w/o zero": 39.199404238460176
         },
         "Washington": {
           "count": 16,
-          "sum": 757.7364723,
+          "sum": 757.7364723000001,
           "average": 47.358529518750004,
           "average w/o zero": 47.358529518750004
         },
@@ -540,13 +540,13 @@ VISUALIZER_DATA_BARS = [
       "Location.Longitude": {
         "Oregon": {
           "count": 28,
-          "sum": -3303.569920878937,
+          "sum": -3303.5699208789365,
           "average": -117.98464003139058,
           "average w/o zero": 0
         },
         "Wyoming": {
           "count": 28,
-          "sum": -3021.140767121399,
+          "sum": -3021.1407671213988,
           "average": -107.89788454004996,
           "average w/o zero": 0
         },
@@ -582,25 +582,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Montana": {
           "count": 24,
-          "sum": -2657.1131543568804,
+          "sum": -2657.113154356881,
           "average": -110.71304809820336,
           "average w/o zero": 0
         },
         "Utah": {
           "count": 25,
-          "sum": -2761.753243106356,
+          "sum": -2761.7532431063564,
           "average": -110.47012972425425,
           "average w/o zero": 0
         },
         "California": {
           "count": 44,
-          "sum": -4819.904920652554,
+          "sum": -4819.904920652555,
           "average": -109.54329365119443,
           "average w/o zero": 0
         },
         "Arizona": {
           "count": 11,
-          "sum": -1227.7215648484373,
+          "sum": -1227.7215648484375,
           "average": -111.61105134985796,
           "average w/o zero": 0
         },
@@ -612,7 +612,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Colorado": {
           "count": 59,
-          "sum": -6255.324879231724,
+          "sum": -6255.3248792317245,
           "average": -106.02245558019872,
           "average w/o zero": 0
         },
@@ -1000,7 +1000,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1950": {
           "count": 7,
-          "sum": 23148.699999999997,
+          "sum": 23148.7,
           "average": 3306.957142857143,
           "average w/o zero": 3306.957142857143
         },
@@ -1036,7 +1036,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1909": {
           "count": 4,
-          "sum": 19828.300000000003,
+          "sum": 19828.3,
           "average": 4957.075,
           "average w/o zero": 4957.075
         },
@@ -1482,7 +1482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1950": {
           "count": 7,
-          "sum": 14736.720000000001,
+          "sum": 14736.72,
           "average": 2105.2457142857143,
           "average w/o zero": 2105.2457142857143
         },
@@ -1880,7 +1880,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1964": {
           "count": 11,
-          "sum": 1603.5699999999997,
+          "sum": 1603.57,
           "average": 145.7790909090909,
           "average w/o zero": 145.7790909090909
         },
@@ -2296,7 +2296,7 @@ VISUALIZER_DATA_BARS = [
       "Location.Latitude": {
         "1965": {
           "count": 7,
-          "sum": 288.33532747000004,
+          "sum": 288.33532747,
           "average": 41.19076106714286,
           "average w/o zero": 41.19076106714286
         },
@@ -2308,7 +2308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1935": {
           "count": 5,
-          "sum": 202.5738774975876,
+          "sum": 202.57387749758757,
           "average": 40.51477549951751,
           "average w/o zero": 40.51477549951751
         },
@@ -2338,7 +2338,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1957": {
           "count": 11,
-          "sum": 437.83934136732523,
+          "sum": 437.8393413673252,
           "average": 39.80357648793865,
           "average w/o zero": 39.80357648793865
         },
@@ -2362,7 +2362,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1964": {
           "count": 11,
-          "sum": 416.0113455179184,
+          "sum": 416.01134551791847,
           "average": 37.81921322890168,
           "average w/o zero": 37.81921322890168
         },
@@ -2392,19 +2392,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1936": {
           "count": 10,
-          "sum": 373.2668235000118,
+          "sum": 373.26682350001175,
           "average": 37.32668235000117,
           "average w/o zero": 37.32668235000117
         },
         "1954": {
           "count": 3,
-          "sum": 122.95189884997507,
+          "sum": 122.95189884997505,
           "average": 40.98396628332502,
           "average w/o zero": 40.98396628332502
         },
         "0": {
           "count": 9,
-          "sum": 350.41366607944616,
+          "sum": 350.4136660794461,
           "average": 38.93485178660512,
           "average w/o zero": 38.93485178660512
         },
@@ -2464,7 +2464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1953": {
           "count": 7,
-          "sum": 263.9967130397231,
+          "sum": 263.99671303972303,
           "average": 37.71381614853186,
           "average w/o zero": 37.71381614853186
         },
@@ -2488,7 +2488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1949": {
           "count": 6,
-          "sum": 248.998820193541,
+          "sum": 248.99882019354104,
           "average": 41.499803365590175,
           "average w/o zero": 41.499803365590175
         },
@@ -2506,7 +2506,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 8,
-          "sum": 313.3655499999999,
+          "sum": 313.36555,
           "average": 39.17069375,
           "average w/o zero": 39.17069375
         },
@@ -2542,7 +2542,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1908": {
           "count": 7,
-          "sum": 307.73255309999996,
+          "sum": 307.7325531,
           "average": 43.961793300000004,
           "average w/o zero": 43.961793300000004
         },
@@ -2554,7 +2554,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1966": {
           "count": 6,
-          "sum": 242.86149865824365,
+          "sum": 242.86149865824362,
           "average": 40.47691644304061,
           "average w/o zero": 40.47691644304061
         },
@@ -2596,7 +2596,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1942": {
           "count": 3,
-          "sum": 116.62515994620458,
+          "sum": 116.62515994620459,
           "average": 38.87505331540153,
           "average w/o zero": 38.87505331540153
         },
@@ -2638,7 +2638,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1912": {
           "count": 4,
-          "sum": 155.20730581229725,
+          "sum": 155.20730581229722,
           "average": 38.801826453074305,
           "average w/o zero": 38.801826453074305
         },
@@ -2674,7 +2674,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1923": {
           "count": 5,
-          "sum": 203.58771501986152,
+          "sum": 203.58771501986155,
           "average": 40.71754300397231,
           "average w/o zero": 40.71754300397231
         },
@@ -2692,7 +2692,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1952": {
           "count": 6,
-          "sum": 257.97749999999996,
+          "sum": 257.9775,
           "average": 42.99625,
           "average w/o zero": 42.99625
         },
@@ -2784,7 +2784,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1934": {
           "count": 8,
-          "sum": -856.8625088750606,
+          "sum": -856.8625088750607,
           "average": -107.10781360938259,
           "average w/o zero": 0
         },
@@ -2832,7 +2832,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1946": {
           "count": 12,
-          "sum": -1331.7897851999999,
+          "sum": -1331.7897852,
           "average": -110.9824821,
           "average w/o zero": 0
         },
@@ -2856,7 +2856,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1958": {
           "count": 7,
-          "sum": -744.535919771393,
+          "sum": -744.5359197713931,
           "average": -106.36227425305616,
           "average w/o zero": 0
         },
@@ -2886,7 +2886,7 @@ VISUALIZER_DATA_BARS = [
         },
         "0": {
           "count": 9,
-          "sum": -915.5583811719151,
+          "sum": -915.5583811719152,
           "average": -101.7287090191017,
           "average w/o zero": 0
         },
@@ -2916,7 +2916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1948": {
           "count": 5,
-          "sum": -539.3725233759999,
+          "sum": -539.372523376,
           "average": -107.8745046752,
           "average w/o zero": 0
         },
@@ -2946,7 +2946,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1953": {
           "count": 7,
-          "sum": -762.0130175859575,
+          "sum": -762.0130175859576,
           "average": -108.85900251227966,
           "average w/o zero": 0
         },
@@ -2970,13 +2970,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1949": {
           "count": 6,
-          "sum": -621.3850355261231,
+          "sum": -621.385035526123,
           "average": -103.56417258768718,
           "average w/o zero": 0
         },
         "1926": {
           "count": 4,
-          "sum": -431.28689279297885,
+          "sum": -431.2868927929788,
           "average": -107.8217231982447,
           "average w/o zero": 0
         },
@@ -2988,7 +2988,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 8,
-          "sum": -850.8890200000001,
+          "sum": -850.88902,
           "average": -106.3611275,
           "average w/o zero": 0
         },
@@ -3006,7 +3006,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1961": {
           "count": 6,
-          "sum": -628.885900768519,
+          "sum": -628.8859007685189,
           "average": -104.81431679475315,
           "average w/o zero": 0
         },

@@ -2566,13 +2566,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 806.2999999999998,
+          "sum": 806.3,
           "average": 67.19166666666666,
           "average w/o zero": 67.19166666666666
         },
         "2001": {
           "count": 12,
-          "sum": 806.3999999999999,
+          "sum": 806.4,
           "average": 67.2,
           "average w/o zero": 67.2
         },
@@ -2584,19 +2584,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2003": {
           "count": 12,
-          "sum": 796.8999999999999,
+          "sum": 796.9,
           "average": 66.40833333333333,
           "average w/o zero": 66.40833333333333
         },
         "2004": {
           "count": 12,
-          "sum": 790.6000000000001,
+          "sum": 790.6,
           "average": 65.88333333333333,
           "average w/o zero": 65.88333333333333
         },
         "2005": {
           "count": 12,
-          "sum": 792.8999999999999,
+          "sum": 792.9,
           "average": 66.075,
           "average w/o zero": 66.075
         },
@@ -2608,7 +2608,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 797.4999999999999,
+          "sum": 797.5,
           "average": 66.45833333333334,
           "average w/o zero": 66.45833333333334
         },
@@ -2632,13 +2632,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 774.8999999999997,
+          "sum": 774.9,
           "average": 64.575,
           "average w/o zero": 64.575
         },
         "2012": {
           "count": 12,
-          "sum": 766.8000000000001,
+          "sum": 766.8,
           "average": 63.9,
           "average w/o zero": 63.9
         },
@@ -2650,7 +2650,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 12,
-          "sum": 762.3999999999999,
+          "sum": 762.4,
           "average": 63.53333333333333,
           "average w/o zero": 63.53333333333333
         },
@@ -3134,7 +3134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 36.599999999999994,
+          "sum": 36.6,
           "average": 3.05,
           "average w/o zero": 3.05
         },
@@ -3146,7 +3146,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 47.199999999999996,
+          "sum": 47.2,
           "average": 3.933333333333333,
           "average w/o zero": 3.933333333333333
         },
@@ -3164,19 +3164,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 84.19999999999999,
+          "sum": 84.2,
           "average": 7.016666666666667,
           "average w/o zero": 7.016666666666667
         },
         "2012": {
           "count": 12,
-          "sum": 70.69999999999999,
+          "sum": 70.7,
           "average": 5.891666666666667,
           "average w/o zero": 5.891666666666667
         },
         "2013": {
           "count": 12,
-          "sum": 62.7,
+          "sum": 62.699999999999996,
           "average": 5.225,
           "average w/o zero": 5.225
         },
@@ -3188,7 +3188,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 45.99999999999999,
+          "sum": 46.0,
           "average": 3.833333333333333,
           "average w/o zero": 3.833333333333333
         }
@@ -3666,7 +3666,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 36.599999999999994,
+          "sum": 36.6,
           "average": 3.05,
           "average w/o zero": 3.05
         },
@@ -3678,7 +3678,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 47.199999999999996,
+          "sum": 47.2,
           "average": 3.933333333333333,
           "average w/o zero": 3.933333333333333
         },
@@ -3696,19 +3696,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 84.19999999999999,
+          "sum": 84.2,
           "average": 7.016666666666667,
           "average w/o zero": 7.016666666666667
         },
         "2012": {
           "count": 12,
-          "sum": 70.69999999999999,
+          "sum": 70.7,
           "average": 5.891666666666667,
           "average w/o zero": 5.891666666666667
         },
         "2013": {
           "count": 12,
-          "sum": 62.7,
+          "sum": 62.699999999999996,
           "average": 5.225,
           "average w/o zero": 5.225
         },
@@ -3720,7 +3720,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 45.99999999999999,
+          "sum": 46.0,
           "average": 3.833333333333333,
           "average w/o zero": 3.833333333333333
         }
@@ -4526,7 +4526,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Civilian Labor Force.Black or African American.Participation Rate.All": {
         "1972": {
           "count": 12,
-          "sum": 719.3000000000002,
+          "sum": 719.3,
           "average": 59.94166666666667,
           "average w/o zero": 59.94166666666667
         },
@@ -4538,7 +4538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1974": {
           "count": 12,
-          "sum": 717.8000000000001,
+          "sum": 717.8,
           "average": 59.81666666666667,
           "average w/o zero": 59.81666666666667
         },
@@ -4556,13 +4556,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1977": {
           "count": 12,
-          "sum": 717.6999999999999,
+          "sum": 717.7,
           "average": 59.80833333333334,
           "average w/o zero": 59.80833333333334
         },
         "1978": {
           "count": 12,
-          "sum": 737.6000000000001,
+          "sum": 737.6,
           "average": 61.46666666666667,
           "average w/o zero": 61.46666666666667
         },
@@ -4604,25 +4604,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 754.3999999999999,
+          "sum": 754.4,
           "average": 62.86666666666667,
           "average w/o zero": 62.86666666666667
         },
         "1986": {
           "count": 12,
-          "sum": 759.4999999999999,
+          "sum": 759.5,
           "average": 63.29166666666667,
           "average w/o zero": 63.29166666666667
         },
         "1987": {
           "count": 12,
-          "sum": 765.9999999999999,
+          "sum": 766.0,
           "average": 63.83333333333333,
           "average w/o zero": 63.83333333333333
         },
         "1988": {
           "count": 12,
-          "sum": 765.7,
+          "sum": 765.6999999999999,
           "average": 63.80833333333333,
           "average w/o zero": 63.80833333333333
         },
@@ -4640,31 +4640,31 @@ VISUALIZER_DATA_BARS = [
         },
         "1991": {
           "count": 12,
-          "sum": 759.5000000000001,
+          "sum": 759.5,
           "average": 63.291666666666664,
           "average w/o zero": 63.291666666666664
         },
         "1992": {
           "count": 12,
-          "sum": 767.3000000000001,
+          "sum": 767.3,
           "average": 63.94166666666666,
           "average w/o zero": 63.94166666666666
         },
         "1993": {
           "count": 12,
-          "sum": 757.9000000000001,
+          "sum": 757.9,
           "average": 63.15833333333333,
           "average w/o zero": 63.15833333333333
         },
         "1994": {
           "count": 12,
-          "sum": 760.5999999999999,
+          "sum": 760.6,
           "average": 63.38333333333333,
           "average w/o zero": 63.38333333333333
         },
         "1995": {
           "count": 12,
-          "sum": 765.0000000000001,
+          "sum": 765.0,
           "average": 63.75,
           "average w/o zero": 63.75
         },
@@ -4682,13 +4682,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 786.9000000000001,
+          "sum": 786.9,
           "average": 65.575,
           "average w/o zero": 65.575
         },
         "1999": {
           "count": 12,
-          "sum": 790.0000000000001,
+          "sum": 790.0,
           "average": 65.83333333333333,
           "average w/o zero": 65.83333333333333
         },
@@ -4706,13 +4706,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2002": {
           "count": 12,
-          "sum": 777.1999999999999,
+          "sum": 777.2,
           "average": 64.76666666666667,
           "average w/o zero": 64.76666666666667
         },
         "2003": {
           "count": 12,
-          "sum": 771.8000000000001,
+          "sum": 771.8,
           "average": 64.31666666666666,
           "average w/o zero": 64.31666666666666
         },
@@ -4736,7 +4736,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 763.9000000000001,
+          "sum": 763.9,
           "average": 63.65833333333333,
           "average w/o zero": 63.65833333333333
         },
@@ -4760,7 +4760,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 736.8000000000001,
+          "sum": 736.8,
           "average": 61.4,
           "average w/o zero": 61.4
         },
@@ -4784,7 +4784,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 738.6999999999999,
+          "sum": 738.7,
           "average": 61.55833333333333,
           "average w/o zero": 61.55833333333333
         }
@@ -4810,13 +4810,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1975": {
           "count": 12,
-          "sum": 912.5000000000001,
+          "sum": 912.5,
           "average": 76.04166666666667,
           "average w/o zero": 76.04166666666667
         },
         "1976": {
           "count": 12,
-          "sum": 904.4999999999998,
+          "sum": 904.5,
           "average": 75.375,
           "average w/o zero": 75.375
         },
@@ -4828,7 +4828,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 915.0999999999998,
+          "sum": 915.1,
           "average": 76.25833333333333,
           "average w/o zero": 76.25833333333333
         },
@@ -4840,13 +4840,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1980": {
           "count": 12,
-          "sum": 901.3000000000001,
+          "sum": 901.3,
           "average": 75.10833333333333,
           "average w/o zero": 75.10833333333333
         },
         "1981": {
           "count": 12,
-          "sum": 894.2999999999998,
+          "sum": 894.3,
           "average": 74.525,
           "average w/o zero": 74.525
         },
@@ -4858,7 +4858,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1983": {
           "count": 12,
-          "sum": 902.0999999999999,
+          "sum": 902.1,
           "average": 75.175,
           "average w/o zero": 75.175
         },
@@ -4870,7 +4870,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 892.3000000000001,
+          "sum": 892.3,
           "average": 74.35833333333333,
           "average w/o zero": 74.35833333333333
         },
@@ -4894,25 +4894,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1989": {
           "count": 12,
-          "sum": 891.7000000000002,
+          "sum": 891.6999999999999,
           "average": 74.30833333333334,
           "average w/o zero": 74.30833333333334
         },
         "1990": {
           "count": 12,
-          "sum": 899.5999999999999,
+          "sum": 899.6,
           "average": 74.96666666666667,
           "average w/o zero": 74.96666666666667
         },
         "1991": {
           "count": 12,
-          "sum": 894.8999999999999,
+          "sum": 894.9,
           "average": 74.575,
           "average w/o zero": 74.575
         },
         "1992": {
           "count": 12,
-          "sum": 891.4000000000001,
+          "sum": 891.4,
           "average": 74.28333333333333,
           "average w/o zero": 74.28333333333333
         },
@@ -4930,13 +4930,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 870.1999999999999,
+          "sum": 870.2,
           "average": 72.51666666666667,
           "average w/o zero": 72.51666666666667
         },
         "1996": {
           "count": 12,
-          "sum": 867.4000000000001,
+          "sum": 867.4,
           "average": 72.28333333333333,
           "average w/o zero": 72.28333333333333
         },
@@ -4954,13 +4954,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1999": {
           "count": 12,
-          "sum": 867.9999999999999,
+          "sum": 868.0,
           "average": 72.33333333333333,
           "average w/o zero": 72.33333333333333
         },
         "2000": {
           "count": 12,
-          "sum": 873.0000000000001,
+          "sum": 873.0,
           "average": 72.75,
           "average w/o zero": 72.75
         },
@@ -4996,25 +4996,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 852.8000000000002,
+          "sum": 852.8,
           "average": 71.06666666666666,
           "average w/o zero": 71.06666666666666
         },
         "2007": {
           "count": 12,
-          "sum": 853.8000000000001,
+          "sum": 853.8,
           "average": 71.15,
           "average w/o zero": 71.15
         },
         "2008": {
           "count": 12,
-          "sum": 853.5000000000001,
+          "sum": 853.5,
           "average": 71.125,
           "average w/o zero": 71.125
         },
         "2009": {
           "count": 12,
-          "sum": 834.7000000000002,
+          "sum": 834.7,
           "average": 69.55833333333334,
           "average w/o zero": 69.55833333333334
         },
@@ -5026,7 +5026,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 820.6999999999999,
+          "sum": 820.7,
           "average": 68.39166666666667,
           "average w/o zero": 68.39166666666667
         },
@@ -5038,7 +5038,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 12,
-          "sum": 806.9000000000001,
+          "sum": 806.9,
           "average": 67.24166666666667,
           "average w/o zero": 67.24166666666667
         },
@@ -5050,7 +5050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 807.8000000000001,
+          "sum": 807.8,
           "average": 67.31666666666666,
           "average w/o zero": 67.31666666666666
         }
@@ -5094,7 +5094,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 665.4999999999999,
+          "sum": 665.5,
           "average": 55.458333333333336,
           "average w/o zero": 55.458333333333336
         },
@@ -5118,7 +5118,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 674.3000000000001,
+          "sum": 674.3,
           "average": 56.19166666666667,
           "average w/o zero": 56.19166666666667
         },
@@ -5136,7 +5136,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 703.3000000000001,
+          "sum": 703.3,
           "average": 58.608333333333334,
           "average w/o zero": 58.608333333333334
         },
@@ -5148,7 +5148,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1987": {
           "count": 12,
-          "sum": 719.4999999999999,
+          "sum": 719.5,
           "average": 59.958333333333336,
           "average w/o zero": 59.958333333333336
         },
@@ -5166,37 +5166,37 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 726.8999999999999,
+          "sum": 726.9,
           "average": 60.575,
           "average w/o zero": 60.575
         },
         "1991": {
           "count": 12,
-          "sum": 719.4999999999999,
+          "sum": 719.5,
           "average": 59.958333333333336,
           "average w/o zero": 59.958333333333336
         },
         "1992": {
           "count": 12,
-          "sum": 729.3999999999999,
+          "sum": 729.4,
           "average": 60.78333333333333,
           "average w/o zero": 60.78333333333333
         },
         "1993": {
           "count": 12,
-          "sum": 722.8000000000001,
+          "sum": 722.8,
           "average": 60.233333333333334,
           "average w/o zero": 60.233333333333334
         },
         "1994": {
           "count": 12,
-          "sum": 731.1999999999999,
+          "sum": 731.2,
           "average": 60.93333333333334,
           "average w/o zero": 60.93333333333334
         },
         "1995": {
           "count": 12,
-          "sum": 737.1999999999999,
+          "sum": 737.2,
           "average": 61.43333333333333,
           "average w/o zero": 61.43333333333333
         },
@@ -5208,7 +5208,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 767.5999999999999,
+          "sum": 767.6,
           "average": 63.96666666666667,
           "average w/o zero": 63.96666666666667
         },
@@ -5226,25 +5226,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 784.4999999999999,
+          "sum": 784.5,
           "average": 65.375,
           "average w/o zero": 65.375
         },
         "2001": {
           "count": 12,
-          "sum": 782.9000000000001,
+          "sum": 782.9,
           "average": 65.24166666666666,
           "average w/o zero": 65.24166666666666
         },
         "2002": {
           "count": 12,
-          "sum": 772.4000000000001,
+          "sum": 772.4,
           "average": 64.36666666666666,
           "average w/o zero": 64.36666666666666
         },
         "2003": {
           "count": 12,
-          "sum": 774.8000000000001,
+          "sum": 774.8,
           "average": 64.56666666666666,
           "average w/o zero": 64.56666666666666
         },
@@ -5256,7 +5256,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 12,
-          "sum": 772.1999999999998,
+          "sum": 772.2,
           "average": 64.35,
           "average w/o zero": 64.35
         },
@@ -5280,7 +5280,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 12,
-          "sum": 760.7000000000002,
+          "sum": 760.7,
           "average": 63.391666666666666,
           "average w/o zero": 63.391666666666666
         },
@@ -5298,25 +5298,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2012": {
           "count": 12,
-          "sum": 750.8000000000001,
+          "sum": 750.8,
           "average": 62.56666666666666,
           "average w/o zero": 62.56666666666666
         },
         "2013": {
           "count": 12,
-          "sum": 741.1999999999999,
+          "sum": 741.2,
           "average": 61.766666666666666,
           "average w/o zero": 61.766666666666666
         },
         "2014": {
           "count": 12,
-          "sum": 739.5999999999999,
+          "sum": 739.6,
           "average": 61.63333333333333,
           "average w/o zero": 61.63333333333333
         },
         "2015": {
           "count": 12,
-          "sum": 744.6999999999999,
+          "sum": 744.7,
           "average": 62.05833333333334,
           "average w/o zero": 62.05833333333334
         }
@@ -6122,7 +6122,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Civilian Labor Force.White.Participation Rate.All": {
         "1972": {
           "count": 12,
-          "sum": 725.0999999999999,
+          "sum": 725.1,
           "average": 60.425,
           "average w/o zero": 60.425
         },
@@ -6140,7 +6140,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1975": {
           "count": 12,
-          "sum": 737.4000000000001,
+          "sum": 737.4,
           "average": 61.45,
           "average w/o zero": 61.45
         },
@@ -6170,7 +6170,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1980": {
           "count": 12,
-          "sum": 768.7000000000002,
+          "sum": 768.7,
           "average": 64.05833333333334,
           "average w/o zero": 64.05833333333334
         },
@@ -6236,7 +6236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1991": {
           "count": 12,
-          "sum": 799.3000000000001,
+          "sum": 799.3,
           "average": 66.60833333333333,
           "average w/o zero": 66.60833333333333
         },
@@ -6254,7 +6254,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1994": {
           "count": 12,
-          "sum": 805.3000000000001,
+          "sum": 805.3,
           "average": 67.10833333333333,
           "average w/o zero": 67.10833333333333
         },
@@ -6266,19 +6266,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1996": {
           "count": 12,
-          "sum": 806.4000000000001,
+          "sum": 806.4,
           "average": 67.2,
           "average w/o zero": 67.2
         },
         "1997": {
           "count": 12,
-          "sum": 809.6999999999998,
+          "sum": 809.7,
           "average": 67.475,
           "average w/o zero": 67.475
         },
         "1998": {
           "count": 12,
-          "sum": 807.6999999999999,
+          "sum": 807.7,
           "average": 67.30833333333334,
           "average w/o zero": 67.30833333333334
         },
@@ -6296,7 +6296,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2001": {
           "count": 12,
-          "sum": 804.5999999999998,
+          "sum": 804.6,
           "average": 67.05,
           "average w/o zero": 67.05
         },
@@ -6326,13 +6326,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 797.8000000000001,
+          "sum": 797.8,
           "average": 66.48333333333333,
           "average w/o zero": 66.48333333333333
         },
         "2007": {
           "count": 12,
-          "sum": 796.4999999999999,
+          "sum": 796.5,
           "average": 66.375,
           "average w/o zero": 66.375
         },
@@ -6356,13 +6356,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 774.1999999999999,
+          "sum": 774.2,
           "average": 64.51666666666667,
           "average w/o zero": 64.51666666666667
         },
         "2012": {
           "count": 12,
-          "sum": 768.1000000000001,
+          "sum": 768.1,
           "average": 64.00833333333333,
           "average w/o zero": 64.00833333333333
         },
@@ -6380,7 +6380,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 753.4000000000001,
+          "sum": 753.4,
           "average": 62.78333333333333,
           "average w/o zero": 62.78333333333333
         }
@@ -6406,7 +6406,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1975": {
           "count": 12,
-          "sum": 968.1999999999999,
+          "sum": 968.2,
           "average": 80.68333333333334,
           "average w/o zero": 80.68333333333334
         },
@@ -6430,7 +6430,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1979": {
           "count": 12,
-          "sum": 961.8000000000001,
+          "sum": 961.8,
           "average": 80.15,
           "average w/o zero": 80.15
         },
@@ -6442,19 +6442,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1981": {
           "count": 12,
-          "sum": 954.3000000000001,
+          "sum": 954.3,
           "average": 79.525,
           "average w/o zero": 79.525
         },
         "1982": {
           "count": 12,
-          "sum": 950.2000000000002,
+          "sum": 950.2,
           "average": 79.18333333333334,
           "average w/o zero": 79.18333333333334
         },
         "1983": {
           "count": 12,
-          "sum": 946.1999999999999,
+          "sum": 946.2,
           "average": 78.85,
           "average w/o zero": 78.85
         },
@@ -6466,25 +6466,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 941.9000000000001,
+          "sum": 941.9,
           "average": 78.49166666666666,
           "average w/o zero": 78.49166666666666
         },
         "1986": {
           "count": 12,
-          "sum": 941.2999999999998,
+          "sum": 941.3,
           "average": 78.44166666666666,
           "average w/o zero": 78.44166666666666
         },
         "1987": {
           "count": 12,
-          "sum": 940.8999999999997,
+          "sum": 940.9,
           "average": 78.40833333333333,
           "average w/o zero": 78.40833333333333
         },
         "1988": {
           "count": 12,
-          "sum": 939.6999999999999,
+          "sum": 939.7,
           "average": 78.30833333333334,
           "average w/o zero": 78.30833333333334
         },
@@ -6496,13 +6496,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 942.3000000000001,
+          "sum": 942.3,
           "average": 78.525,
           "average w/o zero": 78.525
         },
         "1991": {
           "count": 12,
-          "sum": 936.3000000000001,
+          "sum": 936.3,
           "average": 78.02499999999999,
           "average w/o zero": 78.02499999999999
         },
@@ -6514,25 +6514,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 932.3999999999999,
+          "sum": 932.4,
           "average": 77.7,
           "average w/o zero": 77.7
         },
         "1994": {
           "count": 12,
-          "sum": 927.1999999999999,
+          "sum": 927.2,
           "average": 77.26666666666667,
           "average w/o zero": 77.26666666666667
         },
         "1995": {
           "count": 12,
-          "sum": 924.9000000000001,
+          "sum": 924.9,
           "average": 77.075,
           "average w/o zero": 77.075
         },
         "1996": {
           "count": 12,
-          "sum": 927.6000000000001,
+          "sum": 927.6,
           "average": 77.3,
           "average w/o zero": 77.3
         },
@@ -6544,19 +6544,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 926.5000000000001,
+          "sum": 926.5,
           "average": 77.20833333333333,
           "average w/o zero": 77.20833333333333
         },
         "1999": {
           "count": 12,
-          "sum": 925.9000000000001,
+          "sum": 925.9,
           "average": 77.15833333333333,
           "average w/o zero": 77.15833333333333
         },
         "2000": {
           "count": 12,
-          "sum": 924.5999999999999,
+          "sum": 924.6,
           "average": 77.05,
           "average w/o zero": 77.05
         },
@@ -6580,25 +6580,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 914.3000000000001,
+          "sum": 914.3,
           "average": 76.19166666666666,
           "average w/o zero": 76.19166666666666
         },
         "2005": {
           "count": 12,
-          "sum": 914.9000000000002,
+          "sum": 914.9,
           "average": 76.24166666666666,
           "average w/o zero": 76.24166666666666
         },
         "2006": {
           "count": 12,
-          "sum": 917.0000000000001,
+          "sum": 917.0,
           "average": 76.41666666666667,
           "average w/o zero": 76.41666666666667
         },
         "2007": {
           "count": 12,
-          "sum": 916.0000000000002,
+          "sum": 916.0,
           "average": 76.33333333333333,
           "average w/o zero": 76.33333333333333
         },
@@ -6634,13 +6634,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 12,
-          "sum": 874.8000000000001,
+          "sum": 874.8,
           "average": 72.9,
           "average w/o zero": 72.9
         },
         "2014": {
           "count": 12,
-          "sum": 866.9000000000001,
+          "sum": 866.9,
           "average": 72.24166666666666,
           "average w/o zero": 72.24166666666666
         },
@@ -6654,7 +6654,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Civilian Labor Force.White.Participation Rate.Women": {
         "1972": {
           "count": 12,
-          "sum": 512.3000000000001,
+          "sum": 512.3,
           "average": 42.69166666666667,
           "average w/o zero": 42.69166666666667
         },
@@ -6666,7 +6666,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1974": {
           "count": 12,
-          "sum": 533.0999999999999,
+          "sum": 533.1,
           "average": 44.425,
           "average w/o zero": 44.425
         },
@@ -6690,25 +6690,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 584.0999999999999,
+          "sum": 584.1,
           "average": 48.675,
           "average w/o zero": 48.675
         },
         "1979": {
           "count": 12,
-          "sum": 597.7,
+          "sum": 597.6999999999999,
           "average": 49.80833333333333,
           "average w/o zero": 49.80833333333333
         },
         "1980": {
           "count": 12,
-          "sum": 607.8000000000001,
+          "sum": 607.8,
           "average": 50.65,
           "average w/o zero": 50.65
         },
         "1981": {
           "count": 12,
-          "sum": 618.2999999999998,
+          "sum": 618.3,
           "average": 51.525,
           "average w/o zero": 51.525
         },
@@ -6732,25 +6732,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 648.3000000000001,
+          "sum": 648.3,
           "average": 54.025,
           "average w/o zero": 54.025
         },
         "1986": {
           "count": 12,
-          "sum": 659.0000000000001,
+          "sum": 659.0,
           "average": 54.916666666666664,
           "average w/o zero": 54.916666666666664
         },
         "1987": {
           "count": 12,
-          "sum": 667.0999999999999,
+          "sum": 667.1,
           "average": 55.59166666666667,
           "average w/o zero": 55.59166666666667
         },
         "1988": {
           "count": 12,
-          "sum": 676.0999999999999,
+          "sum": 676.1,
           "average": 56.34166666666667,
           "average w/o zero": 56.34166666666667
         },
@@ -6762,25 +6762,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 690.9000000000001,
+          "sum": 690.9,
           "average": 57.575,
           "average w/o zero": 57.575
         },
         "1991": {
           "count": 12,
-          "sum": 691.4000000000001,
+          "sum": 691.4,
           "average": 57.61666666666667,
           "average w/o zero": 57.61666666666667
         },
         "1992": {
           "count": 12,
-          "sum": 696.9999999999999,
+          "sum": 697.0,
           "average": 58.083333333333336,
           "average w/o zero": 58.083333333333336
         },
         "1993": {
           "count": 12,
-          "sum": 699.0999999999999,
+          "sum": 699.1,
           "average": 58.25833333333333,
           "average w/o zero": 58.25833333333333
         },
@@ -6792,7 +6792,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 710.3000000000001,
+          "sum": 710.3,
           "average": 59.19166666666667,
           "average w/o zero": 59.19166666666667
         },
@@ -6804,7 +6804,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 719.0999999999999,
+          "sum": 719.1,
           "average": 59.925,
           "average w/o zero": 59.925
         },
@@ -6846,31 +6846,31 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 716.6999999999999,
+          "sum": 716.7,
           "average": 59.725,
           "average w/o zero": 59.725
         },
         "2005": {
           "count": 12,
-          "sum": 716.1000000000001,
+          "sum": 716.1,
           "average": 59.675,
           "average w/o zero": 59.675
         },
         "2006": {
           "count": 12,
-          "sum": 718.9999999999999,
+          "sum": 719.0,
           "average": 59.916666666666664,
           "average w/o zero": 59.916666666666664
         },
         "2007": {
           "count": 12,
-          "sum": 720.4999999999999,
+          "sum": 720.5,
           "average": 60.04166666666667,
           "average w/o zero": 60.04166666666667
         },
         "2008": {
           "count": 12,
-          "sum": 723.5999999999999,
+          "sum": 723.6,
           "average": 60.3,
           "average w/o zero": 60.3
         },
@@ -6888,13 +6888,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 713.0000000000001,
+          "sum": 713.0,
           "average": 59.41666666666667,
           "average w/o zero": 59.41666666666667
         },
         "2012": {
           "count": 12,
-          "sum": 704.6999999999998,
+          "sum": 704.7,
           "average": 58.725,
           "average w/o zero": 58.725
         },
@@ -6906,7 +6906,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 12,
-          "sum": 695.4000000000001,
+          "sum": 695.4,
           "average": 57.95,
           "average w/o zero": 57.95
         },
@@ -7718,7 +7718,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Employed.Black or African American.Employment-Population Ratio.All": {
         "1972": {
           "count": 12,
-          "sum": 644.5999999999999,
+          "sum": 644.6,
           "average": 53.71666666666667,
           "average w/o zero": 53.71666666666667
         },
@@ -7742,7 +7742,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 12,
-          "sum": 609.5000000000001,
+          "sum": 609.5,
           "average": 50.791666666666664,
           "average w/o zero": 50.791666666666664
         },
@@ -7784,7 +7784,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1983": {
           "count": 12,
-          "sum": 594.3000000000001,
+          "sum": 594.3,
           "average": 49.525,
           "average w/o zero": 49.525
         },
@@ -7808,13 +7808,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1987": {
           "count": 12,
-          "sum": 666.8000000000001,
+          "sum": 666.8,
           "average": 55.56666666666666,
           "average w/o zero": 55.56666666666666
         },
         "1988": {
           "count": 12,
-          "sum": 676.1999999999999,
+          "sum": 676.2,
           "average": 56.35,
           "average w/o zero": 56.35
         },
@@ -7826,7 +7826,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 680.3999999999999,
+          "sum": 680.4,
           "average": 56.699999999999996,
           "average w/o zero": 56.699999999999996
         },
@@ -7844,7 +7844,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 659.7000000000002,
+          "sum": 659.7,
           "average": 54.975,
           "average w/o zero": 54.975
         },
@@ -7856,7 +7856,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 685.3000000000001,
+          "sum": 685.3,
           "average": 57.108333333333334,
           "average w/o zero": 57.108333333333334
         },
@@ -7868,7 +7868,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 698.1999999999999,
+          "sum": 698.2,
           "average": 58.18333333333334,
           "average w/o zero": 58.18333333333334
         },
@@ -7886,13 +7886,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 730.4999999999999,
+          "sum": 730.5,
           "average": 60.875,
           "average w/o zero": 60.875
         },
         "2001": {
           "count": 12,
-          "sum": 716.3000000000001,
+          "sum": 716.3,
           "average": 59.69166666666667,
           "average w/o zero": 59.69166666666667
         },
@@ -7910,7 +7910,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 686.3999999999999,
+          "sum": 686.4,
           "average": 57.2,
           "average w/o zero": 57.2
         },
@@ -7928,7 +7928,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 700.7000000000002,
+          "sum": 700.7,
           "average": 58.391666666666666,
           "average w/o zero": 58.391666666666666
         },
@@ -7952,7 +7952,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 620.3000000000001,
+          "sum": 620.3,
           "average": 51.69166666666667,
           "average w/o zero": 51.69166666666667
         },
@@ -7964,19 +7964,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 12,
-          "sum": 638.0999999999999,
+          "sum": 638.1,
           "average": 53.175,
           "average w/o zero": 53.175
         },
         "2014": {
           "count": 12,
-          "sum": 650.9999999999999,
+          "sum": 651.0,
           "average": 54.25,
           "average w/o zero": 54.25
         },
         "2015": {
           "count": 12,
-          "sum": 667.9999999999999,
+          "sum": 668.0,
           "average": 55.666666666666664,
           "average w/o zero": 55.666666666666664
         }
@@ -7990,25 +7990,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1973": {
           "count": 12,
-          "sum": 884.1999999999999,
+          "sum": 884.2,
           "average": 73.68333333333334,
           "average w/o zero": 73.68333333333334
         },
         "1974": {
           "count": 12,
-          "sum": 862.5999999999999,
+          "sum": 862.6,
           "average": 71.88333333333334,
           "average w/o zero": 71.88333333333334
         },
         "1975": {
           "count": 12,
-          "sum": 798.3000000000001,
+          "sum": 798.3,
           "average": 66.525,
           "average w/o zero": 66.525
         },
         "1976": {
           "count": 12,
-          "sum": 801.7000000000002,
+          "sum": 801.7,
           "average": 66.80833333333334,
           "average w/o zero": 66.80833333333334
         },
@@ -8026,7 +8026,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1979": {
           "count": 12,
-          "sum": 829.9000000000001,
+          "sum": 829.9,
           "average": 69.15833333333333,
           "average w/o zero": 69.15833333333333
         },
@@ -8038,7 +8038,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1981": {
           "count": 12,
-          "sum": 774.0000000000001,
+          "sum": 774.0,
           "average": 64.5,
           "average w/o zero": 64.5
         },
@@ -8056,7 +8056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1984": {
           "count": 12,
-          "sum": 769.3000000000001,
+          "sum": 769.3,
           "average": 64.10833333333333,
           "average w/o zero": 64.10833333333333
         },
@@ -8080,13 +8080,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 804.5000000000001,
+          "sum": 804.5,
           "average": 67.04166666666667,
           "average w/o zero": 67.04166666666667
         },
         "1989": {
           "count": 12,
-          "sum": 802.4999999999999,
+          "sum": 802.5,
           "average": 66.875,
           "average w/o zero": 66.875
         },
@@ -8104,13 +8104,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1992": {
           "count": 12,
-          "sum": 771.0999999999999,
+          "sum": 771.1,
           "average": 64.25833333333333,
           "average w/o zero": 64.25833333333333
         },
         "1993": {
           "count": 12,
-          "sum": 771.8000000000001,
+          "sum": 771.8,
           "average": 64.31666666666666,
           "average w/o zero": 64.31666666666666
         },
@@ -8122,7 +8122,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 793.4999999999999,
+          "sum": 793.5,
           "average": 66.125,
           "average w/o zero": 66.125
         },
@@ -8134,13 +8134,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 792.4999999999999,
+          "sum": 792.5,
           "average": 66.04166666666667,
           "average w/o zero": 66.04166666666667
         },
         "1998": {
           "count": 12,
-          "sum": 805.4000000000001,
+          "sum": 805.4,
           "average": 67.11666666666667,
           "average w/o zero": 67.11666666666667
         },
@@ -8152,7 +8152,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 812.8999999999999,
+          "sum": 812.9,
           "average": 67.74166666666666,
           "average w/o zero": 67.74166666666666
         },
@@ -8194,13 +8194,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 786.3000000000001,
+          "sum": 786.3,
           "average": 65.525,
           "average w/o zero": 65.525
         },
         "2008": {
           "count": 12,
-          "sum": 766.5999999999999,
+          "sum": 766.6,
           "average": 63.88333333333333,
           "average w/o zero": 63.88333333333333
         },
@@ -8212,13 +8212,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 12,
-          "sum": 689.6000000000001,
+          "sum": 689.6,
           "average": 57.46666666666667,
           "average w/o zero": 57.46666666666667
         },
         "2011": {
           "count": 12,
-          "sum": 683.1999999999999,
+          "sum": 683.2,
           "average": 56.93333333333333,
           "average w/o zero": 56.93333333333333
         },
@@ -8230,7 +8230,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 12,
-          "sum": 702.9000000000001,
+          "sum": 702.9,
           "average": 58.575,
           "average w/o zero": 58.575
         },
@@ -8242,7 +8242,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 730.9999999999999,
+          "sum": 731.0,
           "average": 60.916666666666664,
           "average w/o zero": 60.916666666666664
         }
@@ -8250,13 +8250,13 @@ VISUALIZER_DATA_BARS = [
       "Data.Employed.Black or African American.Employment-Population Ratio.Women": {
         "1972": {
           "count": 12,
-          "sum": 558.4000000000001,
+          "sum": 558.4,
           "average": 46.53333333333333,
           "average w/o zero": 46.53333333333333
         },
         "1973": {
           "count": 12,
-          "sum": 565.9999999999999,
+          "sum": 566.0,
           "average": 47.166666666666664,
           "average w/o zero": 47.166666666666664
         },
@@ -8274,19 +8274,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 12,
-          "sum": 556.0999999999999,
+          "sum": 556.1,
           "average": 46.34166666666667,
           "average w/o zero": 46.34166666666667
         },
         "1977": {
           "count": 12,
-          "sum": 563.4000000000001,
+          "sum": 563.4,
           "average": 46.95,
           "average w/o zero": 46.95
         },
         "1978": {
           "count": 12,
-          "sum": 591.1999999999999,
+          "sum": 591.2,
           "average": 49.266666666666666,
           "average w/o zero": 49.266666666666666
         },
@@ -8298,7 +8298,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1980": {
           "count": 12,
-          "sum": 588.6999999999999,
+          "sum": 588.7,
           "average": 49.05833333333333,
           "average w/o zero": 49.05833333333333
         },
@@ -8310,7 +8310,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 570.3000000000001,
+          "sum": 570.3,
           "average": 47.525,
           "average w/o zero": 47.525
         },
@@ -8340,13 +8340,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1987": {
           "count": 12,
-          "sum": 635.8000000000001,
+          "sum": 635.8,
           "average": 52.983333333333334,
           "average w/o zero": 52.983333333333334
         },
         "1988": {
           "count": 12,
-          "sum": 646.5000000000001,
+          "sum": 646.5,
           "average": 53.875,
           "average w/o zero": 53.875
         },
@@ -8364,7 +8364,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1991": {
           "count": 12,
-          "sum": 643.1999999999999,
+          "sum": 643.2,
           "average": 53.6,
           "average w/o zero": 53.6
         },
@@ -8376,7 +8376,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 645.5000000000001,
+          "sum": 645.5,
           "average": 53.791666666666664,
           "average w/o zero": 53.791666666666664
         },
@@ -8406,13 +8406,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 716.9000000000001,
+          "sum": 716.9,
           "average": 59.74166666666667,
           "average w/o zero": 59.74166666666667
         },
         "1999": {
           "count": 12,
-          "sum": 738.6000000000001,
+          "sum": 738.6,
           "average": 61.55,
           "average w/o zero": 61.55
         },
@@ -8436,7 +8436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2003": {
           "count": 12,
-          "sum": 703.5999999999998,
+          "sum": 703.6,
           "average": 58.63333333333333,
           "average w/o zero": 58.63333333333333
         },
@@ -8448,7 +8448,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 12,
-          "sum": 706.4000000000001,
+          "sum": 706.4,
           "average": 58.86666666666667,
           "average w/o zero": 58.86666666666667
         },
@@ -8466,13 +8466,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 709.3000000000001,
+          "sum": 709.3,
           "average": 59.108333333333334,
           "average w/o zero": 59.108333333333334
         },
         "2009": {
           "count": 12,
-          "sum": 673.5000000000001,
+          "sum": 673.5,
           "average": 56.125,
           "average w/o zero": 56.125
         },
@@ -8490,19 +8490,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2012": {
           "count": 12,
-          "sum": 661.6999999999999,
+          "sum": 661.7,
           "average": 55.141666666666666,
           "average w/o zero": 55.141666666666666
         },
         "2013": {
           "count": 12,
-          "sum": 657.6000000000001,
+          "sum": 657.6,
           "average": 54.8,
           "average w/o zero": 54.8
         },
         "2014": {
           "count": 12,
-          "sum": 667.1999999999999,
+          "sum": 667.2,
           "average": 55.6,
           "average w/o zero": 55.6
         },
@@ -9314,19 +9314,19 @@ VISUALIZER_DATA_BARS = [
       "Data.Employed.White.Employment-Population Ratio.All": {
         "1972": {
           "count": 12,
-          "sum": 688.3000000000001,
+          "sum": 688.3,
           "average": 57.358333333333334,
           "average w/o zero": 57.358333333333334
         },
         "1973": {
           "count": 12,
-          "sum": 698.1999999999999,
+          "sum": 698.2,
           "average": 58.18333333333333,
           "average w/o zero": 58.18333333333333
         },
         "1974": {
           "count": 12,
-          "sum": 699.3000000000001,
+          "sum": 699.3,
           "average": 58.275,
           "average w/o zero": 58.275
         },
@@ -9356,19 +9356,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1979": {
           "count": 12,
-          "sum": 727.6999999999999,
+          "sum": 727.7,
           "average": 60.641666666666666,
           "average w/o zero": 60.641666666666666
         },
         "1980": {
           "count": 12,
-          "sum": 720.1999999999999,
+          "sum": 720.2,
           "average": 60.016666666666666,
           "average w/o zero": 60.016666666666666
         },
         "1981": {
           "count": 12,
-          "sum": 719.8000000000001,
+          "sum": 719.8,
           "average": 59.983333333333334,
           "average w/o zero": 59.983333333333334
         },
@@ -9380,7 +9380,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1983": {
           "count": 12,
-          "sum": 707.1999999999999,
+          "sum": 707.2,
           "average": 58.93333333333333,
           "average w/o zero": 58.93333333333333
         },
@@ -9398,7 +9398,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1986": {
           "count": 12,
-          "sum": 738.3000000000001,
+          "sum": 738.3,
           "average": 61.525,
           "average w/o zero": 61.525
         },
@@ -9410,13 +9410,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 757.0999999999999,
+          "sum": 757.1,
           "average": 63.09166666666667,
           "average w/o zero": 63.09166666666667
         },
         "1989": {
           "count": 12,
-          "sum": 765.2000000000002,
+          "sum": 765.2,
           "average": 63.766666666666666,
           "average w/o zero": 63.766666666666666
         },
@@ -9428,7 +9428,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1991": {
           "count": 12,
-          "sum": 750.6999999999999,
+          "sum": 750.7,
           "average": 62.55833333333334,
           "average w/o zero": 62.55833333333334
         },
@@ -9440,13 +9440,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 752.6000000000001,
+          "sum": 752.6,
           "average": 62.71666666666667,
           "average w/o zero": 62.71666666666667
         },
         "1994": {
           "count": 12,
-          "sum": 762.4000000000001,
+          "sum": 762.4,
           "average": 63.53333333333333,
           "average w/o zero": 63.53333333333333
         },
@@ -9464,7 +9464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 775.1999999999999,
+          "sum": 775.2,
           "average": 64.6,
           "average w/o zero": 64.6
         },
@@ -9482,7 +9482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 779.1999999999999,
+          "sum": 779.2,
           "average": 64.93333333333334,
           "average w/o zero": 64.93333333333334
         },
@@ -9512,7 +9512,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 12,
-          "sum": 760.9000000000001,
+          "sum": 760.9,
           "average": 63.40833333333333,
           "average w/o zero": 63.40833333333333
         },
@@ -9566,13 +9566,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 12,
-          "sum": 716.8000000000002,
+          "sum": 716.8,
           "average": 59.733333333333334,
           "average w/o zero": 59.733333333333334
         },
         "2015": {
           "count": 12,
-          "sum": 718.6999999999999,
+          "sum": 718.7,
           "average": 59.891666666666666,
           "average w/o zero": 59.891666666666666
         }
@@ -9580,13 +9580,13 @@ VISUALIZER_DATA_BARS = [
       "Data.Employed.White.Employment-Population Ratio.Men": {
         "1972": {
           "count": 12,
-          "sum": 947.8000000000001,
+          "sum": 947.8,
           "average": 78.98333333333333,
           "average w/o zero": 78.98333333333333
         },
         "1973": {
           "count": 12,
-          "sum": 950.0999999999999,
+          "sum": 950.1,
           "average": 79.175,
           "average w/o zero": 79.175
         },
@@ -9604,7 +9604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 12,
-          "sum": 911.9000000000002,
+          "sum": 911.9,
           "average": 75.99166666666666,
           "average w/o zero": 75.99166666666666
         },
@@ -9616,19 +9616,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 925.9000000000001,
+          "sum": 925.9,
           "average": 77.15833333333333,
           "average w/o zero": 77.15833333333333
         },
         "1979": {
           "count": 12,
-          "sum": 927.0000000000001,
+          "sum": 927.0,
           "average": 77.25,
           "average w/o zero": 77.25
         },
         "1980": {
           "count": 12,
-          "sum": 907.6999999999999,
+          "sum": 907.7,
           "average": 75.64166666666667,
           "average w/o zero": 75.64166666666667
         },
@@ -9640,7 +9640,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 876.0999999999999,
+          "sum": 876.1,
           "average": 73.00833333333334,
           "average w/o zero": 73.00833333333334
         },
@@ -9658,7 +9658,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 891.5000000000002,
+          "sum": 891.5,
           "average": 74.29166666666667,
           "average w/o zero": 74.29166666666667
         },
@@ -9670,13 +9670,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1987": {
           "count": 12,
-          "sum": 895.9000000000001,
+          "sum": 895.9,
           "average": 74.65833333333333,
           "average w/o zero": 74.65833333333333
         },
         "1988": {
           "count": 12,
-          "sum": 900.9000000000001,
+          "sum": 900.9,
           "average": 75.075,
           "average w/o zero": 75.075
         },
@@ -9700,13 +9700,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1992": {
           "count": 12,
-          "sum": 876.4999999999999,
+          "sum": 876.5,
           "average": 73.04166666666667,
           "average w/o zero": 73.04166666666667
         },
         "1993": {
           "count": 12,
-          "sum": 879.5000000000001,
+          "sum": 879.5,
           "average": 73.29166666666667,
           "average w/o zero": 73.29166666666667
         },
@@ -9718,13 +9718,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 885.5000000000001,
+          "sum": 885.5,
           "average": 73.79166666666667,
           "average w/o zero": 73.79166666666667
         },
         "1996": {
           "count": 12,
-          "sum": 890.1999999999999,
+          "sum": 890.2,
           "average": 74.18333333333334,
           "average w/o zero": 74.18333333333334
         },
@@ -9736,25 +9736,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 896.4000000000001,
+          "sum": 896.4,
           "average": 74.7,
           "average w/o zero": 74.7
         },
         "1999": {
           "count": 12,
-          "sum": 897.9000000000001,
+          "sum": 897.9,
           "average": 74.825,
           "average w/o zero": 74.825
         },
         "2000": {
           "count": 12,
-          "sum": 898.4000000000001,
+          "sum": 898.4,
           "average": 74.86666666666667,
           "average w/o zero": 74.86666666666667
         },
         "2001": {
           "count": 12,
-          "sum": 888.2000000000002,
+          "sum": 888.2,
           "average": 74.01666666666667,
           "average w/o zero": 74.01666666666667
         },
@@ -9778,7 +9778,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 12,
-          "sum": 879.6999999999999,
+          "sum": 879.7,
           "average": 73.30833333333334,
           "average w/o zero": 73.30833333333334
         },
@@ -9796,25 +9796,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 868.6999999999999,
+          "sum": 868.7,
           "average": 72.39166666666667,
           "average w/o zero": 72.39166666666667
         },
         "2009": {
           "count": 12,
-          "sum": 824.3000000000001,
+          "sum": 824.3,
           "average": 68.69166666666666,
           "average w/o zero": 68.69166666666666
         },
         "2010": {
           "count": 12,
-          "sum": 814.9000000000001,
+          "sum": 814.9,
           "average": 67.90833333333333,
           "average w/o zero": 67.90833333333333
         },
         "2011": {
           "count": 12,
-          "sum": 818.0999999999999,
+          "sum": 818.1,
           "average": 68.175,
           "average w/o zero": 68.175
         },
@@ -9826,13 +9826,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2013": {
           "count": 12,
-          "sum": 820.7000000000002,
+          "sum": 820.7,
           "average": 68.39166666666667,
           "average w/o zero": 68.39166666666667
         },
         "2014": {
           "count": 12,
-          "sum": 824.7000000000002,
+          "sum": 824.7,
           "average": 68.725,
           "average w/o zero": 68.725
         },
@@ -9846,13 +9846,13 @@ VISUALIZER_DATA_BARS = [
       "Data.Employed.White.Employment-Population Ratio.Women": {
         "1972": {
           "count": 12,
-          "sum": 487.0999999999999,
+          "sum": 487.1,
           "average": 40.59166666666667,
           "average w/o zero": 40.59166666666667
         },
         "1973": {
           "count": 12,
-          "sum": 499.00000000000006,
+          "sum": 499.0,
           "average": 41.583333333333336,
           "average w/o zero": 41.583333333333336
         },
@@ -9864,7 +9864,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1975": {
           "count": 12,
-          "sum": 502.79999999999995,
+          "sum": 502.8,
           "average": 41.9,
           "average w/o zero": 41.9
         },
@@ -9882,7 +9882,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 553.4000000000001,
+          "sum": 553.4,
           "average": 46.11666666666667,
           "average w/o zero": 46.11666666666667
         },
@@ -9900,7 +9900,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1981": {
           "count": 12,
-          "sum": 581.9000000000001,
+          "sum": 581.9,
           "average": 48.49166666666667,
           "average w/o zero": 48.49166666666667
         },
@@ -9930,13 +9930,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1986": {
           "count": 12,
-          "sum": 623.4999999999999,
+          "sum": 623.5,
           "average": 51.958333333333336,
           "average w/o zero": 51.958333333333336
         },
         "1987": {
           "count": 12,
-          "sum": 636.6999999999999,
+          "sum": 636.7,
           "average": 53.05833333333334,
           "average w/o zero": 53.05833333333334
         },
@@ -9948,7 +9948,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1989": {
           "count": 12,
-          "sum": 658.5000000000001,
+          "sum": 658.5,
           "average": 54.875,
           "average w/o zero": 54.875
         },
@@ -9966,13 +9966,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1992": {
           "count": 12,
-          "sum": 658.9000000000001,
+          "sum": 658.9,
           "average": 54.90833333333333,
           "average w/o zero": 54.90833333333333
         },
         "1993": {
           "count": 12,
-          "sum": 662.9000000000001,
+          "sum": 662.9,
           "average": 55.24166666666667,
           "average w/o zero": 55.24166666666667
         },
@@ -10014,7 +10014,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 696.0000000000001,
+          "sum": 696.0,
           "average": 58.0,
           "average w/o zero": 58.0
         },
@@ -10038,7 +10038,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 686.9000000000001,
+          "sum": 686.9,
           "average": 57.24166666666667,
           "average w/o zero": 57.24166666666667
         },
@@ -10050,7 +10050,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 692.8999999999999,
+          "sum": 692.9,
           "average": 57.74166666666667,
           "average w/o zero": 57.74166666666667
         },
@@ -10074,19 +10074,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 12,
-          "sum": 667.6000000000001,
+          "sum": 667.6,
           "average": 55.63333333333333,
           "average w/o zero": 55.63333333333333
         },
         "2011": {
           "count": 12,
-          "sum": 663.0999999999999,
+          "sum": 663.1,
           "average": 55.25833333333333,
           "average w/o zero": 55.25833333333333
         },
         "2012": {
           "count": 12,
-          "sum": 658.5000000000001,
+          "sum": 658.5,
           "average": 54.875,
           "average w/o zero": 54.875
         },
@@ -10098,7 +10098,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 12,
-          "sum": 661.8000000000001,
+          "sum": 661.8,
           "average": 55.15,
           "average w/o zero": 55.15
         },
@@ -10922,13 +10922,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1974": {
           "count": 12,
-          "sum": 125.89999999999999,
+          "sum": 125.9,
           "average": 10.491666666666667,
           "average w/o zero": 10.491666666666667
         },
         "1975": {
           "count": 12,
-          "sum": 177.39999999999998,
+          "sum": 177.4,
           "average": 14.783333333333333,
           "average w/o zero": 14.783333333333333
         },
@@ -10940,7 +10940,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1977": {
           "count": 12,
-          "sum": 168.20000000000002,
+          "sum": 168.2,
           "average": 14.016666666666666,
           "average w/o zero": 14.016666666666666
         },
@@ -10958,7 +10958,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1980": {
           "count": 12,
-          "sum": 171.10000000000002,
+          "sum": 171.1,
           "average": 14.258333333333333,
           "average w/o zero": 14.258333333333333
         },
@@ -10988,13 +10988,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1985": {
           "count": 12,
-          "sum": 180.89999999999998,
+          "sum": 180.9,
           "average": 15.075,
           "average w/o zero": 15.075
         },
         "1986": {
           "count": 12,
-          "sum": 174.50000000000003,
+          "sum": 174.5,
           "average": 14.541666666666668,
           "average w/o zero": 14.541666666666668
         },
@@ -11006,7 +11006,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 140.79999999999998,
+          "sum": 140.8,
           "average": 11.733333333333334,
           "average w/o zero": 11.733333333333334
         },
@@ -11030,7 +11030,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1992": {
           "count": 12,
-          "sum": 170.29999999999998,
+          "sum": 170.3,
           "average": 14.191666666666666,
           "average w/o zero": 14.191666666666666
         },
@@ -11054,19 +11054,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1996": {
           "count": 12,
-          "sum": 126.30000000000001,
+          "sum": 126.3,
           "average": 10.525,
           "average w/o zero": 10.525
         },
         "1997": {
           "count": 12,
-          "sum": 120.60000000000001,
+          "sum": 120.6,
           "average": 10.05,
           "average w/o zero": 10.05
         },
         "1998": {
           "count": 12,
-          "sum": 107.09999999999998,
+          "sum": 107.1,
           "average": 8.925,
           "average w/o zero": 8.925
         },
@@ -11102,13 +11102,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 124.60000000000001,
+          "sum": 124.6,
           "average": 10.383333333333333,
           "average w/o zero": 10.383333333333333
         },
         "2005": {
           "count": 12,
-          "sum": 120.00000000000001,
+          "sum": 120.0,
           "average": 10.0,
           "average w/o zero": 10.0
         },
@@ -11126,7 +11126,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 120.90000000000002,
+          "sum": 120.9,
           "average": 10.075,
           "average w/o zero": 10.075
         },
@@ -11168,7 +11168,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 114.79999999999998,
+          "sum": 114.8,
           "average": 9.566666666666666,
           "average w/o zero": 9.566666666666666
         }
@@ -11182,13 +11182,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1973": {
           "count": 12,
-          "sum": 72.00000000000001,
+          "sum": 72.0,
           "average": 6.0,
           "average w/o zero": 6.0
         },
         "1974": {
           "count": 12,
-          "sum": 88.89999999999999,
+          "sum": 88.9,
           "average": 7.408333333333333,
           "average w/o zero": 7.408333333333333
         },
@@ -11218,7 +11218,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1979": {
           "count": 12,
-          "sum": 112.1,
+          "sum": 112.10000000000001,
           "average": 9.341666666666667,
           "average w/o zero": 9.341666666666667
         },
@@ -11236,7 +11236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 212.89999999999998,
+          "sum": 212.9,
           "average": 17.741666666666667,
           "average w/o zero": 17.741666666666667
         },
@@ -11248,13 +11248,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1984": {
           "count": 12,
-          "sum": 172.20000000000002,
+          "sum": 172.2,
           "average": 14.35,
           "average w/o zero": 14.35
         },
         "1985": {
           "count": 12,
-          "sum": 158.10000000000002,
+          "sum": 158.1,
           "average": 13.175,
           "average w/o zero": 13.175
         },
@@ -11266,13 +11266,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1987": {
           "count": 12,
-          "sum": 132.79999999999998,
+          "sum": 132.8,
           "average": 11.066666666666666,
           "average w/o zero": 11.066666666666666
         },
         "1988": {
           "count": 12,
-          "sum": 120.99999999999999,
+          "sum": 121.0,
           "average": 10.083333333333334,
           "average w/o zero": 10.083333333333334
         },
@@ -11284,7 +11284,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 125.39999999999999,
+          "sum": 125.4,
           "average": 10.45,
           "average w/o zero": 10.45
         },
@@ -11308,7 +11308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1994": {
           "count": 12,
-          "sum": 123.30000000000001,
+          "sum": 123.3,
           "average": 10.275,
           "average w/o zero": 10.275
         },
@@ -11320,7 +11320,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1996": {
           "count": 12,
-          "sum": 112.39999999999999,
+          "sum": 112.4,
           "average": 9.366666666666667,
           "average w/o zero": 9.366666666666667
         },
@@ -11332,7 +11332,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 89.30000000000001,
+          "sum": 89.3,
           "average": 7.441666666666666,
           "average w/o zero": 7.441666666666666
         },
@@ -11362,7 +11362,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2003": {
           "count": 12,
-          "sum": 124.30000000000001,
+          "sum": 124.3,
           "average": 10.358333333333333,
           "average w/o zero": 10.358333333333333
         },
@@ -11374,7 +11374,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 12,
-          "sum": 110.79999999999998,
+          "sum": 110.8,
           "average": 9.233333333333334,
           "average w/o zero": 9.233333333333334
         },
@@ -11386,7 +11386,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 95.00000000000003,
+          "sum": 95.0,
           "average": 7.916666666666667,
           "average w/o zero": 7.916666666666667
         },
@@ -11398,13 +11398,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 12,
-          "sum": 195.09999999999997,
+          "sum": 195.1,
           "average": 16.258333333333333,
           "average w/o zero": 16.258333333333333
         },
         "2010": {
           "count": 12,
-          "sum": 207.39999999999998,
+          "sum": 207.4,
           "average": 17.28333333333333,
           "average w/o zero": 17.28333333333333
         },
@@ -11454,7 +11454,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1974": {
           "count": 12,
-          "sum": 105.19999999999999,
+          "sum": 105.2,
           "average": 8.766666666666666,
           "average w/o zero": 8.766666666666666
         },
@@ -11466,7 +11466,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1976": {
           "count": 12,
-          "sum": 140.50000000000003,
+          "sum": 140.5,
           "average": 11.708333333333334,
           "average w/o zero": 11.708333333333334
         },
@@ -11478,7 +11478,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 134.39999999999998,
+          "sum": 134.4,
           "average": 11.2,
           "average w/o zero": 11.2
         },
@@ -11502,7 +11502,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 185.00000000000003,
+          "sum": 185.0,
           "average": 15.416666666666666,
           "average w/o zero": 15.416666666666666
         },
@@ -11514,7 +11514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1984": {
           "count": 12,
-          "sum": 162.50000000000003,
+          "sum": 162.5,
           "average": 13.541666666666666,
           "average w/o zero": 13.541666666666666
         },
@@ -11538,7 +11538,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 124.4,
+          "sum": 124.39999999999999,
           "average": 10.366666666666667,
           "average w/o zero": 10.366666666666667
         },
@@ -11568,13 +11568,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 128.29999999999998,
+          "sum": 128.3,
           "average": 10.691666666666666,
           "average w/o zero": 10.691666666666666
         },
         "1994": {
           "count": 12,
-          "sum": 117.39999999999999,
+          "sum": 117.4,
           "average": 9.783333333333333,
           "average w/o zero": 9.783333333333333
         },
@@ -11586,7 +11586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1996": {
           "count": 12,
-          "sum": 104.00000000000001,
+          "sum": 104.0,
           "average": 8.666666666666666,
           "average w/o zero": 8.666666666666666
         },
@@ -11598,7 +11598,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1998": {
           "count": 12,
-          "sum": 94.49999999999999,
+          "sum": 94.5,
           "average": 7.875,
           "average w/o zero": 7.875
         },
@@ -11610,7 +11610,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2000": {
           "count": 12,
-          "sum": 74.80000000000001,
+          "sum": 74.8,
           "average": 6.233333333333333,
           "average w/o zero": 6.233333333333333
         },
@@ -11652,7 +11652,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2007": {
           "count": 12,
-          "sum": 79.89999999999999,
+          "sum": 79.9,
           "average": 6.658333333333333,
           "average w/o zero": 6.658333333333333
         },
@@ -11682,7 +11682,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2012": {
           "count": 12,
-          "sum": 142.20000000000002,
+          "sum": 142.2,
           "average": 11.85,
           "average w/o zero": 11.85
         },
@@ -11700,7 +11700,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 99.10000000000001,
+          "sum": 99.1,
           "average": 8.258333333333333,
           "average w/o zero": 8.258333333333333
         }
@@ -12512,7 +12512,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1973": {
           "count": 12,
-          "sum": 52.2,
+          "sum": 52.199999999999996,
           "average": 4.35,
           "average w/o zero": 4.35
         },
@@ -12524,7 +12524,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1975": {
           "count": 12,
-          "sum": 92.99999999999999,
+          "sum": 93.0,
           "average": 7.75,
           "average w/o zero": 7.75
         },
@@ -12554,7 +12554,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1980": {
           "count": 12,
-          "sum": 75.39999999999999,
+          "sum": 75.4,
           "average": 6.283333333333333,
           "average w/o zero": 6.283333333333333
         },
@@ -12566,7 +12566,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1982": {
           "count": 12,
-          "sum": 102.80000000000001,
+          "sum": 102.8,
           "average": 8.566666666666666,
           "average w/o zero": 8.566666666666666
         },
@@ -12578,7 +12578,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1984": {
           "count": 12,
-          "sum": 77.60000000000001,
+          "sum": 77.6,
           "average": 6.466666666666667,
           "average w/o zero": 6.466666666666667
         },
@@ -12602,25 +12602,25 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 56.599999999999994,
+          "sum": 56.6,
           "average": 4.716666666666667,
           "average w/o zero": 4.716666666666667
         },
         "1989": {
           "count": 12,
-          "sum": 53.59999999999999,
+          "sum": 53.6,
           "average": 4.466666666666667,
           "average w/o zero": 4.466666666666667
         },
         "1990": {
           "count": 12,
-          "sum": 58.000000000000014,
+          "sum": 58.0,
           "average": 4.833333333333333,
           "average w/o zero": 4.833333333333333
         },
         "1991": {
           "count": 12,
-          "sum": 73.10000000000001,
+          "sum": 73.1,
           "average": 6.091666666666667,
           "average w/o zero": 6.091666666666667
         },
@@ -12632,7 +12632,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1993": {
           "count": 12,
-          "sum": 72.80000000000001,
+          "sum": 72.8,
           "average": 6.066666666666666,
           "average w/o zero": 6.066666666666666
         },
@@ -12644,7 +12644,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1995": {
           "count": 12,
-          "sum": 58.50000000000001,
+          "sum": 58.5,
           "average": 4.875,
           "average w/o zero": 4.875
         },
@@ -12656,7 +12656,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1997": {
           "count": 12,
-          "sum": 50.60000000000001,
+          "sum": 50.6,
           "average": 4.216666666666667,
           "average w/o zero": 4.216666666666667
         },
@@ -12686,7 +12686,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2002": {
           "count": 12,
-          "sum": 61.400000000000006,
+          "sum": 61.4,
           "average": 5.116666666666667,
           "average w/o zero": 5.116666666666667
         },
@@ -12698,19 +12698,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 12,
-          "sum": 57.99999999999999,
+          "sum": 58.0,
           "average": 4.833333333333333,
           "average w/o zero": 4.833333333333333
         },
         "2005": {
           "count": 12,
-          "sum": 52.50000000000001,
+          "sum": 52.5,
           "average": 4.375,
           "average w/o zero": 4.375
         },
         "2006": {
           "count": 12,
-          "sum": 48.49999999999999,
+          "sum": 48.5,
           "average": 4.041666666666667,
           "average w/o zero": 4.041666666666667
         },
@@ -12722,25 +12722,25 @@ VISUALIZER_DATA_BARS = [
         },
         "2008": {
           "count": 12,
-          "sum": 62.099999999999994,
+          "sum": 62.1,
           "average": 5.175,
           "average w/o zero": 5.175
         },
         "2009": {
           "count": 12,
-          "sum": 101.69999999999997,
+          "sum": 101.7,
           "average": 8.475,
           "average w/o zero": 8.475
         },
         "2010": {
           "count": 12,
-          "sum": 104.79999999999998,
+          "sum": 104.8,
           "average": 8.733333333333333,
           "average w/o zero": 8.733333333333333
         },
         "2011": {
           "count": 12,
-          "sum": 95.10000000000001,
+          "sum": 95.1,
           "average": 7.925,
           "average w/o zero": 7.925
         },
@@ -12764,7 +12764,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 55.00000000000001,
+          "sum": 55.0,
           "average": 4.583333333333333,
           "average w/o zero": 4.583333333333333
         }
@@ -12772,7 +12772,7 @@ VISUALIZER_DATA_BARS = [
       "Data.Unemployed.White.Unemployment Rate.Men": {
         "1972": {
           "count": 12,
-          "sum": 43.900000000000006,
+          "sum": 43.9,
           "average": 3.658333333333333,
           "average w/o zero": 3.658333333333333
         },
@@ -12784,19 +12784,19 @@ VISUALIZER_DATA_BARS = [
         },
         "1974": {
           "count": 12,
-          "sum": 41.79999999999999,
+          "sum": 41.8,
           "average": 3.4833333333333334,
           "average w/o zero": 3.4833333333333334
         },
         "1975": {
           "count": 12,
-          "sum": 74.19999999999999,
+          "sum": 74.2,
           "average": 6.183333333333334,
           "average w/o zero": 6.183333333333334
         },
         "1976": {
           "count": 12,
-          "sum": 64.30000000000001,
+          "sum": 64.3,
           "average": 5.358333333333333,
           "average w/o zero": 5.358333333333333
         },
@@ -12808,13 +12808,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 44.70000000000001,
+          "sum": 44.7,
           "average": 3.725,
           "average w/o zero": 3.725
         },
         "1979": {
           "count": 12,
-          "sum": 43.19999999999999,
+          "sum": 43.2,
           "average": 3.6,
           "average w/o zero": 3.6
         },
@@ -12838,7 +12838,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1983": {
           "count": 12,
-          "sum": 95.20000000000002,
+          "sum": 95.2,
           "average": 7.933333333333334,
           "average w/o zero": 7.933333333333334
         },
@@ -12868,7 +12868,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 49.800000000000004,
+          "sum": 49.8,
           "average": 4.15,
           "average w/o zero": 4.15
         },
@@ -12916,7 +12916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1996": {
           "count": 12,
-          "sum": 48.699999999999996,
+          "sum": 48.7,
           "average": 4.058333333333334,
           "average w/o zero": 4.058333333333334
         },
@@ -12934,7 +12934,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1999": {
           "count": 12,
-          "sum": 36.39999999999999,
+          "sum": 36.4,
           "average": 3.033333333333333,
           "average w/o zero": 3.033333333333333
         },
@@ -12952,19 +12952,19 @@ VISUALIZER_DATA_BARS = [
         },
         "2002": {
           "count": 12,
-          "sum": 56.800000000000004,
+          "sum": 56.8,
           "average": 4.733333333333333,
           "average w/o zero": 4.733333333333333
         },
         "2003": {
           "count": 12,
-          "sum": 60.099999999999994,
+          "sum": 60.1,
           "average": 5.008333333333333,
           "average w/o zero": 5.008333333333333
         },
         "2004": {
           "count": 12,
-          "sum": 53.199999999999996,
+          "sum": 53.2,
           "average": 4.433333333333334,
           "average w/o zero": 4.433333333333334
         },
@@ -12976,7 +12976,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 42.400000000000006,
+          "sum": 42.4,
           "average": 3.533333333333333,
           "average w/o zero": 3.533333333333333
         },
@@ -13000,13 +13000,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2010": {
           "count": 12,
-          "sum": 107.29999999999998,
+          "sum": 107.3,
           "average": 8.941666666666666,
           "average w/o zero": 8.941666666666666
         },
         "2011": {
           "count": 12,
-          "sum": 92.99999999999999,
+          "sum": 93.0,
           "average": 7.75,
           "average w/o zero": 7.75
         },
@@ -13030,7 +13030,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2015": {
           "count": 12,
-          "sum": 50.99999999999999,
+          "sum": 51.0,
           "average": 4.25,
           "average w/o zero": 4.25
         }
@@ -13038,25 +13038,25 @@ VISUALIZER_DATA_BARS = [
       "Data.Unemployed.White.Unemployment Rate.Women": {
         "1972": {
           "count": 12,
-          "sum": 58.99999999999999,
+          "sum": 59.0,
           "average": 4.916666666666667,
           "average w/o zero": 4.916666666666667
         },
         "1973": {
           "count": 12,
-          "sum": 52.199999999999996,
+          "sum": 52.2,
           "average": 4.35,
           "average w/o zero": 4.35
         },
         "1974": {
           "count": 12,
-          "sum": 60.699999999999996,
+          "sum": 60.7,
           "average": 5.058333333333334,
           "average w/o zero": 5.058333333333334
         },
         "1975": {
           "count": 12,
-          "sum": 89.90000000000002,
+          "sum": 89.9,
           "average": 7.491666666666667,
           "average w/o zero": 7.491666666666667
         },
@@ -13074,13 +13074,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1978": {
           "count": 12,
-          "sum": 62.900000000000006,
+          "sum": 62.9,
           "average": 5.241666666666667,
           "average w/o zero": 5.241666666666667
         },
         "1979": {
           "count": 12,
-          "sum": 59.900000000000006,
+          "sum": 59.9,
           "average": 4.991666666666667,
           "average w/o zero": 4.991666666666667
         },
@@ -13104,7 +13104,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1983": {
           "count": 12,
-          "sum": 83.19999999999999,
+          "sum": 83.2,
           "average": 6.933333333333334,
           "average w/o zero": 6.933333333333334
         },
@@ -13134,7 +13134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1988": {
           "count": 12,
-          "sum": 49.099999999999994,
+          "sum": 49.1,
           "average": 4.091666666666667,
           "average w/o zero": 4.091666666666667
         },
@@ -13146,13 +13146,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1990": {
           "count": 12,
-          "sum": 49.800000000000004,
+          "sum": 49.8,
           "average": 4.15,
           "average w/o zero": 4.15
         },
         "1991": {
           "count": 12,
-          "sum": 59.800000000000004,
+          "sum": 59.8,
           "average": 4.983333333333333,
           "average w/o zero": 4.983333333333333
         },
@@ -13170,13 +13170,13 @@ VISUALIZER_DATA_BARS = [
         },
         "1994": {
           "count": 12,
-          "sum": 55.70000000000001,
+          "sum": 55.7,
           "average": 4.641666666666667,
           "average w/o zero": 4.641666666666667
         },
         "1995": {
           "count": 12,
-          "sum": 51.49999999999999,
+          "sum": 51.5,
           "average": 4.291666666666667,
           "average w/o zero": 4.291666666666667
         },
@@ -13200,7 +13200,7 @@ VISUALIZER_DATA_BARS = [
         },
         "1999": {
           "count": 12,
-          "sum": 39.10000000000001,
+          "sum": 39.1,
           "average": 3.2583333333333333,
           "average w/o zero": 3.2583333333333333
         },
@@ -13224,13 +13224,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2003": {
           "count": 12,
-          "sum": 52.50000000000001,
+          "sum": 52.5,
           "average": 4.375,
           "average w/o zero": 4.375
         },
         "2004": {
           "count": 12,
-          "sum": 49.99999999999999,
+          "sum": 50.0,
           "average": 4.166666666666666,
           "average w/o zero": 4.166666666666666
         },
@@ -13242,7 +13242,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 12,
-          "sum": 43.29999999999999,
+          "sum": 43.3,
           "average": 3.6083333333333334,
           "average w/o zero": 3.6083333333333334
         },
@@ -13260,7 +13260,7 @@ VISUALIZER_DATA_BARS = [
         },
         "2009": {
           "count": 12,
-          "sum": 81.80000000000001,
+          "sum": 81.8,
           "average": 6.816666666666666,
           "average w/o zero": 6.816666666666666
         },
@@ -13272,13 +13272,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2011": {
           "count": 12,
-          "sum": 83.99999999999999,
+          "sum": 84.0,
           "average": 7.0,
           "average w/o zero": 7.0
         },
         "2012": {
           "count": 12,
-          "sum": 78.49999999999999,
+          "sum": 78.5,
           "average": 6.541666666666667,
           "average w/o zero": 6.541666666666667
         },
@@ -13290,13 +13290,13 @@ VISUALIZER_DATA_BARS = [
         },
         "2014": {
           "count": 12,
-          "sum": 58.00000000000001,
+          "sum": 58.0,
           "average": 4.833333333333333,
           "average w/o zero": 4.833333333333333
         },
         "2015": {
           "count": 12,
-          "sum": 49.699999999999996,
+          "sum": 49.7,
           "average": 4.141666666666667,
           "average w/o zero": 4.141666666666667
         }

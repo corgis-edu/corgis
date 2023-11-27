@@ -463,53 +463,29 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rates-Age-and-Sex' title='Dictionary (4 keys)'>
+<div id='explore-Rates-Age-and-Sex' title='Dictionary (2 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"< 18"</code></td>
+        <tr> <td><code>"Female"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex-<-18'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex-Female'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
              <td></td> </tr>
         
-        <tr> <td><code>"18 - 45"</code></td>
+        <tr> <td><code>"Male"</code></td>
              <td><span data-toggle="tooltip"
                        title='Dictionary'>
                        dict</span></td> 
              <td>
              
-                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex-18---45'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"45 - 64"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex-45---64'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
-             
-                
-             </td> 
-             <td></td> </tr>
-        
-        <tr> <td><code>"> 64"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Dictionary'>
-                       dict</span></td> 
-             <td>
-             
-                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex->-64'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
+                <a class='dialog-opener' id='btn-explore-Rates-Age-and-Sex-Male'>{ <span class="fas fa-external-link-alt" aria-hidden="true"></span> }</a>
              
                 
              </td> 
@@ -517,10 +493,6 @@ $(document).ready(function() {
         
     </table>
 </div>
-
-    
-
-    
 
     
 
@@ -537,26 +509,14 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rates-Age-and-Sex-<-18").click(function() {
-        $( "#explore-Rates-Age-and-Sex-<-18" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rates-Age-and-Sex-Female").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Rates-Age-and-Sex-18---45").click(function() {
-        $( "#explore-Rates-Age-and-Sex-18---45" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rates-Age-and-Sex-45---64").click(function() {
-        $( "#explore-Rates-Age-and-Sex-45---64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rates-Age-and-Sex->-64").click(function() {
-        $( "#explore-Rates-Age-and-Sex->-64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rates-Age-and-Sex-Male").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
@@ -564,11 +524,11 @@ $(document).ready(function() {
 });
 </script>
 
-<div id='explore-Rates-Age-and-Sex-<-18' title='Dictionary (2 keys)'>
+<div id='explore-Rates-Age-and-Sex-Female' title='Dictionary (4 keys)'>
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"< 18"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -580,56 +540,7 @@ $(document).ready(function() {
              </td> 
              <td>Female under 18</td> </tr>
         
-        <tr> <td><code>"Male"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>2.1</code>
-             
-                
-             </td> 
-             <td>Male   under 18</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rates-Age-and-Sex-<-18" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rates-Age-and-Sex-<-18-Female").click(function() {
-        $( "#explore-Rates-Age-and-Sex-<-18-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rates-Age-and-Sex-<-18-Male").click(function() {
-        $( "#explore-Rates-Age-and-Sex-<-18-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Rates-Age-and-Sex-18---45' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"18 - 45"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -641,56 +552,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 18 - 45</td> </tr>
         
-        <tr> <td><code>"Male"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>16.8</code>
-             
-                
-             </td> 
-             <td>Male   18 - 45</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rates-Age-and-Sex-18---45" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rates-Age-and-Sex-18---45-Female").click(function() {
-        $( "#explore-Rates-Age-and-Sex-18---45-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rates-Age-and-Sex-18---45-Male").click(function() {
-        $( "#explore-Rates-Age-and-Sex-18---45-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Rates-Age-and-Sex-45---64' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"45 - 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -702,56 +564,7 @@ $(document).ready(function() {
              </td> 
              <td>Female 45 to 64 Years</td> </tr>
         
-        <tr> <td><code>"Male"</code></td>
-             <td><span data-toggle="tooltip"
-                       title='Float (decimal number)'>
-                       float</span></td> 
-             <td>
-             
-                <code>291.5</code>
-             
-                
-             </td> 
-             <td>Male   45 to 64 Years</td> </tr>
-        
-    </table>
-</div>
-
-    
-
-    
-
-<script>
-$(document).ready(function() {
-    $( "#explore-Rates-Age-and-Sex-45---64" ).dialog({
-      autoOpen: false,
-      width: 'auto',
-      create: function (event, ui) {
-        // Set max-width
-        $(this).parent().css("maxWidth", "600px");
-      }
-    });
-    
-    $("#btn-explore-Rates-Age-and-Sex-45---64-Female").click(function() {
-        $( "#explore-Rates-Age-and-Sex-45---64-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-    $("#btn-explore-Rates-Age-and-Sex-45---64-Male").click(function() {
-        $( "#explore-Rates-Age-and-Sex-45---64-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
-        $('.ui-dialog :button').blur();
-    });
-        
-    
-});
-</script>
-
-<div id='explore-Rates-Age-and-Sex->-64' title='Dictionary (2 keys)'>
-    <table class='table table-sm table-striped table-bordered' >
-        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
-        
-        <tr> <td><code>"Female"</code></td>
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -763,7 +576,96 @@ $(document).ready(function() {
              </td> 
              <td>Female 65 Years and Over</td> </tr>
         
-        <tr> <td><code>"Male"</code></td>
+    </table>
+</div>
+
+    
+
+    
+
+    
+
+    
+
+<script>
+$(document).ready(function() {
+    $( "#explore-Rates-Age-and-Sex-Female" ).dialog({
+      autoOpen: false,
+      width: 'auto',
+      create: function (event, ui) {
+        // Set max-width
+        $(this).parent().css("maxWidth", "600px");
+      }
+    });
+    
+    $("#btn-explore-Rates-Age-and-Sex-Female-<-18").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Female-<-18" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rates-Age-and-Sex-Female-18---45").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Female-18---45" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rates-Age-and-Sex-Female-45---64").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Female-45---64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rates-Age-and-Sex-Female->-64").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Female->-64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+});
+</script>
+
+<div id='explore-Rates-Age-and-Sex-Male' title='Dictionary (4 keys)'>
+    <table class='table table-sm table-striped table-bordered' >
+        <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
+        
+        <tr> <td><code>"< 18"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>2.1</code>
+             
+                
+             </td> 
+             <td>Male  under 18</td> </tr>
+        
+        <tr> <td><code>"18 - 45"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>16.8</code>
+             
+                
+             </td> 
+             <td>Male   18 - 45</td> </tr>
+        
+        <tr> <td><code>"45 - 64"</code></td>
+             <td><span data-toggle="tooltip"
+                       title='Float (decimal number)'>
+                       float</span></td> 
+             <td>
+             
+                <code>291.5</code>
+             
+                
+             </td> 
+             <td>Male   45 to 64 Years</td> </tr>
+        
+        <tr> <td><code>"> 64"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -782,9 +684,13 @@ $(document).ready(function() {
 
     
 
+    
+
+    
+
 <script>
 $(document).ready(function() {
-    $( "#explore-Rates-Age-and-Sex->-64" ).dialog({
+    $( "#explore-Rates-Age-and-Sex-Male" ).dialog({
       autoOpen: false,
       width: 'auto',
       create: function (event, ui) {
@@ -793,14 +699,26 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Rates-Age-and-Sex->-64-Female").click(function() {
-        $( "#explore-Rates-Age-and-Sex->-64-Female" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rates-Age-and-Sex-Male-<-18").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Male-<-18" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Rates-Age-and-Sex->-64-Male").click(function() {
-        $( "#explore-Rates-Age-and-Sex->-64-Male" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Rates-Age-and-Sex-Male-18---45").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Male-18---45" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rates-Age-and-Sex-Male-45---64").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Male-45---64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+        $('.ui-dialog :button').blur();
+    });
+        
+    
+    $("#btn-explore-Rates-Age-and-Sex-Male->-64").click(function() {
+        $( "#explore-Rates-Age-and-Sex-Male->-64" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

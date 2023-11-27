@@ -53,14 +53,15 @@ var $builtinmodule = function(name)
                 "returns": 
 				{"type": "ListType", "subtype": 
 					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Location'}, {"type": "LiteralStr", "value": 'Data'}, {"type": "LiteralStr", "value": 'Date'}], "values": [
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Country'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Cordinates'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Country'}, {"type": "LiteralStr", "value": 'Region'}, {"type": "LiteralStr", "value": 'Coordinates'}, {"type": "LiteralStr", "value": 'Coordinates '}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
-							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Latitude'}, {"type": "LiteralStr", "value": 'Longitude'}, {"type": "LiteralStr", "value": 'Depth'}], "values": [
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Latitude'}, {"type": "LiteralStr", "value": 'Longitude'}], "values": [
 								{"type": "NumType"}, 
-								{"type": "NumType"}, 
+								{"type": "NumType"}]}, 
+							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Depth'}], "values": [
 								{"type": "NumType"}]}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Source'}, {"type": "LiteralStr", "value": 'Magnitude'}, {"type": "LiteralStr", "value": 'Yeild'}, {"type": "LiteralStr", "value": 'Purpose'}, {"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Type'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Source'}, {"type": "LiteralStr", "value": 'Magnitude'}, {"type": "LiteralStr", "value": 'Yield'}, {"type": "LiteralStr", "value": 'Purpose'}, {"type": "LiteralStr", "value": 'Name'}, {"type": "LiteralStr", "value": 'Type'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Body'}, {"type": "LiteralStr", "value": 'Surface'}], "values": [
 								{"type": "NumType"}, 

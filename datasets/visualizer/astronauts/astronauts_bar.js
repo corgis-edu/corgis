@@ -23532,7 +23532,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Schirra, Walter M., Jr.": {
           "count": 3,
-          "sum": 295.22,
+          "sum": 295.21999999999997,
           "average": 98.40666666666667,
           "average w/o zero": 98.40666666666667
         },
@@ -23592,7 +23592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Young, John W.": {
           "count": 6,
-          "sum": 828.03,
+          "sum": 828.0300000000001,
           "average": 138.005,
           "average w/o zero": 138.005
         },
@@ -25482,7 +25482,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gernhardt, Michael L.": {
           "count": 4,
-          "sum": 1039.0500000000002,
+          "sum": 1039.05,
           "average": 259.7625,
           "average w/o zero": 259.7625
         },
@@ -26262,7 +26262,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nespoli, Paolo A.": {
           "count": 3,
-          "sum": 7514.610000000001,
+          "sum": 7514.61,
           "average": 2504.87,
           "average w/o zero": 2504.87
         },
@@ -28106,7 +28106,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Krikalev, Sergei": {
           "count": 6,
-          "sum": 115689.9,
+          "sum": 115689.90000000001,
           "average": 19281.65,
           "average w/o zero": 19281.65
         },
@@ -32026,7 +32026,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wolf, David A.": {
           "count": 4,
-          "sum": 41.95,
+          "sum": 41.949999999999996,
           "average": 10.487499999999999,
           "average w/o zero": 13.983333333333333
         },
@@ -32056,7 +32056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Malenchenko, Yuri": {
           "count": 6,
-          "sum": 34.84,
+          "sum": 34.839999999999996,
           "average": 5.806666666666667,
           "average w/o zero": 6.968
         },
@@ -32074,7 +32074,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chiao, Leroy": {
           "count": 4,
-          "sum": 36.089999999999996,
+          "sum": 36.09,
           "average": 9.0225,
           "average w/o zero": 12.03
         },
@@ -32566,7 +32566,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Williams, Jeffrey N.": {
           "count": 4,
-          "sum": 31.919999999999998,
+          "sum": 31.92,
           "average": 7.98,
           "average w/o zero": 10.64
         },
@@ -33660,7 +33660,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Young, John W.": {
           "count": 6,
-          "sum": 121.38000000000001,
+          "sum": 121.38,
           "average": 20.23,
           "average w/o zero": 20.23
         },
@@ -34254,7 +34254,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Musgrave, Franklin Story": {
           "count": 6,
-          "sum": 155.4,
+          "sum": 155.39999999999998,
           "average": 25.9,
           "average w/o zero": 25.9
         },
@@ -34704,7 +34704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ross, Jerry L.": {
           "count": 7,
-          "sum": 409.7099999999999,
+          "sum": 409.71000000000004,
           "average": 58.53,
           "average w/o zero": 58.53
         },
@@ -34818,7 +34818,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Krikalev, Sergei": {
           "count": 6,
-          "sum": 248.58,
+          "sum": 248.57999999999998,
           "average": 41.43,
           "average w/o zero": 41.43
         },
@@ -35412,7 +35412,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Malenchenko, Yuri": {
           "count": 6,
-          "sum": 208.97999999999996,
+          "sum": 208.98,
           "average": 34.83,
           "average w/o zero": 34.83
         },

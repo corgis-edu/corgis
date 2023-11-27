@@ -2157,7 +2157,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 924.9
         }
       },
-      "Rates.Age and Sex.< 18.Female": {
+      "Rates.Age and Sex.Female.< 18": {
         "Alabama": {
           "count": 1,
           "sum": 2.0,
@@ -2465,7 +2465,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Rates.Age and Sex.< 18.Male": {
+      "Rates.Age and Sex.Male.< 18": {
         "Alabama": {
           "count": 1,
           "sum": 2.1,
@@ -2773,7 +2773,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Rates.Age and Sex.18 - 45.Female": {
+      "Rates.Age and Sex.Female.18 - 45": {
         "Alabama": {
           "count": 1,
           "sum": 20.1,
@@ -3081,7 +3081,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 13.2
         }
       },
-      "Rates.Age and Sex.18 - 45.Male": {
+      "Rates.Age and Sex.Male.18 - 45": {
         "Alabama": {
           "count": 1,
           "sum": 16.8,
@@ -3389,7 +3389,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 10.4
         }
       },
-      "Rates.Age and Sex.45 - 64.Female": {
+      "Rates.Age and Sex.Female.45 - 64": {
         "Alabama": {
           "count": 1,
           "sum": 201.0,
@@ -3697,7 +3697,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 162.5
         }
       },
-      "Rates.Age and Sex.45 - 64.Male": {
+      "Rates.Age and Sex.Male.45 - 64": {
         "Alabama": {
           "count": 1,
           "sum": 291.5,
@@ -4005,7 +4005,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 174.0
         }
       },
-      "Rates.Age and Sex.> 64.Female": {
+      "Rates.Age and Sex.Female.> 64": {
         "Alabama": {
           "count": 1,
           "sum": 803.6,
@@ -4313,7 +4313,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 803.4
         }
       },
-      "Rates.Age and Sex.> 64.Male": {
+      "Rates.Age and Sex.Male.> 64": {
         "Alabama": {
           "count": 1,
           "sum": 1308.6,

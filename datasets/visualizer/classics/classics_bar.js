@@ -30004,13 +30004,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Carroll, Lewis": {
           "count": 7,
-          "sum": 70.39999999999999,
+          "sum": 70.4,
           "average": 10.057142857142857,
           "average w/o zero": 10.057142857142857
         },
         "Shelley, Mary Wollstonecraft": {
           "count": 3,
-          "sum": 39.599999999999994,
+          "sum": 39.6,
           "average": 13.2,
           "average w/o zero": 13.2
         },
@@ -30028,7 +30028,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 104.60000000000001,
+          "sum": 104.6,
           "average": 8.716666666666667,
           "average w/o zero": 8.716666666666667
         },
@@ -30040,13 +30040,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 41.900000000000006,
+          "sum": 41.9,
           "average": 6.983333333333333,
           "average w/o zero": 6.983333333333333
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 48.400000000000006,
+          "sum": 48.4,
           "average": 12.1,
           "average w/o zero": 12.1
         },
@@ -30064,13 +30064,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Joyce, James": {
           "count": 3,
-          "sum": 25.8,
+          "sum": 25.799999999999997,
           "average": 8.6,
           "average w/o zero": 8.6
         },
         "Swift, Jonathan": {
           "count": 3,
-          "sum": 62.10000000000001,
+          "sum": 62.1,
           "average": 20.7,
           "average w/o zero": 20.7
         },
@@ -30088,7 +30088,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tolstoy, Leo, graf": {
           "count": 4,
-          "sum": 37.800000000000004,
+          "sum": 37.8,
           "average": 9.45,
           "average w/o zero": 9.45
         },
@@ -30106,7 +30106,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 397.1000000000001,
+          "sum": 397.1,
           "average": 11.679411764705883,
           "average w/o zero": 11.679411764705883
         },
@@ -30118,13 +30118,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 163.20000000000002,
+          "sum": 163.2,
           "average": 14.836363636363636,
           "average w/o zero": 14.836363636363636
         },
         "Bronte, Charlotte": {
           "count": 3,
-          "sum": 36.300000000000004,
+          "sum": 36.3,
           "average": 12.1,
           "average w/o zero": 12.1
         },
@@ -30154,13 +30154,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Conrad, Joseph": {
           "count": 6,
-          "sum": 55.400000000000006,
+          "sum": 55.4,
           "average": 9.233333333333333,
           "average w/o zero": 9.233333333333333
         },
         "Dumas, Alexandre": {
           "count": 4,
-          "sum": 44.10000000000001,
+          "sum": 44.1,
           "average": 11.025,
           "average w/o zero": 11.025
         },
@@ -30190,13 +30190,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Franklin, Benjamin": {
           "count": 3,
-          "sum": 46.39999999999999,
+          "sum": 46.4,
           "average": 15.466666666666667,
           "average w/o zero": 15.466666666666667
         },
         "Defoe, Daniel": {
           "count": 4,
-          "sum": 89.89999999999999,
+          "sum": 89.9,
           "average": 22.475,
           "average w/o zero": 22.475
         },
@@ -30214,7 +30214,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 113.69999999999999,
+          "sum": 113.7,
           "average": 14.2125,
           "average w/o zero": 14.2125
         },
@@ -30238,7 +30238,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 110.89999999999999,
+          "sum": 110.9,
           "average": 15.842857142857143,
           "average w/o zero": 15.842857142857143
         },
@@ -30256,7 +30256,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shaw, Bernard": {
           "count": 5,
-          "sum": 39.400000000000006,
+          "sum": 39.4,
           "average": 7.88,
           "average w/o zero": 7.88
         },
@@ -30286,7 +30286,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Baum, L. Frank (Lyman Frank)": {
           "count": 5,
-          "sum": 46.900000000000006,
+          "sum": 46.9,
           "average": 9.379999999999999,
           "average w/o zero": 9.379999999999999
         },
@@ -30388,7 +30388,7 @@ VISUALIZER_DATA_BARS = [
         },
         "London, Jack": {
           "count": 5,
-          "sum": 44.50000000000001,
+          "sum": 44.5,
           "average": 8.9,
           "average w/o zero": 8.9
         },
@@ -30460,7 +30460,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 61.900000000000006,
+          "sum": 61.9,
           "average": 10.316666666666666,
           "average w/o zero": 10.316666666666666
         },
@@ -30496,7 +30496,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Poe, Edgar Allan": {
           "count": 8,
-          "sum": 112.80000000000001,
+          "sum": 112.8,
           "average": 14.1,
           "average w/o zero": 14.1
         },
@@ -30520,7 +30520,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Darwin, Charles": {
           "count": 4,
-          "sum": 67.89999999999999,
+          "sum": 67.9,
           "average": 16.975,
           "average w/o zero": 16.975
         },
@@ -30646,7 +30646,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hardy, Thomas": {
           "count": 6,
-          "sum": 59.400000000000006,
+          "sum": 59.4,
           "average": 9.9,
           "average w/o zero": 9.9
         },
@@ -31252,7 +31252,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leiber, Fritz": {
           "count": 6,
-          "sum": 57.49999999999999,
+          "sum": 57.5,
           "average": 9.583333333333334,
           "average w/o zero": 9.583333333333334
         },
@@ -31300,7 +31300,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Moliere": {
           "count": 3,
-          "sum": 25.700000000000003,
+          "sum": 25.7,
           "average": 8.566666666666666,
           "average w/o zero": 8.566666666666666
         },
@@ -31588,7 +31588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Neville, Kris": {
           "count": 4,
-          "sum": 28.400000000000002,
+          "sum": 28.4,
           "average": 7.1,
           "average w/o zero": 7.1
         },
@@ -33324,7 +33324,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.difficulty.coleman liau index": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 116.27999999999999,
+          "sum": 116.28,
           "average": 10.57090909090909,
           "average w/o zero": 10.57090909090909
         },
@@ -33354,13 +33354,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 191.26000000000002,
+          "sum": 191.26,
           "average": 10.066315789473684,
           "average w/o zero": 10.066315789473684
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 112.03999999999999,
+          "sum": 112.04,
           "average": 9.336666666666666,
           "average w/o zero": 9.336666666666666
         },
@@ -33378,7 +33378,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 48.71000000000001,
+          "sum": 48.71,
           "average": 12.1775,
           "average w/o zero": 12.1775
         },
@@ -33390,7 +33390,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 187.26999999999998,
+          "sum": 187.27,
           "average": 10.403888888888888,
           "average w/o zero": 10.403888888888888
         },
@@ -33438,7 +33438,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 382.85999999999996,
+          "sum": 382.86,
           "average": 11.260588235294117,
           "average w/o zero": 11.260588235294117
         },
@@ -33450,7 +33450,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 127.98999999999998,
+          "sum": 127.99,
           "average": 11.635454545454545,
           "average w/o zero": 11.635454545454545
         },
@@ -33510,13 +33510,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Hesse, Hermann": {
           "count": 3,
-          "sum": 37.010000000000005,
+          "sum": 37.01,
           "average": 12.336666666666666,
           "average w/o zero": 12.336666666666666
         },
         "Plato": {
           "count": 11,
-          "sum": 112.05999999999999,
+          "sum": 112.06,
           "average": 10.187272727272727,
           "average w/o zero": 10.187272727272727
         },
@@ -33552,7 +33552,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 66.01,
+          "sum": 66.00999999999999,
           "average": 9.43,
           "average w/o zero": 9.43
         },
@@ -33570,7 +33570,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 92.03000000000002,
+          "sum": 92.03,
           "average": 13.147142857142857,
           "average w/o zero": 13.147142857142857
         },
@@ -33594,7 +33594,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shakespeare, William": {
           "count": 19,
-          "sum": 190.73000000000002,
+          "sum": 190.73,
           "average": 10.038421052631579,
           "average w/o zero": 10.038421052631579
         },
@@ -33624,7 +33624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mill, John Stuart": {
           "count": 4,
-          "sum": 50.63,
+          "sum": 50.629999999999995,
           "average": 12.657499999999999,
           "average w/o zero": 12.657499999999999
         },
@@ -33636,7 +33636,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 85.32999999999998,
+          "sum": 85.33,
           "average": 10.66625,
           "average w/o zero": 10.66625
         },
@@ -33726,7 +33726,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Montgomery, L. M. (Lucy Maud)": {
           "count": 5,
-          "sum": 46.300000000000004,
+          "sum": 46.3,
           "average": 9.26,
           "average w/o zero": 9.26
         },
@@ -33780,7 +33780,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hawthorne, Nathaniel": {
           "count": 5,
-          "sum": 59.61000000000001,
+          "sum": 59.61,
           "average": 11.922,
           "average w/o zero": 11.922
         },
@@ -33792,7 +33792,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 60.60000000000001,
+          "sum": 60.6,
           "average": 10.1,
           "average w/o zero": 10.1
         },
@@ -33828,7 +33828,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Poe, Edgar Allan": {
           "count": 8,
-          "sum": 97.21,
+          "sum": 97.21000000000001,
           "average": 12.151250000000001,
           "average w/o zero": 12.151250000000001
         },
@@ -33858,7 +33858,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Goethe, Johann Wolfgang von": {
           "count": 5,
-          "sum": 62.690000000000005,
+          "sum": 62.69,
           "average": 12.538,
           "average w/o zero": 12.538
         },
@@ -33978,7 +33978,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hardy, Thomas": {
           "count": 6,
-          "sum": 62.230000000000004,
+          "sum": 62.23,
           "average": 10.371666666666666,
           "average w/o zero": 10.371666666666666
         },
@@ -33990,7 +33990,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gaskell, Elizabeth Cleghorn": {
           "count": 3,
-          "sum": 28.589999999999996,
+          "sum": 28.59,
           "average": 9.53,
           "average w/o zero": 9.53
         },
@@ -34056,7 +34056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chekhov, Anton Pavlovich": {
           "count": 4,
-          "sum": 37.059999999999995,
+          "sum": 37.06,
           "average": 9.265,
           "average w/o zero": 9.265
         },
@@ -34152,7 +34152,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fitzgerald, F. Scott (Francis Scott)": {
           "count": 4,
-          "sum": 45.559999999999995,
+          "sum": 45.56,
           "average": 11.39,
           "average w/o zero": 11.39
         },
@@ -34344,7 +34344,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dick, Philip K.": {
           "count": 9,
-          "sum": 84.07000000000001,
+          "sum": 84.07,
           "average": 9.341111111111111,
           "average w/o zero": 9.341111111111111
         },
@@ -34572,7 +34572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Various": {
           "count": 4,
-          "sum": 54.230000000000004,
+          "sum": 54.23,
           "average": 13.5575,
           "average w/o zero": 13.5575
         },
@@ -34848,7 +34848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gogol, Nikolai Vasilevich": {
           "count": 3,
-          "sum": 31.119999999999997,
+          "sum": 31.12,
           "average": 10.373333333333333,
           "average w/o zero": 10.373333333333333
         },
@@ -34920,7 +34920,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Neville, Kris": {
           "count": 4,
-          "sum": 40.440000000000005,
+          "sum": 40.44,
           "average": 10.11,
           "average w/o zero": 10.11
         },
@@ -36686,7 +36686,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 121.72000000000003,
+          "sum": 121.72,
           "average": 6.406315789473684,
           "average w/o zero": 6.406315789473684
         },
@@ -36704,25 +36704,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 34.620000000000005,
+          "sum": 34.62,
           "average": 5.77,
           "average w/o zero": 5.77
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 30.200000000000003,
+          "sum": 30.2,
           "average": 7.55,
           "average w/o zero": 7.55
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 84.78999999999999,
+          "sum": 84.79,
           "average": 6.0564285714285715,
           "average w/o zero": 6.0564285714285715
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 107.95999999999998,
+          "sum": 107.96,
           "average": 5.997777777777777,
           "average w/o zero": 5.997777777777777
         },
@@ -36848,7 +36848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 71.19999999999999,
+          "sum": 71.2,
           "average": 6.472727272727273,
           "average w/o zero": 6.472727272727273
         },
@@ -36878,19 +36878,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 56.06999999999999,
+          "sum": 56.07,
           "average": 7.00875,
           "average w/o zero": 7.00875
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 42.790000000000006,
+          "sum": 42.79,
           "average": 6.112857142857143,
           "average w/o zero": 6.112857142857143
         },
         "Dostoyevsky, Fyodor": {
           "count": 8,
-          "sum": 47.040000000000006,
+          "sum": 47.04,
           "average": 5.88,
           "average w/o zero": 5.88
         },
@@ -36902,7 +36902,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 50.199999999999996,
+          "sum": 50.2,
           "average": 7.171428571428572,
           "average w/o zero": 7.171428571428572
         },
@@ -37058,7 +37058,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Montgomery, L. M. (Lucy Maud)": {
           "count": 5,
-          "sum": 28.900000000000002,
+          "sum": 28.9,
           "average": 5.78,
           "average w/o zero": 5.78
         },
@@ -37088,7 +37088,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milton, John": {
           "count": 3,
-          "sum": 23.610000000000003,
+          "sum": 23.61,
           "average": 7.87,
           "average w/o zero": 7.87
         },
@@ -37310,7 +37310,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hardy, Thomas": {
           "count": 6,
-          "sum": 36.160000000000004,
+          "sum": 36.16,
           "average": 6.026666666666666,
           "average w/o zero": 6.026666666666666
         },
@@ -37388,7 +37388,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chekhov, Anton Pavlovich": {
           "count": 4,
-          "sum": 23.830000000000002,
+          "sum": 23.83,
           "average": 5.9575,
           "average w/o zero": 5.9575
         },
@@ -37916,7 +37916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leiber, Fritz": {
           "count": 6,
-          "sum": 43.690000000000005,
+          "sum": 43.69,
           "average": 7.281666666666666,
           "average w/o zero": 7.281666666666666
         },
@@ -37934,7 +37934,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 58.13999999999999,
+          "sum": 58.14,
           "average": 6.46,
           "average w/o zero": 6.46
         },
@@ -43344,7 +43344,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kafka, Franz": {
           "count": 3,
-          "sum": 28.200000000000003,
+          "sum": 28.2,
           "average": 9.4,
           "average w/o zero": 9.4
         },
@@ -43356,7 +43356,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 74.59999999999998,
+          "sum": 74.6,
           "average": 6.216666666666667,
           "average w/o zero": 6.216666666666667
         },
@@ -43374,13 +43374,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 33.300000000000004,
+          "sum": 33.3,
           "average": 8.325,
           "average w/o zero": 8.325
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 83.50000000000001,
+          "sum": 83.5,
           "average": 5.964285714285714,
           "average w/o zero": 5.964285714285714
         },
@@ -43446,7 +43446,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 121.09999999999998,
+          "sum": 121.1,
           "average": 11.00909090909091,
           "average w/o zero": 11.00909090909091
         },
@@ -43512,7 +43512,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 122.89999999999999,
+          "sum": 122.9,
           "average": 11.172727272727272,
           "average w/o zero": 11.172727272727272
         },
@@ -43548,7 +43548,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 44.699999999999996,
+          "sum": 44.7,
           "average": 6.385714285714286,
           "average w/o zero": 6.385714285714286
         },
@@ -43566,7 +43566,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 82.69999999999999,
+          "sum": 82.7,
           "average": 11.814285714285715,
           "average w/o zero": 11.814285714285715
         },
@@ -43590,7 +43590,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shakespeare, William": {
           "count": 19,
-          "sum": 104.39999999999999,
+          "sum": 104.4,
           "average": 5.494736842105263,
           "average w/o zero": 5.494736842105263
         },
@@ -43632,7 +43632,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 62.79999999999999,
+          "sum": 62.800000000000004,
           "average": 7.8500000000000005,
           "average w/o zero": 7.8500000000000005
         },
@@ -43716,7 +43716,7 @@ VISUALIZER_DATA_BARS = [
         },
         "London, Jack": {
           "count": 5,
-          "sum": 30.400000000000006,
+          "sum": 30.4,
           "average": 6.08,
           "average w/o zero": 6.08
         },
@@ -43740,7 +43740,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Marlowe, Christopher": {
           "count": 4,
-          "sum": 20.799999999999997,
+          "sum": 20.8,
           "average": 5.2,
           "average w/o zero": 5.2
         },
@@ -43770,13 +43770,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Paine, Thomas": {
           "count": 4,
-          "sum": 53.3,
+          "sum": 53.300000000000004,
           "average": 13.325000000000001,
           "average w/o zero": 13.325000000000001
         },
         "Hawthorne, Nathaniel": {
           "count": 5,
-          "sum": 50.699999999999996,
+          "sum": 50.7,
           "average": 10.14,
           "average w/o zero": 10.14
         },
@@ -43836,7 +43836,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Eliot, George": {
           "count": 4,
-          "sum": 40.300000000000004,
+          "sum": 40.3,
           "average": 10.075,
           "average w/o zero": 10.075
         },
@@ -43848,7 +43848,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Darwin, Charles": {
           "count": 4,
-          "sum": 53.400000000000006,
+          "sum": 53.4,
           "average": 13.35,
           "average w/o zero": 13.35
         },
@@ -43920,7 +43920,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burroughs, Edgar Rice": {
           "count": 5,
-          "sum": 46.599999999999994,
+          "sum": 46.6,
           "average": 9.32,
           "average w/o zero": 9.32
         },
@@ -43986,7 +43986,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gaskell, Elizabeth Cleghorn": {
           "count": 3,
-          "sum": 20.400000000000002,
+          "sum": 20.4,
           "average": 6.8,
           "average w/o zero": 6.8
         },
@@ -44052,7 +44052,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chekhov, Anton Pavlovich": {
           "count": 4,
-          "sum": 20.400000000000002,
+          "sum": 20.4,
           "average": 5.1,
           "average w/o zero": 5.1
         },
@@ -44274,7 +44274,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rousseau, Jean-Jacques": {
           "count": 4,
-          "sum": 60.699999999999996,
+          "sum": 60.7,
           "average": 15.175,
           "average w/o zero": 15.175
         },
@@ -44340,7 +44340,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dick, Philip K.": {
           "count": 9,
-          "sum": 28.399999999999995,
+          "sum": 28.4,
           "average": 3.1555555555555554,
           "average w/o zero": 3.1555555555555554
         },
@@ -44598,7 +44598,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 78.80000000000001,
+          "sum": 78.8,
           "average": 8.755555555555555,
           "average w/o zero": 8.755555555555555
         },
@@ -44628,7 +44628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Moliere": {
           "count": 3,
-          "sum": 15.600000000000001,
+          "sum": 15.6,
           "average": 5.2,
           "average w/o zero": 5.2
         },
@@ -44844,7 +44844,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gogol, Nikolai Vasilevich": {
           "count": 3,
-          "sum": 20.299999999999997,
+          "sum": 20.3,
           "average": 6.766666666666667,
           "average w/o zero": 6.766666666666667
         },
@@ -44916,7 +44916,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Neville, Kris": {
           "count": 4,
-          "sum": 15.000000000000002,
+          "sum": 15.0,
           "average": 3.75,
           "average w/o zero": 3.75
         },
@@ -46652,7 +46652,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.difficulty.flesch reading ease": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 740.95,
+          "sum": 740.9499999999999,
           "average": 67.35909090909091,
           "average w/o zero": 67.35909090909091
         },
@@ -46682,13 +46682,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 1386.5799999999997,
+          "sum": 1386.58,
           "average": 72.9778947368421,
           "average w/o zero": 72.9778947368421
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 933.2299999999999,
+          "sum": 933.23,
           "average": 77.76916666666666,
           "average w/o zero": 77.76916666666666
         },
@@ -46712,7 +46712,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 1113.4199999999998,
+          "sum": 1113.42,
           "average": 79.53,
           "average w/o zero": 79.53
         },
@@ -46724,7 +46724,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Joyce, James": {
           "count": 3,
-          "sum": 237.45000000000002,
+          "sum": 237.45,
           "average": 79.15,
           "average w/o zero": 79.15
         },
@@ -46748,7 +46748,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tolstoy, Leo, graf": {
           "count": 4,
-          "sum": 301.48999999999995,
+          "sum": 301.49,
           "average": 75.3725,
           "average w/o zero": 75.3725
         },
@@ -46766,7 +46766,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 2489.5899999999997,
+          "sum": 2489.59,
           "average": 73.22323529411764,
           "average w/o zero": 73.22323529411764
         },
@@ -46814,7 +46814,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Conrad, Joseph": {
           "count": 6,
-          "sum": 448.85,
+          "sum": 448.84999999999997,
           "average": 74.80833333333334,
           "average w/o zero": 74.80833333333334
         },
@@ -46898,7 +46898,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 382.96000000000004,
+          "sum": 382.96,
           "average": 54.708571428571425,
           "average w/o zero": 54.708571428571425
         },
@@ -46922,7 +46922,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shakespeare, William": {
           "count": 19,
-          "sum": 1577.7500000000002,
+          "sum": 1577.75,
           "average": 83.03947368421052,
           "average w/o zero": 83.03947368421052
         },
@@ -46946,7 +46946,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Baum, L. Frank (Lyman Frank)": {
           "count": 5,
-          "sum": 404.45000000000005,
+          "sum": 404.45,
           "average": 80.89,
           "average w/o zero": 80.89
         },
@@ -47156,7 +47156,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Poe, Edgar Allan": {
           "count": 8,
-          "sum": 477.10999999999996,
+          "sum": 477.11,
           "average": 59.63875,
           "average w/o zero": 59.63875
         },
@@ -47168,7 +47168,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Eliot, George": {
           "count": 4,
-          "sum": 263.59,
+          "sum": 263.59000000000003,
           "average": 65.89750000000001,
           "average w/o zero": 65.89750000000001
         },
@@ -47180,13 +47180,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Darwin, Charles": {
           "count": 4,
-          "sum": 197.60999999999999,
+          "sum": 197.61,
           "average": 49.4025,
           "average w/o zero": 49.4025
         },
         "Goethe, Johann Wolfgang von": {
           "count": 5,
-          "sum": 369.23999999999995,
+          "sum": 369.24,
           "average": 73.848,
           "average w/o zero": 73.848
         },
@@ -47252,7 +47252,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burroughs, Edgar Rice": {
           "count": 5,
-          "sum": 343.20000000000005,
+          "sum": 343.2,
           "average": 68.64,
           "average w/o zero": 68.64
         },
@@ -47606,7 +47606,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rousseau, Jean-Jacques": {
           "count": 4,
-          "sum": 194.57000000000002,
+          "sum": 194.57,
           "average": 48.6425,
           "average w/o zero": 48.6425
         },
@@ -47900,7 +47900,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Various": {
           "count": 4,
-          "sum": 248.03000000000003,
+          "sum": 248.03,
           "average": 62.0075,
           "average w/o zero": 62.0075
         },
@@ -47930,7 +47930,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 622.7,
+          "sum": 622.6999999999999,
           "average": 69.18888888888888,
           "average w/o zero": 69.18888888888888
         },
@@ -47960,7 +47960,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Moliere": {
           "count": 3,
-          "sum": 242.52,
+          "sum": 242.51999999999998,
           "average": 80.84,
           "average w/o zero": 80.84
         },
@@ -48248,7 +48248,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Neville, Kris": {
           "count": 4,
-          "sum": 340.40000000000003,
+          "sum": 340.4,
           "average": 85.1,
           "average w/o zero": 85.1
         },
@@ -49984,7 +49984,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.difficulty.gunning fog": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 113.20000000000002,
+          "sum": 113.2,
           "average": 10.290909090909091,
           "average w/o zero": 10.290909090909091
         },
@@ -50008,7 +50008,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Kafka, Franz": {
           "count": 3,
-          "sum": 34.4,
+          "sum": 34.400000000000006,
           "average": 11.466666666666667,
           "average w/o zero": 11.466666666666667
         },
@@ -50044,13 +50044,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 113.6,
+          "sum": 113.60000000000001,
           "average": 8.114285714285714,
           "average w/o zero": 8.114285714285714
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 169.6,
+          "sum": 169.60000000000002,
           "average": 9.422222222222222,
           "average w/o zero": 9.422222222222222
         },
@@ -50134,7 +50134,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Stevenson, Robert Louis": {
           "count": 4,
-          "sum": 40.4,
+          "sum": 40.400000000000006,
           "average": 10.100000000000001,
           "average w/o zero": 10.100000000000001
         },
@@ -50176,7 +50176,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 137.60000000000002,
+          "sum": 137.6,
           "average": 12.50909090909091,
           "average w/o zero": 12.50909090909091
         },
@@ -50296,7 +50296,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 72.8,
+          "sum": 72.80000000000001,
           "average": 9.100000000000001,
           "average w/o zero": 9.100000000000001
         },
@@ -50392,7 +50392,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cervantes Saavedra, Miguel de": {
           "count": 4,
-          "sum": 79.20000000000002,
+          "sum": 79.2,
           "average": 19.8,
           "average w/o zero": 19.8
         },
@@ -50434,7 +50434,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Paine, Thomas": {
           "count": 4,
-          "sum": 55.199999999999996,
+          "sum": 55.2,
           "average": 13.8,
           "average w/o zero": 13.8
         },
@@ -50452,7 +50452,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 55.99999999999999,
+          "sum": 56.0,
           "average": 9.333333333333334,
           "average w/o zero": 9.333333333333334
         },
@@ -50476,7 +50476,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rizal, Jose": {
           "count": 4,
-          "sum": 42.8,
+          "sum": 42.800000000000004,
           "average": 10.700000000000001,
           "average w/o zero": 10.700000000000001
         },
@@ -50488,7 +50488,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Poe, Edgar Allan": {
           "count": 8,
-          "sum": 90.00000000000001,
+          "sum": 90.0,
           "average": 11.25,
           "average w/o zero": 11.25
         },
@@ -50500,7 +50500,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Eliot, George": {
           "count": 4,
-          "sum": 46.8,
+          "sum": 46.800000000000004,
           "average": 11.700000000000001,
           "average w/o zero": 11.700000000000001
         },
@@ -50890,7 +50890,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wodehouse, P. G. (Pelham Grenville)": {
           "count": 3,
-          "sum": 21.2,
+          "sum": 21.200000000000003,
           "average": 7.066666666666667,
           "average w/o zero": 7.066666666666667
         },
@@ -51262,7 +51262,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 92.8,
+          "sum": 92.80000000000001,
           "average": 10.311111111111112,
           "average w/o zero": 10.311111111111112
         },
@@ -56648,7 +56648,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.difficulty.smog index": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 34.10000000000001,
+          "sum": 34.1,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56660,7 +56660,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carroll, Lewis": {
           "count": 7,
-          "sum": 21.700000000000003,
+          "sum": 21.7,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56678,13 +56678,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 58.90000000000002,
+          "sum": 58.9,
           "average": 3.1,
           "average w/o zero": 3.1
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 37.20000000000001,
+          "sum": 37.2,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56708,13 +56708,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 43.40000000000001,
+          "sum": 43.4,
           "average": 3.1,
           "average w/o zero": 3.1
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 55.80000000000002,
+          "sum": 55.800000000000004,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56762,7 +56762,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 122.49999999999991,
+          "sum": 122.5,
           "average": 3.6029411764705883,
           "average w/o zero": 3.6029411764705883
         },
@@ -56840,7 +56840,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 45.500000000000014,
+          "sum": 45.5,
           "average": 4.136363636363637,
           "average w/o zero": 4.136363636363637
         },
@@ -56870,19 +56870,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 24.800000000000004,
+          "sum": 24.8,
           "average": 3.1,
           "average w/o zero": 3.1
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 21.700000000000003,
+          "sum": 21.7,
           "average": 3.1,
           "average w/o zero": 3.1
         },
         "Dostoyevsky, Fyodor": {
           "count": 8,
-          "sum": 24.800000000000004,
+          "sum": 24.8,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56918,7 +56918,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shakespeare, William": {
           "count": 19,
-          "sum": 58.90000000000002,
+          "sum": 58.9,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -56948,7 +56948,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mill, John Stuart": {
           "count": 4,
-          "sum": 42.39999999999999,
+          "sum": 42.4,
           "average": 10.6,
           "average w/o zero": 10.6
         },
@@ -56960,7 +56960,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 30.500000000000007,
+          "sum": 30.5,
           "average": 3.8125,
           "average w/o zero": 3.8125
         },
@@ -57668,7 +57668,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dick, Philip K.": {
           "count": 9,
-          "sum": 27.900000000000006,
+          "sum": 27.900000000000002,
           "average": 3.1,
           "average w/o zero": 3.1
         },
@@ -57896,7 +57896,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Various": {
           "count": 4,
-          "sum": 23.800000000000004,
+          "sum": 23.8,
           "average": 5.95,
           "average w/o zero": 5.95
         },
@@ -59992,7 +59992,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carroll, Lewis": {
           "count": 7,
-          "sum": 0.7596038607705609,
+          "sum": 0.759603860770561,
           "average": 0.10851483725293727,
           "average w/o zero": 0.10851483725293727
         },
@@ -60010,13 +60010,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 1.9515008964840566,
+          "sum": 1.9515008964840563,
           "average": 0.10271057349916086,
           "average w/o zero": 0.10271057349916086
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 0.9546834679986266,
+          "sum": 0.9546834679986265,
           "average": 0.0795569556665522,
           "average w/o zero": 0.0891279277314448
         },
@@ -60028,7 +60028,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 0.42484023804225557,
+          "sum": 0.4248402380422555,
           "average": 0.07080670634037592,
           "average w/o zero": 0.07080670634037592
         },
@@ -60040,13 +60040,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 0.9929045212245797,
+          "sum": 0.9929045212245798,
           "average": 0.07092175151604141,
           "average w/o zero": 0.07092175151604141
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 1.703545983632955,
+          "sum": 1.7035459836329547,
           "average": 0.09464144353516415,
           "average w/o zero": 0.09464144353516415
         },
@@ -60166,7 +60166,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hesse, Hermann": {
           "count": 3,
-          "sum": 0.5879469664948211,
+          "sum": 0.587946966494821,
           "average": 0.19598232216494035,
           "average w/o zero": 0.19598232216494035
         },
@@ -60202,13 +60202,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 0.7680778877567135,
+          "sum": 0.7680778877567134,
           "average": 0.09600973596958917,
           "average w/o zero": 0.09600973596958917
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 0.4897108660462837,
+          "sum": 0.48971086604628367,
           "average": 0.06995869514946909,
           "average w/o zero": 0.06995869514946909
         },
@@ -60220,13 +60220,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Homer": {
           "count": 6,
-          "sum": 0.7903370206433257,
+          "sum": 0.7903370206433256,
           "average": 0.1317228367738876,
           "average w/o zero": 0.1317228367738876
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 0.9274855834762015,
+          "sum": 0.9274855834762016,
           "average": 0.13249794049660021,
           "average w/o zero": 0.13249794049660021
         },
@@ -60244,7 +60244,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Shaw, Bernard": {
           "count": 5,
-          "sum": 0.41534741552301374,
+          "sum": 0.4153474155230138,
           "average": 0.08306948310460276,
           "average w/o zero": 0.08306948310460276
         },
@@ -60280,7 +60280,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Mill, John Stuart": {
           "count": 4,
-          "sum": 0.4813460536680805,
+          "sum": 0.48134605366808053,
           "average": 0.12033651341702013,
           "average w/o zero": 0.12033651341702013
         },
@@ -60364,7 +60364,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Verne, Jules": {
           "count": 5,
-          "sum": 0.45413889713633715,
+          "sum": 0.4541388971363372,
           "average": 0.09082777942726744,
           "average w/o zero": 0.09082777942726744
         },
@@ -60382,7 +60382,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Montgomery, L. M. (Lucy Maud)": {
           "count": 5,
-          "sum": 0.4671955833091012,
+          "sum": 0.46719558330910116,
           "average": 0.09343911666182023,
           "average w/o zero": 0.09343911666182023
         },
@@ -60412,7 +60412,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milton, John": {
           "count": 3,
-          "sum": 0.39151543832623736,
+          "sum": 0.3915154383262373,
           "average": 0.13050514610874578,
           "average w/o zero": 0.13050514610874578
         },
@@ -60436,7 +60436,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hawthorne, Nathaniel": {
           "count": 5,
-          "sum": 0.466190643378748,
+          "sum": 0.46619064337874794,
           "average": 0.09323812867574958,
           "average w/o zero": 0.09323812867574958
         },
@@ -60448,7 +60448,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 0.6438921603125709,
+          "sum": 0.6438921603125708,
           "average": 0.10731536005209513,
           "average w/o zero": 0.10731536005209513
         },
@@ -60634,7 +60634,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hardy, Thomas": {
           "count": 6,
-          "sum": 0.3905669308855752,
+          "sum": 0.39056693088557526,
           "average": 0.0650944884809292,
           "average w/o zero": 0.0650944884809292
         },
@@ -60760,7 +60760,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burnett, Frances Hodgson": {
           "count": 3,
-          "sum": 0.24759970518607355,
+          "sum": 0.24759970518607352,
           "average": 0.08253323506202451,
           "average w/o zero": 0.08253323506202451
         },
@@ -61000,7 +61000,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dick, Philip K.": {
           "count": 9,
-          "sum": 0.3925882010382275,
+          "sum": 0.39258820103822756,
           "average": 0.04362091122646973,
           "average w/o zero": 0.0606515376119222
         },
@@ -61144,7 +61144,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Eliot, T. S. (Thomas Stearns)": {
           "count": 3,
-          "sum": 0.05655373418137497,
+          "sum": 0.056553734181374965,
           "average": 0.01885124472712499,
           "average w/o zero": 0.01885124472712499
         },
@@ -61240,7 +61240,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leiber, Fritz": {
           "count": 6,
-          "sum": 0.28776085691271147,
+          "sum": 0.2877608569127115,
           "average": 0.04796014281878525,
           "average w/o zero": 0.04796014281878525
         },
@@ -63348,7 +63348,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 6.427077137698565,
+          "sum": 6.427077137698566,
           "average": 0.5355897614748805,
           "average w/o zero": 0.5355897614748805
         },
@@ -63360,7 +63360,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 3.1896526847170685,
+          "sum": 3.189652684717069,
           "average": 0.5316087807861781,
           "average w/o zero": 0.5316087807861781
         },
@@ -63372,13 +63372,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 6.795190257851508,
+          "sum": 6.795190257851509,
           "average": 0.4853707327036792,
           "average w/o zero": 0.4853707327036792
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 8.93634958468323,
+          "sum": 8.936349584683231,
           "average": 0.49646386581573504,
           "average w/o zero": 0.49646386581573504
         },
@@ -63426,7 +63426,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 16.426466359352546,
+          "sum": 16.42646635935255,
           "average": 0.48313136351036906,
           "average w/o zero": 0.48313136351036906
         },
@@ -63438,13 +63438,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 5.253297684016318,
+          "sum": 5.253297684016319,
           "average": 0.4775725167287563,
           "average w/o zero": 0.4775725167287563
         },
         "Bronte, Charlotte": {
           "count": 3,
-          "sum": 1.488503232547101,
+          "sum": 1.4885032325471013,
           "average": 0.49616774418236703,
           "average w/o zero": 0.49616774418236703
         },
@@ -63462,7 +63462,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Stevenson, Robert Louis": {
           "count": 4,
-          "sum": 1.9372951911882403,
+          "sum": 1.9372951911882401,
           "average": 0.48432379779706003,
           "average w/o zero": 0.48432379779706003
         },
@@ -63498,7 +63498,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hesse, Hermann": {
           "count": 3,
-          "sum": 1.790686508914658,
+          "sum": 1.7906865089146577,
           "average": 0.5968955029715526,
           "average w/o zero": 0.5968955029715526
         },
@@ -63516,7 +63516,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Defoe, Daniel": {
           "count": 4,
-          "sum": 1.9382102475051095,
+          "sum": 1.9382102475051093,
           "average": 0.4845525618762773,
           "average w/o zero": 0.4845525618762773
         },
@@ -63534,13 +63534,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 3.955733178663117,
+          "sum": 3.9557331786631176,
           "average": 0.4944666473328897,
           "average w/o zero": 0.4944666473328897
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 3.2409319568559343,
+          "sum": 3.240931956855934,
           "average": 0.4629902795508477,
           "average w/o zero": 0.4629902795508477
         },
@@ -63552,13 +63552,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Homer": {
           "count": 6,
-          "sum": 3.1455437564876907,
+          "sum": 3.1455437564876902,
           "average": 0.5242572927479484,
           "average w/o zero": 0.5242572927479484
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 3.539018491329621,
+          "sum": 3.5390184913296205,
           "average": 0.5055740701899458,
           "average w/o zero": 0.5055740701899458
         },
@@ -63624,7 +63624,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 3.691503599988665,
+          "sum": 3.6915035999886654,
           "average": 0.4614379499985832,
           "average w/o zero": 0.4614379499985832
         },
@@ -63714,7 +63714,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Montgomery, L. M. (Lucy Maud)": {
           "count": 5,
-          "sum": 2.546547007509546,
+          "sum": 2.5465470075095458,
           "average": 0.5093094015019092,
           "average w/o zero": 0.5093094015019092
         },
@@ -63978,7 +63978,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gaskell, Elizabeth Cleghorn": {
           "count": 3,
-          "sum": 1.5603963649562818,
+          "sum": 1.560396364956282,
           "average": 0.520132121652094,
           "average w/o zero": 0.520132121652094
         },
@@ -63996,7 +63996,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Andersen, H. C. (Hans Christian)": {
           "count": 3,
-          "sum": 1.706159232228711,
+          "sum": 1.7061592322287107,
           "average": 0.5687197440762369,
           "average w/o zero": 0.5687197440762369
         },
@@ -64572,7 +64572,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leiber, Fritz": {
           "count": 6,
-          "sum": 2.858081233923127,
+          "sum": 2.8580812339231265,
           "average": 0.4763468723205211,
           "average w/o zero": 0.4763468723205211
         },
@@ -64590,7 +64590,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 4.435281617281986,
+          "sum": 4.435281617281985,
           "average": 0.4928090685868873,
           "average w/o zero": 0.4928090685868873
         },
@@ -64782,7 +64782,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carlyle, Thomas": {
           "count": 3,
-          "sum": 1.5046263373150521,
+          "sum": 1.5046263373150524,
           "average": 0.5015421124383508,
           "average w/o zero": 0.5015421124383508
         },
@@ -66680,7 +66680,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 56.650000000000006,
+          "sum": 56.65,
           "average": 4.720833333333333,
           "average w/o zero": 4.720833333333333
         },
@@ -66704,7 +66704,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 64.71000000000001,
+          "sum": 64.71,
           "average": 4.622142857142857,
           "average w/o zero": 4.622142857142857
         },
@@ -66716,7 +66716,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Joyce, James": {
           "count": 3,
-          "sum": 14.290000000000001,
+          "sum": 14.29,
           "average": 4.763333333333334,
           "average w/o zero": 4.763333333333334
         },
@@ -66758,7 +66758,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 168.42999999999998,
+          "sum": 168.43,
           "average": 4.953823529411765,
           "average w/o zero": 4.953823529411765
         },
@@ -66770,7 +66770,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 54.43000000000001,
+          "sum": 54.43,
           "average": 4.948181818181818,
           "average w/o zero": 4.948181818181818
         },
@@ -66794,7 +66794,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Stevenson, Robert Louis": {
           "count": 4,
-          "sum": 18.089999999999996,
+          "sum": 18.09,
           "average": 4.5225,
           "average w/o zero": 4.5225
         },
@@ -66806,13 +66806,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Conrad, Joseph": {
           "count": 6,
-          "sum": 28.479999999999997,
+          "sum": 28.48,
           "average": 4.746666666666666,
           "average w/o zero": 4.746666666666666
         },
         "Dumas, Alexandre": {
           "count": 4,
-          "sum": 19.959999999999997,
+          "sum": 19.96,
           "average": 4.99,
           "average w/o zero": 4.99
         },
@@ -66836,13 +66836,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 51.48,
+          "sum": 51.480000000000004,
           "average": 4.68,
           "average w/o zero": 4.68
         },
         "Franklin, Benjamin": {
           "count": 3,
-          "sum": 14.540000000000001,
+          "sum": 14.54,
           "average": 4.846666666666667,
           "average w/o zero": 4.846666666666667
         },
@@ -66872,13 +66872,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Kipling, Rudyard": {
           "count": 7,
-          "sum": 32.440000000000005,
+          "sum": 32.44,
           "average": 4.634285714285714,
           "average w/o zero": 4.634285714285714
         },
         "Dostoyevsky, Fyodor": {
           "count": 8,
-          "sum": 38.010000000000005,
+          "sum": 38.01,
           "average": 4.75125,
           "average w/o zero": 4.75125
         },
@@ -66890,7 +66890,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 36.57000000000001,
+          "sum": 36.57,
           "average": 5.224285714285714,
           "average w/o zero": 5.224285714285714
         },
@@ -67040,13 +67040,13 @@ VISUALIZER_DATA_BARS = [
         },
         "London, Jack": {
           "count": 5,
-          "sum": 23.660000000000004,
+          "sum": 23.66,
           "average": 4.732,
           "average w/o zero": 4.732
         },
         "Montgomery, L. M. (Lucy Maud)": {
           "count": 5,
-          "sum": 23.439999999999998,
+          "sum": 23.44,
           "average": 4.688,
           "average w/o zero": 4.688
         },
@@ -67064,7 +67064,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Marlowe, Christopher": {
           "count": 4,
-          "sum": 20.479999999999997,
+          "sum": 20.48,
           "average": 5.12,
           "average w/o zero": 5.12
         },
@@ -67076,7 +67076,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milton, John": {
           "count": 3,
-          "sum": 14.840000000000002,
+          "sum": 14.84,
           "average": 4.946666666666667,
           "average w/o zero": 4.946666666666667
         },
@@ -67112,7 +67112,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 28.580000000000002,
+          "sum": 28.58,
           "average": 4.763333333333334,
           "average w/o zero": 4.763333333333334
         },
@@ -67244,7 +67244,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burroughs, Edgar Rice": {
           "count": 5,
-          "sum": 23.56,
+          "sum": 23.560000000000002,
           "average": 4.712000000000001,
           "average w/o zero": 4.712000000000001
         },
@@ -67298,7 +67298,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hardy, Thomas": {
           "count": 6,
-          "sum": 28.860000000000003,
+          "sum": 28.86,
           "average": 4.8100000000000005,
           "average w/o zero": 4.8100000000000005
         },
@@ -67310,7 +67310,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gaskell, Elizabeth Cleghorn": {
           "count": 3,
-          "sum": 13.97,
+          "sum": 13.969999999999999,
           "average": 4.656666666666666,
           "average w/o zero": 4.656666666666666
         },
@@ -67550,7 +67550,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wodehouse, P. G. (Pelham Grenville)": {
           "count": 3,
-          "sum": 13.95,
+          "sum": 13.950000000000001,
           "average": 4.65,
           "average w/o zero": 4.65
         },
@@ -67952,7 +67952,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Moliere": {
           "count": 3,
-          "sum": 14.720000000000002,
+          "sum": 14.72,
           "average": 4.906666666666667,
           "average w/o zero": 4.906666666666667
         },
@@ -68090,7 +68090,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, William": {
           "count": 3,
-          "sum": 15.06,
+          "sum": 15.059999999999999,
           "average": 5.02,
           "average w/o zero": 5.02
         },
@@ -68294,7 +68294,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Tagore, Rabindranath": {
           "count": 3,
-          "sum": 14.169999999999998,
+          "sum": 14.17,
           "average": 4.723333333333334,
           "average w/o zero": 4.723333333333334
         },
@@ -68726,7 +68726,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cicero, Marcus Tullius": {
           "count": 3,
-          "sum": 14.669999999999998,
+          "sum": 14.67,
           "average": 4.89,
           "average w/o zero": 4.89
         },
@@ -73308,7 +73308,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.statistics.average sentence per word": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 0.5299999999999999,
+          "sum": 0.53,
           "average": 0.04818181818181819,
           "average w/o zero": 0.04818181818181819
         },
@@ -73338,13 +73338,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Twain, Mark": {
           "count": 19,
-          "sum": 0.9400000000000002,
+          "sum": 0.9400000000000001,
           "average": 0.049473684210526316,
           "average w/o zero": 0.049473684210526316
         },
         "Wilde, Oscar": {
           "count": 12,
-          "sum": 0.9099999999999999,
+          "sum": 0.91,
           "average": 0.07583333333333334,
           "average w/o zero": 0.07583333333333334
         },
@@ -73356,25 +73356,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 0.58,
+          "sum": 0.5800000000000001,
           "average": 0.09666666666666666,
           "average w/o zero": 0.09666666666666666
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 0.24000000000000002,
+          "sum": 0.24,
           "average": 0.06,
           "average w/o zero": 0.06
         },
         "Doyle, Arthur Conan": {
           "count": 14,
-          "sum": 0.8800000000000003,
+          "sum": 0.88,
           "average": 0.06285714285714286,
           "average w/o zero": 0.06285714285714286
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 0.9600000000000004,
+          "sum": 0.96,
           "average": 0.05333333333333333,
           "average w/o zero": 0.05333333333333333
         },
@@ -73422,7 +73422,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Unknown": {
           "count": 34,
-          "sum": 1.9200000000000013,
+          "sum": 1.92,
           "average": 0.05647058823529412,
           "average w/o zero": 0.05647058823529412
         },
@@ -73476,7 +73476,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dumas, Alexandre": {
           "count": 4,
-          "sum": 0.21999999999999997,
+          "sum": 0.22,
           "average": 0.055,
           "average w/o zero": 0.055
         },
@@ -73500,13 +73500,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Plato": {
           "count": 11,
-          "sum": 0.42999999999999994,
+          "sum": 0.43,
           "average": 0.03909090909090909,
           "average w/o zero": 0.03909090909090909
         },
         "Franklin, Benjamin": {
           "count": 3,
-          "sum": 0.11000000000000001,
+          "sum": 0.11,
           "average": 0.03666666666666667,
           "average w/o zero": 0.03666666666666667
         },
@@ -73530,7 +73530,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dante Alighieri": {
           "count": 8,
-          "sum": 0.30000000000000004,
+          "sum": 0.3,
           "average": 0.0375,
           "average w/o zero": 0.0375
         },
@@ -73548,13 +73548,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Homer": {
           "count": 6,
-          "sum": 0.21000000000000002,
+          "sum": 0.21,
           "average": 0.035,
           "average w/o zero": 0.035
         },
         "Nietzsche, Friedrich Wilhelm": {
           "count": 7,
-          "sum": 0.32000000000000006,
+          "sum": 0.32,
           "average": 0.045714285714285714,
           "average w/o zero": 0.045714285714285714
         },
@@ -73602,7 +73602,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Baum, L. Frank (Lyman Frank)": {
           "count": 5,
-          "sum": 0.27999999999999997,
+          "sum": 0.28,
           "average": 0.056,
           "average w/o zero": 0.056
         },
@@ -73620,7 +73620,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 0.43999999999999995,
+          "sum": 0.44,
           "average": 0.055,
           "average w/o zero": 0.055
         },
@@ -73800,7 +73800,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Rizal, Jose": {
           "count": 4,
-          "sum": 0.19000000000000003,
+          "sum": 0.19,
           "average": 0.0475,
           "average w/o zero": 0.0475
         },
@@ -73908,7 +73908,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burroughs, Edgar Rice": {
           "count": 5,
-          "sum": 0.22000000000000003,
+          "sum": 0.22,
           "average": 0.044000000000000004,
           "average w/o zero": 0.044000000000000004
         },
@@ -74040,7 +74040,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chekhov, Anton Pavlovich": {
           "count": 4,
-          "sum": 0.32999999999999996,
+          "sum": 0.33,
           "average": 0.0825,
           "average w/o zero": 0.0825
         },
@@ -74358,7 +74358,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Aristotle": {
           "count": 3,
-          "sum": 0.09000000000000001,
+          "sum": 0.09,
           "average": 0.03,
           "average w/o zero": 0.03
         },
@@ -74556,7 +74556,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Various": {
           "count": 4,
-          "sum": 0.23000000000000004,
+          "sum": 0.23,
           "average": 0.0575,
           "average w/o zero": 0.0575
         },
@@ -74586,7 +74586,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chesterton, G. K. (Gilbert Keith)": {
           "count": 9,
-          "sum": 0.43999999999999995,
+          "sum": 0.44,
           "average": 0.04888888888888889,
           "average w/o zero": 0.04888888888888889
         },
@@ -74694,7 +74694,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Freud, Sigmund": {
           "count": 3,
-          "sum": 0.12000000000000001,
+          "sum": 0.12,
           "average": 0.04,
           "average w/o zero": 0.04
         },
@@ -86636,7 +86636,7 @@ VISUALIZER_DATA_BARS = [
       "metrics.statistics.syllables": {
         "Austen, Jane": {
           "count": 11,
-          "sum": 2496651.3,
+          "sum": 2496651.3000000003,
           "average": 226968.30000000002,
           "average w/o zero": 226968.30000000002
         },
@@ -86648,7 +86648,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Carroll, Lewis": {
           "count": 7,
-          "sum": 241575.3,
+          "sum": 241575.30000000002,
           "average": 34510.75714285715,
           "average w/o zero": 34510.75714285715
         },
@@ -86684,13 +86684,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Ibsen, Henrik": {
           "count": 6,
-          "sum": 217233.90000000002,
+          "sum": 217233.9,
           "average": 36205.65,
           "average w/o zero": 36205.65
         },
         "Melville, Herman": {
           "count": 4,
-          "sum": 432391.5,
+          "sum": 432391.49999999994,
           "average": 108097.87499999999,
           "average w/o zero": 108097.87499999999
         },
@@ -86702,7 +86702,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dickens, Charles": {
           "count": 18,
-          "sum": 5057142.299999999,
+          "sum": 5057142.3,
           "average": 280952.35,
           "average w/o zero": 280952.35
         },
@@ -86762,13 +86762,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Anonymous": {
           "count": 11,
-          "sum": 898450.2000000002,
+          "sum": 898450.2,
           "average": 81677.29090909091,
           "average w/o zero": 81677.29090909091
         },
         "Bronte, Charlotte": {
           "count": 3,
-          "sum": 642499.2000000001,
+          "sum": 642499.2,
           "average": 214166.4,
           "average w/o zero": 214166.4
         },
@@ -86798,7 +86798,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Conrad, Joseph": {
           "count": 6,
-          "sum": 667830.6000000001,
+          "sum": 667830.6,
           "average": 111305.09999999999,
           "average w/o zero": 111305.09999999999
         },
@@ -86870,7 +86870,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dostoyevsky, Fyodor": {
           "count": 8,
-          "sum": 1783683.9,
+          "sum": 1783683.9000000001,
           "average": 222960.48750000002,
           "average w/o zero": 222960.48750000002
         },
@@ -86930,7 +86930,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Baum, L. Frank (Lyman Frank)": {
           "count": 5,
-          "sum": 257832.00000000003,
+          "sum": 257832.0,
           "average": 51566.4,
           "average w/o zero": 51566.4
         },
@@ -86948,7 +86948,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wells, H. G. (Herbert George)": {
           "count": 8,
-          "sum": 583873.2000000001,
+          "sum": 583873.2,
           "average": 72984.15,
           "average w/o zero": 72984.15
         },
@@ -87044,7 +87044,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cervantes Saavedra, Miguel de": {
           "count": 4,
-          "sum": 1726950.5999999999,
+          "sum": 1726950.6,
           "average": 431737.65,
           "average w/o zero": 431737.65
         },
@@ -87056,7 +87056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Marlowe, Christopher": {
           "count": 4,
-          "sum": 123001.20000000001,
+          "sum": 123001.2,
           "average": 30750.3,
           "average w/o zero": 30750.3
         },
@@ -87104,7 +87104,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, Henry": {
           "count": 6,
-          "sum": 511727.4000000001,
+          "sum": 511727.4,
           "average": 85287.90000000001,
           "average w/o zero": 85287.90000000001
         },
@@ -87152,7 +87152,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Eliot, George": {
           "count": 4,
-          "sum": 965592.8999999999,
+          "sum": 965592.9,
           "average": 241398.225,
           "average w/o zero": 241398.225
         },
@@ -87170,7 +87170,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Goethe, Johann Wolfgang von": {
           "count": 5,
-          "sum": 182075.40000000002,
+          "sum": 182075.4,
           "average": 36415.08,
           "average w/o zero": 36415.08
         },
@@ -87236,7 +87236,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burroughs, Edgar Rice": {
           "count": 5,
-          "sum": 517094.10000000003,
+          "sum": 517094.1,
           "average": 103418.81999999999,
           "average w/o zero": 103418.81999999999
         },
@@ -87368,7 +87368,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Chekhov, Anton Pavlovich": {
           "count": 4,
-          "sum": 234404.09999999998,
+          "sum": 234404.1,
           "average": 58601.025,
           "average w/o zero": 58601.025
         },
@@ -87416,7 +87416,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Burnett, Frances Hodgson": {
           "count": 3,
-          "sum": 288811.80000000005,
+          "sum": 288811.8,
           "average": 96270.6,
           "average w/o zero": 96270.6
         },
@@ -87464,7 +87464,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fitzgerald, F. Scott (Francis Scott)": {
           "count": 4,
-          "sum": 495160.19999999995,
+          "sum": 495160.2,
           "average": 123790.05,
           "average w/o zero": 123790.05
         },
@@ -87542,7 +87542,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Wodehouse, P. G. (Pelham Grenville)": {
           "count": 3,
-          "sum": 254159.10000000003,
+          "sum": 254159.1,
           "average": 84719.7,
           "average w/o zero": 84719.7
         },
@@ -87896,7 +87896,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Leiber, Fritz": {
           "count": 6,
-          "sum": 52190.100000000006,
+          "sum": 52190.1,
           "average": 8698.35,
           "average w/o zero": 8698.35
         },
@@ -88064,7 +88064,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Harmon, Jim": {
           "count": 4,
-          "sum": 33609.600000000006,
+          "sum": 33609.6,
           "average": 8402.4,
           "average w/o zero": 8402.4
         },
@@ -88082,7 +88082,7 @@ VISUALIZER_DATA_BARS = [
         },
         "James, William": {
           "count": 3,
-          "sum": 501896.69999999995,
+          "sum": 501896.7,
           "average": 167298.9,
           "average w/o zero": 167298.9
         },

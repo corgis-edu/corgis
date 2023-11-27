@@ -136,13 +136,13 @@ VISUALIZER_DATA_BARS = [
       "location.latitude": {
         "steel": {
           "count": 875,
-          "sum": 33991.54153442382,
+          "sum": 33991.541534423835,
           "average": 38.84747603934152,
           "average w/o zero": 39.75618892915068
         },
         "composite": {
           "count": 123,
-          "sum": 4897.33673095703,
+          "sum": 4897.336730957033,
           "average": 39.81574578013848,
           "average w/o zero": 40.473857280636636
         },
@@ -154,13 +154,13 @@ VISUALIZER_DATA_BARS = [
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 1262.9602279663081,
+          "sum": 1262.960227966308,
           "average": 38.27152205958509,
           "average w/o zero": 38.27152205958509
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 851.1133327484131,
+          "sum": 851.113332748413,
           "average": 38.68696967038241,
           "average w/o zero": 38.68696967038241
         },
@@ -192,7 +192,7 @@ VISUALIZER_DATA_BARS = [
         },
         "concrete": {
           "count": 1366,
-          "sum": -117384.04998016357,
+          "sum": -117384.04998016353,
           "average": -85.93268666190595,
           "average w/o zero": 0
         },
@@ -204,7 +204,7 @@ VISUALIZER_DATA_BARS = [
         },
         "concrete/steel": {
           "count": 22,
-          "sum": -1946.4877777099496,
+          "sum": -1946.48777770995,
           "average": -88.4767171686341,
           "average w/o zero": 0
         },
@@ -1280,37 +1280,37 @@ VISUALIZER_DATA_BARS = [
       "statistics.height": {
         "steel": {
           "count": 875,
-          "sum": 120045.20008087163,
+          "sum": 120045.20008087164,
           "average": 137.19451437813902,
           "average w/o zero": 139.26357317966549
         },
         "composite": {
           "count": 123,
-          "sum": 23784.540031433087,
+          "sum": 23784.540031433095,
           "average": 193.37024415799266,
           "average w/o zero": 196.5664465407694
         },
         "concrete": {
           "count": 1366,
-          "sum": 168913.11011505115,
+          "sum": 168913.11011505133,
           "average": 123.65527826870522,
           "average w/o zero": 130.13336680666512
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 4680.209980010975,
+          "sum": 4680.209980010976,
           "average": 141.82454484881745,
           "average w/o zero": 146.256561875343
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 3370.9299774169876,
+          "sum": 3370.929977416988,
           "average": 153.22408988259036,
           "average w/o zero": 153.22408988259036
         },
         "masonry": {
           "count": 9,
-          "sum": 826.910003662105,
+          "sum": 826.9100036621049,
           "average": 91.87888929578945,
           "average w/o zero": 91.87888929578945
         },
@@ -4516,37 +4516,37 @@ VISUALIZER_DATA_BARS = [
       "location.latitude": {
         "Chicago": {
           "count": 419,
-          "sum": 17383.78979110718,
+          "sum": 17383.789791107185,
           "average": 41.488758451329794,
           "average w/o zero": 41.88865009905346
         },
         "New York City": {
           "count": 640,
-          "sum": 25791.29373931885,
+          "sum": 25791.293739318844,
           "average": 40.298896467685694,
           "average w/o zero": 40.74453987254162
         },
         "Houston": {
           "count": 68,
-          "sum": 1963.4986820220984,
+          "sum": 1963.498682022098,
           "average": 28.874980617972028,
           "average w/o zero": 29.749980030637847
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 1697.6688842773422,
+          "sum": 1697.668884277342,
           "average": 31.43831267180263,
           "average w/o zero": 36.12061455909238
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 1478.215301513677,
+          "sum": 1478.2153015136769,
           "average": 38.90040267141255,
           "average w/o zero": 39.95176490577505
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 1805.1504096984872,
+          "sum": 1805.150409698487,
           "average": 32.820916539972494,
           "average w/o zero": 34.05944169242428
         },
@@ -4558,25 +4558,25 @@ VISUALIZER_DATA_BARS = [
         },
         "Nashville": {
           "count": 13,
-          "sum": 470.08115768432504,
+          "sum": 470.081157684325,
           "average": 36.16008905264039,
           "average w/o zero": 36.16008905264039
         },
         "Atlanta": {
           "count": 42,
-          "sum": 1419.4443855285665,
+          "sum": 1419.444385528567,
           "average": 33.79629489353731,
           "average w/o zero": 33.79629489353731
         },
         "Miami": {
           "count": 130,
-          "sum": 3144.3470172882057,
+          "sum": 3144.347017288206,
           "average": 24.187284748370814,
           "average w/o zero": 25.773336207280376
         },
         "Cleveland": {
           "count": 17,
-          "sum": 705.5230255126951,
+          "sum": 705.523025512695,
           "average": 41.50135444192323,
           "average w/o zero": 41.50135444192323
         },
@@ -4588,7 +4588,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Dallas": {
           "count": 27,
-          "sum": 819.6094894409189,
+          "sum": 819.609489440919,
           "average": 30.355907016330335,
           "average w/o zero": 32.78437957763676
         },
@@ -4630,7 +4630,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Boston": {
           "count": 38,
-          "sum": 1609.4566802978543,
+          "sum": 1609.456680297854,
           "average": 42.354123165733,
           "average w/o zero": 42.354123165733
         },
@@ -4648,7 +4648,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Detroit": {
           "count": 21,
-          "sum": 888.9971313476522,
+          "sum": 888.997131347652,
           "average": 42.33319673084057,
           "average w/o zero": 42.33319673084057
         },
@@ -4666,7 +4666,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 636.3234481811529,
+          "sum": 636.323448181153,
           "average": 39.770215511322064,
           "average w/o zero": 39.770215511322064
         },
@@ -4684,7 +4684,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Austin": {
           "count": 21,
-          "sum": 635.6040992736821,
+          "sum": 635.604099273682,
           "average": 30.266861870175333,
           "average w/o zero": 30.266861870175333
         },
@@ -4702,7 +4702,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 726.2733173370358,
+          "sum": 726.273317337036,
           "average": 25.04390749438055,
           "average w/o zero": 25.938332762037
         },
@@ -4726,7 +4726,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 731.7463302612309,
+          "sum": 731.746330261231,
           "average": 43.04390178007241,
           "average w/o zero": 43.04390178007241
         },
@@ -4750,13 +4750,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 541.8800086975119,
+          "sum": 541.880008697512,
           "average": 25.803809937976762,
           "average w/o zero": 25.803809937976762
         },
         "Columbus": {
           "count": 15,
-          "sum": 599.4726219177261,
+          "sum": 599.472621917726,
           "average": 39.964841461181734,
           "average w/o zero": 39.964841461181734
         },
@@ -4774,7 +4774,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Portland": {
           "count": 12,
-          "sum": 500.63333511352494,
+          "sum": 500.633335113525,
           "average": 41.71944459279375,
           "average w/o zero": 45.512121373956816
         },
@@ -4792,7 +4792,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Baltimore": {
           "count": 17,
-          "sum": 628.6052131652831,
+          "sum": 628.605213165283,
           "average": 36.97677724501665,
           "average w/o zero": 39.287825822830186
         },
@@ -4828,7 +4828,7 @@ VISUALIZER_DATA_BARS = [
         },
         "San Diego": {
           "count": 24,
-          "sum": 785.1084098815941,
+          "sum": 785.108409881594,
           "average": 32.712850411733086,
           "average w/o zero": 32.712850411733086
         },
@@ -4852,7 +4852,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Phoenix": {
           "count": 17,
-          "sum": 568.7265167236329,
+          "sum": 568.726516723633,
           "average": 33.45450098374312,
           "average w/o zero": 33.45450098374312
         },
@@ -4924,7 +4924,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Hollywood": {
           "count": 3,
-          "sum": 77.98171806335401,
+          "sum": 77.981718063354,
           "average": 25.993906021118,
           "average w/o zero": 25.993906021118
         },
@@ -4960,7 +4960,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 611.4881324768071,
+          "sum": 611.488132476807,
           "average": 40.7658754984538,
           "average w/o zero": 40.7658754984538
         },
@@ -5002,13 +5002,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 171.86665344238298,
+          "sum": 171.866653442383,
           "average": 42.96666336059575,
           "average w/o zero": 42.96666336059575
         },
         "Dayton": {
           "count": 3,
-          "sum": 119.28158187866201,
+          "sum": 119.281581878662,
           "average": 39.76052729288733,
           "average w/o zero": 39.76052729288733
         },
@@ -5026,7 +5026,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Sacramento": {
           "count": 12,
-          "sum": 462.95127868652196,
+          "sum": 462.951278686522,
           "average": 38.57927322387683,
           "average w/o zero": 38.57927322387683
         },
@@ -5074,7 +5074,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 100.54253005981501,
+          "sum": 100.542530059815,
           "average": 33.514176686605,
           "average w/o zero": 33.514176686605
         },
@@ -5260,7 +5260,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Covington": {
           "count": 3,
-          "sum": 117.26969909667899,
+          "sum": 117.269699096679,
           "average": 39.089899698893,
           "average w/o zero": 39.089899698893
         },
@@ -5452,7 +5452,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Gary": {
           "count": 4,
-          "sum": 166.40708923339798,
+          "sum": 166.407089233398,
           "average": 41.6017723083495,
           "average w/o zero": 41.6017723083495
         },
@@ -5484,7 +5484,7 @@ VISUALIZER_DATA_BARS = [
       "location.longitude": {
         "Chicago": {
           "count": 419,
-          "sum": -36365.84721374512,
+          "sum": -36365.84721374511,
           "average": -86.79199812349668,
           "average w/o zero": 0
         },
@@ -5514,7 +5514,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Los Angeles": {
           "count": 55,
-          "sum": -6269.547393798812,
+          "sum": -6269.54739379881,
           "average": -113.991770796342,
           "average w/o zero": 0
         },
@@ -5526,19 +5526,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Nashville": {
           "count": 13,
-          "sum": -1128.1343383789072,
+          "sum": -1128.134338378907,
           "average": -86.77956449068516,
           "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": -3544.0140914916988,
+          "sum": -3544.014091491699,
           "average": -84.3812878926595,
           "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": -9783.376358032225,
+          "sum": -9783.376358032227,
           "average": -75.25674121563252,
           "average w/o zero": 0
         },
@@ -5550,7 +5550,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Seattle": {
           "count": 65,
-          "sum": -7951.819442749042,
+          "sum": -7951.81944274904,
           "average": -122.33568373460062,
           "average w/o zero": 0
         },
@@ -5592,7 +5592,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Minneapolis": {
           "count": 41,
-          "sum": -3730.773971557616,
+          "sum": -3730.773971557615,
           "average": -90.99448711116133,
           "average w/o zero": 0
         },
@@ -5604,7 +5604,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Jersey City": {
           "count": 26,
-          "sum": -1925.0032424926744,
+          "sum": -1925.003242492675,
           "average": -74.03858624971826,
           "average w/o zero": 0
         },
@@ -5616,7 +5616,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Detroit": {
           "count": 21,
-          "sum": -1744.0187530517596,
+          "sum": -1744.01875305176,
           "average": -83.04851205008381,
           "average w/o zero": 0
         },
@@ -5628,7 +5628,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Denver": {
           "count": 13,
-          "sum": -1259.8989257812498,
+          "sum": -1259.89892578125,
           "average": -96.91530198317308,
           "average w/o zero": 0
         },
@@ -5640,13 +5640,13 @@ VISUALIZER_DATA_BARS = [
         },
         "New Orleans": {
           "count": 9,
-          "sum": -810.6514739990241,
+          "sum": -810.651473999024,
           "average": -90.07238599989155,
           "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": -494.73943328857496,
+          "sum": -494.739433288575,
           "average": -70.67706189836785,
           "average w/o zero": 0
         },
@@ -5664,7 +5664,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cincinnati": {
           "count": 13,
-          "sum": -1098.6175003051762,
+          "sum": -1098.617500305176,
           "average": -84.50903848501353,
           "average w/o zero": 0
         },
@@ -5688,19 +5688,19 @@ VISUALIZER_DATA_BARS = [
         },
         "San Antonio": {
           "count": 5,
-          "sum": -492.427192687989,
+          "sum": -492.42719268798896,
           "average": -98.4854385375978,
           "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": -1494.3388671875016,
+          "sum": -1494.338867187502,
           "average": -87.90228630514717,
           "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": -1353.0460586547842,
+          "sum": -1353.046058654784,
           "average": -90.2030705769856,
           "average w/o zero": 0
         },
@@ -5718,13 +5718,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": -1682.7439346313492,
+          "sum": -1682.743934631349,
           "average": -80.13066355387376,
           "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": -1245.0321426391602,
+          "sum": -1245.03214263916,
           "average": -83.00214284261067,
           "average w/o zero": 0
         },
@@ -5874,7 +5874,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Honolulu": {
           "count": 61,
-          "sum": -9470.784072875955,
+          "sum": -9470.78407287595,
           "average": -155.25875529304835,
           "average w/o zero": 0
         },
@@ -5940,7 +5940,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Aventura": {
           "count": 5,
-          "sum": -400.6489944458019,
+          "sum": -400.648994445802,
           "average": -80.1297988891604,
           "average w/o zero": 0
         },
@@ -6108,7 +6108,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fort Myers": {
           "count": 5,
-          "sum": -327.46226501464804,
+          "sum": -327.462265014648,
           "average": -65.4924530029296,
           "average w/o zero": 0
         },
@@ -29684,31 +29684,31 @@ VISUALIZER_DATA_BARS = [
       "statistics.height": {
         "Chicago": {
           "count": 419,
-          "sum": 56572.360080719,
+          "sum": 56572.360080719016,
           "average": 135.01756582510507,
           "average w/o zero": 136.97908009859327
         },
         "New York City": {
           "count": 640,
-          "sum": 92364.9598770142,
+          "sum": 92364.95987701425,
           "average": 144.32024980783478,
           "average w/o zero": 148.73584521258334
         },
         "Houston": {
           "count": 68,
-          "sum": 10082.280002593996,
+          "sum": 10082.280002594,
           "average": 148.2688235675588,
           "average w/o zero": 152.7618182211212
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 7696.6199874877575,
+          "sum": 7696.619987487757,
           "average": 142.5299997682918,
           "average w/o zero": 150.91411740172072
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 5209.77000808716,
+          "sum": 5209.770008087161,
           "average": 137.09921073913583,
           "average w/o zero": 144.71583355797668
         },
@@ -29732,37 +29732,37 @@ VISUALIZER_DATA_BARS = [
         },
         "Atlanta": {
           "count": 42,
-          "sum": 5720.790004730225,
+          "sum": 5720.790004730226,
           "average": 136.20928582691013,
           "average w/o zero": 150.54710538763752
         },
         "Miami": {
           "count": 130,
-          "sum": 19347.089988708496,
+          "sum": 19347.0899887085,
           "average": 148.82376914391153,
           "average w/o zero": 154.776719909668
         },
         "Cleveland": {
           "count": 17,
-          "sum": 2353.8200149536046,
+          "sum": 2353.820014953605,
           "average": 138.46000087962383,
           "average w/o zero": 138.46000087962383
         },
         "Seattle": {
           "count": 65,
-          "sum": 8785.210083007833,
+          "sum": 8785.21008300783,
           "average": 135.15707820012048,
           "average w/o zero": 137.26890754699735
         },
         "Dallas": {
           "count": 27,
-          "sum": 4048.2500000000014,
+          "sum": 4048.250000000002,
           "average": 149.93518518518525,
           "average w/o zero": 161.9300000000001
         },
         "Charlotte": {
           "count": 13,
-          "sum": 2086.0800018310542,
+          "sum": 2086.080001831054,
           "average": 160.4676924485426,
           "average w/o zero": 160.4676924485426
         },
@@ -29774,13 +29774,13 @@ VISUALIZER_DATA_BARS = [
         },
         "San Francisco": {
           "count": 68,
-          "sum": 9063.550041198727,
+          "sum": 9063.550041198729,
           "average": 133.28750060586367,
           "average w/o zero": 139.43923140305736
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 661.4000244140699,
+          "sum": 661.40002441407,
           "average": 165.3500061035175,
           "average w/o zero": 165.3500061035175
         },
@@ -29798,7 +29798,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Boston": {
           "count": 38,
-          "sum": 4823.040000915516,
+          "sum": 4823.040000915518,
           "average": 126.92210528725047,
           "average w/o zero": 137.8011428833005
         },
@@ -29822,7 +29822,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 1252.4299926757901,
+          "sum": 1252.42999267579,
           "average": 156.55374908447374,
           "average w/o zero": 156.55374908447374
         },
@@ -29834,7 +29834,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 1880.7099990844802,
+          "sum": 1880.70999908448,
           "average": 117.54437494278,
           "average w/o zero": 117.54437494278
         },
@@ -29846,13 +29846,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Tampa": {
           "count": 7,
-          "sum": 988.5600051879941,
+          "sum": 988.560005187994,
           "average": 141.22285788399915,
           "average w/o zero": 141.22285788399915
         },
         "Austin": {
           "count": 21,
-          "sum": 2570.7799835204873,
+          "sum": 2570.779983520487,
           "average": 122.41809445335652,
           "average w/o zero": 122.41809445335652
         },
@@ -29864,7 +29864,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 1563.6700019836367,
+          "sum": 1563.6700019836371,
           "average": 120.28230784489516,
           "average w/o zero": 120.28230784489516
         },
@@ -29882,19 +29882,19 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas City": {
           "count": 11,
-          "sum": 1356.4300079345767,
+          "sum": 1356.4300079345771,
           "average": 123.31181890314336,
           "average w/o zero": 123.31181890314336
         },
         "San Antonio": {
           "count": 5,
-          "sum": 715.1599884033201,
+          "sum": 715.15998840332,
           "average": 143.031997680664,
           "average w/o zero": 143.031997680664
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 1490.5999908447343,
+          "sum": 1490.599990844734,
           "average": 87.68235240263141,
           "average w/o zero": 99.37333272298227
         },
@@ -29936,7 +29936,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Louisville": {
           "count": 5,
-          "sum": 678.5199966430599,
+          "sum": 678.51999664306,
           "average": 135.70399932861199,
           "average w/o zero": 135.70399932861199
         },
@@ -29990,13 +29990,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 422.14999389647994,
+          "sum": 422.14999389648,
           "average": 140.71666463216,
           "average w/o zero": 140.71666463216
         },
         "San Diego": {
           "count": 24,
-          "sum": 3009.7200164794804,
+          "sum": 3009.72001647948,
           "average": 125.405000686645,
           "average w/o zero": 125.405000686645
         },
@@ -30014,7 +30014,7 @@ VISUALIZER_DATA_BARS = [
         },
         "White Plains": {
           "count": 4,
-          "sum": 510.84001159668,
+          "sum": 510.84001159668003,
           "average": 127.71000289917001,
           "average w/o zero": 127.71000289917001
         },
@@ -30056,7 +30056,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Bellevue": {
           "count": 7,
-          "sum": 917.4700088500899,
+          "sum": 917.47000885009,
           "average": 131.06714412144143,
           "average w/o zero": 131.06714412144143
         },
@@ -30074,7 +30074,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Honolulu": {
           "count": 61,
-          "sum": 6730.8899917602985,
+          "sum": 6730.8899917603,
           "average": 110.34245888131639,
           "average w/o zero": 116.0498274441431
         },
@@ -30092,13 +30092,13 @@ VISUALIZER_DATA_BARS = [
         },
         "Hollywood": {
           "count": 3,
-          "sum": 392.27999877929994,
+          "sum": 392.2799987793,
           "average": 130.7599995931,
           "average w/o zero": 130.7599995931
         },
         "Rochester": {
           "count": 9,
-          "sum": 906.0099945068359,
+          "sum": 906.009994506836,
           "average": 100.66777716742622,
           "average w/o zero": 100.66777716742622
         },
@@ -30128,7 +30128,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 1314.8600082397459,
+          "sum": 1314.860008239746,
           "average": 87.65733388264974,
           "average w/o zero": 93.91857201712472
         },
@@ -30170,7 +30170,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 385.96000671387,
+          "sum": 385.96000671387003,
           "average": 96.49000167846751,
           "average w/o zero": 96.49000167846751
         },
@@ -30308,7 +30308,7 @@ VISUALIZER_DATA_BARS = [
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 523.5999984741201,
+          "sum": 523.59999847412,
           "average": 104.719999694824,
           "average w/o zero": 104.719999694824
         },
