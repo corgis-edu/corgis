@@ -1,5 +1,5 @@
 Name,Nuclear Explosions,,,
-Version,1.0.0,,,
+Version,1.0.1,,,
 Author,Sam Donald,,,
 Created,10/28/2022,,,
 Data File,nuclear-explosions.csv,,,
@@ -16,13 +16,13 @@ Properties,Name,Type,Index,Description
 ,Location.Country,string,,Country deploying the nuclear device
 ,Location.Region,string,,Region where nuclear device was deployed
 ,Data.Source,string,,Source the reported the explosion event
-,Location.Cordinates.Latitude,float,,Latitude position
-,Location.Cordinates.Longitude,float,,Longitude position
+,Location.Coordinates.Latitude,float,,Latitude position
+,Location.Coordinates.Longitude,float,,Longitude position
 ,Data.Magnitude.Body,float,x,Body wave magnitude of explosion (mb)
 ,Data.Magnitude.Surface,float,,Surface wave magnitude of explosion (Ms)
-,Location.Cordinates.Depth,float,,"	Depth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)"
-,Data.Yeild.Lower,float,,Explosion yield lower estimate in kilotons of TNT
-,Data.Yeild.Upper,float,,Explosion yield upper estimate in kilotons of TNT
+,Location.Coordinates .Depth,float,,"	Depth at detonation in Km (could be underground or above ground) -- please note that positive = depth (below ground), while negative = height (above ground)"
+,Data.Yield.Lower,float,,Explosion yield lower estimate in kilotons of TNT
+,Data.Yield.Upper,float,,Explosion yield upper estimate in kilotons of TNT
 ,Data.Purpose,string,,"Purpose of detonation: COMBAT (WWII bombs dropped over Japan), FMS (Soviet test, study phenomenon of nuclear explosion), ME (Military Exercise), PNE (Peaceful nuclear explosion), SAM (Soviet test, accidental mode/emergency), SSE (French/US tests - testing safety of nuclear weapons in case of accident), TRANSP (Transportation-storage purposes), WE (British, French, US, evaluate effects of nuclear detonation on various targets), WR (Weapons development program)"
 ,Data.Name,string,,Name of event or bomb
 ,Data.Type,string,,"type - method of deployment -- ATMOSPH (Atmospheric), UG (underground), BALLOON (Balloon drop), AIRDROP (Airplane deployed), ROCKET (Rocket deployed), TOWER (deplyed at top of constructed tower), WATERSURFACE (on surface of body of water), BARGE (on barge boat), SURFACE (on surface or in shallow crater), UW (Underwater), SHAFT (Vertical Shaft underground), TUNNEL/GALLERY (Horizontal tunnel)"

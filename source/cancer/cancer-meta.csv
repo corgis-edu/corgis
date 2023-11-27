@@ -9,7 +9,7 @@ Description,"Information about the rates of cancer deaths in each state is repor
 Tags,"cancer, cancer deaths, medical, health",,,
 Acknowledgement,"www.socialexplorer.com, New York City, NY: Social Explorer 2019",,,
 Row,Cancer Reports,  ,,
-Row Explanation,report on cancer for a specific state/time period/demographic subgroup
+Row Explanation,report on cancer for a specific state/time period/demographic subgroup,,,
 Icon,cancer-icon.png,,,
 Splash,cancer-icon.png,,,
 Properties,Name,Type,Index,Description
@@ -21,14 +21,14 @@ Properties,Name,Type,Index,Description
 ,Rates.Age.18-45,float,,"Total Cancer Deaths (18 to 44 Years, Rate per 100,000 Population, 2007-2013)"
 ,Rates.Age.45-64,float,,"Total Cancer Deaths (45 to 64 Years, Rate per 100,000 Population, 2007-2013)"
 ,Rates.Age.> 64,float,,"Total Cancer Deaths (65 Years and Over, Rate per 100,000 Population, 2007-2013)"
-,Rates.Age and Sex.< 18.Female,float,,Female under 18
-,Rates.Age and Sex.< 18.Male,float,,Male   under 18
-,Rates.Age and Sex.18 - 45.Female,float,,Female 18 - 45
-,Rates.Age and Sex.18 - 45.Male,float,,Male   18 - 45
-,Rates.Age and Sex.45 - 64.Female,float,,Female 45 to 64 Years
-,Rates.Age and Sex.45 - 64.Male,float,,Male   45 to 64 Years
-,Rates.Age and Sex.> 64.Female,float,,Female 65 Years and Over
-,Rates.Age and Sex.> 64.Male,float,,Male   65 Years and Over
+,Rates.Age and Sex.Female.< 18,float,,Female under 18
+,Rates.Age and Sex.Male.< 18,float,,Male  under 18
+,Rates.Age and Sex.Female.18 - 45,float,,Female 18 - 45
+,Rates.Age and Sex.Male.18 - 45,float,,Male   18 - 45
+,Rates.Age and Sex.Female.45 - 64,float,,Female 45 to 64 Years
+,Rates.Age and Sex.Male.45 - 64,float,,Male   45 to 64 Years
+,Rates.Age and Sex.Female.> 64,float,,Female 65 Years and Over
+,Rates.Age and Sex.Male.> 64,float,,Male   65 Years and Over
 ,Rates.Race.White,float,,"Total Cancer Deaths (White, Rate per 100,000 Population, 2007-2013)"
 ,Rates.Race.White non-Hispanic,float,,"Total Cancer Deaths (White non-Hispanic, Rate per 100,000 Population, 2007-2013)"
 ,Rates.Race.Black,float,,"Total Cancer Deaths (Black or African American, Rate per 100,000 Population, 2007-2013)"
