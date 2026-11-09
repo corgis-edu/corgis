@@ -18,7 +18,7 @@ style: dataset
 
 # Overview
 
-The following data set is information obtained about counties in the United States from 2010 through 2019 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
+The following data set is information obtained about counties in the United States from 2010 through 2019 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, household information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
 
 
 <http://www.census.gov/quickfacts/table/PST045215/00>
@@ -190,7 +190,7 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Income.Median Houseold Income</td>
+    <td>Income.Median Household Income</td>
     <td>Integer</td> 
     <td>Median of income in the Past 12 Months collected from 2015 to 2019 - Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household	 whether they are related to the householder or not. Because many households consist of only one person	 average household income is usually less than average family income.</td>
     <td><code>38741</code></td>

@@ -95,7 +95,10 @@ class Dataset:
             row = {}
             try:
                 for i, (field, value) in enumerate(zip(self.properties, line)):
-                    row[field.name] = field.type.value(value)
+                    if field.type == CorgisType.boolean:
+                        row[field.name] = value.strip().lower() == "true"
+                    else:
+                        row[field.name] = field.type.value(value)
             except ValueError:
                 raise ValueError("Invalid conversion of {value} to {type} for {field} (column {i})".format(
                     value=value,

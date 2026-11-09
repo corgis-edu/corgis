@@ -65,7 +65,7 @@ def _tifa_definitions():
 							{"type": "NumType"}, 
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Median Houseold Income'}, {"type": "LiteralStr", "value": 'Per Capita Income'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Median Household Income'}, {"type": "LiteralStr", "value": 'Per Capita Income'}], "values": [
 							{"type": "NumType"}, 
 							{"type": "NumType"}]}, 
 						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Foreign Born'}, {"type": "LiteralStr", "value": 'Land Area'}, {"type": "LiteralStr", "value": 'Language Other than English at Home'}, {"type": "LiteralStr", "value": 'Living in Same House +1 Years'}, {"type": "LiteralStr", "value": 'Manufacturers Shipments'}, {"type": "LiteralStr", "value": 'Mean Travel Time to Work'}, {"type": "LiteralStr", "value": 'Percent Female'}, {"type": "LiteralStr", "value": 'Veterans'}], "values": [

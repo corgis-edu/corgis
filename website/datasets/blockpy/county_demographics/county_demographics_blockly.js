@@ -87,7 +87,7 @@ var county_demographics_PROPERTIES = [
     ["Housing.Housing Units", "Housing.Housing Units"] ,
     ["Housing.Median Value of Owner-Occupied Units", "Housing.Median Value of Owner-Occupied Units"] ,
     ["Housing.Persons per Household", "Housing.Persons per Household"] ,
-    ["Income.Median Houseold Income", "Income.Median Houseold Income"] ,
+    ["Income.Median Household Income", "Income.Median Household Income"] ,
     ["Income.Per Capita Income", "Income.Per Capita Income"] ,
     ["Miscellaneous.Foreign Born", "Miscellaneous.Foreign Born"] ,
     ["Miscellaneous.Land Area", "Miscellaneous.Land Area"] ,

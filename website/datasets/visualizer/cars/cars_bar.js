@@ -856,285 +856,285 @@ VISUALIZER_DATA_BARS = [
       "Engine Information.Hybrid": {
         "Audi": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Acura": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "BMW": {
           "count": 133,
-          "sum": 133,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015037593984962405,
           "average w/o zero": 1
         },
         "Chevrolet": {
           "count": 626,
-          "sum": 626,
-          "average": 1,
+          "sum": 17,
+          "average": 0.027156549520766772,
           "average w/o zero": 1
         },
         "Nissan": {
           "count": 294,
-          "sum": 294,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Volvo": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bentley": {
           "count": 18,
-          "sum": 18,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toyota": {
           "count": 325,
-          "sum": 325,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honda": {
           "count": 200,
-          "sum": 200,
-          "average": 1,
+          "sum": 4,
+          "average": 0.02,
           "average w/o zero": 1
         },
         "Ford": {
           "count": 603,
-          "sum": 603,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rolls-Royce": {
           "count": 10,
-          "sum": 10,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Volkswagen": {
           "count": 129,
-          "sum": 129,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007751937984496124,
           "average w/o zero": 1
         },
         "Maybach": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lamborghini": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexus": {
           "count": 52,
-          "sum": 52,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hyundai": {
           "count": 188,
-          "sum": 188,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005319148936170213,
           "average w/o zero": 1
         },
         "Mercedes": {
           "count": 64,
-          "sum": 64,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "BMW Motorrad": {
           "count": 58,
-          "sum": 58,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kia": {
           "count": 135,
-          "sum": 135,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007407407407407408,
           "average w/o zero": 1
         },
         "AMG": {
           "count": 10,
-          "sum": 10,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mazda": {
           "count": 168,
-          "sum": 168,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mercedes-Benz": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mercedes-AMG": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mitsubishi": {
           "count": 51,
-          "sum": 51,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cadillac": {
           "count": 200,
-          "sum": 200,
-          "average": 1,
+          "sum": 10,
+          "average": 0.05,
           "average w/o zero": 1
         },
         "Infiniti": {
           "count": 85,
-          "sum": 85,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011764705882352941,
           "average w/o zero": 1
         },
         "Dodge": {
           "count": 260,
-          "sum": 260,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0038461538461538464,
           "average w/o zero": 1
         },
         "Lincoln": {
           "count": 43,
-          "sum": 43,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "GMC": {
           "count": 368,
-          "sum": 368,
-          "average": 1,
+          "sum": 20,
+          "average": 0.05434782608695652,
           "average w/o zero": 1
         },
         "Porsche": {
           "count": 51,
-          "sum": 51,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0196078431372549,
           "average w/o zero": 1
         },
         "Jeep": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Subaru": {
           "count": 105,
-          "sum": 105,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buick": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
+          "sum": 4,
+          "average": 0.056338028169014086,
           "average w/o zero": 1
         },
         "Suzuki": {
           "count": 51,
-          "sum": 51,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Saab": {
           "count": 59,
-          "sum": 59,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aston Martin": {
           "count": 43,
-          "sum": 43,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Cherokee": {
           "count": 48,
-          "sum": 48,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Land Rover": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chrysler": {
           "count": 30,
-          "sum": 30,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ferrari": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Scion": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "MINI": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jaguar": {
           "count": 44,
-          "sum": 44,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chrysler Group LLC": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lotus": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Maserati": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mercury": {
           "count": 28,
-          "sum": 28,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "Engine Information.Number of Forward Gears": {
@@ -2989,26 +2989,26 @@ VISUALIZER_DATA_BARS = [
       "Engine Information.Hybrid": {
         "2009": {
           "count": 49,
-          "sum": 49,
-          "average": 1,
+          "sum": 4,
+          "average": 0.08163265306122448,
           "average w/o zero": 1
         },
         "2012": {
           "count": 1215,
-          "sum": 1215,
-          "average": 1,
+          "sum": 15,
+          "average": 0.012345679012345678,
           "average w/o zero": 1
         },
         "2010": {
           "count": 1789,
-          "sum": 1789,
-          "average": 1,
+          "sum": 18,
+          "average": 0.010061486864169928,
           "average w/o zero": 1
         },
         "2011": {
           "count": 2023,
-          "sum": 2023,
-          "average": 1,
+          "sum": 26,
+          "average": 0.012852199703410776,
           "average w/o zero": 1
         }
       },

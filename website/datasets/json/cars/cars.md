@@ -80,7 +80,7 @@ Download the following file:
     <td>Engine Information.Hybrid</td>
     <td>Boolean</td> 
     <td>Whether this is a hybrid engine or not - that is, if it uses both an internal combustion engine and an electric motor.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>

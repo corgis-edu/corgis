@@ -20,7 +20,7 @@ style: dataset
 
 # Overview
 
-The following data set is information obtained about counties in the United States from 2010 through 2019 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, houseold information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
+The following data set is information obtained about counties in the United States from 2010 through 2019 through the United States Census Bureau.  Information described in the data includes the age distributions, the education levels, employment statistics, ethnicity percents, household information, income, and other miscellneous statistics. (Values are denoted as -1, if the data is not available)
 
 
 <http://www.census.gov/quickfacts/table/PST045215/00>
@@ -829,7 +829,7 @@ $(document).ready(function() {
     <table class='table table-sm table-striped table-bordered' >
         <tr> <th>Key</th> <th>Type</th> <th>Example Value</th> <th>Description</th></tr>
         
-        <tr> <td><code>"Median Houseold Income"</code></td>
+        <tr> <td><code>"Median Household Income"</code></td>
              <td><span data-toggle="tooltip"
                        title='Integer (whole number)'>
                        int</span></td> 
@@ -871,8 +871,8 @@ $(document).ready(function() {
       }
     });
     
-    $("#btn-explore-Income-Median-Houseold-Income").click(function() {
-        $( "#explore-Income-Median-Houseold-Income" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Income-Median-Household-Income").click(function() {
+        $( "#explore-Income-Median-Household-Income" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
