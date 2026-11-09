@@ -569,7 +569,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks </td> </tr>
+             <td>Worse, Average, Better, or Unknown comparison to national quality of care for heart attacks </td> </tr>
         
         <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
@@ -581,7 +581,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national cost of care for heart attacks </td> </tr>
+             <td>Lower, Average, Higher, or Unknown comparison to national cost of care for heart attacks </td> </tr>
         
     </table>
 </div>
@@ -650,7 +650,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures </td> </tr>
+             <td>Worse, Average, Better, or Unknown comparison to national quality of care for heart failures </td> </tr>
         
         <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
@@ -662,7 +662,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national cost of care for heart failures </td> </tr>
+             <td>Lower, Average, Higher, or Unknown comparison to national cost of care for heart failures </td> </tr>
         
     </table>
 </div>
@@ -731,7 +731,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia </td> </tr>
+             <td>Worse, Average, Better, or Unknown comparison to national quality of care for pneumonia </td> </tr>
         
         <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
@@ -743,7 +743,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national cost of care for pneumonia </td> </tr>
+             <td>Lower, Average, Higher, or Unknown comparison to national cost of care for pneumonia </td> </tr>
         
     </table>
 </div>
@@ -812,7 +812,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions </td> </tr>
+             <td>Worse, Average, Better, or Unknown comparison to national quality of care for hip or knee conditions </td> </tr>
         
         <tr> <td><code>"Value"</code></td>
              <td><span data-toggle="tooltip"
@@ -824,7 +824,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Lower, Average, Worse, or Unknown comparison to national cost of care for hip or knee conditions </td> </tr>
+             <td>Lower, Average, Higher, or Unknown comparison to national cost of care for hip or knee conditions </td> </tr>
         
     </table>
 </div>

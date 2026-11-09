@@ -20,7 +20,7 @@ extras: visualizer
 # Overview
 
 This dataset has records for the awarding of the United States Medal of Honor. The Medal of Honor is the United States of America's highest military honor, awarded for personal acts of valor above and beyond the call of duty. The medal is awarded by the President of the United States in the name of the U.S. Congress to U.S. military personnel only. There are three versions of the medal, one for the Army, one for the Navy, and one for the Air Force.[5] Personnel of the Marine Corps and Coast Guard receive the Navy version.
-The dataset was collected from the official military site, and includes records about how the medal was awarded and characteristics of the recipient. Unfortunately, because of the nature of century-old record keeping, many of the records are incomplete. While a very interesting dataset, it does have some missing data.
+The dataset was collected from the official military site, and includes records about how the medal was awarded and characteristics of the recipient. Unfortunately, because of the nature of century-old record keeping, many of the records are incomplete. While a very interesting dataset, it does have some missing data, which are denoted by -1.
 
 
 <http://www.cmohs.org/>

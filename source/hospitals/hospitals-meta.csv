@@ -26,14 +26,14 @@ Properties,Name,Type,Index,Description
 ,Rating.Timeliness,string,,"Above, Same, Below, or Unknown comparison to national hospital timeliness of care "
 ,Rating.Imaging,string,,"Above, Same, Below, or Unknown comparison to national hospital effective use of imaging "
 ,Procedure.Heart Attack.Cost,int,,Average cost of care for heart attacks
-,Procedure.Heart Attack.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks "
-,Procedure.Heart Attack.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for heart attacks "
+,Procedure.Heart Attack.Quality,string,,"Worse, Average, Better, or Unknown comparison to national quality of care for heart attacks "
+,Procedure.Heart Attack.Value,string,,"Lower, Average, Higher, or Unknown comparison to national cost of care for heart attacks "
 ,Procedure.Heart Failure.Cost,int,,Average cost of care for heart failure
-,Procedure.Heart Failure.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures "
-,Procedure.Heart Failure.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for heart failures "
+,Procedure.Heart Failure.Quality,string,,"Worse, Average, Better, or Unknown comparison to national quality of care for heart failures "
+,Procedure.Heart Failure.Value,string,,"Lower, Average, Higher, or Unknown comparison to national cost of care for heart failures "
 ,Procedure.Pneumonia.Cost,int,,Average cost of care for pneumonia
-,Procedure.Pneumonia.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia "
-,Procedure.Pneumonia.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for pneumonia "
+,Procedure.Pneumonia.Quality,string,,"Worse, Average, Better, or Unknown comparison to national quality of care for pneumonia "
+,Procedure.Pneumonia.Value,string,,"Lower, Average, Higher, or Unknown comparison to national cost of care for pneumonia "
 ,Procedure.Hip Knee.Cost,int,,Average cost of care for hip or knee conditions
-,Procedure.Hip Knee.Quality,string,,"Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions "
-,Procedure.Hip Knee.Value,string,,"Lower, Average, Worse, or Unknown comparison to national cost of care for hip or knee conditions "
+,Procedure.Hip Knee.Quality,string,,"Worse, Average, Better, or Unknown comparison to national quality of care for hip or knee conditions "
+,Procedure.Hip Knee.Value,string,,"Lower, Average, Higher, or Unknown comparison to national cost of care for hip or knee conditions "

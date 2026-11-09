@@ -1132,7 +1132,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Dunham, Jason L.",
     "awarded": {
       "General Order number": -1,
@@ -1249,7 +1249,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Charette, William R.",
     "awarded": {
       "General Order number": -1,
@@ -1288,7 +1288,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "West, Ernest E.",
     "awarded": {
       "General Order number": 7,
@@ -1405,7 +1405,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Baker, Vernon",
     "awarded": {
       "General Order number": -1,
@@ -1756,7 +1756,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Dix, Drew Dennis",
     "awarded": {
       "General Order number": -1,
@@ -1795,7 +1795,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Jackson, Joe M.",
     "awarded": {
       "General Order number": -1,
@@ -1873,7 +1873,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Fisher, Bernard Francis",
     "awarded": {
       "General Order number": -1,
@@ -3355,7 +3355,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Nett, Robert B.",
     "awarded": {
       "General Order number": 16,
@@ -3472,7 +3472,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Rascon, Alfred V.",
     "awarded": {
       "General Order number": -1,
@@ -3511,7 +3511,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Bloch, Orville Emil",
     "awarded": {
       "General Order number": 9,
@@ -3589,7 +3589,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Romesha, Clinton L.",
     "awarded": {
       "General Order number": -1,
@@ -4720,7 +4720,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Crandall, Bruce P.",
     "awarded": {
       "General Order number": -1,
@@ -4798,7 +4798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Barnum, Harvey C., Jr.",
     "awarded": {
       "General Order number": -1,
@@ -5071,7 +5071,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Fox, Wesley L.",
     "awarded": {
       "General Order number": -1,
@@ -5110,7 +5110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Fritz, Harold A.",
     "awarded": {
       "General Order number": -1,
@@ -5149,7 +5149,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Jenkins, Don J.",
     "awarded": {
       "General Order number": -1,
@@ -5188,7 +5188,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Roberts, Gordon R.",
     "awarded": {
       "General Order number": -1,
@@ -5500,7 +5500,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Day, George E.",
     "awarded": {
       "General Order number": -1,
@@ -5539,7 +5539,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Norris, Thomas R.",
     "awarded": {
       "General Order number": -1,
@@ -5656,7 +5656,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Sasser, Clarence Eugene",
     "awarded": {
       "General Order number": -1,
@@ -6475,7 +6475,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mcginty, John J., Iii",
     "awarded": {
       "General Order number": -1,
@@ -6514,7 +6514,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Modrzejewski, Robert J.",
     "awarded": {
       "General Order number": -1,
@@ -6982,7 +6982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Alvarado, Leonard L.",
     "awarded": {
       "General Order number": -1,
@@ -7021,7 +7021,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Baldonado, Joe R.",
     "awarded": {
       "General Order number": -1,
@@ -7060,7 +7060,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Cano, Pedro",
     "awarded": {
       "General Order number": -1,
@@ -7099,7 +7099,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Conde-Falcon, Felix M.",
     "awarded": {
       "General Order number": -1,
@@ -7138,7 +7138,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Copas, Ardie R.",
     "awarded": {
       "General Order number": -1,
@@ -7177,7 +7177,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Duran, Jesus S.",
     "awarded": {
       "General Order number": -1,
@@ -7216,7 +7216,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Erevia, Santiago J.",
     "awarded": {
       "General Order number": -1,
@@ -7255,7 +7255,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Espinoza, Victor H.",
     "awarded": {
       "General Order number": -1,
@@ -7294,7 +7294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Gandara, Joe",
     "awarded": {
       "General Order number": -1,
@@ -7333,7 +7333,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Garcia, Candelario",
     "awarded": {
       "General Order number": -1,
@@ -7372,7 +7372,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Gomez, Eduardo C.",
     "awarded": {
       "General Order number": -1,
@@ -7411,7 +7411,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kravitz, Leonard M.",
     "awarded": {
       "General Order number": -1,
@@ -7450,7 +7450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Lara, Salvador J.",
     "awarded": {
       "General Order number": -1,
@@ -7489,7 +7489,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Leonard, William F.",
     "awarded": {
       "General Order number": -1,
@@ -7528,7 +7528,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mendoza, Manuel V.",
     "awarded": {
       "General Order number": -1,
@@ -7567,7 +7567,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Morris, Melvin",
     "awarded": {
       "General Order number": -1,
@@ -7606,7 +7606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Negron, Juan E.",
     "awarded": {
       "General Order number": -1,
@@ -7645,7 +7645,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Nietzel, Alfred B.",
     "awarded": {
       "General Order number": -1,
@@ -7684,7 +7684,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Pena, Mike C.",
     "awarded": {
       "General Order number": -1,
@@ -7723,7 +7723,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Rivera, Demensio",
     "awarded": {
       "General Order number": -1,
@@ -7762,7 +7762,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Rodela, Jose",
     "awarded": {
       "General Order number": -1,
@@ -7801,7 +7801,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Schwab, Donald K.",
     "awarded": {
       "General Order number": -1,
@@ -7840,7 +7840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Vera, Miguel A.",
     "awarded": {
       "General Order number": -1,
@@ -7879,7 +7879,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Weinstein, Jack",
     "awarded": {
       "General Order number": -1,
@@ -9517,7 +9517,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Smith, Paul R.",
     "awarded": {
       "General Order number": -1,
@@ -9985,7 +9985,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Monsoor, Michael A.",
     "awarded": {
       "General Order number": -1,
@@ -10102,7 +10102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hernandez, Rodolfo P.",
     "awarded": {
       "General Order number": 40,
@@ -10180,7 +10180,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kapaun, Emil Joseph",
     "awarded": {
       "General Order number": -1,
@@ -10258,7 +10258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hudner, Thomas Jerome, Jr.",
     "awarded": {
       "General Order number": -1,
@@ -10921,7 +10921,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ross, Wilburn K.",
     "awarded": {
       "General Order number": 30,
@@ -11857,7 +11857,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Foley, Robert F.",
     "awarded": {
       "General Order number": -1,
@@ -12481,7 +12481,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Dunham, Russell E.",
     "awarded": {
       "General Order number": 37,
@@ -12637,7 +12637,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Maxwell, Robert D.",
     "awarded": {
       "General Order number": 24,
@@ -12676,7 +12676,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "White, Kyle J.",
     "awarded": {
       "General Order number": -1,
@@ -12754,7 +12754,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hagemeister, Charles Chris",
     "awarded": {
       "General Order number": -1,
@@ -12793,7 +12793,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Pittman, Richard A.",
     "awarded": {
       "General Order number": -1,
@@ -12832,7 +12832,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ballard, Donald E.",
     "awarded": {
       "General Order number": -1,
@@ -12871,7 +12871,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Bucha, Paul William",
     "awarded": {
       "General Order number": -1,
@@ -12910,7 +12910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Fleming, James P.",
     "awarded": {
       "General Order number": -1,
@@ -12949,7 +12949,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Herda, Frank A.",
     "awarded": {
       "General Order number": -1,
@@ -12988,7 +12988,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kelley, Thomas G.",
     "awarded": {
       "General Order number": -1,
@@ -13027,7 +13027,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kerrey, Joseph R.",
     "awarded": {
       "General Order number": -1,
@@ -13066,7 +13066,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Livingston, James E.",
     "awarded": {
       "General Order number": -1,
@@ -13105,7 +13105,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Lynch, Allen James",
     "awarded": {
       "General Order number": -1,
@@ -13144,7 +13144,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ray, Ronald Eric",
     "awarded": {
       "General Order number": -1,
@@ -13183,7 +13183,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Vargas, Jay R.",
     "awarded": {
       "General Order number": -1,
@@ -13339,7 +13339,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Sabo, Jr., Leslie H.",
     "awarded": {
       "General Order number": -1,
@@ -13456,7 +13456,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ferguson, Frederick Edgar",
     "awarded": {
       "General Order number": -1,
@@ -13495,7 +13495,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kinsman, Thomas James",
     "awarded": {
       "General Order number": -1,
@@ -13768,7 +13768,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Knappenberger, Alton W.",
     "awarded": {
       "General Order number": 41,
@@ -14431,7 +14431,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mcginnis, Ross A.",
     "awarded": {
       "General Order number": -1,
@@ -15016,7 +15016,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Wiedorfer, Paul J.",
     "awarded": {
       "General Order number": 45,
@@ -15133,7 +15133,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Lemon, Peter C.",
     "awarded": {
       "General Order number": -1,
@@ -15562,7 +15562,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Baca, John P.",
     "awarded": {
       "General Order number": -1,
@@ -15718,7 +15718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Coolidge, Charles H.",
     "awarded": {
       "General Order number": 53,
@@ -15952,7 +15952,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Carpenter, William Kyle",
     "awarded": {
       "General Order number": -1,
@@ -16069,7 +16069,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Sakato, George T.",
     "awarded": {
       "General Order number": -1,
@@ -16576,7 +16576,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hawk, John D.",
     "awarded": {
       "General Order number": 55,
@@ -16654,7 +16654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ruiz, Alejandro R. Renteria",
     "awarded": {
       "General Order number": 60,
@@ -16771,7 +16771,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Rosser, Ronald E.",
     "awarded": {
       "General Order number": 67,
@@ -17044,7 +17044,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Murray, Charles P., Jr.",
     "awarded": {
       "General Order number": 63,
@@ -17395,7 +17395,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ingram, Robert R.",
     "awarded": {
       "General Order number": -1,
@@ -17629,7 +17629,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Petry, Leroy A.",
     "awarded": {
       "General Order number": -1,
@@ -17824,7 +17824,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Freeman, Ed W.",
     "awarded": {
       "General Order number": -1,
@@ -18292,7 +18292,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Pitts, Ryan M.",
     "awarded": {
       "General Order number": -1,
@@ -18448,7 +18448,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Currey, Francis S.",
     "awarded": {
       "General Order number": 69,
@@ -18994,7 +18994,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ingman, Einar H., Jr.",
     "awarded": {
       "General Order number": 68,
@@ -19111,7 +19111,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Millett, Lewis L.",
     "awarded": {
       "General Order number": 69,
@@ -19891,7 +19891,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Carter, Ty M.",
     "awarded": {
       "General Order number": -1,
@@ -20827,7 +20827,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Herrera, Silvestre S.",
     "awarded": {
       "General Order number": 75,
@@ -21295,7 +21295,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Daly, Michael J.",
     "awarded": {
       "General Order number": 77,
@@ -21997,7 +21997,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Meyer, Dakota",
     "awarded": {
       "General Order number": -1,
@@ -22036,7 +22036,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Adkins, Bennie G.",
     "awarded": {
       "General Order number": -1,
@@ -22075,7 +22075,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Sloat, Donald P.",
     "awarded": {
       "General Order number": -1,
@@ -22114,7 +22114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Monti, Jared C.",
     "awarded": {
       "General Order number": -1,
@@ -22231,7 +22231,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Stumpf, Kenneth E.",
     "awarded": {
       "General Order number": -1,
@@ -22270,7 +22270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Etchberger, Richard L.",
     "awarded": {
       "General Order number": -1,
@@ -22348,7 +22348,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Rubin, Tibor",
     "awarded": {
       "General Order number": -1,
@@ -22543,7 +22543,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Barfoot, Van T.",
     "awarded": {
       "General Order number": 79,
@@ -22621,7 +22621,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Dolby, David Charles",
     "awarded": {
       "General Order number": 45,
@@ -23323,7 +23323,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Jackson, Arthur J.",
     "awarded": {
       "General Order number": -1,
@@ -23362,7 +23362,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Lucas, Jacklyn Harold",
     "awarded": {
       "General Order number": -1,
@@ -23401,7 +23401,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Williams, Hershel Woodrow",
     "awarded": {
       "General Order number": -1,
@@ -23557,7 +23557,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Brady, Patrick Henry",
     "awarded": {
       "General Order number": -1,
@@ -23596,7 +23596,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Jacobs, Jack H.",
     "awarded": {
       "General Order number": -1,
@@ -23635,7 +23635,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Sprayberry, James M.",
     "awarded": {
       "General Order number": -1,
@@ -23674,7 +23674,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Patterson, Robert Martin",
     "awarded": {
       "General Order number": -1,
@@ -23791,7 +23791,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Oresko, Nicholas",
     "awarded": {
       "General Order number": 95,
@@ -23869,7 +23869,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Beikirch, Gary B.",
     "awarded": {
       "General Order number": -1,
@@ -23908,7 +23908,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Fitzmaurice, Michael John",
     "awarded": {
       "General Order number": -1,
@@ -23947,7 +23947,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Kellogg, Allan Jay, Jr.",
     "awarded": {
       "General Order number": -1,
@@ -23986,7 +23986,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Thacker, Brian Miles",
     "awarded": {
       "General Order number": -1,
@@ -24064,7 +24064,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Thorsness, Leo K.",
     "awarded": {
       "General Order number": -1,
@@ -24103,7 +24103,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Swenson, William D.",
     "awarded": {
       "General Order number": -1,
@@ -24220,7 +24220,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mcgarity, Vernon",
     "awarded": {
       "General Order number": 6,
@@ -24649,7 +24649,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Murphy, Michael P.",
     "awarded": {
       "General Order number": -1,
@@ -24805,7 +24805,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Lee, Howard V.",
     "awarded": {
       "General Order number": -1,
@@ -24922,7 +24922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Miyamura, Hiroshi H.",
     "awarded": {
       "General Order number": 85,
@@ -24961,7 +24961,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Simanek, Robert E.",
     "awarded": {
       "General Order number": -1,
@@ -25000,7 +25000,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Stone, James L.",
     "awarded": {
       "General Order number": 82,
@@ -25312,7 +25312,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Biddle, Melvin E.",
     "awarded": {
       "General Order number": 95,
@@ -25936,7 +25936,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Cushing, Alonzo H.",
     "awarded": {
       "General Order number": -1,
@@ -26053,7 +26053,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Dewey, Duane E.",
     "awarded": {
       "General Order number": -1,
@@ -26209,7 +26209,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Giunta, Salvatore A.",
     "awarded": {
       "General Order number": -1,
@@ -26287,7 +26287,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Davis, Sammy L.",
     "awarded": {
       "General Order number": -1,
@@ -26326,7 +26326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Taylor, James Allen",
     "awarded": {
       "General Order number": -1,
@@ -26365,7 +26365,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Wetzel, Gary George",
     "awarded": {
       "General Order number": -1,
@@ -26404,7 +26404,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Liteky, Angelo J.",
     "awarded": {
       "General Order number": -1,
@@ -26560,7 +26560,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Cafferata, Hector A., Jr.",
     "awarded": {
       "General Order number": -1,
@@ -26599,7 +26599,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Bacon, Nicky Daniel",
     "awarded": {
       "General Order number": -1,
@@ -28276,7 +28276,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Donlon, Roger Hugh C.",
     "awarded": {
       "General Order number": 41,
@@ -28315,7 +28315,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mize, Ola L.",
     "awarded": {
       "General Order number": 70,
@@ -28354,7 +28354,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "O'Malley, Robert E.",
     "awarded": {
       "General Order number": -1,
@@ -28783,7 +28783,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Cavaiani, Jon R.",
     "awarded": {
       "General Order number": -1,
@@ -29446,7 +29446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Colalillo, Mike",
     "awarded": {
       "General Order number": 4,
@@ -29485,7 +29485,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Ehlers, Walter D.",
     "awarded": {
       "General Order number": 91,
@@ -29524,7 +29524,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Marm, Walter Joseph, Jr.",
     "awarded": {
       "General Order number": 7,
@@ -35413,7 +35413,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Baker, John F., Jr.",
     "awarded": {
       "General Order number": -1,
@@ -53782,7 +53782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Deblanc, Jefferson Joseph",
     "awarded": {
       "General Order number": -1,
@@ -59671,7 +59671,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Finn, John William",
     "awarded": {
       "General Order number": -1,
@@ -64975,7 +64975,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Gordon, Gary I.",
     "awarded": {
       "General Order number": -1,
@@ -65014,7 +65014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Gordon, Nathan Green",
     "awarded": {
       "General Order number": -1,
@@ -67159,7 +67159,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hajiro, Barney F.",
     "awarded": {
       "General Order number": -1,
@@ -70552,7 +70552,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Hayashi, Shizuya",
     "awarded": {
       "General Order number": -1,
@@ -74686,7 +74686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Howard, Robert L.",
     "awarded": {
       "General Order number": -1,
@@ -80068,7 +80068,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Keller, Leonard B.",
     "awarded": {
       "General Order number": -1,
@@ -85606,7 +85606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Littrell, Gary Lee",
     "awarded": {
       "General Order number": -1,
@@ -90364,7 +90364,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mccool, Richard Miles",
     "awarded": {
       "General Order number": -1,
@@ -92431,7 +92431,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Mcnerney, David H.",
     "awarded": {
       "General Order number": -1,
@@ -105223,7 +105223,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Pope, Everett Parker",
     "awarded": {
       "General Order number": -1,
@@ -115675,7 +115675,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Shughart, Randall D.",
     "awarded": {
       "General Order number": -1,
@@ -122305,7 +122305,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Swett, James Elms",
     "awarded": {
       "General Order number": -1,
@@ -124567,7 +124567,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Thornton, Michael Edwin",
     "awarded": {
       "General Order number": -1,
@@ -127999,7 +127999,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["medal_of_honor"] = Sk.ffi.remapToPy([
     }
   },
   {
-    "death": true,
+    "death": false,
     "name": "Wahlen, George Edward",
     "awarded": {
       "General Order number": -1,
