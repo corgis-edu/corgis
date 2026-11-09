@@ -30,7 +30,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64,7 +64,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -98,7 +98,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -132,7 +132,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -166,7 +166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -196,11 +196,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 72.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -233,8 +233,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -268,7 +268,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -302,7 +302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -332,11 +332,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -370,7 +370,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -404,7 +404,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -434,11 +434,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -472,7 +472,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -506,7 +506,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -536,11 +536,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -570,7 +570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 20.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
@@ -607,8 +607,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -641,8 +641,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -672,11 +672,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -709,8 +709,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -743,8 +743,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -777,8 +777,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -812,7 +812,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -845,8 +845,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -879,8 +879,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -913,8 +913,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -947,8 +947,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -981,8 +981,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1015,8 +1015,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1049,8 +1049,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1083,8 +1083,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1117,8 +1117,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1151,8 +1151,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1185,8 +1185,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1219,8 +1219,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1254,7 +1254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1287,8 +1287,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1321,8 +1321,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1355,8 +1355,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1389,8 +1389,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1423,8 +1423,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1457,8 +1457,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1491,8 +1491,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1526,7 +1526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1556,11 +1556,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1593,8 +1593,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1628,7 +1628,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1658,11 +1658,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1696,7 +1696,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1730,7 +1730,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1760,11 +1760,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1794,11 +1794,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1831,8 +1831,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -1866,7 +1866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1900,7 +1900,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1934,7 +1934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -1968,7 +1968,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2002,7 +2002,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2032,11 +2032,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 31.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2070,7 +2070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2103,8 +2103,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2137,8 +2137,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2172,7 +2172,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2202,11 +2202,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2239,8 +2239,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2270,11 +2270,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2304,11 +2304,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2338,11 +2338,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 25.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2375,8 +2375,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2406,11 +2406,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2443,8 +2443,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2478,7 +2478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2508,11 +2508,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2546,7 +2546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2580,7 +2580,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2614,7 +2614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2648,7 +2648,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2681,8 +2681,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2715,8 +2715,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2750,7 +2750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2783,8 +2783,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2814,11 +2814,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2848,11 +2848,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 22.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2882,11 +2882,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2920,7 +2920,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -2953,8 +2953,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -2988,7 +2988,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3021,8 +3021,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3052,7 +3052,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 20.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -3086,11 +3086,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3123,8 +3123,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3157,8 +3157,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3191,8 +3191,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3225,8 +3225,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3259,8 +3259,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3293,8 +3293,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3327,8 +3327,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3358,11 +3358,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3395,8 +3395,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3429,8 +3429,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3460,11 +3460,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 19.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3498,7 +3498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3532,7 +3532,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3566,7 +3566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3596,11 +3596,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 19.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3630,10 +3630,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -3667,8 +3667,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3701,8 +3701,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3735,8 +3735,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3770,7 +3770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3803,8 +3803,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3834,11 +3834,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3872,7 +3872,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -3905,8 +3905,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3939,8 +3939,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -3974,7 +3974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4007,8 +4007,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4041,8 +4041,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4075,8 +4075,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4106,11 +4106,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 18.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4140,11 +4140,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 18.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4177,8 +4177,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4211,8 +4211,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4242,11 +4242,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.9,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4280,7 +4280,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4313,8 +4313,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4348,7 +4348,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4381,8 +4381,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4416,7 +4416,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4450,7 +4450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4484,7 +4484,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4517,8 +4517,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4551,8 +4551,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4586,7 +4586,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4616,11 +4616,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4653,8 +4653,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4687,8 +4687,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4722,7 +4722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4756,7 +4756,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4790,7 +4790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4820,11 +4820,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 17.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4857,8 +4857,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4892,7 +4892,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4925,8 +4925,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -4960,7 +4960,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -4993,8 +4993,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5024,11 +5024,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5062,7 +5062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5092,11 +5092,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5129,8 +5129,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5163,8 +5163,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5194,11 +5194,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 17.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5231,8 +5231,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5262,11 +5262,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5296,11 +5296,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 16.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "father",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5333,8 +5333,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5368,7 +5368,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5398,10 +5398,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 16.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -5436,7 +5436,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5470,7 +5470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5500,11 +5500,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 16.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5537,8 +5537,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5571,8 +5571,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5606,7 +5606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5636,11 +5636,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 16.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5670,11 +5670,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5708,7 +5708,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5741,8 +5741,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5776,7 +5776,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5810,7 +5810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "father",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -5843,8 +5843,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5874,11 +5874,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5911,8 +5911,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5945,8 +5945,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -5980,7 +5980,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6010,11 +6010,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6048,7 +6048,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6081,8 +6081,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6115,8 +6115,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6150,7 +6150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6184,7 +6184,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6217,8 +6217,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6252,7 +6252,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6282,11 +6282,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6316,7 +6316,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -6350,11 +6350,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6387,8 +6387,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6421,8 +6421,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6456,7 +6456,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6489,8 +6489,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6520,11 +6520,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6557,8 +6557,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6592,7 +6592,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6622,11 +6622,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 15.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6659,8 +6659,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6694,7 +6694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6727,8 +6727,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6761,8 +6761,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6792,11 +6792,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6826,11 +6826,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 14.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6863,8 +6863,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6898,7 +6898,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6932,7 +6932,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -6965,8 +6965,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -6999,8 +6999,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7033,8 +7033,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7068,7 +7068,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7101,8 +7101,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7135,8 +7135,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7169,8 +7169,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7203,8 +7203,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7237,8 +7237,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7271,8 +7271,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7305,8 +7305,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7339,8 +7339,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7370,11 +7370,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7404,11 +7404,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 14.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7438,11 +7438,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7475,8 +7475,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7510,7 +7510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7543,8 +7543,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7577,8 +7577,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7608,11 +7608,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7645,8 +7645,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7679,8 +7679,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7713,8 +7713,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7748,7 +7748,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7778,11 +7778,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 13.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7812,7 +7812,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 13.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -7849,8 +7849,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7884,7 +7884,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7917,8 +7917,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -7952,7 +7952,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -7985,8 +7985,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8019,8 +8019,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8053,8 +8053,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8087,8 +8087,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8121,8 +8121,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8152,11 +8152,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8186,11 +8186,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 13.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8220,11 +8220,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8257,8 +8257,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8291,8 +8291,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8322,11 +8322,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8359,8 +8359,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8394,7 +8394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8428,7 +8428,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8458,11 +8458,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8496,7 +8496,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8529,8 +8529,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8563,8 +8563,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8594,11 +8594,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8632,7 +8632,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8665,8 +8665,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8699,8 +8699,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8734,7 +8734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8767,8 +8767,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8801,8 +8801,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8836,7 +8836,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8866,11 +8866,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -8900,7 +8900,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
@@ -8938,7 +8938,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -8971,8 +8971,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9006,7 +9006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9036,7 +9036,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
@@ -9073,8 +9073,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9104,11 +9104,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9141,8 +9141,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9175,8 +9175,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9206,11 +9206,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9243,8 +9243,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9274,11 +9274,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 12.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9308,11 +9308,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9345,8 +9345,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9379,8 +9379,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9414,7 +9414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9447,8 +9447,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9481,8 +9481,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9515,8 +9515,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9549,8 +9549,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9580,11 +9580,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9614,11 +9614,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9651,8 +9651,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9686,7 +9686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9716,11 +9716,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9750,11 +9750,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9787,8 +9787,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9818,11 +9818,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9852,11 +9852,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9886,11 +9886,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9920,11 +9920,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -9954,11 +9954,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -9991,8 +9991,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10025,8 +10025,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10059,8 +10059,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10093,8 +10093,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10127,8 +10127,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10162,7 +10162,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10195,8 +10195,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10229,8 +10229,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10263,8 +10263,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10294,11 +10294,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10328,11 +10328,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10365,8 +10365,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10399,8 +10399,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10430,11 +10430,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10467,8 +10467,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10501,8 +10501,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10532,11 +10532,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10569,8 +10569,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10603,8 +10603,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10638,7 +10638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10672,7 +10672,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10705,8 +10705,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10739,8 +10739,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10770,11 +10770,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10807,8 +10807,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10842,7 +10842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10872,11 +10872,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10906,11 +10906,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 11.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -10944,7 +10944,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -10978,7 +10978,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11008,11 +11008,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11045,8 +11045,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11080,7 +11080,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11110,11 +11110,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11144,11 +11144,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11178,11 +11178,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11216,7 +11216,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11246,11 +11246,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11284,7 +11284,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11314,11 +11314,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11352,7 +11352,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11385,8 +11385,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11416,11 +11416,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11454,7 +11454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11488,7 +11488,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11521,8 +11521,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11555,8 +11555,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11589,8 +11589,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11623,8 +11623,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11657,8 +11657,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11688,11 +11688,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11722,11 +11722,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11760,7 +11760,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11793,8 +11793,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11824,11 +11824,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -11862,7 +11862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11896,7 +11896,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11926,11 +11926,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11964,7 +11964,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -11997,8 +11997,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12028,11 +12028,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12065,8 +12065,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12099,8 +12099,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12130,11 +12130,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12164,11 +12164,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12202,7 +12202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12235,8 +12235,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12269,8 +12269,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12300,11 +12300,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12337,8 +12337,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12368,11 +12368,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12405,8 +12405,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12439,8 +12439,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12473,8 +12473,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12508,7 +12508,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12541,8 +12541,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12575,8 +12575,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12606,11 +12606,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 10.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12644,7 +12644,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12678,7 +12678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12708,11 +12708,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12742,11 +12742,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12779,8 +12779,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12813,8 +12813,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12848,7 +12848,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12878,11 +12878,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12915,8 +12915,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -12950,7 +12950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -12983,8 +12983,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13017,8 +13017,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13048,11 +13048,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13085,8 +13085,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13119,8 +13119,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13154,7 +13154,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13184,11 +13184,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13221,8 +13221,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13256,7 +13256,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13290,7 +13290,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13323,8 +13323,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13357,8 +13357,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13392,7 +13392,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13426,7 +13426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13460,7 +13460,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13494,7 +13494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13524,11 +13524,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13558,11 +13558,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13595,8 +13595,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13629,8 +13629,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13663,8 +13663,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13698,7 +13698,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13731,8 +13731,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13765,8 +13765,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13800,7 +13800,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13830,7 +13830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -13864,11 +13864,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -13902,7 +13902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13936,7 +13936,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -13966,11 +13966,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14000,11 +14000,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14034,11 +14034,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14068,7 +14068,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
@@ -14102,11 +14102,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14139,8 +14139,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14173,8 +14173,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14208,7 +14208,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14242,7 +14242,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14276,7 +14276,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14309,8 +14309,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14344,7 +14344,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14377,8 +14377,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14408,11 +14408,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14445,8 +14445,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14476,11 +14476,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14513,8 +14513,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14544,7 +14544,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -14581,8 +14581,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14616,7 +14616,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14646,7 +14646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 9.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -14683,8 +14683,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14714,11 +14714,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14752,7 +14752,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14785,8 +14785,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14820,7 +14820,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14854,7 +14854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -14887,8 +14887,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14921,8 +14921,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -14952,7 +14952,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -14989,8 +14989,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15020,11 +15020,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15057,8 +15057,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15088,11 +15088,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15122,11 +15122,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15159,8 +15159,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15194,7 +15194,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15228,7 +15228,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15261,8 +15261,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15292,11 +15292,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15326,11 +15326,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15363,8 +15363,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15397,8 +15397,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15428,11 +15428,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15466,7 +15466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15499,8 +15499,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15530,11 +15530,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15564,11 +15564,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15598,11 +15598,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15635,8 +15635,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15669,8 +15669,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15700,11 +15700,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15737,8 +15737,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15768,11 +15768,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15805,8 +15805,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15840,7 +15840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -15873,8 +15873,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15907,8 +15907,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15941,8 +15941,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -15975,8 +15975,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16006,11 +16006,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16043,8 +16043,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16077,8 +16077,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16112,7 +16112,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16179,8 +16179,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16214,7 +16214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16244,11 +16244,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16281,8 +16281,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16315,8 +16315,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16349,8 +16349,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16380,11 +16380,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16414,11 +16414,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16448,11 +16448,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16486,7 +16486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16519,8 +16519,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16550,11 +16550,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16588,7 +16588,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16618,11 +16618,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16652,11 +16652,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 8.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16690,7 +16690,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16724,7 +16724,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16754,11 +16754,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16791,8 +16791,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16826,7 +16826,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16859,8 +16859,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16890,11 +16890,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16928,7 +16928,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -16961,8 +16961,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -16992,11 +16992,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17030,7 +17030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17064,7 +17064,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17098,7 +17098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17131,8 +17131,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17166,7 +17166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17199,8 +17199,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17233,8 +17233,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17267,8 +17267,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17301,8 +17301,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17336,7 +17336,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17370,7 +17370,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17403,8 +17403,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17437,8 +17437,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17471,8 +17471,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17502,11 +17502,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17540,7 +17540,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17573,8 +17573,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17608,7 +17608,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17642,7 +17642,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17672,11 +17672,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17706,11 +17706,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17740,11 +17740,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -17777,8 +17777,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17811,8 +17811,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17842,11 +17842,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17879,8 +17879,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17913,8 +17913,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17944,11 +17944,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -17978,11 +17978,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18015,8 +18015,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18050,7 +18050,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18083,8 +18083,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18118,7 +18118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18151,8 +18151,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18186,7 +18186,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18220,7 +18220,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18253,8 +18253,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18284,11 +18284,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18318,11 +18318,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18356,7 +18356,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18390,7 +18390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18423,8 +18423,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18454,7 +18454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
@@ -18491,8 +18491,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18525,8 +18525,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18560,7 +18560,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18593,8 +18593,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18627,8 +18627,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18658,11 +18658,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18695,8 +18695,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18729,8 +18729,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18763,8 +18763,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18797,8 +18797,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18828,11 +18828,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18866,7 +18866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18899,8 +18899,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -18934,7 +18934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -18968,7 +18968,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19001,8 +19001,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19035,8 +19035,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19070,7 +19070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19100,11 +19100,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19134,11 +19134,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19168,11 +19168,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19205,8 +19205,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19239,8 +19239,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19274,7 +19274,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19304,11 +19304,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19341,8 +19341,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19376,7 +19376,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19409,8 +19409,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19443,8 +19443,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19474,11 +19474,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19508,11 +19508,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19546,7 +19546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19576,11 +19576,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19614,7 +19614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19644,11 +19644,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 7.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19682,7 +19682,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19712,11 +19712,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19746,11 +19746,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19784,7 +19784,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19818,7 +19818,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19852,7 +19852,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -19885,8 +19885,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19916,11 +19916,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19950,11 +19950,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -19984,11 +19984,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20021,8 +20021,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20056,7 +20056,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20090,7 +20090,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20120,10 +20120,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -20154,11 +20154,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20188,11 +20188,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20222,11 +20222,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20256,11 +20256,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20293,8 +20293,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20327,8 +20327,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20362,7 +20362,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20395,8 +20395,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20430,7 +20430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20463,8 +20463,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20498,7 +20498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20531,8 +20531,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20565,8 +20565,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20596,11 +20596,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20633,8 +20633,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20667,8 +20667,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20701,8 +20701,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20736,7 +20736,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20769,8 +20769,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20803,8 +20803,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20838,7 +20838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20872,7 +20872,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -20905,8 +20905,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20939,8 +20939,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -20973,8 +20973,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21007,8 +21007,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21038,11 +21038,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21075,8 +21075,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21110,7 +21110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21144,7 +21144,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21177,8 +21177,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21211,8 +21211,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21242,11 +21242,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21279,8 +21279,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21310,7 +21310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
@@ -21348,7 +21348,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21381,8 +21381,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21415,8 +21415,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21450,7 +21450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21484,7 +21484,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21518,7 +21518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21552,7 +21552,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21586,7 +21586,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21619,8 +21619,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21653,8 +21653,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21687,8 +21687,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21718,11 +21718,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21755,8 +21755,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21790,7 +21790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21824,7 +21824,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -21857,8 +21857,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21888,7 +21888,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -21922,10 +21922,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -21956,11 +21956,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -21990,11 +21990,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22027,8 +22027,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22061,8 +22061,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22096,7 +22096,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22129,8 +22129,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22163,8 +22163,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22197,8 +22197,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22231,8 +22231,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22265,8 +22265,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22300,7 +22300,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22333,8 +22333,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22367,8 +22367,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22401,8 +22401,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22436,7 +22436,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22469,8 +22469,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22504,7 +22504,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22538,7 +22538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22568,11 +22568,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22605,8 +22605,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22636,11 +22636,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22674,7 +22674,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22707,8 +22707,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22741,8 +22741,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22775,8 +22775,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22809,8 +22809,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22840,11 +22840,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22877,8 +22877,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22912,7 +22912,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -22942,11 +22942,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -22979,8 +22979,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23014,7 +23014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23044,11 +23044,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23078,11 +23078,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23115,8 +23115,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23150,7 +23150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23183,8 +23183,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23214,11 +23214,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23248,11 +23248,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23285,8 +23285,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23320,7 +23320,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23350,11 +23350,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23384,7 +23384,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -23418,11 +23418,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23455,8 +23455,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23489,8 +23489,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23524,7 +23524,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23557,8 +23557,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23591,8 +23591,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23622,11 +23622,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23659,8 +23659,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23693,8 +23693,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23727,8 +23727,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23762,7 +23762,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23795,8 +23795,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23826,11 +23826,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23864,7 +23864,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23897,8 +23897,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23932,7 +23932,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -23965,8 +23965,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -23999,8 +23999,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24034,7 +24034,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24068,7 +24068,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24102,7 +24102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24135,8 +24135,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24170,7 +24170,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24203,8 +24203,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24238,7 +24238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24268,11 +24268,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24305,8 +24305,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24340,7 +24340,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24370,11 +24370,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24438,11 +24438,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 6.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24476,7 +24476,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24509,8 +24509,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24543,8 +24543,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24574,11 +24574,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24608,11 +24608,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24645,8 +24645,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24680,7 +24680,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24714,7 +24714,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24747,8 +24747,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24782,7 +24782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24816,7 +24816,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24850,7 +24850,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24884,7 +24884,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24917,8 +24917,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -24948,11 +24948,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -24985,8 +24985,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25019,8 +25019,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25050,11 +25050,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25084,11 +25084,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25118,11 +25118,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25156,7 +25156,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25189,8 +25189,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25224,7 +25224,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25258,7 +25258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25288,11 +25288,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25326,7 +25326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25356,11 +25356,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25390,11 +25390,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25428,7 +25428,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25462,7 +25462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25492,11 +25492,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25529,8 +25529,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25560,11 +25560,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25597,8 +25597,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25628,11 +25628,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25666,7 +25666,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25700,7 +25700,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25734,7 +25734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25768,7 +25768,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25801,8 +25801,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25832,10 +25832,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -25869,8 +25869,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25903,8 +25903,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -25938,7 +25938,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -25971,8 +25971,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26006,7 +26006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26039,8 +26039,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26074,7 +26074,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26107,8 +26107,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26141,8 +26141,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26175,8 +26175,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26210,7 +26210,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26244,7 +26244,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26277,8 +26277,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26312,7 +26312,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26345,8 +26345,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26380,7 +26380,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26410,11 +26410,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26447,8 +26447,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26481,8 +26481,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26515,8 +26515,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26549,8 +26549,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26583,8 +26583,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26614,11 +26614,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26652,7 +26652,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26682,11 +26682,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26720,7 +26720,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26753,8 +26753,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26787,8 +26787,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26821,8 +26821,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26855,8 +26855,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26889,8 +26889,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26920,11 +26920,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -26957,8 +26957,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -26988,11 +26988,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27026,7 +27026,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27056,11 +27056,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27094,7 +27094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27124,11 +27124,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27158,11 +27158,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27192,11 +27192,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27226,11 +27226,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27260,11 +27260,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27297,8 +27297,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27331,8 +27331,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27362,11 +27362,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27399,8 +27399,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27434,7 +27434,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27467,8 +27467,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27501,8 +27501,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27532,7 +27532,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -27570,7 +27570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27604,7 +27604,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27634,11 +27634,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27668,11 +27668,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27702,11 +27702,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27736,11 +27736,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27770,7 +27770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
         "was founder": true,
@@ -27808,7 +27808,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27841,8 +27841,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27875,8 +27875,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27910,7 +27910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -27943,8 +27943,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -27977,8 +27977,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28012,7 +28012,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28042,11 +28042,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28079,8 +28079,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28113,8 +28113,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28144,11 +28144,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28182,7 +28182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28216,7 +28216,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "father",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28250,7 +28250,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28280,11 +28280,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28317,8 +28317,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28352,7 +28352,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28386,7 +28386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28420,7 +28420,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28450,11 +28450,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28488,7 +28488,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28521,8 +28521,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28555,8 +28555,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28589,8 +28589,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28623,8 +28623,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28657,8 +28657,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28691,8 +28691,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28725,8 +28725,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28759,8 +28759,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28794,7 +28794,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28827,8 +28827,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28858,11 +28858,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28892,11 +28892,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28926,11 +28926,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -28964,7 +28964,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -28998,7 +28998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29031,8 +29031,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29066,7 +29066,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29100,7 +29100,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29134,7 +29134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29168,7 +29168,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29202,7 +29202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29232,11 +29232,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29270,7 +29270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29304,7 +29304,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29334,11 +29334,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 5.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29368,11 +29368,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29402,11 +29402,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29436,11 +29436,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29473,8 +29473,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29507,8 +29507,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29538,10 +29538,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -29572,11 +29572,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29610,7 +29610,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29644,7 +29644,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29678,7 +29678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29712,7 +29712,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29745,8 +29745,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29779,8 +29779,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29813,8 +29813,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29847,8 +29847,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29882,7 +29882,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29916,7 +29916,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -29946,11 +29946,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -29984,7 +29984,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30018,7 +30018,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30052,7 +30052,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30085,8 +30085,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30116,11 +30116,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30153,8 +30153,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30187,8 +30187,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30218,11 +30218,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30256,7 +30256,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30290,7 +30290,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30324,7 +30324,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30357,8 +30357,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30392,7 +30392,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30425,8 +30425,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30459,8 +30459,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30493,8 +30493,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30528,7 +30528,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30558,11 +30558,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.9,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30595,8 +30595,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30630,7 +30630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30664,7 +30664,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30697,8 +30697,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30732,7 +30732,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30765,8 +30765,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30796,11 +30796,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30830,11 +30830,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -30864,11 +30864,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Finance",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "banking",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30898,11 +30898,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30932,11 +30932,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -30966,11 +30966,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31004,7 +31004,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31037,8 +31037,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31071,8 +31071,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31105,8 +31105,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31136,11 +31136,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31170,11 +31170,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31204,11 +31204,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31241,8 +31241,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31276,7 +31276,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31309,8 +31309,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31343,8 +31343,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31377,8 +31377,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31411,8 +31411,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31446,7 +31446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31480,7 +31480,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31513,8 +31513,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31547,8 +31547,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31581,8 +31581,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31615,8 +31615,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31646,11 +31646,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31680,11 +31680,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31717,8 +31717,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31752,7 +31752,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31785,8 +31785,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31820,7 +31820,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31853,8 +31853,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31887,8 +31887,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31918,11 +31918,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -31956,7 +31956,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -31986,11 +31986,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32024,7 +32024,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32058,7 +32058,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32091,8 +32091,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32125,8 +32125,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32160,7 +32160,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32190,11 +32190,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32228,7 +32228,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32261,8 +32261,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32292,7 +32292,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -32326,11 +32326,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32363,8 +32363,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32397,8 +32397,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32431,8 +32431,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32466,7 +32466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32500,7 +32500,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32530,11 +32530,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32568,7 +32568,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32601,8 +32601,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32636,7 +32636,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32666,11 +32666,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32704,7 +32704,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32737,8 +32737,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32772,7 +32772,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32805,8 +32805,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32840,7 +32840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32874,7 +32874,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32907,8 +32907,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -32942,7 +32942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -32972,11 +32972,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33006,11 +33006,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33044,7 +33044,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33074,11 +33074,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33111,8 +33111,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33142,11 +33142,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33176,11 +33176,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33210,11 +33210,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33244,11 +33244,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33278,11 +33278,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33315,8 +33315,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "services",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33346,11 +33346,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33384,7 +33384,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33414,7 +33414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -33452,7 +33452,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33485,8 +33485,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33519,8 +33519,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33553,8 +33553,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33588,7 +33588,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33621,8 +33621,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33656,7 +33656,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33689,8 +33689,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33724,7 +33724,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33758,7 +33758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33791,8 +33791,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33825,8 +33825,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33856,11 +33856,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33893,8 +33893,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33928,7 +33928,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -33961,8 +33961,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -33996,7 +33996,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34026,11 +34026,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34060,11 +34060,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34097,8 +34097,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34131,8 +34131,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34166,7 +34166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34199,8 +34199,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34233,8 +34233,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34264,11 +34264,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34301,8 +34301,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34336,7 +34336,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34369,8 +34369,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34400,11 +34400,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34437,8 +34437,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34472,7 +34472,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34506,7 +34506,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34540,7 +34540,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34573,8 +34573,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34608,7 +34608,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34642,7 +34642,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34676,7 +34676,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34710,7 +34710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34743,8 +34743,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34777,8 +34777,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -34808,11 +34808,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34842,11 +34842,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34880,7 +34880,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34910,10 +34910,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -34948,7 +34948,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -34982,7 +34982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35015,8 +35015,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35046,11 +35046,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35084,7 +35084,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35118,7 +35118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35148,11 +35148,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35186,7 +35186,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35219,8 +35219,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35253,8 +35253,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35288,7 +35288,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35321,8 +35321,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35355,8 +35355,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35389,8 +35389,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35420,11 +35420,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35457,8 +35457,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35492,7 +35492,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35526,7 +35526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35559,8 +35559,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35593,8 +35593,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35627,8 +35627,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35661,8 +35661,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35695,8 +35695,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -35726,11 +35726,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35760,11 +35760,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35794,11 +35794,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35832,7 +35832,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35866,7 +35866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35896,11 +35896,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35930,11 +35930,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -35967,8 +35967,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36001,8 +36001,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36032,11 +36032,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36066,11 +36066,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36103,8 +36103,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36134,11 +36134,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36168,11 +36168,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36202,11 +36202,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36240,7 +36240,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36273,8 +36273,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36307,8 +36307,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36341,8 +36341,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36372,11 +36372,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36409,8 +36409,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36440,11 +36440,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36477,8 +36477,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36508,11 +36508,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36546,7 +36546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36580,7 +36580,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36614,7 +36614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36644,11 +36644,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36678,11 +36678,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36716,7 +36716,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -36749,8 +36749,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36783,8 +36783,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36817,8 +36817,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36851,8 +36851,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36882,11 +36882,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36916,11 +36916,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -36950,7 +36950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
@@ -36984,11 +36984,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37021,8 +37021,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37055,8 +37055,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37089,8 +37089,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37123,8 +37123,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37157,8 +37157,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37192,7 +37192,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37226,7 +37226,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37256,11 +37256,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37293,8 +37293,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37328,7 +37328,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37358,11 +37358,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37395,8 +37395,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37430,7 +37430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37463,8 +37463,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37498,7 +37498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37528,7 +37528,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -37565,8 +37565,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37600,7 +37600,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37634,7 +37634,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37667,8 +37667,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37702,7 +37702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37735,8 +37735,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37769,8 +37769,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37803,8 +37803,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37837,8 +37837,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37871,8 +37871,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37902,11 +37902,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -37939,8 +37939,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -37973,8 +37973,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38004,11 +38004,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38038,10 +38038,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -38072,11 +38072,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38106,11 +38106,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38144,7 +38144,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38177,8 +38177,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38211,8 +38211,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38245,8 +38245,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38279,8 +38279,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38313,8 +38313,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38348,7 +38348,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38381,8 +38381,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38416,7 +38416,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38450,7 +38450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38484,7 +38484,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38514,10 +38514,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -38552,7 +38552,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38582,7 +38582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -38619,8 +38619,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38654,7 +38654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38688,7 +38688,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38722,7 +38722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38752,11 +38752,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -38790,7 +38790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38824,7 +38824,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38854,11 +38854,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38892,7 +38892,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38922,11 +38922,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 4.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38960,7 +38960,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -38994,7 +38994,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39028,7 +39028,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39062,7 +39062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39096,7 +39096,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39129,8 +39129,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39160,11 +39160,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39194,10 +39194,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -39228,11 +39228,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39262,11 +39262,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39299,8 +39299,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39333,8 +39333,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39364,11 +39364,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39398,11 +39398,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39435,8 +39435,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39470,7 +39470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39503,8 +39503,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39538,7 +39538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39572,7 +39572,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39605,8 +39605,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39639,8 +39639,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39673,8 +39673,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39704,11 +39704,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39741,8 +39741,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -39776,7 +39776,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39810,7 +39810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39844,7 +39844,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39874,11 +39874,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39908,11 +39908,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39946,7 +39946,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -39976,11 +39976,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40014,7 +40014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40044,11 +40044,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40081,8 +40081,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40115,8 +40115,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40146,11 +40146,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40183,8 +40183,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40214,11 +40214,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40248,7 +40248,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
@@ -40282,11 +40282,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40320,7 +40320,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40354,7 +40354,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40384,7 +40384,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -40422,7 +40422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40456,7 +40456,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40490,7 +40490,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40523,8 +40523,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40557,8 +40557,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40592,7 +40592,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40625,8 +40625,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40660,7 +40660,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40690,11 +40690,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40727,8 +40727,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40761,8 +40761,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40795,8 +40795,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40829,8 +40829,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40863,8 +40863,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40894,11 +40894,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40928,11 +40928,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -40962,11 +40962,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -40999,8 +40999,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41033,8 +41033,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41067,8 +41067,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41101,8 +41101,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41132,11 +41132,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41170,7 +41170,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41203,8 +41203,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41237,8 +41237,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41272,7 +41272,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41306,7 +41306,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41340,7 +41340,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41374,7 +41374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41404,11 +41404,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41438,11 +41438,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41475,8 +41475,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41506,10 +41506,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -41540,11 +41540,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41574,11 +41574,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41608,11 +41608,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41642,11 +41642,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41676,11 +41676,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41710,11 +41710,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41744,11 +41744,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41781,8 +41781,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41815,8 +41815,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41849,8 +41849,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41880,11 +41880,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41918,7 +41918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -41951,8 +41951,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -41986,7 +41986,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42020,7 +42020,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42050,11 +42050,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42088,7 +42088,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42118,7 +42118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
@@ -42152,7 +42152,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -42186,11 +42186,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42224,7 +42224,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42258,7 +42258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42291,8 +42291,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42325,8 +42325,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42359,8 +42359,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42390,11 +42390,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42424,11 +42424,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42461,8 +42461,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42495,8 +42495,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42526,7 +42526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
@@ -42560,11 +42560,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42594,11 +42594,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42632,7 +42632,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42666,7 +42666,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42700,7 +42700,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42734,7 +42734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42767,8 +42767,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42801,8 +42801,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42836,7 +42836,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -42869,8 +42869,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42903,8 +42903,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42937,8 +42937,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -42971,8 +42971,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43006,7 +43006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43040,7 +43040,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43073,8 +43073,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43108,7 +43108,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43141,8 +43141,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43175,8 +43175,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43206,11 +43206,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43243,8 +43243,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43277,8 +43277,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43311,8 +43311,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43346,7 +43346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43379,8 +43379,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43410,11 +43410,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43448,7 +43448,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43481,8 +43481,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43515,8 +43515,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43549,8 +43549,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43583,8 +43583,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43618,7 +43618,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43648,11 +43648,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43682,7 +43682,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
@@ -43720,7 +43720,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43753,8 +43753,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43788,7 +43788,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43822,7 +43822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43856,7 +43856,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -43889,8 +43889,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43923,8 +43923,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43957,8 +43957,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -43991,7 +43991,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -44026,7 +44026,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44056,7 +44056,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
@@ -44093,8 +44093,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44128,7 +44128,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44161,8 +44161,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44192,11 +44192,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44230,7 +44230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44260,11 +44260,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44298,7 +44298,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44331,8 +44331,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44362,7 +44362,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -44400,7 +44400,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44433,8 +44433,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44467,8 +44467,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44502,7 +44502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44536,7 +44536,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44570,7 +44570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44604,7 +44604,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44638,7 +44638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44668,11 +44668,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44702,11 +44702,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44736,11 +44736,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44774,7 +44774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44808,7 +44808,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44842,7 +44842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44876,7 +44876,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44910,7 +44910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -44940,11 +44940,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -44978,7 +44978,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45012,7 +45012,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45042,11 +45042,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45076,11 +45076,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45114,7 +45114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45144,7 +45144,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -45181,8 +45181,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45212,11 +45212,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45250,7 +45250,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45283,8 +45283,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45314,11 +45314,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45352,7 +45352,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45386,7 +45386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Venture Capital",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45416,11 +45416,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45454,7 +45454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45487,8 +45487,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45521,8 +45521,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45555,8 +45555,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45590,7 +45590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45623,8 +45623,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45658,7 +45658,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45688,11 +45688,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45725,8 +45725,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45760,7 +45760,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45794,7 +45794,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45828,7 +45828,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45861,8 +45861,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45896,7 +45896,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45929,8 +45929,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -45964,7 +45964,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -45997,8 +45997,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46031,8 +46031,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46065,8 +46065,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46100,7 +46100,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46130,11 +46130,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46164,11 +46164,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46202,7 +46202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46235,8 +46235,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46269,8 +46269,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46303,8 +46303,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46338,7 +46338,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46368,11 +46368,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46406,7 +46406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46436,11 +46436,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46470,7 +46470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -46507,8 +46507,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46541,8 +46541,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46576,7 +46576,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46606,11 +46606,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46640,10 +46640,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -46677,8 +46677,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46711,8 +46711,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46745,8 +46745,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46779,8 +46779,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46814,7 +46814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -46847,8 +46847,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46881,8 +46881,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46915,8 +46915,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Venture Capital",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46949,8 +46949,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -46980,11 +46980,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47017,8 +47017,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47051,8 +47051,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47086,7 +47086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47116,11 +47116,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47153,8 +47153,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47188,7 +47188,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47218,11 +47218,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47255,8 +47255,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47290,7 +47290,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47323,8 +47323,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47354,11 +47354,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47392,7 +47392,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47422,11 +47422,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47456,11 +47456,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47494,7 +47494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47527,8 +47527,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47562,7 +47562,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47595,8 +47595,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47626,11 +47626,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47663,8 +47663,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47697,8 +47697,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47731,8 +47731,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47766,7 +47766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47796,11 +47796,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47830,11 +47830,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47867,8 +47867,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47901,8 +47901,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -47936,7 +47936,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -47969,8 +47969,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48004,7 +48004,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48038,7 +48038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48071,8 +48071,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48102,11 +48102,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48136,11 +48136,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48173,8 +48173,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48207,8 +48207,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48241,8 +48241,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48275,8 +48275,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48310,7 +48310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48343,8 +48343,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48377,8 +48377,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48412,7 +48412,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48445,8 +48445,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48479,8 +48479,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48513,8 +48513,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48544,11 +48544,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48581,8 +48581,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48616,7 +48616,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48650,7 +48650,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48680,11 +48680,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48717,8 +48717,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48748,11 +48748,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48785,8 +48785,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48816,11 +48816,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48854,7 +48854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48887,8 +48887,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -48922,7 +48922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48956,7 +48956,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -48989,8 +48989,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Venture Capital",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49023,8 +49023,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49058,7 +49058,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49088,11 +49088,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49125,8 +49125,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49160,7 +49160,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49193,8 +49193,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49228,7 +49228,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49258,11 +49258,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49296,7 +49296,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49329,8 +49329,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49364,7 +49364,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49397,8 +49397,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49432,7 +49432,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49465,8 +49465,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49500,7 +49500,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49534,7 +49534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Venture Capital",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49564,11 +49564,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49601,8 +49601,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49635,8 +49635,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49669,8 +49669,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49700,11 +49700,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49734,11 +49734,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49772,7 +49772,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49805,8 +49805,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49840,7 +49840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49873,8 +49873,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49904,11 +49904,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -49941,8 +49941,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -49976,7 +49976,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50006,11 +50006,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50040,11 +50040,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50077,8 +50077,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50112,7 +50112,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50145,8 +50145,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50176,7 +50176,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
@@ -50210,11 +50210,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50244,11 +50244,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50281,8 +50281,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50312,11 +50312,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50350,7 +50350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50384,7 +50384,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50418,7 +50418,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50452,7 +50452,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50486,7 +50486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50516,11 +50516,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50553,8 +50553,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50587,8 +50587,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50622,7 +50622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50655,8 +50655,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50689,8 +50689,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50724,7 +50724,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50754,11 +50754,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50788,11 +50788,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50822,11 +50822,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50856,7 +50856,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -50893,8 +50893,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -50928,7 +50928,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50958,11 +50958,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -50996,7 +50996,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51026,11 +51026,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51060,10 +51060,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -51094,7 +51094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -51131,8 +51131,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51162,11 +51162,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51200,7 +51200,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51230,11 +51230,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51264,11 +51264,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51302,7 +51302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51335,8 +51335,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51370,7 +51370,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51404,7 +51404,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51438,7 +51438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51471,8 +51471,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51505,8 +51505,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51540,7 +51540,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51573,8 +51573,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51604,11 +51604,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51641,8 +51641,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51675,8 +51675,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51710,7 +51710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51744,7 +51744,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51778,7 +51778,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51812,7 +51812,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51842,11 +51842,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51876,11 +51876,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51910,11 +51910,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -51948,7 +51948,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -51982,7 +51982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52016,7 +52016,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52049,8 +52049,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52083,8 +52083,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52114,11 +52114,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52148,11 +52148,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52182,11 +52182,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 3.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52219,8 +52219,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52250,11 +52250,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52288,7 +52288,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52322,7 +52322,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52355,8 +52355,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52390,7 +52390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52424,7 +52424,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52454,11 +52454,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52492,7 +52492,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52526,7 +52526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52559,8 +52559,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52594,7 +52594,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52624,11 +52624,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52662,7 +52662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52692,11 +52692,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52730,7 +52730,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52763,8 +52763,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52797,8 +52797,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52832,7 +52832,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52866,7 +52866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52899,8 +52899,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52934,7 +52934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -52967,8 +52967,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -52998,11 +52998,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53036,7 +53036,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53066,11 +53066,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53103,8 +53103,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53138,7 +53138,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53171,8 +53171,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53206,7 +53206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53239,8 +53239,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53270,11 +53270,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53304,11 +53304,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53341,8 +53341,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53375,8 +53375,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53410,7 +53410,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53440,11 +53440,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53478,7 +53478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53508,10 +53508,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -53546,7 +53546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53579,8 +53579,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53610,11 +53610,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53644,11 +53644,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53678,11 +53678,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53715,8 +53715,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53750,7 +53750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53780,10 +53780,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -53818,7 +53818,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53851,8 +53851,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53886,7 +53886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -53919,8 +53919,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53953,8 +53953,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Venture Capital",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -53984,11 +53984,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54018,11 +54018,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54052,11 +54052,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54089,8 +54089,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54123,8 +54123,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54154,11 +54154,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54191,8 +54191,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54222,11 +54222,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54259,8 +54259,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54294,7 +54294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54324,11 +54324,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54358,7 +54358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -54396,7 +54396,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54429,8 +54429,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54464,7 +54464,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54498,7 +54498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54531,8 +54531,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54565,8 +54565,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54599,8 +54599,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54634,7 +54634,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54667,8 +54667,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54698,11 +54698,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54732,11 +54732,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54769,8 +54769,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54804,7 +54804,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54834,11 +54834,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54868,7 +54868,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
@@ -54902,11 +54902,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -54940,7 +54940,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -54974,7 +54974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55004,11 +55004,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55038,11 +55038,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55072,11 +55072,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55109,8 +55109,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55143,8 +55143,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55177,8 +55177,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55211,8 +55211,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55242,11 +55242,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55276,11 +55276,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55310,11 +55310,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55347,8 +55347,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55381,8 +55381,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55412,11 +55412,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55446,11 +55446,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55480,11 +55480,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55518,7 +55518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55551,8 +55551,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55582,11 +55582,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55616,11 +55616,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55653,8 +55653,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55688,7 +55688,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55722,7 +55722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55756,7 +55756,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55786,11 +55786,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55824,7 +55824,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55858,7 +55858,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55888,11 +55888,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55922,11 +55922,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -55960,7 +55960,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -55990,11 +55990,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56027,8 +56027,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56061,8 +56061,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56092,11 +56092,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56130,7 +56130,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56164,7 +56164,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56197,8 +56197,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56232,7 +56232,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56265,8 +56265,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56296,7 +56296,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
@@ -56333,8 +56333,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56364,11 +56364,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56398,11 +56398,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56436,7 +56436,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56466,7 +56466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -56503,8 +56503,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56538,7 +56538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56571,8 +56571,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56605,8 +56605,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56640,7 +56640,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56674,7 +56674,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56707,8 +56707,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56741,8 +56741,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56775,8 +56775,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56809,8 +56809,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56843,8 +56843,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56877,8 +56877,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -56912,7 +56912,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56942,11 +56942,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -56980,7 +56980,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57010,11 +57010,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57044,11 +57044,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57081,8 +57081,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57115,8 +57115,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57150,7 +57150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57184,7 +57184,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57217,8 +57217,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57248,11 +57248,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57286,7 +57286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57316,11 +57316,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57353,8 +57353,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57387,8 +57387,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57418,11 +57418,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.5,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57455,8 +57455,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57486,11 +57486,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57520,11 +57520,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57557,8 +57557,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57592,7 +57592,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57622,11 +57622,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57656,11 +57656,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57690,11 +57690,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57727,8 +57727,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57761,8 +57761,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57792,11 +57792,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57829,8 +57829,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57863,8 +57863,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57898,7 +57898,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57932,7 +57932,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -57962,11 +57962,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -57999,8 +57999,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58030,11 +58030,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58064,11 +58064,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58102,7 +58102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58132,11 +58132,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58169,8 +58169,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58204,7 +58204,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58238,7 +58238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58268,11 +58268,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58302,11 +58302,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58340,7 +58340,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58374,7 +58374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58404,11 +58404,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58438,7 +58438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -58472,11 +58472,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58510,7 +58510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58544,7 +58544,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58574,11 +58574,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58608,10 +58608,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -58642,11 +58642,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58676,11 +58676,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58713,8 +58713,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58748,7 +58748,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58778,11 +58778,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58816,7 +58816,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58846,11 +58846,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58883,8 +58883,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58917,8 +58917,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -58948,11 +58948,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -58982,11 +58982,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59016,11 +59016,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59053,8 +59053,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59087,8 +59087,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59122,7 +59122,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59152,11 +59152,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59190,7 +59190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59220,10 +59220,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -59258,7 +59258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59288,11 +59288,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59326,7 +59326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59356,11 +59356,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59393,8 +59393,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59427,8 +59427,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59462,7 +59462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59495,8 +59495,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59529,8 +59529,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59560,11 +59560,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59594,11 +59594,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59628,11 +59628,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59662,11 +59662,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59700,7 +59700,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59730,11 +59730,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59767,8 +59767,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59798,11 +59798,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59836,7 +59836,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59870,7 +59870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59903,8 +59903,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -59938,7 +59938,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -59972,7 +59972,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60002,11 +60002,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60040,7 +60040,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60074,7 +60074,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60104,11 +60104,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60142,7 +60142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60176,7 +60176,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60210,7 +60210,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60243,8 +60243,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60278,7 +60278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60308,11 +60308,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60346,7 +60346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60380,7 +60380,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60414,7 +60414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60444,11 +60444,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60478,11 +60478,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60516,7 +60516,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60550,7 +60550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60580,11 +60580,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60614,11 +60614,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60652,7 +60652,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60686,7 +60686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60719,8 +60719,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60750,11 +60750,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60784,11 +60784,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60822,7 +60822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60855,8 +60855,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60886,11 +60886,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60924,7 +60924,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -60957,8 +60957,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -60992,7 +60992,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61022,11 +61022,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61059,8 +61059,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61090,11 +61090,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61127,8 +61127,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61161,8 +61161,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61195,8 +61195,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61226,11 +61226,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61260,11 +61260,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61298,7 +61298,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61332,7 +61332,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61366,7 +61366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61399,8 +61399,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61430,11 +61430,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61464,11 +61464,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61502,7 +61502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61532,11 +61532,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61569,8 +61569,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61600,11 +61600,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61638,7 +61638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61672,7 +61672,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61706,7 +61706,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61740,7 +61740,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61770,11 +61770,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61807,8 +61807,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61838,11 +61838,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61876,7 +61876,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61909,8 +61909,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -61944,7 +61944,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -61974,11 +61974,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62008,11 +62008,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62042,11 +62042,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62076,11 +62076,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62114,7 +62114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62148,7 +62148,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62178,11 +62178,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62215,8 +62215,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62246,11 +62246,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62283,8 +62283,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62317,8 +62317,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62352,7 +62352,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62386,7 +62386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62416,11 +62416,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62453,8 +62453,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62487,8 +62487,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62518,7 +62518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
@@ -62555,8 +62555,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62586,11 +62586,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62623,8 +62623,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62657,8 +62657,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62691,8 +62691,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62726,7 +62726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62756,11 +62756,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62790,11 +62790,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62827,8 +62827,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62862,7 +62862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -62895,8 +62895,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62929,8 +62929,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62963,8 +62963,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -62997,8 +62997,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63032,7 +63032,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63065,8 +63065,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63100,7 +63100,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63134,7 +63134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63168,7 +63168,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63202,7 +63202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63235,8 +63235,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63270,7 +63270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63300,11 +63300,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63334,11 +63334,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63371,8 +63371,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63405,8 +63405,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63440,7 +63440,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63473,8 +63473,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63508,7 +63508,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63538,11 +63538,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63575,8 +63575,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63610,7 +63610,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63644,7 +63644,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63674,11 +63674,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63708,11 +63708,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63742,11 +63742,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63779,8 +63779,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Hedge funds",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63810,11 +63810,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63844,11 +63844,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63882,7 +63882,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -63912,11 +63912,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63946,11 +63946,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -63980,11 +63980,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64017,8 +64017,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64051,8 +64051,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64086,7 +64086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64116,11 +64116,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64154,7 +64154,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64187,8 +64187,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64218,11 +64218,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 2.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64252,11 +64252,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64286,11 +64286,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64320,11 +64320,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64358,7 +64358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64388,11 +64388,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64426,7 +64426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64460,7 +64460,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64493,8 +64493,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64524,11 +64524,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64558,11 +64558,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64595,8 +64595,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64629,8 +64629,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64660,11 +64660,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64697,8 +64697,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64731,8 +64731,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64766,7 +64766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64800,7 +64800,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64833,8 +64833,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64864,11 +64864,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64898,11 +64898,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -64932,11 +64932,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -64966,11 +64966,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65000,11 +65000,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65034,11 +65034,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65068,11 +65068,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65102,11 +65102,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65140,7 +65140,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65173,8 +65173,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65204,11 +65204,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65241,8 +65241,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65276,7 +65276,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65306,11 +65306,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65343,8 +65343,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65374,11 +65374,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65408,11 +65408,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65442,11 +65442,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65476,11 +65476,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65510,11 +65510,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65544,11 +65544,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65578,11 +65578,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65612,11 +65612,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65649,8 +65649,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65680,11 +65680,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65717,8 +65717,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65751,8 +65751,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65786,7 +65786,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65819,8 +65819,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Venture Capital",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65850,11 +65850,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65884,11 +65884,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65922,7 +65922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -65955,8 +65955,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -65986,11 +65986,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66023,8 +66023,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66054,11 +66054,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66088,11 +66088,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66122,11 +66122,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66156,11 +66156,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.9,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66190,11 +66190,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66228,7 +66228,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66258,11 +66258,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66292,11 +66292,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66326,11 +66326,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66360,11 +66360,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66394,11 +66394,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66432,7 +66432,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66462,11 +66462,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66496,10 +66496,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -66533,8 +66533,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66568,7 +66568,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66598,11 +66598,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66635,8 +66635,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66666,11 +66666,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66704,7 +66704,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66738,7 +66738,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66771,8 +66771,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66805,8 +66805,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66840,7 +66840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66873,8 +66873,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66907,8 +66907,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -66942,7 +66942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -66975,8 +66975,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67006,11 +67006,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67043,8 +67043,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67074,11 +67074,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67112,7 +67112,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67142,11 +67142,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67180,7 +67180,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67210,11 +67210,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67244,11 +67244,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67278,11 +67278,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67312,11 +67312,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67346,11 +67346,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67384,7 +67384,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67417,8 +67417,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67448,11 +67448,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67485,8 +67485,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67520,7 +67520,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67550,10 +67550,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -67584,11 +67584,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67618,11 +67618,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67652,11 +67652,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67686,11 +67686,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67720,11 +67720,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67754,11 +67754,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67788,11 +67788,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67826,7 +67826,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67860,7 +67860,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67894,7 +67894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67928,7 +67928,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -67958,11 +67958,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -67995,8 +67995,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68030,7 +68030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68063,8 +68063,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68098,7 +68098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68132,7 +68132,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68166,7 +68166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68196,7 +68196,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -68230,11 +68230,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.8,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68267,8 +68267,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68301,8 +68301,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68336,7 +68336,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68366,11 +68366,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68400,11 +68400,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68434,11 +68434,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68468,11 +68468,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68502,10 +68502,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -68539,8 +68539,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68574,7 +68574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68604,11 +68604,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68642,7 +68642,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68672,11 +68672,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68706,11 +68706,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68740,11 +68740,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68777,8 +68777,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68812,7 +68812,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68846,7 +68846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68879,8 +68879,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68914,7 +68914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -68947,8 +68947,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -68978,11 +68978,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69016,7 +69016,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69046,11 +69046,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69080,11 +69080,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69118,7 +69118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69152,7 +69152,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69185,8 +69185,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69219,8 +69219,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69253,8 +69253,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69284,11 +69284,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69322,7 +69322,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69352,11 +69352,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69386,11 +69386,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69420,11 +69420,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69457,8 +69457,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69491,8 +69491,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69525,8 +69525,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69559,8 +69559,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69593,8 +69593,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69628,7 +69628,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69662,7 +69662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69696,7 +69696,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69729,8 +69729,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69764,7 +69764,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69797,8 +69797,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69831,8 +69831,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69866,7 +69866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69896,11 +69896,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.7,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -69930,11 +69930,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -69968,7 +69968,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70001,8 +70001,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70035,8 +70035,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70069,8 +70069,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70100,11 +70100,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70138,7 +70138,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70171,8 +70171,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70206,7 +70206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70240,7 +70240,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70274,7 +70274,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70304,11 +70304,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70342,7 +70342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70372,11 +70372,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70409,8 +70409,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70440,11 +70440,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70477,8 +70477,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70511,8 +70511,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70545,8 +70545,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70579,8 +70579,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70613,8 +70613,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70644,11 +70644,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70678,11 +70678,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70715,8 +70715,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70746,11 +70746,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70784,7 +70784,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70814,11 +70814,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70852,7 +70852,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70882,11 +70882,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -70920,7 +70920,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70950,11 +70950,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -70988,7 +70988,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71022,7 +71022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71052,11 +71052,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71089,8 +71089,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71123,8 +71123,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71158,7 +71158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71188,11 +71188,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71226,7 +71226,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71259,8 +71259,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71294,7 +71294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71324,11 +71324,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71358,7 +71358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
@@ -71392,11 +71392,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71426,11 +71426,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71460,11 +71460,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71494,11 +71494,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71528,11 +71528,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71566,7 +71566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71596,11 +71596,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71630,11 +71630,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -71664,11 +71664,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71698,7 +71698,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -71732,11 +71732,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71766,11 +71766,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71800,11 +71800,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71834,7 +71834,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -71871,8 +71871,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71905,8 +71905,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71936,11 +71936,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -71974,7 +71974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72004,11 +72004,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.6,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72038,11 +72038,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72072,11 +72072,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72106,11 +72106,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72140,11 +72140,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72174,11 +72174,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72208,11 +72208,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72242,11 +72242,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72276,11 +72276,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72314,7 +72314,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72347,8 +72347,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72382,7 +72382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72416,7 +72416,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72446,11 +72446,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72483,8 +72483,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72517,8 +72517,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72548,11 +72548,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72582,11 +72582,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72619,8 +72619,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72650,11 +72650,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72688,7 +72688,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72722,7 +72722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72756,7 +72756,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72786,11 +72786,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72823,8 +72823,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72854,11 +72854,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -72891,8 +72891,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72925,8 +72925,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72959,8 +72959,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Venture Capital",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -72993,8 +72993,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73024,11 +73024,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73058,11 +73058,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73095,8 +73095,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73126,11 +73126,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73164,7 +73164,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73194,11 +73194,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73232,7 +73232,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73262,11 +73262,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73296,11 +73296,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73330,11 +73330,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73364,11 +73364,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73402,7 +73402,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Private equity/leveraged buyout",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73436,7 +73436,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73466,11 +73466,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73500,11 +73500,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73534,11 +73534,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73572,7 +73572,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Venture Capital",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73602,11 +73602,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73636,11 +73636,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73670,11 +73670,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73704,11 +73704,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73741,8 +73741,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73775,8 +73775,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73806,11 +73806,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73844,7 +73844,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73877,8 +73877,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73908,11 +73908,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.5,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -73946,7 +73946,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -73979,8 +73979,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74013,8 +74013,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74044,11 +74044,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74078,11 +74078,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74116,7 +74116,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74146,11 +74146,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74184,7 +74184,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74217,8 +74217,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74252,7 +74252,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74286,7 +74286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74316,11 +74316,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74350,11 +74350,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74387,8 +74387,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74421,8 +74421,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74452,10 +74452,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -74489,8 +74489,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74523,8 +74523,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74554,11 +74554,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74588,11 +74588,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74625,8 +74625,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74660,7 +74660,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74694,7 +74694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74724,11 +74724,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74761,8 +74761,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74796,7 +74796,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74830,7 +74830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74860,11 +74860,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74898,7 +74898,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -74928,11 +74928,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74962,11 +74962,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -74996,11 +74996,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75030,11 +75030,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75068,7 +75068,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75102,7 +75102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75132,11 +75132,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75169,8 +75169,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75203,8 +75203,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75234,11 +75234,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75271,8 +75271,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75306,7 +75306,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75340,7 +75340,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75374,7 +75374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75404,11 +75404,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75438,11 +75438,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75472,11 +75472,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75509,8 +75509,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75544,7 +75544,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75577,8 +75577,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "5th generation or longer",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75608,11 +75608,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75642,11 +75642,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75679,8 +75679,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75714,7 +75714,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75747,8 +75747,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75778,7 +75778,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -75812,11 +75812,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75846,11 +75846,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75880,11 +75880,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -75917,8 +75917,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -75948,10 +75948,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
+        "was founder": false,
         "was political": true
       }
     }
@@ -75986,7 +75986,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76019,8 +76019,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76053,8 +76053,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76088,7 +76088,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76122,7 +76122,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76156,7 +76156,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76186,11 +76186,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76223,8 +76223,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76254,11 +76254,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76292,7 +76292,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76322,11 +76322,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76356,11 +76356,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.4,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76394,7 +76394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76428,7 +76428,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76462,7 +76462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76495,8 +76495,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76530,7 +76530,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76564,7 +76564,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76594,11 +76594,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76628,11 +76628,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76662,11 +76662,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76699,8 +76699,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76733,8 +76733,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76764,11 +76764,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76798,11 +76798,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76835,8 +76835,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76870,7 +76870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76903,8 +76903,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -76934,11 +76934,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -76971,8 +76971,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77006,7 +77006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77039,8 +77039,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77070,11 +77070,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77104,11 +77104,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77138,11 +77138,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77176,7 +77176,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77209,8 +77209,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77240,11 +77240,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77274,11 +77274,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77311,8 +77311,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77342,11 +77342,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77376,11 +77376,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77410,11 +77410,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77447,8 +77447,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77482,7 +77482,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77516,7 +77516,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77549,8 +77549,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77584,7 +77584,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77618,7 +77618,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77652,7 +77652,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77682,11 +77682,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77716,11 +77716,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77750,11 +77750,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77784,11 +77784,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77822,7 +77822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77852,11 +77852,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -77889,8 +77889,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77920,11 +77920,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77954,11 +77954,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -77988,11 +77988,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78025,8 +78025,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Money Management",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78060,7 +78060,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78090,11 +78090,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78128,7 +78128,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78158,11 +78158,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78192,11 +78192,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78226,11 +78226,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78260,11 +78260,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78298,7 +78298,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78328,11 +78328,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78365,8 +78365,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78396,7 +78396,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -78433,8 +78433,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78464,11 +78464,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78498,11 +78498,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78532,11 +78532,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78570,7 +78570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78600,11 +78600,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78634,11 +78634,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78668,11 +78668,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78706,7 +78706,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78736,7 +78736,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -78770,11 +78770,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78807,8 +78807,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78838,11 +78838,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78872,11 +78872,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78906,11 +78906,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -78944,7 +78944,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -78977,8 +78977,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79008,11 +79008,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79042,11 +79042,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79076,11 +79076,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79110,7 +79110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
@@ -79147,8 +79147,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79181,8 +79181,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79216,7 +79216,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79246,11 +79246,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79284,7 +79284,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79314,11 +79314,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79348,11 +79348,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79386,7 +79386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79419,8 +79419,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Other",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79450,11 +79450,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.3,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79488,7 +79488,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79518,11 +79518,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79552,11 +79552,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79589,8 +79589,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79620,11 +79620,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79654,11 +79654,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79688,11 +79688,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79722,11 +79722,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79756,11 +79756,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79793,8 +79793,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79827,8 +79827,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79861,8 +79861,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79892,11 +79892,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79929,8 +79929,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -79964,7 +79964,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -79998,7 +79998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80028,11 +80028,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80065,8 +80065,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80099,8 +80099,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80130,11 +80130,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80164,11 +80164,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80202,7 +80202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80232,11 +80232,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80266,11 +80266,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80304,7 +80304,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80338,7 +80338,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80372,7 +80372,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80402,11 +80402,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80436,11 +80436,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80470,11 +80470,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80504,7 +80504,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
@@ -80538,11 +80538,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80575,8 +80575,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Constrution",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80610,7 +80610,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80643,8 +80643,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80674,11 +80674,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80708,11 +80708,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80742,11 +80742,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80780,7 +80780,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80814,7 +80814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80844,11 +80844,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80878,11 +80878,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -80912,11 +80912,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80946,11 +80946,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -80980,11 +80980,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81018,7 +81018,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81052,7 +81052,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81082,11 +81082,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81116,11 +81116,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81150,7 +81150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
@@ -81184,11 +81184,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81218,11 +81218,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81252,11 +81252,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81286,11 +81286,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81320,11 +81320,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81354,11 +81354,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81388,11 +81388,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81426,7 +81426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81456,11 +81456,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81493,8 +81493,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81524,11 +81524,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81558,11 +81558,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81592,11 +81592,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81629,8 +81629,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81664,7 +81664,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81694,11 +81694,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81731,8 +81731,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81762,11 +81762,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81796,11 +81796,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81830,11 +81830,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81864,11 +81864,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -81898,11 +81898,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81932,11 +81932,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -81966,11 +81966,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82000,7 +82000,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
@@ -82034,11 +82034,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82068,11 +82068,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82102,11 +82102,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82136,11 +82136,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82173,8 +82173,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82208,7 +82208,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82241,8 +82241,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82276,7 +82276,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82309,8 +82309,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82343,8 +82343,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82374,11 +82374,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82408,11 +82408,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82445,8 +82445,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82476,11 +82476,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82510,11 +82510,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82547,8 +82547,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82578,11 +82578,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82612,11 +82612,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82646,11 +82646,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.2,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82683,8 +82683,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82714,11 +82714,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82748,11 +82748,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82782,11 +82782,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82816,11 +82816,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82853,8 +82853,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -82888,7 +82888,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82922,7 +82922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82952,11 +82952,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -82986,11 +82986,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83020,11 +83020,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83054,11 +83054,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83088,11 +83088,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83122,11 +83122,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83160,7 +83160,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83193,8 +83193,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83224,11 +83224,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83261,8 +83261,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "0",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83296,7 +83296,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83326,11 +83326,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83364,7 +83364,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83394,11 +83394,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83428,11 +83428,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83462,11 +83462,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83500,7 +83500,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83530,11 +83530,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83568,7 +83568,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83598,11 +83598,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83632,11 +83632,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83669,8 +83669,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83703,8 +83703,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83738,7 +83738,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83771,8 +83771,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83802,11 +83802,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83840,7 +83840,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83873,8 +83873,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83904,11 +83904,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -83941,8 +83941,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -83972,11 +83972,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84006,11 +84006,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84043,8 +84043,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84074,11 +84074,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84111,8 +84111,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84142,11 +84142,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84176,11 +84176,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84214,7 +84214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84248,7 +84248,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84282,7 +84282,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84315,8 +84315,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84350,7 +84350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84383,8 +84383,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "4th generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84414,11 +84414,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Hedge funds",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84451,8 +84451,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84486,7 +84486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84516,11 +84516,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84550,11 +84550,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84584,11 +84584,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84621,8 +84621,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84656,7 +84656,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84690,7 +84690,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84723,8 +84723,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84754,11 +84754,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84788,11 +84788,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84822,11 +84822,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84856,11 +84856,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84893,8 +84893,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84927,8 +84927,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -84958,11 +84958,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -84995,8 +84995,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85029,8 +85029,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85060,11 +85060,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85094,11 +85094,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85128,11 +85128,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85162,11 +85162,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85199,8 +85199,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85230,11 +85230,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85264,11 +85264,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85298,11 +85298,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85336,7 +85336,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85366,11 +85366,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85404,7 +85404,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85434,11 +85434,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85471,8 +85471,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85502,11 +85502,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85536,11 +85536,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85570,11 +85570,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85607,8 +85607,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85642,7 +85642,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85672,11 +85672,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85706,11 +85706,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85744,7 +85744,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85774,11 +85774,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85808,11 +85808,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85846,7 +85846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85879,8 +85879,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85914,7 +85914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -85944,11 +85944,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -85978,11 +85978,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86012,11 +86012,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86046,11 +86046,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86080,11 +86080,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86114,11 +86114,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.1,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86151,8 +86151,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86185,8 +86185,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86216,11 +86216,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86253,8 +86253,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86284,11 +86284,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86321,8 +86321,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Mining and metals",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86355,8 +86355,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86386,11 +86386,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86423,8 +86423,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86454,11 +86454,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86492,7 +86492,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86526,7 +86526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86556,11 +86556,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86594,7 +86594,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86628,7 +86628,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86658,11 +86658,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86692,11 +86692,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86726,11 +86726,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -86760,11 +86760,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86794,11 +86794,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86828,7 +86828,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Constrution",
         "inherited": "not inherited",
         "was founder": true,
@@ -86866,7 +86866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86896,11 +86896,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "0",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "0",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86934,7 +86934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -86964,11 +86964,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Diversified financial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87002,7 +87002,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87032,11 +87032,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87069,8 +87069,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "3rd generation",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87104,7 +87104,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87134,11 +87134,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87168,11 +87168,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87205,8 +87205,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "spouse/widow",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87240,7 +87240,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Other",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87270,11 +87270,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87307,8 +87307,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87342,7 +87342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87372,11 +87372,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87410,7 +87410,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87440,11 +87440,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87477,8 +87477,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87512,7 +87512,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87542,11 +87542,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87576,11 +87576,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87610,11 +87610,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87644,11 +87644,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87678,11 +87678,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87716,7 +87716,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87750,7 +87750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Computer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87780,11 +87780,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Energy",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87817,8 +87817,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87848,11 +87848,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Computer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -87882,11 +87882,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87916,11 +87916,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87954,7 +87954,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -87984,11 +87984,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88022,7 +88022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Hedge funds",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88052,11 +88052,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88089,8 +88089,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88120,11 +88120,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Media",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88158,7 +88158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Media",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88192,7 +88192,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88226,7 +88226,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Technology-Medical",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88256,11 +88256,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88290,11 +88290,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88324,11 +88324,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88361,8 +88361,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Technology-Medical",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88395,8 +88395,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Media",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88426,11 +88426,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88464,7 +88464,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Money Management",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88498,7 +88498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Diversified financial",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88532,7 +88532,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88566,7 +88566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88596,11 +88596,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88630,11 +88630,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Non-Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Retail, Restaurant",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88664,11 +88664,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88701,8 +88701,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
         "from emerging": true,
         "industry": "Energy",
         "inherited": "father",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88732,11 +88732,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Non-consumer industrial",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88766,11 +88766,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Traded Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Consumer",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88800,11 +88800,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Financial",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Real Estate",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   },
@@ -88834,11 +88834,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "Resource Related",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Mining and metals",
         "inherited": "not inherited",
         "was founder": true,
-        "was political": true
+        "was political": false
       }
     }
   },
@@ -88868,11 +88868,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["billionaires"] = Sk.ffi.remapToPy([
       "worth in billions": 1.0,
       "how": {
         "category": "New Sectors",
-        "from emerging": true,
+        "from emerging": false,
         "industry": "Technology-Medical",
         "inherited": "not inherited",
-        "was founder": true,
-        "was political": true
+        "was founder": false,
+        "was political": false
       }
     }
   }

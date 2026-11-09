@@ -104,56 +104,56 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>purposes.abandoned</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.air traffic control tower</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.belltower</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.bridge</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.casino</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.commercial</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.education</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.exhibition</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -167,7 +167,7 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>purposes.hospital</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -181,35 +181,35 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>purposes.industrial</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.library</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.multiple</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.museum</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.observation</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -223,14 +223,14 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>purposes.other</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.religious</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -244,21 +244,21 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>purposes.retail</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.serviced apartments</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>purposes.telecommunications</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -300,7 +300,7 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>status.completed.is completed</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -314,7 +314,7 @@ Collected statistics about the tallest buildings all over the world, including t
     <td>status.started.is started</td>
     <td>Boolean</td> 
     <td>$MISSING_FIELD</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>

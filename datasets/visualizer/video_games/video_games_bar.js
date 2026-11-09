@@ -16,21 +16,21 @@ VISUALIZER_DATA_BARS = [
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "Features.Max Players": {
@@ -68,128 +68,128 @@ VISUALIZER_DATA_BARS = [
       "Features.Multiplatform?": {
         "Nintendo DS": {
           "count": 317,
-          "sum": 317,
-          "average": 1,
+          "sum": 87,
+          "average": 0.2744479495268139,
           "average w/o zero": 1
         },
         "Sony PSP": {
           "count": 242,
-          "sum": 242,
-          "average": 1,
+          "sum": 111,
+          "average": 0.45867768595041325,
           "average w/o zero": 1
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
+          "sum": 186,
+          "average": 0.6480836236933798,
           "average w/o zero": 1
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 97,
+          "average": 0.5187165775401069,
           "average w/o zero": 1
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
+          "sum": 135,
+          "average": 0.7541899441340782,
           "average w/o zero": 1
         }
       },
       "Features.Online?": {
         "Nintendo DS": {
           "count": 317,
-          "sum": 317,
-          "average": 1,
+          "sum": 30,
+          "average": 0.0946372239747634,
           "average w/o zero": 1
         },
         "Sony PSP": {
           "count": 242,
-          "sum": 242,
-          "average": 1,
+          "sum": 133,
+          "average": 0.5495867768595041,
           "average w/o zero": 1
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
+          "sum": 176,
+          "average": 0.6132404181184669,
           "average w/o zero": 1
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 17,
+          "average": 0.09090909090909091,
           "average w/o zero": 1
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
+          "sum": 111,
+          "average": 0.6201117318435754,
           "average w/o zero": 1
         }
       },
       "Metadata.Licensed?": {
         "Nintendo DS": {
           "count": 317,
-          "sum": 317,
-          "average": 1,
+          "sum": 73,
+          "average": 0.2302839116719243,
           "average w/o zero": 1
         },
         "Sony PSP": {
           "count": 242,
-          "sum": 242,
-          "average": 1,
+          "sum": 88,
+          "average": 0.36363636363636365,
           "average w/o zero": 1
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
+          "sum": 115,
+          "average": 0.40069686411149824,
           "average w/o zero": 1
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 62,
+          "average": 0.3315508021390374,
           "average w/o zero": 1
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
+          "sum": 88,
+          "average": 0.49162011173184356,
           "average w/o zero": 1
         }
       },
       "Metadata.Sequel?": {
         "Nintendo DS": {
           "count": 317,
-          "sum": 317,
-          "average": 1,
+          "sum": 144,
+          "average": 0.45425867507886436,
           "average w/o zero": 1
         },
         "Sony PSP": {
           "count": 242,
-          "sum": 242,
-          "average": 1,
+          "sum": 132,
+          "average": 0.5454545454545454,
           "average w/o zero": 1
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
+          "sum": 171,
+          "average": 0.5958188153310104,
           "average w/o zero": 1
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 98,
+          "average": 0.5240641711229946,
           "average w/o zero": 1
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
+          "sum": 112,
+          "average": 0.6256983240223464,
           "average w/o zero": 1
         }
       },
@@ -292,32 +292,32 @@ VISUALIZER_DATA_BARS = [
       "Release.Re-release?": {
         "Nintendo DS": {
           "count": 317,
-          "sum": 317,
-          "average": 1,
+          "sum": 30,
+          "average": 0.0946372239747634,
           "average w/o zero": 1
         },
         "Sony PSP": {
           "count": 242,
-          "sum": 242,
-          "average": 1,
+          "sum": 26,
+          "average": 0.10743801652892562,
           "average w/o zero": 1
         },
         "X360": {
           "count": 287,
-          "sum": 287,
-          "average": 1,
+          "sum": 7,
+          "average": 0.024390243902439025,
           "average w/o zero": 1
         },
         "Nintendo Wii": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 11,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "PlayStation 3": {
           "count": 179,
-          "sum": 179,
-          "average": 1,
+          "sum": 2,
+          "average": 0.0111731843575419,
           "average w/o zero": 1
         }
       },
@@ -1022,26 +1022,26 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 116,
+          "average": 0.8656716417910447,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 151,
+          "average": 0.5741444866920152,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 162,
+          "average": 0.391304347826087,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 108,
+          "average": 0.2849604221635884,
           "average w/o zero": 1
         }
       },
@@ -1080,128 +1080,128 @@ VISUALIZER_DATA_BARS = [
       "Features.Multiplatform?": {
         "2004": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 5,
+          "average": 0.22727272727272727,
           "average w/o zero": 1
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 49,
+          "average": 0.3656716417910448,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 119,
+          "average": 0.4524714828897338,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 226,
+          "average": 0.5458937198067633,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 217,
+          "average": 0.5725593667546174,
           "average w/o zero": 1
         }
       },
       "Features.Online?": {
         "2004": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 7,
+          "average": 0.3181818181818182,
           "average w/o zero": 1
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 53,
+          "average": 0.39552238805970147,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 120,
+          "average": 0.45627376425855515,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 142,
+          "average": 0.34299516908212563,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 145,
+          "average": 0.38258575197889183,
           "average w/o zero": 1
         }
       },
       "Metadata.Licensed?": {
         "2004": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 3,
+          "average": 0.13636363636363635,
           "average w/o zero": 1
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 39,
+          "average": 0.291044776119403,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 92,
+          "average": 0.34980988593155893,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 167,
+          "average": 0.4033816425120773,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 125,
+          "average": 0.32981530343007914,
           "average w/o zero": 1
         }
       },
       "Metadata.Sequel?": {
         "2004": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 11,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 75,
+          "average": 0.5597014925373134,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 139,
+          "average": 0.5285171102661597,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 234,
+          "average": 0.5652173913043478,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 198,
+          "average": 0.5224274406332454,
           "average w/o zero": 1
         }
       },
@@ -1304,32 +1304,32 @@ VISUALIZER_DATA_BARS = [
       "Release.Re-release?": {
         "2004": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 3,
+          "average": 0.13636363636363635,
           "average w/o zero": 1
         },
         "2005": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 8,
+          "average": 0.05970149253731343,
           "average w/o zero": 1
         },
         "2006": {
           "count": 263,
-          "sum": 263,
-          "average": 1,
+          "sum": 19,
+          "average": 0.07224334600760456,
           "average w/o zero": 1
         },
         "2007": {
           "count": 414,
-          "sum": 414,
-          "average": 1,
+          "sum": 24,
+          "average": 0.057971014492753624,
           "average w/o zero": 1
         },
         "2008": {
           "count": 379,
-          "sum": 379,
-          "average": 1,
+          "sum": 22,
+          "average": 0.05804749340369393,
           "average w/o zero": 1
         }
       },

@@ -224,1013 +224,1013 @@ VISUALIZER_DATA_BARS = [
       "purposes.abandoned": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 7,
+          "average": 0.008,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 2,
+          "average": 0.0014641288433382138,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.air traffic control tower": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 1,
+          "average": 0.030303030303030304,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.belltower": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 1,
+          "average": 0.001142857142857143,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.bridge": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 1,
+          "average": 0.001142857142857143,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.casino": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 2,
+          "average": 0.002285714285714286,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008130081300813009,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 19,
+          "average": 0.013909224011713031,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.commercial": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0034285714285714284,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 2,
+          "average": 0.0014641288433382138,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.education": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 4,
+          "average": 0.004571428571428572,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 7,
+          "average": 0.005124450951683748,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 1,
+          "average": 0.030303030303030304,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 2,
+          "average": 0.09090909090909091,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.exhibition": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0007320644216691069,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.government": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 36,
+          "average": 0.04114285714285714,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0029282576866764276,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.hospital": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 12,
+          "average": 0.013714285714285714,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 8,
+          "average": 0.06504065040650407,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 6,
+          "average": 0.004392386530014641,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 2,
+          "average": 0.06060606060606061,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.hotel": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 68,
+          "average": 0.07771428571428571,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 15,
+          "average": 0.12195121951219512,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 219,
+          "average": 0.1603221083455344,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 6,
+          "average": 0.18181818181818182,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 7,
+          "average": 0.3181818181818182,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.industrial": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.library": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 1,
+          "average": 0.001142857142857143,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.multiple": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008130081300813009,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0007320644216691069,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.museum": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.observation": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 5,
+          "average": 0.005714285714285714,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0029282576866764276,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.office": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 689,
+          "average": 0.7874285714285715,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 92,
+          "average": 0.7479674796747967,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 178,
+          "average": 0.13030746705710103,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 19,
+          "average": 0.5757575757575758,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 12,
+          "average": 0.5454545454545454,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 4,
+          "average": 0.4444444444444444,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         }
       },
       "purposes.other": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 5,
+          "average": 0.005714285714285714,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0021961932650073207,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.religious": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 2,
+          "average": 0.002285714285714286,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.residential": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 88,
+          "average": 0.10057142857142858,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 21,
+          "average": 0.17073170731707318,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1057,
+          "average": 0.773792093704246,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 10,
+          "average": 0.30303030303030304,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 11,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         }
       },
       "purposes.retail": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 11,
+          "average": 0.012571428571428572,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008130081300813009,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 34,
+          "average": 0.024890190336749635,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 2,
+          "average": 0.06060606060606061,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 3,
+          "average": 0.13636363636363635,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.serviced apartments": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0007320644216691069,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.telecommunications": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 2,
+          "average": 0.002285714285714286,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0007320644216691069,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "precast": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "statistics.floors above": {
@@ -1412,26 +1412,26 @@ VISUALIZER_DATA_BARS = [
       "status.completed.is completed": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 864,
+          "average": 0.9874285714285714,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 118,
+          "average": 0.959349593495935,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 1266,
+          "average": 0.9267935578330894,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 31,
+          "average": 0.9393939393939394,
           "average w/o zero": 1
         },
         "concrete/steel": {
@@ -1500,38 +1500,38 @@ VISUALIZER_DATA_BARS = [
       "status.started.is started": {
         "steel": {
           "count": 875,
-          "sum": 875,
-          "average": 1,
+          "sum": 465,
+          "average": 0.5314285714285715,
           "average w/o zero": 1
         },
         "composite": {
           "count": 123,
-          "sum": 123,
-          "average": 1,
+          "sum": 91,
+          "average": 0.7398373983739838,
           "average w/o zero": 1
         },
         "concrete": {
           "count": 1366,
-          "sum": 1366,
-          "average": 1,
+          "sum": 920,
+          "average": 0.6734992679355783,
           "average w/o zero": 1
         },
         "steel/concrete": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 28,
+          "average": 0.8484848484848485,
           "average w/o zero": 1
         },
         "concrete/steel": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
+          "sum": 21,
+          "average": 0.9545454545454546,
           "average w/o zero": 1
         },
         "masonry": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 6,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "precast": {
@@ -6452,440 +6452,440 @@ VISUALIZER_DATA_BARS = [
       "purposes.abandoned": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 2,
+          "average": 0.00477326968973747,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 1,
+          "average": 0.047619047619047616,
           "average w/o zero": 1
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Providence": {
@@ -6896,471 +6896,471 @@ VISUALIZER_DATA_BARS = [
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
@@ -7370,3425 +7370,3425 @@ VISUALIZER_DATA_BARS = [
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.air traffic control tower": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 1,
+          "average": 0.014705882352941176,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.belltower": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.bridge": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0015625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.casino": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 15,
+          "average": 0.2777777777777778,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 5,
+          "average": 0.625,
           "average w/o zero": 1
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
@@ -10798,189 +10798,189 @@ VISUALIZER_DATA_BARS = [
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
@@ -10990,1067 +10990,1067 @@ VISUALIZER_DATA_BARS = [
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.commercial": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 2,
+          "average": 0.003125,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007692307692307693,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 1,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
@@ -12060,1013 +12060,1013 @@ VISUALIZER_DATA_BARS = [
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.education": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 7,
+          "average": 0.016706443914081145,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0046875,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02564102564102564,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 1,
+          "average": 0.06666666666666667,
           "average w/o zero": 1
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
@@ -13076,1483 +13076,1483 @@ VISUALIZER_DATA_BARS = [
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.exhibition": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.government": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 4,
+          "average": 0.00954653937947494,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 5,
+          "average": 0.0078125,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01818181818181818,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007692307692307693,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 3,
+          "average": 0.17647058823529413,
           "average w/o zero": 1
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 1,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 1,
+          "average": 0.024390243902439025,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 3,
+          "average": 0.07894736842105263,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0625,
           "average w/o zero": 1
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
+          "sum": 1,
+          "average": 0.09090909090909091,
           "average w/o zero": 1
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 2,
+          "average": 0.13333333333333333,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 2,
+          "average": 0.13333333333333333,
           "average w/o zero": 1
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 1,
+          "average": 0.041666666666666664,
           "average w/o zero": 1
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
@@ -14562,177 +14562,177 @@ VISUALIZER_DATA_BARS = [
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 1,
+          "average": 0.06666666666666667,
           "average w/o zero": 1
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 1,
+          "average": 0.08333333333333333,
           "average w/o zero": 1
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
@@ -14742,75 +14742,75 @@ VISUALIZER_DATA_BARS = [
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 4,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 1,
+          "average": 0.125,
           "average w/o zero": 1
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
@@ -14820,81 +14820,81 @@ VISUALIZER_DATA_BARS = [
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
@@ -14904,165 +14904,165 @@ VISUALIZER_DATA_BARS = [
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
@@ -15072,9 +15072,9 @@ VISUALIZER_DATA_BARS = [
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
@@ -15084,63 +15084,63 @@ VISUALIZER_DATA_BARS = [
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
@@ -15150,869 +15150,869 @@ VISUALIZER_DATA_BARS = [
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.hospital": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 9,
+          "average": 0.021479713603818614,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0046875,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 5,
+          "average": 0.07352941176470588,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02631578947368421,
           "average w/o zero": 1
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02631578947368421,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 3,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 2,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
@@ -16022,250 +16022,250 @@ VISUALIZER_DATA_BARS = [
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.hotel": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 44,
+          "average": 0.10501193317422435,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 80,
+          "average": 0.125,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 3,
+          "average": 0.04411764705882353,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 33,
+          "average": 0.6111111111111112,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 3,
+          "average": 0.07894736842105263,
           "average w/o zero": 1
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 3,
+          "average": 0.05454545454545454,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 3,
+          "average": 0.23076923076923078,
           "average w/o zero": 1
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 6,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 16,
+          "average": 0.12307692307692308,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 2,
+          "average": 0.11764705882352941,
           "average w/o zero": 1
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 9,
+          "average": 0.13846153846153847,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 4,
+          "average": 0.14814814814814814,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 1,
+          "average": 0.07692307692307693,
           "average w/o zero": 1
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 6,
+          "average": 0.08823529411764706,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 3,
+          "average": 0.07692307692307693,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 5,
+          "average": 0.12195121951219512,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02631578947368421,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 3,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "Atlantic City": {
@@ -16276,159 +16276,159 @@ VISUALIZER_DATA_BARS = [
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 4,
+          "average": 0.3076923076923077,
           "average w/o zero": 1
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
+          "sum": 3,
+          "average": 0.1875,
           "average w/o zero": 1
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 1,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 4,
+          "average": 0.19047619047619047,
           "average w/o zero": 1
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 2,
+          "average": 0.15384615384615385,
           "average w/o zero": 1
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
+          "sum": 2,
+          "average": 0.06896551724137931,
           "average w/o zero": 1
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
+          "sum": 1,
+          "average": 0.09090909090909091,
           "average w/o zero": 1
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 3,
+          "average": 0.6,
           "average w/o zero": 1
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 2,
+          "average": 0.11764705882352941,
           "average w/o zero": 1
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 3,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 4,
+          "average": 0.19047619047619047,
           "average w/o zero": 1
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 1,
+          "average": 0.06666666666666667,
           "average w/o zero": 1
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 2,
+          "average": 0.11764705882352941,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
@@ -16438,21 +16438,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 6,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
@@ -16462,141 +16462,141 @@ VISUALIZER_DATA_BARS = [
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 2,
+          "average": 0.11764705882352941,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2857142857142857,
           "average w/o zero": 1
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 15,
+          "average": 0.2459016393442623,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
@@ -16606,177 +16606,177 @@ VISUALIZER_DATA_BARS = [
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 1,
+          "average": 0.08333333333333333,
           "average w/o zero": 1
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 1,
+          "average": 0.16666666666666666,
           "average w/o zero": 1
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
@@ -16786,9 +16786,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
@@ -16798,69 +16798,69 @@ VISUALIZER_DATA_BARS = [
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
@@ -16870,15 +16870,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
@@ -16888,51 +16888,51 @@ VISUALIZER_DATA_BARS = [
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
@@ -16942,99 +16942,99 @@ VISUALIZER_DATA_BARS = [
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
@@ -17044,15 +17044,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
@@ -17062,4140 +17062,4140 @@ VISUALIZER_DATA_BARS = [
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.industrial": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.library": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.multiple": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 1,
+          "average": 0.002386634844868735,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 1,
+          "average": 0.08333333333333333,
           "average w/o zero": 1
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.museum": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.observation": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0015625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 1,
+          "average": 0.018518518518518517,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 1,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 1,
+          "average": 0.037037037037037035,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 1,
+          "average": 0.014705882352941176,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 1,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "La Porte": {
@@ -21206,15 +21206,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
@@ -21224,273 +21224,273 @@ VISUALIZER_DATA_BARS = [
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
@@ -21500,526 +21500,526 @@ VISUALIZER_DATA_BARS = [
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.office": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 116,
+          "average": 0.27684964200477324,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 273,
+          "average": 0.4265625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 45,
+          "average": 0.6617647058823529,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 22,
+          "average": 0.5789473684210527,
           "average w/o zero": 1
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 38,
+          "average": 0.6909090909090909,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 4,
+          "average": 0.3076923076923077,
           "average w/o zero": 1
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 18,
+          "average": 0.42857142857142855,
           "average w/o zero": 1
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 19,
+          "average": 0.14615384615384616,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 12,
+          "average": 0.7058823529411765,
           "average w/o zero": 1
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 35,
+          "average": 0.5384615384615384,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 17,
+          "average": 0.6296296296296297,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 8,
+          "average": 0.6153846153846154,
           "average w/o zero": 1
         },
         "Midland": {
@@ -22030,8 +22030,8 @@ VISUALIZER_DATA_BARS = [
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 51,
+          "average": 0.75,
           "average w/o zero": 1
         },
         "Oklahoma City": {
@@ -22042,26 +22042,26 @@ VISUALIZER_DATA_BARS = [
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 31,
+          "average": 0.7948717948717948,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 25,
+          "average": 0.6097560975609756,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 23,
+          "average": 0.6052631578947368,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
+          "sum": 2,
+          "average": 0.07692307692307693,
           "average w/o zero": 1
         },
         "Mobile": {
@@ -22072,44 +22072,44 @@ VISUALIZER_DATA_BARS = [
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 16,
+          "average": 0.7619047619047619,
           "average w/o zero": 1
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 7,
+          "average": 0.5384615384615384,
           "average w/o zero": 1
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
+          "sum": 10,
+          "average": 0.625,
           "average w/o zero": 1
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 5,
+          "average": 0.5555555555555556,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 4,
+          "average": 0.5714285714285714,
           "average w/o zero": 1
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 5,
+          "average": 0.23809523809523808,
           "average w/o zero": 1
         },
         "Tulsa": {
@@ -22120,15 +22120,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 10,
+          "average": 0.7692307692307693,
           "average w/o zero": 1
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
@@ -22138,57 +22138,57 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
+          "sum": 7,
+          "average": 0.6363636363636364,
           "average w/o zero": 1
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 2,
+          "average": 0.4,
           "average w/o zero": 1
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 6,
+          "average": 0.35294117647058826,
           "average w/o zero": 1
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 6,
+          "average": 0.4,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 10,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
@@ -22198,8 +22198,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 7,
+          "average": 0.5833333333333334,
           "average w/o zero": 1
         },
         "Raleigh": {
@@ -22210,99 +22210,99 @@ VISUALIZER_DATA_BARS = [
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 3,
+          "average": 0.75,
           "average w/o zero": 1
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 9,
+          "average": 0.5294117647058824,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 2,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 6,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 12,
+          "average": 0.7058823529411765,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
@@ -22312,50 +22312,50 @@ VISUALIZER_DATA_BARS = [
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 3,
+          "average": 0.42857142857142855,
           "average w/o zero": 1
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 1,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 4,
+          "average": 0.06557377049180328,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 3,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Fort Wayne": {
@@ -22366,26 +22366,26 @@ VISUALIZER_DATA_BARS = [
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 10,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Oakbrook": {
@@ -22396,21 +22396,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
@@ -22420,14 +22420,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Dayton": {
@@ -22444,9 +22444,9 @@ VISUALIZER_DATA_BARS = [
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
@@ -22456,38 +22456,38 @@ VISUALIZER_DATA_BARS = [
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Itasca": {
@@ -22498,14 +22498,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 1,
+          "average": 0.16666666666666666,
           "average w/o zero": 1
         },
         "Arlington": {
@@ -22516,21 +22516,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
@@ -22540,32 +22540,32 @@ VISUALIZER_DATA_BARS = [
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 5,
+          "average": 0.625,
           "average w/o zero": 1
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 1,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Glendale": {
@@ -22576,21 +22576,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
@@ -22600,9 +22600,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
@@ -22618,9 +22618,9 @@ VISUALIZER_DATA_BARS = [
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
@@ -22642,9 +22642,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
@@ -22654,8 +22654,8 @@ VISUALIZER_DATA_BARS = [
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Roanoke": {
@@ -22672,9 +22672,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
@@ -22684,21 +22684,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
@@ -22732,9 +22732,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
@@ -22744,15 +22744,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
@@ -22774,9 +22774,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
@@ -22792,9 +22792,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
@@ -22804,27 +22804,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
@@ -22834,304 +22834,304 @@ VISUALIZER_DATA_BARS = [
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.other": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 4,
+          "average": 0.00954653937947494,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0046875,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "La Porte": {
@@ -23142,1890 +23142,1890 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.religious": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 1,
+          "average": 0.002386634844868735,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0015625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 1,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.residential": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 267,
+          "average": 0.6372315035799523,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 317,
+          "average": 0.4953125,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 21,
+          "average": 0.3088235294117647,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 24,
+          "average": 0.4444444444444444,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 17,
+          "average": 0.4473684210526316,
           "average w/o zero": 1
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 15,
+          "average": 0.2727272727272727,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 7,
+          "average": 0.5384615384615384,
           "average w/o zero": 1
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 22,
+          "average": 0.5238095238095238,
           "average w/o zero": 1
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 111,
+          "average": 0.8538461538461538,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 1,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 25,
+          "average": 0.38461538461538464,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 6,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 5,
+          "average": 0.38461538461538464,
           "average w/o zero": 1
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 15,
+          "average": 0.22058823529411764,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 8,
+          "average": 0.20512820512820512,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 12,
+          "average": 0.2926829268292683,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 12,
+          "average": 0.3157894736842105,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
+          "sum": 24,
+          "average": 0.9230769230769231,
           "average w/o zero": 1
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 1,
+          "average": 0.047619047619047616,
           "average w/o zero": 1
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 3,
+          "average": 0.23076923076923078,
           "average w/o zero": 1
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
+          "sum": 3,
+          "average": 0.1875,
           "average w/o zero": 1
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 4,
+          "average": 0.5714285714285714,
           "average w/o zero": 1
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 14,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 1,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 2,
+          "average": 0.15384615384615385,
           "average w/o zero": 1
         },
         "Sunny Isles Beach": {
@@ -25036,110 +25036,110 @@ VISUALIZER_DATA_BARS = [
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
+          "sum": 3,
+          "average": 0.2727272727272727,
           "average w/o zero": 1
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 11,
+          "average": 0.6470588235294118,
           "average w/o zero": 1
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 5,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 5,
+          "average": 0.5555555555555556,
           "average w/o zero": 1
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 20,
+          "average": 0.9523809523809523,
           "average w/o zero": 1
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 2,
+          "average": 0.13333333333333333,
           "average w/o zero": 1
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 5,
+          "average": 0.4166666666666667,
           "average w/o zero": 1
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 6,
+          "average": 0.35294117647058826,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 4,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Virginia Beach": {
@@ -25156,8 +25156,8 @@ VISUALIZER_DATA_BARS = [
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 13,
+          "average": 0.5416666666666666,
           "average w/o zero": 1
         },
         "Fort Lee": {
@@ -25168,9 +25168,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
@@ -25180,93 +25180,93 @@ VISUALIZER_DATA_BARS = [
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 2,
+          "average": 0.11764705882352941,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 1,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 4,
+          "average": 0.5714285714285714,
           "average w/o zero": 1
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 6,
+          "average": 0.8571428571428571,
           "average w/o zero": 1
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 46,
+          "average": 0.7540983606557377,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 2,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
@@ -25276,27 +25276,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 4,
+          "average": 0.26666666666666666,
           "average w/o zero": 1
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
@@ -25312,15 +25312,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
@@ -25330,21 +25330,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
@@ -25354,21 +25354,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
@@ -25378,51 +25378,51 @@ VISUALIZER_DATA_BARS = [
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
@@ -25438,9 +25438,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
@@ -25450,9 +25450,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
@@ -25462,21 +25462,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
@@ -25492,33 +25492,33 @@ VISUALIZER_DATA_BARS = [
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
@@ -25528,51 +25528,51 @@ VISUALIZER_DATA_BARS = [
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
@@ -25582,26 +25582,26 @@ VISUALIZER_DATA_BARS = [
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "New Brunswick": {
@@ -25612,27 +25612,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
@@ -25642,39 +25642,39 @@ VISUALIZER_DATA_BARS = [
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
@@ -25684,27 +25684,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
@@ -25714,27 +25714,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
@@ -25750,15 +25750,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
@@ -25768,9 +25768,9 @@ VISUALIZER_DATA_BARS = [
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
@@ -25780,8 +25780,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "North Miami Beach": {
@@ -25792,9 +25792,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
@@ -25812,1975 +25812,1975 @@ VISUALIZER_DATA_BARS = [
       "purposes.retail": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 14,
+          "average": 0.03341288782816229,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 8,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 2,
+          "average": 0.029411764705882353,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01818181818181818,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 2,
+          "average": 0.15384615384615385,
           "average w/o zero": 1
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 1,
+          "average": 0.023809523809523808,
           "average w/o zero": 1
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 5,
+          "average": 0.038461538461538464,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 1,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 2,
+          "average": 0.07407407407407407,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 2,
+          "average": 0.029411764705882353,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02564102564102564,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 1,
+          "average": 0.047619047619047616,
           "average w/o zero": 1
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 1,
+          "average": 0.07692307692307693,
           "average w/o zero": 1
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 1,
+          "average": 0.06666666666666667,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 1,
+          "average": 0.08333333333333333,
           "average w/o zero": 1
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 1,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01639344262295082,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 1,
+          "average": 0.1111111111111111,
           "average w/o zero": 1
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 4,
+          "average": 0.26666666666666666,
           "average w/o zero": 1
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.serviced apartments": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007692307692307693,
           "average w/o zero": 1
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "purposes.telecommunications": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0015625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 1,
+          "average": 0.018518518518518517,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shorewood": {
           "count": 1,
@@ -27790,927 +27790,927 @@ VISUALIZER_DATA_BARS = [
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cleveland": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mobile": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Omaha": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "La Porte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Washington D.C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Raleigh": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cape Canaveral": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Virginia Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hallandale Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newark": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baton Rouge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Des Moines": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hollywood": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Wayne": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Rochelle": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Grand Rapids": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lincoln (NE)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arlington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Haven": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Roanoke": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoboken": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "New Brunswick": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lansing": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Michigan City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cambridge": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lubbock": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Newport": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Billings": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Charleston": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ventnor City": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "East Chicago": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portland (ME)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "statistics.floors above": {
@@ -32588,26 +32588,26 @@ VISUALIZER_DATA_BARS = [
       "status.completed.is completed": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 393,
+          "average": 0.9379474940334129,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 609,
+          "average": 0.9515625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 66,
+          "average": 0.9705882352941176,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 48,
+          "average": 0.8888888888888888,
           "average w/o zero": 1
         },
         "Philadelphia": {
@@ -32618,8 +32618,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 52,
+          "average": 0.9454545454545454,
           "average w/o zero": 1
         },
         "Shorewood": {
@@ -32630,8 +32630,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 12,
+          "average": 0.9230769230769231,
           "average w/o zero": 1
         },
         "Atlanta": {
@@ -32642,8 +32642,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 117,
+          "average": 0.9,
           "average w/o zero": 1
         },
         "Cleveland": {
@@ -32654,32 +32654,32 @@ VISUALIZER_DATA_BARS = [
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 62,
+          "average": 0.9538461538461539,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 23,
+          "average": 0.8518518518518519,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 12,
+          "average": 0.9230769230769231,
           "average w/o zero": 1
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 67,
+          "average": 0.9852941176470589,
           "average w/o zero": 1
         },
         "Oklahoma City": {
@@ -32696,20 +32696,20 @@ VISUALIZER_DATA_BARS = [
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 39,
+          "average": 0.9512195121951219,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 37,
+          "average": 0.9736842105263158,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
+          "sum": 24,
+          "average": 0.9230769230769231,
           "average w/o zero": 1
         },
         "Mobile": {
@@ -32726,8 +32726,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Atlantic City": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 7,
+          "average": 0.875,
           "average w/o zero": 1
         },
         "Denver": {
@@ -32750,8 +32750,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 5,
+          "average": 0.7142857142857143,
           "average w/o zero": 1
         },
         "Austin": {
@@ -32774,8 +32774,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
+          "sum": 27,
+          "average": 0.9310344827586207,
           "average w/o zero": 1
         },
         "Omaha": {
@@ -32798,8 +32798,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 14,
+          "average": 0.8235294117647058,
           "average w/o zero": 1
         },
         "St. Louis": {
@@ -32810,8 +32810,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 7,
+          "average": 0.7777777777777778,
           "average w/o zero": 1
         },
         "La Porte": {
@@ -32822,8 +32822,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 20,
+          "average": 0.9523809523809523,
           "average w/o zero": 1
         },
         "Columbus": {
@@ -32882,8 +32882,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 5,
+          "average": 0.8333333333333334,
           "average w/o zero": 1
         },
         "Virginia Beach": {
@@ -32900,8 +32900,8 @@ VISUALIZER_DATA_BARS = [
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 23,
+          "average": 0.9583333333333334,
           "average w/o zero": 1
         },
         "Fort Lee": {
@@ -32924,8 +32924,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 16,
+          "average": 0.9411764705882353,
           "average w/o zero": 1
         },
         "St. Paul": {
@@ -32978,14 +32978,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 59,
+          "average": 0.9672131147540983,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Fort Worth": {
@@ -33086,8 +33086,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "South Padre Island": {
@@ -33098,8 +33098,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 11,
+          "average": 0.9166666666666666,
           "average w/o zero": 1
         },
         "Southfield": {
@@ -33212,8 +33212,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Fort Myers": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "Glendale": {
@@ -33542,9 +33542,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
@@ -34524,62 +34524,62 @@ VISUALIZER_DATA_BARS = [
       "status.started.is started": {
         "Chicago": {
           "count": 419,
-          "sum": 419,
-          "average": 1,
+          "sum": 307,
+          "average": 0.7326968973747017,
           "average w/o zero": 1
         },
         "New York City": {
           "count": 640,
-          "sum": 640,
-          "average": 1,
+          "sum": 394,
+          "average": 0.615625,
           "average w/o zero": 1
         },
         "Houston": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 37,
+          "average": 0.5441176470588235,
           "average w/o zero": 1
         },
         "Las Vegas": {
           "count": 54,
-          "sum": 54,
-          "average": 1,
+          "sum": 48,
+          "average": 0.8888888888888888,
           "average w/o zero": 1
         },
         "Philadelphia": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 23,
+          "average": 0.6052631578947368,
           "average w/o zero": 1
         },
         "Los Angeles": {
           "count": 55,
-          "sum": 55,
-          "average": 1,
+          "sum": 23,
+          "average": 0.41818181818181815,
           "average w/o zero": 1
         },
         "Shorewood": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nashville": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 6,
+          "average": 0.46153846153846156,
           "average w/o zero": 1
         },
         "Atlanta": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 26,
+          "average": 0.6190476190476191,
           "average w/o zero": 1
         },
         "Miami": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 98,
+          "average": 0.7538461538461538,
           "average w/o zero": 1
         },
         "Cleveland": {
@@ -34590,62 +34590,62 @@ VISUALIZER_DATA_BARS = [
         },
         "Seattle": {
           "count": 65,
-          "sum": 65,
-          "average": 1,
+          "sum": 45,
+          "average": 0.6923076923076923,
           "average w/o zero": 1
         },
         "Dallas": {
           "count": 27,
-          "sum": 27,
-          "average": 1,
+          "sum": 14,
+          "average": 0.5185185185185185,
           "average w/o zero": 1
         },
         "Charlotte": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 12,
+          "average": 0.9230769230769231,
           "average w/o zero": 1
         },
         "Midland": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "San Francisco": {
           "count": 68,
-          "sum": 68,
-          "average": 1,
+          "sum": 29,
+          "average": 0.4264705882352941,
           "average w/o zero": 1
         },
         "Oklahoma City": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "Pittsburgh": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 18,
+          "average": 0.46153846153846156,
           "average w/o zero": 1
         },
         "Minneapolis": {
           "count": 41,
-          "sum": 41,
-          "average": 1,
+          "sum": 31,
+          "average": 0.7560975609756098,
           "average w/o zero": 1
         },
         "Boston": {
           "count": 38,
-          "sum": 38,
-          "average": 1,
+          "sum": 15,
+          "average": 0.39473684210526316,
           "average w/o zero": 1
         },
         "Jersey City": {
           "count": 26,
-          "sum": 26,
-          "average": 1,
+          "sum": 20,
+          "average": 0.7692307692307693,
           "average w/o zero": 1
         },
         "Mobile": {
@@ -34656,8 +34656,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Detroit": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 18,
+          "average": 0.8571428571428571,
           "average w/o zero": 1
         },
         "Atlantic City": {
@@ -34668,50 +34668,50 @@ VISUALIZER_DATA_BARS = [
         },
         "Denver": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 7,
+          "average": 0.5384615384615384,
           "average w/o zero": 1
         },
         "Indianapolis": {
           "count": 16,
-          "sum": 16,
-          "average": 1,
+          "sum": 11,
+          "average": 0.6875,
           "average w/o zero": 1
         },
         "New Orleans": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 5,
+          "average": 0.5555555555555556,
           "average w/o zero": 1
         },
         "Tampa": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 5,
+          "average": 0.7142857142857143,
           "average w/o zero": 1
         },
         "Austin": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 19,
+          "average": 0.9047619047619048,
           "average w/o zero": 1
         },
         "Tulsa": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cincinnati": {
           "count": 13,
-          "sum": 13,
-          "average": 1,
+          "sum": 3,
+          "average": 0.23076923076923078,
           "average w/o zero": 1
         },
         "Sunny Isles Beach": {
           "count": 29,
-          "sum": 29,
-          "average": 1,
+          "sum": 23,
+          "average": 0.7931034482758621,
           "average w/o zero": 1
         },
         "Omaha": {
@@ -34722,32 +34722,32 @@ VISUALIZER_DATA_BARS = [
         },
         "Kansas City": {
           "count": 11,
-          "sum": 11,
-          "average": 1,
+          "sum": 7,
+          "average": 0.6363636363636364,
           "average w/o zero": 1
         },
         "San Antonio": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "Milwaukee": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 10,
+          "average": 0.5882352941176471,
           "average w/o zero": 1
         },
         "St. Louis": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 9,
+          "average": 0.6,
           "average w/o zero": 1
         },
         "Orlando": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 5,
+          "average": 0.5555555555555556,
           "average w/o zero": 1
         },
         "La Porte": {
@@ -34758,14 +34758,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Miami Beach": {
           "count": 21,
-          "sum": 21,
-          "average": 1,
+          "sum": 13,
+          "average": 0.6190476190476191,
           "average w/o zero": 1
         },
         "Columbus": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 8,
+          "average": 0.5333333333333333,
           "average w/o zero": 1
         },
         "Washington D.C.": {
@@ -34776,14 +34776,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Louisville": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 3,
+          "average": 0.6,
           "average w/o zero": 1
         },
         "Portland": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 11,
+          "average": 0.9166666666666666,
           "average w/o zero": 1
         },
         "Raleigh": {
@@ -34794,20 +34794,20 @@ VISUALIZER_DATA_BARS = [
         },
         "Jacksonville": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Baltimore": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 11,
+          "average": 0.6470588235294118,
           "average w/o zero": 1
         },
         "Hartford": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 2,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Cape Canaveral": {
@@ -34818,8 +34818,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Evanston": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 4,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Virginia Beach": {
@@ -34836,21 +34836,21 @@ VISUALIZER_DATA_BARS = [
         },
         "San Diego": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 12,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Fort Lee": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Montville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "White Plains": {
           "count": 4,
@@ -34860,14 +34860,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Phoenix": {
           "count": 17,
-          "sum": 17,
-          "average": 1,
+          "sum": 8,
+          "average": 0.47058823529411764,
           "average w/o zero": 1
         },
         "St. Paul": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Newark": {
@@ -34878,8 +34878,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Winston-Salem": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "Baton Rouge": {
@@ -34896,8 +34896,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Bellevue": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 5,
+          "average": 0.7142857142857143,
           "average w/o zero": 1
         },
         "Des Moines": {
@@ -34908,21 +34908,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Fort Lauderdale": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
+          "sum": 5,
+          "average": 0.7142857142857143,
           "average w/o zero": 1
         },
         "Honolulu": {
           "count": 61,
-          "sum": 61,
-          "average": 1,
+          "sum": 24,
+          "average": 0.39344262295081966,
           "average w/o zero": 1
         },
         "Norfolk": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fort Worth": {
           "count": 2,
@@ -34938,8 +34938,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Rochester": {
           "count": 9,
-          "sum": 9,
-          "average": 1,
+          "sum": 6,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Fort Wayne": {
@@ -34956,51 +34956,51 @@ VISUALIZER_DATA_BARS = [
         },
         "Memphis": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Providence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Salt Lake City": {
           "count": 15,
-          "sum": 15,
-          "average": 1,
+          "sum": 10,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Oakbrook": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aventura": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Guttenberg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Reno": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lexington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clayton": {
           "count": 2,
@@ -35016,33 +35016,33 @@ VISUALIZER_DATA_BARS = [
         },
         "Dayton": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Oakland": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "South Padre Island": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Sacramento": {
           "count": 12,
-          "sum": 12,
-          "average": 1,
+          "sum": 2,
+          "average": 0.16666666666666666,
           "average w/o zero": 1
         },
         "Southfield": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Agawam": {
           "count": 1,
@@ -35052,14 +35052,14 @@ VISUALIZER_DATA_BARS = [
         },
         "Riviera Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Toledo": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Lincoln (NE)": {
@@ -35070,26 +35070,26 @@ VISUALIZER_DATA_BARS = [
         },
         "Long Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Itasca": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Birmingham (AL)": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Albany": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
+          "sum": 2,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Arlington": {
@@ -35100,9 +35100,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Bristol (CT)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Galveston": {
           "count": 2,
@@ -35112,33 +35112,33 @@ VISUALIZER_DATA_BARS = [
         },
         "St. Petersburg (FL)": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 3,
+          "average": 0.75,
           "average w/o zero": 1
         },
         "Bloomington": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pearl City (Oahu)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buffalo": {
           "count": 8,
-          "sum": 8,
-          "average": 1,
+          "sum": 6,
+          "average": 0.75,
           "average w/o zero": 1
         },
         "Orange Beach": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camden": {
           "count": 1,
@@ -35154,15 +35154,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Glendale": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Marco Island": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tempe": {
           "count": 2,
@@ -35172,9 +35172,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Alexandria (VA)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tacoma": {
           "count": 1,
@@ -35184,9 +35184,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Biloxi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Richmond": {
           "count": 1,
@@ -35196,33 +35196,33 @@ VISUALIZER_DATA_BARS = [
         },
         "Bethlehem": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "West Palm Beach": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Akron": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Wilmington": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Tucson": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tallahassee": {
           "count": 1,
@@ -35250,8 +35250,8 @@ VISUALIZER_DATA_BARS = [
         },
         "Boise": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Hoboken": {
@@ -35262,26 +35262,26 @@ VISUALIZER_DATA_BARS = [
         },
         "Syracuse": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covington": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 2,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "Boca Raton": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Springfield (MA)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "New Brunswick": {
@@ -35298,27 +35298,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Anchorage": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartlesville": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Worcester": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Peoria": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Waco": {
           "count": 1,
@@ -35340,14 +35340,14 @@ VISUALIZER_DATA_BARS = [
         },
         "West Sacramento": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Manchester (NH)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Lubbock": {
@@ -35376,21 +35376,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Bethesda": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Harrisburg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Portsmouth (RI)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bismarck": {
           "count": 1,
@@ -35400,21 +35400,21 @@ VISUALIZER_DATA_BARS = [
         },
         "El Paso": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "Asheville": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAllen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Oak Park": {
           "count": 1,
@@ -35430,15 +35430,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Fargo": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Meridian": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Silver Spring": {
           "count": 1,
@@ -35460,15 +35460,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Gary": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 1,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "North Miami Beach": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Binghamton": {
           "count": 1,
@@ -35478,15 +35478,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Joliet": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Royal Oak": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "status.started.year": {

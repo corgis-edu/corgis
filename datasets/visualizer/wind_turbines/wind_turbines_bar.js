@@ -2129,7 +2129,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2
         }
       },
-      "Site.Latitude": {
+      "Site.Longitude": {
         "IA": {
           "count": 5889,
           "sum": -554625.616291,
@@ -2395,7 +2395,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Site.Longitude": {
+      "Site.Latitude": {
         "IA": {
           "count": 5889,
           "sum": 249817.927904,
@@ -4421,7 +4421,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 1
         }
       },
-      "Site.Latitude": {
+      "Site.Longitude": {
         "2017": {
           "count": 3020,
           "sum": -292967.498942,
@@ -4633,7 +4633,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 0
         }
       },
-      "Site.Longitude": {
+      "Site.Latitude": {
         "2017": {
           "count": 3020,
           "sum": 112497.075179,

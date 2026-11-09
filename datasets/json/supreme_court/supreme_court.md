@@ -47,7 +47,7 @@ Download the following file:
     <td>3_judge_dc</td>
     <td>Boolean</td> 
     <td>whether the case was heard by a three-judge federal district court (occasionally called ��as specially constituted district court��)</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -112,7 +112,7 @@ pertains</td>
     <td>decision.dissent agrees</td>
     <td>Boolean</td> 
     <td>whether the dissenting opinion and the majority in a case both support (1) or, conversely, oppose (0) the issue to which the case pertains</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -231,7 +231,7 @@ pertains</td>
     <td>lower court.disagreement?</td>
     <td>Boolean</td> 
     <td>the Supreme Court's majority opinion mentioned that one or more of the members of the court whose decision the Supreme Court reviewed dissented</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -315,14 +315,14 @@ pertains</td>
     <td>voting.split on second</td>
     <td>Boolean</td> 
     <td>whether the vote variables (e.g., majVotes, minVotes) pertain to the vote on the second issue</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>voting.unclear</td>
     <td>Boolean</td> 
     <td>whether the vote was not clearly specified</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -378,7 +378,7 @@ pertains</td>
     <td>decision.case.unusual</td>
     <td>Boolean</td> 
     <td>whether the Court made an unusual disposition of the cited case which does not match the coding scheme of the preceding variable</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>

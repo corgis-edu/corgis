@@ -6,11 +6,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3624622,
@@ -26,12 +26,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 111442,
@@ -48,11 +48,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9036,
@@ -69,11 +69,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 67182,
@@ -90,11 +90,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5264,
@@ -111,11 +111,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6641,
@@ -130,13 +130,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 77142,
@@ -153,10 +153,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -173,11 +173,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -195,11 +195,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 50088,
@@ -215,12 +215,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6513,
@@ -235,13 +235,13 @@
     "Brand": "E-Trade",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 103433,
@@ -257,12 +257,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1475,
@@ -279,11 +279,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 2801,
@@ -300,10 +300,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -320,10 +320,10 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -341,11 +341,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -362,11 +362,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -382,12 +382,12 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -403,13 +403,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 121400,
@@ -425,12 +425,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 63129,
@@ -447,11 +447,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38574,
@@ -467,11 +467,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -489,10 +489,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -510,8 +510,8 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -531,9 +531,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -551,12 +551,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 13245,
@@ -573,11 +573,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 177285,
@@ -594,11 +594,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 175482,
@@ -613,13 +613,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 18670,
@@ -636,8 +636,8 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -657,10 +657,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -678,11 +678,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 2732,
@@ -699,11 +699,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3754,
@@ -720,11 +720,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16083,
@@ -740,11 +740,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -762,11 +762,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 27378,
@@ -781,13 +781,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1939823,
@@ -803,12 +803,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 327529,
@@ -825,9 +825,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -846,11 +846,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 112297,
@@ -866,12 +866,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 179695,
@@ -887,10 +887,10 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -909,11 +909,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 55676,
@@ -929,9 +929,9 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -951,11 +951,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 561,
@@ -972,10 +972,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -993,11 +993,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5699,
@@ -1014,10 +1014,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1035,8 +1035,8 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -1055,12 +1055,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16997,
@@ -1077,9 +1077,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1098,9 +1098,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1119,9 +1119,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1140,9 +1140,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1161,11 +1161,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 111,
@@ -1181,11 +1181,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1202,10 +1202,10 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1224,11 +1224,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 69440,
@@ -1245,10 +1245,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1266,11 +1266,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 120196,
@@ -1287,11 +1287,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 85274,
@@ -1308,11 +1308,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 95355,
@@ -1328,12 +1328,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 142310,
@@ -1350,11 +1350,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 955616,
@@ -1371,10 +1371,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1390,13 +1390,13 @@
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 286010,
@@ -1411,13 +1411,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 249186,
@@ -1434,10 +1434,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1455,11 +1455,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 72997,
@@ -1476,11 +1476,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 218329,
@@ -1497,11 +1497,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 177497,
@@ -1517,12 +1517,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 97247,
@@ -1539,9 +1539,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1558,13 +1558,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 48035,
@@ -1579,13 +1579,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 11311,
@@ -1600,13 +1600,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 186,
@@ -1623,11 +1623,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 162,
@@ -1644,10 +1644,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1667,8 +1667,8 @@
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1686,11 +1686,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 232124,
@@ -1707,11 +1707,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 598260,
@@ -1727,11 +1727,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1748,12 +1748,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 555734,
@@ -1770,11 +1770,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 62538,
@@ -1791,10 +1791,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1810,13 +1810,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 13312,
@@ -1831,13 +1831,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 110004,
@@ -1856,9 +1856,9 @@
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 14267,
@@ -1875,11 +1875,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 24595,
@@ -1896,11 +1896,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9335,
@@ -1916,12 +1916,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1452877,
@@ -1938,8 +1938,8 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -1959,11 +1959,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 373684,
@@ -1978,13 +1978,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 503550,
@@ -2001,11 +2001,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 358142,
@@ -2021,12 +2021,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 129399,
@@ -2041,13 +2041,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 302143,
@@ -2064,11 +2064,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 54079,
@@ -2085,11 +2085,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 45799,
@@ -2107,10 +2107,10 @@
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 49339,
@@ -2127,11 +2127,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41379,
@@ -2148,10 +2148,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2169,11 +2169,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 20130,
@@ -2188,13 +2188,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1294,
@@ -2209,13 +2209,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7253,
@@ -2232,10 +2232,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2253,11 +2253,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 219464,
@@ -2272,13 +2272,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 176547,
@@ -2293,13 +2293,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 91378,
@@ -2315,12 +2315,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 85454,
@@ -2337,11 +2337,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 34565,
@@ -2358,11 +2358,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 132054,
@@ -2379,9 +2379,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2398,13 +2398,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 68458,
@@ -2421,11 +2421,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 11608,
@@ -2441,11 +2441,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2464,10 +2464,10 @@
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 42,
@@ -2482,13 +2482,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 113771,
@@ -2505,11 +2505,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 122388,
@@ -2526,10 +2526,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2547,10 +2547,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2567,12 +2567,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 87396,
@@ -2588,12 +2588,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 319,
@@ -2608,13 +2608,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 92,
@@ -2629,13 +2629,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 56,
@@ -2652,11 +2652,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 350,
@@ -2673,11 +2673,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 176373378,
@@ -2692,13 +2692,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 22849816,
@@ -2713,13 +2713,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 582575,
@@ -2734,11 +2734,11 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2755,13 +2755,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 403641,
@@ -2778,8 +2778,8 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -2798,11 +2798,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2818,13 +2818,13 @@
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 21314,
@@ -2840,12 +2840,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 86928,
@@ -2860,13 +2860,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10925,
@@ -2881,13 +2881,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 15776,
@@ -2903,12 +2903,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 21,
@@ -2925,11 +2925,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1264,
@@ -2944,13 +2944,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10,
@@ -2967,9 +2967,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2988,11 +2988,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 576696,
@@ -3007,13 +3007,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 246619,
@@ -3030,10 +3030,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3051,11 +3051,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4302,
@@ -3070,13 +3070,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3667,
@@ -3092,10 +3092,10 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3114,11 +3114,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 394,
@@ -3133,12 +3133,12 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3155,11 +3155,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3175,13 +3175,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1190,
@@ -3196,12 +3196,12 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3219,11 +3219,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7952240,
@@ -3238,13 +3238,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 92878,
@@ -3259,11 +3259,11 @@
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3282,11 +3282,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 25834,
@@ -3301,13 +3301,13 @@
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 17209,
@@ -3322,13 +3322,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 81183,
@@ -3345,11 +3345,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10929,
@@ -3365,11 +3365,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3385,13 +3385,13 @@
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9649,
@@ -3408,10 +3408,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3428,12 +3428,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3900,
@@ -3451,10 +3451,10 @@
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1274288,
@@ -3470,11 +3470,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3490,13 +3490,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 491630,
@@ -3511,13 +3511,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 48617,
@@ -3532,13 +3532,13 @@
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 32091,
@@ -3553,13 +3553,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 79,
@@ -3574,13 +3574,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 998,
@@ -3597,11 +3597,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7621,
@@ -3616,13 +3616,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4921309,
@@ -3639,11 +3639,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6428474,
@@ -3660,11 +3660,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1214968,
@@ -3680,12 +3680,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 156718,
@@ -3700,13 +3700,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 40818,
@@ -3722,12 +3722,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 14395,
@@ -3744,9 +3744,9 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3764,12 +3764,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5049,
@@ -3784,13 +3784,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 136,
@@ -3805,13 +3805,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 28785122,
@@ -3826,13 +3826,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 310443,
@@ -3847,13 +3847,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 865781,
@@ -3869,12 +3869,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 87687,
@@ -3889,13 +3889,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 907,
@@ -3912,11 +3912,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3464175,
@@ -3931,13 +3931,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 669906,
@@ -3955,10 +3955,10 @@
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 353513,
@@ -3975,11 +3975,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 33766,
@@ -3996,11 +3996,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 23327,
@@ -4016,11 +4016,11 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4038,11 +4038,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41441,
@@ -4057,13 +4057,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 39897,
@@ -4078,13 +4078,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 301,
@@ -4099,13 +4099,13 @@
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 198,
@@ -4120,12 +4120,12 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4141,13 +4141,13 @@
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16399,
@@ -4164,11 +4164,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7658201,
@@ -4185,11 +4185,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 77720,
@@ -4206,10 +4206,10 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4225,13 +4225,13 @@
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 81952,
@@ -4246,13 +4246,13 @@
     "Brand": "Doritos",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41828,
@@ -4269,11 +4269,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 128792,
@@ -4290,11 +4290,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 36683,
@@ -4309,13 +4309,13 @@
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6713,
@@ -4330,13 +4330,13 @@
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4873,
@@ -4353,11 +4353,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 125,
@@ -4372,13 +4372,13 @@
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 518,
@@ -4394,12 +4394,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38968,
@@ -4414,13 +4414,13 @@
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 26727063,
@@ -4437,11 +4437,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1990447,
@@ -4457,12 +4457,12 @@
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 304254,
@@ -4479,11 +4479,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38385,
@@ -4498,13 +4498,13 @@
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 29219,
@@ -4521,11 +4521,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 47752,
@@ -4542,11 +4542,11 @@
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 23636,
@@ -4561,13 +4561,13 @@
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 17892,
@@ -4582,13 +4582,13 @@
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 782,

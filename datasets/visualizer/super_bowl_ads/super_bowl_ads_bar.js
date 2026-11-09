@@ -1332,9 +1332,9 @@ VISUALIZER_DATA_BARS = [
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
@@ -1362,9 +1362,9 @@ VISUALIZER_DATA_BARS = [
         },
         "103433": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1475": {
           "count": 1,
@@ -1392,8 +1392,8 @@ VISUALIZER_DATA_BARS = [
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "788": {
@@ -1404,15 +1404,15 @@ VISUALIZER_DATA_BARS = [
         },
         "385777": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "121400": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "63129": {
           "count": 1,
@@ -1470,9 +1470,9 @@ VISUALIZER_DATA_BARS = [
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
@@ -1518,9 +1518,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1939823": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "327529": {
           "count": 1,
@@ -1674,15 +1674,15 @@ VISUALIZER_DATA_BARS = [
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "292010": {
           "count": 1,
@@ -1722,21 +1722,21 @@ VISUALIZER_DATA_BARS = [
         },
         "48035": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11311": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
@@ -1794,15 +1794,15 @@ VISUALIZER_DATA_BARS = [
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14267": {
           "count": 1,
@@ -1842,9 +1842,9 @@ VISUALIZER_DATA_BARS = [
         },
         "503550": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "358142": {
           "count": 1,
@@ -1860,9 +1860,9 @@ VISUALIZER_DATA_BARS = [
         },
         "302143": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "54079": {
           "count": 1,
@@ -1902,15 +1902,15 @@ VISUALIZER_DATA_BARS = [
         },
         "1294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
@@ -1926,15 +1926,15 @@ VISUALIZER_DATA_BARS = [
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
@@ -1962,9 +1962,9 @@ VISUALIZER_DATA_BARS = [
         },
         "68458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11608": {
           "count": 1,
@@ -1986,9 +1986,9 @@ VISUALIZER_DATA_BARS = [
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
@@ -2022,15 +2022,15 @@ VISUALIZER_DATA_BARS = [
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
@@ -2046,27 +2046,27 @@ VISUALIZER_DATA_BARS = [
         },
         "22849816": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "582575": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "220292": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "403641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "116294": {
           "count": 1,
@@ -2082,9 +2082,9 @@ VISUALIZER_DATA_BARS = [
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
@@ -2094,15 +2094,15 @@ VISUALIZER_DATA_BARS = [
         },
         "10925": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "15776": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21": {
           "count": 1,
@@ -2118,9 +2118,9 @@ VISUALIZER_DATA_BARS = [
         },
         "10": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14579": {
           "count": 1,
@@ -2136,9 +2136,9 @@ VISUALIZER_DATA_BARS = [
         },
         "246619": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28847": {
           "count": 1,
@@ -2154,9 +2154,9 @@ VISUALIZER_DATA_BARS = [
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
@@ -2172,9 +2172,9 @@ VISUALIZER_DATA_BARS = [
         },
         "236": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "987": {
           "count": 1,
@@ -2184,15 +2184,15 @@ VISUALIZER_DATA_BARS = [
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7952240": {
           "count": 1,
@@ -2202,15 +2202,15 @@ VISUALIZER_DATA_BARS = [
         },
         "92878": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "134186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "25834": {
           "count": 1,
@@ -2220,15 +2220,15 @@ VISUALIZER_DATA_BARS = [
         },
         "17209": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81183": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10929": {
           "count": 1,
@@ -2244,9 +2244,9 @@ VISUALIZER_DATA_BARS = [
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
@@ -2274,27 +2274,27 @@ VISUALIZER_DATA_BARS = [
         },
         "491630": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "79": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7621": {
           "count": 1,
@@ -2304,9 +2304,9 @@ VISUALIZER_DATA_BARS = [
         },
         "4921309": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6428474": {
           "count": 1,
@@ -2328,9 +2328,9 @@ VISUALIZER_DATA_BARS = [
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
@@ -2352,27 +2352,27 @@ VISUALIZER_DATA_BARS = [
         },
         "136": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28785122": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "310443": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
@@ -2382,9 +2382,9 @@ VISUALIZER_DATA_BARS = [
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
@@ -2394,9 +2394,9 @@ VISUALIZER_DATA_BARS = [
         },
         "669906": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "353513": {
           "count": 1,
@@ -2430,33 +2430,33 @@ VISUALIZER_DATA_BARS = [
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
@@ -2478,15 +2478,15 @@ VISUALIZER_DATA_BARS = [
         },
         "81952": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41828": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "128792": {
           "count": 1,
@@ -2502,15 +2502,15 @@ VISUALIZER_DATA_BARS = [
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
@@ -2520,9 +2520,9 @@ VISUALIZER_DATA_BARS = [
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
@@ -2532,9 +2532,9 @@ VISUALIZER_DATA_BARS = [
         },
         "26727063": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990447": {
           "count": 1,
@@ -2556,9 +2556,9 @@ VISUALIZER_DATA_BARS = [
         },
         "29219": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "47752": {
           "count": 1,
@@ -2574,15 +2574,15 @@ VISUALIZER_DATA_BARS = [
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "Data.Content.Shows Product": {
@@ -2594,9 +2594,9 @@ VISUALIZER_DATA_BARS = [
         },
         "111442": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9036": {
           "count": 1,
@@ -2624,9 +2624,9 @@ VISUALIZER_DATA_BARS = [
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
@@ -2636,9 +2636,9 @@ VISUALIZER_DATA_BARS = [
         },
         "60774": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50088": {
           "count": 1,
@@ -2648,21 +2648,21 @@ VISUALIZER_DATA_BARS = [
         },
         "6513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "103433": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1475": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2801": {
           "count": 1,
@@ -2678,21 +2678,21 @@ VISUALIZER_DATA_BARS = [
         },
         "12106": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "788": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "385777": {
           "count": 1,
@@ -2708,9 +2708,9 @@ VISUALIZER_DATA_BARS = [
         },
         "63129": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38574": {
           "count": 1,
@@ -2720,9 +2720,9 @@ VISUALIZER_DATA_BARS = [
         },
         "67452": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4641": {
           "count": 1,
@@ -2744,9 +2744,9 @@ VISUALIZER_DATA_BARS = [
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
@@ -2762,9 +2762,9 @@ VISUALIZER_DATA_BARS = [
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
@@ -2798,9 +2798,9 @@ VISUALIZER_DATA_BARS = [
         },
         "21813": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "27378": {
           "count": 1,
@@ -2816,9 +2816,9 @@ VISUALIZER_DATA_BARS = [
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
@@ -2834,15 +2834,15 @@ VISUALIZER_DATA_BARS = [
         },
         "179695": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "55676": {
           "count": 1,
@@ -2852,9 +2852,9 @@ VISUALIZER_DATA_BARS = [
         },
         "88445": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "561": {
           "count": 1,
@@ -2888,9 +2888,9 @@ VISUALIZER_DATA_BARS = [
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
@@ -2906,15 +2906,15 @@ VISUALIZER_DATA_BARS = [
         },
         "293": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "746836": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69440": {
           "count": 1,
@@ -2948,9 +2948,9 @@ VISUALIZER_DATA_BARS = [
         },
         "142310": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "955616": {
           "count": 1,
@@ -3002,9 +3002,9 @@ VISUALIZER_DATA_BARS = [
         },
         "97247": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "184689": {
           "count": 1,
@@ -3014,9 +3014,9 @@ VISUALIZER_DATA_BARS = [
         },
         "48035": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11311": {
           "count": 1,
@@ -3026,9 +3026,9 @@ VISUALIZER_DATA_BARS = [
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
@@ -3062,15 +3062,15 @@ VISUALIZER_DATA_BARS = [
         },
         "236941": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
@@ -3116,9 +3116,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1452877": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "640393": {
           "count": 1,
@@ -3146,9 +3146,9 @@ VISUALIZER_DATA_BARS = [
         },
         "129399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "302143": {
           "count": 1,
@@ -3194,9 +3194,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7253": {
           "count": 1,
@@ -3218,21 +3218,21 @@ VISUALIZER_DATA_BARS = [
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
@@ -3266,9 +3266,9 @@ VISUALIZER_DATA_BARS = [
         },
         "3805": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "42": {
           "count": 1,
@@ -3278,9 +3278,9 @@ VISUALIZER_DATA_BARS = [
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
@@ -3302,27 +3302,27 @@ VISUALIZER_DATA_BARS = [
         },
         "87396": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
@@ -3368,9 +3368,9 @@ VISUALIZER_DATA_BARS = [
         },
         "56257": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21314": {
           "count": 1,
@@ -3380,9 +3380,9 @@ VISUALIZER_DATA_BARS = [
         },
         "86928": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10925": {
           "count": 1,
@@ -3398,9 +3398,9 @@ VISUALIZER_DATA_BARS = [
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
@@ -3446,15 +3446,15 @@ VISUALIZER_DATA_BARS = [
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "394": {
           "count": 1,
@@ -3470,9 +3470,9 @@ VISUALIZER_DATA_BARS = [
         },
         "987": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1190": {
           "count": 1,
@@ -3512,15 +3512,15 @@ VISUALIZER_DATA_BARS = [
         },
         "17209": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81183": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10929": {
           "count": 1,
@@ -3530,9 +3530,9 @@ VISUALIZER_DATA_BARS = [
         },
         "32557": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9649": {
           "count": 1,
@@ -3548,9 +3548,9 @@ VISUALIZER_DATA_BARS = [
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
@@ -3560,9 +3560,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2319854": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "491630": {
           "count": 1,
@@ -3572,9 +3572,9 @@ VISUALIZER_DATA_BARS = [
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
@@ -3596,9 +3596,9 @@ VISUALIZER_DATA_BARS = [
         },
         "4921309": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6428474": {
           "count": 1,
@@ -3614,21 +3614,21 @@ VISUALIZER_DATA_BARS = [
         },
         "156718": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11074": {
           "count": 1,
@@ -3638,9 +3638,9 @@ VISUALIZER_DATA_BARS = [
         },
         "5049": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "136": {
           "count": 1,
@@ -3650,9 +3650,9 @@ VISUALIZER_DATA_BARS = [
         },
         "28785122": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "310443": {
           "count": 1,
@@ -3668,15 +3668,15 @@ VISUALIZER_DATA_BARS = [
         },
         "87687": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
@@ -3710,9 +3710,9 @@ VISUALIZER_DATA_BARS = [
         },
         "34440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41441": {
           "count": 1,
@@ -3722,9 +3722,9 @@ VISUALIZER_DATA_BARS = [
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
@@ -3746,9 +3746,9 @@ VISUALIZER_DATA_BARS = [
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
@@ -3812,21 +3812,21 @@ VISUALIZER_DATA_BARS = [
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "26727063": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990447": {
           "count": 1,
@@ -3836,9 +3836,9 @@ VISUALIZER_DATA_BARS = [
         },
         "304254": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38385": {
           "count": 1,
@@ -3866,9 +3866,9 @@ VISUALIZER_DATA_BARS = [
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
@@ -3880,93 +3880,93 @@ VISUALIZER_DATA_BARS = [
       "Data.Content.Patriotic": {
         "3624622": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111442": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9036": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67182": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "60774": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50088": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "103433": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1475": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2801": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2985": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "12106": {
           "count": 1,
@@ -3976,21 +3976,21 @@ VISUALIZER_DATA_BARS = [
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "788": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "385777": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "121400": {
           "count": 1,
@@ -4000,105 +4000,105 @@ VISUALIZER_DATA_BARS = [
         },
         "63129": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38574": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67452": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3548": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1361": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "175482": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "147160": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2732": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3754": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16083": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21813": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "27378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1939823": {
           "count": 1,
@@ -4108,159 +4108,159 @@ VISUALIZER_DATA_BARS = [
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "112297": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179695": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "55676": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88445": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "561": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39730": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5699": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "43983": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "8990": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "293": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "746836": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6430": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "120196": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85274": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "95355": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "142310": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "955616": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1683994": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
@@ -4270,27 +4270,27 @@ VISUALIZER_DATA_BARS = [
         },
         "292010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "72997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "218329": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177497": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "97247": {
           "count": 1,
@@ -4300,39 +4300,39 @@ VISUALIZER_DATA_BARS = [
         },
         "184689": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48035": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11311": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1060001": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "729583": {
           "count": 1,
@@ -4342,45 +4342,45 @@ VISUALIZER_DATA_BARS = [
         },
         "232124": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "598260": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236941": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "166102": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
@@ -4396,51 +4396,51 @@ VISUALIZER_DATA_BARS = [
         },
         "24595": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9335": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1452877": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "640393": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "373684": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "503550": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "358142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "129399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "302143": {
           "count": 1,
@@ -4450,15 +4450,15 @@ VISUALIZER_DATA_BARS = [
         },
         "54079": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "45799": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "49339": {
           "count": 1,
@@ -4468,21 +4468,21 @@ VISUALIZER_DATA_BARS = [
         },
         "41379": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "30123": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "20130": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1294": {
           "count": 1,
@@ -4492,27 +4492,27 @@ VISUALIZER_DATA_BARS = [
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "219464": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
@@ -4522,27 +4522,27 @@ VISUALIZER_DATA_BARS = [
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "132054": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50850": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "68458": {
           "count": 1,
@@ -4552,15 +4552,15 @@ VISUALIZER_DATA_BARS = [
         },
         "11608": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3805": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "42": {
           "count": 1,
@@ -4570,75 +4570,75 @@ VISUALIZER_DATA_BARS = [
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36832": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "204026": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87396": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176373378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "22849816": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "582575": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "220292": {
           "count": 1,
@@ -4648,57 +4648,57 @@ VISUALIZER_DATA_BARS = [
         },
         "403641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "116294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56257": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10925": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "15776": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10": {
           "count": 1,
@@ -4708,81 +4708,81 @@ VISUALIZER_DATA_BARS = [
         },
         "14579": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "576696": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "246619": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28847": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4302": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "394": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "987": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7952240": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92878": {
           "count": 1,
@@ -4792,21 +4792,21 @@ VISUALIZER_DATA_BARS = [
         },
         "134186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "25834": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "17209": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81183": {
           "count": 1,
@@ -4816,33 +4816,33 @@ VISUALIZER_DATA_BARS = [
         },
         "10929": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32557": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
@@ -4852,9 +4852,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2319854": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "491630": {
           "count": 1,
@@ -4864,9 +4864,9 @@ VISUALIZER_DATA_BARS = [
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
@@ -4882,9 +4882,9 @@ VISUALIZER_DATA_BARS = [
         },
         "7621": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4921309": {
           "count": 1,
@@ -4894,51 +4894,51 @@ VISUALIZER_DATA_BARS = [
         },
         "6428474": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1214968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "156718": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11074": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5049": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "136": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28785122": {
           "count": 1,
@@ -4954,15 +4954,15 @@ VISUALIZER_DATA_BARS = [
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "907": {
           "count": 1,
@@ -4972,9 +4972,9 @@ VISUALIZER_DATA_BARS = [
         },
         "3464175": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "669906": {
           "count": 1,
@@ -4990,15 +4990,15 @@ VISUALIZER_DATA_BARS = [
         },
         "33766": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23327": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34440": {
           "count": 1,
@@ -5008,9 +5008,9 @@ VISUALIZER_DATA_BARS = [
         },
         "41441": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39897": {
           "count": 1,
@@ -5020,45 +5020,45 @@ VISUALIZER_DATA_BARS = [
         },
         "301": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77720": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69050": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81952": {
           "count": 1,
@@ -5068,39 +5068,39 @@ VISUALIZER_DATA_BARS = [
         },
         "41828": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "128792": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36683": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "518": {
           "count": 1,
@@ -5122,45 +5122,45 @@ VISUALIZER_DATA_BARS = [
         },
         "1990447": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "304254": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38385": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "29219": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "47752": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23636": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
@@ -5172,39 +5172,39 @@ VISUALIZER_DATA_BARS = [
       "Data.Content.Celebrity": {
         "3624622": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111442": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9036": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67182": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77142": {
           "count": 1,
@@ -5214,33 +5214,33 @@ VISUALIZER_DATA_BARS = [
         },
         "65162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "60774": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50088": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "103433": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1475": {
           "count": 1,
@@ -5250,9 +5250,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2801": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2985": {
           "count": 1,
@@ -5268,15 +5268,15 @@ VISUALIZER_DATA_BARS = [
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "788": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "385777": {
           "count": 1,
@@ -5286,27 +5286,27 @@ VISUALIZER_DATA_BARS = [
         },
         "121400": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "63129": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38574": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67452": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4641": {
           "count": 1,
@@ -5316,33 +5316,33 @@ VISUALIZER_DATA_BARS = [
         },
         "3548": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1361": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "175482": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "18670": {
           "count": 1,
@@ -5352,75 +5352,75 @@ VISUALIZER_DATA_BARS = [
         },
         "13741": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "147160": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2732": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3754": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16083": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21813": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "27378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1939823": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "112297": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179695": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88458": {
           "count": 1,
@@ -5430,21 +5430,21 @@ VISUALIZER_DATA_BARS = [
         },
         "55676": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88445": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "561": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39730": {
           "count": 1,
@@ -5454,9 +5454,9 @@ VISUALIZER_DATA_BARS = [
         },
         "5699": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "43983": {
           "count": 1,
@@ -5466,15 +5466,15 @@ VISUALIZER_DATA_BARS = [
         },
         "8990": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
@@ -5484,9 +5484,9 @@ VISUALIZER_DATA_BARS = [
         },
         "111": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "293": {
           "count": 1,
@@ -5496,9 +5496,9 @@ VISUALIZER_DATA_BARS = [
         },
         "746836": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69440": {
           "count": 1,
@@ -5514,27 +5514,27 @@ VISUALIZER_DATA_BARS = [
         },
         "120196": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85274": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "95355": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "142310": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "955616": {
           "count": 1,
@@ -5544,69 +5544,69 @@ VISUALIZER_DATA_BARS = [
         },
         "1683994": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "292010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "72997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "218329": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177497": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "97247": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "184689": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48035": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11311": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "186": {
           "count": 1,
@@ -5616,9 +5616,9 @@ VISUALIZER_DATA_BARS = [
         },
         "162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1060001": {
           "count": 1,
@@ -5634,15 +5634,15 @@ VISUALIZER_DATA_BARS = [
         },
         "232124": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "598260": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236941": {
           "count": 1,
@@ -5652,9 +5652,9 @@ VISUALIZER_DATA_BARS = [
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
@@ -5664,21 +5664,21 @@ VISUALIZER_DATA_BARS = [
         },
         "166102": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14267": {
           "count": 1,
@@ -5688,63 +5688,63 @@ VISUALIZER_DATA_BARS = [
         },
         "24595": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9335": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1452877": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "640393": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "373684": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "503550": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "358142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "129399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "302143": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "54079": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "45799": {
           "count": 1,
@@ -5754,27 +5754,27 @@ VISUALIZER_DATA_BARS = [
         },
         "49339": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41379": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "30123": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "20130": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1294": {
           "count": 1,
@@ -5784,21 +5784,21 @@ VISUALIZER_DATA_BARS = [
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "219464": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176547": {
           "count": 1,
@@ -5808,15 +5808,15 @@ VISUALIZER_DATA_BARS = [
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
@@ -5826,105 +5826,105 @@ VISUALIZER_DATA_BARS = [
         },
         "132054": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50850": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "68458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11608": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3805": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "42": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36832": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "204026": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87396": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176373378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "22849816": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "582575": {
           "count": 1,
@@ -5934,9 +5934,9 @@ VISUALIZER_DATA_BARS = [
         },
         "220292": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "403641": {
           "count": 1,
@@ -5946,9 +5946,9 @@ VISUALIZER_DATA_BARS = [
         },
         "116294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56257": {
           "count": 1,
@@ -5958,87 +5958,87 @@ VISUALIZER_DATA_BARS = [
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10925": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "15776": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14579": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "576696": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "246619": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28847": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4302": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "394": {
           "count": 1,
@@ -6048,39 +6048,39 @@ VISUALIZER_DATA_BARS = [
         },
         "236": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "987": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7952240": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92878": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "134186": {
           "count": 1,
@@ -6102,27 +6102,27 @@ VISUALIZER_DATA_BARS = [
         },
         "81183": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10929": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32557": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
@@ -6132,51 +6132,51 @@ VISUALIZER_DATA_BARS = [
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2319854": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "491630": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "79": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7621": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4921309": {
           "count": 1,
@@ -6192,9 +6192,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1214968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "156718": {
           "count": 1,
@@ -6222,9 +6222,9 @@ VISUALIZER_DATA_BARS = [
         },
         "5049": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "136": {
           "count": 1,
@@ -6234,9 +6234,9 @@ VISUALIZER_DATA_BARS = [
         },
         "28785122": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "310443": {
           "count": 1,
@@ -6246,9 +6246,9 @@ VISUALIZER_DATA_BARS = [
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
@@ -6258,9 +6258,9 @@ VISUALIZER_DATA_BARS = [
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
@@ -6276,15 +6276,15 @@ VISUALIZER_DATA_BARS = [
         },
         "353513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "33766": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23327": {
           "count": 1,
@@ -6294,21 +6294,21 @@ VISUALIZER_DATA_BARS = [
         },
         "34440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41441": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
@@ -6318,15 +6318,15 @@ VISUALIZER_DATA_BARS = [
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16399": {
           "count": 1,
@@ -6336,9 +6336,9 @@ VISUALIZER_DATA_BARS = [
         },
         "7658201": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77720": {
           "count": 1,
@@ -6354,9 +6354,9 @@ VISUALIZER_DATA_BARS = [
         },
         "81952": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41828": {
           "count": 1,
@@ -6372,33 +6372,33 @@ VISUALIZER_DATA_BARS = [
         },
         "36683": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
@@ -6464,9 +6464,9 @@ VISUALIZER_DATA_BARS = [
       "Data.Content.Danger": {
         "3624622": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111442": {
           "count": 1,
@@ -6476,9 +6476,9 @@ VISUALIZER_DATA_BARS = [
         },
         "9036": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67182": {
           "count": 1,
@@ -6488,9 +6488,9 @@ VISUALIZER_DATA_BARS = [
         },
         "5264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6641": {
           "count": 1,
@@ -6500,15 +6500,15 @@ VISUALIZER_DATA_BARS = [
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "60774": {
           "count": 1,
@@ -6518,9 +6518,9 @@ VISUALIZER_DATA_BARS = [
         },
         "50088": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6513": {
           "count": 1,
@@ -6542,45 +6542,45 @@ VISUALIZER_DATA_BARS = [
         },
         "2801": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2985": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "12106": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "788": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "385777": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "121400": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "63129": {
           "count": 1,
@@ -6590,9 +6590,9 @@ VISUALIZER_DATA_BARS = [
         },
         "38574": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67452": {
           "count": 1,
@@ -6614,33 +6614,33 @@ VISUALIZER_DATA_BARS = [
         },
         "1361": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "175482": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
@@ -6650,15 +6650,15 @@ VISUALIZER_DATA_BARS = [
         },
         "147160": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2732": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3754": {
           "count": 1,
@@ -6668,39 +6668,39 @@ VISUALIZER_DATA_BARS = [
         },
         "16083": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21813": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "27378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1939823": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "112297": {
           "count": 1,
@@ -6710,21 +6710,21 @@ VISUALIZER_DATA_BARS = [
         },
         "179695": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "55676": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88445": {
           "count": 1,
@@ -6740,9 +6740,9 @@ VISUALIZER_DATA_BARS = [
         },
         "39730": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5699": {
           "count": 1,
@@ -6752,9 +6752,9 @@ VISUALIZER_DATA_BARS = [
         },
         "43983": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "8990": {
           "count": 1,
@@ -6764,33 +6764,33 @@ VISUALIZER_DATA_BARS = [
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "293": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "746836": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69440": {
           "count": 1,
@@ -6800,9 +6800,9 @@ VISUALIZER_DATA_BARS = [
         },
         "6430": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "120196": {
           "count": 1,
@@ -6812,15 +6812,15 @@ VISUALIZER_DATA_BARS = [
         },
         "85274": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "95355": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "142310": {
           "count": 1,
@@ -6830,9 +6830,9 @@ VISUALIZER_DATA_BARS = [
         },
         "955616": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1683994": {
           "count": 1,
@@ -6842,9 +6842,9 @@ VISUALIZER_DATA_BARS = [
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
@@ -6854,9 +6854,9 @@ VISUALIZER_DATA_BARS = [
         },
         "292010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "72997": {
           "count": 1,
@@ -6878,15 +6878,15 @@ VISUALIZER_DATA_BARS = [
         },
         "97247": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "184689": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48035": {
           "count": 1,
@@ -6896,33 +6896,33 @@ VISUALIZER_DATA_BARS = [
         },
         "11311": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1060001": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "729583": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "232124": {
           "count": 1,
@@ -6932,9 +6932,9 @@ VISUALIZER_DATA_BARS = [
         },
         "598260": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236941": {
           "count": 1,
@@ -6944,9 +6944,9 @@ VISUALIZER_DATA_BARS = [
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
@@ -6956,27 +6956,27 @@ VISUALIZER_DATA_BARS = [
         },
         "166102": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14267": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "24595": {
           "count": 1,
@@ -6986,15 +6986,15 @@ VISUALIZER_DATA_BARS = [
         },
         "9335": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1452877": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "640393": {
           "count": 1,
@@ -7004,21 +7004,21 @@ VISUALIZER_DATA_BARS = [
         },
         "373684": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "503550": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "358142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "129399": {
           "count": 1,
@@ -7028,9 +7028,9 @@ VISUALIZER_DATA_BARS = [
         },
         "302143": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "54079": {
           "count": 1,
@@ -7046,15 +7046,15 @@ VISUALIZER_DATA_BARS = [
         },
         "49339": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41379": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "30123": {
           "count": 1,
@@ -7076,15 +7076,15 @@ VISUALIZER_DATA_BARS = [
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "219464": {
           "count": 1,
@@ -7094,27 +7094,27 @@ VISUALIZER_DATA_BARS = [
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "132054": {
           "count": 1,
@@ -7124,21 +7124,21 @@ VISUALIZER_DATA_BARS = [
         },
         "50850": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "68458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11608": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3805": {
           "count": 1,
@@ -7148,15 +7148,15 @@ VISUALIZER_DATA_BARS = [
         },
         "42": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
@@ -7184,33 +7184,33 @@ VISUALIZER_DATA_BARS = [
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176373378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "22849816": {
           "count": 1,
@@ -7220,21 +7220,21 @@ VISUALIZER_DATA_BARS = [
         },
         "582575": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "220292": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "403641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "116294": {
           "count": 1,
@@ -7244,15 +7244,15 @@ VISUALIZER_DATA_BARS = [
         },
         "56257": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
@@ -7262,21 +7262,21 @@ VISUALIZER_DATA_BARS = [
         },
         "10925": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "15776": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
@@ -7286,27 +7286,27 @@ VISUALIZER_DATA_BARS = [
         },
         "10": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14579": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "576696": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "246619": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28847": {
           "count": 1,
@@ -7322,69 +7322,69 @@ VISUALIZER_DATA_BARS = [
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "394": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "987": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7952240": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92878": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "134186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "25834": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "17209": {
           "count": 1,
@@ -7394,9 +7394,9 @@ VISUALIZER_DATA_BARS = [
         },
         "81183": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10929": {
           "count": 1,
@@ -7412,9 +7412,9 @@ VISUALIZER_DATA_BARS = [
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
@@ -7424,21 +7424,21 @@ VISUALIZER_DATA_BARS = [
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2319854": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "491630": {
           "count": 1,
@@ -7448,21 +7448,21 @@ VISUALIZER_DATA_BARS = [
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "79": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7621": {
           "count": 1,
@@ -7472,9 +7472,9 @@ VISUALIZER_DATA_BARS = [
         },
         "4921309": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6428474": {
           "count": 1,
@@ -7484,33 +7484,33 @@ VISUALIZER_DATA_BARS = [
         },
         "1214968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "156718": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11074": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5049": {
           "count": 1,
@@ -7520,9 +7520,9 @@ VISUALIZER_DATA_BARS = [
         },
         "136": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28785122": {
           "count": 1,
@@ -7532,15 +7532,15 @@ VISUALIZER_DATA_BARS = [
         },
         "310443": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
@@ -7550,27 +7550,27 @@ VISUALIZER_DATA_BARS = [
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "669906": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "353513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "33766": {
           "count": 1,
@@ -7580,15 +7580,15 @@ VISUALIZER_DATA_BARS = [
         },
         "23327": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41441": {
           "count": 1,
@@ -7598,33 +7598,33 @@ VISUALIZER_DATA_BARS = [
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
@@ -7634,75 +7634,75 @@ VISUALIZER_DATA_BARS = [
         },
         "77720": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69050": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81952": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41828": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "128792": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36683": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "26727063": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990447": {
           "count": 1,
@@ -7712,21 +7712,21 @@ VISUALIZER_DATA_BARS = [
         },
         "304254": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38385": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "29219": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "47752": {
           "count": 1,
@@ -7742,9 +7742,9 @@ VISUALIZER_DATA_BARS = [
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
@@ -7756,9 +7756,9 @@ VISUALIZER_DATA_BARS = [
       "Data.Content.Animals": {
         "3624622": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111442": {
           "count": 1,
@@ -7774,51 +7774,51 @@ VISUALIZER_DATA_BARS = [
         },
         "67182": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "60774": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50088": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "103433": {
           "count": 1,
@@ -7828,9 +7828,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1475": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2801": {
           "count": 1,
@@ -7840,9 +7840,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2985": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "12106": {
           "count": 1,
@@ -7852,21 +7852,21 @@ VISUALIZER_DATA_BARS = [
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "788": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "385777": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "121400": {
           "count": 1,
@@ -7876,27 +7876,27 @@ VISUALIZER_DATA_BARS = [
         },
         "63129": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38574": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67452": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3548": {
           "count": 1,
@@ -7912,27 +7912,27 @@ VISUALIZER_DATA_BARS = [
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "175482": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
@@ -7942,9 +7942,9 @@ VISUALIZER_DATA_BARS = [
         },
         "147160": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2732": {
           "count": 1,
@@ -7954,9 +7954,9 @@ VISUALIZER_DATA_BARS = [
         },
         "3754": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16083": {
           "count": 1,
@@ -7966,15 +7966,15 @@ VISUALIZER_DATA_BARS = [
         },
         "21813": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "27378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1939823": {
           "count": 1,
@@ -7984,9 +7984,9 @@ VISUALIZER_DATA_BARS = [
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
@@ -7996,9 +7996,9 @@ VISUALIZER_DATA_BARS = [
         },
         "112297": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179695": {
           "count": 1,
@@ -8014,9 +8014,9 @@ VISUALIZER_DATA_BARS = [
         },
         "55676": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88445": {
           "count": 1,
@@ -8026,15 +8026,15 @@ VISUALIZER_DATA_BARS = [
         },
         "561": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39730": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5699": {
           "count": 1,
@@ -8044,9 +8044,9 @@ VISUALIZER_DATA_BARS = [
         },
         "43983": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "8990": {
           "count": 1,
@@ -8056,9 +8056,9 @@ VISUALIZER_DATA_BARS = [
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
@@ -8068,15 +8068,15 @@ VISUALIZER_DATA_BARS = [
         },
         "111": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "293": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "746836": {
           "count": 1,
@@ -8086,33 +8086,33 @@ VISUALIZER_DATA_BARS = [
         },
         "69440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6430": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "120196": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85274": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "95355": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "142310": {
           "count": 1,
@@ -8122,21 +8122,21 @@ VISUALIZER_DATA_BARS = [
         },
         "955616": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1683994": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
@@ -8146,33 +8146,33 @@ VISUALIZER_DATA_BARS = [
         },
         "292010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "72997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "218329": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177497": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "97247": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "184689": {
           "count": 1,
@@ -8194,9 +8194,9 @@ VISUALIZER_DATA_BARS = [
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
@@ -8206,39 +8206,39 @@ VISUALIZER_DATA_BARS = [
         },
         "1060001": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "729583": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "232124": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "598260": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236941": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
@@ -8248,15 +8248,15 @@ VISUALIZER_DATA_BARS = [
         },
         "166102": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
@@ -8266,9 +8266,9 @@ VISUALIZER_DATA_BARS = [
         },
         "14267": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "24595": {
           "count": 1,
@@ -8278,9 +8278,9 @@ VISUALIZER_DATA_BARS = [
         },
         "9335": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1452877": {
           "count": 1,
@@ -8296,9 +8296,9 @@ VISUALIZER_DATA_BARS = [
         },
         "373684": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "503550": {
           "count": 1,
@@ -8308,15 +8308,15 @@ VISUALIZER_DATA_BARS = [
         },
         "358142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "129399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "302143": {
           "count": 1,
@@ -8326,15 +8326,15 @@ VISUALIZER_DATA_BARS = [
         },
         "54079": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "45799": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "49339": {
           "count": 1,
@@ -8344,69 +8344,69 @@ VISUALIZER_DATA_BARS = [
         },
         "41379": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "30123": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "20130": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "219464": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "132054": {
           "count": 1,
@@ -8422,21 +8422,21 @@ VISUALIZER_DATA_BARS = [
         },
         "68458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11608": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3805": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "42": {
           "count": 1,
@@ -8446,9 +8446,9 @@ VISUALIZER_DATA_BARS = [
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
@@ -8458,15 +8458,15 @@ VISUALIZER_DATA_BARS = [
         },
         "36832": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "204026": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87396": {
           "count": 1,
@@ -8476,9 +8476,9 @@ VISUALIZER_DATA_BARS = [
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
@@ -8488,9 +8488,9 @@ VISUALIZER_DATA_BARS = [
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
@@ -8500,9 +8500,9 @@ VISUALIZER_DATA_BARS = [
         },
         "176373378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "22849816": {
           "count": 1,
@@ -8512,9 +8512,9 @@ VISUALIZER_DATA_BARS = [
         },
         "582575": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "220292": {
           "count": 1,
@@ -8524,9 +8524,9 @@ VISUALIZER_DATA_BARS = [
         },
         "403641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "116294": {
           "count": 1,
@@ -8536,15 +8536,15 @@ VISUALIZER_DATA_BARS = [
         },
         "56257": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
@@ -8566,15 +8566,15 @@ VISUALIZER_DATA_BARS = [
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10": {
           "count": 1,
@@ -8602,9 +8602,9 @@ VISUALIZER_DATA_BARS = [
         },
         "28847": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4302": {
           "count": 1,
@@ -8626,33 +8626,33 @@ VISUALIZER_DATA_BARS = [
         },
         "394": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "987": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7952240": {
           "count": 1,
@@ -8680,9 +8680,9 @@ VISUALIZER_DATA_BARS = [
         },
         "17209": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81183": {
           "count": 1,
@@ -8698,27 +8698,27 @@ VISUALIZER_DATA_BARS = [
         },
         "32557": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
@@ -8728,9 +8728,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2319854": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "491630": {
           "count": 1,
@@ -8740,15 +8740,15 @@ VISUALIZER_DATA_BARS = [
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "79": {
           "count": 1,
@@ -8764,15 +8764,15 @@ VISUALIZER_DATA_BARS = [
         },
         "4921309": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6428474": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1214968": {
           "count": 1,
@@ -8782,21 +8782,21 @@ VISUALIZER_DATA_BARS = [
         },
         "156718": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11074": {
           "count": 1,
@@ -8812,27 +8812,27 @@ VISUALIZER_DATA_BARS = [
         },
         "136": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28785122": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "310443": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
@@ -8842,27 +8842,27 @@ VISUALIZER_DATA_BARS = [
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "669906": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "353513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "33766": {
           "count": 1,
@@ -8872,15 +8872,15 @@ VISUALIZER_DATA_BARS = [
         },
         "23327": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41441": {
           "count": 1,
@@ -8890,33 +8890,33 @@ VISUALIZER_DATA_BARS = [
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
@@ -8926,15 +8926,15 @@ VISUALIZER_DATA_BARS = [
         },
         "77720": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69050": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81952": {
           "count": 1,
@@ -8944,57 +8944,57 @@ VISUALIZER_DATA_BARS = [
         },
         "41828": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "128792": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36683": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "26727063": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990447": {
           "count": 1,
@@ -9016,15 +9016,15 @@ VISUALIZER_DATA_BARS = [
         },
         "29219": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "47752": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23636": {
           "count": 1,
@@ -9034,59 +9034,59 @@ VISUALIZER_DATA_BARS = [
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "Data.Content.Sexual": {
         "3624622": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "111442": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9036": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67182": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "5264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "65162": {
           "count": 1,
@@ -9102,33 +9102,33 @@ VISUALIZER_DATA_BARS = [
         },
         "50088": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "103433": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1475": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2801": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2985": {
           "count": 1,
@@ -9144,8 +9144,8 @@ VISUALIZER_DATA_BARS = [
         },
         "998": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "788": {
@@ -9162,21 +9162,21 @@ VISUALIZER_DATA_BARS = [
         },
         "121400": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "63129": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38574": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "67452": {
           "count": 1,
@@ -9204,27 +9204,27 @@ VISUALIZER_DATA_BARS = [
         },
         "13245": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177285": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "175482": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "18670": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "13741": {
           "count": 1,
@@ -9240,21 +9240,21 @@ VISUALIZER_DATA_BARS = [
         },
         "2732": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3754": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "16083": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21813": {
           "count": 1,
@@ -9264,21 +9264,21 @@ VISUALIZER_DATA_BARS = [
         },
         "27378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1939823": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "327529": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3739": {
           "count": 1,
@@ -9288,15 +9288,15 @@ VISUALIZER_DATA_BARS = [
         },
         "112297": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179695": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88458": {
           "count": 1,
@@ -9306,9 +9306,9 @@ VISUALIZER_DATA_BARS = [
         },
         "55676": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "88445": {
           "count": 1,
@@ -9318,9 +9318,9 @@ VISUALIZER_DATA_BARS = [
         },
         "561": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39730": {
           "count": 1,
@@ -9330,9 +9330,9 @@ VISUALIZER_DATA_BARS = [
         },
         "5699": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "43983": {
           "count": 1,
@@ -9348,9 +9348,9 @@ VISUALIZER_DATA_BARS = [
         },
         "16997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3183": {
           "count": 4,
@@ -9360,9 +9360,9 @@ VISUALIZER_DATA_BARS = [
         },
         "111": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "293": {
           "count": 1,
@@ -9378,9 +9378,9 @@ VISUALIZER_DATA_BARS = [
         },
         "69440": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6430": {
           "count": 1,
@@ -9390,33 +9390,33 @@ VISUALIZER_DATA_BARS = [
         },
         "120196": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85274": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "95355": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "142310": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "955616": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1683994": {
           "count": 1,
@@ -9426,15 +9426,15 @@ VISUALIZER_DATA_BARS = [
         },
         "286010": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "249186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "292010": {
           "count": 1,
@@ -9444,27 +9444,27 @@ VISUALIZER_DATA_BARS = [
         },
         "72997": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "218329": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "177497": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "97247": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "184689": {
           "count": 1,
@@ -9474,27 +9474,27 @@ VISUALIZER_DATA_BARS = [
         },
         "48035": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11311": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "186": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "162": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1060001": {
           "count": 1,
@@ -9510,15 +9510,15 @@ VISUALIZER_DATA_BARS = [
         },
         "232124": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "598260": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236941": {
           "count": 1,
@@ -9528,15 +9528,15 @@ VISUALIZER_DATA_BARS = [
         },
         "555734": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "62538": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "166102": {
           "count": 1,
@@ -9546,39 +9546,39 @@ VISUALIZER_DATA_BARS = [
         },
         "13312": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "110004": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14267": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "24595": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "9335": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1452877": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "640393": {
           "count": 1,
@@ -9588,57 +9588,57 @@ VISUALIZER_DATA_BARS = [
         },
         "373684": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "503550": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "358142": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "129399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "302143": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "54079": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "45799": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "49339": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41379": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "30123": {
           "count": 1,
@@ -9648,21 +9648,21 @@ VISUALIZER_DATA_BARS = [
         },
         "20130": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1294": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7253": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1046640": {
           "count": 1,
@@ -9672,39 +9672,39 @@ VISUALIZER_DATA_BARS = [
         },
         "219464": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176547": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "91378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "85454": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34565": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "132054": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "50850": {
           "count": 1,
@@ -9714,15 +9714,15 @@ VISUALIZER_DATA_BARS = [
         },
         "68458": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11608": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3805": {
           "count": 1,
@@ -9732,21 +9732,21 @@ VISUALIZER_DATA_BARS = [
         },
         "42": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "113771": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "122388": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36832": {
           "count": 1,
@@ -9762,51 +9762,51 @@ VISUALIZER_DATA_BARS = [
         },
         "87396": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "319": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "56": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "350": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "176373378": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "22849816": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "582575": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "220292": {
           "count": 1,
@@ -9816,9 +9816,9 @@ VISUALIZER_DATA_BARS = [
         },
         "403641": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "116294": {
           "count": 1,
@@ -9834,45 +9834,45 @@ VISUALIZER_DATA_BARS = [
         },
         "21314": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "86928": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10925": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "15776": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "21": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1264": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14579": {
           "count": 1,
@@ -9882,15 +9882,15 @@ VISUALIZER_DATA_BARS = [
         },
         "576696": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "246619": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28847": {
           "count": 1,
@@ -9900,15 +9900,15 @@ VISUALIZER_DATA_BARS = [
         },
         "4302": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3667": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10338": {
           "count": 1,
@@ -9918,9 +9918,9 @@ VISUALIZER_DATA_BARS = [
         },
         "394": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "236": {
           "count": 1,
@@ -9936,9 +9936,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1190": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1171": {
           "count": 1,
@@ -9948,15 +9948,15 @@ VISUALIZER_DATA_BARS = [
         },
         "7952240": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "92878": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "134186": {
           "count": 1,
@@ -9966,27 +9966,27 @@ VISUALIZER_DATA_BARS = [
         },
         "25834": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "17209": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "81183": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "10929": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32557": {
           "count": 1,
@@ -9996,9 +9996,9 @@ VISUALIZER_DATA_BARS = [
         },
         "9649": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1874": {
           "count": 1,
@@ -10008,15 +10008,15 @@ VISUALIZER_DATA_BARS = [
         },
         "3900": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1274288": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2319854": {
           "count": 1,
@@ -10026,69 +10026,69 @@ VISUALIZER_DATA_BARS = [
         },
         "491630": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "48617": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "32091": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "79": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7621": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4921309": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6428474": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1214968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "156718": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "40818": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "14395": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "11074": {
           "count": 1,
@@ -10098,75 +10098,75 @@ VISUALIZER_DATA_BARS = [
         },
         "5049": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "136": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "28785122": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "310443": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "865781": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "87687": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "907": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "3464175": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "669906": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "353513": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "33766": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23327": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "34440": {
           "count": 1,
@@ -10176,27 +10176,27 @@ VISUALIZER_DATA_BARS = [
         },
         "41441": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "39897": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "301": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "198": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "179": {
           "count": 1,
@@ -10206,21 +10206,21 @@ VISUALIZER_DATA_BARS = [
         },
         "16399": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "7658201": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "77720": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "69050": {
           "count": 1,
@@ -10230,111 +10230,111 @@ VISUALIZER_DATA_BARS = [
         },
         "81952": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "41828": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "128792": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "36683": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "6713": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "4873": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "125": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "518": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38968": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "26727063": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990447": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "304254": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "38385": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "29219": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "47752": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "23636": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "17892": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "782": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "Data.Viewership.Views": {

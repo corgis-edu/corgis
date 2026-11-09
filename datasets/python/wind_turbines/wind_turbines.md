@@ -208,7 +208,7 @@ $(document).ready(function() {
              </td> 
              <td>County where the turbine is located.</td> </tr>
         
-        <tr> <td><code>"Latitude"</code></td>
+        <tr> <td><code>"Longitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -218,9 +218,9 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td> </tr>
+             <td>Longitude (decimal degrees - NAD 83 datum)</td> </tr>
         
-        <tr> <td><code>"Longitude"</code></td>
+        <tr> <td><code>"Latitude"</code></td>
              <td><span data-toggle="tooltip"
                        title='Float (decimal number)'>
                        float</span></td> 
@@ -230,7 +230,7 @@ $(document).ready(function() {
              
                 
              </td> 
-             <td>Longitude (decimal degrees - NAD 83 datum)</td> </tr>
+             <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td> </tr>
         
     </table>
 </div>
@@ -266,14 +266,14 @@ $(document).ready(function() {
     });
         
     
-    $("#btn-explore-Site-Latitude").click(function() {
-        $( "#explore-Site-Latitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Site-Longitude").click(function() {
+        $( "#explore-Site-Longitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         
     
-    $("#btn-explore-Site-Longitude").click(function() {
-        $( "#explore-Site-Longitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
+    $("#btn-explore-Site-Latitude").click(function() {
+        $( "#explore-Site-Latitude" ).dialog("open").css({'max-height':"400px", overflow:"auto"});;
         $('.ui-dialog :button').blur();
     });
         

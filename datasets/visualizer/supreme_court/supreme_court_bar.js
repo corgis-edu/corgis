@@ -4,93 +4,93 @@ VISUALIZER_DATA_BARS = [
       "3_judge_dc": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 82,
+          "average": 0.047757716948165406,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 8,
+          "average": 0.004008016032064128,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 124,
+          "average": 0.10324729392173189,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 21,
+          "average": 0.06086956521739131,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
+          "sum": 10,
+          "average": 0.025,
           "average w/o zero": 1
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 222,
+          "average": 0.15470383275261324,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 65,
+          "average": 0.09587020648967552,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 2,
+          "average": 0.005555555555555556,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
+          "sum": 10,
+          "average": 0.08771929824561403,
           "average w/o zero": 1
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 1,
+          "average": 0.04,
           "average w/o zero": 1
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "docket": {
@@ -188,185 +188,185 @@ VISUALIZER_DATA_BARS = [
       "decision.dissent agrees": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 11,
+          "average": 0.0064065230052417,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 19,
+          "average": 0.009519038076152305,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 10,
+          "average": 0.00832639467110741,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 4,
+          "average": 0.011594202898550725,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
+          "sum": 1,
+          "average": 0.003205128205128205,
           "average w/o zero": 1
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 15,
+          "average": 0.010452961672473868,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 14,
+          "average": 0.02064896755162242,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 4,
+          "average": 0.011111111111111112,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 1,
+          "average": 0.04,
           "average w/o zero": 1
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "decision.precedent altered?": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 37,
+          "average": 0.021549213744903904,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 65,
+          "average": 0.03256513026052104,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 11,
+          "average": 0.009159034138218152,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 6,
+          "average": 0.017391304347826087,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
+          "sum": 2,
+          "average": 0.00641025641025641,
           "average w/o zero": 1
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
+          "sum": 14,
+          "average": 0.035,
           "average w/o zero": 1
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 29,
+          "average": 0.020209059233449476,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 11,
+          "average": 0.016224188790560472,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 5,
+          "average": 0.013888888888888888,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01,
           "average w/o zero": 1
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
+          "sum": 3,
+          "average": 0.02631578947368421,
           "average w/o zero": 1
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "decision.term": {
@@ -648,93 +648,93 @@ VISUALIZER_DATA_BARS = [
       "lower court.disagreement?": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 321,
+          "average": 0.18695398951659872,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 483,
+          "average": 0.24198396793587174,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 201,
+          "average": 0.16736053288925895,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 92,
+          "average": 0.26666666666666666,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
+          "sum": 58,
+          "average": 0.1858974358974359,
           "average w/o zero": 1
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
+          "sum": 74,
+          "average": 0.185,
           "average w/o zero": 1
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 312,
+          "average": 0.21742160278745645,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021052631578947368,
           "average w/o zero": 1
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 192,
+          "average": 0.2831858407079646,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 80,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
+          "sum": 27,
+          "average": 0.27,
           "average w/o zero": 1
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
+          "sum": 29,
+          "average": 0.2543859649122807,
           "average w/o zero": 1
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 5,
+          "average": 0.2,
           "average w/o zero": 1
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "natural court.id": {
@@ -1292,185 +1292,185 @@ VISUALIZER_DATA_BARS = [
       "voting.split on second": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "voting.unclear": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 18,
+          "average": 0.010483401281304601,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 21,
+          "average": 0.010521042084168337,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 12,
+          "average": 0.009991673605328892,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 3,
+          "average": 0.008695652173913044,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
+          "sum": 3,
+          "average": 0.009615384615384616,
           "average w/o zero": 1
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
+          "sum": 2,
+          "average": 0.005,
           "average w/o zero": 1
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 15,
+          "average": 0.010452961672473868,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0058997050147492625,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 7,
+          "average": 0.019444444444444445,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01,
           "average w/o zero": 1
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008771929824561403,
           "average w/o zero": 1
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "arguments.petitioner.id": {
@@ -1752,93 +1752,93 @@ VISUALIZER_DATA_BARS = [
       "decision.case.unusual": {
         "Economic Activity": {
           "count": 1717,
-          "sum": 1717,
-          "average": 1,
+          "sum": 39,
+          "average": 0.022714036109493303,
           "average w/o zero": 1
         },
         "Criminal Procedure": {
           "count": 1996,
-          "sum": 1996,
-          "average": 1,
+          "sum": 18,
+          "average": 0.009018036072144289,
           "average w/o zero": 1
         },
         "Judicial Power": {
           "count": 1201,
-          "sum": 1201,
-          "average": 1,
+          "sum": 41,
+          "average": 0.03413821815154038,
           "average w/o zero": 1
         },
         "Due Process": {
           "count": 345,
-          "sum": 345,
-          "average": 1,
+          "sum": 6,
+          "average": 0.017391304347826087,
           "average w/o zero": 1
         },
         "Federal Taxation": {
           "count": 312,
-          "sum": 312,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Federalism": {
           "count": 400,
-          "sum": 400,
-          "average": 1,
+          "sum": 5,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "Civil Rights": {
           "count": 1435,
-          "sum": 1435,
-          "average": 1,
+          "sum": 37,
+          "average": 0.02578397212543554,
           "average w/o zero": 1
         },
         "Interstate Relations": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010526315789473684,
           "average w/o zero": 1
         },
         "First Amendment": {
           "count": 678,
-          "sum": 678,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0058997050147492625,
           "average w/o zero": 1
         },
         "Unions": {
           "count": 360,
-          "sum": 360,
-          "average": 1,
+          "sum": 8,
+          "average": 0.022222222222222223,
           "average w/o zero": 1
         },
         "unspecified": {
           "count": 22,
-          "sum": 22,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Attorneys": {
           "count": 100,
-          "sum": 100,
-          "average": 1,
+          "sum": 4,
+          "average": 0.04,
           "average w/o zero": 1
         },
         "Privacy": {
           "count": 114,
-          "sum": 114,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Miscellaneous": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Private Action": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "decision.date.day": {
@@ -2339,452 +2339,452 @@ VISUALIZER_DATA_BARS = [
       "3_judge_dc": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 1,
+          "average": 0.04,
           "average w/o zero": 1
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
+          "sum": 5,
+          "average": 0.043478260869565216,
           "average w/o zero": 1
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 1,
+          "average": 0.00625,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 40,
+          "average": 0.21390374331550802,
           "average w/o zero": 1
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 11,
+          "average": 0.102803738317757,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
+          "sum": 27,
+          "average": 0.14285714285714285,
           "average w/o zero": 1
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 7,
+          "average": 0.05223880597014925,
           "average w/o zero": 1
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 26,
+          "average": 0.15204678362573099,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 3,
+          "average": 0.01764705882352941,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 8,
+          "average": 0.058823529411764705,
           "average w/o zero": 1
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 17,
+          "average": 0.125,
           "average w/o zero": 1
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 10,
+          "average": 0.10752688172043011,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
+          "sum": 2,
+          "average": 0.027777777777777776,
           "average w/o zero": 1
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
+          "sum": 25,
+          "average": 0.14450867052023122,
           "average w/o zero": 1
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 17,
+          "average": 0.10828025477707007,
           "average w/o zero": 1
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 10,
+          "average": 0.072992700729927,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 19,
+          "average": 0.1310344827586207,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
+          "sum": 22,
+          "average": 0.13496932515337423,
           "average w/o zero": 1
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
+          "sum": 5,
+          "average": 0.031055900621118012,
           "average w/o zero": 1
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 2,
+          "average": 0.012738853503184714,
           "average w/o zero": 1
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
+          "sum": 7,
+          "average": 0.06796116504854369,
           "average w/o zero": 1
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 9,
+          "average": 0.052941176470588235,
           "average w/o zero": 1
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021052631578947368,
           "average w/o zero": 1
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 4,
+          "average": 0.030534351145038167,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0375,
           "average w/o zero": 1
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 4,
+          "average": 0.025,
           "average w/o zero": 1
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
+          "sum": 16,
+          "average": 0.10457516339869281,
           "average w/o zero": 1
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
+          "sum": 9,
+          "average": 0.06,
           "average w/o zero": 1
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
+          "sum": 4,
+          "average": 0.038461538461538464,
           "average w/o zero": 1
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 9,
+          "average": 0.07563025210084033,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 4,
+          "average": 0.03076923076923077,
           "average w/o zero": 1
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 3,
+          "average": 0.0375,
           "average w/o zero": 1
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006578947368421052,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 4,
+          "average": 0.022988505747126436,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
+          "sum": 3,
+          "average": 0.02564102564102564,
           "average w/o zero": 1
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
+          "sum": 2,
+          "average": 0.027777777777777776,
           "average w/o zero": 1
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 9,
+          "average": 0.06569343065693431,
           "average w/o zero": 1
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 24,
+          "average": 0.1791044776119403,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 32,
+          "average": 0.1871345029239766,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 8,
+          "average": 0.08163265306122448,
           "average w/o zero": 1
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 14,
+          "average": 0.08433734939759036,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011428571428571429,
           "average w/o zero": 1
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 13,
+          "average": 0.07602339181286549,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 4,
+          "average": 0.028169014084507043,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
+          "sum": 29,
+          "average": 0.17901234567901234,
           "average w/o zero": 1
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 2,
+          "average": 0.023809523809523808,
           "average w/o zero": 1
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
+          "sum": 3,
+          "average": 0.02727272727272727,
           "average w/o zero": 1
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 7,
+          "average": 0.07142857142857142,
           "average w/o zero": 1
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 4,
+          "average": 0.046511627906976744,
           "average w/o zero": 1
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
+          "sum": 1,
+          "average": 0.013157894736842105,
           "average w/o zero": 1
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
+          "sum": 2,
+          "average": 0.028169014084507043,
           "average w/o zero": 1
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011627906976744186,
           "average w/o zero": 1
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011627906976744186,
           "average w/o zero": 1
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010416666666666666,
           "average w/o zero": 1
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
+          "sum": 2,
+          "average": 0.02197802197802198,
           "average w/o zero": 1
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010869565217391304,
           "average w/o zero": 1
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
+          "sum": 1,
+          "average": 0.012048192771084338,
           "average w/o zero": 1
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0449438202247191,
           "average w/o zero": 1
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021052631578947368,
           "average w/o zero": 1
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 24,
+          "average": 0.15483870967741936,
           "average w/o zero": 1
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007692307692307693,
           "average w/o zero": 1
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 2,
+          "average": 0.047619047619047616,
           "average w/o zero": 1
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
+          "sum": 3,
+          "average": 0.04838709677419355,
           "average w/o zero": 1
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011904761904761904,
           "average w/o zero": 1
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011494252873563218,
           "average w/o zero": 1
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0136986301369863,
           "average w/o zero": 1
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02857142857142857,
           "average w/o zero": 1
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 2,
+          "average": 0.05714285714285714,
           "average w/o zero": 1
         }
       },
@@ -3243,904 +3243,904 @@ VISUALIZER_DATA_BARS = [
       "decision.dissent agrees": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
+          "sum": 2,
+          "average": 0.017391304347826087,
           "average w/o zero": 1
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 2,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 7,
+          "average": 0.0374331550802139,
           "average w/o zero": 1
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 2,
+          "average": 0.018691588785046728,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007462686567164179,
           "average w/o zero": 1
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005847953216374269,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011764705882352941,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010752688172043012,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
+          "sum": 4,
+          "average": 0.023121387283236993,
           "average w/o zero": 1
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006369426751592357,
           "average w/o zero": 1
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014598540145985401,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 3,
+          "average": 0.020689655172413793,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006134969325153374,
           "average w/o zero": 1
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0064516129032258064,
           "average w/o zero": 1
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015267175572519083,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006535947712418301,
           "average w/o zero": 1
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 2,
+          "average": 0.01680672268907563,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 3,
+          "average": 0.023076923076923078,
           "average w/o zero": 1
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 2,
+          "average": 0.013157894736842105,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005747126436781609,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 6,
+          "average": 0.04477611940298507,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011695906432748537,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 3,
+          "average": 0.030612244897959183,
           "average w/o zero": 1
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 2,
+          "average": 0.012048192771084338,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 3,
+          "average": 0.017543859649122806,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014084507042253521,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
+          "sum": 3,
+          "average": 0.018518518518518517,
           "average w/o zero": 1
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
+          "sum": 1,
+          "average": 0.00909090909090909,
           "average w/o zero": 1
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0070921985815602835,
           "average w/o zero": 1
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
+          "sum": 1,
+          "average": 0.014084507042253521,
           "average w/o zero": 1
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011627906976744186,
           "average w/o zero": 1
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
+          "sum": 2,
+          "average": 0.024096385542168676,
           "average w/o zero": 1
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010526315789473684,
           "average w/o zero": 1
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0064516129032258064,
           "average w/o zero": 1
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 1,
+          "average": 0.030303030303030304,
           "average w/o zero": 1
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011904761904761904,
           "average w/o zero": 1
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
+          "sum": 1,
+          "average": 0.016129032258064516,
           "average w/o zero": 1
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0136986301369863,
           "average w/o zero": 1
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 3,
+          "average": 0.08571428571428572,
           "average w/o zero": 1
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "decision.precedent altered?": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 1,
+          "average": 0.04,
           "average w/o zero": 1
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008695652173913044,
           "average w/o zero": 1
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 4,
+          "average": 0.025,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0213903743315508,
           "average w/o zero": 1
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 2,
+          "average": 0.018691588785046728,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
+          "sum": 10,
+          "average": 0.05291005291005291,
           "average w/o zero": 1
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014925373134328358,
           "average w/o zero": 1
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 7,
+          "average": 0.04093567251461988,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 4,
+          "average": 0.023529411764705882,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014705882352941176,
           "average w/o zero": 1
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03676470588235294,
           "average w/o zero": 1
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021505376344086023,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
+          "sum": 3,
+          "average": 0.017341040462427744,
           "average w/o zero": 1
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 4,
+          "average": 0.025477707006369428,
           "average w/o zero": 1
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014598540145985401,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 3,
+          "average": 0.020689655172413793,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
+          "sum": 2,
+          "average": 0.012269938650306749,
           "average w/o zero": 1
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
+          "sum": 3,
+          "average": 0.018633540372670808,
           "average w/o zero": 1
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 3,
+          "average": 0.01910828025477707,
           "average w/o zero": 1
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 5,
+          "average": 0.029411764705882353,
           "average w/o zero": 1
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 2,
+          "average": 0.012903225806451613,
           "average w/o zero": 1
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010526315789473684,
           "average w/o zero": 1
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03816793893129771,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 2,
+          "average": 0.025,
           "average w/o zero": 1
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 3,
+          "average": 0.01875,
           "average w/o zero": 1
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
+          "sum": 2,
+          "average": 0.013071895424836602,
           "average w/o zero": 1
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006666666666666667,
           "average w/o zero": 1
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 2,
+          "average": 0.01680672268907563,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006578947368421052,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011494252873563218,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008547008547008548,
           "average w/o zero": 1
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014598540145985401,
           "average w/o zero": 1
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03731343283582089,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 4,
+          "average": 0.023391812865497075,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 7,
+          "average": 0.04216867469879518,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011428571428571429,
           "average w/o zero": 1
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 7,
+          "average": 0.04093567251461988,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014084507042253521,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
+          "sum": 4,
+          "average": 0.026845637583892617,
           "average w/o zero": 1
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
+          "sum": 3,
+          "average": 0.018518518518518517,
           "average w/o zero": 1
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011904761904761904,
           "average w/o zero": 1
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
+          "sum": 3,
+          "average": 0.02727272727272727,
           "average w/o zero": 1
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
+          "sum": 2,
+          "average": 0.014184397163120567,
           "average w/o zero": 1
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 3,
+          "average": 0.030612244897959183,
           "average w/o zero": 1
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 2,
+          "average": 0.023255813953488372,
           "average w/o zero": 1
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
+          "sum": 1,
+          "average": 0.012345679012345678,
           "average w/o zero": 1
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
+          "sum": 5,
+          "average": 0.06578947368421052,
           "average w/o zero": 1
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
+          "sum": 1,
+          "average": 0.014084507042253521,
           "average w/o zero": 1
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 2,
+          "average": 0.023255813953488372,
           "average w/o zero": 1
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 2,
+          "average": 0.023255813953488372,
           "average w/o zero": 1
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010416666666666666,
           "average w/o zero": 1
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
+          "sum": 3,
+          "average": 0.03296703296703297,
           "average w/o zero": 1
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021739130434782608,
           "average w/o zero": 1
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
+          "sum": 1,
+          "average": 0.012048192771084338,
           "average w/o zero": 1
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
+          "sum": 4,
+          "average": 0.0449438202247191,
           "average w/o zero": 1
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 2,
+          "average": 0.021052631578947368,
           "average w/o zero": 1
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 2,
+          "average": 0.012903225806451613,
           "average w/o zero": 1
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 1,
+          "average": 0.030303030303030304,
           "average w/o zero": 1
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 4,
+          "average": 0.047619047619047616,
           "average w/o zero": 1
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 5,
+          "average": 0.038461538461538464,
           "average w/o zero": 1
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 3,
+          "average": 0.07142857142857142,
           "average w/o zero": 1
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
+          "sum": 2,
+          "average": 0.03225806451612903,
           "average w/o zero": 1
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011904761904761904,
           "average w/o zero": 1
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
+          "sum": 1,
+          "average": 0.011494252873563218,
           "average w/o zero": 1
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 1,
+          "average": 0.02857142857142857,
           "average w/o zero": 1
         }
       },
@@ -5503,452 +5503,452 @@ VISUALIZER_DATA_BARS = [
       "lower court.disagreement?": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
+          "sum": 6,
+          "average": 0.24,
           "average w/o zero": 1
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
+          "sum": 26,
+          "average": 0.22608695652173913,
           "average w/o zero": 1
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 43,
+          "average": 0.26875,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 34,
+          "average": 0.18181818181818182,
           "average w/o zero": 1
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 18,
+          "average": 0.16822429906542055,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
+          "sum": 35,
+          "average": 0.18518518518518517,
           "average w/o zero": 1
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 21,
+          "average": 0.15671641791044777,
           "average w/o zero": 1
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 23,
+          "average": 0.13450292397660818,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 41,
+          "average": 0.2411764705882353,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 23,
+          "average": 0.16911764705882354,
           "average w/o zero": 1
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 19,
+          "average": 0.13970588235294118,
           "average w/o zero": 1
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 17,
+          "average": 0.1827956989247312,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
+          "sum": 13,
+          "average": 0.18055555555555555,
           "average w/o zero": 1
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
+          "sum": 32,
+          "average": 0.18497109826589594,
           "average w/o zero": 1
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 31,
+          "average": 0.19745222929936307,
           "average w/o zero": 1
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 21,
+          "average": 0.15328467153284672,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 19,
+          "average": 0.1310344827586207,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
+          "sum": 40,
+          "average": 0.24539877300613497,
           "average w/o zero": 1
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
+          "sum": 36,
+          "average": 0.2236024844720497,
           "average w/o zero": 1
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 29,
+          "average": 0.18471337579617833,
           "average w/o zero": 1
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
+          "sum": 22,
+          "average": 0.21359223300970873,
           "average w/o zero": 1
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 24,
+          "average": 0.1411764705882353,
           "average w/o zero": 1
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 54,
+          "average": 0.34838709677419355,
           "average w/o zero": 1
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 16,
+          "average": 0.16842105263157894,
           "average w/o zero": 1
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 31,
+          "average": 0.2366412213740458,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 19,
+          "average": 0.2375,
           "average w/o zero": 1
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 45,
+          "average": 0.28125,
           "average w/o zero": 1
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
+          "sum": 25,
+          "average": 0.16339869281045752,
           "average w/o zero": 1
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
+          "sum": 22,
+          "average": 0.14666666666666667,
           "average w/o zero": 1
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
+          "sum": 15,
+          "average": 0.14423076923076922,
           "average w/o zero": 1
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 29,
+          "average": 0.24369747899159663,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 18,
+          "average": 0.13846153846153847,
           "average w/o zero": 1
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 27,
+          "average": 0.3375,
           "average w/o zero": 1
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 29,
+          "average": 0.19078947368421054,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 43,
+          "average": 0.2471264367816092,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
+          "sum": 28,
+          "average": 0.23931623931623933,
           "average w/o zero": 1
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
+          "sum": 21,
+          "average": 0.2916666666666667,
           "average w/o zero": 1
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 21,
+          "average": 0.15328467153284672,
           "average w/o zero": 1
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 13,
+          "average": 0.09701492537313433,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 35,
+          "average": 0.2046783625730994,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 18,
+          "average": 0.1836734693877551,
           "average w/o zero": 1
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 21,
+          "average": 0.12650602409638553,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
+          "sum": 43,
+          "average": 0.24571428571428572,
           "average w/o zero": 1
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 22,
+          "average": 0.1286549707602339,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 25,
+          "average": 0.176056338028169,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
+          "sum": 47,
+          "average": 0.31543624161073824,
           "average w/o zero": 1
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
+          "sum": 23,
+          "average": 0.1419753086419753,
           "average w/o zero": 1
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 21,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
+          "sum": 31,
+          "average": 0.2818181818181818,
           "average w/o zero": 1
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
+          "sum": 35,
+          "average": 0.24822695035460993,
           "average w/o zero": 1
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 28,
+          "average": 0.2857142857142857,
           "average w/o zero": 1
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 15,
+          "average": 0.1744186046511628,
           "average w/o zero": 1
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
+          "sum": 18,
+          "average": 0.2222222222222222,
           "average w/o zero": 1
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
+          "sum": 20,
+          "average": 0.2631578947368421,
           "average w/o zero": 1
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
+          "sum": 20,
+          "average": 0.28169014084507044,
           "average w/o zero": 1
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 28,
+          "average": 0.32558139534883723,
           "average w/o zero": 1
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 20,
+          "average": 0.23255813953488372,
           "average w/o zero": 1
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
+          "sum": 24,
+          "average": 0.25,
           "average w/o zero": 1
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
+          "sum": 19,
+          "average": 0.2087912087912088,
           "average w/o zero": 1
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
+          "sum": 24,
+          "average": 0.2608695652173913,
           "average w/o zero": 1
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
+          "sum": 30,
+          "average": 0.3614457831325301,
           "average w/o zero": 1
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
+          "sum": 21,
+          "average": 0.23595505617977527,
           "average w/o zero": 1
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 20,
+          "average": 0.21052631578947367,
           "average w/o zero": 1
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 26,
+          "average": 0.16774193548387098,
           "average w/o zero": 1
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
+          "sum": 25,
+          "average": 0.3125,
           "average w/o zero": 1
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
+          "sum": 8,
+          "average": 0.24242424242424243,
           "average w/o zero": 1
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 25,
+          "average": 0.2976190476190476,
           "average w/o zero": 1
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 33,
+          "average": 0.25384615384615383,
           "average w/o zero": 1
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
+          "sum": 10,
+          "average": 0.23809523809523808,
           "average w/o zero": 1
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
+          "sum": 20,
+          "average": 0.3225806451612903,
           "average w/o zero": 1
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
+          "sum": 22,
+          "average": 0.2619047619047619,
           "average w/o zero": 1
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
+          "sum": 19,
+          "average": 0.21839080459770116,
           "average w/o zero": 1
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
+          "sum": 18,
+          "average": 0.2465753424657534,
           "average w/o zero": 1
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 19,
+          "average": 0.5428571428571428,
           "average w/o zero": 1
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
+          "sum": 14,
+          "average": 0.4,
           "average w/o zero": 1
         }
       },
@@ -8667,905 +8667,905 @@ VISUALIZER_DATA_BARS = [
       "voting.split on second": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "voting.unclear": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 6,
+          "average": 0.0375,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 1,
+          "average": 0.009345794392523364,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 5,
+          "average": 0.029239766081871343,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0058823529411764705,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 4,
+          "average": 0.029411764705882353,
           "average w/o zero": 1
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 6,
+          "average": 0.04411764705882353,
           "average w/o zero": 1
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010752688172043012,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 3,
+          "average": 0.021897810218978103,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 2,
+          "average": 0.013793103448275862,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
+          "sum": 9,
+          "average": 0.08737864077669903,
           "average w/o zero": 1
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 4,
+          "average": 0.023529411764705882,
           "average w/o zero": 1
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015267175572519083,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 2,
+          "average": 0.0125,
           "average w/o zero": 1
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
+          "sum": 2,
+          "average": 0.013333333333333334,
           "average w/o zero": 1
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 6,
+          "average": 0.05042016806722689,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007692307692307693,
           "average w/o zero": 1
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006578947368421052,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 6,
+          "average": 0.034482758620689655,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 6,
+          "average": 0.043795620437956206,
           "average w/o zero": 1
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 4,
+          "average": 0.029850746268656716,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005847953216374269,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01020408163265306,
           "average w/o zero": 1
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 5,
+          "average": 0.030120481927710843,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
+          "sum": 3,
+          "average": 0.017142857142857144,
           "average w/o zero": 1
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005847953216374269,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007042253521126761,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 2,
+          "average": 0.023255813953488372,
           "average w/o zero": 1
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010416666666666666,
           "average w/o zero": 1
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "arguments.petitioner.id": {
@@ -10927,453 +10927,453 @@ VISUALIZER_DATA_BARS = [
       "decision.case.unusual": {
         "1946": {
           "count": 25,
-          "sum": 25,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1948": {
           "count": 115,
-          "sum": 115,
-          "average": 1,
+          "sum": 1,
+          "average": 0.008695652173913044,
           "average w/o zero": 1
         },
         "1987": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03125,
           "average w/o zero": 1
         },
         "1973": {
           "count": 187,
-          "sum": 187,
-          "average": 1,
+          "sum": 5,
+          "average": 0.026737967914438502,
           "average w/o zero": 1
         },
         "1952": {
           "count": 107,
-          "sum": 107,
-          "average": 1,
+          "sum": 3,
+          "average": 0.028037383177570093,
           "average w/o zero": 1
         },
         "1976": {
           "count": 189,
-          "sum": 189,
-          "average": 1,
+          "sum": 4,
+          "average": 0.021164021164021163,
           "average w/o zero": 1
         },
         "1947": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 1,
+          "average": 0.007462686567164179,
           "average w/o zero": 1
         },
         "1964": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 13,
+          "average": 0.07602339181286549,
           "average w/o zero": 1
         },
         "1984": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011764705882352941,
           "average w/o zero": 1
         },
         "1961": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
+          "sum": 3,
+          "average": 0.022058823529411766,
           "average w/o zero": 1
         },
         "1969": {
           "count": 136,
-          "sum": 136,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1950": {
           "count": 93,
-          "sum": 93,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010752688172043012,
           "average w/o zero": 1
         },
         "2008": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1972": {
           "count": 173,
-          "sum": 173,
-          "average": 1,
+          "sum": 5,
+          "average": 0.028901734104046242,
           "average w/o zero": 1
         },
         "1978": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 3,
+          "average": 0.01910828025477707,
           "average w/o zero": 1
         },
         "1966": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 6,
+          "average": 0.043795620437956206,
           "average w/o zero": 1
         },
         "1965": {
           "count": 145,
-          "sum": 145,
-          "average": 1,
+          "sum": 5,
+          "average": 0.034482758620689655,
           "average w/o zero": 1
         },
         "1974": {
           "count": 163,
-          "sum": 163,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03067484662576687,
           "average w/o zero": 1
         },
         "1980": {
           "count": 161,
-          "sum": 161,
-          "average": 1,
+          "sum": 4,
+          "average": 0.024844720496894408,
           "average w/o zero": 1
         },
         "1983": {
           "count": 157,
-          "sum": 157,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03184713375796178,
           "average w/o zero": 1
         },
         "1956": {
           "count": 103,
-          "sum": 103,
-          "average": 1,
+          "sum": 1,
+          "average": 0.009708737864077669,
           "average w/o zero": 1
         },
         "1963": {
           "count": 170,
-          "sum": 170,
-          "average": 1,
+          "sum": 3,
+          "average": 0.01764705882352941,
           "average w/o zero": 1
         },
         "1988": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 4,
+          "average": 0.025806451612903226,
           "average w/o zero": 1
         },
         "1955": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 3,
+          "average": 0.031578947368421054,
           "average w/o zero": 1
         },
         "1949": {
           "count": 131,
-          "sum": 131,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015267175572519083,
           "average w/o zero": 1
         },
         "2006": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1986": {
           "count": 160,
-          "sum": 160,
-          "average": 1,
+          "sum": 5,
+          "average": 0.03125,
           "average w/o zero": 1
         },
         "1979": {
           "count": 153,
-          "sum": 153,
-          "average": 1,
+          "sum": 4,
+          "average": 0.026143790849673203,
           "average w/o zero": 1
         },
         "1958": {
           "count": 150,
-          "sum": 150,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006666666666666667,
           "average w/o zero": 1
         },
         "1953": {
           "count": 104,
-          "sum": 104,
-          "average": 1,
+          "sum": 3,
+          "average": 0.028846153846153848,
           "average w/o zero": 1
         },
         "1962": {
           "count": 119,
-          "sum": 119,
-          "average": 1,
+          "sum": 4,
+          "average": 0.03361344537815126,
           "average w/o zero": 1
         },
         "1959": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
+          "sum": 2,
+          "average": 0.015384615384615385,
           "average w/o zero": 1
         },
         "2003": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1981": {
           "count": 152,
-          "sum": 152,
-          "average": 1,
+          "sum": 2,
+          "average": 0.013157894736842105,
           "average w/o zero": 1
         },
         "1982": {
           "count": 174,
-          "sum": 174,
-          "average": 1,
+          "sum": 1,
+          "average": 0.005747126436781609,
           "average w/o zero": 1
         },
         "1993": {
           "count": 117,
-          "sum": 117,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2014": {
           "count": 72,
-          "sum": 72,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1957": {
           "count": 137,
-          "sum": 137,
-          "average": 1,
+          "sum": 5,
+          "average": 0.0364963503649635,
           "average w/o zero": 1
         },
         "1970": {
           "count": 134,
-          "sum": 134,
-          "average": 1,
+          "sum": 3,
+          "average": 0.022388059701492536,
           "average w/o zero": 1
         },
         "1977": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 2,
+          "average": 0.011695906432748537,
           "average w/o zero": 1
         },
         "1951": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
+          "sum": 9,
+          "average": 0.09183673469387756,
           "average w/o zero": 1
         },
         "1967": {
           "count": 166,
-          "sum": 166,
-          "average": 1,
+          "sum": 1,
+          "average": 0.006024096385542169,
           "average w/o zero": 1
         },
         "1985": {
           "count": 175,
-          "sum": 175,
-          "average": 1,
+          "sum": 3,
+          "average": 0.017142857142857144,
           "average w/o zero": 1
         },
         "1968": {
           "count": 171,
-          "sum": 171,
-          "average": 1,
+          "sum": 8,
+          "average": 0.04678362573099415,
           "average w/o zero": 1
         },
         "1960": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 7,
+          "average": 0.04929577464788732,
           "average w/o zero": 1
         },
         "1989": {
           "count": 149,
-          "sum": 149,
-          "average": 1,
+          "sum": 3,
+          "average": 0.020134228187919462,
           "average w/o zero": 1
         },
         "1971": {
           "count": 162,
-          "sum": 162,
-          "average": 1,
+          "sum": 3,
+          "average": 0.018518518518518517,
           "average w/o zero": 1
         },
         "2000": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1992": {
           "count": 110,
-          "sum": 110,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1990": {
           "count": 141,
-          "sum": 141,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0070921985815602835,
           "average w/o zero": 1
         },
         "1997": {
           "count": 98,
-          "sum": 98,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1954": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
+          "sum": 5,
+          "average": 0.05813953488372093,
           "average w/o zero": 1
         },
         "2013": {
           "count": 81,
-          "sum": 81,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 76,
-          "sum": 76,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2016": {
           "count": 71,
-          "sum": 71,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2009": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2010": {
           "count": 86,
-          "sum": 86,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1998": {
           "count": 96,
-          "sum": 96,
-          "average": 1,
+          "sum": 3,
+          "average": 0.03125,
           "average w/o zero": 1
         },
         "1995": {
           "count": 91,
-          "sum": 91,
-          "average": 1,
+          "sum": 1,
+          "average": 0.01098901098901099,
           "average w/o zero": 1
         },
         "1999": {
           "count": 92,
-          "sum": 92,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2004": {
           "count": 83,
-          "sum": 83,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1996": {
           "count": 89,
-          "sum": 89,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1994": {
           "count": 95,
-          "sum": 95,
-          "average": 1,
+          "sum": 1,
+          "average": 0.010526315789473684,
           "average w/o zero": 1
         },
         "1975": {
           "count": 155,
-          "sum": 155,
-          "average": 1,
+          "sum": 1,
+          "average": 0.0064516129032258064,
           "average w/o zero": 1
         },
         "2005": {
           "count": 80,
-          "sum": 80,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2020": {
           "count": 33,
-          "sum": 33,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2002": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1991": {
           "count": 130,
-          "sum": 130,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2018": {
           "count": 42,
-          "sum": 42,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2015": {
           "count": 62,
-          "sum": 62,
-          "average": 1,
+          "sum": 1,
+          "average": 0.016129032258064516,
           "average w/o zero": 1
         },
         "2001": {
           "count": 84,
-          "sum": 84,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2011": {
           "count": 87,
-          "sum": 87,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2012": {
           "count": 73,
-          "sum": 73,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2017": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2019": {
           "count": 35,
-          "sum": 35,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         }
       },
       "decision.date.day": {

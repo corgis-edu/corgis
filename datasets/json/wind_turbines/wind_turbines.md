@@ -113,16 +113,16 @@ Download the following file:
 </tr>
 
 <tr>
-    <td>Site.Latitude</td>
+    <td>Site.Longitude</td>
     <td>Float</td> 
-    <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td>
+    <td>Longitude (decimal degrees - NAD 83 datum)</td>
     <td><code>-93.518082</code></td>
 </tr>
 
 <tr>
-    <td>Site.Longitude</td>
+    <td>Site.Latitude</td>
     <td>Float</td> 
-    <td>Longitude (decimal degrees - NAD 83 datum)</td>
+    <td>Latitude (decimal degrees - NAD 83 datum) of where turbine is located</td>
     <td><code>42.01363</code></td>
 </tr>
 

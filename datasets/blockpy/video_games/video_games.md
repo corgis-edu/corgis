@@ -63,14 +63,14 @@ Some more information can be found <a href="https://researchportal.port.ac.uk/po
     <td>Features.Multiplatform?</td>
     <td>Boolean</td> 
     <td>Whether this game is available on multiple platforms.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>Features.Online?</td>
     <td>Boolean</td> 
     <td>Whether this game supports online play.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
@@ -84,7 +84,7 @@ Some more information can be found <a href="https://researchportal.port.ac.uk/po
     <td>Metadata.Licensed?</td>
     <td>Boolean</td> 
     <td>Whether this game was based off a previously licensed entity.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>

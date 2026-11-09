@@ -193,7 +193,7 @@ Download the following file:
     <td>wealth.how.was political</td>
     <td>Boolean</td> 
     <td>Whether the money came from politics.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 </table>

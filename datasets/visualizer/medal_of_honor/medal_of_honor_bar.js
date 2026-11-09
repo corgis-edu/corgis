@@ -16,32 +16,32 @@ VISUALIZER_DATA_BARS = [
         },
         "-1": {
           "count": 1270,
-          "sum": 1270,
-          "average": 1,
+          "sum": 1205,
+          "average": 0.9488188976377953,
           "average w/o zero": 1
         },
         "1944": {
           "count": 142,
-          "sum": 142,
-          "average": 1,
+          "sum": 130,
+          "average": 0.9154929577464789,
           "average w/o zero": 1
         },
         "1943": {
           "count": 39,
-          "sum": 39,
-          "average": 1,
+          "sum": 37,
+          "average": 0.9487179487179487,
           "average w/o zero": 1
         },
         "1951": {
           "count": 40,
-          "sum": 40,
-          "average": 1,
+          "sum": 37,
+          "average": 0.925,
           "average w/o zero": 1
         },
         "1945": {
           "count": 85,
-          "sum": 85,
-          "average": 1,
+          "sum": 76,
+          "average": 0.8941176470588236,
           "average w/o zero": 1
         },
         "1898": {
@@ -52,20 +52,20 @@ VISUALIZER_DATA_BARS = [
         },
         "2004": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1952": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 20,
+          "average": 0.8333333333333334,
           "average w/o zero": 1
         },
         "1953": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 4,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "1942": {
@@ -76,14 +76,14 @@ VISUALIZER_DATA_BARS = [
         },
         "1968": {
           "count": 51,
-          "sum": 51,
-          "average": 1,
+          "sum": 35,
+          "average": 0.6862745098039216,
           "average w/o zero": 1
         },
         "1966": {
           "count": 24,
-          "sum": 24,
-          "average": 1,
+          "sum": 16,
+          "average": 0.6666666666666666,
           "average w/o zero": 1
         },
         "1899": {
@@ -106,32 +106,32 @@ VISUALIZER_DATA_BARS = [
         },
         "194": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1950": {
           "count": 30,
-          "sum": 30,
-          "average": 1,
+          "sum": 28,
+          "average": 0.9333333333333333,
           "average w/o zero": 1
         },
         "1965": {
           "count": 10,
-          "sum": 10,
-          "average": 1,
+          "sum": 6,
+          "average": 0.6,
           "average w/o zero": 1
         },
         "1969": {
           "count": 47,
-          "sum": 47,
-          "average": 1,
+          "sum": 41,
+          "average": 0.8723404255319149,
           "average w/o zero": 1
         },
         "1967": {
           "count": 56,
-          "sum": 56,
-          "average": 1,
+          "sum": 46,
+          "average": 0.8214285714285714,
           "average w/o zero": 1
         },
         "1900": {
@@ -160,9 +160,9 @@ VISUALIZER_DATA_BARS = [
         },
         "2006": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1902": {
           "count": 2,
@@ -184,8 +184,8 @@ VISUALIZER_DATA_BARS = [
         },
         "1970": {
           "count": 20,
-          "sum": 20,
-          "average": 1,
+          "sum": 16,
+          "average": 0.8,
           "average w/o zero": 1
         },
         "1914": {
@@ -220,8 +220,8 @@ VISUALIZER_DATA_BARS = [
         },
         "1971": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
+          "sum": 3,
+          "average": 0.6,
           "average w/o zero": 1
         },
         "1906": {
@@ -232,15 +232,15 @@ VISUALIZER_DATA_BARS = [
         },
         "2005": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "2007": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1911": {
           "count": 3,
@@ -256,9 +256,9 @@ VISUALIZER_DATA_BARS = [
         },
         "1964": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "1918": {
           "count": 89,
@@ -334,8 +334,8 @@ VISUALIZER_DATA_BARS = [
         },
         "1972": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
+          "sum": 1,
+          "average": 0.5,
           "average w/o zero": 1
         },
         "1910": {
@@ -400,8 +400,8 @@ VISUALIZER_DATA_BARS = [
         },
         "1941": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
+          "sum": 3,
+          "average": 0.75,
           "average w/o zero": 1
         },
         "186": {

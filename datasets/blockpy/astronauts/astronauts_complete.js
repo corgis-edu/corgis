@@ -730,7 +730,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1926,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Voskhod-1 / TsKBEM-1",
         "Year": 1964
@@ -766,7 +766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1937,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Voskhod-1",
         "Year": 1964
@@ -1774,7 +1774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1958 USAF Man in Space Soonest, 1960 USAF Dyna-Soar, NASA- 2",
         "Year": 1962
@@ -1810,7 +1810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1958 USAF Man in Space Soonest, 1960 USAF Dyna-Soar, NASA- 2",
         "Year": 1962
@@ -2062,7 +2062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 3",
         "Year": 1963
@@ -2098,7 +2098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 3",
         "Year": 1963
@@ -2314,7 +2314,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1932,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 3",
         "Year": 1963
@@ -2350,7 +2350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -2386,7 +2386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -2422,7 +2422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1947,
       "Nationality": "Mongolia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 Intercosmos Group",
         "Year": 1978
@@ -2602,7 +2602,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "Romania",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 Intercosmos Group",
         "Year": 1978
@@ -3106,7 +3106,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -3178,7 +3178,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 3",
         "Year": 1963
@@ -3394,7 +3394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1934,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-1",
         "Year": 1968
@@ -3430,7 +3430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1934,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-2",
         "Year": 1968
@@ -3466,7 +3466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1934,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-3",
         "Year": 1968
@@ -3538,7 +3538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1963 NASA group 3",
         "Year": 1963
@@ -4042,7 +4042,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1966 NASA group 5",
         "Year": 1966
@@ -4078,7 +4078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 5",
         "Year": 1966
@@ -4114,7 +4114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Mishin-Group / TsKBEM-1",
         "Year": 1968
@@ -4150,7 +4150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Mishin-Group / TsKBEM-2",
         "Year": 1968
@@ -4438,7 +4438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-1",
         "Year": 1968
@@ -4726,7 +4726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-4",
         "Year": 1965
@@ -4942,7 +4942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 4",
         "Year": 1965
@@ -4978,7 +4978,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1930,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 5",
         "Year": 1965
@@ -5050,7 +5050,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-1",
         "Year": 1968
@@ -5086,7 +5086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-2",
         "Year": 1968
@@ -5122,7 +5122,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1933,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-3",
         "Year": 1968
@@ -5230,7 +5230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1936,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 4",
         "Year": 1965
@@ -5374,7 +5374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-2 / AN-4",
         "Year": 1972
@@ -5410,7 +5410,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-2 / AN-5",
         "Year": 1972
@@ -5626,7 +5626,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-3",
         "Year": 1968
@@ -5662,7 +5662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-4",
         "Year": 1968
@@ -5698,7 +5698,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Korolyov-Group / Mishin-Group / TsKBEM-1 / AN-5",
         "Year": 1968
@@ -5734,7 +5734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 5",
         "Year": 1966
@@ -5770,7 +5770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 5",
         "Year": 1966
@@ -5806,7 +5806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 5",
         "Year": 1966
@@ -5842,7 +5842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1931,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 5",
         "Year": 1966
@@ -5878,7 +5878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1924,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1959 NASA group 1",
         "Year": 1959
@@ -6238,7 +6238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1939,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -6274,7 +6274,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1939,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -6310,7 +6310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1939,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -6346,7 +6346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1939,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7354,7 +7354,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7390,7 +7390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7426,7 +7426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7462,7 +7462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7498,7 +7498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsKBEM-3",
         "Year": 1973
@@ -7534,7 +7534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -7570,7 +7570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -7606,7 +7606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -7642,7 +7642,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -7678,7 +7678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1948,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "MAP",
         "Year": 1980
@@ -7714,7 +7714,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1948,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "MAP",
         "Year": 1980
@@ -7822,7 +7822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1937,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 6",
         "Year": 1967
@@ -7858,7 +7858,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1937,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 6",
         "Year": 1967
@@ -7894,7 +7894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1939,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 6",
         "Year": 1967
@@ -8074,7 +8074,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8110,7 +8110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8146,7 +8146,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8182,7 +8182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8218,7 +8218,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8254,7 +8254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1935,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -8614,7 +8614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -8650,7 +8650,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -8686,7 +8686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -8722,7 +8722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -8758,7 +8758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -8794,7 +8794,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -8830,7 +8830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -8866,7 +8866,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -8902,7 +8902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -9298,7 +9298,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1929,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1967 NASA group",
         "Year": 1967
@@ -9334,7 +9334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1929,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1967 NASA group",
         "Year": 1967
@@ -9478,7 +9478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1936,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -9514,7 +9514,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1936,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-6",
         "Year": 1967
@@ -9622,7 +9622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1941,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-1",
         "Year": 1978
@@ -9658,7 +9658,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1941,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-1",
         "Year": 1978
@@ -9694,7 +9694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1941,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-1",
         "Year": 1978
@@ -9910,7 +9910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -9946,7 +9946,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -10126,7 +10126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -10162,7 +10162,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -10198,7 +10198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "AMN",
         "Year": 1983
@@ -10342,7 +10342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10378,7 +10378,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -10414,7 +10414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -10450,7 +10450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -10486,7 +10486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -10522,7 +10522,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -10810,7 +10810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10846,7 +10846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10882,7 +10882,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10918,7 +10918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10954,7 +10954,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -10990,7 +10990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -11026,7 +11026,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-9",
         "Year": 1978
@@ -11062,7 +11062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS",
         "Year": 1983
@@ -11098,7 +11098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS",
         "Year": 1983
@@ -11134,7 +11134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS",
         "Year": 1983
@@ -11206,7 +11206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -11242,7 +11242,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -11278,7 +11278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 NASA group",
         "Year": 1978
@@ -11422,7 +11422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS",
         "Year": 1984
@@ -11710,7 +11710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12178,7 +12178,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -12214,7 +12214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -12250,7 +12250,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-8",
         "Year": 1978
@@ -12286,7 +12286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 8",
         "Year": 1978
@@ -12322,7 +12322,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12358,7 +12358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12394,7 +12394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12430,7 +12430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12466,7 +12466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -12682,7 +12682,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1932,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS",
         "Year": 1983
@@ -12718,7 +12718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Spacelab-3 mission payload specialist",
         "Year": 1984
@@ -13006,7 +13006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -13042,7 +13042,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -13078,7 +13078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -13114,7 +13114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -13150,7 +13150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 8",
         "Year": 1978
@@ -13222,7 +13222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "Saudi Arabia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Saudi-Arabia",
         "Year": 1985
@@ -13294,7 +13294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1926,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 6",
         "Year": 1967
@@ -13330,7 +13330,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 6",
         "Year": 1967
@@ -13366,7 +13366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1936,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Spacelab-2",
         "Year": 1978
@@ -13402,7 +13402,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Spacelab-2",
         "Year": 1978
@@ -13582,7 +13582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -13618,7 +13618,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -13654,7 +13654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -13690,7 +13690,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14194,7 +14194,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14230,7 +14230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14266,7 +14266,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14302,7 +14302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14338,7 +14338,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14374,7 +14374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-1",
         "Year": 1982
@@ -14446,7 +14446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "Netherland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 ESA Group",
         "Year": 1978
@@ -14806,7 +14806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14842,7 +14842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1947,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -14914,7 +14914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "Mexico",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1985 NASA Group",
         "Year": 1985
@@ -15094,7 +15094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15130,7 +15130,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15166,7 +15166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15202,7 +15202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15238,7 +15238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15274,7 +15274,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15310,7 +15310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -15346,7 +15346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS by RCA",
         "Year": 1985
@@ -15382,7 +15382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Congress Observer",
         "Year": 1984
@@ -15454,7 +15454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS by SAL",
         "Year": 1984
@@ -15490,7 +15490,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1948,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1985 Teacher in Space",
         "Year": 1985
@@ -15526,7 +15526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -16066,7 +16066,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "IMBP-1",
         "Year": 1972
@@ -16102,7 +16102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "IMBP-1",
         "Year": 1972
@@ -16174,7 +16174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16210,7 +16210,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16246,7 +16246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16282,7 +16282,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16318,7 +16318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16354,7 +16354,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-7",
         "Year": 1985
@@ -16858,7 +16858,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -16894,7 +16894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 9",
         "Year": 1980
@@ -17398,7 +17398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -17434,7 +17434,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -17470,7 +17470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -17542,7 +17542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group",
         "Year": 1984
@@ -17578,7 +17578,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group",
         "Year": 1984
@@ -17614,7 +17614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group",
         "Year": 1984
@@ -17650,7 +17650,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group",
         "Year": 1984
@@ -17902,7 +17902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -17938,7 +17938,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -17974,7 +17974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18010,7 +18010,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18046,7 +18046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18082,7 +18082,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18118,7 +18118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18154,7 +18154,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 10",
         "Year": 1984
@@ -18190,7 +18190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-4",
         "Year": 1978
@@ -19234,7 +19234,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Astro-1",
         "Year": 1984
@@ -19270,7 +19270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1943,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Astro-2",
         "Year": 1984
@@ -19306,7 +19306,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Astro-1",
         "Year": 1984
@@ -19342,7 +19342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Astro-1",
         "Year": 1984
@@ -19522,7 +19522,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1942,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TBS",
         "Year": 1989
@@ -19666,7 +19666,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 11",
         "Year": 1985
@@ -19702,7 +19702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 12",
         "Year": 1985
@@ -19738,7 +19738,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 13",
         "Year": 1985
@@ -19774,7 +19774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 14",
         "Year": 1985
@@ -19810,7 +19810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -19846,7 +19846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -19882,7 +19882,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -19918,7 +19918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -20026,7 +20026,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 12",
         "Year": 1987
@@ -20062,7 +20062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 13",
         "Year": 1987
@@ -20098,7 +20098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 14",
         "Year": 1987
@@ -20134,7 +20134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 15",
         "Year": 1987
@@ -20278,7 +20278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group 10",
         "Year": 1984
@@ -20314,7 +20314,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1984 NASA group 10",
         "Year": 1984
@@ -20350,7 +20350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -20386,7 +20386,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1985
@@ -20422,7 +20422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1985
@@ -20494,7 +20494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1963,
       "Nationality": "U.K.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1989 Juno",
         "Year": 1989
@@ -20602,7 +20602,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 11",
         "Year": 1985
@@ -20638,7 +20638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1985
@@ -20674,7 +20674,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1985
@@ -20710,7 +20710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1985
@@ -20746,7 +20746,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 15",
         "Year": 1985
@@ -20782,7 +20782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Spacelab-4 / SLS-1",
         "Year": 1984
@@ -20818,7 +20818,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1945,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA PS",
         "Year": 1983
@@ -21106,7 +21106,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "Austria",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Austria",
         "Year": 1989
@@ -21718,7 +21718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-12",
         "Year": 1987
@@ -21754,7 +21754,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-12",
         "Year": 1987
@@ -21790,7 +21790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-12",
         "Year": 1987
@@ -21826,7 +21826,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1945,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1983 NRC Group",
         "Year": 1983
@@ -21862,7 +21862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-6",
         "Year": 1984
@@ -21898,7 +21898,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-6",
         "Year": 1984
@@ -21934,7 +21934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-6",
         "Year": 1984
@@ -21970,7 +21970,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-6",
         "Year": 1984
@@ -22006,7 +22006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-6",
         "Year": 1984
@@ -22222,7 +22222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22258,7 +22258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22294,7 +22294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22330,7 +22330,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22366,7 +22366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22402,7 +22402,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -22438,7 +22438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1941,
       "Nationality": "Belgium",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ATLAS-1",
         "Year": 1985
@@ -22762,7 +22762,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "United States Microgravity Labratory-1",
         "Year": 1990
@@ -22798,7 +22798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Spacelab-3",
         "Year": 1983
@@ -22834,7 +22834,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-8",
         "Year": 1987
@@ -22870,7 +22870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-8",
         "Year": 1987
@@ -22906,7 +22906,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-8",
         "Year": 1987
@@ -23122,7 +23122,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "Switzerland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 ESA Group",
         "Year": 1978
@@ -23158,7 +23158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "Switzerland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 ESA Group",
         "Year": 1978
@@ -23194,7 +23194,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "Switzerland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 ESA Group",
         "Year": 1978
@@ -23230,7 +23230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1944,
       "Nationality": "Switzerland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1978 ESA Group",
         "Year": 1978
@@ -23266,7 +23266,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1946,
       "Nationality": "Italy",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1989 ESA Group",
         "Year": 1998
@@ -23518,7 +23518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -23554,7 +23554,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -23590,7 +23590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -23626,7 +23626,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 12",
         "Year": 1987
@@ -23662,7 +23662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -23698,7 +23698,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1948,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -24130,7 +24130,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -24166,7 +24166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -24202,7 +24202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -24238,7 +24238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -24274,7 +24274,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -24310,7 +24310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -24346,7 +24346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -24382,7 +24382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -24418,7 +24418,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -24598,7 +24598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 13",
         "Year": 1990
@@ -24634,7 +24634,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 14",
         "Year": 1990
@@ -24670,7 +24670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-2/EAC",
         "Year": 1987
@@ -24706,7 +24706,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-2/EAC",
         "Year": 1987
@@ -24742,7 +24742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-2/EAC",
         "Year": 1987
@@ -24922,7 +24922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -24958,7 +24958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -24994,7 +24994,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25030,7 +25030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25066,7 +25066,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25102,7 +25102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25138,7 +25138,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25174,7 +25174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25210,7 +25210,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -25390,7 +25390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -25426,7 +25426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -25462,7 +25462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -25498,7 +25498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-13",
         "Year": 1990
@@ -26074,7 +26074,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -26110,7 +26110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -26146,7 +26146,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -26182,7 +26182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -26218,7 +26218,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-58",
         "Year": 1992
@@ -26398,7 +26398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group 13",
         "Year": 1990
@@ -26434,7 +26434,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group 13",
         "Year": 1990
@@ -26470,7 +26470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -26506,7 +26506,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1990
@@ -26542,7 +26542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1990
@@ -26578,7 +26578,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1990
@@ -27118,7 +27118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -27154,7 +27154,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -27190,7 +27190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -27226,7 +27226,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 13",
         "Year": 1990
@@ -27262,7 +27262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -27298,7 +27298,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -27334,7 +27334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -27370,7 +27370,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1990 NASA group",
         "Year": 1990
@@ -27406,7 +27406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -27442,7 +27442,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1952,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -27694,7 +27694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -27730,7 +27730,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1993 NASA group",
         "Year": 1992
@@ -27766,7 +27766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1994 NASA group",
         "Year": 1992
@@ -27802,7 +27802,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1995 NASA group",
         "Year": 1992
@@ -27838,7 +27838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-9",
         "Year": 1989
@@ -27874,7 +27874,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-9",
         "Year": 1989
@@ -27910,7 +27910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -27946,7 +27946,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -27982,7 +27982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -28018,7 +28018,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -28162,7 +28162,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-14",
         "Year": 1992
@@ -28198,7 +28198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-14",
         "Year": 1992
@@ -28234,7 +28234,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-14",
         "Year": 1992
@@ -28270,7 +28270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-14",
         "Year": 1992
@@ -28306,7 +28306,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-14",
         "Year": 1992
@@ -28522,7 +28522,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 14",
         "Year": 1992
@@ -28558,7 +28558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 15",
         "Year": 1992
@@ -28594,7 +28594,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 16",
         "Year": 1992
@@ -28630,7 +28630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 17",
         "Year": 1992
@@ -28666,7 +28666,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 18",
         "Year": 1992
@@ -28918,7 +28918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-9",
         "Year": 1989
@@ -28954,7 +28954,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-9",
         "Year": 1989
@@ -28990,7 +28990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-9",
         "Year": 1989
@@ -29026,7 +29026,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -29062,7 +29062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -29098,7 +29098,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -29134,7 +29134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -29170,7 +29170,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -29206,7 +29206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -29422,7 +29422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 14",
         "Year": 1992
@@ -29458,7 +29458,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 15",
         "Year": 1992
@@ -29494,7 +29494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 16",
         "Year": 1992
@@ -29530,7 +29530,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA Astronaut Group 17",
         "Year": 1992
@@ -29998,7 +29998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-73",
         "Year": 1994
@@ -30034,7 +30034,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-73",
         "Year": 1994
@@ -30394,7 +30394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-2",
         "Year": 1992
@@ -30430,7 +30430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-2",
         "Year": 1992
@@ -30466,7 +30466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-2",
         "Year": 1992
@@ -30502,7 +30502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-2",
         "Year": 1992
@@ -30538,7 +30538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -30574,7 +30574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -30610,7 +30610,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -30898,7 +30898,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Italy",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA Group",
         "Year": 1996
@@ -30934,7 +30934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Italy",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA Group",
         "Year": 1996
@@ -30970,7 +30970,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Australia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -31006,7 +31006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Australia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -31042,7 +31042,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Australia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -31078,7 +31078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "Australia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 NASA group",
         "Year": 1992
@@ -31114,7 +31114,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -31150,7 +31150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -31186,7 +31186,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -31222,7 +31222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 14",
         "Year": 1992
@@ -31294,7 +31294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "France",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "CNES-2",
         "Year": 1985
@@ -31330,7 +31330,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1983 NRC Group",
         "Year": 1983
@@ -31366,7 +31366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1983 NRC Group",
         "Year": 1983
@@ -31474,7 +31474,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "France",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "CNES-2/EAC",
         "Year": 1985
@@ -31510,7 +31510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "France",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "CNES-2/EAC",
         "Year": 1985
@@ -31546,7 +31546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-10",
         "Year": 1992
@@ -31582,7 +31582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-3/EAC",
         "Year": 1990
@@ -31690,7 +31690,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-42",
         "Year": 1995
@@ -31726,7 +31726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-43",
         "Year": 1995
@@ -31762,7 +31762,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-42",
         "Year": 1995
@@ -31798,7 +31798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for STS-43",
         "Year": 1995
@@ -31906,7 +31906,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 15",
         "Year": 1995
@@ -31942,7 +31942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1995
@@ -31978,7 +31978,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1995
@@ -32014,7 +32014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-10",
         "Year": 1992
@@ -32050,7 +32050,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-10",
         "Year": 1992
@@ -32086,7 +32086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-10",
         "Year": 1992
@@ -32230,7 +32230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32266,7 +32266,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32302,7 +32302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32338,7 +32338,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32374,7 +32374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1945,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1983 NRC Group",
         "Year": 1983
@@ -32698,7 +32698,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1994
@@ -32734,7 +32734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1994
@@ -32770,7 +32770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -32806,7 +32806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-1",
         "Year": 1985
@@ -32842,7 +32842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.S.R/Ukraine",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "TsPK-6 / GKNII-1 / Ukraine",
         "Year": 1976
@@ -32914,7 +32914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32950,7 +32950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -32986,7 +32986,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-15",
         "Year": 1994
@@ -33454,7 +33454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 CSA Group",
         "Year": 1992
@@ -33490,7 +33490,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 CSA Group",
         "Year": 1992
@@ -33526,7 +33526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for Neurolab",
         "Year": 1991
@@ -33562,7 +33562,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "PS for neurolab",
         "Year": 1996
@@ -33742,7 +33742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 15",
         "Year": 1995
@@ -33778,7 +33778,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 15",
         "Year": 1995
@@ -33814,7 +33814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 15",
         "Year": 1995
@@ -34030,7 +34030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Politician-1",
         "Year": 1997
@@ -34066,7 +34066,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Spain",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 ESA Group",
         "Year": 1992
@@ -34102,7 +34102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1949,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Politician-2",
         "Year": 1997
@@ -34138,7 +34138,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "Spain",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 ESA Group",
         "Year": 1992
@@ -34426,7 +34426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1963,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 CSA Group",
         "Year": 1992
@@ -34462,7 +34462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1963,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 CSA Group",
         "Year": 1992
@@ -34822,7 +34822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1953,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "DLR-2/EAC",
         "Year": 1987
@@ -35074,7 +35074,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -35110,7 +35110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -35146,7 +35146,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -35182,7 +35182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -35326,7 +35326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1950,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "IMBP-5",
         "Year": 1989
@@ -35470,7 +35470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35506,7 +35506,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35542,7 +35542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1956,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35650,7 +35650,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35686,7 +35686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35722,7 +35722,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35758,7 +35758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -35902,7 +35902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1940,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "MirCorp",
         "Year": 2000
@@ -36262,7 +36262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1967,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-12",
         "Year": 1996
@@ -36442,7 +36442,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -36478,7 +36478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1961,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -36550,7 +36550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -36586,7 +36586,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -36946,7 +36946,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1973,
       "Nationality": "Republic of South Africa",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Space Tourist 2",
         "Year": 2001
@@ -37090,7 +37090,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -37126,7 +37126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -37162,7 +37162,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -37198,7 +37198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NPOE-10",
         "Year": 1992
@@ -37234,7 +37234,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -37270,7 +37270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -37306,7 +37306,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -37342,7 +37342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.K./U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -37378,7 +37378,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.K./U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -37414,7 +37414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.K./U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -37450,7 +37450,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -37486,7 +37486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -37522,7 +37522,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -37558,7 +37558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -37594,7 +37594,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -37738,7 +37738,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -37774,7 +37774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -37810,7 +37810,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1955,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-16",
         "Year": 1996
@@ -38134,7 +38134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "Netherland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1998 ESA Group",
         "Year": 1998
@@ -38170,7 +38170,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1958,
       "Nationality": "Netherland",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1998 ESA Group",
         "Year": 1998
@@ -38242,7 +38242,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-3",
         "Year": 1996
@@ -38278,7 +38278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-3",
         "Year": 1996
@@ -38314,7 +38314,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1952,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -38494,7 +38494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -38530,7 +38530,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -38566,7 +38566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -38638,7 +38638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1966,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -38674,7 +38674,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1966,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -38710,7 +38710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1966,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1996 NASA group",
         "Year": 1996
@@ -38962,7 +38962,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "U.K./U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -38998,7 +38998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "U.K./U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -39034,7 +39034,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "Sweden",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 ESA Group",
         "Year": 1992
@@ -39070,7 +39070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1957,
       "Nationality": "Sweden",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1992 ESA Group",
         "Year": 1992
@@ -39106,7 +39106,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 16",
         "Year": 1996
@@ -39394,7 +39394,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1998 NASA group",
         "Year": 1998
@@ -39430,7 +39430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1998 NASA group",
         "Year": 1998
@@ -39466,7 +39466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "1998 NASA group",
         "Year": 1998
@@ -39502,7 +39502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -39538,7 +39538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -39574,7 +39574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -39610,7 +39610,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -39646,7 +39646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1969,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -39682,7 +39682,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1969,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -39790,7 +39790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1951,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -39826,7 +39826,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1972,
       "Nationality": "Malysia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "2006 Angkasawan Program",
         "Year": 2006
@@ -40186,7 +40186,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -40222,7 +40222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -40258,7 +40258,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -40510,7 +40510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1968,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -40546,7 +40546,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1968,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -40834,7 +40834,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1978,
       "Nationality": "Korea",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "South Korea",
         "Year": 2006
@@ -40942,7 +40942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1969,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -40978,7 +40978,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1969,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -41086,7 +41086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1968,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-4",
         "Year": 1999
@@ -41122,7 +41122,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1968,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-4",
         "Year": 1999
@@ -41158,7 +41158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -41194,7 +41194,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-17",
         "Year": 1998
@@ -41734,7 +41734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1967,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -41770,7 +41770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1967,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -41806,7 +41806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1967,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -41842,7 +41842,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -41878,7 +41878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1963,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -41914,7 +41914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -41950,7 +41950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -41986,7 +41986,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1954,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 17",
         "Year": 1998
@@ -42094,7 +42094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1971,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -42130,7 +42130,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -42166,7 +42166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -42202,7 +42202,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 18",
         "Year": 2000
@@ -42670,7 +42670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -42706,7 +42706,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "2000 NASA group",
         "Year": 2000
@@ -42742,7 +42742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1962,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "2000 NASA group",
         "Year": 2000
@@ -42850,7 +42850,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1959,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "Space Tourist",
         "Year": 2009
@@ -43030,7 +43030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "2004 NASA Group 19",
         "Year": 2004
@@ -43282,7 +43282,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1998
@@ -43318,7 +43318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1960,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1998
@@ -43390,7 +43390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1975,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA- 19",
         "Year": 2004
@@ -43426,7 +43426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1970,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-4",
         "Year": 1999
@@ -43462,7 +43462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1965,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "2004 NASA group",
         "Year": 2004
@@ -43498,7 +43498,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1969,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -43534,7 +43534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1969,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -43570,7 +43570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1969,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-14",
         "Year": 1997
@@ -43786,7 +43786,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1964,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASDA-4",
         "Year": 1999
@@ -44002,7 +44002,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1966,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-12",
         "Year": 1996
@@ -44398,7 +44398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1974,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "IMBP-6",
         "Year": 2003
@@ -44434,7 +44434,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1974,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "IMBP-6",
         "Year": 2003
@@ -44614,7 +44614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1976,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-3/EAC",
         "Year": 2009
@@ -44650,7 +44650,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1976,
       "Nationality": "Germany",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-3/EAC",
         "Year": 2009
@@ -44686,7 +44686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1976,
       "Nationality": "U.S.S.R/Russia",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "RKKE-15",
         "Year": 2006
@@ -44830,7 +44830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1976,
       "Nationality": "Denmark",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-3/EAC",
         "Year": 2009
@@ -45046,7 +45046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1975,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "JAXA-5",
         "Year": 2009
@@ -45082,7 +45082,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1978,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-20",
         "Year": 2009
@@ -45190,7 +45190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1978,
       "Nationality": "France",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "ESA-3/EAC",
         "Year": 2009
@@ -45334,7 +45334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1976,
       "Nationality": "Japan",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "JAXA-5",
         "Year": 2009
@@ -45406,7 +45406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1976,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-20",
         "Year": 2009
@@ -45514,7 +45514,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "male",
       "Birth Year": 1970,
       "Nationality": "Canada",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "CSA-3",
         "Year": 2009
@@ -45586,7 +45586,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1979,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-21",
         "Year": 2013
@@ -45658,7 +45658,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["astronauts"] = Sk.ffi.remapToPy([
       "Gender": "female",
       "Birth Year": 1977,
       "Nationality": "U.S.",
-      "Military": true,
+      "Military": false,
       "Selection": {
         "Group": "NASA-21",
         "Year": 2013

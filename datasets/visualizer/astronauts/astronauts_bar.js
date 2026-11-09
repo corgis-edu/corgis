@@ -10138,15 +10138,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Feoktistov, Konstantin": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Yegorov, Boris": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Belyayev, Pavel": {
           "count": 1,
@@ -10210,9 +10210,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Armstrong, Neil A.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Scott, David R.": {
           "count": 3,
@@ -10228,9 +10228,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Collins, Michael": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gordon, Richard F., Jr.": {
           "count": 2,
@@ -10252,21 +10252,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Cunningham, Ronnie Walter": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Savinykh, Viktor": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jugderdemidiin Gurragchaa": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Crippen, Robert L.": {
           "count": 4,
@@ -10276,9 +10276,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Dumitru Prunariu": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Engle, Joe H.": {
           "count": 2,
@@ -10318,9 +10318,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Serebrov, Aleksandr": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Beregovoi, Georgi": {
           "count": 1,
@@ -10330,9 +10330,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Anders, William Alison": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shatalov, Vladimir": {
           "count": 3,
@@ -10348,9 +10348,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Yeliseyev, Aleksei": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Khrunov, Yevgeny": {
           "count": 1,
@@ -10360,9 +10360,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Schweickart, Russell L.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shonin, Georgi": {
           "count": 1,
@@ -10402,21 +10402,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Swigert, John L., Jr.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Haise, Fred W., Jr.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sevastyanov, Vitali": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shepard, Alan B., Jr.": {
           "count": 1,
@@ -10450,9 +10450,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Patsayev, Viktor": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Worden, Alfred M.": {
           "count": 1,
@@ -10486,9 +10486,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Schmitt, Harrison H.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Weitz, Paul J.": {
           "count": 2,
@@ -10510,9 +10510,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Garriott, Owen K.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lazarev, Vasili": {
           "count": 1,
@@ -10522,9 +10522,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Makarov, Oleg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Carr, Gerald P.": {
           "count": 1,
@@ -10540,9 +10540,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Gibson, Edward G.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Klimuk, Pyotr": {
           "count": 3,
@@ -10552,9 +10552,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Lebedev, Valentin": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Artyukhin, Yuri": {
           "count": 1,
@@ -10582,21 +10582,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Grechko, Georgi": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Brand, Vance D.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Slayton, Donald K.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Zholobov, Vitali": {
           "count": 1,
@@ -10636,9 +10636,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Ryumin, Valery": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Romanenko, Yuri": {
           "count": 3,
@@ -10720,15 +10720,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Strekalov, Gennadi": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Savitskaya, Svetlana": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Overmyer, Robert F.": {
           "count": 2,
@@ -10738,15 +10738,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Allen, Joseph P.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lenoir, William B.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bobko, Karol J.": {
           "count": 3,
@@ -10762,9 +10762,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Musgrave, Franklin Story": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Titov, Vladimir": {
           "count": 4,
@@ -10786,20 +10786,20 @@ VISUALIZER_DATA_BARS = [
         },
         "Ride, Sally K.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Thagard, Norman E.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aleksandrov, Aleksandr": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
+          "sum": 1,
+          "average": 0.3333333333333333,
           "average w/o zero": 1
         },
         "Brandenstein, Daniel C.": {
@@ -10822,9 +10822,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Thornton, William E.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shaw, Brewster H., Jr.": {
           "count": 3,
@@ -10834,9 +10834,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Parker, Robert A. R.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lichtenberg, Byron Kurt": {
           "count": 2,
@@ -10846,9 +10846,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Merbold, Ulf": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gibson, Robert L.": {
           "count": 5,
@@ -10858,9 +10858,9 @@ VISUALIZER_DATA_BARS = [
         },
         "McNair, Ronald E.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Stewart, Robert L.": {
           "count": 2,
@@ -10876,15 +10876,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Solovyov, Vladimir": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Atkov, Oleg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rakesh Sharma": {
           "count": 1,
@@ -10900,21 +10900,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Hart, Terry J.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Van Hoften, James D. A.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nelson, George D.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Volk, Igor": {
           "count": 1,
@@ -10936,21 +10936,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Hawley, Steven A.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Resnik, Judith A.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Walker, Charles David": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McBride, Jon A.": {
           "count": 1,
@@ -10960,9 +10960,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Sullivan, Kathryn D.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Leestma, David C.": {
           "count": 3,
@@ -10972,9 +10972,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Scully-Power, Paul Desmond": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Garneau, Marc Joseph Jean-Pierre": {
           "count": 3,
@@ -10990,9 +10990,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Fisher, Anna L.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shriver, Loren J.": {
           "count": 3,
@@ -11026,21 +11026,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Seddon, Margaret Rhea": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Griggs, S. David": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hoffman, Jeffrey A.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Garn, Edwin Jacob": {
           "count": 1,
@@ -11062,15 +11062,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Lodewijk, van der Berg": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wang, Taylor Gun-Jin": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Creighton, John O.": {
           "count": 3,
@@ -11086,9 +11086,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Lucid, Shannon W.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baudry, Patrick": {
           "count": 1,
@@ -11098,9 +11098,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Al-saud, Sultan bin Salman": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bridges, Roy D., Jr.": {
           "count": 1,
@@ -11110,27 +11110,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Henize, Karl G.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "England, Anthony W.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Acton, Loren Wilbur": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bartoe, John-David Francis": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Covey, Richard O.": {
           "count": 4,
@@ -11140,15 +11140,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Lounge, John M.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fisher, William F.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Vasyutin, Vladimir": {
           "count": 1,
@@ -11182,15 +11182,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Dunbar, Bonnie J.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Furrer, Reinhard Alfred": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Messerschmid, Ernst Willi": {
           "count": 1,
@@ -11200,9 +11200,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Ockels, Wubbo Johannes": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "O'Connor, Bryan D.": {
           "count": 2,
@@ -11218,9 +11218,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Cleave, Mary L.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Spring, Sherwood C.": {
           "count": 1,
@@ -11230,9 +11230,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Neri Vela, Rodolfl": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bolden, Charles F., Jr.": {
           "count": 4,
@@ -11242,21 +11242,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Chang-Diaz, Franklin R.": {
           "count": 7,
-          "sum": 7,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cenker, Robert Joseph": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nelson, William Clarence": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Smith, Michael John": {
           "count": 1,
@@ -11266,21 +11266,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Jarvis, Gregory Bruce": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McAuliffe, Sharon Christa Corrigan": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Laveykin, Aleksandr": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Viktorenko, Aleksandr": {
           "count": 4,
@@ -11314,9 +11314,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Polyakov, Valeri": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mohmand, Abdul Ahad": {
           "count": 1,
@@ -11326,9 +11326,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Krikalev, Sergei": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gardner, Guy S.": {
           "count": 2,
@@ -11356,9 +11356,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Bagian, James P.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lee, Mark C.": {
           "count": 4,
@@ -11392,9 +11392,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Baker, Ellen S.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Carter, Manley Lanier, Jr.": {
           "count": 1,
@@ -11404,9 +11404,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Thornton, Kathryn C.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wetherbee, James D.": {
           "count": 6,
@@ -11416,21 +11416,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Ivins, Marsha S.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Low, G. David": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Balandin, Aleksandr": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Casper, John H.": {
           "count": 4,
@@ -11488,15 +11488,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Durrance, Samuel Thornton": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Parise, Ronald Anthony": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Afanasyev, Viktor Mikhaylovich": {
           "count": 4,
@@ -11506,9 +11506,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Akiyama, Toyohiro": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cameron, Kenneth D.": {
           "count": 3,
@@ -11518,15 +11518,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Godwin, Linda M.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Apt, Jerome": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hammond, L. Blaine, Jr.": {
           "count": 2,
@@ -11536,9 +11536,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Harbaugh, Gregory J.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McMonagle, Donald R.": {
           "count": 3,
@@ -11548,15 +11548,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Veach, Charles Lacy": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hieb, Richard J.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Artsebarsky, Anatoly": {
           "count": 1,
@@ -11566,9 +11566,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Helen Sharman": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gutierrez, Sidney M.": {
           "count": 2,
@@ -11578,21 +11578,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Jernigan, Tamara E.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gaffney, Andrew": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hughes-Fulford, Millie Elizabeth": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Baker, Michael A.": {
           "count": 4,
@@ -11614,9 +11614,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Viehbock, Franz": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Henricks, Terence T.": {
           "count": 4,
@@ -11650,21 +11650,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Readdy, William F.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bondar, Roberta Lynn": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kaleri, Aleksandr": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Flade, Klaus-Dietrich": {
           "count": 1,
@@ -11680,15 +11680,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Foale, C. Michael": {
           "count": 6,
-          "sum": 6,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Frimout, David": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chilton, Kevin P.": {
           "count": 3,
@@ -11704,21 +11704,21 @@ VISUALIZER_DATA_BARS = [
         },
         "DeLucas, Lawrence James": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Trinh, Eugene Huu-Chau": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Avdeyev, Sergei": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tognini, Michel": {
           "count": 2,
@@ -11734,15 +11734,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Nicollier, Claude": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Franco Malerba": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Brown, Curtis L., Jr.": {
           "count": 6,
@@ -11752,21 +11752,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Davis, Nancy Jan": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jemison, Mae C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mohri, Mamoru": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Steven MacLean": {
           "count": 2,
@@ -11794,15 +11794,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Cockrell, Kenneth D.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ochoa, Ellen": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Precourt, Charles J., Jr.": {
           "count": 4,
@@ -11812,21 +11812,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Harris, Bernard A., Jr.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Walter, Ulrich": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Schlegel, Hans": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Currie, Nancy J.": {
           "count": 4,
@@ -11836,15 +11836,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Wisoff, Peter J. K.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Voss, Janice E.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tsibliyev, Vasili": {
           "count": 2,
@@ -11860,9 +11860,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Newman, James H.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bursch, Daniel W.": {
           "count": 4,
@@ -11890,15 +11890,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Wolf, David A.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fettman, Martin Joseph": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Yuri Vladimirovich Usachyov": {
           "count": 4,
@@ -11908,15 +11908,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Sega, Ronald M.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Jones, Thomas D.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Malenchenko, Yuri": {
           "count": 6,
@@ -11938,21 +11938,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Chiao, Leroy": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Thomas, Donald A.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Mukai, Chiaki": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Linenger, Jerry M.": {
           "count": 2,
@@ -11968,21 +11968,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Smith, Steven L.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kondakova, Yelena V.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tanner, Joseph R.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Clervoy, Jean-Franois": {
           "count": 3,
@@ -11992,9 +11992,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Parazynski, Scott E.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Collins, Eileen M.": {
           "count": 4,
@@ -12010,9 +12010,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Grunsfeld, John M.": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lawrence, Wendy B.": {
           "count": 4,
@@ -12028,21 +12028,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Budarin, Nikolai": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kregel Kevin R.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Weber, Mary E.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gidzenko, Yuri": {
           "count": 3,
@@ -12058,9 +12058,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Gernhardt, Michael L.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rominger, Kent V.": {
           "count": 5,
@@ -12082,15 +12082,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Leslie, Fred Weldon": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sacco, Albert Jr.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chris Hadfield": {
           "count": 3,
@@ -12112,15 +12112,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Wakata, Koichi": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Barry, Daniel T.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Onufrienko, Yuri": {
           "count": 2,
@@ -12142,21 +12142,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Guidoni, Umberto": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Thomas, Andrew S. W.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Linnehan, Richard M.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Brady, Charles E., Jr.": {
           "count": 1,
@@ -12166,15 +12166,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Favier, Jean-Jacques": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Robert Thirsk": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Korzun, Valery": {
           "count": 2,
@@ -12184,21 +12184,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Andr-Deshays, Claudie (Haigner)": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lazutkin, Aleksandr": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ewald, Reinhold": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kilrain-Still, Susan L.": {
           "count": 2,
@@ -12208,15 +12208,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Crouch, Roger Keith": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Linteris, Gregory Thomas": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Noriega, Carlos I.": {
           "count": 2,
@@ -12226,15 +12226,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Lu, Edward T.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Vinogradov, Pavel": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Curbeam, Robert L., Jr.": {
           "count": 3,
@@ -12244,15 +12244,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Robinson, Stephen K.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bjarni Tryggvason": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Bloomfield, Michael J.": {
           "count": 3,
@@ -12268,21 +12268,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Chawla, Kalpana": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Doi, Takao": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kadenyuk, Leonid": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Edwards, Joe F., Jr.": {
           "count": 1,
@@ -12292,9 +12292,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Reilly, James F.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anderson, Michael P.": {
           "count": 2,
@@ -12328,21 +12328,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Williams, Dafydd Rhys": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Buckey, Jay Clark Jr.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Pawelczyk, James Anthony": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Gorie, Dominic L.": {
           "count": 4,
@@ -12352,9 +12352,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Kavandi, Janet L.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Padalka, Gennady": {
           "count": 5,
@@ -12364,15 +12364,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Baturin, Yuri": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Duque, Pedro": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sturckow, Frederick W.": {
           "count": 4,
@@ -12394,9 +12394,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Payette, Julie": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Tokarev, Valeri": {
           "count": 2,
@@ -12418,9 +12418,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Thiele, Gerhard": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Zalyotin, Sergei": {
           "count": 2,
@@ -12436,9 +12436,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Mastracchio, Richard A.": {
           "count": 4,
-          "sum": 4,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Burbank, Daniel C.": {
           "count": 3,
@@ -12448,9 +12448,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Morukov, Boris": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Melroy, Pamela A.": {
           "count": 3,
@@ -12460,9 +12460,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Polansky, Mark L.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kelly, James M.": {
           "count": 2,
@@ -12472,15 +12472,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Richards, Paul W.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Phillips, John L.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lonchakov, Yuri": {
           "count": 3,
@@ -12490,9 +12490,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Tito, Dennis Anthony": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hobaugh, Charles O.": {
           "count": 3,
@@ -12514,9 +12514,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Kozeyev, Konstantin": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kelly, Mark E.": {
           "count": 4,
@@ -12526,9 +12526,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Tani, Daniel M.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Carey, Duane G.": {
           "count": 1,
@@ -12538,9 +12538,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Massimino, Michael J.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Frick, Stephen N.": {
           "count": 2,
@@ -12568,9 +12568,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Shuttleworth, M. Richard": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Lockhart, Paul S.": {
           "count": 2,
@@ -12586,33 +12586,33 @@ VISUALIZER_DATA_BARS = [
         },
         "Whitson, Peggy A.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Treshchov, Sergei": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Magnus, Sandra H.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Sellers, Piers J.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Yurchikhin, Fyodor": {
           "count": 5,
-          "sum": 5,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "De Winne, Frank": {
           "count": 2,
@@ -12628,9 +12628,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Pettit, Donald R.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McCool, William C.": {
           "count": 1,
@@ -12670,9 +12670,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Kuipers, Andre": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shargin, Yuri": {
           "count": 1,
@@ -12682,15 +12682,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Noguchi, Soichi": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Camarda, Charles J.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fei, Junlong": {
           "count": 1,
@@ -12712,9 +12712,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Fossum, Michael E.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Nowak, Lisa M.": {
           "count": 1,
@@ -12724,9 +12724,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Wilson, Stephanie D.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ferguson, Christopher J.": {
           "count": 3,
@@ -12748,21 +12748,21 @@ VISUALIZER_DATA_BARS = [
         },
         "Patrick, Nicholas J. M.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Christer Fuglesang": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Higginbotham, Joan E.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Williams, Sunita L.": {
           "count": 2,
@@ -12784,27 +12784,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Swanson, Steven R.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Olivas, John D.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Anderson, Clayton C.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Caldwell, Tracy E.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Drew, Alvin Benjamin": {
           "count": 2,
@@ -12814,15 +12814,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Morgan, Barbara R.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shukor, Sheikh Muszaphar": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Zamka, George D.": {
           "count": 2,
@@ -12850,15 +12850,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Melvin, Leland D.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Love, Stanley G.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Johnson, Gregory H.": {
           "count": 2,
@@ -12880,9 +12880,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Reisman, Garrett E.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Volkov, Sergei": {
           "count": 3,
@@ -12898,9 +12898,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Yi, Soyeon (Lee So-hyun)": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Ham, Kenneth T.": {
           "count": 2,
@@ -12910,9 +12910,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Nyberg, Karen L.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Garan, Ronald J., Jr.": {
           "count": 2,
@@ -12922,15 +12922,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Hoshide, Akihiko": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chamitoff, Gregory": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Zhai, Zhigang": {
           "count": 1,
@@ -12976,27 +12976,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Acaba, Joseph M.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Arnold, Richard R., II": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Barratt, Michael R.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Johnson, Gregory C.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Good, Michael T.": {
           "count": 2,
@@ -13006,15 +13006,15 @@ VISUALIZER_DATA_BARS = [
         },
         "McArthur, K. Megan": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Feustel, Andrew J.": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Romanenko, Roman": {
           "count": 2,
@@ -13054,15 +13054,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Hernandez, Jose M.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Stott, Nicole P.": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Surayev, Maksim": {
           "count": 2,
@@ -13072,9 +13072,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Guy Laliberte": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Wilmore, Barry E.": {
           "count": 2,
@@ -13090,9 +13090,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Satcher, Robert L.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Creamer, Timothy J.": {
           "count": 1,
@@ -13114,9 +13114,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Korniyenko, Mikhail": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Dutton, James P.": {
           "count": 1,
@@ -13126,27 +13126,27 @@ VISUALIZER_DATA_BARS = [
         },
         "Metcalf-Lindenburger, Dorothy M.": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Yamazaki, Naoko": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Walker, Shannon": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Skripochka, Oleg": {
           "count": 3,
-          "sum": 3,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Kondratyev, Dmitri": {
           "count": 1,
@@ -13168,9 +13168,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Furukawa, Satoshi": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Shkaplerov, Anton": {
           "count": 3,
@@ -13186,9 +13186,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Revin, Sergei": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Liu, Wang": {
           "count": 1,
@@ -13240,9 +13240,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Ryazanski, Sergei": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hopkins, Michael Scott": {
           "count": 1,
@@ -13264,15 +13264,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Gerst, Alexander": {
           "count": 2,
-          "sum": 2,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Serova, Yelena": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Cristofretti, Samantha": {
           "count": 1,
@@ -13294,9 +13294,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Mogensen, Andreas": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Aidyn (Aydyn) Akanovich Aimbetov": {
           "count": 1,
@@ -13318,15 +13318,15 @@ VISUALIZER_DATA_BARS = [
         },
         "Onishi, Takuya": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Rubins, Kathleen": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Chen, Dong": {
           "count": 1,
@@ -13342,9 +13342,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Pesquet, Thomas": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Fischer, Jack": {
           "count": 1,
@@ -13366,9 +13366,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Kanai, Norishige": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Prokopyev, Sergei": {
           "count": 1,
@@ -13378,9 +13378,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Aun-Chancellor, Serena": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Hague, Tyler": {
           "count": 2,
@@ -13390,9 +13390,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Saint-Jaques, David": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "McClain, Anne Charlotte": {
           "count": 1,
@@ -13402,9 +13402,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Koch, Christina": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Morgan, Andrew": {
           "count": 1,
@@ -13414,9 +13414,9 @@ VISUALIZER_DATA_BARS = [
         },
         "Meir, Jessica": {
           "count": 1,
-          "sum": 1,
-          "average": 1,
-          "average w/o zero": 1
+          "sum": 0,
+          "average": 0,
+          "average w/o zero": 0
         },
         "Al Mansoori, Hazzaa": {
           "count": 1,

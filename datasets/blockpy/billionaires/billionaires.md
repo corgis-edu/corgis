@@ -187,7 +187,7 @@ Researchers have compiled a multi-decade database of the super-rich. Building of
     <td>wealth.how.was political</td>
     <td>Boolean</td> 
     <td>Whether the money came from politics.</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 </table>

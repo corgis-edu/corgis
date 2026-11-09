@@ -5,12 +5,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -61,14 +61,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 89,
@@ -78,7 +78,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -117,12 +117,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -134,7 +134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -173,14 +173,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -190,7 +190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -230,11 +230,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -246,7 +246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -286,11 +286,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -302,7 +302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -346,7 +346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -358,7 +358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -397,14 +397,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -414,7 +414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -453,8 +453,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -470,7 +470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -509,14 +509,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 46,
@@ -526,7 +526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -565,12 +565,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -582,7 +582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -621,14 +621,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -638,7 +638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -678,7 +678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -694,7 +694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -733,14 +733,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -789,12 +789,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -806,7 +806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -845,14 +845,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -862,7 +862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -901,14 +901,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -918,7 +918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -957,14 +957,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -974,7 +974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -1013,12 +1013,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -1030,7 +1030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -1069,14 +1069,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -1086,7 +1086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -1125,12 +1125,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -1142,7 +1142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2004
     },
     "Length": {
@@ -1182,13 +1182,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -1237,12 +1237,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -1254,7 +1254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1293,14 +1293,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -1310,7 +1310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1349,14 +1349,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -1366,7 +1366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1405,12 +1405,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -1422,7 +1422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1466,7 +1466,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom,Rockstar",
       "Sequel?": true
     },
@@ -1478,7 +1478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1517,12 +1517,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -1534,7 +1534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1573,14 +1573,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -1590,7 +1590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1627,14 +1627,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision,Konami",
       "Sequel?": true
     },
@@ -1646,7 +1646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1702,7 +1702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1746,7 +1746,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -1758,7 +1758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1797,12 +1797,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -1814,7 +1814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1853,12 +1853,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -1870,7 +1870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1909,7 +1909,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -1926,7 +1926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -1965,12 +1965,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -1982,7 +1982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2019,14 +2019,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Most Wanted",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -2038,7 +2038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2077,14 +2077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 44,
@@ -2134,11 +2134,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -2150,7 +2150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2189,12 +2189,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -2206,7 +2206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2262,7 +2262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2301,7 +2301,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -2318,7 +2318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2362,7 +2362,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -2374,7 +2374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2411,14 +2411,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Perfect Dark Zero",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -2430,7 +2430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2469,12 +2469,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -2486,7 +2486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2525,14 +2525,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -2542,7 +2542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2586,7 +2586,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -2598,7 +2598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2635,7 +2635,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 06",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -2654,7 +2654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2693,14 +2693,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -2710,7 +2710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2749,14 +2749,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
       "Licensed?": true,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -2766,7 +2766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2805,14 +2805,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision,Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -2822,7 +2822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2861,12 +2861,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -2878,7 +2878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2922,7 +2922,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -2934,7 +2934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -2973,12 +2973,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -2990,7 +2990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3046,7 +3046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3086,11 +3086,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -3102,7 +3102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3139,14 +3139,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dead or Alive 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -3158,7 +3158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3197,14 +3197,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -3214,7 +3214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3253,8 +3253,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -3270,7 +3270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3309,7 +3309,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -3326,7 +3326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3365,12 +3365,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -3382,7 +3382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3419,14 +3419,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battlefield 2: Modern Combat",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -3438,7 +3438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3477,12 +3477,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -3494,7 +3494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3531,9 +3531,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 06",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -3550,7 +3550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3587,16 +3587,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Condemned: Criminal Origins",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -3606,7 +3606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3643,16 +3643,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Peter Jackson's King Kong: The Official Game of...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -3662,7 +3662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3701,12 +3701,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -3718,7 +3718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3758,13 +3758,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -3774,7 +3774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3820,7 +3820,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -3830,7 +3830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3867,16 +3867,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kameo: Elements of Power",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -3886,7 +3886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3925,12 +3925,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -3942,7 +3942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -3981,14 +3981,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -3998,7 +3998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4037,14 +4037,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -4054,7 +4054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4091,14 +4091,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA LIVE 06 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -4110,7 +4110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4147,7 +4147,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's American Wasteland",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -4166,7 +4166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4205,8 +4205,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -4222,7 +4222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4261,14 +4261,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -4318,13 +4318,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -4334,7 +4334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4390,7 +4390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4427,14 +4427,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Quake 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -4446,7 +4446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4485,14 +4485,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -4502,7 +4502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4542,7 +4542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -4558,7 +4558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4597,14 +4597,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -4653,12 +4653,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -4670,7 +4670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4726,7 +4726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4763,16 +4763,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "GUN ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -4782,7 +4782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4819,14 +4819,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K6 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -4838,7 +4838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4894,7 +4894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -4934,7 +4934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -4950,7 +4950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5006,7 +5006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5050,9 +5050,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -5062,7 +5062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5101,14 +5101,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -5118,7 +5118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5164,7 +5164,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Sports,Strategy",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 37,
@@ -5174,7 +5174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5218,7 +5218,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -5230,7 +5230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5269,7 +5269,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -5286,7 +5286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5325,14 +5325,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -5342,7 +5342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5398,7 +5398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5437,12 +5437,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -5454,7 +5454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5494,13 +5494,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -5510,7 +5510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5550,13 +5550,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -5566,7 +5566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5622,7 +5622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5661,12 +5661,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -5718,13 +5718,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 38,
@@ -5734,7 +5734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5773,14 +5773,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 88,
@@ -5790,7 +5790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5829,12 +5829,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -5846,7 +5846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5885,14 +5885,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -5902,7 +5902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5941,14 +5941,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -5958,7 +5958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -5997,14 +5997,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -6014,7 +6014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6053,14 +6053,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -6070,7 +6070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6109,8 +6109,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -6126,7 +6126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6165,12 +6165,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -6182,7 +6182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6221,12 +6221,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -6238,7 +6238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6275,14 +6275,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Amped 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -6294,7 +6294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6333,14 +6333,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -6350,7 +6350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6389,14 +6389,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -6406,7 +6406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6446,7 +6446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -6462,7 +6462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6501,14 +6501,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -6557,14 +6557,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -6574,7 +6574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6614,7 +6614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -6630,7 +6630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6669,14 +6669,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -6686,7 +6686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6725,14 +6725,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 35,
@@ -6742,7 +6742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6782,11 +6782,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -6798,7 +6798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6838,7 +6838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -6854,7 +6854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6894,7 +6894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -6910,7 +6910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -6950,11 +6950,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -6966,7 +6966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7005,14 +7005,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -7022,7 +7022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7061,14 +7061,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -7078,7 +7078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7117,14 +7117,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -7134,7 +7134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7171,14 +7171,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ridge Racer 6",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA,Namco",
       "Sequel?": true
     },
@@ -7190,7 +7190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7230,7 +7230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
@@ -7246,7 +7246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7283,14 +7283,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K6 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -7302,7 +7302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7341,14 +7341,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -7397,12 +7397,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -7414,7 +7414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7453,14 +7453,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -7470,7 +7470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7510,13 +7510,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 34,
@@ -7526,7 +7526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7566,13 +7566,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -7582,7 +7582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7621,12 +7621,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -7638,7 +7638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7677,14 +7677,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -7694,7 +7694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7733,14 +7733,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -7750,7 +7750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7789,14 +7789,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -7806,7 +7806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7845,14 +7845,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -7862,7 +7862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -7901,14 +7901,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -7958,11 +7958,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -7974,7 +7974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8013,12 +8013,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -8030,7 +8030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8069,14 +8069,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -8086,7 +8086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8125,14 +8125,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -8142,7 +8142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8182,7 +8182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
@@ -8198,7 +8198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8242,7 +8242,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA,Namco",
       "Sequel?": true
     },
@@ -8254,7 +8254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8293,14 +8293,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -8310,7 +8310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8349,12 +8349,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -8366,7 +8366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8406,13 +8406,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -8422,7 +8422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8461,14 +8461,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 38,
@@ -8517,14 +8517,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -8534,7 +8534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8573,14 +8573,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -8590,7 +8590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8629,14 +8629,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -8646,7 +8646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8685,12 +8685,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -8702,7 +8702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2005
     },
     "Length": {
@@ -8739,16 +8739,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wii Play",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -8758,7 +8758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -8798,11 +8798,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -8814,7 +8814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -8853,12 +8853,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -8870,7 +8870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -8909,12 +8909,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -8926,7 +8926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -8963,16 +8963,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Gears of War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 94,
@@ -8982,7 +8982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9019,14 +9019,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Legend of Zelda: Twilight Princess",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -9038,7 +9038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9077,14 +9077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -9094,7 +9094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9131,7 +9131,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Marvel Ultimate Alliance",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -9140,7 +9140,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -9150,7 +9150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9189,12 +9189,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -9206,7 +9206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9243,14 +9243,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Elder Scrolls IV: Oblivion",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -9262,7 +9262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9299,7 +9299,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -9318,7 +9318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9362,7 +9362,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
       "Sequel?": true
     },
@@ -9374,7 +9374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9411,16 +9411,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Resistance: Fall of Man",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 86,
@@ -9430,7 +9430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9467,16 +9467,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MotorStorm",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -9486,7 +9486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9523,14 +9523,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -9542,7 +9542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9581,12 +9581,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -9635,14 +9635,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -9654,7 +9654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9691,14 +9691,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fight Night Round 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -9710,7 +9710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9749,12 +9749,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -9766,7 +9766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9803,16 +9803,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rayman Raving Rabbids",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -9822,7 +9822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9859,16 +9859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Saints Row",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -9878,7 +9878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9915,7 +9915,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Rainbow Six: Vegas",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -9934,7 +9934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -9971,16 +9971,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dead Rising",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -9990,7 +9990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10027,14 +10027,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -10046,7 +10046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10083,16 +10083,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lost Planet: Extreme Condition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -10102,7 +10102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10141,14 +10141,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -10158,7 +10158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10198,7 +10198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -10214,7 +10214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10251,14 +10251,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Monkey Ball: Banana Blitz",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -10270,7 +10270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10310,11 +10310,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -10326,7 +10326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10370,7 +10370,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -10382,7 +10382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10419,14 +10419,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WarioWare: Smooth Moves",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -10438,7 +10438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10475,14 +10475,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fight Night Round 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -10494,7 +10494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10533,12 +10533,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -10589,12 +10589,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -10606,7 +10606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10646,7 +10646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -10662,7 +10662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10699,16 +10699,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Monster 4x4: World Circuit",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -10718,7 +10718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10757,12 +10757,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -10774,7 +10774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10811,14 +10811,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pokmon Battle Revolution",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -10830,7 +10830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10869,12 +10869,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -10886,7 +10886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -10925,12 +10925,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco,Sony",
       "Sequel?": true
     },
@@ -10979,7 +10979,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Carbon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -10998,7 +10998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11037,12 +11037,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -11054,7 +11054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11093,14 +11093,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -11110,7 +11110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11147,7 +11147,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA Football 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -11166,7 +11166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11205,14 +11205,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -11259,7 +11259,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Splinter Cell: Double Agent",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -11278,7 +11278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11317,12 +11317,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -11390,7 +11390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11427,16 +11427,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Red Steel",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -11446,7 +11446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11485,12 +11485,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -11502,7 +11502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11539,10 +11539,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Star Wars II: The Original Trilogy",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -11558,7 +11558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11595,14 +11595,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K7 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -11614,7 +11614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11658,9 +11658,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -11707,14 +11707,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -11726,7 +11726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11782,7 +11782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11819,7 +11819,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -11838,7 +11838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11882,9 +11882,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -11894,7 +11894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11931,10 +11931,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -11950,7 +11950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -11990,11 +11990,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -12006,7 +12006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12043,7 +12043,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Carbon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -12062,7 +12062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12099,10 +12099,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Carbon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -12118,7 +12118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12155,7 +12155,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WWE SmackDown vs. Raw 2007",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -12174,7 +12174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12211,10 +12211,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -12230,7 +12230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12267,16 +12267,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Viva Pi$?ata",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
       "Licensed?": true,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 84,
@@ -12286,7 +12286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12323,16 +12323,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SpongeBob Squarepants: Creature from the Krusty Krab",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -12342,7 +12342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12398,7 +12398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12435,7 +12435,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's Project 8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -12454,7 +12454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12491,14 +12491,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA LIVE 07 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -12510,7 +12510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12547,14 +12547,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Excite Truck",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -12566,7 +12566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12605,14 +12605,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -12622,7 +12622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12661,12 +12661,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -12678,7 +12678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12717,14 +12717,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -12734,7 +12734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12771,16 +12771,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Marvel Ultimate Alliance",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -12790,7 +12790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12827,16 +12827,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blazing Angels: Squadrons of WWII",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -12846,7 +12846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12883,10 +12883,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Major League Baseball 2K6",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -12902,7 +12902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12942,7 +12942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -12958,7 +12958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -12998,7 +12998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -13014,7 +13014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13051,16 +13051,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blazing Angels: Squadrons of WWII",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -13070,7 +13070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13126,7 +13126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13165,14 +13165,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -13182,7 +13182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13228,7 +13228,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -13238,7 +13238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13275,7 +13275,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Marvel Ultimate Alliance",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -13284,7 +13284,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -13294,7 +13294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13331,7 +13331,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -13350,7 +13350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13389,12 +13389,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -13406,7 +13406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13445,12 +13445,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -13462,7 +13462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13499,16 +13499,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "F.E.A.R.: First Encounter Assault Recon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -13518,7 +13518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13555,7 +13555,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -13574,7 +13574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13611,10 +13611,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's Project 8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -13630,7 +13630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13670,13 +13670,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -13686,7 +13686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13725,12 +13725,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -13742,7 +13742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13779,14 +13779,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hitman: Blood Money",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -13798,7 +13798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13835,16 +13835,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rockstar Games presents Table Tennis",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -13854,7 +13854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13891,14 +13891,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Trauma Center: Second Opinion",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -13910,7 +13910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -13947,14 +13947,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tenchu Z",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -13966,7 +13966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14005,14 +14005,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -14022,7 +14022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14061,12 +14061,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -14115,16 +14115,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blue Dragon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -14134,7 +14134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14171,9 +14171,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Lord of the Rings: The Battle for Middle Ea...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -14190,7 +14190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14227,16 +14227,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Prey",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -14246,7 +14246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14286,13 +14286,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -14302,7 +14302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14341,14 +14341,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -14414,7 +14414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14451,14 +14451,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 07 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -14470,7 +14470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14509,14 +14509,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -14526,7 +14526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14563,16 +14563,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Chromehounds",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -14582,7 +14582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14619,7 +14619,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Test Drive Unlimited",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -14638,7 +14638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14675,10 +14675,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dragon Ball Z: Budokai Tenkaichi 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -14694,7 +14694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14733,12 +14733,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -14750,7 +14750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14790,7 +14790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -14806,7 +14806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14845,7 +14845,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -14862,7 +14862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14906,7 +14906,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -14918,7 +14918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -14955,9 +14955,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -14974,7 +14974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15011,14 +15011,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ridge Racer 7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco,Sony",
       "Sequel?": true
     },
@@ -15030,7 +15030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15067,16 +15067,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Outfit",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -15086,7 +15086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15123,16 +15123,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Elebits",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -15142,7 +15142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15186,7 +15186,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -15198,7 +15198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15238,11 +15238,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -15254,7 +15254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15294,7 +15294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -15310,7 +15310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15354,9 +15354,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -15366,7 +15366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15403,16 +15403,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Godfather: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -15422,7 +15422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15459,14 +15459,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rampage: Total Destruction",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -15478,7 +15478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15515,7 +15515,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "College Hoops 2K7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -15534,7 +15534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15571,14 +15571,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Far Cry: Instincts - Predator",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -15590,7 +15590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15627,16 +15627,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Full Auto",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -15646,7 +15646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15685,12 +15685,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -15702,7 +15702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15742,11 +15742,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -15758,7 +15758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15797,12 +15797,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -15814,7 +15814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15854,13 +15854,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -15870,7 +15870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15907,16 +15907,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Superman Returns",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -15926,7 +15926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -15963,16 +15963,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Over G Fighters",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -15982,7 +15982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16019,14 +16019,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Final Fantasy XI Online",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -16038,7 +16038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16077,14 +16077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -16094,7 +16094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16133,12 +16133,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -16150,7 +16150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16190,13 +16190,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -16206,7 +16206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16245,14 +16245,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -16262,7 +16262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16299,14 +16299,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Genji: Days of the Blade",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -16318,7 +16318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16355,9 +16355,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Top Spin 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -16374,7 +16374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16413,14 +16413,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony,Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -16430,7 +16430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16469,12 +16469,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo,SquareEnix",
       "Sequel?": true
     },
@@ -16486,7 +16486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16525,12 +16525,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -16542,7 +16542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16581,14 +16581,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -16598,7 +16598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16635,16 +16635,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Enchanted Arms",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -16654,7 +16654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16694,7 +16694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -16710,7 +16710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16749,12 +16749,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -16766,7 +16766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16803,14 +16803,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Full Auto 2: Battlelines",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -16822,7 +16822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16859,16 +16859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blitz: The League",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -16878,7 +16878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16915,16 +16915,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Star Trek Legacy",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -16934,7 +16934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -16974,13 +16974,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -16990,7 +16990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17029,14 +17029,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -17046,7 +17046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17085,12 +17085,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -17102,7 +17102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17141,12 +17141,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony,Ubisoft",
       "Sequel?": true
     },
@@ -17158,7 +17158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17195,16 +17195,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Swing Golf",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -17214,7 +17214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17251,16 +17251,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "X-Men: The Official Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -17270,7 +17270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17307,14 +17307,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Untold Legends: Dark Kingdom",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA,Sony",
       "Sequel?": true
     },
@@ -17326,7 +17326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17363,16 +17363,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Happy Feet",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 46,
@@ -17382,7 +17382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17422,13 +17422,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -17438,7 +17438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17477,12 +17477,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -17494,7 +17494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17533,14 +17533,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -17550,7 +17550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17587,14 +17587,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dead or Alive: Xtreme 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -17606,7 +17606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17643,14 +17643,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fuzion Frenzy 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -17662,7 +17662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17699,9 +17699,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MotoGP '06",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -17718,7 +17718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17757,7 +17757,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -17774,7 +17774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17814,7 +17814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -17830,7 +17830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17869,7 +17869,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -17886,7 +17886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17930,9 +17930,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -17942,7 +17942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -17988,7 +17988,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -17998,7 +17998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18035,16 +18035,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Metal Slug Anthology",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -18091,16 +18091,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Open Season",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -18110,7 +18110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18147,10 +18147,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Splinter Cell: Double Agent",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -18166,7 +18166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18206,13 +18206,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -18222,7 +18222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18261,14 +18261,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -18317,14 +18317,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -18371,10 +18371,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "College Hoops 2K6",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -18390,7 +18390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18427,14 +18427,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dynasty Warriors 5: Empires",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -18446,7 +18446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18485,14 +18485,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -18502,7 +18502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18541,14 +18541,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -18598,13 +18598,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -18614,7 +18614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18651,10 +18651,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Cabela's African Safari",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -18670,7 +18670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18707,10 +18707,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Cabela's Alaskan Adventures",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -18726,7 +18726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18763,14 +18763,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Armored Core 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -18782,7 +18782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18819,16 +18819,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Eragon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -18838,7 +18838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18877,14 +18877,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -18894,7 +18894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18933,14 +18933,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -18950,7 +18950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -18989,8 +18989,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -19006,7 +19006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19046,7 +19046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
@@ -19062,7 +19062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19099,16 +19099,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Ant Bully",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 45,
@@ -19118,7 +19118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19155,16 +19155,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Just Cause",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -19174,7 +19174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19211,16 +19211,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Onechanbara: Bikini Samurai Squad",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 39,
@@ -19230,7 +19230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19267,14 +19267,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Phantasy Star Universe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -19286,7 +19286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19323,16 +19323,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Project Sylpheed: Arc of Deception",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft,SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -19342,7 +19342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19379,14 +19379,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Winning Eleven: Pro Evolution Soccer 2007",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -19398,7 +19398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19435,16 +19435,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kororinpa: Marble Mania",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -19454,7 +19454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19493,14 +19493,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -19510,7 +19510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19550,13 +19550,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -19566,7 +19566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19605,12 +19605,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -19622,7 +19622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19661,14 +19661,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -19717,14 +19717,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Simulation,Sports,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -19771,16 +19771,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Open Season",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -19790,7 +19790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19827,14 +19827,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Samurai Warriors 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -19846,7 +19846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19883,14 +19883,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Far Cry: Vengeance",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -19902,7 +19902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19939,16 +19939,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Import Tuner Challenge",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -19958,7 +19958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -19997,14 +19997,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -20014,7 +20014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20053,14 +20053,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -20070,7 +20070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20126,7 +20126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20165,12 +20165,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -20182,7 +20182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20221,14 +20221,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -20277,14 +20277,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -20294,7 +20294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20333,14 +20333,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -20350,7 +20350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20390,11 +20390,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -20406,7 +20406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20443,10 +20443,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ice Age 2: The Meltdown",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -20462,7 +20462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20499,14 +20499,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rumble Roses XX",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -20518,7 +20518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20558,13 +20558,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -20574,7 +20574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20613,14 +20613,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -20630,7 +20630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20669,14 +20669,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -20686,7 +20686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20725,14 +20725,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -20742,7 +20742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20781,14 +20781,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -20838,13 +20838,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 44,
@@ -20854,7 +20854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20891,16 +20891,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bionicle Heroes",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -20910,7 +20910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -20947,16 +20947,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bullet Witch",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -20966,7 +20966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21010,7 +21010,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -21022,7 +21022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21062,13 +21062,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -21078,7 +21078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21117,14 +21117,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -21134,7 +21134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21173,12 +21173,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -21190,7 +21190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21229,14 +21229,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -21246,7 +21246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21286,11 +21286,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -21302,7 +21302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21342,11 +21342,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -21358,7 +21358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21402,9 +21402,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -21414,7 +21414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21460,7 +21460,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Sports",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -21470,7 +21470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21510,13 +21510,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -21526,7 +21526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21570,7 +21570,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -21582,7 +21582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21621,12 +21621,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -21638,7 +21638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21677,12 +21677,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -21694,7 +21694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21733,14 +21733,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari,Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -21790,13 +21790,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -21806,7 +21806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21846,13 +21846,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -21862,7 +21862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21901,14 +21901,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -21918,7 +21918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -21957,7 +21957,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -21974,7 +21974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22013,12 +22013,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -22030,7 +22030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22069,14 +22069,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -22125,12 +22125,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -22142,7 +22142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22182,13 +22182,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -22198,7 +22198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22235,14 +22235,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bomberman: Act Zero",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -22254,7 +22254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22291,16 +22291,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Earth Defense Force 2017",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -22310,7 +22310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22347,16 +22347,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WarTech: Senko no Ronde",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -22366,7 +22366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22405,8 +22405,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -22422,7 +22422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22461,14 +22461,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -22478,7 +22478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22518,13 +22518,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -22534,7 +22534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22573,14 +22573,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -22590,7 +22590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22629,14 +22629,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -22646,7 +22646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22685,14 +22685,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 47,
@@ -22742,13 +22742,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
       "Licensed?": true,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -22758,7 +22758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22814,7 +22814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22853,14 +22853,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -22870,7 +22870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22909,14 +22909,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -22926,7 +22926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -22965,12 +22965,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -22982,7 +22982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23021,14 +23021,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -23038,7 +23038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23077,14 +23077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -23094,7 +23094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23140,7 +23140,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Strategy",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -23150,7 +23150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23206,7 +23206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23245,14 +23245,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -23262,7 +23262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23301,12 +23301,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -23318,7 +23318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23357,14 +23357,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -23374,7 +23374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23413,8 +23413,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -23430,7 +23430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2006
     },
     "Length": {
@@ -23467,16 +23467,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wii Fit",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Educational,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -23486,7 +23486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23523,14 +23523,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Halo 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -23542,7 +23542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23579,14 +23579,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 4: Modern Warfare",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -23598,7 +23598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23635,14 +23635,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Mario Galaxy",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -23654,7 +23654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23693,12 +23693,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -23710,7 +23710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23747,14 +23747,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mario Party 8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -23766,7 +23766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23803,14 +23803,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero III: Legends of Rock",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -23822,7 +23822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23859,16 +23859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Link's Crossbow Training",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -23878,7 +23878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23915,14 +23915,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero III: Legends of Rock",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -23934,7 +23934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -23971,16 +23971,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Assassin's Creed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -23990,7 +23990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24027,10 +24027,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Star Wars: The Complete Saga",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -24046,7 +24046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24083,14 +24083,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty 4: Modern Warfare",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -24102,7 +24102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24139,16 +24139,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mario & Sonic at the Olympic Games",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
       "Licensed?": true,
       "Publishers": "Nintendo,Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -24158,7 +24158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24198,7 +24198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
@@ -24214,7 +24214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24251,9 +24251,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Forza Motorsport 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -24270,7 +24270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24307,7 +24307,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -24326,7 +24326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24363,14 +24363,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero II",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -24382,7 +24382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24419,16 +24419,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rock Band",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 92,
@@ -24438,7 +24438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24477,12 +24477,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -24494,7 +24494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24533,12 +24533,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -24550,7 +24550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24589,12 +24589,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -24606,7 +24606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24643,16 +24643,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Assassin's Creed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 81,
@@ -24662,7 +24662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24699,16 +24699,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Uncharted: Drake's Fortune",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 88,
@@ -24718,7 +24718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24755,16 +24755,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mass Effect",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 91,
@@ -24774,7 +24774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24813,12 +24813,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -24830,7 +24830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24867,16 +24867,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "BioShock",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 96,
@@ -24886,7 +24886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24923,14 +24923,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Paper Mario",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -24942,7 +24942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -24979,16 +24979,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Game Party",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 25,
@@ -24998,7 +24998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25042,7 +25042,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -25054,7 +25054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25091,14 +25091,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dance Dance Revolution Hottest Party",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -25110,7 +25110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25147,14 +25147,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Cooking Mama: Cook Off",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -25166,7 +25166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25203,14 +25203,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Gran Turismo 5: Prologue",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -25222,7 +25222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25261,14 +25261,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Educational,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -25278,7 +25278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25315,14 +25315,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Resident Evil 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -25371,14 +25371,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Elder Scrolls IV: Oblivion",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -25390,7 +25390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25429,14 +25429,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -25446,7 +25446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25485,14 +25485,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -25502,7 +25502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25541,14 +25541,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -25558,7 +25558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25595,16 +25595,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Big Brain Academy: Wii Degree",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 8,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -25614,7 +25614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25651,7 +25651,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: ProStreet",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -25670,7 +25670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25709,14 +25709,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 20,
@@ -25726,7 +25726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25763,7 +25763,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Star Wars: The Complete Saga",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -25782,7 +25782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25819,14 +25819,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic and the Secret Rings",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -25838,7 +25838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25875,14 +25875,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Orange Box",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -25931,16 +25931,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Crackdown",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -25950,7 +25950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -25987,16 +25987,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rock Band",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 92,
@@ -26006,7 +26006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26043,10 +26043,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -26062,7 +26062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26099,14 +26099,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WWE Smackdown vs. Raw 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -26118,7 +26118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26155,7 +26155,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -26174,7 +26174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26214,13 +26214,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -26230,7 +26230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26267,16 +26267,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MySims",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -26286,7 +26286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26323,14 +26323,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mario Strikers Charged",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -26342,7 +26342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26381,12 +26381,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -26398,7 +26398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26437,12 +26437,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -26454,7 +26454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26491,14 +26491,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Metroid Prime 3: Corruption",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -26510,7 +26510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26547,7 +26547,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Ghost Recon: Advanced Warfighter 2...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -26566,7 +26566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26603,10 +26603,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -26622,7 +26622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26659,14 +26659,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ratchet & Clank Future: Tools of Destruction",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -26678,7 +26678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26715,7 +26715,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Star Wars: The Complete Saga",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -26734,7 +26734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26771,14 +26771,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rayman Raving Rabbids 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -26790,7 +26790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26827,14 +26827,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K8 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -26846,7 +26846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26886,13 +26886,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -26939,7 +26939,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: ProStreet",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -26958,7 +26958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -26995,16 +26995,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blazing Angels: Squadrons of WWII",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -27014,7 +27014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27053,14 +27053,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -27070,7 +27070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27107,16 +27107,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "EA Playground",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -27126,7 +27126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27163,7 +27163,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Major League Baseball 2K7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -27182,7 +27182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27219,14 +27219,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Resident Evil: The Umbrella Chronicles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom,Nintendo",
       "Sequel?": true
     },
@@ -27238,7 +27238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27275,7 +27275,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA Football 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -27294,7 +27294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27333,14 +27333,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -27350,7 +27350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27390,11 +27390,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -27406,7 +27406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27443,14 +27443,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WWE Smackdown vs. Raw 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -27462,7 +27462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27502,7 +27502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -27518,7 +27518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27555,7 +27555,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Live 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -27574,7 +27574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27614,13 +27614,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -27630,7 +27630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27667,14 +27667,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ace Combat 6: Fires of Liberation",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -27686,7 +27686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27723,16 +27723,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Heavenly Sword",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -27742,7 +27742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27779,16 +27779,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ninja Gaiden Sigma",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 88,
@@ -27835,16 +27835,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ben 10: Protector of the Earth",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -27854,7 +27854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27891,16 +27891,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Simpsons Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -27910,7 +27910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -27949,14 +27949,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Educational,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -27966,7 +27966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28005,12 +28005,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -28022,7 +28022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28059,7 +28059,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -28078,7 +28078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28115,7 +28115,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's Proving Ground",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -28134,7 +28134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28173,12 +28173,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -28190,7 +28190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28227,16 +28227,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Transformers: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -28246,7 +28246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28283,7 +28283,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -28302,7 +28302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28346,7 +28346,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -28358,7 +28358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28395,10 +28395,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -28414,7 +28414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28451,7 +28451,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Rainbow Six: Vegas",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -28470,7 +28470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28507,10 +28507,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: ProStreet",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -28526,7 +28526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28563,14 +28563,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA LIVE 08 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -28582,7 +28582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28619,9 +28619,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dance Dance Revolution Universe 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -28638,7 +28638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28675,7 +28675,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MX vs. ATV Untamed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -28694,7 +28694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28733,12 +28733,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -28787,14 +28787,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Street Homecourt",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -28806,7 +28806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28843,16 +28843,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Simpsons Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -28862,7 +28862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28899,16 +28899,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Winter Sports: The Ultimate Challenge",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -28918,7 +28918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -28962,7 +28962,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -28974,7 +28974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29011,10 +29011,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 07",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -29030,7 +29030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29069,14 +29069,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -29086,7 +29086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29125,12 +29125,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -29142,7 +29142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29179,16 +29179,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Boogie",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -29198,7 +29198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29235,14 +29235,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Medal of Honor: Airborne",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -29254,7 +29254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29291,14 +29291,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Sims 2: Castaway",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -29310,7 +29310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29347,10 +29347,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -29366,7 +29366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29403,16 +29403,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lost Odyssey",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -29422,7 +29422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29462,13 +29462,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -29478,7 +29478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29518,7 +29518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -29534,7 +29534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29573,12 +29573,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -29627,16 +29627,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Endless Ocean",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -29646,7 +29646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29683,10 +29683,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SingStar",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
@@ -29702,7 +29702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29739,16 +29739,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ratatouille",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -29758,7 +29758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29795,14 +29795,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Sims 2: Pets",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -29814,7 +29814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29851,16 +29851,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Two Worlds",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -29870,7 +29870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29907,14 +29907,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Crash of the Titans",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -29926,7 +29926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -29963,10 +29963,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic the Hedgehog",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -29982,7 +29982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30021,12 +30021,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -30038,7 +30038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30075,10 +30075,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic the Hedgehog",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -30094,7 +30094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30131,10 +30131,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harry Potter and the Order of the Phoenix",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -30150,7 +30150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30187,16 +30187,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Nicktoons: Attack of the Toybots",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -30206,7 +30206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30243,14 +30243,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "WWE Smackdown vs. Raw 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -30262,7 +30262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30299,7 +30299,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Simpsons Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -30308,7 +30308,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -30318,7 +30318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30355,7 +30355,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "DiRT",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -30364,7 +30364,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -30374,7 +30374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30411,16 +30411,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kane & Lynch: Dead Men",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -30430,7 +30430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30469,14 +30469,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Educational,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -30486,7 +30486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30525,12 +30525,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -30542,7 +30542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30579,16 +30579,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shadowrun",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -30635,14 +30635,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Thrillville: Off the Rails",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -30654,7 +30654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30691,7 +30691,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's Proving Ground",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -30710,7 +30710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30749,14 +30749,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Educational",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -30766,7 +30766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30805,14 +30805,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 88,
@@ -30822,7 +30822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30859,16 +30859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The BIGS",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -30878,7 +30878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30915,7 +30915,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA Football 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -30934,7 +30934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -30973,12 +30973,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -30990,7 +30990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31027,16 +31027,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Beowulf: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -31046,7 +31046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31083,7 +31083,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Darkness",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -31092,7 +31092,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -31102,7 +31102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31139,7 +31139,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Ghost Recon: Advanced Warfighter 2...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -31158,7 +31158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31197,14 +31197,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -31251,16 +31251,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lair",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -31270,7 +31270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31307,16 +31307,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Transformers: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -31326,7 +31326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31363,14 +31363,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Command & Conquer 3: Tiberium Wars",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -31382,7 +31382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31419,16 +31419,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Overlord",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -31438,7 +31438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31478,13 +31478,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -31494,7 +31494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31531,14 +31531,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Medal of Honor: Heroes 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -31550,7 +31550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31587,7 +31587,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MX vs. ATV Untamed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -31606,7 +31606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31643,14 +31643,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Time Crisis 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -31662,7 +31662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31699,14 +31699,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dragon Ball Z: Budokai Tenkaichi 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
       "Sequel?": true
     },
@@ -31718,7 +31718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31757,12 +31757,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -31774,7 +31774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31813,12 +31813,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -31830,7 +31830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31867,14 +31867,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Unreal Tournament III",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -31886,7 +31886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31923,16 +31923,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bee Movie Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -31942,7 +31942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -31979,7 +31979,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Def Jam: Icon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -31998,7 +31998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32035,16 +32035,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Transformers: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -32054,7 +32054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32091,16 +32091,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TimeShift",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -32110,7 +32110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32147,14 +32147,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SSX Blur",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -32166,7 +32166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32205,8 +32205,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -32222,7 +32222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32262,13 +32262,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -32278,7 +32278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32317,12 +32317,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -32371,16 +32371,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Eye of Judgment",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -32390,7 +32390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32427,7 +32427,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MLB 07: The Show",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -32446,7 +32446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32483,14 +32483,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Virtua Fighter 5",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -32502,7 +32502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32539,14 +32539,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NiGHTS: Journey of Dreams",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -32558,7 +32558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32598,13 +32598,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -32614,7 +32614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32654,7 +32654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -32670,7 +32670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32707,16 +32707,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kane & Lynch: Dead Men",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -32726,7 +32726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32763,14 +32763,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Crash of the Titans",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -32782,7 +32782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32822,7 +32822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -32838,7 +32838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32877,14 +32877,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -32933,12 +32933,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -32950,7 +32950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -32987,16 +32987,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "No More Heroes",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -33006,7 +33006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33043,14 +33043,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "BlackSite: Area 51",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -33062,7 +33062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33099,10 +33099,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shrek the Third",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -33118,7 +33118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33158,7 +33158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
@@ -33174,7 +33174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33214,13 +33214,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -33230,7 +33230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33270,7 +33270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -33286,7 +33286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33323,16 +33323,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TMNT",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -33342,7 +33342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33379,10 +33379,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man: Friend or Foe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -33398,7 +33398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33437,12 +33437,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -33454,7 +33454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33493,12 +33493,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -33510,7 +33510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33550,7 +33550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -33566,7 +33566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33605,7 +33605,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -33622,7 +33622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33659,10 +33659,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -33678,7 +33678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33715,16 +33715,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Golden Compass",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 41,
@@ -33734,7 +33734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33771,14 +33771,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Stuntman: Ignition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -33790,7 +33790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33827,16 +33827,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Chicken Shoot",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 27,
@@ -33846,7 +33846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33883,10 +33883,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shrek the Third",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -33902,7 +33902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33941,14 +33941,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -33958,7 +33958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -33997,12 +33997,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -34053,14 +34053,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -34070,7 +34070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34107,14 +34107,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fire Emblem: Radiant Dawn",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -34126,7 +34126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34163,16 +34163,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Golden Compass",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 35,
@@ -34182,7 +34182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34219,14 +34219,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Manhunt 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
       "Sequel?": true
     },
@@ -34238,7 +34238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34275,7 +34275,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NASCAR 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -34294,7 +34294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34331,10 +34331,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Virtua Tennis 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -34350,7 +34350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34387,7 +34387,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "All-Pro Football 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -34406,7 +34406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34443,7 +34443,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Major League Baseball 2K7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -34462,7 +34462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34508,7 +34508,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Rockstar",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -34518,7 +34518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34558,13 +34558,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -34574,7 +34574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34611,10 +34611,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tony Hawk's Proving Ground",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -34630,7 +34630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34667,14 +34667,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Juiced 2: Hot Import Nights",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -34686,7 +34686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34726,7 +34726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -34742,7 +34742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34782,13 +34782,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -34798,7 +34798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34837,12 +34837,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -34854,7 +34854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34891,10 +34891,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -34910,7 +34910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -34947,16 +34947,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ratatouille",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -34966,7 +34966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35003,16 +35003,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Trauma Center: New Blood",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -35022,7 +35022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35061,14 +35061,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -35078,7 +35078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35117,12 +35117,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -35134,7 +35134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35174,11 +35174,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -35190,7 +35190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35227,10 +35227,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harry Potter and the Order of the Phoenix",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -35246,7 +35246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35283,14 +35283,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 08 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -35302,7 +35302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35341,12 +35341,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -35358,7 +35358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35397,8 +35397,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -35414,7 +35414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35453,14 +35453,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -35470,7 +35470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35507,14 +35507,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "BWii: Battalion Wars 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -35526,7 +35526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35563,16 +35563,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battlestations: Midway",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -35582,7 +35582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35621,8 +35621,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
@@ -35638,7 +35638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35677,12 +35677,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -35694,7 +35694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35731,7 +35731,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Darkness",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -35740,7 +35740,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -35750,7 +35750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35787,14 +35787,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Donkey Kong Barrel Blast",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -35806,7 +35806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35843,7 +35843,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The BIGS",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -35852,7 +35852,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -35862,7 +35862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35899,14 +35899,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Armored Core 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -35918,7 +35918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -35957,14 +35957,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -35974,7 +35974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36014,13 +36014,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -36030,7 +36030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36067,7 +36067,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Splinter Cell: Double Agent",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -36086,7 +36086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36123,16 +36123,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Looney Tunes: Acme Arsenal",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 27,
@@ -36142,7 +36142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36179,16 +36179,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Zack & Wiki: Quest for Barbaros' Treasure",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -36198,7 +36198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36235,16 +36235,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Monster Jam",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -36254,7 +36254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36291,14 +36291,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Virtua Fighter 5",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -36310,7 +36310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36349,14 +36349,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -36366,7 +36366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36403,16 +36403,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Enchanted Arms",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -36422,7 +36422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36459,16 +36459,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "F.E.A.R.: First Encounter Assault Recon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -36478,7 +36478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36515,16 +36515,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Folklore",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -36534,7 +36534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36571,14 +36571,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Juiced 2: Hot Import Nights",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -36590,7 +36590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36627,14 +36627,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Elder Scrolls IV: Shivering Isles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -36646,7 +36646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36683,7 +36683,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -36702,7 +36702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36739,9 +36739,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA 07 March Madness",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -36758,7 +36758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36795,14 +36795,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rayman Raving Rabbids",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -36814,7 +36814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36851,14 +36851,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Viva Pi$?ata: Party Animals",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -36870,7 +36870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36907,16 +36907,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Warriors Orochi",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -36926,7 +36926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -36965,14 +36965,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -36982,7 +36982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37021,14 +37021,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -37038,7 +37038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37075,10 +37075,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harry Potter and the Order of the Phoenix",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -37094,7 +37094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37131,7 +37131,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "College Hoops 2K7",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
       "Multiplatform?": true,
       "Online?": true
@@ -37150,7 +37150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37187,16 +37187,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The BIGS",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -37206,7 +37206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37243,14 +37243,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Stuntman: Ignition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -37262,7 +37262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37299,10 +37299,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mortal Kombat: Armageddon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
@@ -37318,7 +37318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37355,7 +37355,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Def Jam: Icon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -37374,7 +37374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37411,14 +37411,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Soulcalibur Legends",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -37430,7 +37430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37467,16 +37467,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Surf's Up",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -37486,7 +37486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37525,14 +37525,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 86,
@@ -37542,7 +37542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37579,7 +37579,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "DiRT",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -37588,7 +37588,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -37598,7 +37598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37635,16 +37635,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TMNT",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -37654,7 +37654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37691,14 +37691,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Soldier of Fortune: Payback",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -37710,7 +37710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37747,10 +37747,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dynasty Warriors: Gundam",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -37766,7 +37766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37803,10 +37803,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Disney Pirates of the Caribbean: At World's End",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -37822,7 +37822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37859,16 +37859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bee Movie Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -37878,7 +37878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37915,10 +37915,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dynasty Warriors: Gundam",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -37934,7 +37934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -37971,16 +37971,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Golden Axe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 45,
@@ -38029,14 +38029,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -38046,7 +38046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38085,14 +38085,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -38102,7 +38102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38141,14 +38141,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -38195,7 +38195,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NASCAR 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -38214,7 +38214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38251,14 +38251,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dragon Quest Swords: The Masked Queen and the T...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -38270,7 +38270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38307,16 +38307,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Juarez",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -38326,7 +38326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38363,10 +38363,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "College Hoops 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -38382,7 +38382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38419,16 +38419,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Eternal Sonata",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -38438,7 +38438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38475,14 +38475,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kingdom Under Fire: Circle of Doom",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -38494,7 +38494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38531,16 +38531,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Vampire Rain",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 38,
@@ -38550,7 +38550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38587,7 +38587,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "All-Pro Football 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
       "Multiplatform?": true,
       "Online?": true
@@ -38606,7 +38606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38643,16 +38643,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mercury Meltdown",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -38662,7 +38662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38699,16 +38699,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Conan",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -38718,7 +38718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38755,10 +38755,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Godzilla: Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -38774,7 +38774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38811,10 +38811,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Live 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -38830,7 +38830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38867,16 +38867,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Conan",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -38886,7 +38886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38923,10 +38923,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man: Friend or Foe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -38942,7 +38942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -38979,7 +38979,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "College Hoops 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -38998,7 +38998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39035,9 +39035,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -39054,7 +39054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39091,14 +39091,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Thrillville: Off the Rails",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -39110,7 +39110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39150,13 +39150,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -39206,13 +39206,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -39222,7 +39222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39261,14 +39261,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -39278,7 +39278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39318,13 +39318,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -39334,7 +39334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39371,16 +39371,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Beowulf: The Game",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -39390,7 +39390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39427,16 +39427,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Golden Compass",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 40,
@@ -39446,7 +39446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39483,16 +39483,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Scarface: The World is Yours",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -39502,7 +39502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39539,10 +39539,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hot Wheels: Beat That!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
@@ -39558,7 +39558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39595,14 +39595,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K8 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -39614,7 +39614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39651,14 +39651,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Street Homecourt",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -39670,7 +39670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39707,16 +39707,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Geometry Wars: Galaxies",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -39770,7 +39770,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -39782,7 +39782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39822,7 +39822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -39838,7 +39838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39878,7 +39878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -39894,7 +39894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39934,11 +39934,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -39950,7 +39950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -39996,7 +39996,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -40006,7 +40006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40045,14 +40045,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -40062,7 +40062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40101,12 +40101,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -40118,7 +40118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40155,16 +40155,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TimeShift",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -40174,7 +40174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40211,16 +40211,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Star Trek: Conquest",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -40230,7 +40230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40267,14 +40267,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Beautiful Katamari",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -40286,7 +40286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40323,16 +40323,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hour of Victory",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 37,
@@ -40342,7 +40342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40379,10 +40379,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fantastic Four: Rise of the Silver Surfer",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -40398,7 +40398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40435,14 +40435,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SEGA Rally Revo",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -40454,7 +40454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40494,13 +40494,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -40510,7 +40510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40549,14 +40549,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -40566,7 +40566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40605,12 +40605,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -40622,7 +40622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40661,14 +40661,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -40678,7 +40678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40717,14 +40717,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -40774,13 +40774,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 28,
@@ -40790,7 +40790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40846,7 +40846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40883,16 +40883,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bladestorm: The Hundred Years' War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -40902,7 +40902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40939,16 +40939,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Surf's Up",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -40958,7 +40958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -40995,14 +40995,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blazing Angels 2: Secret Missions of WWII",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -41014,7 +41014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41053,14 +41053,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 46,
@@ -41070,7 +41070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41109,14 +41109,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 39,
@@ -41166,7 +41166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -41182,7 +41182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41219,16 +41219,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ratatouille",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -41238,7 +41238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41275,14 +41275,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Soldier of Fortune: Payback",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -41294,7 +41294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41331,16 +41331,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Heatseeker",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -41350,7 +41350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41387,7 +41387,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K8",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -41406,7 +41406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41443,10 +41443,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA March Madness 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -41462,7 +41462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41499,10 +41499,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fantastic Four: Rise of the Silver Surfer",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -41518,7 +41518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41555,16 +41555,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Monster Madness: Battle for Suburbia",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -41574,7 +41574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41611,14 +41611,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pro Evolution Soccer 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -41630,7 +41630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41667,14 +41667,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blazing Angels 2: Secret Missions of WWII",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -41686,7 +41686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41725,14 +41725,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -41742,7 +41742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41781,14 +41781,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Adventure,Simulation,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -41798,7 +41798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41837,12 +41837,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -41854,7 +41854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41894,13 +41894,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -41910,7 +41910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -41949,14 +41949,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -41966,7 +41966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42005,14 +42005,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -42022,7 +42022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42062,13 +42062,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -42078,7 +42078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42118,11 +42118,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -42134,7 +42134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42174,7 +42174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -42190,7 +42190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42234,7 +42234,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -42246,7 +42246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42283,10 +42283,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Victorious Boxers: Revolution",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation,Sports",
@@ -42302,7 +42302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42339,16 +42339,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bladestorm: The Hundred Years' War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -42358,7 +42358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42395,16 +42395,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Looney Tunes: Acme Arsenal",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 40,
@@ -42414,7 +42414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42451,14 +42451,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SEGA Rally Revo",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -42470,7 +42470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42509,12 +42509,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -42526,7 +42526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42565,14 +42565,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -42582,7 +42582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42626,7 +42626,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -42638,7 +42638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42682,7 +42682,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -42694,7 +42694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42731,14 +42731,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "BlackSite: Area 51",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -42750,7 +42750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42787,16 +42787,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Code Lyoko: Quest for Infinity",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -42806,7 +42806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42843,14 +42843,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Swing Golf Season 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -42862,7 +42862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42899,14 +42899,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "FlatOut: Ultimate Carnage",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -42918,7 +42918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -42955,16 +42955,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Zoids Assault",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 46,
@@ -42974,7 +42974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43011,16 +43011,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Alien Syndrome",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 48,
@@ -43067,14 +43067,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tetris Evolution",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -43086,7 +43086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43125,12 +43125,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -43142,7 +43142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43181,14 +43181,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -43237,12 +43237,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -43254,7 +43254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43291,16 +43291,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "King of Clubs",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 35,
@@ -43310,7 +43310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43347,14 +43347,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "F.E.A.R. Files",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -43366,7 +43366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43405,14 +43405,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -43422,7 +43422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43461,14 +43461,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -43517,12 +43517,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -43574,13 +43574,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -43590,7 +43590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43630,11 +43630,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -43646,7 +43646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43685,12 +43685,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -43702,7 +43702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43739,14 +43739,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Medal of Honor: Vanguard",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -43758,7 +43758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43795,10 +43795,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "World Series of Poker 2008: Battle for the Brac...",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
@@ -43814,7 +43814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43851,14 +43851,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pro Evolution Soccer 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -43870,7 +43870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43914,7 +43914,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -43926,7 +43926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -43963,16 +43963,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Surf's Up",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -43982,7 +43982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44019,10 +44019,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fantastic Four: Rise of the Silver Surfer",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -44038,7 +44038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44077,14 +44077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -44094,7 +44094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44133,14 +44133,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -44190,7 +44190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -44206,7 +44206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44245,14 +44245,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -44262,7 +44262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44302,13 +44302,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -44318,7 +44318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44358,11 +44358,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
       "Sequel?": true
     },
@@ -44374,7 +44374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44413,14 +44413,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -44430,7 +44430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44467,14 +44467,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Anubis II",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -44486,7 +44486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44523,16 +44523,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Barnyard",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -44542,7 +44542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44579,16 +44579,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Escape from Bug Island",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 37,
@@ -44598,7 +44598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44635,16 +44635,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Octomania",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -44654,7 +44654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44691,10 +44691,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Cabela's Big Game Hunter",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Sports",
@@ -44710,7 +44710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44747,7 +44747,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "UEFA Champions League 2006-2007",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -44756,7 +44756,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -44766,7 +44766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44805,7 +44805,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -44822,7 +44822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44861,7 +44861,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -44878,7 +44878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44915,14 +44915,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guilty Gear XX ? Core",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -44934,7 +44934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -44973,14 +44973,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -45029,14 +45029,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -45046,7 +45046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45085,12 +45085,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -45102,7 +45102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45141,14 +45141,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -45158,7 +45158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45197,14 +45197,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -45214,7 +45214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45253,14 +45253,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -45270,7 +45270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45309,14 +45309,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -45326,7 +45326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45365,12 +45365,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -45382,7 +45382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45426,7 +45426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -45438,7 +45438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45475,16 +45475,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bionicle Heroes",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -45494,7 +45494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45538,7 +45538,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -45550,7 +45550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45587,16 +45587,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Samurai Warriors 2: Empires",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -45606,7 +45606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45645,8 +45645,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
@@ -45662,7 +45662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45701,14 +45701,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 39,
@@ -45718,7 +45718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45757,14 +45757,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -45774,7 +45774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45813,14 +45813,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -45830,7 +45830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45869,14 +45869,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -45886,7 +45886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45925,12 +45925,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -45942,7 +45942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -45982,7 +45982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -45998,7 +45998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46035,7 +46035,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Virtua Tennis 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -46054,7 +46054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46093,14 +46093,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -46110,7 +46110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46149,12 +46149,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -46166,7 +46166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46205,14 +46205,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -46222,7 +46222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46261,14 +46261,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Educational",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -46278,7 +46278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46317,12 +46317,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -46334,7 +46334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46373,14 +46373,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -46434,9 +46434,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 84,
@@ -46446,7 +46446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46486,7 +46486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -46502,7 +46502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46558,7 +46558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46595,14 +46595,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Driver: Parallel Lines",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -46614,7 +46614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2007
     },
     "Length": {
@@ -46651,14 +46651,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mario Kart Wii",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -46670,7 +46670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46707,14 +46707,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Grand Theft Auto IV",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
       "Sequel?": true
     },
@@ -46726,7 +46726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46763,14 +46763,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Super Smash Bros.: Brawl",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 6,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -46782,7 +46782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46819,14 +46819,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty: World at War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -46838,7 +46838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46875,14 +46875,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Grand Theft Auto IV",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
       "Sequel?": true
     },
@@ -46894,7 +46894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46931,14 +46931,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Gears of War 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -46950,7 +46950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -46989,12 +46989,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -47006,7 +47006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47043,14 +47043,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Metal Gear Solid 4: Guns of the Patriots",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -47062,7 +47062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47099,14 +47099,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fable II",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -47118,7 +47118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47155,14 +47155,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty: World at War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -47174,7 +47174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47211,14 +47211,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: World Tour",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -47230,7 +47230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47267,16 +47267,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LittleBigPlanet",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 95,
@@ -47286,7 +47286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47323,14 +47323,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fallout 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -47342,7 +47342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47379,16 +47379,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Indiana Jones: The Original Adventures",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -47398,7 +47398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47435,16 +47435,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Left 4 Dead",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 89,
@@ -47454,7 +47454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47491,7 +47491,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -47510,7 +47510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47549,12 +47549,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -47566,7 +47566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47603,16 +47603,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kung Fu Panda",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -47622,7 +47622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47659,14 +47659,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rock Band 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -47678,7 +47678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47715,16 +47715,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sega Superstars Tennis",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -47734,7 +47734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47771,14 +47771,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: World Tour",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -47790,7 +47790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47827,14 +47827,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Animal Crossing: City Folk",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -47846,7 +47846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47892,7 +47892,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Sports",
       "Licensed?": true,
       "Publishers": "Nintendo,Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -47902,7 +47902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47939,7 +47939,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madden NFL 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -47958,7 +47958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -47995,16 +47995,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Batman: The Videogame",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -48014,7 +48014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48051,7 +48051,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Rainbow Six: Vegas 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -48070,7 +48070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48109,12 +48109,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -48126,7 +48126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48163,16 +48163,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Star Wars: The Force Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -48182,7 +48182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48221,12 +48221,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -48238,7 +48238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48275,14 +48275,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fallout 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -48294,7 +48294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48331,16 +48331,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pure",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Disney",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -48350,7 +48350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48387,16 +48387,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Indiana Jones: The Original Adventures",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -48406,7 +48406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48443,16 +48443,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rock Band",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 92,
@@ -48462,7 +48462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48502,13 +48502,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -48518,7 +48518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48555,14 +48555,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Saints Row 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -48574,7 +48574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48611,16 +48611,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Batman: The Videogame",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -48630,7 +48630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48667,14 +48667,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Call of Duty: World at War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -48686,7 +48686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48723,7 +48723,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Midnight Club: Los Angeles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -48742,7 +48742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48779,7 +48779,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mortal Kombat vs. DC Universe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -48798,7 +48798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48835,16 +48835,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Army of Two",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -48854,7 +48854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48891,14 +48891,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Resistance 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -48910,7 +48910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -48947,14 +48947,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rock Band 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -48966,7 +48966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49003,10 +49003,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Midnight Club: Los Angeles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -49022,7 +49022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49059,14 +49059,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -49078,7 +49078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49115,14 +49115,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K9 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -49134,7 +49134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49171,14 +49171,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: World Tour",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -49190,7 +49190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49227,14 +49227,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: Aerosmith",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -49246,7 +49246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49283,16 +49283,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Star Wars: The Force Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -49302,7 +49302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49339,14 +49339,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Burnout Paradise",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -49358,7 +49358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49397,12 +49397,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -49414,7 +49414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49451,10 +49451,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mortal Kombat vs. DC Universe",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -49470,7 +49470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49507,16 +49507,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dead Space",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 88,
@@ -49526,7 +49526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49563,10 +49563,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shaun White Snowboarding: Road Trip",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -49582,7 +49582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49619,16 +49619,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Star Wars: The Force Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -49638,7 +49638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49675,14 +49675,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: Aerosmith",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -49694,7 +49694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49731,14 +49731,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SOCOM: U.S. Navy SEALs - Confrontation",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -49750,7 +49750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49787,14 +49787,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SoulCalibur IV",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -49806,7 +49806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49843,14 +49843,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battlefield: Bad Company",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -49862,7 +49862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49899,14 +49899,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Saints Row 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -49918,7 +49918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -49957,12 +49957,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -49974,7 +49974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50011,14 +50011,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Devil May Cry 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -50030,7 +50030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50069,14 +50069,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -50086,7 +50086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50123,16 +50123,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battlefield: Bad Company",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 84,
@@ -50142,7 +50142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50179,16 +50179,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Army of Two",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -50198,7 +50198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50235,14 +50235,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Rayman Raving Rabbids TV Party",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -50254,7 +50254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50291,14 +50291,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The House of the Dead 2 & 3 Return",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -50347,14 +50347,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Far Cry 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -50366,7 +50366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50403,16 +50403,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Boom Blox",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -50422,7 +50422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50461,14 +50461,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -50478,7 +50478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50534,7 +50534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50571,7 +50571,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA Football 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -50590,7 +50590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50627,7 +50627,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MLB 08: The Show",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -50646,7 +50646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50683,7 +50683,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's Rainbow Six: Vegas 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -50702,7 +50702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50739,14 +50739,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mercenaries 2: World in Flames",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -50758,7 +50758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50795,7 +50795,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Undercover",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -50814,7 +50814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50851,14 +50851,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Guitar Hero: Aerosmith",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
       "Sequel?": true
     },
@@ -50870,7 +50870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50907,14 +50907,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SoulCalibur IV",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco,Ubisoft",
       "Sequel?": true
     },
@@ -50926,7 +50926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -50963,16 +50963,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Valkyria Chronicles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 86,
@@ -50982,7 +50982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51019,14 +51019,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harvest Moon: Tree of Tranquility",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -51038,7 +51038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51077,12 +51077,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -51094,7 +51094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51131,7 +51131,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Undercover",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -51150,7 +51150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51187,14 +51187,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wario Land: Shake It!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -51206,7 +51206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51243,7 +51243,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 2K9",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -51262,7 +51262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51299,10 +51299,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Major League Baseball 2K9",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -51318,7 +51318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51355,7 +51355,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NCAA Football 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -51374,7 +51374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51414,13 +51414,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -51430,7 +51430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51467,14 +51467,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Devil May Cry 4",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -51486,7 +51486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51523,7 +51523,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's EndWar",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -51532,7 +51532,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -51542,7 +51542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51582,13 +51582,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -51598,7 +51598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51635,16 +51635,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "BioShock",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 94,
@@ -51654,7 +51654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51691,16 +51691,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bully: Scholarship Edition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -51747,14 +51747,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Prince of Persia",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -51803,16 +51803,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kung Fu Panda",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -51822,7 +51822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51861,12 +51861,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -51878,7 +51878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -51917,14 +51917,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 92,
@@ -51971,14 +51971,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tomb Raider: Underworld",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -51990,7 +51990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52027,16 +52027,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "skate it",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -52046,7 +52046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52085,14 +52085,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -52102,7 +52102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52139,16 +52139,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mirror's Edge",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -52158,7 +52158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52195,16 +52195,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Haze",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -52214,7 +52214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52253,14 +52253,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -52270,7 +52270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52307,14 +52307,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sid Meier's Civilization: Revolution",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -52326,7 +52326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52363,16 +52363,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wall-E",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -52382,7 +52382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52419,14 +52419,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Prince of Persia",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -52475,14 +52475,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 09 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -52494,7 +52494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52531,14 +52531,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Brothers in Arms: Hell's Highway",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -52550,7 +52550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52587,7 +52587,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shaun White Snowboarding",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -52596,7 +52596,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -52606,7 +52606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52643,7 +52643,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Turok",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -52662,7 +52662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52702,13 +52702,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 44,
@@ -52718,7 +52718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52755,16 +52755,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "De Blob",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -52774,7 +52774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52811,14 +52811,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic Riders: Zero Gravity",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -52830,7 +52830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52869,14 +52869,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -52886,7 +52886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52923,14 +52923,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tomb Raider: Underworld",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -52942,7 +52942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -52981,12 +52981,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -52998,7 +52998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53035,16 +53035,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Batman: The Videogame",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -53054,7 +53054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53091,14 +53091,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Far Cry 2",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -53110,7 +53110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53149,12 +53149,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -53166,7 +53166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53203,14 +53203,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Brothers in Arms: Hell's Highway",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -53222,7 +53222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53259,14 +53259,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -53278,7 +53278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53315,16 +53315,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pinball Hall of Fame: The Williams Collection",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -53334,7 +53334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53371,14 +53371,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sonic Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -53390,7 +53390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53427,16 +53427,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Samba de Amigo",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -53483,16 +53483,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "?kami",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 90,
@@ -53539,16 +53539,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "LEGO Indiana Jones: The Original Adventures",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -53558,7 +53558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53595,14 +53595,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MotorStorm: Pacific Rift",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -53614,7 +53614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53651,7 +53651,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -53670,7 +53670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53707,14 +53707,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SimCity Creator",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -53726,7 +53726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53763,7 +53763,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tiger Woods PGA Tour 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -53782,7 +53782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53822,13 +53822,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -53875,16 +53875,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pure",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Disney",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -53894,7 +53894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53931,7 +53931,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Turok",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -53950,7 +53950,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -53987,14 +53987,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Crash: Mind over Mutant",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -54006,7 +54006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54043,10 +54043,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man: Web of Shadows",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -54062,7 +54062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54099,16 +54099,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Frontlines: Fuel of War",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -54118,7 +54118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54155,7 +54155,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "GRID",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -54164,7 +54164,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -54174,7 +54174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54211,16 +54211,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Too Human",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -54230,7 +54230,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54267,16 +54267,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Speed Racer: The Videogame",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -54286,7 +54286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54326,13 +54326,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -54342,7 +54342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54379,16 +54379,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SEGA Bass Fishing",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -54435,10 +54435,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Chronicles of Narnia: Prince Caspian",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
@@ -54454,7 +54454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54494,13 +54494,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -54510,7 +54510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54549,8 +54549,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
@@ -54566,7 +54566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54606,7 +54606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -54622,7 +54622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54659,16 +54659,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Iron Man",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 42,
@@ -54678,7 +54678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54718,7 +54718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
@@ -54734,7 +54734,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54771,7 +54771,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "GRID",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -54780,7 +54780,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 87,
@@ -54790,7 +54790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54827,10 +54827,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -54846,7 +54846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54883,14 +54883,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Banjo-Kazooie: Nuts & Bolts",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Adventure,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -54902,7 +54902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54939,14 +54939,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hot Shots Golf: Out of Bounds",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -54958,7 +54958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -54997,12 +54997,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -55014,7 +55014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55054,13 +55054,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -55109,14 +55109,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 86,
@@ -55126,7 +55126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55163,16 +55163,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Shaun White Snowboarding",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -55182,7 +55182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55219,16 +55219,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Iron Man",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 44,
@@ -55238,7 +55238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55278,13 +55278,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -55294,7 +55294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55331,16 +55331,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lost Planet: Extreme Condition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -55350,7 +55350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55387,16 +55387,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mirror's Edge",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 79,
@@ -55406,7 +55406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55443,16 +55443,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Incredible Hulk",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 46,
@@ -55462,7 +55462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55499,14 +55499,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Condemned 2: Bloodshot",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -55518,7 +55518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55555,16 +55555,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sega Superstars Tennis",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -55574,7 +55574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55614,13 +55614,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -55630,7 +55630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55669,12 +55669,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -55686,7 +55686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55723,7 +55723,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tom Clancy's EndWar",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -55732,7 +55732,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -55742,7 +55742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55779,16 +55779,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Iron Man",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 45,
@@ -55798,7 +55798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55835,10 +55835,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Need for Speed: Undercover",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -55854,7 +55854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55891,16 +55891,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wall-E",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -55910,7 +55910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -55949,12 +55949,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Disney",
       "Sequel?": true
     },
@@ -55966,7 +55966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56006,7 +56006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Educational",
@@ -56022,7 +56022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56059,14 +56059,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mercenaries 2: World in Flames",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -56078,7 +56078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56115,16 +56115,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Infinite Undiscovery",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -56134,7 +56134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56171,9 +56171,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TNA iMPACT!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -56190,7 +56190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56227,16 +56227,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Enemy Territory: Quake Wars",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -56246,7 +56246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56285,12 +56285,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Nintendo",
       "Sequel?": true
     },
@@ -56302,7 +56302,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56342,13 +56342,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG),Strategy",
       "Licensed?": true,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -56358,7 +56358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56395,14 +56395,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tales of Vesperia",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -56414,7 +56414,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56451,10 +56451,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "SingStar ABBA",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 8,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -56470,7 +56470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56507,7 +56507,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dragon Ball Z: Burst Limit",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -56526,7 +56526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56565,12 +56565,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -56582,7 +56582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56621,12 +56621,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -56638,7 +56638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56677,12 +56677,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Capcom",
       "Sequel?": true
     },
@@ -56694,7 +56694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56731,16 +56731,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Enemy Territory: Quake Wars",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -56750,7 +56750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56787,16 +56787,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Namco Museum: Virtual Arcade",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -56843,7 +56843,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NASCAR 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -56862,7 +56862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56899,16 +56899,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Turning Point: Fall of Liberty",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -56918,7 +56918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -56955,14 +56955,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Summer Athletics 2009",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -56974,7 +56974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57011,14 +57011,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Unreal Tournament III",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -57030,7 +57030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57070,13 +57070,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -57086,7 +57086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57123,16 +57123,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dark Sector",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -57142,7 +57142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57179,16 +57179,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Last Remnant",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -57198,7 +57198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57235,7 +57235,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dragon Ball Z: Burst Limit",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -57254,7 +57254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57291,7 +57291,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NASCAR 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -57310,7 +57310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57347,16 +57347,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Turning Point: Fall of Liberty",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 42,
@@ -57366,7 +57366,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57403,10 +57403,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MX vs. ATV Untamed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving",
@@ -57422,7 +57422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57459,14 +57459,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Crash: Mind over Mutant",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -57478,7 +57478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57515,16 +57515,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Incredible Hulk",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -57534,7 +57534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57571,14 +57571,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Silent Hill: Homecoming",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -57590,7 +57590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57627,7 +57627,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TNA iMPACT!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -57636,7 +57636,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -57646,7 +57646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57683,16 +57683,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Incredible Hulk",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -57702,7 +57702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57739,16 +57739,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Kung Fu Panda",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -57758,7 +57758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57795,16 +57795,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dark Sector",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -57814,7 +57814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57851,14 +57851,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tales of Symphonia: Dawn of the New World",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -57870,7 +57870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57909,12 +57909,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -57926,7 +57926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -57963,10 +57963,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Spider-Man: Web of Shadows",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
@@ -57982,7 +57982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58019,16 +58019,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TV Show King",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -58038,7 +58038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58075,14 +58075,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "AC/DC Live: Rock Band - Track Pack",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58094,7 +58094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58134,7 +58134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
@@ -58150,7 +58150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58189,12 +58189,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -58206,7 +58206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58243,14 +58243,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "AC/DC Live: Rock Band - Track Pack",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58262,7 +58262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58299,14 +58299,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harvest Moon: Magical Melody",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58318,7 +58318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58355,14 +58355,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dynasty Warriors 6",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58374,7 +58374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58411,16 +58411,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Order Up!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -58430,7 +58430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58467,7 +58467,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Ballers: Chosen One",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -58486,7 +58486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58525,12 +58525,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -58542,7 +58542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58581,12 +58581,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -58598,7 +58598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58637,14 +58637,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -58691,16 +58691,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lost: Via Domus",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -58710,7 +58710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58747,14 +58747,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tetris Party",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58766,7 +58766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58803,16 +58803,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bully: Scholarship Edition",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Rockstar",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -58859,16 +58859,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Spiderwick Chronicles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -58878,7 +58878,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58915,14 +58915,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dynasty Warriors 6",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -58934,7 +58934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -58971,16 +58971,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Facebreaker",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -58990,7 +58990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59029,12 +59029,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -59046,7 +59046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59083,14 +59083,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Condemned 2: Bloodshot",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
       "Sequel?": true
     },
@@ -59102,7 +59102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59139,14 +59139,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Silent Hill: Homecoming",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -59158,7 +59158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59195,14 +59195,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Command & Conquer: Red Alert 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -59214,7 +59214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59251,16 +59251,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Viking: Battle for Asgard",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 68,
@@ -59270,7 +59270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59307,9 +59307,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Beijing 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -59326,7 +59326,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59363,16 +59363,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Don King Presents: Prizefighter",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "2K",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -59382,7 +59382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59426,7 +59426,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -59438,7 +59438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59475,16 +59475,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ferrari Challenge Trofeo Pirelli",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -59494,7 +59494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59531,14 +59531,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Command & Conquer 3: Kane's Wrath",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
       "Sequel?": true
     },
@@ -59550,7 +59550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59587,16 +59587,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Lost: Via Domus",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -59606,7 +59606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59643,14 +59643,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K9 ",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "2K",
       "Sequel?": true
     },
@@ -59662,7 +59662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59699,16 +59699,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Eternal Sonata",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -59718,7 +59718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59755,14 +59755,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Viva Pi$?ata: Trouble in Paradise",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Microsoft",
       "Sequel?": true
     },
@@ -59774,7 +59774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59813,12 +59813,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -59830,7 +59830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59867,16 +59867,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Viking: Battle for Asgard",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -59886,7 +59886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59923,16 +59923,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Neopets Puzzle Adventure",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
       "Licensed?": true,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -59942,7 +59942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -59979,16 +59979,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "TNA iMPACT!",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
       "Licensed?": true,
       "Publishers": "Midway",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 43,
@@ -59998,7 +59998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60035,14 +60035,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Tomb Raider: Underworld",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -60054,7 +60054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60091,16 +60091,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Club",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -60110,7 +60110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60147,7 +60147,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Chronicles of Narnia: Prince Caspian",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -60166,7 +60166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60203,10 +60203,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Cabela's Dangerous Hunts 2009",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -60222,7 +60222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60259,16 +60259,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dark Messiah of Might and Magic: Elements",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -60278,7 +60278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60315,16 +60315,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fracture",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -60334,7 +60334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60371,14 +60371,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Bomberman Land",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -60390,7 +60390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60427,16 +60427,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Nitrobike",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Racing / Driving,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -60446,7 +60446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60483,16 +60483,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Culdcept Saga",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -60502,7 +60502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60539,16 +60539,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Facebreaker",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 53,
@@ -60558,7 +60558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60595,10 +60595,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MLB Power Pros 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -60614,7 +60614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60651,16 +60651,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Mushroom Men: The Spore Wars",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -60670,7 +60670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60709,12 +60709,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -60765,14 +60765,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -60782,7 +60782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60821,14 +60821,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -60838,7 +60838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60875,16 +60875,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dokapon Kingdom",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -60894,7 +60894,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -60931,16 +60931,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Alone in the Dark",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -60987,9 +60987,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA 09: The Inside",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -61006,7 +61006,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61043,16 +61043,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Sega Superstars Tennis",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -61062,7 +61062,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61099,7 +61099,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Baja: Edge of Control",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -61108,7 +61108,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 65,
@@ -61118,7 +61118,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61155,14 +61155,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Destroy All Humans! Big Willy Unleashed",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -61174,7 +61174,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61218,9 +61218,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 85,
@@ -61269,14 +61269,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Disney",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -61286,7 +61286,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61323,16 +61323,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Club",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 72,
@@ -61342,7 +61342,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61379,16 +61379,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madagascar: Escape 2 Africa",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -61398,7 +61398,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61435,7 +61435,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NBA Ballers: Chosen One",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -61454,7 +61454,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61491,16 +61491,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Dream Pinball 3D",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -61510,7 +61510,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61547,16 +61547,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Madagascar: Escape 2 Africa",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -61566,7 +61566,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61603,14 +61603,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Pro Evolution Soccer 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -61622,7 +61622,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61661,14 +61661,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -61678,7 +61678,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61717,14 +61717,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -61773,14 +61773,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -61790,7 +61790,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61829,12 +61829,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
       "Sequel?": true
     },
@@ -61846,7 +61846,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61886,13 +61886,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -61902,7 +61902,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61939,16 +61939,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Afrika",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -61958,7 +61958,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -61995,9 +61995,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NFL Head Coach 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -62014,7 +62014,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62051,10 +62051,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K9",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -62070,7 +62070,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62107,10 +62107,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Brothers in Arms: Double Time",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
@@ -62126,7 +62126,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62163,14 +62163,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "ObsCure: The Aftermath",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -62182,7 +62182,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62219,7 +62219,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MotoGP 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
@@ -62238,7 +62238,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62275,9 +62275,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NFL Head Coach 09",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -62294,7 +62294,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62331,16 +62331,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NFL Tour",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -62350,7 +62350,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62406,7 +62406,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62443,7 +62443,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Baja: Edge of Control",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -62452,7 +62452,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Racing / Driving,Simulation,Sports",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 61,
@@ -62462,7 +62462,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62499,7 +62499,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NFL Tour",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -62508,7 +62508,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Genres": "Action,Sports",
       "Licensed?": true,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 45,
@@ -62518,7 +62518,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62555,16 +62555,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Wall-E",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -62574,7 +62574,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62611,16 +62611,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Ninja Reflex",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -62630,7 +62630,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62667,16 +62667,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Conflict: Denied Ops",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -62686,7 +62686,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62723,9 +62723,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Top Spin 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
@@ -62742,7 +62742,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62779,14 +62779,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blitz: The League II",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -62798,7 +62798,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62835,7 +62835,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hellboy: The Science of Evil",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -62854,7 +62854,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62891,16 +62891,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Castlevania Judgment",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 49,
@@ -62910,7 +62910,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -62947,14 +62947,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Death Jr. II: Root of Evil",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
       "Sequel?": true
     },
@@ -62966,7 +62966,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63003,14 +63003,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Raiden IV",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -63022,7 +63022,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63061,12 +63061,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -63078,7 +63078,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63118,13 +63118,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Activision",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 77,
@@ -63134,7 +63134,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63173,12 +63173,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -63190,7 +63190,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63227,16 +63227,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Fracture",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -63246,7 +63246,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63283,16 +63283,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Alone in the Dark",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 39,
@@ -63339,14 +63339,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Final Fantasy Fables: Chocobo's Dungeon",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -63358,7 +63358,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63395,14 +63395,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The King of Fighters Collection: The Orochi Saga",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -63451,14 +63451,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Klonoa: Door to Phantomile",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Namco",
       "Sequel?": true
     },
@@ -63470,7 +63470,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63507,14 +63507,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Samurai Warriors: Katana",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -63526,7 +63526,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63563,16 +63563,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battle of the Bands",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 58,
@@ -63582,7 +63582,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63619,7 +63619,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hellboy: The Science of Evil",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
@@ -63638,7 +63638,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63677,8 +63677,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
@@ -63694,7 +63694,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63734,13 +63734,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -63750,7 +63750,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63789,12 +63789,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -63806,7 +63806,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63843,10 +63843,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Top Spin 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -63862,7 +63862,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63899,7 +63899,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "UEFA Euro 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 7,
       "Multiplatform?": true,
       "Online?": true
@@ -63918,7 +63918,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -63955,16 +63955,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blast Works: Build, Trade, Destroy",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -63974,7 +63974,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64011,7 +64011,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "FIFA Street 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -64030,7 +64030,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64067,14 +64067,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Blitz: The League II",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Midway",
       "Sequel?": true
     },
@@ -64086,7 +64086,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64123,16 +64123,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Space Chimps",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 57,
@@ -64142,7 +64142,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64179,16 +64179,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "The Spiderwick Chronicles",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -64198,7 +64198,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64237,12 +64237,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -64254,7 +64254,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64294,11 +64294,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -64310,7 +64310,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64350,11 +64350,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -64403,16 +64403,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Target: Terror",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 33,
@@ -64422,7 +64422,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64459,16 +64459,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Legendary",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 47,
@@ -64478,7 +64478,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64515,16 +64515,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Universe at War: Earth Assault",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -64534,7 +64534,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64571,14 +64571,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Smash Court Tennis 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Simulation,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
       "Sequel?": true
     },
@@ -64590,7 +64590,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64629,8 +64629,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
@@ -64646,7 +64646,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64685,14 +64685,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 76,
@@ -64702,7 +64702,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64741,14 +64741,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 80,
@@ -64758,7 +64758,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64797,14 +64797,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -64814,7 +64814,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64854,13 +64854,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 82,
@@ -64870,7 +64870,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64910,13 +64910,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -64926,7 +64926,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -64966,13 +64966,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -64982,7 +64982,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65021,14 +65021,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -65038,7 +65038,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65077,14 +65077,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -65094,7 +65094,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65131,10 +65131,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "FIFA Street 3",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -65150,7 +65150,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65187,10 +65187,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "MotoGP 08",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Racing / Driving,Simulation,Sports",
@@ -65206,7 +65206,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65243,16 +65243,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Harvey Birdman: Attorney at Law",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -65262,7 +65262,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65299,16 +65299,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Let's Tap",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Simulation",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sega",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 70,
@@ -65318,7 +65318,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65355,10 +65355,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "NHL 2K9",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Sports",
@@ -65374,7 +65374,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65411,16 +65411,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Conflict: Denied Ops",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -65430,7 +65430,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65467,14 +65467,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Worms: A Space Oddity",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "THQ",
       "Sequel?": true
     },
@@ -65486,7 +65486,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65523,7 +65523,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "UEFA Euro 2008",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
@@ -65542,7 +65542,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65579,14 +65579,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Overlord: Raising Hell",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -65598,7 +65598,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65635,16 +65635,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Battle Fantasia",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -65654,7 +65654,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65693,14 +65693,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 83,
@@ -65710,7 +65710,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65749,14 +65749,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -65766,7 +65766,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65805,14 +65805,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 60,
@@ -65822,7 +65822,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65861,14 +65861,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Sports",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Konami",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 73,
@@ -65917,14 +65917,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 78,
@@ -65934,7 +65934,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -65973,14 +65973,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 59,
@@ -65990,7 +65990,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66029,14 +66029,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure,Racing / Driving",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 66,
@@ -66046,7 +66046,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66085,14 +66085,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG),Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "EA",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 75,
@@ -66102,7 +66102,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66158,7 +66158,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66198,13 +66198,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "Capcom",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -66214,7 +66214,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66254,11 +66254,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Sony",
       "Sequel?": true
     },
@@ -66270,7 +66270,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66310,13 +66310,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 84,
@@ -66363,14 +66363,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Armored Core: For Answer",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -66382,7 +66382,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66419,16 +66419,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Legendary",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Atari",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -66438,7 +66438,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66475,10 +66475,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Agatha Christie: Evil Under the Sun",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
@@ -66494,7 +66494,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66531,16 +66531,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Agatha Christie: And Then There Were None",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
       "Licensed?": true,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -66550,7 +66550,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66587,14 +66587,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Armored Core: For Answer",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -66606,7 +66606,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66645,14 +66645,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 63,
@@ -66662,7 +66662,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66701,14 +66701,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 69,
@@ -66718,7 +66718,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66757,14 +66757,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 54,
@@ -66774,7 +66774,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66813,14 +66813,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 55,
@@ -66830,7 +66830,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66869,12 +66869,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -66886,7 +66886,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66925,14 +66925,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
       "Licensed?": true,
       "Publishers": "Eidos",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -66942,7 +66942,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -66981,12 +66981,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
       "Sequel?": true
     },
@@ -66998,7 +66998,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67054,7 +67054,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67094,13 +67094,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 74,
@@ -67110,7 +67110,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67166,7 +67166,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67203,16 +67203,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Vampire Rain",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 30,
@@ -67222,7 +67222,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67259,16 +67259,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Baroque",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 50,
@@ -67278,7 +67278,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67315,16 +67315,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Supreme Commander",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 56,
@@ -67334,7 +67334,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67371,16 +67371,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hail to the Chimp",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 4,
       "Multiplatform?": true,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 52,
@@ -67390,7 +67390,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "X360",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67430,11 +67430,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "Ubisoft",
       "Sequel?": true
     },
@@ -67446,7 +67446,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67485,12 +67485,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "SquareEnix",
       "Sequel?": true
     },
@@ -67502,7 +67502,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67541,14 +67541,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Role-Playing (RPG)",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 67,
@@ -67558,7 +67558,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67598,13 +67598,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
       "Handheld?": true,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 71,
@@ -67614,7 +67614,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67653,14 +67653,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
+      "Multiplatform?": false,
       "Online?": true
     },
     "Metadata": {
       "Genres": "Action,Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 62,
@@ -67670,7 +67670,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Sony PSP",
       "Rating": "E",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67707,16 +67707,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Hail to the Chimp",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 1,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action,Strategy",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 51,
@@ -67726,7 +67726,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "PlayStation 3",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67763,16 +67763,16 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
   {
     "Title": "Secret Files: Tunguska",
     "Features": {
-      "Handheld?": true,
+      "Handheld?": false,
       "Max Players": 2,
       "Multiplatform?": true,
-      "Online?": true
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Adventure",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 64,
@@ -67782,7 +67782,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo Wii",
       "Rating": "M",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {
@@ -67821,14 +67821,14 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Features": {
       "Handheld?": true,
       "Max Players": 1,
-      "Multiplatform?": true,
-      "Online?": true
+      "Multiplatform?": false,
+      "Online?": false
     },
     "Metadata": {
       "Genres": "Action",
-      "Licensed?": true,
+      "Licensed?": false,
       "Publishers": "",
-      "Sequel?": true
+      "Sequel?": false
     },
     "Metrics": {
       "Review Score": 39,
@@ -67838,7 +67838,7 @@ blockpy._IMPORTED_COMPLETE_DATASETS["video_games"] = Sk.ffi.remapToPy([
     "Release": {
       "Console": "Nintendo DS",
       "Rating": "T",
-      "Re-release?": true,
+      "Re-release?": false,
       "Year": 2008
     },
     "Length": {

@@ -7,11 +7,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3624622,
@@ -27,12 +27,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 111442,
@@ -49,11 +49,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9036,
@@ -70,11 +70,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 67182,
@@ -91,11 +91,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5264,
@@ -112,11 +112,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6641,
@@ -131,13 +131,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 77142,
@@ -154,10 +154,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -174,11 +174,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -196,11 +196,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 50088,
@@ -216,12 +216,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6513,
@@ -236,13 +236,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "E-Trade",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 103433,
@@ -258,12 +258,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1475,
@@ -280,11 +280,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 2801,
@@ -301,10 +301,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -321,10 +321,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -342,11 +342,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -363,11 +363,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -383,12 +383,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -404,13 +404,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 121400,
@@ -426,12 +426,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 63129,
@@ -448,11 +448,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38574,
@@ -468,11 +468,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -490,10 +490,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -511,8 +511,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -532,9 +532,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -552,12 +552,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 13245,
@@ -574,11 +574,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 177285,
@@ -595,11 +595,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 175482,
@@ -614,13 +614,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 18670,
@@ -637,8 +637,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -658,10 +658,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -679,11 +679,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 2732,
@@ -700,11 +700,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3754,
@@ -721,11 +721,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16083,
@@ -741,11 +741,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -763,11 +763,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 27378,
@@ -782,13 +782,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1939823,
@@ -804,12 +804,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 327529,
@@ -826,9 +826,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -847,11 +847,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 112297,
@@ -867,12 +867,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 179695,
@@ -888,10 +888,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -910,11 +910,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 55676,
@@ -930,9 +930,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -952,11 +952,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 561,
@@ -973,10 +973,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -994,11 +994,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5699,
@@ -1015,10 +1015,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1036,8 +1036,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -1056,12 +1056,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16997,
@@ -1078,9 +1078,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1099,9 +1099,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1120,9 +1120,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1141,9 +1141,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1162,11 +1162,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 111,
@@ -1182,11 +1182,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1203,10 +1203,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1225,11 +1225,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 69440,
@@ -1246,10 +1246,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1267,11 +1267,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 120196,
@@ -1288,11 +1288,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 85274,
@@ -1309,11 +1309,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 95355,
@@ -1329,12 +1329,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 142310,
@@ -1351,11 +1351,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 955616,
@@ -1372,10 +1372,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1391,13 +1391,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 286010,
@@ -1412,13 +1412,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 249186,
@@ -1435,10 +1435,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1456,11 +1456,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 72997,
@@ -1477,11 +1477,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 218329,
@@ -1498,11 +1498,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 177497,
@@ -1518,12 +1518,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 97247,
@@ -1540,9 +1540,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -1559,13 +1559,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 48035,
@@ -1580,13 +1580,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 11311,
@@ -1601,13 +1601,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 186,
@@ -1624,11 +1624,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 162,
@@ -1645,10 +1645,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1668,8 +1668,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1687,11 +1687,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 232124,
@@ -1708,11 +1708,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 598260,
@@ -1728,11 +1728,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1749,12 +1749,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 555734,
@@ -1771,11 +1771,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 62538,
@@ -1792,10 +1792,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -1811,13 +1811,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 13312,
@@ -1832,13 +1832,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 110004,
@@ -1857,9 +1857,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 14267,
@@ -1876,11 +1876,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 24595,
@@ -1897,11 +1897,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9335,
@@ -1917,12 +1917,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1452877,
@@ -1939,8 +1939,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -1960,11 +1960,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 373684,
@@ -1979,13 +1979,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 503550,
@@ -2002,11 +2002,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 358142,
@@ -2022,12 +2022,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 129399,
@@ -2042,13 +2042,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 302143,
@@ -2065,11 +2065,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 54079,
@@ -2086,11 +2086,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 45799,
@@ -2108,10 +2108,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 49339,
@@ -2128,11 +2128,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41379,
@@ -2149,10 +2149,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2170,11 +2170,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 20130,
@@ -2189,13 +2189,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1294,
@@ -2210,13 +2210,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7253,
@@ -2233,10 +2233,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2254,11 +2254,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 219464,
@@ -2273,13 +2273,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 176547,
@@ -2294,13 +2294,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 91378,
@@ -2316,12 +2316,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 85454,
@@ -2338,11 +2338,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 34565,
@@ -2359,11 +2359,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 132054,
@@ -2380,9 +2380,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2399,13 +2399,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 68458,
@@ -2422,11 +2422,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 11608,
@@ -2442,11 +2442,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2465,10 +2465,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 42,
@@ -2483,13 +2483,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 113771,
@@ -2506,11 +2506,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 122388,
@@ -2527,10 +2527,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2548,10 +2548,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2568,12 +2568,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 87396,
@@ -2589,12 +2589,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 319,
@@ -2609,13 +2609,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 92,
@@ -2630,13 +2630,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 56,
@@ -2653,11 +2653,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 350,
@@ -2674,11 +2674,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 176373378,
@@ -2693,13 +2693,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 22849816,
@@ -2714,13 +2714,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 582575,
@@ -2735,11 +2735,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2756,13 +2756,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 403641,
@@ -2779,8 +2779,8 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
         "Sexual": true
@@ -2799,11 +2799,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -2819,13 +2819,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 21314,
@@ -2841,12 +2841,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 86928,
@@ -2861,13 +2861,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10925,
@@ -2882,13 +2882,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 15776,
@@ -2904,12 +2904,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 21,
@@ -2926,11 +2926,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1264,
@@ -2945,13 +2945,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10,
@@ -2968,9 +2968,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -2989,11 +2989,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 576696,
@@ -3008,13 +3008,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 246619,
@@ -3031,10 +3031,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3052,11 +3052,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4302,
@@ -3071,13 +3071,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3667,
@@ -3093,10 +3093,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3115,11 +3115,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 394,
@@ -3134,12 +3134,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3156,11 +3156,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3176,13 +3176,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1190,
@@ -3197,12 +3197,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3220,11 +3220,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7952240,
@@ -3239,13 +3239,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 92878,
@@ -3260,11 +3260,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3283,11 +3283,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 25834,
@@ -3302,13 +3302,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 17209,
@@ -3323,13 +3323,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 81183,
@@ -3346,11 +3346,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 10929,
@@ -3366,11 +3366,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3386,13 +3386,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Bud Light",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 9649,
@@ -3409,10 +3409,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3429,12 +3429,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3900,
@@ -3452,10 +3452,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1274288,
@@ -3471,11 +3471,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -3491,13 +3491,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 491630,
@@ -3512,13 +3512,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 48617,
@@ -3533,13 +3533,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 32091,
@@ -3554,13 +3554,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 79,
@@ -3575,13 +3575,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 998,
@@ -3598,11 +3598,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7621,
@@ -3617,13 +3617,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4921309,
@@ -3640,11 +3640,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6428474,
@@ -3661,11 +3661,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1214968,
@@ -3681,12 +3681,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 156718,
@@ -3701,13 +3701,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 40818,
@@ -3723,12 +3723,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 14395,
@@ -3745,9 +3745,9 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
         "Sexual": true
       },
@@ -3765,12 +3765,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Shows Product": false,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 5049,
@@ -3785,13 +3785,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 136,
@@ -3806,13 +3806,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
+        "Celebrity": false,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 28785122,
@@ -3827,13 +3827,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 310443,
@@ -3848,13 +3848,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 865781,
@@ -3870,12 +3870,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 87687,
@@ -3890,13 +3890,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 907,
@@ -3913,11 +3913,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 3464175,
@@ -3932,13 +3932,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 669906,
@@ -3956,10 +3956,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
         "Funny": true,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 353513,
@@ -3976,11 +3976,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 33766,
@@ -3997,11 +3997,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 23327,
@@ -4017,11 +4017,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4039,11 +4039,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41441,
@@ -4058,13 +4058,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 39897,
@@ -4079,13 +4079,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 301,
@@ -4100,13 +4100,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Hynudai",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 198,
@@ -4121,12 +4121,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4142,13 +4142,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 16399,
@@ -4165,11 +4165,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
+        "Patriotic": false,
+        "Celebrity": false,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 7658201,
@@ -4186,11 +4186,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 77720,
@@ -4207,10 +4207,10 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
+        "Danger": false,
+        "Animals": false,
         "Sexual": true
       },
       "Viewership": {
@@ -4226,13 +4226,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Coca-Cola",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
+        "Celebrity": false,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 81952,
@@ -4247,13 +4247,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Doritos",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 41828,
@@ -4270,11 +4270,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 128792,
@@ -4291,11 +4291,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 36683,
@@ -4310,13 +4310,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 6713,
@@ -4331,13 +4331,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Toyota",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 4873,
@@ -4354,11 +4354,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Patriotic": false,
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 125,
@@ -4373,13 +4373,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
-        "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Celebrity": false,
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 518,
@@ -4395,12 +4395,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38968,
@@ -4415,13 +4415,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "NFL",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
+        "Funny": false,
+        "Shows Product": false,
         "Patriotic": true,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 26727063,
@@ -4438,11 +4438,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 1990447,
@@ -4458,12 +4458,12 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Data": {
       "Content": {
         "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 304254,
@@ -4480,11 +4480,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
+        "Danger": false,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 38385,
@@ -4499,13 +4499,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Pepsi",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 29219,
@@ -4522,11 +4522,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 47752,
@@ -4543,11 +4543,11 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
       "Content": {
         "Funny": true,
         "Shows Product": true,
-        "Patriotic": true,
+        "Patriotic": false,
         "Celebrity": true,
         "Danger": true,
         "Animals": true,
-        "Sexual": true
+        "Sexual": false
       },
       "Viewership": {
         "Views": 23636,
@@ -4562,13 +4562,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Kia",
     "Data": {
       "Content": {
-        "Funny": true,
-        "Shows Product": true,
-        "Patriotic": true,
+        "Funny": false,
+        "Shows Product": false,
+        "Patriotic": false,
         "Celebrity": true,
-        "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Danger": false,
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 17892,
@@ -4583,13 +4583,13 @@ blockpy._IMPORTED_COMPLETE_DATASETS["super_bowl_ads"] = Sk.ffi.remapToPy([
     "Brand": "Budweiser",
     "Data": {
       "Content": {
-        "Funny": true,
+        "Funny": false,
         "Shows Product": true,
         "Patriotic": true,
         "Celebrity": true,
         "Danger": true,
-        "Animals": true,
-        "Sexual": true
+        "Animals": false,
+        "Sexual": false
       },
       "Viewership": {
         "Views": 782,

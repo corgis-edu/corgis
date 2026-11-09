@@ -74,35 +74,35 @@ Download the following file:
     <td>Data.Content.Patriotic</td>
     <td>Boolean</td> 
     <td>Patriotic</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>Data.Content.Celebrity</td>
     <td>Boolean</td> 
     <td>Contains celebrity</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>Data.Content.Danger</td>
     <td>Boolean</td> 
     <td>Contains danger</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>Data.Content.Animals</td>
     <td>Boolean</td> 
     <td>Contains animals</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
     <td>Data.Content.Sexual</td>
     <td>Boolean</td> 
     <td>Uses sexuality</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
