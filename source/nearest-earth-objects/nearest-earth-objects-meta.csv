@@ -1,0 +1,25 @@
+Name,Nearest Earth Objects,,,
+Version,1.0.0,,,
+Author,Ben Montimurro,,,
+Created,04/20/2026,,,
+Data File,nearest-earth-objects.csv,,,
+Overview,Details of Asteroids NASA classified as "Nearest Earth Objects",,,
+Data Source,https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024,,,
+Description,'There are many dangerous bodies in space, and one of them are N.E.O.'s - "Nearest Earth Objects". Some of these bodies pose a danger to the planet Earth, which NASA classifies as "hazardous." While 70,000 kilometers does not seem very close to us, it is when talking about somewhere as large as space. By tracking and calculating the trajectory and orbit of these objects, we stay prepared to protect Earth in the event an asteroid is on course to collide with us. Any values of -1 mean data is unknown. As a side note, this dataset was so big that it had to be cut down somehow. To reduce bias, all potentially hazardous asteroids were kept — because those are the most interesting (duh) — while non-hazardous asteroids were sampled evenly across each year, so that no single year dominates the data.',,,
+Tags,"Asteroids, Space, Collisions",,,
+Acknowledgement,,,,
+Row,Asteroids,,,
+Row Explanation,An asteroid that passed by Earth between 1910 and 2024,,,
+Icon,asteroid-icon.png,,,
+Splash,asteroid-icon.png,,,
+Properties,Name,Type,Index,Description
+,Identification.id,int,,Unique Identifier for each Asteroid
+,Identification.Name,string,,Name given by NASA
+,Identification.Year,string,,Year the asteroid was discovered
+,Physical.Absolute Magnitude,float,,Describes intrinsic luminosity
+,Physical.Size.Minimum Estimated Diameter,float,,Minimum estimated diameter (km)
+,Physical.Size.Maximum Estimated Diameter,float,,Maximum estimated diameter (km)
+,Physical.Hazardous,boolean,,Indicates whether the asteroid is harmful or not
+,Approach.Miss Distance,float,,Distance in Kilometres missed
+,Approach.Relative Velocity,float,,Velocity Relative to Earth
+,Orbital.Orbiting Body,string,,Planet that the asteroid orbits

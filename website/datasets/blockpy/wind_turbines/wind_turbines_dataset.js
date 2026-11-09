@@ -639700,7 +639700,7 @@ blockpy._IMPORTED_DATASETS["wind_turbines"] = {
     "type": "Integer",
     "pretty": "Project.Number_Turbines"
   },
-  "Site.Latitude": {
+  "Site.Longitude": {
     "data": [
       -93.518082,
       -93.367798,
@@ -703664,13 +703664,13 @@ blockpy._IMPORTED_DATASETS["wind_turbines"] = {
       -162.551575,
       -162.557327
     ],
-    "name": "Site.Latitude",
-    "comment": "Latitude (decimal degrees - NAD 83 datum) of where turbine is located",
+    "name": "Site.Longitude",
+    "comment": "Longitude (decimal degrees - NAD 83 datum)",
     "index": false,
     "type": "Float",
-    "pretty": "Site.Latitude"
+    "pretty": "Site.Longitude"
   },
-  "Site.Longitude": {
+  "Site.Latitude": {
     "data": [
       42.01363,
       42.49794,
@@ -767634,10 +767634,10 @@ blockpy._IMPORTED_DATASETS["wind_turbines"] = {
       66.837898,
       66.834328
     ],
-    "name": "Site.Longitude",
-    "comment": "Longitude (decimal degrees - NAD 83 datum)",
+    "name": "Site.Latitude",
+    "comment": "Latitude (decimal degrees - NAD 83 datum) of where turbine is located",
     "index": false,
     "type": "Float",
-    "pretty": "Site.Longitude"
+    "pretty": "Site.Latitude"
   }
 };

@@ -108,8 +108,8 @@ var wind_turbines_PROPERTIES = [
     ["Turbine.Total_Height", "Turbine.Total_Height"] ,
     ["Project.Capacity", "Project.Capacity"] ,
     ["Project.Number_Turbines", "Project.Number_Turbines"] ,
-    ["Site.Latitude", "Site.Latitude"] ,
-    ["Site.Longitude", "Site.Longitude"] 
+    ["Site.Longitude", "Site.Longitude"] ,
+    ["Site.Latitude", "Site.Latitude"] 
 ]
 
 Blockly.Blocks['wind_turbines_get'] = {

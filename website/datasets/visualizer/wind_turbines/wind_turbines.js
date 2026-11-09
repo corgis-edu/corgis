@@ -703665,11 +703665,11 @@ VISUALIZER_DATA = [
       -162.551575,
       -162.557327
     ],
-    "name": "Site.Latitude",
-    "comment": "Latitude (decimal degrees - NAD 83 datum) of where turbine is located",
+    "name": "Site.Longitude",
+    "comment": "Longitude (decimal degrees - NAD 83 datum)",
     "index": false,
     "type": "number",
-    "pretty": "Site.Latitude"
+    "pretty": "Site.Longitude"
   },
   {
     "data": [
@@ -767635,10 +767635,10 @@ VISUALIZER_DATA = [
       66.837898,
       66.834328
     ],
-    "name": "Site.Longitude",
-    "comment": "Longitude (decimal degrees - NAD 83 datum)",
+    "name": "Site.Latitude",
+    "comment": "Latitude (decimal degrees - NAD 83 datum) of where turbine is located",
     "index": false,
     "type": "number",
-    "pretty": "Site.Longitude"
+    "pretty": "Site.Latitude"
   }
 ];

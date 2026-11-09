@@ -1,4 +1,4 @@
-"Site.State","Site.County","Year","Turbine.Capacity","Turbine.Hub_Height","Turbine.Rotor_Diameter","Turbine.Swept_Area","Turbine.Total_Height","Project.Capacity","Project.Number_Turbines","Site.Latitude","Site.Longitude"
+"Site.State","Site.County","Year","Turbine.Capacity","Turbine.Hub_Height","Turbine.Rotor_Diameter","Turbine.Swept_Area","Turbine.Total_Height","Project.Capacity","Project.Number_Turbines","Site.Longitude","Site.Latitude"
 "IA","Story County","2017","3000","87.5","125.0","12271.85","150.0","30.0","10","-93.518082","42.01363"
 "IA","Hardin County","2017","3000","87.5","125.0","12271.85","150.0","30.0","10","-93.367798","42.49794"
 "IA","Story County","2017","3000","87.5","125.0","12271.85","150.0","30.0","10","-93.51371","42.019119"

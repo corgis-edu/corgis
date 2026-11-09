@@ -1,7 +1,7 @@
 import os
 import csv
 from typing import *
-from enum import Enum
+from enum import Enum, member
 import codecs
 
 from tools.case_modifiers import snake_case, sluggify
@@ -22,7 +22,7 @@ def get_all_datasets():
 class CorgisType(Enum):
     string = str
     int = int
-    boolean = bool
+    boolean = member(lambda value: value.strip().lower() == "true")
     float = float
     dict = dict
 

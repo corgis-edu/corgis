@@ -53,7 +53,7 @@ var $builtinmodule = function(name)
                 "returns": 
 				{"type": "ListType", "subtype": 
 					{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'Site'}, {"type": "LiteralStr", "value": 'Year'}, {"type": "LiteralStr", "value": 'Turbine'}, {"type": "LiteralStr", "value": 'Project'}], "values": [
-						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'Latitude'}, {"type": "LiteralStr", "value": 'Longitude'}], "values": [
+						{"type": "DictType", "literals": [{"type": "LiteralStr", "value": 'State'}, {"type": "LiteralStr", "value": 'County'}, {"type": "LiteralStr", "value": 'Longitude'}, {"type": "LiteralStr", "value": 'Latitude'}], "values": [
 							{"type": "StrType"}, 
 							{"type": "StrType"}, 
 							{"type": "NumType"}, 

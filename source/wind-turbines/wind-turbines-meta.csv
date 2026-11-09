@@ -23,5 +23,5 @@ Properties,Name,Type,Index,Description
 ,Turbine.Total_Height,float,,"Total height of the turbine, in meters"
 ,Project.Capacity,float,,Electrical generation capacity of the turbine measured in MW (mega-watts)
 ,Project.Number_Turbines,int,,Number of turbines in this project
-,Site.Latitude,float,,Latitude (decimal degrees - NAD 83 datum) of where turbine is located
 ,Site.Longitude,float,,Longitude (decimal degrees - NAD 83 datum)
+,Site.Latitude,float,,Latitude (decimal degrees - NAD 83 datum) of where turbine is located
