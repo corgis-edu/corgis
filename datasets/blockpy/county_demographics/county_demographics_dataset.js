@@ -66108,7 +66108,7 @@ blockpy._IMPORTED_DATASETS["county_demographics"] = {
     "type": "Float",
     "pretty": "Housing.Persons per Household"
   },
-  "Income.Median Houseold Income": {
+  "Income.Median Household Income": {
     "data": [
       38741,
       43396,
@@ -69250,11 +69250,11 @@ blockpy._IMPORTED_DATASETS["county_demographics"] = {
       34459,
       37400
     ],
-    "name": "Income.Median Houseold Income",
+    "name": "Income.Median Household Income",
     "comment": "Median of income in the Past 12 Months collected from 2015 to 2019 - Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household\t whether they are related to the householder or not. Because many households consist of only one person\t average household income is usually less than average family income.",
     "index": false,
     "type": "Integer",
-    "pretty": "Income.Median Houseold Income"
+    "pretty": "Income.Median Household Income"
   },
   "Income.Per Capita Income": {
     "data": [

@@ -5853,7 +5853,7 @@ VISUALIZER_DATA_BARS = [
           "average w/o zero": 2.546666666666667
         }
       },
-      "Income.Median Houseold Income": {
+      "Income.Median Household Income": {
         "SC": {
           "count": 46,
           "sum": 2097983,
