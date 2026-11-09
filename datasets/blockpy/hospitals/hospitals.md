@@ -130,14 +130,14 @@ The data set allows consumers to directly compare across hospitals performance m
 <tr>
     <td>Procedure.Heart Attack.Quality</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks </td>
+    <td>Worse, Average, Better, or Unknown comparison to national quality of care for heart attacks </td>
     <td><code>"Average"</code></td>
 </tr>
 
 <tr>
     <td>Procedure.Heart Attack.Value</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national cost of care for heart attacks </td>
+    <td>Lower, Average, Higher, or Unknown comparison to national cost of care for heart attacks </td>
     <td><code>"Average"</code></td>
 </tr>
 
@@ -151,14 +151,14 @@ The data set allows consumers to directly compare across hospitals performance m
 <tr>
     <td>Procedure.Heart Failure.Quality</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures </td>
+    <td>Worse, Average, Better, or Unknown comparison to national quality of care for heart failures </td>
     <td><code>"Average"</code></td>
 </tr>
 
 <tr>
     <td>Procedure.Heart Failure.Value</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national cost of care for heart failures </td>
+    <td>Lower, Average, Higher, or Unknown comparison to national cost of care for heart failures </td>
     <td><code>"Average"</code></td>
 </tr>
 
@@ -172,14 +172,14 @@ The data set allows consumers to directly compare across hospitals performance m
 <tr>
     <td>Procedure.Pneumonia.Quality</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia </td>
+    <td>Worse, Average, Better, or Unknown comparison to national quality of care for pneumonia </td>
     <td><code>"Average"</code></td>
 </tr>
 
 <tr>
     <td>Procedure.Pneumonia.Value</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national cost of care for pneumonia </td>
+    <td>Lower, Average, Higher, or Unknown comparison to national cost of care for pneumonia </td>
     <td><code>"Average"</code></td>
 </tr>
 
@@ -193,14 +193,14 @@ The data set allows consumers to directly compare across hospitals performance m
 <tr>
     <td>Procedure.Hip Knee.Quality</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions </td>
+    <td>Worse, Average, Better, or Unknown comparison to national quality of care for hip or knee conditions </td>
     <td><code>"Average"</code></td>
 </tr>
 
 <tr>
     <td>Procedure.Hip Knee.Value</td>
     <td>String</td> 
-    <td>Lower, Average, Worse, or Unknown comparison to national cost of care for hip or knee conditions </td>
+    <td>Lower, Average, Higher, or Unknown comparison to national cost of care for hip or knee conditions </td>
     <td><code>"Higher"</code></td>
 </tr>
 

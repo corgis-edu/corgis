@@ -66930,7 +66930,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Heart Attack.Quality",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national quality of care for heart attacks ",
+    "comment": "Worse, Average, Better, or Unknown comparison to national quality of care for heart attacks ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Heart Attack.Quality"
@@ -71711,7 +71711,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Heart Attack.Value",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national cost of care for heart attacks ",
+    "comment": "Lower, Average, Higher, or Unknown comparison to national cost of care for heart attacks ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Heart Attack.Value"
@@ -81273,7 +81273,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Heart Failure.Quality",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national quality of care for heart failures ",
+    "comment": "Worse, Average, Better, or Unknown comparison to national quality of care for heart failures ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Heart Failure.Quality"
@@ -86054,7 +86054,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Heart Failure.Value",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national cost of care for heart failures ",
+    "comment": "Lower, Average, Higher, or Unknown comparison to national cost of care for heart failures ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Heart Failure.Value"
@@ -95616,7 +95616,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Pneumonia.Quality",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national quality of care for pneumonia ",
+    "comment": "Worse, Average, Better, or Unknown comparison to national quality of care for pneumonia ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Pneumonia.Quality"
@@ -100397,7 +100397,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Pneumonia.Value",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national cost of care for pneumonia ",
+    "comment": "Lower, Average, Higher, or Unknown comparison to national cost of care for pneumonia ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Pneumonia.Value"
@@ -109959,7 +109959,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Hip Knee.Quality",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national quality of care for hip or knee conditions ",
+    "comment": "Worse, Average, Better, or Unknown comparison to national quality of care for hip or knee conditions ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Hip Knee.Quality"
@@ -114740,7 +114740,7 @@ VISUALIZER_DATA = [
       "Unknown"
     ],
     "name": "Procedure.Hip Knee.Value",
-    "comment": "Lower, Average, Worse, or Unknown comparison to national cost of care for hip or knee conditions ",
+    "comment": "Lower, Average, Higher, or Unknown comparison to national cost of care for hip or knee conditions ",
     "index": false,
     "type": "string",
     "pretty": "Procedure.Hip Knee.Value"
