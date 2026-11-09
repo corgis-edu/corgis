@@ -88,7 +88,7 @@ Download the following file:
     <td>Physical.Hazardous</td>
     <td>Boolean</td> 
     <td>Indicates whether the asteroid is harmful or not</td>
-    <td><code>True</code></td>
+    <td><code>False</code></td>
 </tr>
 
 <tr>
